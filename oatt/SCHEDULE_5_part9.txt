@@ -1,0 +1,1445 @@
+[SCHEDULE 5 - Part 9 of 10]
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 1 
+Tariff, Part IX, Subpart A 
+ 
+Form of 
+Application and Studies Agreement 
+ 
+1. This Application and Studies Agreement (“Application” or “Agreement”), dated 
+_______, is entered into by and between ______ (Project Developer or Eligible 
+Customer, hereafter “Applicant”) and PJM Interconnection, L.L.C. (“Transmission 
+Provider” or “PJM”) (individually a “Party” and together the “Parties”) pursuant to PJM 
+Interconnection, L.L.C. Open Access Transmission Tariff (“Tariff”), Part VII, Subpart C 
+or Part VIII, Subpart B.  Capitalized terms used in this Application, unless otherwise 
+indicated, shall have the meanings ascribed to them in Tariff, Part VII, Subpart A, section 
+300 or Part VIII, Subpart A, section 400. 
+ 
+2. Prior to the Application Deadline, Applicant must electronically provide to Transmission 
+Provider through the PJM website or OASIS, as applicable, all applicable information 
+identified below, which is then subject to validation during the Application Phase as set 
+forth in Tariff, Part VII, Subpart C or Tariff, Part VIII, Subparts B and C and in the PJM 
+Manuals.  Only valid New Service Requests will proceed past the Application Phase. 
+ 
+3. Before Transmission Provider will review or process the Application, in addition to 
+submitting a completed and signed Application prior to the Application Deadline, 
+Applicant must electronically submit to Transmission Provider prior to the Application 
+Deadline the (i) required cash Study Deposit by wire transfer and (ii) required Readiness 
+Deposit by wire transfer or letter of credit.  Applicant’s wire transfer(s) or letter(s) of 
+credit must specify the Application reference number to which the Study Deposit and 
+Readiness Deposit correspond, or Transmission Provider will not review or process the 
+Application. 
+ 
+SECTION 1: APPLICANT INFORMATION 
+ 
+4. Name, address, telephone number, and e-mail address of Applicant.  If Applicant has 
+designated an agent, include the agent’s contact information. 
+ 
+Applicant 
+Company Name: _________________________________________________ 
+Address: _______________________________________________________ 
+City: _________________________ State: _____________ Zip: ___________ 
+Phone: ________________________ Email: ____________________________ 
+ 
+Applicant’s Agent (if applicable) 
+Company Name: ________________________________________________ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 2 
+Address: _______________________________________________________ 
+City: _________________________ State: _____________ Zip: ___________ 
+Phone: ________________________Email: ___________________________ 
+Agent’s contact person:         
+ 
+5. An Internal Revenue Service Form W-9 or comparable state-issued document for 
+Applicant. 
+ 
+6. Documentation proving the existence of a legally binding relationship between Applicant 
+and any entity with a vested interest in this Application and associated project (e.g., a 
+parent company, a subsidiary, or financing company acting as agent for Applicant).  Such 
+documentation may include, but is not limited to, Applicant’s Articles of Organization 
+and Operating Agreement describing the nature of the legally binding relationship. 
+ 
+7. Applicant’s banking information, or the banking information of any entity with a legally 
+binding relationship to Applicant that wishes to make payments and receive refunds on 
+behalf of Applicant, in association with this Application and corresponding project: 
+ 
+Bank Name:        
+Account Holder Name:      
+ABA number:        
+Account Number:       
+Company:        
+Tax Reporting Name:       
+Tax ID:        
+Address:        
+City:         
+State:         
+Zip:         
+Phone:         
+Email:         
+ 
+8. If the Application is a request for long-term firm transmission service, see section 3. 
+ 
+9. Location of the proposed Point of Interconnection (POI) to the Transmission System, 
+including the substation name or the name of the line to be tapped (including the voltage), 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 3 
+the estimated distance from the substation endpoints of a line tap, address, and GPS 
+coordinates. 
+ 
+POI substation name:     or  
+POI line name:    (endpoint 1) to   (endpoint 2) 
+POI Distance from endpoint 1:  miles  
+POI Distance from endpoint 2:  miles  
+Interconnection voltage:  kV  
+Address:          
+City:    State:  Zip Code:   
+GPS Coordinates:   N           W 
+ 
+10. If the project is a Merchant Transmission Facility, see section 4. 
+ 
+SECTION 2: GENERATING FACILITY SPECIFICATIONS 
+ 
+11. Specify the nature of the Generating Facility project. 
+ 
+____ New Generating Facility 
+ 
+____ Increase in generation capability of an existing Generating Facility 
+ 
+____ Replacement of existing Generating Facility with no increase in generation capability 
+ 
+12. Specify the type of Interconnection Service requested for the Generating Facility. 
+ 
+____ Energy Resource only 
+ 
+____ Capacity Resource (includes Energy Resource) with Capacity Interconnection Rights 
+ 
+13. Provide the following information about the Generating Facility: 
+ 
+a. Generating Facility location and site plan: 
+ 
+Provide a physical address or equivalent written description of the location of the 
+Generating Facility, as well as global positioning system (GPS) coordinates.  
+When known, provide GPS coordinates for the location of the Generating 
+Facility’s main power transformer(s). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 4 
+Provide a current site plan in PDF depicting the (1) property boundaries; (2) 
+Generating Facility layout, including the Generating Facility’s collector 
+substation (if applicable) or interconnection switchyard (if required); and (3) 
+Interconnection Facilities extending from the Generating Facility’s main power 
+transformer(s) to the proposed POI. 
+ 
+b. Generating Facility Site Control: 
+ 
+In accordance with Tariff, Part VII, Subpart A, section 302 or Part VIII, Subpart 
+A, section 402, provide evidence of an ownership interest in, or right to acquire or 
+control through a deed, lease, or option for at least a one-year term beginning 
+from the Application Deadline, 100 percent of the Site for the Generating Facility, 
+including the location of the high-voltage side of the Generating Facility’s main 
+power transformer(s).  In addition, provide a certification, executed by an officer 
+or authorized representative of Applicant, verifying that the Site Control 
+requirement is met.  Further at PJM’s request, Applicant shall provide copies of 
+landowner attestations or county recordings. 
+ 
+c. Will the Generating Facility physically connect to distribution or sub-transmission 
+facilities currently not subject to the jurisdiction of the Federal Energy Regulatory 
+Commission (FERC), for the purpose of injecting energy at the POI and engaging 
+in FERC-jurisdictional Wholesale Transactions, as described in Tariff, Part VII, 
+Subpart F or Tariff, Part VIII, Subpart F? (Y/N) 
+ 
+If yes, if available, provide with this Application a copy of the executed 
+interconnection agreement between Applicant and the owner of the distribution or 
+sub-transmission facilities to which the Generating Facility will physically 
+connect.  If the two-party interconnection agreement is not yet available, provide 
+any available documentation demonstrating that Applicant has requested or 
+applied for interconnection through the relevant non-jurisdictional process, and 
+provide a status report. 
+ 
+d. For the Generating Facility, has Applicant obtained, or does Applicant intend to 
+obtain, Qualifying Facility status under the Public Utility Regulatory Policies 
+Act? (Y/N) 
+ 
+If yes, provide evidence of Qualifying Facility status or eligibility.  Further, verify 
+that Applicant intends that the Qualifying Facility will engage in Wholesale 
+Transactions in PJM’s FERC-jurisdictional wholesale markets (Y/N). 
+ 
+e. Will the Generating Facility share Project Developer’s Interconnection Facilities 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 5 
+with another Generating Facility, either existing or planned? (Y/N) 
+ 
+If yes, demonstrate that the relevant parties have entered into, or will enter into, a 
+shared facilities agreement with respect to the shared Interconnection Facilities. 
+ 
+f. Maximum Facility Output and Capacity Interconnection Rights: 
+ 
+i. For a new Generating Facility, provide the following information: 
+ 
+Total Requested Maximum Facility Output 
+(maximum injection at the POI), in Megawatts 
+ 
+ 
+Total Requested Capacity Interconnection 
+Rights, in Megawatts 
+ 
+ 
+ 
+ii. For a requested increase in generation capability of an existing Generating 
+Facility, identify the Generating Facility and provide the following 
+information: 
+ 
+ Existing Requested Increase Total 
+Maximum Facility Output 
+(maximum injection at the 
+POI), in Megawatts 
+ 
+   
+Capacity Interconnection 
+Rights, in Megawatts 
+ 
+   
+ 
+iii. For a new Behind the Meter Generating Facility, provide the following 
+information: 
+ 
+Gross Output in Megawatts 
+ 
+ 
+Behind the Meter Load in Megawatts (the sum 
+of auxiliary load and any other load to be 
+served behind the meter) 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 6 
+Total Requested Maximum Facility Output 
+(maximum injection at the POI), in Megawatts 
+ 
+ 
+Total Requested Capacity Interconnection 
+Rights, in Megawatts 
+ 
+ 
+ 
+iv. For a requested increase in generation capability of an existing Behind the 
+Meter Generating Facility, identify the Generating Facility and provide the 
+following information: 
+ 
+ Existing Increase Total 
+Gross Output in 
+Megawatts 
+ 
+   
+Behind the Meter Load in 
+Megawatts (the sum of 
+auxiliary load and any 
+other load to be served 
+behind the meter) 
+ 
+   
+Maximum Facility Output 
+(maximum injection at the 
+POI), in Megawatts 
+ 
+   
+Capacity Interconnection 
+Rights, in Megawatts 
+ 
+   
+ 
+g. Provide a description of the equipment configuration and electrical design 
+specifications for the Generating Facility, as further defined in the PJM Manuals 
+and reflected in the single-line diagram. 
+ 
+h. Specify the fuel type of the Generating Facility. 
+ 
+i. If the Generating Facility will be a multi-fuel Generating Facility, or if a proposed 
+increase in generation capability of an existing Generating Facility will create a 
+multi-fuel Generating Facility, describe the physical and electrical configuration 
+in as much detail as possible. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 7 
+ 
+j. If the Generating Facility will include storage device(s), will the storage device(s) 
+be charged using energy from the Transmission System at any time? (Y/N) 
+ 
+If yes, specify the maximum that will be withdrawn from the Transmission 
+System at any time: ___ MWh (or kWh) 
+ 
+If yes, provide other technical and operating information on the storage device(s) 
+as set forth in the PJM Manuals, including MWh stockpile and hour class, as 
+applicable. 
+ 
+k. If the Generating Facility will include storage, provide the primary frequency 
+response operating range for the electric storage component, as described in the 
+PJM Manuals. 
+ 
+Minimum State of Charge:  ______   Maximum State of Charge:  _______ 
+ 
+l. For a Behind the Meter Generating Facility, provide the following information 
+(note that all of the provisions in Tariff, Part  VII, Subpart E, section 317 or 
+Tariff, Part VIII, Subpart E, section 415 apply): 
+ 
+i. Identify the type and size of the load co-located (or to be co-located) 
+with the Generating Facility, and attach a detailed single-line diagram 
+in PDF depicting the electrical location of the load in relation to the 
+Generating Facility. 
+ 
+ii. Describe the electrical connections between the Generating Facility and 
+the co-located load, as shown in the single-line diagram. 
+ 
+m. Provide the date that the new Generating Facility, or the increase in generation 
+capability of an existing Generating Facility, will be in service. 
+ 
+n. Provide other relevant information for the Generating Facility including, but not 
+limited to, identifying whether Applicant has submitted a previous Application; 
+and, if this Application proposes an increase in generation capability of a 
+Generating Facility, identify whether the Generating Facility is subject to an 
+existing PJM Service Agreement; and, if so, provide those details. 
+ 
+ 
+SECTION 3: LONG-TERM FIRM TRANSMISSION SERVICE 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 8 
+14. Request: 
+ 
+OASIS 
+Request 
+ 
+Start Stop Amount Path Date & Time 
+Request 
+      
+ 
+15. PURPOSE:  A Phase I System Impact Study, incorporated within a Cycle’s System 
+Impact Studies, is used to determine whether the Transmission System is adequate to 
+accommodate all or part of an Applicant’s request for long-term firm transmission service 
+under Tariff, Part II (POINT-TO-POINT TRANSMISSION SERVICE) and Tariff, Part 
+III (NETWORK INTEGRATION TRANSMISSION SERVICE).  The FERC 
+comparability standard is applied in evaluating the impact of all requests. 
+ 
+16. SCOPE OF WORK AND STUDY DEPOSIT:  PJM will perform a Phase I System 
+Impact Study to determine if the PJM network has sufficient capability to grant 
+Applicant’s request for long-term firm transmission service, based on expected system 
+conditions and topology.  The required cash Study Deposit for the Phase I System Impact 
+Study, as described in Tariff, Part VII,  Subpart B, section 306(A) or Tariff, Part VIII, 
+Subpart B, section 403(A), is due prior to the Application Deadline. 
+ 
+17. NETWORK ANALYSIS AND DELIVERABILITY TEST:  PJM evaluates requests for 
+long-term firm transmission service using deliverability tests commensurate with the 
+testing employed for evaluating Interconnection Requests.  The energy from a Generating 
+Facility or the energy delivered using long-term firm transmission service that is 
+ultimately committed to meet resource requirements must be deliverable to where it is 
+needed in the event of a system emergency.  Therefore, there must be sufficient 
+transmission network transfer capability within the control area.  PJM determines the 
+sufficiency of network transfer capability through a series of “deliverability tests.”  All 
+Interconnection Requests and long-term firm transmission service requests in PJM are 
+subjected to the same deliverability tests.  The FERC comparability standard is applied in 
+evaluating the impact of all requests. 
+ 
+18. Skip to section 5. 
+ 
+SECTION 4: MERCHANT TRANSMISSION FACILITY SPECIFICATIONS 
+ 
+19. Applicant requests interconnection to the Transmission System of Merchant 
+Transmission Facilities with the following specifications: 
+ 
+a. Location of proposed facilities: 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+b. Substation(s) where Applicant proposes to interconnect or add its facilities: 
+__________________________________________________________________ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 9 
+__________________________________________________________________ 
+ 
+c. Proposed voltage and nominal capability of new facilities or increase in capability of 
+existing facilities: 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+d. Description of proposed facilities and equipment: 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+e. Planned date the proposed facilities or increase in capability will be in service: 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+f. Will the proposed facilities be Merchant A.C. or Merchant D.C. Transmission Facilities 
+or Controllable A.C. Merchant Transmission Facilities? 
+ 
+A.C. _________ or D.C. _________ or Controllable A.C. _________ 
+ 
+i. If the proposed facilities will be Merchant D.C. Transmission Facilities and/or 
+Controllable A.C. Merchant Transmission Facilities, does Applicant elect to 
+receive either: 
+ 
+____ (1) Firm or Non-Firm Transmission Injection Rights (TIR) and/or 
+Firm or Non-Firm Transmission Withdrawal Rights (TWR) 
+ 
+OR 
+ 
+____ (2) Incremental Deliverability Rights, Incremental Auction Revenue 
+Rights, and Incremental Available Transfer Capability Revenue 
+Rights. 
+ 
+If Applicant elects (1) above, provide the following: 
+ 
+____ Total project MWs to be evaluated as Firm (capacity) injection for 
+TIR. 
+ 
+____ Total project MWs to be evaluated as Non-firm (energy) injection 
+for TIR. 
+ 
+____ Total project MWs to be evaluated as Firm (capacity) withdrawal for 
+TWR. 
+ 
+____ Total project MWs to be evaluated a Non-firm (energy) withdrawal 
+for TWR. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 10 
+ 
+If Applicant elects (2) above, state the location on the Transmission 
+System where Applicant proposes to receive Incremental Deliverability 
+Rights associated with its proposed facilities: 
+ 
+____________________________________________________________ 
+ 
+____________________________________________________________ 
+ 
+ii. If the proposed facilities will be Controllable A.C. Merchant Transmission 
+Facilities, and provided that Applicant contractually binds itself in the Service 
+Agreement related to its project always to operate its Controllable A.C. Merchant 
+Transmission Facilities in a manner effectively the same as operation of D.C. 
+transmission facilities, the Service Agreement will provide Applicant with the 
+same types of transmission rights that are available under the Tariff for Merchant 
+D.C. Transmission Facilities.  For purposes of this Agreement, Applicant 
+represents that, should it execute a Service Agreement for its project described 
+herein, it will agree in the Service Agreement to operate its facilities continuously 
+in a controllable mode. 
+ 
+iii. If the proposed facilities will be Merchant A.C. Transmission Facilities 
+without continuous controllability as described in the preceding paragraph, 
+specify the location on the Transmission System where Applicant proposes to 
+receive any Incremental Deliverability Rights associated with its proposed 
+facilities:  
+____________________________________________________________ 
+ 
+20. Site Control:  In accordance with Tariff, Part VII, Subpart A,  section 302 or Part VIII, 
+Subpart A, section 402, provide evidence of an ownership interest in, or right to acquire 
+or control through a deed, lease, or option for at least a one-year term beginning from the 
+Application Deadline, 100 percent of the Site for Applicant’s major equipment (e.g., 
+converter station).  In addition, provide a certification, executed by an officer or 
+authorized representative of Applicant, verifying that the Site Control requirement is met.  
+Further at PJM’s request, Applicant shall provide copies of landowner attestations or 
+county recordings. 
+ 
+SECTION 5: SCOPE AND TIMING OF SYSTEM IMPACT STUDIES 
+ 
+21. Transmission Provider, in consultation with the affected Transmission Owner(s), will 
+conduct System Impact Studies, in three phases, to provide Applicant with information 
+on the required Interconnection Facilities and Network Upgrades needed to support 
+Applicant’s New Service Request. 
+ 
+22. Consistent with Tariff, Part VII, Subpart C or Tariff, Part VIII, Subparts C and D, the 
+Phase I System Impact Study begins at the end of the 90-day Application Review Phase, 
+and runs for 120 days followed by a 30-day Decision Point I period for withdrawal or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 11 
+modification.  If no withdrawal, the Phase II System Impact Study begins at the end of 
+the Decision Point 1 period and runs for 180 days followed by a 30-day Decision Point II 
+period for withdrawal or modification.  If no withdrawal, the Phase III System Impact 
+Study begins at the end of the Decision Point II period and runs for 180 days followed by 
+release of the Phase III System Impact Study report and the start of final agreement 
+negotiations.  If a phase or period does not end on a Business Day, the phase or period 
+shall be extended to end on the next Business Day. 
+ 
+23. The System Impact Studies include good faith estimates that attempt to determine the 
+cost of necessary facilities, and upgrades to existing facilities, to accommodate 
+Applicant’s New Service Request, and to identify Applicant’s cost responsibility, but 
+those estimates shall not be deemed final or binding.  The scope of the System Impact 
+Studies may include, but are not limited to, short circuit analyses, stability analyses, an 
+interconnection facilities study, and a system upgrades facilities study. 
+ 
+24. The System Impact Studies necessarily will employ various assumptions regarding 
+Applicant’s New Service Request, other New Service Requests, and PJM’s Regional 
+Transmission Expansion Plan at the time of study.  IN NO EVENT SHALL THIS 
+AGREEMENT OR THE SYSTEM IMPACT STUDIES IN ANY WAY BE DEEMED 
+TO OBLIGATE TRANSMISSION PROVIDER OR TRANSMISSION OWNERS TO 
+CONSTRUCT ANY FACILITIES OR UPGRADES OR TO PROVIDE ANY 
+TRANSMISSION OR INTERCONNECTION SERVICE TO OR ON BEHALF OF 
+APPLICANT EITHER AT THIS POINT IN TIME OR IN THE FUTURE. 
+ 
+25. Consistent with Tariff, Part VII, Subpart G or Tariff, Part VIII, Subpart G, Transmission 
+Provider will coordinate with Affected System Operators the conduct of studies required 
+to determine the impact of a New Service Request on any Affected System, and will 
+include those results in the Phase II System Impact Study if available from the Affected 
+System.  Applicant will cooperate with Transmission Provider in all matters related to the 
+conduct of studies by Affected System Operators and the determination of modifications 
+to Affected Systems needed to accommodate Applicant’s New Service Request. 
+ 
+SECTION 6: CONFIDENTIALITY 
+ 
+26. Applicant agrees to provide all information requested by Transmission Provider 
+necessary to complete and review this Application.  Subject to this section 6, and to the 
+extent required by Tariff Part VII, Subpart E, section 327 or Tariff, Part VIII, Subpart E, 
+section 425, information provided pursuant to this Application shall be and remain 
+confidential. 
+ 
+27. Upon completion of each System Impact Study for a New Service Request, the 
+corresponding reports will be listed on Transmission Provider's website and, to the extent 
+required by Tariff, Part VII, Subpart E, section 327 or Tariff, Part VIII, Subpart E, 
+section 425 or Commission regulations, will be made publicly available.  Applicant 
+acknowledges and consents to such disclosures as may be required under Tariff, Part 
+VIII, Subpart E, section 425 or Commission regulations. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 12 
+ 
+28. Applicant acknowledges that, consistent with the confidentiality provisions of Tariff, Part 
+VII, Subpart E, section 327 or Tariff, Part VIII, Subpart E, section 425, Transmission 
+Provider may contract with consultants, including Transmission Owners, to provide 
+services or expertise in the study process, and Transmission Provider may disseminate 
+information as necessary to those consultants, and rely upon them to conduct part or all of 
+the System Impact Studies. 
+ 
+SECTION 7: COST RESPONSIBILITY 
+ 
+29. Transmission Provider shall apply Applicant’s Study Deposit in payment of the invoices 
+for the costs of the System Impact Studies. 
+ 
+30. Actual study costs may exceed the Study Deposit.  Notwithstanding the amount of the 
+Study Deposit, Applicant shall reimburse Transmission Provider for all, or for 
+Applicant’s allocated portion of, the actual cost of the System Impact Studies in 
+accordance with Applicant’s cost responsibility.  Applicant is responsible for, and must 
+pay, all actual study costs.  If Transmission Provider sends Applicant notification of 
+additional study costs, then Applicant must either: (i) pay all additional study costs within 
+20 days (or, if the 20 th day is not a Business Day, then the next Business Day) of 
+Transmission Provider sending the notification of such additional study costs or (ii) 
+withdraw its New Service Request.  If Applicant fails to complete either (i) or (ii), then 
+Transmission Provider shall deem the New Service Request to be terminated and 
+withdrawn. 
+ 
+SECTION 8: DISCLAIMER OF WARRANTY, LIMITATION OF LIABILITY 
+ 
+31. In completing the System Impact Studies, Transmission Provider, Transmission 
+Owner(s), and any other subcontractors employed by Transmission Provider must rely on 
+information provided by Applicant and possibly by third parties, and may not have 
+control over the accuracy of such information.  Accordingly, NEITHER 
+TRANSMISSION PROVIDER, TRANSMISSION OWNER(S), NOR ANY OTHER 
+SUBCONTRACTORS EMPLOYED BY TRANSMISSION PROVIDER MAKES ANY 
+WARRANTIES, EXPRESS OR IMPLIED, WHETHER ARISING BY OPERATION 
+OF LAW, COURSE OF PERFORMANCE OR DEALING, CUSTOM, USAGE IN THE 
+TRADE OR PROFESSION, OR OTHERWISE, INCLUDING WITHOUT 
+LIMITATION IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE, WITH REGARD TO THE ACCURACY, 
+CONTENT, OR CONCLUSIONS OF THE SYSTEM IMPACT STUDIES.  Applicant 
+acknowledges that it has not relied on any representations or warranties not specifically 
+set forth herein, and that no such representations or warranties have formed the basis of 
+its bargain hereunder.  Neither this Agreement nor the System Impact Studies prepared 
+hereunder is intended, nor shall either be interpreted, to constitute agreement by 
+Transmission Provider or Transmission Owner(s) to provide Interconnection Service or 
+transmission service to or on behalf of Applicant either at this time or in the future. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 13 
+32. In no event will Transmission Provider, Transmission Owner(s), or other subcontractors 
+employed by Transmission Provider be liable for indirect, special, incidental, punitive, or 
+consequential damages of any kind including loss of profits, whether under this 
+agreement or otherwise, even if Transmission Provider, Transmission Owner(s), or other 
+subcontractors employed by Transmission Provider have been advised of the possibility 
+of such a loss.  Nor shall Transmission Provider, Transmission Owner(s), or other 
+subcontractors employed by Transmission Provider be liable for any delay in delivery or 
+of the non-performance or delay in performance of Transmission Provider's obligations 
+under this Agreement. 
+ 
+SECTION 9: MISCELLANEOUS 
+ 
+33. Any notice, demand, or request required or permitted to be given by any Party to another 
+and any instrument required or permitted to be tendered or delivered by any Party in 
+writing to another may be so given, tendered, or delivered electronically, or by 
+recognized national courier or by depositing the same with the United States Postal 
+Service, with postage prepaid for delivery by certified or registered mail addressed to the 
+Party, or by personal delivery to the Party, at the address specified below. 
+ 
+ Transmission Provider: 
+ 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA 19403 
+interconnectionagreementnotices@pjm.com   
+ 
+Applicant: 
+ 
+ 
+ 
+ 
+ 
+34. No waiver by either Party of one or more defaults by the other in performance of any of 
+the provisions of this Agreement shall operate or be construed as a waiver of any other or 
+further default or defaults, whether of a like or different character. 
+ 
+35. This Agreement, or any part thereof, may not be amended, modified, or waived other 
+than by a writing signed by all Parties. 
+ 
+36. This Agreement shall be binding upon the Parties, their heirs, executors, 
+administrators, successors, and assigns. 
+ 
+37. This Agreement shall become effective on the date it is executed by both Parties and shall 
+remain in effect until the earlier of (a) the date on which Applicant enters into a final 
+Service Agreement with PJM (and Transmission Owner as applicable) in accordance 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 14 
+with Tariff, Part VII, Subpart D or Tariff, Part VIII, Subpart D or (b) termination or 
+withdrawal of this Application. 
+ 
+38. Governing Law, Regulatory Authority, and Rules: 
+This Agreement shall be deemed a contract made under, and the interpretation and 
+performance of this Agreement and each of its provisions shall be governed and 
+construed in accordance with, the applicable Federal laws and/or laws of the State of 
+Delaware without regard to conflicts of law provisions that would apply the laws of 
+another jurisdiction.  This Agreement is subject to all Applicable Laws and 
+Regulations.  Each Party expressly reserves the right to seek changes in, appeal, or 
+otherwise contest any laws, orders, or regulations of a Governmental Authority. 
+ 
+39. No Third-Party Beneficiaries: 
+This Agreement is not intended to and does not create rights, remedies, or benefits of any 
+character whatsoever in favor of any persons, corporations, associations, or entities other 
+than the Parties, and the obligations herein assumed are solely for the use and benefit of 
+the Parties, their successors in interest, and where permitted their assigns. 
+ 
+40. Multiple Counterparts: 
+This Agreement may be executed in two or more counterparts, each of which is deemed 
+an original but all of which constitute one and the same instrument. 
+ 
+41. No Partnership: 
+This Agreement shall not be interpreted or construed to create an association, joint 
+venture, agency relationship, or partnership between the Parties or to impose any 
+partnership obligation or partnership liability upon either Party.  Neither Party shall have 
+any right, power, or authority to enter into any agreement or undertaking for, or act on 
+behalf of, or to act as or be an agent or representative of, or to otherwise bind, the other 
+Party. 
+ 
+42. Severability: 
+If any provision or portion of this Agreement shall for any reason be held or adjudged to 
+be invalid or illegal or unenforceable by any court of competent jurisdiction or other 
+Governmental Authority, (1) such portion or provision shall be deemed separate and 
+independent, (2) the Parties shall negotiate in good faith to restore insofar as practicable 
+the benefits to each Party that were affected by such ruling, and (3) the remainder of this 
+Agreement shall remain in full force and effect. 
+ 
+43. Reservation of Rights: 
+Transmission Provider shall have the right to make a unilateral filing with the 
+Federal Energy Regulatory Commission (“FERC”) to modify this Agreement with 
+respect to any rates, terms and conditions, charges, classifications of service, rule or 
+regulation under section 205 or any other applicable provision of the Federal Power Act 
+and FERC’s rules and regulations thereunder; and Applicant shall have the right to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 15 
+make a unilateral filing with FERC to modify this Agreement under any applicable 
+provision of the Federal Power Act and FERC’s rules and regulations; provided that 
+each Party shall have the right to protest any such filing by the other Party and to 
+participate fully in any proceeding before FERC in which such modifications may be 
+considered.  Nothing in this Agreement shall limit the rights of the Parties or of FERC 
+under sections 205 or 206 of the Federal Power Act and FERC’s rules and regulations, 
+except to the extent that the Parties otherwise agree as provided herein.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart A FORM OF 
+APPLICATION AND STUDIES AGRMT 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 16 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by 
+their respective authorized officials. 
+ 
+ 
+Transmission Provider:  PJM Interconnection, L.L.C. 
+ 
+By:     
+Name Title Date 
+ 
+ 
+ 
+Printed Name 
+ 
+ 
+Applicant:  [Name of Party] 
+ 
+By:    
+Name Title Date 
+ 
+ 
+ 
+Printed Name 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part IX, Subpart B 
+ 
+FORM OF 
+GENERATION INTERCONNECTION AGREEMENT COMBINED WITH 
+CONSTRUCTION SERVICE AGREEMENT 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+Service Agreement No. [    ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Project Identifier #____) 
+ 
+GENERATION INTERCONNECTION AGREEMENT 
+By and Between 
+PJM INTERCONNECTION, L.L.C. 
+And 
+_________________________________________ 
+And 
+_________________________________________ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+Service Agreement No. [    ] 
+ 
+GENERATION INTERCONNECTION AGREEMENT 
+By and Between 
+PJM Interconnection, L.L.C. 
+And 
+[Name of Project Developer] 
+And 
+[Name of Transmission Owner] 
+(Project Identifier #__) 
+ 
+1.0 Parties.  This Generation Interconnection Agreement (“GIA”) including the 
+Specifications, Schedules and Appendices attached hereto and incorporated herein, is 
+entered into by and between PJM Interconnection, L.L.C., the Regional Transmission 
+Organization for the PJM Region (hereinafter “Transmission Provider” or “PJM”), 
+___________________________ (“Project Developer” [OPTIONAL: or “[short 
+name”]]) and ___________________________ (“Transmission Owner” [OPTIONAL: or 
+“[short name]”]).  All capitalized terms herein shall have the meanings set forth in the 
+appended definitions of such terms as stated in Part VII and Part VIII of the PJM Open 
+Access Transmission Tariff (“Tariff”).  [Use as/when applicable: This GIA supersedes 
+the ____________________________________ {insert details to identify the agreement 
+being superseded, the effective date of the agreement, the service agreement number 
+designation, and the FERC docket number, if applicable, for the agreement being 
+superseded.}].  [Use as/when applicable: Pursuant to the terms of an Agreement to 
+Amend signed by all Parties effective {INSERT DATE}, this GIA amends the 
+{ISA/GIA} entered into by {Party 1}, {Party 2}, and Transmission Provider effective 
+{INSERT DATE} and designated as Service Agreement No. {INSERT NUMBER}.]   
+ 
+2.0 Authority.  This GIA is entered into pursuant to the Generation Interconnection 
+Procedures (“GIP”) set forth in [instruction: {use Part VII if this is a transition period 
+GIA subject to Tariff, Part VII} {use Part VIII if this a new rules GIA subject to Part 
+VIII}] of the Tariff.  Project Developer has requested a GIA under the Tariff, and 
+Transmission Provider has determined that Project Developer is eligible under the Tariff 
+to obtain this GIA.  The standard terms and conditions for interconnection as set forth in 
+Appendix 2 to this GIA are hereby specifically incorporated as provisions of this GIA.  
+Transmission Provider, Transmission Owner, and Project Developer agree to and assume 
+all of the rights and obligations of the Transmission Provider, Transmission Owner, and 
+Project Developer, respectively, as set forth in GIA, Appendix 2.  
+ 
+3.0 Generating Facility or Merchant Transmission Facility Specifications.  Attached are 
+Specifications for the Generating Facility or Merchant Transmission Facility that Project 
+Developer proposes to interconnect with the Transmission System.  Project Developer 
+represents and warrants that, upon completion of construction of such facilities, it will 
+own or control the Generating Facility or Merchant Transmission Facility identified in 
+GIA, Specifications, section 1.0 attached hereto and made a part hereof.  In the event that 
+Project Developer will not own the Generating Facility or Merchant Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+Facility, Project Developer represents and warrants that it is authorized by the owner(s) 
+thereof to enter into this GIA and to represent such control.  
+ 
+4.0 Effective Date.  Subject to any necessary regulatory acceptance, this GIA shall become 
+effective on the date it is executed by all Interconnection Parties, or, if the agreement is 
+filed with FERC unexecuted, upon the date specified by FERC.  This GIA shall terminate 
+on such date as mutually agreed upon by the parties, unless earlier terminated in 
+accordance with the terms set forth in GIA, Appendix 2.  The term of the GIA shall be as 
+provided in GIA, Appendix 2, section 1.3.  Interconnection Service shall commence as 
+provided in GIA, Appendix 2, section 1. 
+ 
+5.0 Security.  In accord with the GIP, Project Developer shall provide the Transmission 
+Provider (for the benefit of the Transmission Owner) with a letter of credit from an 
+agreed provider or other form of security reasonably acceptable to the Transmissions 
+Provider and that names the Transmission Provider as beneficiary (“Security”) in the 
+amount of $_______________.  Such Security can also be applied to unpaid Cancellation 
+Costs and for completion of some or all of the required Transmission Owner 
+Interconnection Facilities, and/or Customer-Funded Upgrades. This amount represents 
+the sum of the estimated Costs, determined in accordance with the GIP for which the 
+Project Developer will be responsible, less any Costs already paid by Project Developer.  
+Project Developer acknowledges that its ultimate cost responsibility will be based upon 
+the actual Costs of the facilities described in the Specifications, whether greater or lesser 
+than the amount of the payment security provided under this section. 
+ 
+6.0 Project Specific Milestones.  In addition to the milestones stated in the GIP as applicable, 
+during the term of this GIA, Project Developer shall ensure that it meets each of the 
+following development milestones: 
+ 
+[Specify Project Specific Milestones] 
+ 
+ [As appropriate include the following standard Milestones, with any revisions necessary 
+for the project at hand (sections should be renumbered as appropriate):] 
+ 
+6.1  Substantial Site work completed.  On or before ___________________, Project 
+Developer must demonstrate completion of at least 20 percent of project site 
+construction.  At this time, Project Developer must submit to Transmission Owner 
+and Transmission Provider initial drawings, certified by a professional engineer, 
+of the Project Developer Interconnection Facilities. 
+ 
+6.2 Delivery of major electrical equipment.  On or before ________________, Project 
+Developer must demonstrate that ____ generating units have been delivered to 
+Project Developer’s project site. 
+[Instructions: the following provisions can be used be as mutually agreed upon, 
+and as an alternative to the milestones set forth in the GIP (renumber sections as 
+appropriate):] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 4 
+6.2.1___ Fuel delivery agreement and water agreement.  On or before 
+________________, Project Developer must demonstrate it has entered 
+into a fuel delivery agreement and water agreement, if necessary, and that 
+it controls any necessary rights-of-way for fuel and water interconnection. 
+ 
+6.2.2___ Local, county, and state site permits.  On or before 
+___________________, Project Developer must demonstrate that it has 
+obtained all necessary local, county, and state site permits.   
+ 
+[Instruction to be used if the Project Developer has not provided evidence of the 
+100 percent Site Control for the Project Developer’s Interconnection Facilities, 
+and any Transmission Owner’s Interconnection Facilities or Transmission Owner 
+Upgrades at the Point of Interconnection that the Project Developer will develop 
+prior to entering to a GIA (renumber remaining sections as appropriate):] 
+6.2.3  Project Developer shall provide evidence of 100 percent Site 
+Control for the Generating Facility or Merchant Transmission Facility, 
+Interconnection Facilities, and, if applicable, the Stand Alone Network 
+Upgrades necessary to interconnect the project to the Transmission System 
+consistent with GIP no later than 180 days after the effective date of this 
+GIA.  Notwithstanding any other provisions of this GIA, no extension of 
+this milestone shall be granted and if the Project Developer fails to meet 
+this milestone, its Interconnection Request and this Agreement shall be 
+deemed terminated and withdrawn.  Transmission Provider shall take all 
+necessary steps to effectuate this termination, including submitting the 
+necessary filings with FERC. 
+6.3 Commercial Operation.  On or before _______________, Project Developer must 
+demonstrate commercial operation of all generating units in order to achieve the 
+full Maximum Facility Output set forth in section 1.0(c) of the Specifications to 
+this GIA. Failure to achieve this Maximum Facility Output may result in a 
+permanent reduction in Maximum Facility Output of the Generating Facility, and 
+if, necessary, a permanent reduction of the Capacity Interconnection Rights, to the 
+level achieved.  Demonstrating commercial operation includes achieving Initial 
+Operation in accordance with section 1.4 of Appendix 2 to this GIA and making 
+commercial sales or use of energy, as well as, if applicable, obtaining capacity 
+qualification in accordance with the requirements of the Reliability Assurance 
+Agreement Among Load Serving Entities in the PJM Region.  
+ 
+[Instructions: If this GIA is for an incremental increase in output for a facility that 
+already is in commercial operation (i.e., an uprate), then, instead of the above, use 
+the following language for the Commercial Operation milestone.] 
+ 
+[For an uprate where MFO and CIRs will increase, use this alternate language:] 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 5 
+Commercial Operation.  On or before ___________, Project Developer must 
+demonstrate commercial operation of an incremental increase over Project 
+Developer’s previous interconnection, as set forth in Specifications, section 1.0(c) 
+of this GIA for increases in Maximum Facility Output and in Specifications, 
+section 2.1 of this GIA for increases in Capacity Interconnection Rights.  This 
+incremental increase is a result of the Interconnection Request associated with this 
+GIA.  Failure to achieve this Maximum Facility Output shall result in a permanent 
+reduction in Maximum Facility Output of the Generating Facility, and if, 
+necessary, a permanent reduction of the Capacity Interconnection Rights, to the 
+level achieved.  Demonstrating commercial operation includes making 
+commercial sales or use of energy, as well as, if applicable, obtaining capacity 
+qualification in accordance with the requirements of the Reliability Assurance 
+Agreement Among Load Serving Entities in the PJM Region. 
+  
+[For CIR-only uprates, use the alternate language that follows.  The September 1, 
+______ date for CIR-only uprates is meant to align with Summer Capability 
+Testing for the unit(s).  Without this Commercial Operation milestone that is 
+specific to CIR-only uprates, it can be difficult to implement or enforce a 
+Commercial Operation milestone for CIR-only uprates, because the unit is already 
+in Commercial Operation at its specified MFO:] 
+  
+Commercial Operation.  On or before September 1, ___________, Project 
+Developer must demonstrate commercial operation of an incremental increase in 
+Capacity Interconnection Rights over Project Developer’s previous 
+interconnection, as set forth in Specifications, section 2.1 of this GIA.  Failure to 
+achieve this level of Capacity Interconnection Rights shall result in a permanent 
+reduction of the Capacity Interconnection Rights to the level achieved.  This 
+incremental increase in Capacity Interconnection Rights is a result of the 
+Interconnection Request associated with this GIA.  Demonstrating commercial 
+operation includes making commercial sales or use of energy, as well as, if 
+applicable, obtaining capacity qualification in accordance with the requirements 
+of the Reliability Assurance Agreement Among Load Serving Entities in the PJM 
+Region.  
+ 
+[Additional instructions (separate from the Commercial Operation Date 
+provisions): if a specific situation requires a separate Construction Service 
+Agreement by a certain date then use the following:] 
+ 
+Construction Service Agreement.  On or before ___________, Project Developer 
+must have either (a) executed a Construction Service Agreement for 
+Interconnection Facilities or Transmission Owner Upgrades for which Project 
+Developer has cost responsibility; (b) requested dispute resolution under section 
+12 of the PJM Tariff, or if concerning the Regional Transmission Expansion Plan, 
+consistent with Schedule 5 of the Operating Agreement of PJM Interconnection, 
+L.L.C. (“Operating Agreement”); or (c) requested that the Transmission Provider 
+file the Construction Service Agreement unexecuted with FERC. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 6 
+ 
+6.4 Within one month following commercial operation of generating unit(s), Project 
+Developer must provide certified documentation demonstrating that “as-built” 
+Generating Facility or the Merchant Transmission Facilities, and Project 
+Developer Interconnection Facilities are in accordance with applicable PJM 
+studies and agreements.  Project Developer must also provide PJM with “as-built” 
+electrical modeling data or confirm that previously submitted data remains valid. 
+ 
+ 
+[Add Additional Project Specific Milestones as appropriate] 
+ 
+Project Developer shall demonstrate the occurrence of each of the foregoing 
+milestones to Transmission Provider’s reasonable satisfaction.  Transmission 
+Provider may reasonably extend any such milestone dates, in the event of delays 
+that Project Developer (i) did not cause and (ii) could not have remedied through 
+the exercise of due diligence.  Project Developer shall also have a one-time option 
+to extend its milestone (other than any milestone related to Site Control) for a 
+total period of one year regardless of cause.  This option may only be applied one 
+time for an Interconnection Request, and may only be applied to one single 
+milestone specified in this GIA.  Other milestone dates stated in this GIA shall be 
+deemed to be extended coextensively with Project Developer’s use of this 
+provision.  Once this extension is used, it is no longer available with regard to any 
+other milestones or other deadlines in this GIA.  If the Project Developer fails to 
+meet any of the milestones set forth above, including any extended milestones, its 
+Interconnection Request shall be terminated and withdrawn, subject to the 
+provisions of Appendix 2, sections 15 and 16.  Transmission Provider shall take 
+all necessary steps to effectuate this termination, including submitting the 
+necessary filings with FERC. 
+ 
+7.0 Provision of Interconnection Service.  Transmission Provider and Transmission Owner 
+agree to provide for the interconnection to the Transmission System in the PJM Region of 
+Project Developer’s Generating Facility or Merchant Transmission Facility identified in 
+the Specifications in accordance with the GIP, the Operating Agreement, and this GIA, as 
+they may be amended from time to time. 
+ 
+8.0 Assumption of Tariff Obligations.  Project Developer agrees to abide by all rules and 
+procedures pertaining to generation and transmission in the PJM Region, including but 
+not limited to the rules and procedures concerning the dispatch of generation or 
+scheduling transmission set forth in the Tariff, the Operating Agreement and the PJM 
+Manuals.   
+ 
+9.0 System Impact Study(ies) and/or Facilities Study(ies).  In analyzing and preparing the 
+[System Impact Study(ies) and/or Facilities Study(ies)], and in designing and 
+constructing the Distribution Upgrades, Network Upgrades, Stand Alone Network 
+Upgrades and/or Transmission Owner Interconnection Facilities described in the 
+Specifications attached to this GIA, Transmission Provider, the Transmission Owner(s), 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 7 
+and any other subcontractors employed by Transmission Provider have had to, and shall 
+have to, rely on information provided by Project Developer and possibly by third parties 
+and may not have control over the accuracy of such information.  Accordingly, 
+NEITHER TRANSMISSION PROVIDER, THE TRANSMISSION OWNER(s), NOR 
+ANY OTHER SUBCONTRACTORS EMPLOYED BY TRANSMISSION PROVIDER 
+OR TRANSMISSION OWNER MAKES ANY WARRANTIES, EXPRESS OR 
+IMPLIED, WHETHER ARISING BY OPERATION OF LAW, COURSE OF 
+PERFORMANCE OR DEALING, CUSTOM, USAGE IN THE TRADE OR 
+PROFESSION, OR OTHERWISE, INCLUDING WITHOUT LIMITATION IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE, WITH REGARD TO THE ACCURACY, CONTENT, OR CONCLUSIONS 
+OF THE SYSTEM IMPACT STUDY(IES) AND/OR FACILITIES STUDY(IES) OF 
+THE DISTRIBUTION UPGRADES, NETWORK UPGRADES, STAND ALONE 
+NETWORK UPGRADES AND/OR TRANSMISSION OWNER INTERCONNECTION 
+FACILITIES.  Project Developer acknowledges that it has not relied on any 
+representations or warranties not specifically set forth herein and that no such 
+representations or warranties have formed the basis of its bargain hereunder. 
+ 
+10.0 Construction of Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades 
+ 
+10.1. Cost Responsibility.  Project Developer shall be responsible for and shall pay 
+upon demand all Costs associated with the interconnection of the Generating 
+Facility or Merchant Transmission Facility as specified in the GIP.  These Costs 
+may include, but are not limited to, a Distribution Upgrades charge, Network 
+Upgrades charge, Stand Alone Network Upgrades charge, Transmission Owner 
+Interconnection Facilities charge and other charges.  A description of the facilities 
+required and an estimate of the Costs of these facilities are included in sections 
+3.0 and 4.0 of the Specifications to this GIA. 
+ 
+10.2. Billing and Payments.  Transmission Provider shall bill the Project Developer for 
+the Costs associated with the facilities contemplated by this GIA, estimates of 
+which are set forth in the Specifications to this GIA, and the Project Developer 
+shall pay such Costs, in accordance with section 11 of Appendix 2 to this GIA and 
+the applicable provisions of Schedule L. Upon receipt of each of Project 
+Developer’s payments of such bills, Transmission Provider shall reimburse the 
+applicable Transmission Owner.  Project Developer requests that Transmission 
+Provider provide a quarterly cost reconciliation: 
+ 
+  ______ Yes 
+ 
+  ______ No  
+ 
+10.3. Contract Option.  In the event that the Project Developer and Transmission Owner 
+agree to utilize the Negotiated Contract Option as set forth in Schedule L, 
+Appendix 1 to establish, subject to FERC acceptance, non-standard terms 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 8 
+regarding cost responsibility, payment, billing and/or financing, the terms of 
+sections 10.1 and/or 10.2 of this section 10.0 shall be superseded to the extent 
+required to conform to such negotiated terms, as stated in Schedule L to this GIA.  
+The Negotiated Option can only be used in connection with a Network Upgrade 
+subject to the Network Upgrade Cost Responsibility Agreement if all Project 
+Developers and the relevant Transmission Owner agree.  
+ 
+  ______ Yes 
+ 
+  ______ No  
+ 
+10.4 Interconnection Construction Terms and Conditions 
+ 
+10.4.1 GIA, Schedule L sets forth the additional terms and conditions of service 
+that apply in the event there are any Project Developer Interconnection 
+Facilities, Transmission Owner Interconnection Facilities, or Transmission 
+Owner Upgrades subject to this Agreement.  In the event there is an 
+additional Transmission Owner listed in GIA, Specifications, section 
+3.0(c), Transmission Provider, Project Developer and the additional 
+Transmission Owner shall be required to enter into a separate Construction 
+Service Agreement in the form set forth in Tariff, Part IX, Subpart J.  In 
+the event there are any Common Use Upgrades listed in GIA, 
+Specifications, section 3.0, Transmission Provider and Project Developer, 
+along with the other relevant Project Developers, shall also be required to 
+enter into a separate Network Upgrade Cost Responsibility Agreement in 
+the form set forth in Tariff, Part IX, Subpart H.    
+ 
+10.4.2 In the event that the Project Developer elects to construct some or all of 
+the Transmission Owner Interconnection Facilities or Stand Alone 
+Network Upgrades under the Option to Build, billing and payment for the 
+Costs associated with the facilities contemplated by this GIA shall relate 
+only to such portion of the Interconnection Facilities and Transmission 
+Owner Upgrades as the Transmission Owner is responsible for building.  
+ 
+11.0 Interconnection Specifications 
+ 
+11.1 Point of Interconnection.  The Point of Interconnection shall be as identified on 
+the single-line diagram attached as GIA, Schedule B. 
+ 
+11.2 List and Ownership of Interconnection Facilities and Transmission Owner 
+Upgrades.  The Interconnection Facilities and Transmission Owner Upgrades to 
+be constructed and ownership of the components thereof are identified in GIA, 
+section 3.0.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 9 
+11.3 Ownership and Location of Metering Equipment.  The Metering Equipment to be 
+constructed, the capability of the Metering Equipment to be constructed, and the 
+ownership thereof, are identified on the attached GIA, Schedule C. 
+ 
+11.4 Applicable Technical Standards.  The Applicable Technical Requirements and 
+Standards that apply to the Generating Facility or Merchant Transmission Facility 
+and the Interconnection Facilities and Transmission Owner Upgrades are 
+identified in GIA, Schedule D. 
+ 
+12.0 Power Factor Requirement. 
+ 
+Consistent with section 4.6 of Appendix 2 to this GIA, the power factor requirement is as 
+follows:   
+ 
+[For Generation Project Developers] 
+ 
+{The following language should be included for new large and small synchronous 
+generation facilities that will have the Tariff specified power factor.  This section does 
+not apply if the Interconnection Request is for an incremental increase in generating 
+capability.} 
+ 
+The Project Developer shall design its Generating Facility with the ability to maintain a 
+power factor of at least 0.95 leading to 0.90 lagging measured at the [generator’s 
+terminals] [Point of Interconnection]. 
+ 
+{Include the following language if the Interconnection Request is for an incremental 
+increase in capacity or energy output to a synchronized generation facility} 
+ 
+The existing __ MW portion of the Generating Facility shall retain its existing ability to 
+maintain a power factor of at least 0.95 leading to 0.90 lagging measured at the 
+[generator’s terminals] [Point of Interconnection]. 
+ 
+The increase of ___ MW to the Generating Facility associated with this GIA shall be 
+designed with the ability to maintain a power factor of at least 1.0 (unity) to 0.90 lagging 
+measured at the [generator’s terminals] [Point of Interconnection]. 
+ 
+{For new wind or non-synchronous generation facilities which have submitted a New 
+Service Request. after November 1, 2016, the following applies:} 
+ 
+The Generation Project Developer shall design its [wind-powered] [non-synchronous] 
+Generating Facility with the ability to maintain a power factor of at least 0.95 leading to 
+0.95 lagging measured at the high-side of the facility substation transformers. 
+ 
+{For all wind or non-synchronous Generating Facilities requesting an incremental 
+increase in capacity or energy output which have submitted an Interconnection Request 
+after November 1, 2016, and were not commercially operable prior to November 1, 2016 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 10 
+include the following requirements:} 
+ 
+The existing [wind-powered] [non-synchronous] __ MW portion of the Generating 
+Facility shall retain the ability to maintain a power factor of at least 0.95 leading to 0.95 
+lagging measured at the high-side of the facility substation transformers. 
+ 
+The increase of __ MW to the [wind-powered] [non-synchronous] Generating Facility 
+associated with this GIA shall be designed with the ability to maintain a power factor of 
+at least 0.95 leading to 0.95 lagging measured at the high-side of the facility substation 
+transformers. 
+ 
+[For Transmission Project Developers] 
+ 
+{The following language should be included only for new Merchant Transmission 
+Facilities} 
+ 
+Transmission Project Developer shall design its Merchant D.C. Transmission Facilities 
+and/ or Controllable A.C. Merchant Transmission Facilities, to maintain a power factor at 
+the Point of Interconnection of at least 0.95 leading and 0.95 lagging, when such 
+Generating Facility is operating at any level within its approved operating range. 
+ 
+13.0 Charges.  In accordance with sections 10 and 11 of Appendix 2 to this GIA, the Project 
+Developer shall pay to the Transmission Provider the charges applicable after Initial 
+Operation, as set forth in Schedule E to this GIA.  Promptly after receipt of such 
+payments, the Transmission Provider shall forward such payments to the appropriate 
+Transmission Owner. 
+ 
+14.0 Third Party Beneficiaries.  No third party beneficiary rights are created under this GIA, 
+except, however, that, subject to modification of the payment terms stated in section 10 
+of this GIA pursuant to the Negotiated Contract Option, payment obligations imposed on 
+Project Developer under this GIA are agreed and acknowledged to be for the benefit of 
+the Transmission Owner(s).  Project Developer expressly agrees that the Transmission 
+Owner(s) shall be entitled to take such legal recourse as it deems appropriate against 
+Project Developer for the payment of any Costs or charges authorized under this GIA or 
+the GIP with respect to Interconnection Service for which Project Developer fails, in 
+whole or in part, to pay as provided in this GIA, the GIP and/or the Operating 
+Agreement. 
+ 
+15.0 Waiver.  No waiver by either party of one or more defaults by the other in performance of 
+any of the provisions of this GIA shall operate or be construed as a waiver of any other or 
+further default or defaults, whether of a like or different character. 
+ 
+16.0 Amendment.  Except as set forth in GIA, Appendix 2, this GIA or any part thereof, may 
+not be amended, modified, or waived other than by a written document signed by all 
+parties hereto.  Parties acknowledge that, subsequent to execution of this agreement, 
+errors may be corrected by replacing the page of the agreement containing the error with 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 11 
+a corrected page, as agreed to and signed by the parties without modifying or altering the 
+original date of execution, dates of any milestones, or obligations contained therein. 
+ 
+17.0 Construction With Other Parts of The Tariff.  This GIA shall not be construed as an 
+application for service under Part II or Part III of the Tariff. 
+ 
+18.0 Notices.  Any notice or request made by either party regarding this GIA shall be made, in 
+accordance with the terms of Appendix 2 to this GIA, to the representatives of the other 
+party and as applicable, to the Transmission Owner(s), as indicated below: 
+ 
+Transmission Provider: 
+ 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA 19403 
+interconnectionagreementnotices@pjm.com 
+ 
+Project Developer: 
+_____________________________________ 
+_____________________________________ 
+_____________________________________ 
+ 
+Transmission Owner: 
+_____________________________________ 
+_____________________________________ 
+ 
+_____________________________________ 
+ 
+19.0 Incorporation of Other Documents.  All portions of the Tariff and the Operating 
+Agreement pertinent to the subject matter of this GIA and not otherwise made a part 
+hereof are hereby incorporated herein and made a part hereof.  
+ 
+20.0 Addendum of Non-Standard Terms and Conditions for Interconnection Service.  Subject 
+to FERC approval, the parties agree that the terms and conditions set forth in Schedule F 
+hereto are hereby incorporated herein by reference and be made a part of this GIA. In the 
+event of any conflict between a provision of Schedule F that FERC has accepted and any 
+provision of Appendix 2 to this GIA that relates to the same subject matter, the pertinent 
+provision of Schedule F shall control.  
+ 
+21.0 Addendum of Project Developer’s Agreement to Conform with IRS Safe Harbor 
+Provisions for Non-Taxable Status.  To the extent required, in accordance with section 
+24.1 of Appendix 2 to this GIA, Schedule G to this GIA shall set forth the Project 
+Developer’s agreement to conform with the IRS safe harbor provisions for non-taxable 
+status.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 12 
+22.0 Addendum of Interconnection Requirements for all Wind or Non-synchronous 
+Generation Facilities.  To the extent required, Schedule H to this GIA sets forth 
+interconnection requirements for wind or non-synchronous generation facilities and is 
+hereby incorporated by reference and made a part of this GIA. 
+ 
+23.0 Infrastructure security of electric system equipment and operations and control hardware 
+and software is essential to ensure day-to-day reliability and operational security.  All 
+Interconnection Parties agree to comply with all infrastructure security requirements of 
+the North American Electric Reliability Corporation. All Transmission Providers, 
+Transmission Owners, Market Participants, and Project Developers interconnected with 
+electric systems are to comply with the recommendations offered by the President’s 
+Critical Infrastructure Protection Board and best practice recommendations from the 
+electric reliability authority.  All public utilities are expected to meet basic standards for 
+electric system infrastructure and operational security, including physical, operational, 
+and cyber-security practices.   
+ 
+24.0 This Agreement shall be deemed a contract made under, and the interpretation and 
+performance of this Agreement and each of its provisions shall be governed and 
+construed in accordance with, the applicable Federal and/or laws of the State of Delaware 
+without regard to conflicts of laws provisions that would apply the laws of another 
+jurisdiction. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 13 
+ IN WITNESS WHEREOF, Transmission Provider, Project Developer and Transmission 
+Owner have caused this GIA to be executed by their respective authorized officials. 
+ 
+(Project Identifier #___) 
+ 
+Transmission Provider:  PJM Interconnection, L.L.C. 
+ 
+By: _______________________ ___________________________ ____________ 
+ Name    Title     Date 
+ 
+Printed name of signer:  ______________________________________________________ 
+ 
+Project Developer:  [Name of Party] 
+ 
+By: _______________________ ___________________________ ____________ 
+ Name    Title     Date 
+ 
+Printed name of signer:  _____________________________________________________ 
+ 
+Transmission Owner:  [Name of Party] 
+ 
+By: _______________________ ___________________________ ____________ 
+ Name    Title     Date 
+ 
+Printed name of signer:  _____________________________________________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Specs 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+SPECIFICATIONS FOR 
+GENERATION INTERCONNECTION AGREEMENT 
+By and Among 
+PJM INTERCONNECTION, L.L.C. 
+And 
+[Name of Project Developer] 
+And 
+[Name of Transmission Owner] 
+(Project Identifier # ___) 
+ 
+1.0 Description of [Generating Facility] [Merchant Transmission Facilities] to be 
+interconnected with the Transmission System in the PJM Region: 
+ 
+a. Name of Generating Facility or Merchant Transmission Facility: 
+ 
+______________________________________________________________ 
+ 
+______________________________________________________________ 
+ 
+b. Location of Generating Facility or Merchant Transmission Facility: 
+ 
+______________________________________________________________ 
+ 
+______________________________________________________________ 
+ 
+c. Size in megawatts of Generating Facility or Merchant Transmission Facility:  
+ 
+  {The following language should be included only for generating units 
+ 
+  For Generation Project Developer:  
+ 
+{Use the following language for all resources} 
+ 
+   Maximum Facility Output of _______ MW 
+ 
+{Include the following language for Energy Storage Resources} 
+ 
+Maximum load capacity of _______ MW) 
+ 
+Minimum State of Charge:  ____________; and 
+Maximum State of Charge:  ____________. 
+ 
+{The following language applies when a Generation Interconnection Request involves an 
+increase of the capacity of an existing Generating Facility: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Specs 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+The stated size of the generating unit includes an increase in the Maximum Facility Output of the 
+generating unit of __ MW over Project Developer’s previous interconnection.  This increase is a 
+result of the Interconnection Request associated with this Generation Interconnection 
+Agreement.} 
+ 
+ {The following language should be included only for Merchant Transmission Facilities 
+ 
+ For Transmission Project Developer: 
+ 
+  
+  Nominal Rated Capability: __________ MW} 
+ 
+ ______________________________________________________________ 
+ 
+ d. Description of the equipment configuration: 
+ 
+______________________________________________________________ 
+ 
+______________________________________________________________ 
+ 
+______________________________________________________________ 
+ 
+ ______________________________________________________________ 
+ 
+2.0 Rights 
+[for Generation Project Developers] 
+ 
+2.1 Capacity Interconnection Rights: {Instructions: this section will not apply if the 
+Generating Facility is exclusively an Energy Resource and thus is granted no 
+CIRs; see alternate section 2.1 below} 
+ 
+ Pursuant to and subject to the applicable terms of the GIP, the Project Developer 
+shall have Capacity Interconnection Rights at the Point(s) of Interconnection 
+specified in this Generation Interconnection Agreement in the amount of ___ 
+MW. {Instructions: this number is the total of the Capacity Interconnection Rights 
+that are granted as a result of the Interconnection Request, plus any prior Capacity 
+Interconnection Rights} 
+ 
+{OR: Instructions: include the following options when the projected Initial Operation is 
+in advance of the study year used for the System Impact Study and Capacity 
+Interconnection Rights are only interim until the study year:} 
+ 
+ Pursuant to and subject to the applicable terms of the GIP, the Project Developer 
+shall have Capacity Interconnection Rights at the Point(s) of Interconnection 
+specified in this Generation Interconnection Agreement in the amount of ___ MW 
+commencing ____________ {e.g., June 1, 2023}.  During the time period from 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Specs 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+the effective date of this GIA until ___________ {e.g., May 31, 2023} (the 
+“interim time period”), the Project Developer may be awarded interim Capacity 
+Interconnection Rights in the amount not to exceed _____ MW.  The availability 
+and amount of such interim Capacity Interconnection Rights shall be dependent 
+upon completion and the results of an interim deliverability study.  To the extent 
+applicable, during the interim time period, PJM reserves the right to limit total 
+injections of the Generating Facility consistent with the results of the interim 
+deliverability study (which may be less than the Maximum Facility Output).  Any 
+interim Capacity Interconnection Rights awarded during the interim time period 
+shall terminate on _______________ {e.g., May 31, 2023}. 
+ 
+{OR:  Instructions: include the following options when there are a combination of 
+previously awarded CIRs and interim CIRs that have a termination date or event:} 
+ 
+Pursuant to and subject to the applicable terms of the GIP, the Project Developer 
+shall have Capacity Interconnection Rights at the Point(s) of Interconnection 
+specified in this GIA in the amount of ___ MW commencing ____ {e.g., June 1, 
+2023}.  From the effective date of this GIA until _____ {e.g., May 31, 2023} (the 

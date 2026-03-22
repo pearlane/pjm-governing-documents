@@ -1,0 +1,577 @@
+ATTACHMENT H-7C 
+ 
+PECO ENERGY COMPANY 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+ 
+Section I. Applicability 
+ 
+The following procedures (the “Protocols”) shall apply to PECO Energy Company’s (“PECO”) 
+calculations under its formula rate set forth in PJM OATT Attachment H-7A and H-7B 
+(“Monthly Deferred Tax Adjustment Charge” or “MDTAC”) (together, the “Formula Rate”).  The 
+Formula Rate and the Protocols together comprise the filed rate.  
+ 
+Section II. Annual Updates and Projected Net Revenue Requirements 
+ 
+A. On or before May 31 of each year, PECO shall determine its Net Revenue Requirements 
+for Attachments H-7A and H-7B for the immediately preceding year (the “Annual 
+Update”) in accordance with PECO’s Formula Rate. PECO shall use the Annual Update 
+to derive the True-Up Adjustments provided for in Section VI of these Protocols. At the 
+same time, PECO shall determine its projected net revenue requirements for Attachment 
+H-7A and H-7B for the twelve-month period beginning June 1 of the then-current year 
+(such twelve-month period referred to herein as the “Rate Year”). 
+ 
+B. On or before May 31 of each year, PECO shall provide its Annual Update and True-Up 
+Adjustments to PJM Interconnection, L.L.C. (“PJM”), cause such information to be 
+posted on the PJM website and OASIS, and file such information with the Federal Energy 
+Regulatory Commission (“FERC”) as an informational filing.  Within five (5) days of 
+such posting, PECO shall cause notice of such posting to be provided via an email 
+exploder list.  Interested Parties can subscribe to the exploder list on the PJM website. 
+For purposes of these Protocols, the term Interested Party includes, but is not limited to, 
+customers under the PJM Tariff, state utility regulatory commissions, the Organization of 
+PJM States, Inc., consumer advocacy agencies, and state attorneys general. 
+ 
+C. On or before May 31 of each year, PECO shall provide its projected net revenue 
+requirements to PJM, cause such information to be posted on the PJM website and 
+OASIS, and file such information with the FERC as an informational filing. Within five 
+(5) days of posting of the projected net revenue requirements, PECO shall cause notice of 
+such posting to be provided to an email exploder list.  In the event PECO’s Formula Rate 
+is first included in the PJM Tariff such that the first projected net revenue requirements 
+cannot be provided to PJM by June 1, PECO will nevertheless prepare a projection of its 
+net revenue requirements for the first Rate Year using the most recent information 
+available, and the projection will be posted on the PJM website and OASIS at least sixty 
+(60) days prior to the rates becoming effective.  If the Formula Rate becomes effective on 
+any date other than January 1, then notwithstanding anything in the Formula Rate or these 
+Protocols to the contrary, the True-up Adjustments for the first calendar year in which the 
+Formula Rate is in effect will be the difference between (1) the net revenue requirements 
+in the Annual Update for such calendar year divided by 365 and then multiplied by the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 2 
+number of days the rate was in effect for the calendar year and (2) the actual revenues 
+received for service provided during the period that the Formula Rate was in effect during 
+such year.1 PECO will conduct a meeting with Interested Parties on the projected net 
+revenue requirements for the first Rate Year between twenty (20) to forty (40) days after 
+posting.  Notice of the customer meeting, including the time, date, location, and remote 
+access information, shall be posted on the PJM website and OASIS and distributed to the 
+e-mail exploder list no less than seven (7) days prior to such meeting. 
+ 
+D. If the deadline for any event under these Protocols falls on a weekend or a holiday 
+recognized by FERC, the deadline for such event shall be extended to the next business 
+day. 
+ 
+E. The date on which posting of the Annual Update occurs shall be that year’s “Publication 
+Date.” Any delay in the Publication Date or in the posting of the projected net revenue 
+requirements will result in an equivalent extension of time for the submission of 
+information requests discussed in Section III of these Protocols. 
+ 
+F. The Annual Update shall: 
+ 
+1.  Include workable data-populated Formula Rate templates (Attachments H-7A 
+and H-7B) and underlying workpapers in native format with all formulas and 
+links intact for both (1) the True-Up Year actual net revenue requirements 
+referenced in Section VI.1., and (2) the Rate Year projected net revenue 
+requirements referenced in Sections II.A and VI.3; 
+ 
+2.  Be based on PECO’s FERC Form No. 1 data for the prior calendar year. 
+If the referenced form is superseded, the successor form(s) shall be 
+utilized and supplemented as necessary to provide equivalent information 
+as that provided in the superseded form. If the referenced form(s) is (are) 
+discontinued, equivalent information as that provided in the discontinued 
+form(s) shall be utilized. To the extent non-FERC Form No. 1 data is 
+used, such data must be (1) clearly identified as such, and (2) supported as 
+to its accuracy, due to, for example, such data being derived from data 
+contained in PECO’s books and records; 
+ 
+3.  Provide the Formula Rate calculations and all inputs thereto, as well as 
+supporting documentation and workpapers in native format for data that are 
+used in the Annual Update that are not otherwise available in the FERC Form 
+No. 1.  Supporting documentation and workpapers for Attachment H-7A, 
+Attachment 3 Project True-Up will include for each new Schedule 12 
+tariffed project listed individually on letter-denominated Line 3 entries  
+    
+1 For example, if the Formula Rate is made effective July 1, 2017, the True-Up Adjustment for 2017(included in the 
+rates charged June 1, 2018 through May 31, 2019) shall be equal to the difference between (1) the net revenue 
+requirement calculated under the Formula Rate for 2017, divided by 365, and multiplied by 184 and (2) the actual 
+revenues received for service provided during the period July 1, 2017 through December 31, 2017. 
+documentation of (1) the month in which project construction began and the date upon 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 3 
+which the project (or first operationally in service portion of the project) was 
+placed in service, (2) the current budgeted project costs as listed on the PJM 
+website, and (3) the costs cleared to plant in service as of December 31 of the 
+True-Up Year.  For the True-Up Year plus the preceding December, 
+supporting documentation in electronic spreadsheet format will also include 
+end-of-month gross plant balances for (1) each Schedule 12 project listed 
+individually on letter-denominated Line 3 entries and (2) the sum of the non-
+Schedule 12 projects included in the Attachment H-7A, Attachment 3, Line 3 
+Zonal entry. In addition, PECO will provide a workpaper that lists the original 
+in-service cost for each Schedule 12 tariffed project that is 100% allocated to 
+PECO; 
+4.  Provide supporting documentation for Attachment H-7B that will include 
+workpapers showing that the income tax/(credit) for excess deferred income 
+taxes is only related to the current year and reconciling input balances to the 
+appropriate FERC Form No. 1 data;  
+ 
+5.  Provide sufficient information to enable Interested Parties to replicate the 
+calculation of the Annual Update results from the FERC Form No. 1; 
+ 
+6.  Identify any changes in the formula references (page and line numbers) to the 
+FERC Form No. 1; 
+ 
+7.  Identify and, to the extent not explained in a worksheet included in the 
+ATRR, explain, all material adjustments made to the FERC Form No. 1 data 
+in determining formula inputs, including relevant footnotes to the FERC 
+Form No. 1 and any adjustments not shown in the FERC Form No. 1; 
+ 
+8.  Provide for the applicable Rate Year the following information related to 
+affiliate cost allocation: (a) a detailed description of the methodologies used to 
+allocate and directly assign costs between PECO and its affiliates by service 
+category or function, including any changes to such cost allocation 
+methodologies from the prior year and the reasons and justifications for those 
+changes; and (b) the magnitude of such costs that have been allocated or 
+directly assigned between PECO and each affiliate by service category or 
+function; 
+ 
+9.  Identify any change in accounting from that in effect for the calendar year 
+upon which the preceding Annual Update was based that affects inputs to the 
+Formula Rate or the resulting charges billed under the Formula Rate 
+(“Accounting Change”),2 including: 
+ 
+a. the initial implementation of an accounting standard or policy; 
+    
+2 Such notice may incorporate by reference applicable disclosure statements filed with the United States Securities 
+and Exchange Commission (“SEC”) or contained in the FERC Form No. 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 4 
+b. the initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction; 
+c. correction of errors and prior period adjustments that impact the 
+True-Up Adjustments calculation; 
+d. the implementation of new estimation methods or policies that 
+change prior estimates; and 
+e. changes to income tax elections; 
+10.  Identify items included in the Annual Update at an amount other than on a 
+historical cost basis (e.g., fair value adjustments); 
+11.  Identify any corporate reorganization involving asset transfers during the 
+previous year and explain the effect of the accounting for such transaction(s) 
+on inputs to the Annual Update; 
+12.  Identify any merger transaction, purchase/sale, or lease of jurisdictional assets 
+of another entity during the previous year valued in excess of $10,000,000, 
+and explain the effect of the accounting for such transaction(s) on inputs to the 
+Annual Update;  
+13.  Provide, for each item identified pursuant to items II.F.9 through II.F.12 of 
+these Protocols, a narrative explanation of the individual impact of such 
+changes on the True-Up Adjustments; 
+14.  Include a workpaper with a breakdown of all Service Company costs allocated 
+to and incurred by PECO and recognized in its Annual FERC Form No. 1, 
+including costs recorded in Account 923. This breakdown will show the 
+Service Company costs allocated to and incurred at PECO by FERC Account 
+and expense item, and will be reconciled to both Exelon Business Services 
+Company (BSC)’s Annual Form 60, Schedule XVII – Analysis of Billing – 
+Associate Companies (Account 457), Line 31 (or the equivalent line number 
+should that line number change) in addition to the inputs included in the annual 
+transmission formula rate template; 
+15.  Include a workpaper that lists the original in-service cost for each new 
+Schedule 12 tariffed project that is 100% allocated to PECO; 
+16.  Include a workpaper that identifies and describes the amount of book 
+depreciation expense associated with AFUDC Equity and its impact on income 
+tax expense. The work paper will be taken directly from PECO’s tax 
+accounting records, namely the widely-used PowerTax tax depreciation and 
+deferred tax software;   
+17.  Provide a list of issues, if any, that are the subject of an ongoing dispute under 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 5 
+the Informal or Formal Challenge procedures provided in these Protocols; and 
+18.  Include a workpaper that exhibits the 13-month average balances with regard 
+to the references to page 227 of the FERC Form No. 1 in column g (Materials 
+and Supplies) to Attachment 4 of the Formula Rate Template, for (i) line 8, (ii)   
+the transmission amount used from line 5 and (iii) line 16.  In addition, this 
+workpaper shall provide the calculation as described in Note L of Attachment 
+4 showing the 50% discount and cap for line 5 and the labor ratio multiplied 
+by line 16 for each month.   
+G. The projected net revenue requirements shall: 
+ 
+1.  Use the same inputs as the Annual Update except that it will include estimated 
+13 monthly balances for transmission plant and transmission accumulated 
+depreciation for the current year; 
+ 
+2.  Include workable data-populated Formula Rate templates (Attachments H-7A 
+and H-7B) and underlying workpapers in native format with all formulas and 
+links intact; 
+ 
+3.  Provide the Formula Rate calculations and all inputs thereto, with projected 
+transmission plant balances, including supporting documentation and 
+workpapers in native format for all such calculations, inputs and projections; 
+ 
+4.  Provide sufficient information to enable Interested Parties to replicate the 
+calculation of the projected net revenue requirements;  
+ 
+5.  Identify any Accounting Change, including: 
+ 
+a. the initial implementation of an accounting standard or policy; 
+ 
+b.  the initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction; 
+ 
+c. correction of errors and prior period adjustments that impact the 
+projected net revenue requirements calculation; 
+ 
+d. the implementation of new estimation methods or policies that change 
+prior estimates; 
+ 
+e. changes to income tax elections; 
+ 
+6.  Identify items included in the projected net revenue requirements at an 
+amount other than on a historical cost basis (e.g., fair value adjustments); 
+ 
+7.  Identify any corporate reorganization involving asset transfers during the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 6 
+previous year and explain the effect of the accounting for such transaction(s) 
+on inputs to the projected net revenue requirements; 
+ 
+8.  Identify any merger transaction, purchase/sale, or lease of jurisdictional assets 
+of another entity during the previous year valued in excess of $10,000,000, and 
+explain the effect of the accounting for such transaction(s) on inputs to the 
+projected net revenue requirements; 
+ 
+9. Provide, for each item identified pursuant to items II.G.5 through II.G.8 of 
+these Protocols, a narrative explanation of the individual impact of such 
+changes on the projected net revenue requirements. 
+ 
+H. PECO shall hold an open meeting among Interested Parties (“Annual Meeting”) no 
+earlier than ten (10) business days, and no later than forty-five (45) days after the 
+Publication Date. PECO will make the Annual Meeting remotely accessible; provided 
+that the schedule for holding such meeting for the first Rate Year shall be as stated in 
+Section II.C.  No less than seven (7) days prior to such Annual Meeting, PECO shall 
+provide notice on PJM’s internet website and OASIS of the time, date, location, and 
+remote access information for the Annual Meeting and PJM shall provide notice of such 
+meeting to an email exploder list. The Annual Meeting shall (i) permit PECO to explain 
+and clarify its Annual Update and True-Up Adjustments and (ii) provide Interested 
+Parties an opportunity to seek information and clarifications from PECO about the 
+Annual Update and True-Up Adjustments.  The estimated transmission plant balances 
+included in the projected net revenue requirements, including the informational filing 
+PECO submits under Section II.C of these Protocols will be included in the Annual 
+Meeting. 
+ 
+I. PECO will participate in joint informational meetings once it begins development of a 
+transmission project for which costs are to be regionally or inter-regionally allocated, or 
+when any such project proposes to allocate costs to PECO transmission customers.  The 
+purpose of PECO’s participation is to enable all Interested Parties to understand how 
+PECO and other transmission owners are implementing their formula rates for cost 
+recovery of such projects.  PECO will make the joint informational meeting remotely 
+accessible. Notice of joint informational meetings, including the time, date, location, and 
+remote access information, shall be posted on the PJM website and OASIS and 
+distributed to the email exploder list no less than seven (7) days prior to such meetings.  
+ 
+Section III. Information Exchange Procedures 
+ 
+Each Annual Update and projected net revenue requirements shall be subject to the following 
+information exchange procedures (“Information Exchange Procedures”): 
+ 
+A. Interested Parties shall have up to one-hundred eighty (180) days after each annual 
+Publication Date (unless such period is extended with the written consent of PECO or by 
+FERC order) to serve reasonable information and document requests on PECO 
+(“Information Exchange Period”). Such information and document requests shall be 
+limited to what is necessary to determine: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 7 
+ 
+1. the extent or effect of an Accounting Change; 
+ 
+2. whether the Annual Update or projected net revenue requirements fails to 
+include data properly recorded in accordance with these Protocols; 
+3. the proper application of the Formula Rate and procedures in these 
+Protocols; 
+ 
+4. the accuracy of data and consistency with the Formula Rate of the 
+calculations shown in the Annual Update and projected net revenue 
+requirements; 
+ 
+5. the reasonableness and prudence of actual costs and expenditures, including, but 
+not limited to, information regarding PECO’s procurement methods and cost 
+control methodologies; 
+ 
+6. the effect of any change to the underlying Uniform System of Accounts or 
+FERC Form No. 1; or 
+ 
+7. any other information that may reasonably have substantive effect on the 
+calculation of the charge pursuant to the Formula Rate. 
+ 
+The information and document requests shall not be directed to ascertaining whether the 
+Formula Rate is just and reasonable.   
+ 
+B. PECO shall make a good faith effort to respond to information and document requests 
+within fifteen (15) business days of receipt of such requests.  PECO shall respond to all 
+information and document requests by no later than two-hundred ten (210) days following 
+the Publication Date, unless the Information Exchange Period is extended  by FERC.  If 
+any of PECO’s response(s) include material PECO believes is privileged or confidential, 
+in whole or in part, such privileged or confidential material will be made available to the 
+requesting party pursuant to a confidentiality agreement to be executed by PECO and the 
+requesting party.       
+C. To the extent PECO and any Interested Party(ies) are unable to resolve disputes related to 
+information requests submitted in accordance with these Information Exchange 
+Procedures, PECO or any Interested Party may petition the FERC to appoint an 
+Administrative Law Judge as a discovery master.  The discovery master shall have the 
+power to issue binding orders to resolve discovery disputes and compel the production of 
+discovery, as appropriate, in accordance with the Information Exchange Procedures and 
+consistent with FERC’s discovery rules. 
+ 
+D. PECO shall not claim that responses to information and document requests provided 
+pursuant to these Protocols are subject to any settlement privilege in any subsequent 
+FERC proceeding addressing PECO’s Annual Update or projected net revenue 
+requirements. Interested Parties may use any information PECO provides under these 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 8 
+Protocols in filing Formal Challenges, or any pleadings in section 205 or 206 
+proceedings. 
+ 
+ 
+ 
+ 
+ 
+Section IV. Challenge Procedures 
+ 
+A. Interested Parties shall have until two-hundred forty (240) days following the 
+Publication Date (unless such period is extended with the written consent of PECO or by 
+FERC order) to review the inputs, supporting explanations, allocations and calculations 
+and to notify PECO in writing, which may be made electronically, of any specific 
+Informal Challenges to the Annual Update or projected net revenue requirements.  In 
+making such a challenge, an Interested Party may use the information that PECO 
+provides pursuant to the Information Exchange Procedures.  The period of time from the 
+Publication Date until two-hundred forty (240) days following the Publication Date shall 
+be referred to as the Review Period. Failure to pursue an issue through an Informal 
+Challenge or to lodge a Formal Challenge regarding any issue as to a given Annual 
+Update or projected net revenue requirement shall bar pursuit of such issue with respect 
+to that Annual Update or projected net revenue requirement, but shall not bar pursuit of 
+such issue or the lodging of a Formal Challenge as to such issue as it relates to a 
+subsequent Annual Update or projected net revenue requirement. This Section IV.A in 
+no way shall affect a party’s rights under section 206 of the FPA as set forth in Section 
+IV.I of these Protocols. 
+ 
+B. A party submitting an Informal Challenge to PECO must specify the inputs, supporting 
+explanations, allocations, calculations, or other information to which it objects, and 
+provide an appropriate explanation and documents to support its challenge. PECO shall 
+make a good faith effort to respond to any Informal Challenge within twenty (20) 
+business days of notification of such challenge. PECO, and where applicable, PJM, shall 
+appoint a senior representative to work with the party that submitted the Informal 
+Challenge (or its representative) toward a resolution of the challenge.  If PECO 
+disagrees with such challenge, PECO will provide the Interested Party(ies) with an 
+explanation supporting the inputs, supporting explanations, allocations, calculations, or 
+other information. No Informal Challenge may be submitted following the end of the 
+Review Period unless the Review Period is extended by PECO or FERC, and PECO 
+must respond to all Informal Challenges within twenty (20) business days, unless the 
+period for such response is extended by FERC. 
+ 
+C. Informal Challenges shall be subject to the resolution procedures and limitations in 
+this Section IV. Formal Challenges shall be filed pursuant to these Protocols and shall 
+satisfy all of the following requirements. 
+ 
+1. A Formal Challenge shall: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 9 
+a. Clearly identify the action or inaction which is alleged to violate the 
+filed Formula Rate or Protocols; 
+ 
+b. Explain how the action or inaction violates the filed Formula Rate or 
+Protocols; 
+ 
+c. Set forth the business, commercial, economic or other issues 
+presented by the action or inaction as such relate to or affect the party 
+filing the Formal Challenge, including: 
+ 
+i. The extent or effect of an Accounting Change; 
+ 
+ii. Whether the Annual Update or projected net revenue 
+requirements fail to include data properly recorded in 
+accordance with these Protocols; 
+ 
+iii. The proper application of the Formula Rate and procedures in  
+these Protocols; 
+ 
+iv. The accuracy of data and consistency with the Formula Rate 
+of the charges shown in the Annual Update or projected net 
+revenue requirements; 
+ 
+v. The prudence of actual costs and expenditures; 
+ 
+vi. The effect of any change to the underlying Uniform System of 
+Accounts or FERC Form No. 1; or 
+ 
+vii. Any other information that may reasonably have a substantive 
+effect on the calculation of the charge pursuant to the Formula 
+Rate. 
+ 
+d. Make a good faith effort to quantify the financial impact or burden (if 
+any) created for the party filing the Formal Challenge as a result of 
+the action or inaction; 
+ 
+e. State whether the issues presented are pending in an existing 
+Commission proceeding or a proceeding in any other forum in which 
+the filing party is a party, and if so, provide an explanation why 
+timely resolution cannot be achieved in that forum; 
+ 
+f. State the specific relief or remedy requested, including any request for 
+stay or extension of time, and the basis for that relief; 
+ 
+g. Include the documents necessary to substantiate the facts in the 
+Formal Challenge in possession of, or otherwise attainable by, the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 10 
+filing party, including, but not limited to, contracts and affidavits; 
+and 
+ 
+h. State whether the filing party utilized the Informal Challenge 
+procedures described in these Protocols to dispute the action or inaction 
+raised by the Formal Challenge, and, if not, describe why not. 
+ 
+2. Service. Any person filing a Formal Challenge must serve a copy of the 
+Formal Challenge on PECO. Service to PECO must be simultaneous with 
+filing at the Commission.  Simultaneous service can be accomplished by 
+electronic mail in accordance with 18 C.F.R. § 385.2010(f)(3), facsimile, 
+express delivery, or messenger.  The party filing the Formal Challenge shall 
+serve the individual listed as the contact person on the PECO’s Informational 
+Filing required under Section II of these Protocols. 
+ 
+D. Informal and Formal Challenges shall be limited to all issues that may be necessary 
+to determine: (1) the extent or effect of an Accounting Change; (2) whether the 
+Annual Update or projected net revenue requirements fail to include data properly 
+recorded in accordance with these Protocols; (3) the proper application of the 
+Formula Rate and procedures in these Protocols; (4) the accuracy of data and 
+consistency with the Formula Rate of the calculations shown in the Annual Update 
+and projected net revenue requirements; (5) the prudence of actual costs and 
+expenditures; (6) the effect of any change to the underlying Uniform System of 
+Accounts or FERC Form No. 1; or (7) any other information that may reasonably 
+have substantive effect on the calculation of the charge pursuant to the Formula 
+Rate. 
+ 
+E. PECO will cause to be posted on the PJM website and OASIS all Informal Challenges 
+from Interested Party(ies); except, however, if Informal Challenges include material 
+PECO believes should be treated as privileged or confidential in whole or in part, such 
+Informal Challenges will be publicly posted with such privileged or confidential 
+information redacted.  PECO will make such privileged or confidential information 
+available to requesting Interested Parties pursuant to a confidentiality agreement to be 
+executed by PECO and the requesting Interested Party(ies).   
+ 
+F. Any changes or adjustments to the Annual Update or True-up Adjustments or projected 
+net revenue requirements resulting from the Information Exchange and Informal 
+Challenge processes that are agreed to by PECO will be reported in the Informational 
+Filing required pursuant to Section II of these Protocols. Any such changes or 
+adjustments agreed to by PECO will be reflected in the following year’s Annual 
+Update and projected net revenue requirements, as discussed in Section V of these 
+Protocols. 
+ 
+G. An Interested Party shall have until seventy-five (75) days following the end of the 
+Review Period (unless such date is extended with the written consent of PECO to 
+continue efforts to resolve the Informal Challenge) to make a Formal Challenge with 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 11 
+FERC, which shall be served on PECO on the date of such filing as specified in Section 
+IV.C(2) above.  A Formal Challenge shall be filed in the same docket as PECO’s 
+Informational Filing discussed in Section II of these Protocols. PECO shall respond to 
+the Formal Challenge by the deadline established by FERC. A party may not pursue a 
+Formal Challenge if that party did not submit an Informal Challenge on any issue during 
+the applicable Review Period. 
+ 
+H. In any proceeding initiated by FERC concerning the Annual Update or projected net 
+revenue requirements or in response to a Formal Challenge, PECO shall bear the burden, 
+consistent with section 205 of the FPA, of proving that it has correctly applied the terms 
+of the Formula Rate consistent with these Protocols, and that it followed the applicable 
+requirements and procedures in these Protocols. Nothing herein is intended to alter the 
+burdens applied by FERC with respect to prudence challenges. 
+ 
+I. Except as specifically provided herein, nothing herein shall be deemed to limit in any 
+way the right of PECO to file unilaterally, pursuant to FPA section 205 and the 
+regulations thereunder, to change the Formula Rate or any of its inputs (including, but 
+not limited to, rate of return and transmission incentive rate treatment), or to replace 
+the Formula Rate with a stated rate, or the right of any other party to request such 
+changes pursuant to section 206 of the FPA and the regulations thereunder. 
+ 
+J. No party shall seek to modify the Formula Rate under the Challenge Procedures set 
+forth in these Protocols and the Annual Update and projected net revenue requirements 
+shall not be subject to challenge by anyone for the purpose of modifying the Formula 
+Rate.  Any modifications to the Formula Rate will require, as applicable, an FPA 
+section 205 or section 206 filing. 
+ 
+K. No later than March 31, 2020, and each March 31 thereafter, PECO shall submit a 
+limited FPA section 205 filing to revise its depreciation rates for Accounts 352 through 
+359 and 390 through 398 and amortization rates for Account 303. The depreciation rates 
+shall be consistent with PECO’s recorded depreciation expense and gross plant balances 
+for the immediately preceding year.  PECO will propose to the Commission in such 
+FPA section 205 filing that the new depreciation and amortization rates be made 
+effective such that they will be used when PECO performs its next true-up calculation 
+following such filing (e.g. for use by May 31, 2020 for the true-up of 2019 rates in the 
+case of the March 31, 2020 section 205 filing).  Any party may oppose PECO’s revised 
+depreciation and amortization rates and/or its requested effective date.  When, at least 
+once every five years, PECO completes its depreciation study, it will file said study as 
+part the limited FPA section 205 filing to which such study relates.   
+ 
+L. PECO may, at its discretion and at a time of its choosing, make a limited filing 
+pursuant to section 205 to modify stated values in its Formula Rate for (i) 
+amortization and depreciation rates (including the filing contemplated by Section 
+IV.K., above), (ii) Post-Retirement Benefits Other than Pensions rates, or (iii) the 
+weighting of the ADIT balance in rate base to ensure PECO’s compliance with the 
+Internal Revenue Service (“IRS”) regulations for normalization under IRS Section 
+1.167(l)-1(h)(6).  Unless the Commission determines otherwise upon review of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-7C - PECO 
+Effective Date: 12/5/2019 - Docket #: ER17-1519-003 - Page 12 
+filing and responsive pleadings, the sole issue in any such limited section 205 
+proceeding shall be whether such proposed change(s) is just and reasonable, and it 
+shall not address other aspects of the Formula Rate.   
+ 
+M. Any Interested Party seeking changes to the application of the Formula Rate due to a 
+change in the Uniform System of Accounts or FERC Form No. 1, shall first raise the 
+matter with PECO in accordance with this Section IV before pursuing a Formal 
+Challenge. 
+ 
+Section V. Changes to True-Up Adjustments or Projected Net Revenue 
+Requirements 
+ 
+Except as provided in Section IV.F of these Protocols, any changes to the data inputs, 
+including but not limited to revisions to PECO’s FERC Form No. 1, or as the result of any 
+FERC proceeding to consider the Annual Update or projected net revenue requirements, shall 
+be incorporated into the Formula Rate and the charges produced by the Formula Rate in the 
+Annual Update and projected net revenue requirements for the next Rate Year. This 
+reconciliation mechanism shall apply in lieu of mid-Rate Year adjustments. Interest on any 
+refund or surcharge shall be calculated in accordance with the procedures outlined in Section 
+VI of these Protocols. 
+ 
+Section VI. Calculation of True-Up Adjustments 
+ 
+The True-Up Adjustments will be determined in the following manner: 
+ 
+A. Actual transmission revenues received the previous year (“True-Up Year”) shall be 
+compared to the actual net revenue requirements (calculated in accordance with PECO’s 
+Formula Rate) for the True-Up Year as determined using PECO’s completed FERC 
+Form No. 1 report to determine any excess or shortfall. The excess or shortfall due to 
+the actual revenue received versus the actual net revenue requirements shall constitute 
+the “True-Up Adjustments.” The True-Up Adjustments and related calculations shall be 
+posted to PJM’s website and OASIS no later than May 31 following the issuance of the 
+FERC Form No. 1 for the previous year, as set forth in Section II of these Protocols. 
+ 
+B. Interest on any over or under recovery of the net revenue requirements shall be 
+determined based on the Commission’s regulation at 18 C.F.R § 35.19a as set forth in 

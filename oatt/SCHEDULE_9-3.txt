@@ -1,0 +1,112 @@
+SCHEDULE 9-3 
+Market Support Service 
+ 
+a) Market Support Service comprises all of the activities of PJM associated with supporting 
+the operation of the PJM Interchange Energy Market and related functions, as described in 
+Operating Agreement, Schedule 1 and Tariff, Attachment K-Appendix, including, but not limited 
+to, market modeling and scheduling functions, locational marginal pricing support, and support 
+of PJM’s Internet-based customer transaction tools, and the administration of Regulation and 
+Frequency Response Service under Schedule 3 of this Tariff.  PJM provides this service to 
+customers using Point-to-Point or Network Integration Transmission Service under this Tariff, to 
+Generation Providers, as defined below, to entities that submit offers to sell or bids to buy energy 
+in the PJM Interchange Energy Market, and to entities that supply, and entities that rely upon, 
+Regulation and Frequency Response Service. 
+ 
+b) PJM will charge each user of Market Support Service each month a charge equal to the 
+sum of:  (i) the MS Service Rate, Component 1, as defined below, times (1) the total quantity in 
+MWhs of energy delivered to load (including losses and net of operating Behind The Meter 
+Generation, but not to be less than zero) in the PJM Region or for export from such region during 
+such month by such user as a customer under Point-to-Point Transmission Service (other than 
+Wheeling-Through Service, as defined below) or Network Integration Transmission Service, 
+plus (2) the total quantity in MWhs of energy input into the Transmission System during such 
+month by such user as a Generation Provider, as defined below, plus (3) the total quantity in 
+MWhs of all accepted Increment Offers and accepted Decrement Bids, and all accepted “Up-to” 
+Congestion Transactions submitted pursuant to Tariff, Attachment K-Appendix, section 
+1.10.1A(c), submitted by such user during such month; plus (ii) the MS Service Rate Component 
+2, as defined below, times the number of Bid/Offer Segments, as defined below, submitted by 
+such user during such month.  For purposes of this Schedule 9-3, Wheeling-Through Service is 
+Point-to-Point Transmission Service for which both the Point of Receipt and the Point of 
+Delivery are at interconnections of the PJM Region with other Control Areas. 
+ 
+c) For purposes of this Schedule 9-3, a Generation Provider shall be:  (i) a Generation 
+Owner, as such term is defined in the Operating Agreement; provided, however, that if a 
+Generation Owner is not the entity credited on PJM’s records for the energy input into the 
+Transmission System from the generation facilities owned or leased (with rights equivalent to 
+ownership) by such Generation Owner, as, for example, in the case of a qualifying facility selling 
+energy to a public utility pursuant to section 210 of the Public Utility Regulatory Policies Act of 
+1978, then, with respect to such energy, the Generation Provider shall be the entity credited on 
+PJM’s records for the energy input into the Transmission System from such generation facilities; 
+(ii) a Network Customer or Point-to-Point Transmission Service customer, with respect to energy 
+arranged by such customer to be delivered for import into the PJM Region; or (iii) a Market 
+Seller with respect to energy arranged by such Market Seller to be delivered for import to the 
+boundaries of the PJM Region and for which there is no separately identifiable Transmission 
+Customer.  As the term is used in this Schedule 9-3, energy “credited on PJM’s records” does not 
+necessarily mean that a monetary credit resulted on any billing statement provided by PJM.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-3 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 2 
+d) For purposes of this Schedule 9-3, a Bid/Offer Segment shall be each price/quantity pair 
+submitted into the Day-ahead Energy Market, including those submitted in the generation 
+rebidding period pursuant to Tariff, Attachment K-Appendix, section 1.10.9(a).  Segments shall 
+be hourly for each bid to purchase energy, each Increment Offer, each Decrement Bid, each “Up-
+to” Congestion Transaction, and each Day-ahead Pseudo-Tie Transaction.  Segments shall be 
+daily for each offer to sell other than an Increment Offer.  Each “Up-to” Congestion Transaction 
+also shall be considered a Bid/Offer Segment. 
+ 
+e) MS Service Rate shall be calculated monthly, in accordance with the following formulae: 
+ 
+MS Service Rate, Component 1 =  
+ 
+Monthly MS MWh Cost 
+Monthly MS MWh Determinants 
+ 
+MS Service Rate, Component 2 =  
+ 
+Monthly MS Bid/Offer Segment Cost 
+Monthly MS Bid/Offer Segment Determinants 
+ 
+where: 
+ 
+“Annual MS MWh Cost” equals 0.987 times the sum of the MS Cost Component A.1 
+plus MS Cost Component A.2 plus MS Cost Component A.3, as defined below. 
+ 
+“Annual MS Bid/Offer Segment Cost” equals 0.013 times the sum of MS Cost 
+Component A.1 plus MS Cost Component A.2 plus MS Cost Component A.3, as defined 
+below. 
+ 
+“MS Cost Component A.1” equals the product of: 11.8% times the Actual Costs for all 
+Divisions in the month for which the Market Support Service Rate is being calculated. 
+ 
+“MS Cost Component A.2” equals the Overhead Allocation to Market Support Service as 
+determined pursuant to Schedule 9-5 of PJM’s Actual Costs for Management Service 
+Cost during the month for which the Market Support Service Rate is being calculated. 
+ 
+“MS Cost Component A.3” equals PJM’s Actual Costs for the Non-Divisional Costs that 
+are assigned to Market Support Service for the month for which the Market Support 
+Service Rate is being calculated. 
+ 
+and where 
+ 
+“Monthly MS MWh Determinants” equals the actual total quantity in MWhs of the 
+energy delivered by all customers under Point-to-Point or Network Integration 
+Transmission Service (less the MWhs of energy delivered as Wheeling-Through 
+Service), plus the total quantity in MWhs of energy input into the Transmission System 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-3 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 3 
+by all Generation Providers, plus the actual total quantity in MWhs of all accepted 
+Increment Bids, accepted Decrement Bids, and accepted “up-to” congestion bids, for the 
+month for which the Market Support Service Rate is being calculated. 
+ 
+“Monthly MS Bid/Offer Segment Determinants” equals the actual total amount of all 
+Bid/Offer Segments of all parties submitting Bid/Offer Segments for the month for which 
+the Market Support Service Rate is being calculated. 
+ 
+   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-4 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 1 

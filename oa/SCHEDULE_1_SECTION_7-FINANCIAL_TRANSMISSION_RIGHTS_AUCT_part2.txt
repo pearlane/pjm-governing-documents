@@ -1,0 +1,379 @@
+[SCHEDULE 1 SECTION 7-FINANCIAL TRANSMISSION RIGHTS AUCT - Part 2 of 2]
+
+differential between the source and sink nodes of the corresponding FTR obligation in each 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.4 Allocation of Auction 
+Revenues. 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 11 
+prompt-month FTR auction that occurs from the effective date of the Residual Auction Revenue 
+Rights through the end of the relevant Planning Period. 
+ 
+7.4.4 Calculation of Auction Revenue Right Credits. 
+ 
+(a) Each day, the total of all the daily Target Allocations determined as specified above in 
+Section 7.4.3 plus any additional Auction Revenue Rights Target Allocations applicable for that 
+day shall be compared to the total revenues of all applicable monthly Financial Transmission 
+Rights auction(s) (divided by the number of days in the month) plus the total revenues of the 
+annual Financial Transmission Rights auction (divided by the number of days in the Planning 
+Period). If the total of the Target Allocations is less than the total auction revenues, the Auction 
+Revenue Right Credit for each entity holding an Auction Revenue Right shall be equal to its 
+Target Allocation.  All remaining funds shall be distributed as Excess Congestion Charges 
+pursuant to Section 5.2.6. 
+ 
+(b) If the total of the Target Allocations is greater than the total auction revenues, each holder 
+of Auction Revenue Rights shall be assigned a share of the total auction revenues in proportion 
+to its Auction Revenue Rights Target Allocations for Auction Revenue Rights which have a 
+positive Target Allocation value. Auction Revenue Rights which have a negative Target 
+Allocation value are assigned the full Target Allocation value as a negative Auction Revenue 
+Right Credit. 
+ 
+(c) At the end of a Planning Period, if all Auction Revenue Right holders did not receive 
+Auction Revenue Right Credits equal to their Target Allocations, PJMSettlement shall assess a 
+charge equal to the difference between the Auction Revenue Right Credit Target Allocations for 
+all revenue deficient Auction Revenue Rights and the actual Auction Revenue Right Credits 
+allocated to those Auction Revenue Right holders.  The aggregate charge for a Planning Period 
+assessed pursuant to this section, if any, shall be added to the aggregate charge for a Planning 
+Period assessed pursuant to section 5.2.5(c) of Schedule 1 of this Agreement and collected 
+pursuant to section 5.2.5(c) of Schedule 1 of this Agreement and distributed to the Auction 
+Revenue Right holders that did not receive Auction Revenue Right Credits equal to their Target 
+Allocation. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.5 Simultaneous Feasibility 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.5 Simultaneous Feasibility. 
+ 
+(a) The Office of the Interconnection shall make the simultaneous feasibility determinations 
+specified herein using appropriate powerflow models of contingency-constrained dispatch.  
+Simultaneous feasibility determinations shall take into account outages of both individual 
+generation units and transmission facilities and shall be based on reasonable assumptions about 
+the configuration and availability of transmission capability during the period covered by the 
+auction that are not inconsistent with the determination of the deliverability of Generation 
+Capacity Resources under the Reliability Assurance Agreement.  The goal of the simultaneous 
+feasibility determination shall be to ensure that there are sufficient revenues from Day-ahead 
+Energy Market Transmission Congestion Charges to satisfy all Financial Transmission Rights 
+Obligations for the auction period under expected conditions and to ensure that there are 
+sufficient revenues from the annual Financial Transmission Right Auction to satisfy all Auction 
+Revenue Rights Obligations.  To ensure revenue sufficiency, the powerflow model used for 
+simultaneous feasibility determinations is a markets model that uses flows caused by sources and 
+sinks of requested Auction Revenue Rights (including Incremental Auction Revenue Rights) or 
+Financial Transmission Rights, as well as market limits (as described in section (b) below) to 
+determine the capability available to accommodate financial rights that are simultaneously 
+feasible.  The markets model differs from both an operations model, which uses physical 
+generators or load, and a planning model, which uses expected physical generators or load. 
+ 
+(b) Simultaneous feasibility determinations pursuant to this section utilize applicable market 
+limits.  Market limits may differ from physical facility ratings to reflect expected market 
+capability and to align expected Financial Transmission Rights total target allocations with 
+expected congestion, and to ensure sufficient revenues are collected from the Day-ahead Energy 
+Market Transmission Congestion Charges to satisfy all Financial Transmission Rights 
+obligations.  To account for historical market impacts, market limits may reflect (without 
+limitation) such factors as requested and awarded Auction Revenue Rights, Incremental Auction 
+Revenue Rights and Financial Transmission Rights, uncompensated powerflow, external 
+flowgate entitlements or limits, transfer limits of the type appropriate for reactive interfaces, 
+operational considerations, voltage limitations and/or closed loop interfaces.  Market limits also 
+are based on reasonable assumptions about the configuration and availability of transmission 
+capability during the study period, including (without limitation) scheduled or expected 
+transmission outages.  The market limits are applied to facilities modeled in an Auction Revenue 
+Rights allocation, Financial Transmission Rights auction or Incremental Auction Revenue Rights 
+study and may result in operative constraints that establish different limits than physical (e.g., 
+thermal or voltage) ratings.  As used here, an operative constraint results when a market limit 
+binds in the powerflow model and constrains the grant of Auction Revenue Rights, Incremental 
+Auction Revenue Rights or Financial Transmission Rights. 
+ 
+(c) On an annual basis the Office of the Interconnection shall conduct a simultaneous 
+feasibility test for stage 1A Auction Revenue Rights, which shall assess the simultaneous 
+feasibility for each year remaining in the term of the right(s).  This test shall be based on the 
+Auction Revenue Rights required to meet sixty percent (60%) of peak load in each Zone 
+requirements.  The Office of the Interconnection shall apply a zonal load growth rate to the 
+simultaneous feasibility test for the ten year term of the stage 1A Auction Revenue Rights to 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.5 Simultaneous Feasibility 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 2 
+reflect load growth as estimated by the Office of the Interconnection. 
+ 
+(d)  Simultaneous feasibility tests for new stage 1 resource requests made pursuant to Section 
+7.6 of Schedule 1 of this Agreement shall ensure that the request for a new base resource does 
+not increase the megawatt flow on facilities binding in the current Auction Revenue Rights 
+allocation or in future stage 1A allocations and does not cause megawatt flow to exceed 
+applicable ratings on any other facilities in either set of conditions.  The most limiting set of 
+conditions will be used as the limiting condition in these evaluations.  A simultaneous feasibility 
+test conducted pursuant to this section by the Office of the Interconnection shall assess the 
+simultaneous feasibility under the following conditions: 
+ 
+(i) Based on next allocation year with all existing stage 1 and stage 2 Auction 
+Revenue Rights modeled as fixed injection-withdrawal pairs. 
+ 
+(ii) Based on 10 year allocation model with all eligible stage 1A Auction Revenue 
+Rights for each year including base load growth for each year. 
+ 
+(e) Simultaneous feasibility tests for Incremental Auction Revenue Rights requested 
+pursuant to Operating Agreement, Schedule 1, section 7.8 and Tariff, Part VI, Subpart C, section 
+231 shall ensure that the request for the Incremental Auction Revenue Rights does not increase 
+the megawatt flow on facilities binding in the current Auction Revenue Rights allocation or in 
+future stage 1A allocations and does not cause megawatt flow to exceed applicable ratings on 
+any other facilities in either set of conditions.  The most limiting set of conditions will be used as 
+the limiting conditions in these evaluations.  A simultaneous feasibility test conducted pursuant 
+to this section by the Office of the Interconnection shall assess the simultaneous feasibility using 
+the following models derived from the markets model: 
+ 
+(i) An Incremental Auction Revenue Rights model that is based on the existing 
+allocation year with transmission outages removed (i.e., the transmission assumed 
+out of service in the base markets model is assumed to be in service).  All existing 
+stage 1 and stage 2 Auction Revenue Rights are modeled as fixed injection 
+withdrawal pairs. 
+ 
+(ii) A 10 year allocation model with all eligible stage 1A Auction Revenue Rights for 
+each year including base load growth for each year. 
+ 
+(f) Simultaneous feasibility tests pursuant to section (e) above utilize a transfer analysis to 
+determine the flow impacts.  The transfer analysis is performed by injecting at the source and 
+withdrawing at the sink and measuring the impacts on the facilities.  Additional details are 
+provided in the PJM Manuals and related explanatory materials posted on the PJM website such 
+as the PJM Whitepaper entitled “PJM Incremental Auction Revenue Rights Model Development 
+and Analysis.” 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.6 New Stage 1 Resources. 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.6  New Stage 1 Resources. 
+ 
+A Network Service User may request the addition of new stage 1 resources to the stage 1 
+resource list if the capacity of the Stage 1 generation resources for a Zone determined pursuant to 
+Section 7.4.2(b) is less than sixty percent (60%) of the of peak load in the Zone.  Requests made 
+pursuant to this section shall be subject to Section 7.5(c) of Schedule 1 of this Agreement and 
+shall be limited to generation resources either owned by the requesting party or those subject to a 
+bona fide firm energy and capacity supply contracts where such contract is executed by the 
+requesting party to meet load obligations for which it is eligible to receive stage 1 Auction 
+Revenue Rights and remains in force and effect for a minimum term of ten (10) years. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.7 Alternate Stage 1 Resources. 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+7.7 Alternate Stage 1 Resources. 
+ 
+A Network Service User may replace one or more of its existing stage 1 resources and its 
+associated megawatt amount of Auction Revenue Rights determined pursuant to Section 7.4.2(b) 
+with an alternate resource.  It the Network Service User making such request accepts the 
+megawatt amount of Auction Revenue Rights associated with the alternate resource as 
+established by the Office of the Interconnection, the alternate resource shall replace the relevant 
+existing stage 1 resource prospectively beginning with the next annual Auction Revenue Rights 
+allocation.  If the Network Service User making such request rejects the megawatt amount of 
+Auction Revenue Rights established by the Office of the Interconnection for the alternate 
+resource, the Auction Revenue Rights associated with the original stage 1 resource shall remain 
+in effect for the Network Service User.  Requests made pursuant to this section shall be subject 
+to the following: 
+ 
+• Requests made pursuant to this section shall be subject to Section 7.5(c); 
+ 
+• Eligible alternate resources shall be limited to generation resources owned by the 
+requesting party or bona fide firm energy and capacity supply contracts that meet the 
+requirements set forth in Section 7.6 of Schedule 1 of this Agreement; 
+ 
+• Alternate resources shall be of an electrically equivalent megawatt amount, which means 
+that relative to the existing resource, the alternate resource cannot consume a greater 
+amount of transmission capability on facilities binding in the current Auction Revenue 
+Rights allocation or future stage 1A allocations, and cannot allow megawatt flow(s) to 
+exceed applicable ratings on any other facilities; 
+ 
+• The total amount of requested alternate stage 1 Auction Revenue Rights cannot exceed 
+the original awarded stage 1 megawatt amounts of Auction Revenue Rights associated 
+with the original historical resource as determined pursuant to Section 7.4.2(b). 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.8 Elective Upgrade Auction 
+Revenue Right 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.8 Elective Upgrade Auction Revenue Rights. 
+ 
+(a) In addition to any Incremental Auction Revenue Rights established under the PJM Tariff, 
+any party may elect to fully fund Network Upgrades to obtain Incremental Auction Revenue 
+Rights pursuant to this section, provided that Incremental Auction Revenue Rights granted 
+pursuant to this section shall be simultaneously feasible with outstanding Auction Revenue 
+Rights, which shall include stage 1 and stage 2 Auction Revenue Rights, and against stage 1A 
+Auction Revenue Right capability for the future 10 year period, as determined by the Office of 
+the Interconnection pursuant to Section 7.8(b) of Schedule 1 of this Agreement.  A request made 
+pursuant to this section shall specify a source, sink and megawatt amount, where the source and 
+sink each meet the criteria described for stage 1 in Operating Agreement, Schedule 1, sections 
+7.4.2(b) and 7.4.2(c). 
+ 
+(b) The Office of the Interconnection shall assess the simultaneous feasibility of the 
+requested Incremental Auction Revenue Rights and the outstanding Auction Revenue Rights 
+against the existing base system Auction Revenue Right capability and stage 1A Auction 
+Revenue Right capability for the future 10 year period pursuant to Operating Agreement, 
+Schedule 1, section 7.5.  This preliminary assessment will determine the incremental flow impact 
+necessary on facilities. 
+ 
+(c) The incremental flow impact represents the incremental capability required on a facility 
+to ensure the requested Incremental Auction Revenue Rights can be made feasible.  This 
+required capability is used to determine the upgrades required to accommodate the requested 
+Incremental Auction Revenue Rights and ensure all outstanding Auction Revenue Rights are 
+simultaneously feasible.  Additional details are provided in the PJM Manuals and related 
+explanatory materials posted on the PJM website such as the PJM Whitepaper entitled “PJM 
+Incremental Auction Revenue Rights Model Development and Analysis.” 
+ 
+(i) For Incremental Auction Revenue Rights requests, the Office of the 
+Interconnection shall use an Incremental Auction Revenue Rights model to 
+perform the simultaneous feasibility test detailed in Operating Agreement, 
+Schedule 1, section 7.5.  The Incremental Auction Revenue Rights model shall 
+consist of an Incremental Auction Revenue Rights model and the 10 year stage 
+1A Auction Revenue Rights model.  An Incremental Auction Revenue Rights 
+model uses the same transmission system model used in the annual Auction 
+Revenue Rights process, except any modeled transmission outages included in the 
+Auction Revenue Rights process are removed (i.e., the transmission assumed out 
+of service in the base markets model is assumed to be in service).  Auction 
+Revenue Rights requests that were denied or pro-rated in the annual Auction 
+Revenue Rights allocation as a result of assumed transmission outages also are 
+restored in the Incremental Auction Revenue Rights model because the 
+transmission is assumed to be in service for purposes of this model.   
+ 
+(ii) If the incremental market flows created by the Incremental Auction Revenue 
+Rights request cause facilities to be limited or increase the market flow on already 
+limited facilities in either the Incremental Auction Revenue Rights model or the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.8 Elective Upgrade Auction 
+Revenue Right 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 2 
+10 year stage 1A Auction Revenue Rights model, increased system capability will 
+be required in order for the Office of the Interconnection to grant the Incremental 
+Auction Revenue Rights request.  This required incremental capability is used to 
+determine the upgrades required to accommodate the requested Incremental 
+Auction Revenue Rights and ensure all outstanding Auction Revenue Rights 
+(including any pro-rated but restored Auction Revenue Rights requests) are 
+simultaneously feasible.  Additional details are provided in the PJM Manuals and 
+related explanatory materials posted on the PJM website such as the PJM 
+Whitepaper entitled “PJM Incremental Auction Revenue Rights Model 
+Development and Analysis.” 
+ 
+(iii) In addition to the Incremental Auction Revenue Rights model, the Office of the 
+Interconnection uses a planning model that consists of the Regional Transmission 
+Expansion Plan model used by the Office of the Interconnection to study system 
+needs and proposed projects five years forward combined with modeled in-service 
+and planned generation and forecasted load.  The planning model includes 
+transmission system upgrades that are ahead of the proposed Incremental Auction 
+Revenue Rights request in the New Services Queue.  The upgrades required for 
+the Incremental Auction Revenue Rights request must achieve additional 
+incremental capability over and above any planned baseline or Supplemental 
+Project upgrades, including upgrades related to a Supplemental Project with a 
+projected in-service date later than the applicable planning case year. 
+ 
+(d) If a party elects to fund upgrades to obtain Incremental Auction Revenue Rights pursuant 
+to this section, no less than forty-five (45) days prior to the in-service date of the relevant 
+upgrades, as determined by the Office of the Interconnection, the Office of the Interconnection 
+shall notify the party of the actual amount of Incremental Auction Revenue Rights that will be 
+granted to the party based on the allocation process established pursuant to Section 231 of Part 
+VI of the Tariff. 
+ 
+(e) Incremental Auction Revenue Rights established pursuant to this section shall be 
+effective for the lesser of thirty (30) years, or the life of the project, from the in-service date of 
+the Network Upgrade(s).  At any time during this thirty-year period (or the life of the Network 
+Upgrade whichever is less), in lieu of continuing this thirty-year Auction Revenue Right, the 
+owner of the right shall have a one-time choice to switch to an optional mechanism, whereby, on 
+an annual basis, it will have the choice to request an Auction Revenue Right during the annual 
+Auction Revenue Rights allocation process between the same source and sink, provided the 
+Auction Revenue Right is simultaneously feasible.  A party that is granted Incremental Auction 
+Revenue Rights pursuant to this section may return such rights at any time, provided that the 
+Office of the Interconnection determines that it can simultaneously accommodate all remaining 
+outstanding Auction Revenue Rights following the return of such Auction Revenue Rights.  In 
+the event a party returns Incremental Auction Revenue Rights, it shall retain no further rights 
+regarding such Incremental Auction Revenue Rights. 
+ 
+(f) No Incremental Auction Revenue Rights shall be granted pursuant to this section if the 
+costs associated with funding the associated Network Upgrades are included in the rate base of a 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.8 Elective Upgrade Auction 
+Revenue Right 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 3 
+public utility and on which a regulated return is earned. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.9 Residual Auction Revenue 
+Rights. 
+Effective Date: 5/1/2018 - Docket #: ER18-934-000 - Page 1 
+7.9 Residual Auction Revenue Rights. 
+ 
+(a) As necessary in each Planning Period PJM shall calculate Residual Auction Revenue 
+Rights for Auction Revenue Rights pathways that were prorated pursuant to section 7.4.2(h) of 
+Schedule 1 of this Agreement.  Residual Auction Revenue Rights calculated pursuant to this 
+section shall be determined prior to the increase in transmission capability, including the return 
+to service of existing transmission capability, that creates the Residual Auction Revenue Rights. 
+ 
+(b) Network Service Users and Qualifying Transmission Customers allocated stage 1 
+Auction Revenue Rights pursuant to Operating Agreement, Schedule 1, sections 7.4.2(a)-(c) that 
+were subject to proration pursuant to Operating Agreement, Schedule 1, section 7.4.2(h) shall be 
+eligible to receive Residual Auction Revenue Rights.  Residual Auction Revenue Rights shall be 
+allocated pursuant to the following schedule: 
+ 
+(i)  The initial allocation of Residual Auction Revenue Rights shall be to 
+holders of prorated stage 1A Auction Revenue Rights in an amount equal 
+to the difference between the allocated stage 1A Auction Revenue Rights 
+and the requested stage 1A Auction Revenue Rights.  
+ 
+(ii) Residual Auction Revenue Rights remaining after an allocation made 
+pursuant to Operating Agreement, Schedule 1, section 7.9(b)(i) shall be 
+allocated to holders of prorated stage 1B Auction Revenue Rights in an 
+amount equal to the difference between the allocated stage 1B Auction 
+Revenue Rights and the requested stage 1B Auction Revenue Rights.  
+ 
+(iii)  Residual Auction Revenue Rights remaining after allocations made 
+pursuant to Operating Agreement, Schedule 1, sections 7.9(b)(i) and (ii) 
+shall not be allocated to any entity and shall not be considered by the 
+Office of the Interconnection in its administration of Operating 
+Agreement, Schedule 1, section 7. 
+ 
+(c) The sum of a Network Service User’s and Qualifying Transmission Customer’s Residual 
+Auction Revenue Rights awarded pursuant to this section and its stage 1 and 2 Auction Revenue 
+Rights awarded in an annual allocation shall not exceed the entity’s peak load.   
+ 
+(d) Residual Auction Revenue Rights awarded pursuant to this section shall be effective on 
+the first day of the month in a Planning Period the increase in transmission capability  creating 
+the Residual Auction Revenue Rights is included in the administration of Operating Agreement, 
+Schedule 1, section 7.1.1(a). 
+ 
+(e) Residual Auction Revenue Rights awarded pursuant to this section shall be subject to 
+Operating Agreement, Schedule 1, section 7.4.2(e). 
+ 
+(f)  The value of Residual Auction Revenue Rights awarded pursuant to this section, 
+determined as specified in Operating Agreement, Schedule 1, section 7.4.3(b), shall be positive. 
+Negatively valued Residual Auction Revenue Rights will not be awarded.  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.10 Financial Settlement 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+7.10 Financial Settlement  
+ 
+Financial credits and charges for Auction Revenue Rights and Financial Transmission Rights, 
+including associated auction charges, shall be calculated and accrued on a daily basis, and 
+included in PJMSettlement’s regular invoice to each participant for the relevant period of such 
+invoice. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> 
+OA SCHEDULE 1 SECTION 7 - FINANCIAL TRANSMISSION RIGHTS AUCT --> OA Schedule 1 Sec 7.11 
+PJMSettlement as Counterparty 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+7.11 PJMSettlement as Counterparty 
+ 
+(a) Auction Revenue Rights and Financial Transmission Rights provide certain 
+contractual rights and obligations for the holders of such rights set forth in this Schedule 1, 
+the Agreement, and the PJM Tariff.  PJMSettlement shall be the Counterparty with respect 
+to the contractual rights and obligations of the holders of Auction Revenue Rights, and 
+Financial Transmission Rights. 
+ 
+(b) As specified in sections 5.2.2(d) and 7 of this Schedule 1, Market Participants may 
+trade Financial Transmission Rights and Auction Revenue Rights and under certain 
+circumstances they may convert Auction Revenue Rights to Financial Transmission Rights. 
+PJMSettlement shall not be the counterparty with respect to bilateral transfers of Financial 
+Transmission Rights or Auction Revenue Rights between Market Participants or the 
+conversion of Auction Revenue Rights to Financial Transmission Rights.   
+ 
+

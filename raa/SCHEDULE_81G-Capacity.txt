@@ -1,0 +1,84 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.G-Capacity 
+Resource Performance 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+G. Capacity Resource Performance 
+ 
+1. Any Capacity Resource committed by an FRR Entity in an FRR Capacity Plan for a 
+Delivery Year shall be subject during such Delivery Year to the charges set forth in Tariff, 
+Attachment DD, section 7, Tariff, Attachment DD, section 7A, Tariff, Attachment DD, section 
+10A, Tariff, Attachment DD, section 11A, and Tariff, Attachment DD, section 13; provided, 
+however: (i) the Daily Deficiency Rate under Tariff, Attachment DD, section 7, Tariff, Attachment 
+DD, section 7A, Tariff, Attachment DD, section 11A, and Tariff, Attachment DD, section 13 shall 
+be 1.20 times the Capacity Resource Clearing Price resulting from all RPM Auctions for such 
+Delivery Year for the LDA encompassing the Zone of the FRR Entity, weight-averaged for the 
+Delivery Year based on the prices established and quantities cleared in such auctions); and (ii) the 
+charges set forth in Tariff, Attachment DD, section 10A shall apply, only to those FRR Entities 
+which opted to be subject to the Non-Performance Charge under section C.1 of this Schedule 8.1.  
+An FRR Entity shall have the same opportunities to cure deficiencies and avoid or reduce 
+associated charges during the Delivery Year that a Market Seller has under Tariff, Attachment DD, 
+section 7, Tariff, Attachment DD, section 7A, Tariff, Attachment DD, section 10A, and Tariff, 
+Attachment DD, section 11A.  An FRR Entity may cure deficiencies and avoid or reduce 
+associated charges prior to the Delivery Year by procuring replacement Unforced Capacity outside 
+of any RPM Auction and committing such capacity in its FRR Capacity Plan. 
+ 
+2. For any FRR Entity which opted to be subject to physical non-performance assessments 
+under RAA, Schedule 8.1, section C.1, such FRR Entity will not be subject to charges under Tariff, 
+Attachment DD, section 10A, but, rather, it will be required to update its FRR Capacity Plan with 
+additional megawatts of Capacity Performance Resources or Seasonal Capacity Performance 
+Resources determined in accordance with the following: For each Performance Assessment 
+Interval, the Actual Performance and Expected Performance of each resource contained in an FRR 
+Entity’s FRR Capacity Plan or Price Responsive Demand committed to reduce the FRR Entity’s 
+unforced capacity obligation (for the 2022/2023 Delivery Year and subsequent Delivery Years) 
+will be determined in the same fashion as prescribed by the Tariff, Attachment DD, section 10A, 
+and for such hour, a net Performance Shortfall shall be determined separately for Capacity 
+Performance Resources and for Base Capacity Resources. If, for a Performance Assessment 
+Interval, the combined Actual Performance of all an FRR Entity’s committed Capacity 
+Performance Resources or Price Responsive Demand committed by the FRR Entity (for the 
+2022/2023 Delivery Year and subsequent Delivery Years) exceeds the Expected Performance of 
+such resources or Price Responsive Demand, then such over-performance may be applied to any 
+Performance Shortfall experienced by such FRR Entity’s Base Capacity Resources for such hour.  
+If, for a Performance Assessment Interval, the combined Actual Performance of all an FRR 
+Entity’s committed Base Capacity Resources exceeds the Expected Performance of such 
+resources, then such over-performance may be applied to any Performance Shortfall experienced 
+by such FRR Entity’s Capacity Performance Resources or Price Responsive Demand committed 
+by the FRR Entity (for the 2022/2023 Delivery Year and subsequent Delivery Years) for such 
+hour.  For the 2020/2021 Delivery Year, the net Performance Shortfall determined for Capacity 
+Performance Resources and Price Responsive Demand shall include the performance of Seasonal 
+Capacity Performance Resources contained in the FRR Capacity Plan. 
+ 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.G-Capacity 
+Resource Performance 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+The FRR Entity’s net Performance Shortfall among Capacity Performance Resources or Price 
+Responsive Demand, if any, for each such Performance Assessment Interval shall be multiplied 
+by a rate of 0.00139 MWs/Performance Assessment Interval to establish the additional MW 
+quantities of Capacity Performance Resources, Seasonal Capacity Performance Resources, or 
+Price Responsive Demand that such FRR Entity must add to its FRR Capacity Plan for the next 
+Delivery Year. Notwithstanding the foregoing, the total additional MWs required as a result of 
+non-performance by the FRR Entity’s Capacity Performance Resources in any Delivery Year shall 
+not exceed a MW quantity equal to 0.5 times the MW quantity of the Capacity Performance 
+Resources and Seasonal Capacity Performance Resources that were committed in the FRR 
+Capacity Plan for such Delivery Year and Price Responsive Demand committed such Delivery 
+Year (for the 2022/2023 Delivery Year and subsequent Delivery Years).  The FRR Entity’s net 
+Performance Shortfall among Base Capacity Resources, if any, for each such Performance 
+Assessment Interval shall be multiplied by a rate of [(0.00139 MWs/Performance Assessment 
+Interval) times (the Base Capacity Resource Clearing Price resulting from the RPM Auctions for 
+the Delivery Year for the LDA encompassing the Zone of the FRR Entity, weight-averaged for the 
+Delivery Year based on the prices established and quantities cleared in such auctions, divided by 
+the Net CONE established for such LDA for the Delivery Year)] to establish the additional MW 
+quantities of Capacity Performance Resources or Seasonal Capacity Performance Resources that 
+such FRR Entity must add to its FRR Capacity Plan for the next Delivery Year.  Notwithstanding 
+the foregoing, the total additional MWs required as a result of non-performance by the FRR 
+Entity’s Base Capacity Resources in any Delivery Year shall not exceed a MW quantity equal to 
+[(0.5 times the MW quantity of the Base Capacity Resources that were committed in the FRR 
+Capacity Plan for such Delivery Year) times (the Base Capacity Resource Clearing Price resulting 
+from the RPM Auctions for the Delivery Year for the LDA encompassing the Zone of the FRR 
+Entity, weight-averaged for the Delivery Year based on the prices established and quantities 
+cleared in such auctions, divided by the Net CONE established for such LDA for the Delivery 
+Year)].   
+ 
+An FRR Entity that elects the physical option shall not be eligible for, or subject to, the revenue 
+allocation described in Tariff, Attachment DD, section 10A(g). 
+

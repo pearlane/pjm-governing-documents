@@ -1,0 +1,679 @@
+[SCHEDULE 9 - Part 2 of 2]
+
+cause beyond the control of the owner or operator of the transmission facility, as specified in the 
+relevant portions of the PJM Manuals.  A removal from service of a transmission facility at the 
+request of the Office of the Interconnection to improve transmission capability shall not 
+constitute a Forced Transmission Outage. 
+ 
+Transmission Injection Rights: 
+ 
+“Transmission Injection Rights” shall mean Capacity Transmission Injection Rights and Energy 
+Transmission Injection Rights. 
+ 
+Transmission Interconnection Customer: 
+ 
+“Transmission Interconnection Customer” shall mean an entity that submits an Interconnection 
+Request to interconnect or add Merchant Transmission Facilities to the Transmission System or 
+to increase the capacity of Merchant Transmission Facilities interconnected with the 
+Transmission System in the PJM Region or an entity that submits an Upgrade Request for 
+Merchant Network Upgrades (including accelerating the construction of any transmission 
+enhancement or expansion, other than Merchant Transmission Facilities, that is included in the 
+Regional Transmission Expansion Plan prepared pursuant to Operating Agreement, Schedule 6). 
+ 
+Transmission Interconnection Facilities Study: 
+ 
+“Transmission Interconnection Facilities Study” shall mean a Facilities Study related to a 
+Transmission Interconnection Request. 
+ 
+Transmission Interconnection Feasibility Study: 
+ 
+“Transmission Interconnection Feasibility Study” shall mean a study conducted by the 
+Transmission Provider in accordance with Tariff, Part IV, section 36.2. 
+ 
+Transmission Interconnection Request: 
+ 
+“Transmission Interconnection Request” shall mean a request by a Transmission Interconnection 
+Customer pursuant to Tariff, Part IV to interconnect or add Merchant Transmission Facilities to 
+the Transmission System or to increase the capacity of existing Merchant Transmission Facilities 
+interconnected with the Transmission System in the PJM Region. 
+ 
+Transmission Loading Relief: 
+ 
+“Transmission Loading Relief” shall mean NERC’s procedures for preventing operating security 
+limit violations, as implemented by PJM as the security coordinator responsible for maintaining 
+transmission security for the PJM Region. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 5 
+Transmission Loss Charge: 
+ 
+“Transmission Loss Charge” shall mean the charges to each Market Participant, Network 
+Customer, or Transmission Customer for the cost of energy lost in the transmission of electricity 
+from a generation resource to load as specified in Operating Agreement, Schedule 1, section 5, 
+and the parallel provisions of Tariff, Attachment K-Appendix, section 5. 
+ 
+Transmission Owner: 
+ 
+“Transmission Owner” shall mean a Member that owns or leases with rights equivalent to 
+ownership Transmission Facilities and is a signatory to the PJM Transmission Owners 
+Agreement.  Taking transmission service shall not be sufficient to qualify a Member as a 
+Transmission Owner. 
+ 
+Transmission Owner Attachment Facilities: 
+ 
+“Transmission Owner Attachment Facilities” shall mean that portion of the Transmission Owner 
+Interconnection Facilities comprised of all Attachment Facilities on the Interconnected 
+Transmission Owner’s side of the Point of Interconnection.  
+ 
+Transmission Owner Interconnection Facilities: 
+ 
+“Transmission Owner Interconnection Facilities” shall mean all Interconnection Facilities that 
+are not Customer Interconnection Facilities and that, after the transfer under Tariff, Attachment 
+P, Appendix 2, section 5.5 to the Interconnected Transmission Owner of title to any 
+Transmission Owner Interconnection Facilities that the Interconnection Customer constructed, 
+are owned, controlled, operated and maintained by the Interconnected Transmission Owner on 
+the Interconnected Transmission Owner’s side of the Point of Interconnection identified in 
+appendices to the Interconnection Service Agreement and to the Interconnection Construction 
+Service Agreement, including any modifications, additions or upgrades made to such facilities 
+and equipment, that are necessary to physically and electrically interconnect the Customer 
+Facility with the Transmission System or interconnected distribution facilities. 
+ 
+Transmission Owner Upgrade:  
+ 
+“Transmission Owner Upgrade” shall have the same meaning provided in the Operating 
+Agreement. 
+ 
+Transmission Planned Outage: 
+ 
+“Transmission Planned Outage” shall mean any transmission outage scheduled in advance for a 
+pre-determined duration and which meets the notification requirements for such outages 
+specified in Operating Agreement, Schedule 1, and the parallel provisions of Tariff, Attachment 
+K-Appendix or the PJM Manuals. 
+ 
+Transmission Provider: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+ 
+The “Transmission Provider” shall be the Office of the Interconnection for all purposes, provided 
+that the Transmission Owners will have the responsibility for the following specified activities: 
+ 
+(a) The Office of the Interconnection shall direct the operation and coordinate the 
+maintenance of the Transmission System, except that the Transmission Owners will continue to 
+direct the operation and maintenance of those transmission facilities that are not listed in the PJM 
+Designated Facilities List contained in the PJM Manual on Transmission Operations; 
+ 
+(b) Each Transmission Owner shall physically operate and maintain all of the facilities that it 
+owns; and 
+ 
+(c) When studies conducted by the Office of the Interconnection indicate that enhancements 
+or modifications to the Transmission System are necessary, the Transmission Owners shall have 
+the responsibility, in accordance with the applicable terms of the Tariff, Operating Agreement 
+and/or the Consolidated Transmission Owners Agreement to construct, own, and finance the 
+needed facilities or enhancements or modifications to facilities. 
+ 
+Transmission Provider’s Monthly Transmission System Peak: 
+ 
+“Transmission Provider’s Monthly Transmission System Peak” shall mean the maximum firm 
+usage of the Transmission Provider’s Transmission System in a calendar month. 
+ 
+Transmission Service: 
+ 
+“Transmission Service” shall mean Point-To-Point Transmission Service provided under Tariff, 
+Part II on a firm and non-firm basis. 
+ 
+Transmission Service Request: 
+ 
+“Transmission Service Request” shall mean a request for Firm Point-To-Point Transmission 
+Service or a request for Network Integration Transmission Service. 
+ 
+Transmission System: 
+ 
+“Transmission System” shall mean the facilities controlled or operated by the Transmission 
+Provider within the PJM Region that are used to provide transmission service under Tariff, Part 
+II and Part III. 
+ 
+Transmission Withdrawal Rights: 
+ 
+“Transmission Withdrawal Rights” shall mean Firm Transmission Withdrawal Rights and Non-
+Firm Transmission Withdrawal Rights. 
+ 
+Turn Down Ratio: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+“Turn Down Ratio” shall mean the ratio of a generating unit’s economic maximum megawatts to 
+its economic minimum megawatts. 
+ 
+Unconstrained LDA Group: 
+ 
+“Unconstrained LDA Group” shall mean a combined group of LDAs that form an electrically 
+contiguous area and for which a separate Variable Resource Requirement Curve has not been 
+established under Tariff, Attachment DD, section 5.10.  Any LDA for which a separate Variable 
+Resource Requirement Curve has not been established under Tariff, Attachment DD, section 
+5.10 shall be combined with all other such LDAs that form an electrically contiguous area. 
+ 
+Unforced Capacity: 
+ 
+“Unforced Capacity” shall have the meaning specified in the Reliability Assurance Agreement. 
+ 
+Unsecured Credit: 
+  
+“Unsecured Credit” shall mean any credit granted by PJMSettlement to a Participant that is not 
+secured by Collateral. 
+ 
+Unsecured Credit Allowance: 
+  
+“Unsecured Credit Allowance” shall mean Unsecured Credit extended by PJMSettlement in an 
+amount determined by PJMSettlement’s evaluation of the creditworthiness of a Participant.  This 
+is also defined as the amount of credit that a Participant qualifies for based on the strength of its 
+own financial condition without having to provide Collateral.  See also: “Working Credit Limit.” 
+ 
+Updated VRR Curve: 
+ 
+“Updated VRR Curve” shall mean the Variable Resource Requirement Curve for use in the Base 
+Residual Auction of the relevant Delivery Year, updated to reflect any change in the Reliability 
+Requirement from the Base Residual Auction to such Incremental Auction, and for Delivery 
+Years through May 31, 2018, the Short-term Resource Procurement Target applicable to the 
+relevant Incremental Auction. 
+ 
+Updated VRR Curve Decrement: 
+ 
+“Updated VRR Curve Decrement” shall mean the portion of the Updated VRR Curve to the left 
+of a vertical line at the level of Unforced Capacity on the x-axis of such curve equal to the net 
+Unforced Capacity committed to the PJM Region as a result of all prior auctions conducted for 
+such Delivery Year and adjusted, if applicable, by a change in Unforced Capacity commitments 
+associated with the transition provision of Tariff, Attachment DD, section 5.14C, Tariff, 
+Attachment DD, section 5.14D (as related to the 2016/2017 Delivery Year), Tariff, Attachment 
+DD, section 5.14E, and Tariff, Attachment DD, section 5.5A(c)(i)(B), and RAA, Schedule 6, 
+section L.9.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 8 
+Updated VRR Curve Increment: 
+ 
+“Updated VRR Curve Increment” shall mean the portion of the Updated VRR Curve to the right 
+of a vertical line at the level of Unforced Capacity on the x-axis of such curve equal to the net 
+Unforced Capacity committed to the PJM Region as a result of all prior auctions conducted for 
+such Delivery Year and adjusted, if applicable, by a change in Unforced Capacity commitments 
+associated with the transition provision of Tariff, Attachment DD, section 5.14C, Tariff, 
+Attachment DD, section 5.14D (as related to the 2016/2017 Delivery Year), Tariff, Attachment 
+DD, section 5.14E and Tariff, Attachment DD, section 5.5A(c)(i)(B), and RAA, Schedule 6, 
+section L.9. 
+ 
+Upgrade Construction Service Agreement: 
+ 
+“Upgrade Construction Service Agreement” shall mean that agreement entered into by an 
+Eligible Customer, Upgrade Customer or Interconnection Customer proposing Merchant 
+Network Upgrades, a Transmission Owner, and the Transmission Provider, pursuant to Tariff, 
+Part VI, Subpart B, and in the form set forth in Tariff, Attachment GG. 
+ 
+Upgrade Customer: 
+ 
+“Upgrade Customer” shall mean a customer that submits an Upgrade Request pursuant to 
+Operating Agreement, Schedule 1, section 7.8, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 7.8. 
+ 
+Upgrade Feasibility Study: 
+ 
+“Upgrade Feasibility Study” shall mean a study conducted by the Transmission Provider in 
+accordance with Tariff, Part IV, section 36.3. 
+ 
+Upgrade-Related Rights: 
+ 
+“Upgrade-Related Rights” shall mean Incremental Auction Revenue Rights, Incremental 
+Available Transfer Capability Revenue Rights, Incremental Deliverability Rights, and 
+Incremental Capacity Transfer Rights. 
+ 
+Upgrade Request: 
+ 
+“Upgrade Request” shall mean a request submitted in the form prescribed in Tariff, Attachment 
+EE, for evaluation by the Transmission Provider of the feasibility and estimated costs of (a) a 
+Merchant Network Upgrade or (b) the Customer-Funded Upgrades that would be needed to 
+provide Incremental Auction Revenue Rights specified in a request pursuant to Operating 
+Agreement, Schedule 1, section 7.8, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 7.8. 
+ 
+Up-to Congestion Counterflow Transaction: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 9 
+“Up-to Congestion Counterflow Transaction” shall mean an Up-to Congestion Transaction will 
+be deemed an Up-to Congestion Counterflow Transaction if the following value is negative:  (a) 
+when bidding, the lower of the bid price and the prior Up-to Congestion Historical Month’s 
+average real-time value for the transaction; or (b) for cleared Virtual Transactions, the cleared 
+day-ahead price of the Virtual Transactions. 
+ 
+Up-to Congestion Historical Month: 
+ 
+“Up-to Congestion Historical Month” shall mean a consistently-defined historical period 
+nominally one month long that is as close to a calendar month as PJM determines is practical. 
+ 
+Up-to Congestion Prevailing Flow Transaction: 
+ 
+An Up-to Congestion Transaction shall mean an “Up-to Congestion Prevailing Flow 
+Transaction” if it is not an Up-to Congestion Counterflow Transaction. 
+ 
+Up-to Congestion Reference Price: 
+ 
+“Up-to Congestion Reference Price” for an Up-to Congestion Transaction, shall be the specified 
+percentile price differential between source and sink (defined as sink price minus source price) 
+for real-time prices experienced over the prior Up-to Congestion Historical Month, averaged 
+with the same percentile value calculated for the second prior Up-to Congestion Historical 
+Month.  Up-to Congestion Reference Prices shall be calculated using the following historical 
+percentiles: 
+ For Up-to Congestion Prevailing Flow Transactions: 30 th percentile 
+ For Up-to Congestion Counterflow Transactions when bid:  20 th percentile 
+ For Up-to Congestion Counterflow Transactions when cleared:  5 th percentile 
+ 
+Up-to Congestion Transaction: 
+ 
+“Up-to Congestion Transaction” shall have the meaning specified in Operating Agreement, 
+Schedule 1, section 1.10.1A, and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 1.10.1A. 
+ 
+Variable Loads: 
+“Variable Loads” shall have the meaning specified in Operating Agreement, Schedule 1, section 
+1.5A.6, and the parallel provisions of Tariff, Attachment K-Appendix, section 1.5A.6. 
+ 
+Variable Resource Requirement Curve:  
+ 
+“Variable Resource Requirement Curve” shall mean a series of maximum prices that can be 
+cleared in a Base Residual Auction for Unforced Capacity, corresponding to a series of varying 
+resource requirements based on varying installed reserve margins, as determined by the Office of 
+the Interconnection for the PJM Region and for certain Locational Deliverability Areas in 
+accordance with the methodology provided in Tariff, Attachment DD, section 5. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - T - U - V 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 10 
+Virtual Credit Exposure:  
+“Virtual Credit Exposure” shall mean the amount of potential credit exposure created by a 
+market participant’s bid submitted into the Day-ahead market, as defined in Tariff, Attachment 
+Q. 
+ 
+Virtual Transaction: 
+ 
+“Virtual Transaction” shall mean a Decrement Bid, Increment Offer and/or Up-to Congestion 
+Transaction. 
+ 
+Virtual Transaction Screening: 
+  
+“Virtual Transaction Screening” shall be the process of reviewing the Virtual Credit Exposure of 
+submitted Virtual Transactions against the Credit Available for Virtual Transactions.  If the 
+credit required is greater than credit available, then the Virtual Transactions will not be accepted. 
+ 
+Virtual Transactions Net Activity: 
+ 
+“Virtual Transactions Net Activity” shall mean the aggregate net total, resulting from Virtual 
+Transactions, of (i) Spot Market Energy charges, (ii) Transmission Congestion Charges, and (iii) 
+Transmission Loss Charges, calculated as set forth in Tariff, Attachment K-Appendix, and the 
+parallel provisions of Operating Agreement, Schedule 1.  Virtual Transactions Net Activity may 
+be positive or negative. 
+ 
+Voltage Reduction Action: 
+ 
+“Voltage Reduction Action” shall mean a notification during capacity deficient conditions in 
+which PJM notifies Members to reduce voltage on the distribution system in order to reduce 
+demand and therefore provide a sufficient amount of reserves, maintain tie flow schedules and 
+preserve limited energy sources. 
+ 
+Voltage Reduction Alert: 
+ 
+“Voltage Reduction Alert” shall mean a notification from PJM to alert Members that a voltage 
+reduction may be required during a future critical period. 
+ 
+Voltage Reduction Warning: 
+ 
+“Voltage Reduction Warning” shall mean a notification from PJM to warn Members that PJM’s 
+available Synchronized Reserve is less than the Synchronized Reserve Requirement and that 
+present operations have deteriorated such that a voltage reduction may be required. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – W – X – Y - Z 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+Definitions – W – X – Y - Z 
+ 
+Wholesale Transaction: 
+ 
+As used in Tariff, Part IV, “Wholesale Transaction” shall mean any transaction involving the 
+transmission or sale for resale of electricity in interstate commerce that utilizes any portion of the 
+Transmission System. 
+ 
+Winter-Period Capacity Performance Resource: 
+ 
+“Winter-Period Capacity Performance Resource” shall have the same meaning specified in 
+Tariff, Attachment DD, section 5.5A. 
+ 
+Working Credit Limit: 
+  
+“Working Credit Limit” shall mean an amount that is 75% of the Participant’s Unsecured Credit 
+Allowance determined by PJMSettlement and/or 75% of the Collateral provided by the  
+Participant to PJMSettlement.  A Participant’s Total Net Obligation should not exceed its 
+Working Credit Limit. The calculation of Working Credit Limit shall take into account 
+applicable reductions for Minimum Participation Requirements, FTR participation (for which 
+there is no Unsecured Credit Allowance available), RPM participation, or other credit 
+requirement determinants as defined in Tariff, Attachment Q. 
+ 
+Working Credit Limit for Virtual Transactions: 
+ 
+The “Working Credit Limit for Virtual Transactions” shall be calculated as 75% of the Market 
+Participant’s Unsecured Credit Allowance and/or 75% of the Collateral provided by the Market 
+Participant to PJMSettlement when the Market Participant is at or below its Peak Market 
+Activity credit requirements as specified in Tariff, Attachment Q, section VII.A.  When the 
+Market Participant has available Unsecured Credit Allowance and/or has provided Collateral in 
+excess of its Peak Market Activity credit requirements, such additional Unsecured Credit 
+Allowance and/or Financial Security shall not be discounted by 25% when calculating the 
+Working Credit Limit for Virtual Transactions.  The Working Credit Limit for Virtual 
+Transactions is a component in the calculation of Credit Available for Virtual Transactions.  The 
+calculation of Working Credit Limit for Virtual Transactions shall take into account applicable 
+reductions for Minimum Participation Requirements, FTR, or other credit requirement 
+determinants as defined in Tariff, Attachment Q. 
+ 
+Zonal Capacity Price: 
+ 
+“Zonal Capacity Price” shall mean the clearing price required in each Zone to meet the demand 
+for Unforced Capacity and satisfy Locational Deliverability Requirements for the LDA or LDAs 
+associated with such Zone.  If the Zone contains multiple LDAs with different Capacity 
+Resource Clearing Prices, the Zonal Capacity Price shall be a weighted average of the Capacity 
+Resource Clearing Prices for such LDAs, weighted by the Unforced Capacity of Capacity 
+Resources cleared in each such LDA. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – W – X – Y - Z 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 2 
+ 
+Zone or Zonal: 
+ 
+“Zone” or “Zonal” shall mean an area within the PJM Region, as set forth in Tariff, Attachment J 
+and RAA, Schedule 15, or as such areas may be (i) combined as a result of mergers or 
+acquisitions or (ii) added as a result of the expansion of the boundaries of the PJM Region.  A 
+Zone shall include any Non-Zone Network Load located outside the PJM Region that is served 
+from such Zone under Tariff, Attachment H-A. 
+ 
+Zone Network Load: 
+ 
+“Zone Network Load” shall mean Network Load that is located inside of the area comprised of 
+the PJM Region.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+2 Initial Allocation and Renewal Procedures 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures --> OATT 2.1 Initial Allocation of Available Transfer Capability 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+2.1 Initial Allocation of Available Transfer Capability: 
+ 
+For purposes of determining whether existing capability on the Transmission Provider’s 
+Transmission System is adequate to accommodate a request for firm service under this Tariff, all 
+Completed Applications for new firm transmission service received during the initial sixty (60) 
+day period commencing with the effective date of the Tariff will be deemed to have been filed 
+simultaneously.  A lottery system conducted by an independent party, which shall be the Office 
+of the Interconnection, shall be used to assign priorities for Completed Applications filed 
+simultaneously.  All Completed Applications for firm transmission service received after the 
+initial sixty (60) day period shall be assigned a priority pursuant to Tariff, Part II, section 13.2. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures --> OATT 2.2 Reservation Priority For Existing Firm Service Cust 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+2.2 Reservation Priority For Existing Firm Cross-Border Network Integration 
+Transmission Service and Firm Point-to-Point Transmission Service: 
+ 
+Per Tariff, Part I, section 2.5, the reservation priority in this section 2.2 does not apply to 
+Regional Network Integration Transmission Service.  This section 2.2 establishes a transmission 
+reservation priority for existing Firm Cross-Border Network Integration Transmission Service 
+and Firm Point-to-Point Transmission Service customers (referred to as “firm service customers” 
+for purposes of this section 2.2 and Tariff, Part I, section 2.3). Such existing firm service 
+customers of any Transmission Owner (wholesale requirements and transmission-only, with a 
+contract term of five-years or more), have the right to continue to take transmission service from 
+the Transmission Provider when the contract expires, rolls over or is renewed.  This transmission 
+reservation priority is independent of whether the existing customer continues to purchase 
+capacity and energy from the Transmission Owner or elects to purchase capacity and energy 
+from another supplier.  If at the end of the contract term, the Transmission Provider’s 
+Transmission System cannot accommodate all of the requests for transmission service the 
+existing firm service customer must agree to accept a contract term at least equal to a competing 
+request by any new Eligible Customer and to pay the current just and reasonable rate, as 
+approved by the Commission, for such service, provided that, the firm service customer shall 
+have a right of first refusal at the end of such service only if the new contract is for five years or 
+more.  This transmission reservation priority for existing firm service customers is an ongoing 
+right that may be exercised at the end of all firm contract terms of five years or longer.  Service 
+Agreements subject to the right of first refusal entered into prior to June 16, 2008 or associated 
+with a transmission service request received prior to July 13, 2007, unless terminated, will 
+become subject to the five-year/one-year requirement on the first rollover date after June 16, 
+2008; provided that, the one-year notice requirement shall apply to such service agreements with 
+five years or more left in their terms as of June 16, 2008.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures --> OATT 2.3 Procedures For Exercising Transmission Reservation 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+2.3 Procedures For Exercising Transmission Reservation Priority Rights: 
+ 
+(a) If, at any time, the Transmission Provider receives a request from an Eligible Customer 
+for new firm transmission service that the Transmission Provider determines it could not provide 
+without performing a System Impact Study if an existing customer were to exercise its 
+transmission reservation priority pursuant to Tariff, Part I, section 2.2, the Transmission Provider 
+shall promptly notify the existing customer of the new request.  Within thirty (30) days of such 
+notification, the existing customer must inform the Transmission Provider whether it exercises 
+its reservation priority pursuant to Tariff, Part I, section 2.2 and agrees to accept a contract term 
+at least equal to the new request. In the event an existing customer does not exercise its 
+reservation priority or fails to respond within thirty (30) days of such notification, the existing 
+firm service customer (as defined above in Tariff, Part I, section 2.2) shall forfeit its reservation 
+priority. 
+ 
+(b) In the event an existing firm service customer (as defined above in Tariff, Part I, section 
+2.2) does not receive a notification pursuant to section 2.3(a) above, then the existing firm 
+service customer (as defined above in Tariff, Part I, section 2.2)must notify Transmission 
+Provider no later than one year prior to the end of the term of its firm transmission contract that it 
+is exercising its transmission reservation priority and will take transmission service for an 
+additional term of five years or longer; otherwise it shall forfeit the transmission reservation 
+priority associated with the contract. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures --> OATT 2.4 Reservation Priority For State Required Retail Acce 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+2.4 Reservation Priority For State Required Retail Access Program Load: 
+ 
+When a retail customer’s power supply arrangements expire, roll-over, are renewed, or otherwise 
+terminate, a Transmission Customer that will serve that retail power customer pursuant to a state 
+required retail access program shall have the right to take transmission service from the 
+Transmission Provider pursuant to the same priority accorded the Transmission Customer which 
+previously served the retail customer.  This transmission reservation priority is independent of 
+whether the retail customer continues to purchase capacity and energy from its then-existing 
+supplier or purchases capacity and energy from another supplier. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 2 Initial 
+Allocation and Renewal Procedures --> OATT 2.5 Term of Service for Regional NITS 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+2.5  Term of Service for Regional Network Integration Transmission Service  
+ 
+A Network Customer that takes Regional Network Integration Transmission Service from the 
+Transmission Provider takes such service on terms that do not expire. The provisions relating to 
+reservation priority and rollover rights in Tariff, Part I, section 2.2 and Tariff, Part I, section 2.3, 
+above, are inapplicable to such customers.  
+ 
+Although Regional Network Integration Transmission Service is presumed to continue without 
+expiration, it may be terminated where:  
+ 
+1) An incumbent Network Customer will be replaced by a successor Network Customer, 
+in which case the incumbent’s service shall only terminate if the successor agrees to 
+commence the taking of the service, the appropriate service agreement is executed, 
+and all other applicable terms and conditions of the PJM Governing Agreements are 
+satisfied;  
+2) An incumbent Network Customer seeks to terminate its service and no successor 
+Network Customer exists, in which case the incumbent must provide PJM with forty-
+two (42) months’ notice prior to the commencement of a Delivery Year, subject to 
+receiving all necessary regulatory approvals for such termination, if any; or  
+3) On such other date mutually agreed upon by the parties.  
+ 
+Transmission Service Agreements in the form of Tariff, Attachment F, with terms that are related 
+to Regional Network Integration Transmission Service, and which are in effect at the time this 
+section 2.5 becomes effective shall be deemed to be revised to include terms set forth in this 
+section 2.5. Such revisions shall be in the same manner and to the same extent as agreements 
+entered after the effective date of this section 2.5 and the modifications to Tariff, Attachment F 
+and Tariff, Attachment F-3. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3 Ancillary Services 
+ 
+Ancillary Services are needed with transmission service to maintain reliability within and among 
+the Control Areas affected by the transmission service.  The Transmission Provider is required to 
+provide (or offer to arrange with the local Control Area operator as discussed below), and the 
+Transmission Customer is required to purchase, the following Ancillary Services (i) Scheduling, 
+System Control and Dispatch, and (ii) Reactive Supply and Voltage Control from Generation or 
+Other Sources. 
+ 
+The Transmission Provider is required to offer to provide (or offer to arrange with the local 
+Control Area operator as discussed below) the following Ancillary Services only to the 
+Transmission Customer serving load within the Transmission Provider’s Control Area (i) 
+Regulation and Frequency Response, (ii) Energy Imbalance, (iii) Operating Reserve -
+Synchronized, and (iv) Operating Reserve - Supplemental.  Subject to the provisions of Tariff, 
+Schedules 1 through 6, the Transmission Customer serving load within the Transmission 
+Provider’s Control Area is required to acquire these Ancillary Services, whether from the 
+Transmission Provider, from a third party, or by self-supply.  The Transmission Provider shall 
+administer the purchases by Transmission Customers of these Ancillary Services.  
+PJMSettlement shall be the Counterparty to the Ancillary Services provided to the Transmission 
+Customer; provided, however, that PJMSettlement shall not be the contracting party to bilateral 
+transactions between market participants or with respect to a self-schedule or self-supply relating 
+to Ancillary Services.  The Transmission Customer may not decline the Transmission Provider’s 
+offer of Ancillary Services unless it demonstrates that it has acquired the Ancillary Services from 
+another source.  The Transmission Customer must list in its Application which Ancillary 
+Services it will purchase from the Transmission Provider.  A Transmission Customer that 
+exceeds its firm reserved capacity at any Point of Receipt or Point of Delivery or an Eligible 
+Customer that uses Transmission Service at a Point of Receipt or Point of Delivery that it has not 
+reserved is required to pay for all of the Ancillary Services identified in this section that were 
+provided by the Transmission Provider associated with the unreserved service.  The 
+Transmission Customer or Eligible Customer will pay for Ancillary Services based on the 
+amount of transmission service it used but did not reserve. 
+ 
+If the Transmission Provider is a public utility providing transmission service but is not a Control 
+Area operator, it may be unable to provide some or all of the Ancillary Services.  In this case, the 
+Transmission Provider can fulfill its obligation to provide Ancillary Services by acting as the 
+Transmission Customer’s agent to secure these Ancillary Services from the Control Area 
+operator.  The Transmission Customer may elect to (i) have the Transmission Provider act as its 
+agent, (ii) secure the Ancillary Services directly from the Control Area operator, or (iii) secure 
+the Ancillary Services (discussed in Tariff, Schedule 3, Tariff, Schedule 4, Tariff, Schedule 5 
+and Tariff, Schedule 6) from a third party or by self-supply when technically feasible.  The 
+Transmission Provider shall specify the rate treatment and all related terms and conditions in the 
+event of an unauthorized use of Ancillary Services by the Transmission Customer. 
+ 
+The specific Ancillary Services, prices and/or compensation methods are described on the 
+Schedules that are attached to and made a part of the Tariff.  Three principal requirements apply 
+to discounts for Ancillary Service provided by the Transmission Provider in conjunction with its 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
+provision of transmission services as follows:  (1) any offer of a discount made by the 
+Transmission Provider must be announced to all Eligible Customers solely by posting on the 
+OASIS, (2) any customer-initiated requests for discounts (including requests for use by one’s 
+wholesale merchant or an Affiliate’s use) must occur solely by posting on the OASIS, and (3) 
+once a discount is negotiated, details must be immediately posted on the OASIS.  A discount 
+agreed upon for an Ancillary Service must be offered for the same period to all Eligible 
+Customers on the Transmission Provider’s system.  Tariff, Part I, sections 3.1 through 3.6 below 
+list the six Ancillary Services. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.1 Scheduling, System Control and Dispatch Services 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.1 Scheduling, System Control and Dispatch Services: 
+ 
+The rates and/or methodology are described in Tariff, Schedule 1 and Tariff, Schedule 1A. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.2 Reactive Supply and Voltage Control from Generation 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.2 Reactive Supply and Voltage Control from Generation or Other Sources Service: 
+ 
+The rates and/or methodology are described in Tariff, Schedule 2. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.3 Regulation and Frequency Response Service 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.3 Regulation and Frequency Response Service: 
+ 
+Where applicable the rates and/or methodology are described in Tariff, Schedule 3. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.4 Energy Imbalance Service 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.4 Energy Imbalance Service: 
+ 
+Where applicable the rates and/or methodology are described in Tariff, Schedule 4. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.5 Operating Reserve - Synchronized Reserve Service 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.5 Operating Reserve - Synchronized Reserve Service: 
+ 
+Where applicable the rates and/or methodology are described in Tariff, Schedule 5. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3 
+Ancillary Services --> OATT 3.6 Operating Reserve - Supplemental Reserve Service 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3.6 Operating Reserve - Supplemental Reserve Service: 
+ 
+Where applicable the rates and/or methodology are described in Tariff, Schedule 6. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3B PJM 
+Administrative Service 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3B PJM Administrative Service 
+ 
+The Transmission Provider shall recover the costs of the operation of PJM Interconnection, 
+L.L.C. and the Office of the Interconnection from Transmission Customers, and from other users 
+of the various PJM services, under Tariff, Schedule 9 “PJM Interconnection, L.L.C. 
+Administrative Services”. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3C Mid-
+Atlantic Area Council Charge 
+Effective Date: 7/18/2012 - Docket #: ER12-1784-000 - Page 1 
+3C [RESERVED] 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3D 
+Transitional Market Expansion Charge 
+Effective Date: 7/14/2011 - Docket #: ER11-4040-000 - Page 1 
+3D [Reserved]   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 3E
+ Transmission Enhancement Charges 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+3E Transmission Enhancement Charges 
+ 
+The Transmission Provider shall collect from designated customers using Point-to-Point 
+Transmission Service and Network Integration Transmission Service the charges of 
+Transmission Owners related to the costs of Required Transmission Enhancements under Tariff, 

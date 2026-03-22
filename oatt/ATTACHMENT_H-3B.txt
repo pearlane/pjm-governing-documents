@@ -1,0 +1,67 @@
+ATTACHMENT H-3B 
+ 
+Load Power Factor Charge Applicable 
+to Service to the Interconnection Points 
+Between the Delmarva Power & Light Company System and the 
+Distribution Systems owned by the Delaware Cities and Towns of Smyrna, Seaford, 
+Middletown, New Castle, Newark, Milford and Clayton 
+ 
+In the event that any one of the distribution systems (the “Municipalities”) located at the 
+Interconnection Points identified in this Attachment H-3B is, under its Mutual Operating 
+Agreement or other similar agreement with Delmarva Power & Light Company, considered to be 
+non-compliant with respect to its load power factor requirements (“Load Power Factor 
+Requirements”), a Load Power Factor Charge shall be assessed to the Municipality or, if 
+applicable, to its Load Serving Entity (“LSE”).  Said Load Power Factor Charge shall be based 
+upon the following: 
+ 
+1. No Load Power Factor Charge shall be assessed until Delmarva seeks PJM 
+approval of specific facilities (the “Facilities”) to be installed on the Delmarva 
+transmission system for the purpose of bringing the Municipality into compliance 
+with its Load Power Factor Requirements. 
+ 
+2. The Load Power Factor Charge will commence in the billing month following the 
+in-service date of the Facilities.   
+ 
+3. The Load Factor Power Charge will be based upon a direct allocation of the cost 
+of the Facilities to the Municipality or, if the Facilities provide for more load 
+factor correction than required to bring the Municipality into compliance, upon a 
+share of the cost of such Facilities that is equal to the portion of the load factor 
+correction used to bring the Municipality into compliance. 
+ 
+4. To the extent that the cost of the Facilities are recovered from the Municipality or 
+its LSE through the Load Factor Power Charge, said cost shall not be recovered 
+from the Municipality or its LSE in any other manner.   
+ 
+5. The monthly Load Power Factor Charge shall be derived as follows: 
+ 
+LPFC = AC * AS * ACC/100 * 1/12 
+ 
+Where: 
+ 
+LPFC  =  Monthly Load Power Factor Charge  
+AC      =  The net book value of the Facilities (as determined on the 
+first day of each calendar year during which the LPFC is 
+assessed). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-3B - Delmarva 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 2 
+ AS       = The Municipality’s Assigned Share of the Facilities which shall be equal 
+to the ratio of (i) the MVars required to bring the Municipality into compliance and (ii) 
+the MVar capacity of the Facilities 
+ACC   = Transmission level Annual Carrying Charge rate equal to 
+20.82%. 
+ 
+For a period of six months following completion of the required Facilities, 
+the Municipality or its designee shall be permitted to audit the actual costs 
+incurred by Delmarva that are used for AC.  Any dispute with respect to 
+such costs shall be resolved through the PJM dispute resolution procedure. 
+ 
+6. The Load Factor Power Charge shall be assessed to the Municipality or, if applicable, its 
+LSE, for a total of 480 months. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-3C - Delmarva 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 1 

@@ -1,0 +1,1427 @@
+[PART I-COMMON SERVICE PROVISIONS - Part 2 of 5]
+
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 2 
+ 
+ 
+EFORd: 
+ 
+“EFORd” shall have the meaning specified in the PJM Reliability Assurance Agreement. 
+ 
+Electrical Distance: 
+ 
+“Electrical Distance” shall mean, for a Generation Capacity Resource geographically located 
+outside the metered boundaries of the PJM Region, the measure of distance, based on impedance 
+and in accordance with the PJM Manuals, from the Generation Capacity Resource to the PJM 
+Region. 
+ 
+Eligible Customer: 
+ 
+“Eligible Customer” shall mean: 
+ 
+(i) Any electric utility (including any Transmission Owner and any power marketer), Federal 
+power marketing agency, or any person generating electric energy for sale for resale is an 
+Eligible Customer under the Tariff.  Electric energy sold or produced by such entity may be 
+electric energy produced in the United States, Canada or Mexico.  However, with respect to 
+transmission service that the Commission is prohibited from ordering by Section 212(h) of the 
+Federal Power Act, such entity is eligible only if the service is provided pursuant to a state 
+requirement that the Transmission Provider or Transmission Owner offer the unbundled 
+transmission service, or pursuant to a voluntary offer of such service by a Transmission Owner. 
+ 
+(ii) Any retail customer taking unbundled transmission service pursuant to a state requirement 
+that the Transmission Provider or a Transmission Owner offer the transmission service, or 
+pursuant to a voluntary offer of such service by a Transmission Owner, is an Eligible Customer 
+under the Tariff.  As used in Tariff, Part VI, Eligible Customer shall mean only those Eligible 
+Customers that have submitted a Completed Application. 
+ 
+Eligible Fast-Start Resource: 
+ 
+“Eligible Fast-Start Resource” shall mean a Fast-Start Resource that is eligible for the 
+application of Integer Relaxation during the calculation of Locational Marginal Prices as set 
+forth in Tariff, Attachment K-Appendix, section 2.2. 
+ 
+Emergency Action: 
+ 
+“Emergency Action” shall mean any emergency action for locational or system-wide capacity 
+shortages that either utilizes pre-emergency mandatory load management reductions or other 
+emergency capacity, or initiates a more severe action including, but not limited to, a Voltage 
+Reduction Warning, Voltage Reduction Action, Manual Load Dump Warning, or Manual Load 
+Dump Action. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 3 
+Emergency Condition: 
+ 
+“Emergency Condition” shall mean a condition or situation (i) that in the judgment of any 
+Interconnection Party is imminently likely to endanger life or property; or (ii) that in the 
+judgment of the Interconnected Transmission Owner or Transmission Provider is imminently 
+likely (as determined in a non-discriminatory manner) to cause a material adverse effect on the 
+security of, or damage to, the Transmission System, the Interconnection Facilities, or the 
+transmission systems or distribution systems to which the Transmission System is directly or 
+indirectly connected; or (iii) that in the judgment of Interconnection Customer is imminently 
+likely (as determined in a non-discriminatory manner) to cause damage to the Customer Facility 
+or to the Customer Interconnection Facilities.  System restoration and black start shall be 
+considered Emergency Conditions, provided that a Generation Interconnection Customer is not 
+obligated by an Interconnection Service Agreement to possess black start capability.  Any 
+condition or situation that results from lack of sufficient generating capacity to meet load 
+requirements or that results solely from economic conditions shall not constitute an Emergency 
+Condition, unless one or more of the enumerated conditions or situations identified in this 
+definition also exists. 
+ 
+Emergency Load Response Program: 
+“Emergency Load Response Program” shall mean the program by which Curtailment Service 
+Providers may be compensated by PJM for Demand Resources that will reduce load when 
+dispatched by PJM during emergency conditions, and is described in Operating Agreement, 
+Schedule 1, section 8  and the parallel provisions of Tariff, Attachment K-Appendix, section 8.  
+ 
+Emergency Rating:  
+ 
+“Emergency Rating” shall mean a Transmission Facility Rating that reflects operation for a 
+specified, finite period, rather than reflecting continuous operation.  An Emergency Rating may 
+assume an acceptable loss of equipment life or other physical or safety limitations for the 
+equipment involved. 
+ 
+Energy Efficiency Resource: 
+ 
+“Energy Efficiency Resource” shall have the meaning specified in the PJM Reliability Assurance 
+Agreement. 
+ 
+Energy Market Opportunity Cost: 
+ 
+“Energy Market Opportunity Cost” shall mean the difference between (a) the forecasted cost to 
+operate a specific generating unit when the unit only has a limited number of available run hours 
+due to limitations imposed on the unit by Applicable Laws and Regulations, and (b) the 
+forecasted future Locational Marginal Price at which the generating unit could run while not 
+violating such limitations.  Energy Market Opportunity Cost therefore is the value associated 
+with a specific generating unit’s lost opportunity to produce energy during a higher valued period 
+of time occurring within the same compliance period, which compliance period is determined by 
+the applicable regulatory authority and is reflected in the rules set forth in PJM Manual 15.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 4 
+Energy Market Opportunity Costs shall be limited to those resources which are specifically 
+delineated in Operating Agreement, Schedule 2. 
+ 
+Energy Resource: 
+ 
+“Energy Resource” shall mean a Generating Facility that is not a Capacity Resource. 
+ 
+Energy Settlement Area: 
+ 
+“Energy Settlement Area” shall mean the bus or distribution of busses that represents the 
+physical location of Network Load and by which the obligations of the Network Customer to 
+PJM are settled. 
+ 
+Energy Storage Resource: 
+ 
+“Energy Storage Resource” shall mean a resource capable of receiving electric energy from the 
+grid and storing it for later injection to the grid that participates in the PJM Energy, Capacity 
+and/or Ancillary Services markets as a Market Participant.  Open-Loop Hybrid Resources are not 
+Energy Storage Resources. 
+ 
+Energy Storage Resource Model Participant:  
+ 
+“Energy Storage Resource Model Participant” shall mean an Energy Storage Resource utilizing 
+the Energy Storage Resource Participation Model.   
+ 
+Energy Storage Resource Participation Model:  
+ 
+“Energy Storage Resource Participation Model” shall mean the participation model accepted by 
+the Commission in Docket No. ER19-469-000. 
+ 
+Energy Transmission Injection Rights: 
+ 
+“Energy Transmission Injection Rights” shall mean the rights to schedule energy deliveries at a 
+specified point on the Transmission System. Energy Transmission Injection Rights may be 
+awarded only to a Merchant D.C. Transmission Facility that connects the Transmission System 
+to another control area. Deliveries scheduled using Energy Transmission Injection Rights have 
+rights similar to those under Non-Firm Point-to-Point Transmission Service. 
+ 
+Entity Providing Supply Services to Default Retail Service Provider: 
+ 
+“Entity Providing Supply Services to Default Retail Service Provider” shall mean any entity, 
+including but not limited to a load aggregator or power marketer, providing supply services to an 
+electric distribution company when that electric distribution company is serving as the default 
+retail service provider, and that enters into a contract or similar obligation with such electric 
+distribution company to serve retail customers who have not selected a competitive retail service 
+provider.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 5 
+ 
+Environmental Laws: 
+ 
+“Environmental Laws” shall mean applicable Laws or Regulations relating to pollution or 
+protection of the environment, natural resources or human health and safety. 
+ 
+Environmentally-Limited Resource: 
+ 
+“Environmentally-Limited Resource” shall mean a resource which has a limit on its run hours 
+imposed by a federal, state, or other governmental agency that will significantly limit its 
+availability, on either a temporary or long-term basis. This includes a resource that is limited by a 
+governmental authority to operating only during declared PJM capacity emergencies. 
+ 
+Equivalent Load: 
+ 
+“Equivalent Load” shall mean the sum of a Market Participant’s net system requirements to 
+serve its customer load in the PJM Region, if any, plus its net bilateral transactions. 
+ 
+Event of Default: 
+ 
+“Event of Default,” as that term is used in Tariff, Attachment Q, shall mean a Financial Default, 
+Credit Breach, or Credit Support Default.   
+ 
+Exercise of Buyer-Side Market Power: 
+ 
+“Exercise of Buyer-Side Market Power” shall mean anti-competitive behavior of a Capacity 
+Market Seller with a Load Interest, or directed by an entity with a Load Interest, to 
+uneconomically lower RPM Auction Sell Offer(s) in order to suppress RPM Auction clearing 
+prices for the overall benefit of the Capacity Market Seller’s (and/or affiliates of Capacity 
+Market Seller) portfolio of generation and load or that of the directing entity with a Load Interest 
+as determined pursuant to Tariff, Attachment DD, section 5.14(h-2)(2)(B). A bilateral contract 
+between the Capacity Market Seller and an entity with a Load Interest with the express purpose 
+of lowering capacity market clearing prices shall be evidence of the Exercise of Buyer-Side 
+Market Power. 
+ 
+Existing Generation Capacity Resource: 
+ 
+“Existing Generation Capacity Resource” shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+Export Credit Exposure: 
+  
+“Export Credit Exposure” is determined for each Market Participant for a given Operating Day, 
+and shall mean the sum of credit exposures for the Market Participant’s Export Transactions for 
+that Operating Day and for the preceding Operating Day. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+Export Nodal Reference Price: 
+ 
+“Export Nodal Reference Price” at each location is the 97th percentile, shall be, the real-time 
+hourly integrated price experienced over the corresponding two-month period in the preceding 
+calendar year, calculated separately for peak and off-peak time periods.  The two-month time 
+periods used in this calculation shall be January and February, March and April, May and June, 
+July and August, September and October, and November and December.  
+ 
+Export Transaction: 
+  
+“Export Transaction” shall be a transaction by a Market Participant that results in the transfer of 
+energy from within the PJM Control Area to outside the PJM Control Area.  Coordinated 
+External Transactions that result in the transfer of energy from the PJM Control Area to an 
+adjacent Control Area are one form of Export Transaction.   
+ 
+Export Transaction Price Factor: 
+ 
+“Export Transaction Price Factor” for a prospective time interval shall be the greater of (i) PJM’s 
+forecast price for the time interval, if available, or (ii) the Export Nodal Reference Price, but 
+shall not exceed the Export Transaction’s dispatch ceiling price cap, if any, for that time interval.  
+The Export Transaction Price Factor for a past time interval shall be calculated in the same 
+manner as for a prospective time interval, except that the Export Transaction Price Factor may 
+use a tentative or final settlement price, as available. If an Export Nodal Reference Price is not 
+available for a particular time interval, PJM may use an Export Transaction Price Factor for that 
+time interval based on an appropriate alternate reference price. 
+ 
+Export Transaction Screening: 
+ 
+“Export Transaction Screening” shall be the process PJM uses to review the Export Credit 
+Exposure of Export Transactions against the Credit Available for Export Transactions, and deny 
+or curtail all or a portion of an Export Transaction, if the credit required for such transactions is 
+greater than the credit available for the transactions.   
+ 
+Export Transactions Net Activity: 
+ 
+“Export Transactions Net Activity” shall mean the aggregate net total, resulting from Export 
+Transactions, of (i) Spot Market Energy charges, (ii) Transmission Congestion Charges, and (iii) 
+Transmission Loss Charges, calculated as set forth in Operating Agreement, Schedule 1 and the 
+parallel provisions of Tariff, Attachment K-Appendix.  Export Transactions Net Activity may be 
+positive or negative. 
+ 
+Extended Primary Reserve Requirement: 
+ 
+“Extended Primary Reserve Requirement” shall equal the Primary Reserve Requirement in a 
+Reserve Zone or Reserve Sub-zone, plus 190 MW, plus any additional reserves scheduled under 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+emergency conditions necessary to address operational uncertainty.  The Extended Primary 
+Reserve Requirement is calculated in accordance with the PJM Manuals.  
+ 
+Extended Summer Demand Resource:  
+ 
+“Extended Summer Demand Resource” shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+Extended Summer Resource Price Adder:  
+ 
+“Extended Summer Resource Price Adder” shall mean, for Delivery Years through May 31, 
+2018, an addition to the marginal value of Unforced Capacity as necessary to reflect the price of 
+Annual Resources and Extended Summer Demand Resources required to meet the applicable 
+Minimum Extended Summer Resource Requirement. 
+ 
+Extended Synchronized Reserve Requirement: 
+ 
+“Extended Synchronized Reserve Requirement” shall equal the Synchronized Reserve 
+Requirement in a Reserve Zone or Reserve Sub-zone, plus 190 MW, plus any additional reserves 
+scheduled under emergency conditions necessary to address operational uncertainty. The 
+Extended Synchronized Reserve Requirement is calculated in accordance with the PJM Manuals. 
+ 
+Extended 30-minute Reserve Requirement: 
+ 
+“Extended 30-minute Reserve Requirement” shall equal the 30-minute Reserve Requirement in a 
+Reserve Zone or Reserve Sub-zone, plus 190 MW, plus any additional reserves scheduled under 
+emergency conditions necessary to address operational uncertainty.  The Extended 30-minute 
+Reserve Requirement is calculated in accordance with the PJM Manuals. 
+ 
+External Market Buyer: 
+ 
+“External Market Buyer” shall mean a Market Buyer making purchases of energy from the PJM 
+Interchange Energy Market for consumption by end-users outside the PJM Region, or for load in 
+the PJM Region that is not served by Network Transmission Service. 
+ 
+External Resource: 
+ 
+“External Resource” shall mean a generation resource located outside the metered boundaries of 
+the PJM Region. 
+ 
+Facilities Study: 
+ 
+“Facilities Study” shall be an engineering study conducted by the Transmission Provider (in 
+coordination with the affected Transmission Owner(s)) to: (1) determine the required 
+modifications to the Transmission Provider’s Transmission System necessary to implement the 
+conclusions of the System Impact Study; and (2) complete any additional studies or analyses 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 8 
+documented in the System Impact Study or required by PJM Manuals, and determine the 
+required modifications to the Transmission Provider’s Transmission System based on the 
+conclusions of such additional studies.  The Facilities Study shall include the cost and scheduled 
+completion date for such modifications, that will be required to provide the requested 
+transmission service or to accommodate a New Service Request.  As used in the Interconnection 
+Service Agreement or Construction Service Agreement, Facilities Study shall mean that certain 
+Facilities Study conducted by Transmission Provider (or at its direction) to determine the design 
+and specification of the Customer Funded Upgrades necessary to accommodate the New Service 
+Customer’s New Service Request in accordance with Tariff, Part VI, section 207.  
+ 
+Fast-Start Resource:  
+ 
+“Fast-Start Resource” shall have the meaning set forth in Tariff, Attachment K-Appendix, 
+section 2.2A 
+ 
+Federal Power Act: 
+ 
+“Federal Power Act” shall mean the Federal Power Act, as amended, 16 U.S.C. §§ 791a, et seq. 
+ 
+FERC or Commission: 
+ 
+“FERC” or “Commission” shall mean the Federal Energy Regulatory Commission or any 
+successor federal agency, commission or department exercising jurisdiction over the Tariff, 
+Operating Agreement and Reliability Assurance Agreement. 
+ 
+FERC Market Rules: 
+ 
+ “FERC Market Rules” mean the market behavior rules and the prohibition against electric 
+energy market manipulation codified by the Commission in its Rules and Regulations at 18 CFR 
+§§ 1c.2 and 35.37, respectively; the Commission-approved PJM Market Rules and any related 
+proscriptions or any successor rules that the Commission from time to time may issue, approve 
+or otherwise establish.  
+ 
+Final Offer: 
+ 
+“Final Offer” shall mean the offer on which a resource was dispatched by the Office of the 
+Interconnection for a particular clock hour for the Operating Day. 
+ 
+Final RTO Unforced Capacity Obligation: 
+ 
+“Final RTO Unforced Capacity Obligation” shall mean the capacity obligation for the PJM 
+Region, determined in accordance with RAA, Schedule 8. 
+ 
+Financial Close: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 9 
+“Financial Close” shall mean the Capacity Market Seller has demonstrated that the Capacity 
+Market Seller or its agent has completed the act of executing the material contracts and/or other 
+documents necessary to (1) authorize construction of the project and (2) establish the necessary 
+funding for the project under the control of an independent third-party entity.  A sworn, notarized 
+certification of an independent engineer certifying to such facts, and that the engineer has 
+personal knowledge of, or has engaged in a diligent inquiry to determine, such facts, shall be 
+sufficient to make such demonstration.  For resources that do not have external financing, 
+Financial Close shall mean the project has full funding available, and that the project has been 
+duly authorized to proceed with full construction of the material portions of the project by the 
+appropriate governing body of the company funding such project.  A sworn, notarized 
+certification by an officer of such company certifying to such facts, and that the officer has 
+personal knowledge of, or has engaged in a diligent inquiry to determine, such facts, shall be 
+sufficient to make such demonstration. 
+ 
+Financial Default: 
+ 
+“Financial Default” shall mean (a) the failure of a Member or Transmission Customer to make 
+any payment for obligations under the Agreements when due, including but not limited to an 
+invoice payment that has not been cured or remedied after notice has been given and any cure 
+period has elapsed, (b) a bankruptcy proceeding filed by a Member, Transmission Customer or 
+its Guarantor, or filed against a Member, Transmission Customer or its Guarantor and to which 
+the Member, Transmission Customer or Guarantor, as applicable, acquiesces or that is not 
+dismissed within 60 days, (c) a Member, Transmission Customer or its Guarantor, if any, is 
+unable to meet its financial obligations as they become due, or (d) a Merger Without Assumption 
+occurs in respect of the Member, Transmission Customer or any Guarantor of such Member or 
+Transmission Customer. 
+ 
+Financial Transmission Right: 
+ 
+“Financial Transmission Right” or “FTR” shall mean a right to receive Transmission Congestion 
+Credits as specified in Operating Agreement, Schedule 1, section 5.2.2 and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 5.2.2. 
+ 
+Financial Transmission Right Obligation: 
+ 
+“Financial Transmission Right Obligation” shall mean a right to receive Transmission 
+Congestion Credits as specified in Operating Agreement, Schedule 1, section 5.2.2(b), and the 
+parallel provisions of Tariff, Attachment K-Appendix, section 5.2.2(b). 
+ 
+Financial Transmission Right Option: 
+ 
+“Financial Transmission Right Option” shall mean a right to receive Transmission Congestion 
+Credits as specified in Operating Agreement, Schedule 1, section 5.2.2(c), and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 5.2.2(c). 
+ 
+Firm Point-To-Point Transmission Service: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 10 
+ 
+“Firm Point-To-Point Transmission Service” shall mean Transmission Service under the Tariff 
+that is reserved and/or scheduled between specified Points of Receipt and Delivery pursuant to 
+Tariff, Part II. 
+ 
+Firm Transmission Feasibility Study: 
+ 
+“Firm Transmission Feasibility Study” shall mean a study conducted by the Transmission 
+Provider in accordance with Tariff, Part II, section 19.3 and Tariff, Part III, section 32.3. 
+ 
+Firm Transmission Withdrawal Rights: 
+ 
+“Firm Transmission Withdrawal Rights” shall mean the rights to schedule energy and capacity 
+withdrawals from a Point of Interconnection of a Merchant Transmission Facility with the 
+Transmission System. Firm Transmission Withdrawal Rights may be awarded only to a 
+Merchant D.C. Transmission Facility that connects the Transmission System with another 
+control area. Withdrawals scheduled using Firm Transmission Withdrawal Rights have rights 
+similar to those under Firm Point-to-Point Transmission Service. 
+ 
+First Incremental Auction: 
+ 
+“First Incremental Auction” shall mean an Incremental Auction conducted 20 months prior to the 
+start of the Delivery Year to which it relates. 
+ 
+Flexible Resource:   
+“Flexible Resource” shall mean a generating resource that must have a combined Start-up Time 
+and Notification Time of less than or equal to two hours; and a Minimum Run Time of less than 
+or equal to two hours.   
+Forecast Pool Requirement: 
+ 
+“Forecast Pool Requirement” shall have the meaning specified in the Reliability Assurance 
+Agreement.  
+ 
+Foreign Guaranty: 
+ 
+“Foreign Guaranty” shall mean a Corporate Guaranty provided by an Affiliate of a Participant 
+that is domiciled in a foreign country, and meets all of the provisions of Tariff, Attachment Q. 
+ 
+Form 715 Planning Criteria: 
+ 
+“Form 715 Planning Criteria” shall have the same meaning provided in the Operating 
+Agreement. 
+ 
+Forward Daily Natural Gas Prices: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 11 
+“Forward Daily Natural Gas Prices” shall have the meaning provided in Tariff, Attachment DD, 
+section 5.10(a)(v-1)(E).  
+ 
+Forward Hourly Ancillary Services Prices: 
+ 
+“Forward Hourly Ancillary Services Prices” shall have the meaning provided in Tariff, 
+Attachment DD, section 5.10(a)(v-1)(D).  
+ 
+Forward Hourly LMPs:  
+ 
+“Forward Hourly LMPs” shall have the meaning provided in Tariff, Attachment DD, section 
+5.10(a)(v-1)(C). 
+ 
+FTR Credit Limit:  
+ 
+“FTR Credit Limit” shall mean the amount of credit established with PJMSettlement that an FTR 
+Participant has specifically designated to be used for FTR activity in a specific customer account.  
+Any such credit so set aside shall not be considered available to satisfy any other credit 
+requirement the FTR Participant may have with PJMSettlement. 
+ 
+FTR Credit Requirement: 
+ 
+“FTR Credit Requirement” shall mean the amount of credit that a Participant must provide in 
+order to support the FTR positions that it holds and/or for which it is bidding.  The FTR Credit 
+Requirement shall not include months for which the invoicing has already been completed, 
+provided that PJMSettlement shall have up to two Business Days following the date of the 
+invoice completion to make such adjustments in its credit systems.  FTR Credit Requirements 
+are calculated and applied separately for each separate customer account. 
+ 
+FTR Flow Undiversified: 
+ 
+“FTR Flow Undiversified” shall have the meaning established in Tariff, Attachment Q, section 
+VI.C.6. 
+ 
+FTR Historical Value: 
+  
+For each FTR for each month, “FTR Historical Value” shall mean the weighted average of  
+historical values over three years for the FTR path using the following weightings:  50% - most 
+recent year; 30% - second year; 20% - third year.   
+ 
+FTR Holder: 
+ 
+“FTR Holder” shall mean the PJM Member that has acquired and possesses an FTR. 
+ 
+FTR Monthly Credit Requirement Contribution: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 12 
+For each FTR, for each month, ”FTR Monthly Credit Requirement Contribution” shall mean the 
+total FTR cost for the month, prorated on a daily basis, less the FTR Historical Value for the 
+month.  For cleared FTRs, this contribution may be negative; prior to clearing, FTRs with 
+negative contribution shall be deemed to have zero contribution. 
+ 
+FTR Net Activity: 
+  
+“FTR Net Activity” shall mean the aggregate net value of the billing line items for auction 
+revenue rights credits, FTR auction charges, FTR auction credits, and FTR congestion credits, 
+and shall also include day-ahead and balancing/real-time congestion charges up to a maximum 
+net value of the sum of the foregoing auction revenue rights credits, FTR auction charges, FTR 
+auction credits and FTR congestion credits. 
+ 
+FTR Participant: 
+ 
+“FTR Participant” shall mean any Market Participant that provides or is required to provide 
+Collateral in order to participate in PJM’s FTR market. 
+ 
+FTR Portfolio Auction Value: 
+ 
+“FTR Portfolio Auction Value” shall mean for each customer account of a Market Participant, 
+the sum, calculated on a monthly basis, across all FTRs, of the FTR price times the FTR volume 
+in MW.  
+ 
+Fuel Cost Policy: 
+ 
+“Fuel Cost Policy” shall mean the document provided by a Market Seller to PJM and the Market 
+Monitoring Unit in accordance with PJM Manual 15 and Operating Agreement, Schedule 2, 
+which documents the Market Seller’s method used to price fuel for calculation of the Market 
+Seller’s cost-based offers for a generation resource.  
+ 
+Full Notice to Proceed: 
+ 
+“Full Notice to Proceed” shall mean that all material third party contractors have been given the 
+notice to proceed with construction by the Capacity Market Seller or its agent, with a guaranteed 
+completion date backed by liquidated damages. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - G - H 
+Effective Date: 12/1/2024 - Docket #: ER23-2484-000 - Page 1 
+Definitions – G - H 
+ 
+Generating Market Buyer: 
+ 
+“Generating Market Buyer” shall mean an Internal Market Buyer that is a Load Serving Entity 
+that owns or has contractual rights to the output of generation resources capable of serving the 
+Market Buyer’s load in the PJM Region, or of selling energy or related services in the PJM 
+Interchange Energy Market or elsewhere. 
+ 
+Generation Capacity Resource: 
+ 
+“Generation Capacity Resource” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+ 
+Generation Interconnection Customer: 
+ 
+“Generation Interconnection Customer” shall mean an entity that submits an Interconnection 
+Request to interconnect a new generation facility or to increase the capacity of an existing 
+generation facility interconnected with the Transmission System in the PJM Region. 
+ 
+Generation Interconnection Facilities Study: 
+ 
+“Generation Interconnection Facilities Study” shall mean a Facilities Study related to a 
+Generation Interconnection Request. 
+ 
+Generation Interconnection Feasibility Study: 
+ 
+“Generation Interconnection Feasibility Study” shall mean a study conducted by the 
+Transmission Provider (in coordination with the affected Transmission Owner(s)) in accordance 
+with Tariff, Part IV, section 36.2. 
+ 
+Generation Interconnection Request: 
+ 
+“Generation Interconnection Request” shall mean a request by a Generation Interconnection 
+Customer pursuant to Tariff, Part IV, subpart A, to interconnect a generating unit with the 
+Transmission System or to increase the capacity of a generating unit interconnected with the 
+Transmission System in the PJM Region. 
+ 
+Generation Owner: 
+ 
+“Generation Owner” shall mean a Member that owns, leases with rights equivalent to ownership, 
+or otherwise controls and operates one or more operating generation resources located in the 
+PJM Region.  The foregoing notwithstanding, for a planned generation resource to qualify a 
+Member as a Generation Owner, such resource shall have cleared an RPM auction, and for 
+Energy Resources, the resource shall have a FERC-jurisdictional interconnection agreement or 
+wholesale market participation agreement within PJM.  Purchasing all or a portion of the output 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - G - H 
+Effective Date: 12/1/2024 - Docket #: ER23-2484-000 - Page 2 
+of a generation resource shall not be sufficient to qualify a Member as a Generation Owner. For 
+purposes of Members Committee sector classification, a Member that is primarily a retail end-
+user of electricity that owns generation may qualify as a Generation Owner if: (1) the generation 
+resource is the subject of a FERC-jurisdictional interconnection agreement or wholesale market 
+participation agreement within PJM; (2) the average physical unforced capacity owned by the 
+Member and its affiliates over the five Planning Periods immediately preceding the relevant 
+Planning Period exceeds the average PJM capacity obligation of the Member and its affiliates 
+over the same time period; and (3) the average energy produced by the Member and its affiliates 
+within PJM over the five Planning Periods immediately preceding the relevant Planning Period 
+exceeds the average energy consumed by the Member and its affiliates within PJM over the same 
+time period. 
+ 
+Generation Resource Maximum Output:   
+ 
+“Generation Resource Maximum Output” shall mean, for Customer Facilities identified in an 
+Interconnection Service Agreement or Wholesale Market Participation Agreement, the 
+Generation Resource Maximum Output for a generating unit shall equal the unit’s pro rata share 
+of the Maximum Facility Output, determined by the Economic Maximum values for the 
+available units at the Customer Facility.  For generating units not identified in an Interconnection 
+Service Agreement or Wholesale Market Participation Agreement, the Generation Resource 
+Maximum Output shall equal the generating unit’s Economic Maximum. 
+ 
+Generator Forced Outage: 
+ 
+“Generator Forced Outage” shall mean an immediate reduction in output or capacity or removal 
+from service, in whole or in part, of a generating unit by reason of an Emergency or threatened 
+Emergency, unanticipated failure, or other cause beyond the control of the owner or operator of 
+the facility, as specified in the relevant portions of the PJM Manuals.  A reduction in output or 
+removal from service of a generating unit in response to changes in market conditions shall not 
+constitute a Generator Forced Outage. 
+ 
+Generator Maintenance Outage: 
+ 
+“Generator Maintenance Outage” shall mean the scheduled removal from service, in whole or in 
+part, of a generating unit in order to perform necessary repairs on specific components of the 
+facility, if removal of the facility meets the guidelines specified in the PJM Manuals. 
+ 
+Generator Planned Outage: 
+ 
+“Generator Planned Outage” shall mean the scheduled removal from service, in whole or in part, 
+of a generating unit for inspection, maintenance or repair with the approval of the Office of the 
+Interconnection in accordance with the PJM Manuals. 
+ 
+Good Utility Practice: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - G - H 
+Effective Date: 12/1/2024 - Docket #: ER23-2484-000 - Page 3 
+“Good Utility Practice” shall mean any of the practices, methods and acts engaged in or 
+approved by a significant portion of the electric utility industry during the relevant time period, 
+or any of the practices, methods and acts which, in the exercise of reasonable judgment in light 
+of the facts known at the time the decision was made, could have been expected to accomplish 
+the desired result at a reasonable cost consistent with good business practices, reliability, safety 
+and expedition.  Good Utility Practice is not intended to be limited to the optimum practice, 
+method, or act to the exclusion of all others, but rather is intended to include acceptable 
+practices, methods, or acts generally accepted in the region; including those practices required by 
+Federal Power Act, section 215(a)(4). 
+ 
+Governmental Authority: 
+ 
+“Governmental Authority” shall mean any federal, state, local or other governmental, regulatory 
+or administrative agency, court, commission, department, board, or other governmental 
+subdivision, legislature, rulemaking board, tribunal, arbitrating body, or other governmental 
+authority having jurisdiction over any Interconnection Party or Construction Party or regarding 
+any matter relating to an Interconnection Service Agreement or Construction Service Agreement, 
+as applicable. 
+ 
+Guarantor:  
+ 
+“Guarantor” shall mean a credit support provider for a Participant that provides a Corporate 
+Guaranty accepted by PJM and/or PJMSettlement, and for which PJM has made a determination 
+that the Guarantor meets applicable creditworthiness requirements under Tariff, Attachment Q. 
+ 
+Hazardous Substances: 
+ 
+“Hazardous Substance” shall mean any chemicals, materials or substances defined as or included 
+in the definition of “hazardous substances,” “hazardous wastes,” “hazardous materials,” 
+“hazardous constituents,” “restricted hazardous materials,” “extremely hazardous substances,” 
+“toxic substances,” “radioactive substances,” “contaminants,” “pollutants,” “toxic pollutants” or 
+words of similar meaning and regulatory effect under any applicable Environmental Law, or any 
+other chemical, material or substance, exposure to which is prohibited, limited or regulated by 
+any applicable Environmental Law.  
+ 
+Hot Weather Alert: 
+ 
+“Hot Weather Alert” shall mean the notice provided by PJM to PJM Members, Transmission 
+Owners, resource owners and operators, customers, and regulators to prepare personnel and 
+facilities for extreme hot and/or humid weather conditions which may cause capacity 
+requirements and/or unit unavailability to be substantially higher than forecast are expected to 
+persist for an extended period.  
+ 
+Hybrid Resource: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - G - H 
+Effective Date: 12/1/2024 - Docket #: ER23-2484-000 - Page 4 
+“Hybrid Resource” shall mean an Energy Resource or a Generation Capacity Resource 
+composed of more than one component behind the same Point of Interconnection operating in 
+the capacity, energy, and/or ancillary services market(s) as a single integrated resource, whereby 
+each component is a separate generation and/or storage technology type. A Hybrid Resource 
+forms all or part of a Mixed Technology Facility. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 1 
+Definitions – I – J - K 
+ 
+IDR Transfer Agreement: 
+ 
+“IDR Transfer Agreement” shall mean an agreement to transfer, subject to the terms of Tariff, 
+Part VI, section 237, Incremental Deliverability Rights to a party for the purpose of eliminating 
+or reducing the need for Local or Network Upgrades that would otherwise have been the 
+responsibility of the party receiving such rights. 
+ 
+Immediate-need Reliability Project: 
+ 
+“Immediate-need Reliability Project” shall have the same meaning provided in the Operating 
+Agreement. 
+ 
+Inadvertent Interchange: 
+ 
+“Inadvertent Interchange” shall mean the difference between net actual energy flow and net 
+scheduled energy flow into or out of the individual Control Areas operated by PJM. 
+ 
+Incidental Expenses: 
+ 
+“Incidental Expenses” shall mean those expenses incidental to the performance of construction 
+pursuant to an Interconnection Construction Service Agreement, including, but not limited to, the 
+expense of temporary construction power, telecommunications charges, Interconnected 
+Transmission Owner expenses associated with, but not limited to, document preparation, design 
+review, installation, monitoring, and construction-related operations and maintenance for the 
+Customer Facility and for the Interconnection Facilities. 
+ 
+Incremental Auction: 
+ 
+“Incremental Auction” shall mean any of several auctions conducted for a Delivery Year after 
+the Base Residual Auction for such Delivery Year and before the first day of such Delivery Year, 
+including the First Incremental Auction, Second Incremental Auction, Third Incremental Auction 
+or Conditional Incremental Auction.  Incremental Auctions (other than the Conditional 
+Incremental Auction shall be held for the purposes of: 
+ 
+ (i) allowing Market Sellers that committed Capacity Resources in the Base Residual 
+Auction for a Delivery Year, which subsequently are determined to be unavailable to deliver the 
+committed Unforced Capacity in such Delivery Year (due to resource retirement, resource 
+cancellation or construction delay, resource derating, EFORd increase, a decrease in the 
+Nominated Demand Resource Value of a Planned Demand Resource, delay or cancellation of a 
+Qualifying Transmission Upgrade, or similar occurrences) to submit Buy Bids for replacement 
+Capacity Resources; and  
+ 
+(ii) allowing the Office of the Interconnection to reduce or increase the amount of 
+committed capacity secured in prior auctions for such Delivery Year if, as a result of changed 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 2 
+circumstances or expectations since the prior auction(s), there is, respectively, a significant 
+excess or significant deficit of committed capacity for such Delivery Year, for the PJM Region 
+or for an LDA. 
+ 
+Incremental Auction Revenue Rights: 
+ 
+“Incremental Auction Revenue Rights” shall mean the additional Auction Revenue Rights, not 
+previously feasible, created by the addition of Incremental Rights-Eligible Required 
+Transmission Enhancements, Merchant Transmission Facilities, or of one or more Customer-
+Funded Upgrades.  
+ 
+Incremental Available Transfer Capability Revenue Rights: 
+ 
+“Incremental Available Transfer Capability Revenue Rights” shall mean the rights to revenues 
+that are derived from incremental Available Transfer Capability created by the addition of 
+Merchant Transmission Facilities or of one of more Customer-Funded Upgrades. 
+ 
+Incremental Capacity Transfer Right: 
+ 
+“Incremental Capacity Transfer Right” shall mean a Capacity Transfer Right allocated to a 
+Generation Interconnection Customer or Transmission Interconnection Customer obligated to 
+fund a transmission facility or upgrade, to the extent such upgrade or facility increases the 
+transmission import capability into a Locational Deliverability Area, or a Capacity Transfer 
+Right allocated to a Responsible Customer in accordance with Tariff, Schedule 12A.  
+ 
+Incremental Deliverability Rights (IDRs): 
+ 
+“Incremental Deliverability Rights” or “IDRs” shall mean the rights to the incremental ability, 
+resulting from the addition of Merchant Transmission Facilities, to inject energy and capacity at 
+a point on the Transmission System, such that the injection satisfies the deliverability 
+requirements of a Capacity Resource. Incremental Deliverability Rights may be obtained by a 
+generator or a Generation Interconnection Customer, pursuant to an IDR Transfer Agreement, to 
+satisfy, in part, the deliverability requirements necessary to obtain Capacity Interconnection 
+Rights. 
+ 
+Incremental Energy Offer: 
+ 
+“Incremental Energy Offer” shall mean the cost in dollars per MWh of providing an additional 
+MWh from a synchronized unit. It consists primarily of the cost of fuel, as determined by the 
+unit’s incremental heat rate (adjusted by the performance factor) times the fuel cost. It also 
+includes operating costs, Maintenance Adders, emissions allowances, tax credits, and energy 
+market opportunity costs. 
+ 
+Incremental Multi-Driver Project: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 3 
+“Incremental Multi-Driver Project” shall have the same meaning provided in the Operating 
+Agreement. 
+ 
+Incremental Rights-Eligible Required Transmission Enhancements: 
+ 
+“Incremental Rights-Eligible Required Transmission Enhancements” shall mean Regional 
+Facilities and Necessary Lower Voltage Facilities or Lower Voltage Facilities (as defined in 
+Tariff, Schedule 12) and meet one of the following criteria: (1) cost responsibility is assigned to 
+non-contiguous Zones that are not directly electrically connected; or (2) cost responsibility is 
+assigned to Merchant Transmission Providers that are Responsible Customers. 
+ 
+Increment Offer: 
+ 
+“Increment Offer” shall mean a type of Virtual Transaction that is an offer to sell energy at a 
+specified location in the Day-ahead Energy Market.  A cleared Increment Offer results in 
+scheduled generation at the specified location in the Day-ahead Energy Market. 
+ 
+Independent Auditor: 
+ 
+“Independent Auditor” shall mean an external accountant or external accounting firm who is not 
+an employee of, not otherwise related to, not obligated to, has no interest in, and is independent 
+in the performance of professional services for, the entity he/she/it is auditing, its management 
+and/or its owners. 
+ 
+Initial Operation: 
+ 
+“Initial Operation” shall mean the commencement of operation of the Customer Facility and 
+Customer Interconnection Facilities after satisfaction of the conditions of Tariff, Attachment O- 
+Appendix 2, section 1.4 (an Interconnection Service Agreement). 
+ 
+Integer Relaxation: 
+ 
+“Integer Relaxation” shall mean the process by which the commitment status variable for an 
+Eligible Fast-Start Resource is allowed to vary between zero and one, inclusive of zero and one, 
+as further described in Tariff, Attachment K-Appendix, section 2.2. 
+ 
+Interconnected Entity: 
+ 
+“Interconnected Entity” shall mean either the Interconnection Customer or the Interconnected 
+Transmission Owner; Interconnected Entities shall mean both of them. 
+ 
+Interconnected Transmission Owner: 
+ 
+“Interconnected Transmission Owner” shall mean the Transmission Owner to whose 
+transmission facilities or distribution facilities Customer Interconnection Facilities are, or as the 
+case may be, a Customer Facility is, being directly connected.  When used in an Interconnection 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 4 
+Construction Service Agreement, the term may refer to a Transmission Owner whose facilities 
+must be upgraded pursuant to the Facilities Study, but whose facilities are not directly 
+interconnected with those of the Interconnection Customer. 
+ 
+Interconnection Construction Service Agreement: 
+ 
+“Interconnection Construction Service Agreement” shall mean the agreement entered into by an 
+Interconnection Customer, Interconnected Transmission Owner and the Transmission Provider 
+pursuant to Tariff, Part VI, Subpart B and in the form set forth in Tariff, Attachment P, relating 
+to construction of Attachment Facilities, Network Upgrades, and/or Local Upgrades and 
+coordination of the construction and interconnection of an associated Customer Facility.  A 
+separate Interconnection Construction Service Agreement will be executed with each 
+Transmission Owner that is responsible for construction of any Attachment Facilities, Network 
+Upgrades, or Local Upgrades associated with interconnection of a Customer Facility. 
+ 
+Interconnection Customer: 
+ 
+“Interconnection Customer” shall mean a Generation Interconnection Customer and/or a 
+Transmission Interconnection Customer. 
+ 
+Interconnection Facilities: 
+ 
+“Interconnection Facilities” shall mean the Transmission Owner Interconnection Facilities and 
+the Customer Interconnection Facilities. 
+ 
+Interconnection Feasibility Study: 
+ 
+“Interconnection Feasibility Study” shall mean either a Generation Interconnection Feasibility 
+Study or Transmission Interconnection Feasibility Study. 
+ 
+Interconnection Party: 
+ 
+“Interconnection Party” shall mean a Transmission Provider, Interconnection Customer, or the 
+Interconnected Transmission Owner. Interconnection Parties shall mean all of them. 
+ 
+Interconnection Request: 
+ 
+“Interconnection Request” shall mean a Generation Interconnection Request, a Transmission 
+Interconnection Request and/or an IDR Transfer Agreement. 
+ 
+Interconnection Service: 
+ 
+“Interconnection Service” shall mean the physical and electrical interconnection of the Customer 
+Facility with the Transmission System pursuant to the terms of Tariff, Part IV and Tariff, Part VI 
+and the Interconnection Service Agreement entered into pursuant thereto by Interconnection 
+Customer, the Interconnected Transmission Owner and Transmission Provider. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 5 
+ 
+Interconnection Service Agreement: 
+ 
+“Interconnection Service Agreement” shall mean an agreement among the Transmission 
+Provider, an Interconnection Customer and an Interconnected Transmission Owner regarding 
+interconnection under Tariff, Part IV and Tariff, Part VI. 
+ 
+Interconnection Studies: 
+ 
+“Interconnection Studies” shall mean the Interconnection Feasibility Study, the System Impact 
+Study, and the Facilities Study described in Tariff, Part IV and Tariff, Part VI. 
+ 
+Interface Pricing Point: 
+ 
+“Interface Pricing Point” shall have the meaning specified in Operating Agreement, Schedule 1, 
+section 2.6A, and the parallel provisions of Tariff, Attachment K-Appendix, section 2.6A. 
+ 
+Intermittent Resource: 
+ 
+“Intermittent Resource” shall mean a Generation Capacity Resource with output that can vary as 
+a function of its energy source, such as wind, solar, run of river hydroelectric power and other 
+renewable resources.  
+ 
+Internal Credit Score: 
+ 
+“Internal Credit Score” shall mean a composite numerical score determined by PJMSettlement 
+using quantitative and qualitative metrics to estimate various predictors of a credit event 
+happening to a Market Participant that may trigger a credit event. 
+ 
+Internal Market Buyer: 
+ 
+“Internal Market Buyer” shall mean a Market Buyer making purchases of energy from the PJM 
+Interchange Energy Market for ultimate consumption by end-users inside the PJM Region that 
+are served by Network Transmission Service. 
+ 
+Interregional Transmission Project: 
+ 
+“Interregional Transmission Project” shall mean transmission facilities that would be located 
+within two or more neighboring transmission planning regions and are determined by each of 
+those regions to be a more efficient or cost effective solution to regional transmission needs. 
+ 
+Interruption: 
+ 
+“Interruption” shall mean a reduction in non-firm transmission service due to economic reasons 
+pursuant to Tariff, Part II, section 14.7. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - I - J - K 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 6 
+IROL Critical Resource: 
+ 
+“IROL Critical Resource” shall mean a generation resource that the Office of the Interconnection 
+designates, pursuant to NERC Reliability Standards, as having an interconnection reliability 
+operating limit that, if violated, could lead to instability, uncontrolled separation, or cascading 
+outages that adversely impact the reliability of the bulk electric system.   
+ 
+Jointly Owned Cross-Subsidized Capacity Resource: 
+ 
+“Jointly Owned Cross-Subsidized Capacity Resource” shall mean a Capacity Resource that is 
+supported by a facility that is jointly owned, where at least one owner is entitled to or receives a 
+State Subsidy associated with such Capacity Resource, and therefore shall be considered a 
+Capacity Resource with State Subsidy; provided however, in the event that the material rights 
+and obligations of such generating facility are in pari passu, meaning that such rights and 
+obligations are allocated among the owners pro rata based on ownership share, only Capacity 
+Resources of those owners entitled to receive or receiving a State Subsidy shall have their share 
+of such resource considered a Capacity Resource with a State Subsidy and Capacity Resources of 
+owners not entitled to a State Subsidy shall not be considered a Capacity Resource with a State 
+Subsidy.  Each of these designations may be overcome by either Capacity Market Seller 
+demonstrating to the Office of Interconnection, with advice and input from the Market 
+Monitoring Unit, that there is no cross-subsidization or the Office of the Interconnection, with 
+review and input from the Market Monitor, finds based on sufficient evidence, that there is cross-
+subsidization. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 1 
+Definitions – L – M – N 
+ 
+Legacy Policy: 
+ 
+“Legacy Policy” shall mean any legislative, executive, or regulatory action that specifically 
+directs a payment outside of PJM Markets to a designated or prospective Generation Capacity 
+Resource and the enactment of such action predates October 1, 2021, regardless of when any 
+implementing governmental action to effectuate the action to direct payment outside of PJM 
+Markets occurs. 
+ 
+Limited Demand Resource:  
+ 
+“Limited Demand Resource” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+ 
+Limited Demand Resource Reliability Target:  
+ 
+“Limited Demand Resource Reliability Target” for the PJM Region or an LDA, shall mean the 
+maximum amount of Limited Demand Resources determined by PJM to be consistent with the 
+maintenance of reliability, stated in Unforced Capacity that shall be used to calculate the 
+Minimum Extended Summer Demand Resource Requirement for Delivery Years through May 
+31, 2017 and the Limited Resource Constraint for the 2017/2018 and 2018/2019 Delivery Years 
+for the PJM Region or such LDA.  As more fully set forth in the PJM Manuals, PJM calculates 
+the Limited Demand Resource Reliability Target by first:  i) testing the effects of the ten-
+interruption requirement by comparing possible loads on peak days under a range of weather 
+conditions (from the daily load forecast distributions for the Delivery Year in question) against 
+possible generation capacity on such days under a range of conditions (using the cumulative 
+capacity distributions employed in the Installed Reserve Margin study for the PJM Region and in 
+the Capacity Emergency Transfer Objective study for the relevant LDAs for such Delivery Year) 
+and, by varying the assumed amounts of DR that is committed and displaces committed 
+generation, determines the DR penetration level at which there is a ninety percent probability 
+that DR will not be called (based on the applicable operating reserve margin for the PJM Region 
+and for the relevant LDAs) more than ten times over those peak days;  ii) testing the six-hour 
+duration requirement by calculating the MW difference between the highest hourly unrestricted 
+peak load and seventh highest hourly unrestricted peak load on certain high peak load days (e.g., 
+the annual peak, loads above the weather normalized peak, or days where load management was 
+called) in recent years, then dividing those loads by the forecast peak for those years and 
+averaging the result; and (iii) (for the 2016/2017 and 2017/2018 Delivery Years) testing the 
+effects of the six-hour duration requirement by comparing possible hourly loads on peak days 
+under a range of weather conditions (from the daily load forecast distributions for the Delivery 
+Year in question) against possible generation capacity on such days under a range of conditions 
+(using a Monte Carlo model of hourly capacity levels that is consistent with the capacity model 
+employed in the Installed Reserve Margin study for the PJM Region and in the Capacity 
+Emergency Transfer Objective study for the relevant LDAs for such Delivery Year) and, by 
+varying the assumed amounts of DR that is committed and displaces committed generation, 
+determines the DR penetration level at which there is a ninety percent probability that DR will 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 2 
+not be called (based on the applicable operating reserve margin for the PJM Region and for the 
+relevant LDAs) for more than six hours over any one or more of the tested peak days.  Second, 
+PJM adopts the lowest result from these three tests as the Limited Demand Resource Reliability 
+Target.  The Limited Demand Resource Reliability Target shall be expressed as a percentage of 
+the forecasted peak load of the PJM Region or such LDA and is converted to Unforced Capacity 
+by multiplying [the reliability target percentage] times [the Forecast Pool Requirement] times 
+[the DR Factor] times [the forecasted peak load of the PJM Region or such LDA, reduced by the 
+amount of load served under the FRR Alternative]. 
+ 
+Limited Resource Constraint: 
+ 
+“Limited Resource Constraint” shall mean, for the 2017/2018 Delivery Year and for FRR 
+Capacity Plans the 2017/2018 and Delivery Years, for the PJM Region or each LDA for which 
+the Office of the Interconnection is required under Tariff, Attachment DD, section 5.10(a) to 
+establish a separate VRR Curve for a Delivery Year, a limit on the total amount of Unforced 
+Capacity that can be committed as Limited Demand Resources for the 2017/2018 Delivery Year 
+in the PJM Region or in such LDA, calculated as the Limited Demand Resource Reliability 
+Target for the PJM Region or such LDA, respectively, minus the Short Term Resource 
+Procurement Target for the PJM Region or such LDA, respectively. 
+ 
+Limited Resource Price Decrement: 
+“Limited Resource Price Decrement” shall mean, for the 2017/2018 Delivery Year, a difference 
+between the clearing price for Limited Demand Resources and the clearing price for Extended 
+Summer Demand Resources and Annual Resources, representing the cost to procure additional 
+Extended Summer Demand Resources or Annual Resources out of merit order when the Limited 
+Resource Constraint is binding. 
+ 
+List of Approved Contractors: 
+ 
+“List of Approved Contractors” shall mean a list developed by each Transmission Owner and 
+published in a PJM Manual of (a) contractors that the Transmission Owner considers to be 
+qualified to install or construct new facilities and/or upgrades or modifications to existing 
+facilities on the Transmission Owner’s system, provided that such contractors may include, but 
+need not be limited to, contractors that, in addition to providing construction services, also 
+provide design and/or other construction-related services, and (b) manufacturers or vendors of 
+major transmission-related equipment (e.g., high-voltage transformers, transmission line, circuit 
+breakers) whose products the Transmission Owner considers acceptable for installation and use 
+on its system. 
+ 
+Load Interest: 
+ 
+“Load Interest” shall mean, for the purposes of the minimum offer price rule, responsibility for 
+serving load within the PJM Region, whether by the Capacity Market Seller, an affiliate of the 
+Capacity Market Seller, or by an entity with which the Capacity Market Seller is in contractual 
+privity with respect to the subject Generation Capacity Resource. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 3 
+Load Management: 
+ 
+“Load Management” shall mean a Demand Resource (“DR”) as defined in the Reliability 
+Assurance Agreement. 
+ 
+Load Management Event: 
+ 
+“Load Management Event” shall mean a) a single temporally contiguous dispatch of Demand 
+Resources in a Compliance Aggregation Area during an Operating Day, or b) multiple dispatches 
+of Demand Resources in a Compliance Aggregation Area during an Operating Day that are 
+temporally contiguous.  
+ 
+Load Ratio Share: 
+ 
+“Load Ratio Share” shall mean the ratio of a Transmission Customer’s Network Load to the 
+Transmission Provider’s total load. 
+ 
+Load Reduction Event: 
+ 
+“Load Reduction Event” shall mean a reduction in demand by a Member or Special Member for 
+the purpose of participating in the PJM Interchange Energy Market. 
+ 
+Load Serving Charging Energy:  
+ 
+“Load Serving Charging Energy” shall mean energy that is purchased from the PJM Interchange 
+Energy Market and stored in an Energy Storage Resource or Open-Loop Hybrid Resource for 
+later resale to end-use load. 
+ 
+Load Serving Entity (LSE): 
+ 
+“Load Serving Entity” or “LSE” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+ 
+Load Shedding: 
+ 
+“Load Shedding” shall mean the systematic reduction of system demand by temporarily 
+decreasing load in response to transmission system or area capacity shortages, system instability, 
+or voltage control considerations under Tariff, Part II or Part III. 
+ 
+Local Upgrades: 
+ 
+“Local Upgrades” shall mean modifications or additions of facilities to abate any local thermal 
+loading, voltage, short circuit, stability or similar engineering problem caused by the 
+interconnection and delivery of generation to the Transmission System.  Local Upgrades shall 
+include: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 4 
+ (i) Direct Connection Local Upgrades which are Local Upgrades that only serve the 
+Customer Interconnection Facility and have no impact or potential impact on the Transmission 
+System until the final tie-in is complete; and  
+ 
+ (ii) Non-Direct Connection Local Upgrades which are parallel flow Local Upgrades that 
+are not Direct Connection Local Upgrades. 
+ 
+Location: 
+ 
+“Location” as used in the Economic Load Response rules shall mean an end-use customer site as 
+defined by the relevant electric distribution company account number. 
+ 
+LOC Deviation:   
+ 
+“LOC Deviation,” shall mean, for units other than wind units, the LOC Deviation shall equal the 
+desired megawatt amount for the resource determined according to the point on the Final Offer 
+curve corresponding to the Real-time Settlement Interval real-time Locational Marginal Price at 
+the resource’s bus and adjusted for any reduction in megawatts due to Regulation, Synchronized 
+Reserve, or Secondary Reserve assignments and limited to the lesser of the unit’s Economic 
+Maximum or the unit’s Generation Resource Maximum Output, minus the actual output of the 
+unit.  For wind units, the LOC Deviation shall mean the deviation of the generating unit’s output 
+equal to the lesser of the PJM forecasted output for the unit or the desired megawatt amount for 
+the resource determined according to the point on the Final Offer curve corresponding to the 
+Real-time Settlement Interval integrated real-time Locational Marginal Price at the resource’s 
+bus, and shall be limited to the lesser of the unit’s Economic Maximum or the unit’s Generation 
+Resource Maximum Output, minus the actual output of the unit. 
+ 
+Locational Deliverability Area (LDA): 
+ 
+“Locational Deliverability Area” or “LDA” shall mean a geographic area within the PJM Region 
+that has limited transmission capability to import capacity to satisfy such area’s reliability 
+requirement, as determined by the Office of the Interconnection in connection with preparation 
+of the Regional Transmission Expansion Plan, and as specified in Reliability Assurance 
+Agreement, Schedule 10.1. 
+ 
+Locational Deliverability Area Reliability Requirement: 
+ 
+“Locational Deliverability Area Reliability Requirement” shall mean the projected internal 
+capacity in the Locational Deliverability Area plus the Capacity Emergency Transfer Objective 
+for the Delivery Year, as determined by the Office of the Interconnection in connection with 
+preparation of the Regional Transmission Expansion Plan, less the minimum internal resources 
+required for all FRR Entities in such Locational Deliverability Area. 
+ 
+Locational Price Adder: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 5 
+“Locational Price Adder” shall mean an addition to the marginal value of Unforced Capacity 
+within an LDA as necessary to reflect the price of Capacity Resources required to relieve 
+applicable binding locational constraints.  
+ 
+Locational Reliability Charge: 
+ 
+“Locational Reliability Charge” shall have the meaning specified in the Reliability Assurance 
+Agreement.  
+ 
+Locational UCAP: 
+ 
+“Locational UCAP” shall mean unforced capacity that a Member with available uncommitted 
+capacity sells in a bilateral transaction to a Member that previously committed capacity through 
+an RPM Auction but now requires replacement capacity to fulfill its RPM Auction commitment.  
+The Locational UCAP Seller retains responsibility for performance of the resource providing 
+such replacement capacity.   
+ 
+Locational UCAP Seller: 
+ 
+“Locational UCAP Seller” shall mean a Member that sells Locational UCAP. 
+ 
+Long-lead Project: 
+ 
+“Long-lead Project” shall have the same meaning provided in the Operating Agreement. 
+ 
+Long-Term Firm Point-To-Point Transmission Service: 
+ 
+“Long-Term Firm Point-To-Point Transmission Service” shall mean firm Point-To-Point 
+Transmission Service under Tariff, Part II with a term of one year or more. 
+ 
+Loss Price: 
+ 
+“Loss Price” shall mean the loss component of the Locational Marginal Price, which is the effect 
+on transmission loss costs (whether positive or negative) associated with increasing the output of 
+a generation resource or decreasing the consumption by a Demand Resource based on the effect 
+of increased generation from or consumption by the resource on transmission losses, calculated 
+as specified in Operating Agreement, Schedule 1, section 2, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 2. 
+ 
+M2M Flowgate: 
+ 
+“M2M Flowgate” shall have the meaning provided in the Joint Operating Agreement between 
+the Midcontinent Independent Transmission System Operator, Inc. and PJM Interconnection, 
+L.L.C. 
+ 
+Maintenance Adder:   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+ 
+“Maintenance Adder” shall mean an adder that may be included to account for variable operation 
+and maintenance expenses in a Market Seller’s Fuel Cost Policy.  The Maintenance Adder is 
+calculated in accordance with the applicable provisions of PJM Manual 15, and may only include 
+expenses incurred as a result of electric production. 
+ 
+Manual Load Dump Action: 
+ 
+“Manual Load Dump Action” shall mean an Operating Instruction, as defined by NERC, from 
+PJM to shed firm load when the PJM Region cannot provide adequate capacity to meet the PJM 
+Region’s load and tie schedules, or to alleviate critically overloaded transmission lines or other 
+equipment. 
+ 
+Manual Load Dump Warning: 
+ 
+“Manual Load Dump Warning” shall mean a notification from PJM to warn Members of an 
+increasingly critical condition of present operations that may require manually shedding load. 
+ 
+Marginal Value:  
+ 
+“Marginal Value” shall mean the incremental change in system dispatch costs, measured as a 
+$/MW value incurred by providing one additional MW of relief to the transmission constraint. 
+ 
+Market Monitor: 
+ 
+“Market Monitor” means the head of the Market Monitoring Unit. 
+ 
+Market Monitoring Unit or MMU: 
+ 
+“Market Monitoring Unit” or “MMU” means the independent Market Monitoring Unit defined in 
+18 CFR § 35.28(a)(7) and established under the PJM Market Monitoring Plan (Attachment M) to 
+the PJM Tariff that is responsible for implementing the Market Monitoring Plan, including the 
+Market Monitor.  The Market Monitoring Unit may also be referred to as the IMM or 
+Independent Market Monitor for PJM 
+ 
+Market Monitoring Unit Advisory Committee or MMU Advisory Committee: 
+ 
+“Market Monitoring Unit Advisory Committee” or “MMU Advisory Committee” shall mean the 
+committee established under Tariff, Attachment M, section III.H. 
+ 
+Market Operations Center: 
+ 
+“Market Operations Center” shall mean the equipment, facilities and personnel used by or on 
+behalf of a Market Participant to communicate and coordinate with the Office of the 
+Interconnection in connection with transactions in the PJM Interchange Energy Market or the 
+operation of the PJM Region. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+ 
+Market Participant: 
+ 
+“Market Participant” shall mean a Market Buyer, a Market Seller, an Economic Load Response 
+Participant, or all three, except when such term is used in Tariff, Attachment M, in which case 
+Market Participant shall mean an entity that generates, transmits, distributes, purchases, or sells 
+electricity, ancillary services, or any other product or service provided under the PJM Tariff or 
+Operating Agreement within, into, out of, or through the PJM Region, but it shall not include an 
+Authorized Government Agency that consumes energy for its own use but does not purchase or 
+sell energy at wholesale. 
+ 
+Market Participant Energy Injection: 
+ 
+“Market Participant Energy Injection” shall mean transactions in the Day-ahead Energy Market 
+and Real-time Energy Market, including but not limited to Day-ahead generation schedules, real-
+time generation output, Increment Offers, internal bilateral transactions and import transactions, 
+as further described in the PJM Manuals.  
+ 
+Market Participant Energy Withdrawal: 
+ 
+“Market Participant Energy Withdrawal” shall mean transactions in the Day-ahead Energy 
+Market and Real-time Energy Market, including but not limited to Demand Bids, Decrement 
+Bids, real-time load (net of Behind The Meter Generation expected to be operating, but not to be 
+less than zero), internal bilateral transactions and Export Transactions, as further described in the 
+PJM Manuals.  
+ 
+Market Revenue Neutrality Offset:  
+ 
+“Market Revenue Neutrality Offset” shall mean the revenue in excess of the cost for a resource 
+from the energy, Synchronized Reserve, Non-Synchronized Reserve, and Secondary Reserve 
+markets realized from an increase in real-time market megawatt assignment from a day-ahead 
+market megawatt assignment in any of these markets due to the decrease in the real-time reserve 
+market megawatt assignment from a day-ahead reserve market megawatt assignment in any of 
+the reserve markets. 
+ 
+Market Seller Offer Cap: 
+ 
+“Market Seller Offer Cap” shall mean a maximum offer price applicable to certain Market 
+Sellers under certain conditions, as determined in accordance with Tariff, Attachment DD. 
+section 6 and Tariff, Attachment M-Appendix, section II.E.    
+ 
+Market Violation: 
+ 
+“Market Violation” shall mean a tariff violation, violation of a Commission-approved order, rule 
+or regulation, market manipulation, or inappropriate dispatch that creates substantial concerns 
+regarding unnecessary market inefficiencies, as defined in 18 C.F.R. § 35.28(b)(8). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 8 
+ 
+Material Modification: 
+ 
+“Material Modification” shall mean any modification to an Interconnection Request that has a 
+material adverse effect on the cost or timing of Interconnection Studies related to, or any 
+Network Upgrades or Local Upgrades needed to accommodate, any Interconnection Request 
+with a later Queue Position. 
+ 
+Maximum Daily Starts: 
+ 
+“Maximum Daily Starts” shall mean the maximum number of times that a generating unit can be 
+started in an Operating Day under normal operating conditions. 
+ 
+Maximum Emergency: 
+ 
+“Maximum Emergency” shall mean the designation of all or part of the output of a generating 
+unit for which the designated output levels may require extraordinary procedures and therefore 
+are available to the Office of the Interconnection only when the Office of the Interconnection 
+declares a Maximum Generation Emergency and requests generation designated as Maximum 
+Emergency to run.  The Office of the Interconnection shall post on the PJM website the 
+aggregate amount of megawatts that are classified as Maximum Emergency. 
+ 
+Maximum Facility Output: 
+ 
+“Maximum Facility Output” shall mean the maximum (not nominal) net electrical power output 
+in megawatts, specified in the Interconnection Service Agreement, after supply of any parasitic 
+or host facility loads, that a Generation Interconnection Customer’s Customer Facility is 
+expected to produce, provided that the specified Maximum Facility Output shall not exceed the 
+output of the proposed Customer Facility that Transmission Provider utilized in the System 
+Impact Study. 
+ 
+Maximum Generation Emergency: 
+ 
+“Maximum Generation Emergency” shall mean an Emergency declared by the Office of the 
+Interconnection to address either a generation or transmission emergency in which the Office of 
+the Interconnection anticipates requesting one or more Generation Capacity Resources, or Non-
+Retail Behind The Meter Generation resources to operate at its maximum net or gross electrical 
+power output, subject to the equipment stress limits for such Generation Capacity Resource or 
+Non-Retail Behind The Meter resource in order to manage, alleviate, or end the Emergency. 
+ 
+Maximum Generation Emergency Alert:  
+ 
+“Maximum Generation Emergency Alert” shall mean an alert issued by the Office of the 
+Interconnection to notify PJM Members, Transmission Owners, resource owners and operators, 
+customers, and regulators that a Maximum Generation Emergency may be declared, for any 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 9 
+Operating Day in either, as applicable, the Day-ahead Energy Market or the Real-time Energy 
+Market, for all or any part of such Operating Day. 
+ 
+Maximum Run Time: 
+ 
+“Maximum Run Time” shall mean the maximum number of hours a generating unit can run over 
+the course of an Operating Day, as measured by PJM’s State Estimator. 
+ 
+Maximum Weekly Starts: 
+ 
+“Maximum Weekly Starts” shall mean the maximum number of times that a generating unit can 
+be started in one week, defined as the 168 hour period starting Monday 0001 hour, under normal 
+operating conditions. 
+ 
+Member: 
+  
+“Member” shall have the meaning provided in the Operating Agreement. 
+ 
+Merchant A.C. Transmission Facilities: 
+ 
+“Merchant A.C. Transmission Facility” shall mean Merchant Transmission Facilities that are 
+alternating current (A.C.) transmission facilities, other than those that are Controllable A.C. 
+Merchant Transmission Facilities.  
+ 
+Merchant D.C. Transmission Facilities: 
+ 
+“Merchant D.C. Transmission Facilities” shall mean direct current (D.C.) transmission facilities 
+that are interconnected with the Transmission System pursuant to Tariff, Part IV and Part VI.  
+ 
+Merchant Network Upgrades: 
+ 
+“Merchant Network Upgrades” shall mean additions to, or modifications or replacements of, 
+physical facilities of the Interconnected Transmission Owner that, on the date of the pertinent 
+Transmission Interconnection Customer’s Upgrade Request, are part of the Transmission System 
+or are included in the Regional Transmission Expansion Plan. 
+ 
+Merchant Transmission Facilities: 
+ 
+“Merchant Transmission Facilities” shall mean A.C. or D.C. transmission facilities that are 
+interconnected with or added to the Transmission System pursuant to Tariff, Part IV and Part VI 
+and that are so identified in Tariff, Attachment T, provided, however, that Merchant 
+Transmission Facilities shall not include (i) any Customer Interconnection Facilities, (ii) any 
+physical facilities of the Transmission System that were in existence on or before March 20, 
+2003 ; (iii) any expansions or enhancements of the Transmission System that are not identified as 
+Merchant Transmission Facilities in the Regional Transmission Expansion Plan and Attachment 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - L - M - N 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 10 
+T to the Tariff, or (iv) any transmission facilities that are included in the rate base of a public 
+utility and on which a regulated return is earned. 
+ 
+Merchant Transmission Provider: 
+ 

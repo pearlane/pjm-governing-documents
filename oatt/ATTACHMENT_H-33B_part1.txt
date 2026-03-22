@@ -1,0 +1,2057 @@
+[ATTACHMENT H-33B - Part 1 of 10]
+
+ Attachment H-33B(1)          
+ Formula Rate - Non-Levelized  
+NextEra Energy Transmission MidAtlantic, Inc.   
+Note Z Rate Formula Template   
+  
+  
+For  the 12 months ended ____ 
+   Utilizing FERC Form 1 Data      
+   
+ 
+       
+           
+           
+ (1) (2) (3)    (4)  (5)   
+Line        Allocated   
+No.        Amount   
+1 GROSS REVENUE REQUIREMENT (page 3, line 47)      
+$                                     
+-   
+           
+  REVENUE CREDITS  (Note O) Total  Allocator     
+2   Account No. 454 (page 4, line 29) -  TP 
+                                        
+-     -   
+3   Account No. 456.1 (page 4, line 33) -  TP 
+                                        
+-     -   
+4   Account No. 457.1 Scheduling Attachment 5, line 39, col e -  TP 
+                                        
+-     -   
+5 
+  Revenues from Grandfathered 
+Interzonal Transactions  (Note N) -  TP 
+                                        
+-     -   
+6 
+  Revenues from service provided by the 
+ISO at a discount  -  TP 
+                                        
+-     -   
+7 TOTAL REVENUE CREDITS  (Sum of Lines 2 through 6) -     -   
+           
+8 NET REVENUE REQUIREMENT (line 1 minus line 7)      
+$                                     
+-   
+           
+9 True-up Adjustment with Interest Attachment 3, line 4, Col. J -  DA 1.00000  -   
+           
+10 NET REVENUE REQUIREMENT (line 8 plus line 9)      
+$                                     
+-   
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 2 
+        page 2 of 5 
+ Formula Rate - Non-Levelized  Rate Formula Template  
+For  the 12 months ended 
+____ 
+  Utilizing FERC Form 1 Data      
+  NextEra Energy Transmission MidAtlantic, Inc.      
+ 
+ (1) (2) (3)    (4)  (5)   
+        Transmission   
+Line  Source Company 
+Total 
+                   
+Allocator 
+  (Col 3 times 
+Col 4) 
+  
+No. RATE BASE:           
+ GROSS PLANT IN SERVICE   (Notes U and R)         
+1   Production  205.46.g for end of year, records for other months                                       
+-    
+ NA                                          
+-    
+  
+2   Transmission Attachment 4, Line 14, Col. (b)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+3   Distribution  207.75.g for end of year, records for other months                                       
+-    
+ NA                                         
+-    
+                                       
+-    
+  
+4   General & Intangible Attachment 4, Line 14, Col. (c)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+5   Common  356.1 for end of year, records for other months                                       
+-    
+ CE                                         
+-    
+                                       
+-    
+  
+6 TOTAL GROSS PLANT (Sum of Lines 1 through 5)                                       
+-    
+ GP=                                         
+-    
+                                       
+-    
+  
+           
+7 ACCUMULATED DEPRECIATION  (Notes U and R)         
+8   Production  219.20-24.c for end of year, records for other months                                       
+-    
+ NA                                          
+-    
+  
+9   Transmission Attachment 4, Line 14, Col. (h)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+10   Distribution  219.26.c for end of year, records for other months                                       
+-    
+ NA                                         
+-    
+                                       
+-    
+  
+11   General & Intangible Attachment 4, Line 14, Col. (i)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+12   Common  356.1 for end of year, records for other months                                       
+-    
+ CE                                         
+-    
+                                       
+-    
+  
+13 TOTAL ACCUM. DEPRECIATION  (Sum of Lines 8 through 12)                                       
+-    
+                                          
+-    
+  
+            
+14 NET PLANT IN SERVICE          
+15   Production  (line 1minus line 8)                                       
+-    
+                                          
+-    
+  
+16   Transmission (Line 2 minus line 9)                                       
+-    
+                                          
+-    
+  
+17   Distribution  (line 3 minus line 10)                                       
+-    
+                                          
+-    
+  
+18   General & Intangible (Line 4 minus line 11)                                       
+-    
+                                          
+-    
+  
+19   Common  (line 5 minus line 12)                                       
+-    
+                                          
+-    
+  
+20 TOTAL NET PLANT (Sum of Lines 15 through 19)                                       
+-    
+ NP=                                         
+-    
+                                       
+-    
+  
+           21 ADJUSTMENTS TO RATE BASE  (Note R)          
+22   Account No. 281 (enter negative) Attach 4, Line 28, Col. (d)/Attach 4a, Line 54, Col. H (Notes B and X)                                       
+-    
+ NA zero                                        
+-    
+  
+23   Account No. 282 (enter negative) Attach 4, Line 28, Col. (e)/Attach 4a, Line 81, Col. H (Notes B and X)                                       
+-    
+ NP                                         
+-    
+                                       
+-    
+  
+24   Account No. 283 (enter negative) Attach 4, Line 28, Col. (f)/Attach 4a, Line 108, Col. H (Notes B and 
+X) 
+                                      
+-    
+ NP                                         
+-    
+                                       
+-    
+  
+25   Account No. 190  Attach 4, Line 28, Col. (g)/Attach 4a, Line 27, Col. H (Notes B and X)                                       
+-    
+ NP                                         
+-    
+                                       
+-    
+  
+26   Account No. 255 (enter negative) Attachment 4, Line 28, Col. (h) (Notes B and X)                                       
+-    
+ NP                                         
+-    
+                                       
+-    
+  
+26a   Unfunded Reserves (enter negative) Attachment 4, Line 31, Col. (h)  (Note Y)                                       
+-    
+ DA                              
+1.00000  
+                                       
+-    
+  
+27   CWIP- Commission Approved Order 679 Projects Attachment 4, Line 14, Col. (d)                                       
+-    
+ DA                              
+1.00000  
+                                       
+-    
+  
+28   Unamortized Regulatory Asset  Attachment 4, Line 28, Col. (b) (Note T)                                       
+-    
+ DA                              
+1.00000  
+                                       
+-    
+  
+29   Unamortized Abandoned Plant   Attachment 4, Line 28, Col. (c) (Note S)                                       
+-    
+ DA                              
+1.00000  
+                                       
+-    
+  
+30 TOTAL ADJUSTMENTS  (Sum of Lines 22 through 29)                                       
+-    
+                                          
+-    
+             
+31 LAND HELD FOR FUTURE USE   Attachment 4, Line 14, Col. (e) (Note C)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+           
+32 WORKING CAPITAL  (Note D)         
+33   CWC  1/8*(Page 3, Line 14 minus Page 3, Line 11)                                       
+-    
+                                          
+-    
+  
+34   Materials & Supplies Attachment 4, Line 14, Col. (f) (Note C)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+   
+35   Prepayments (Account 165) Attachment 4, Line 14, Col. (g)                                       
+-    
+ GP                                         
+-    
+                                       
+-    
+  
+36 TOTAL WORKING CAPITAL   (Sum of Lines 33 through 35)                                       
+-    
+                                          
+-    
+               
+37 RATE BASE  (Sum of Lines 20, 30, 31 & 36)                                       
+-    
+                                          
+-    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 3 
+ Formula Rate - Non-Levelized  Rate Formula Template   page 3 of 5 
+  Utilizing FERC Form 1 Data  For  the 12 months ended ____ 
+  NextEra Energy Transmission MidAtlantic, Inc.       
+ (1) (2) (3)    (4)  (5)   
+Line        Transmission   
+No.  Source Company Total                    
+Allocator   (Col 3 times 
+Col 4)   
+ O&M          
+1   Transmission  321.112.b Attach. 5, Line 13, Col. (a)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+2      Less Account 566 (Misc Trans Expense) 321.97.b Attach. 5, Line 13, Col. (b)                                        
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+3      Less Account 565 321.96.b Attach. 5, Line 13, Col. (c)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+4   A&G 323.197.b Attach. 5, Line 13, Col. (d)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+   
+5      Less FERC Annual Fees Attach. 5, Line 13, Col. (e)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+6      Less EPRI & Reg. Comm. Exp. & Non-
+safety Ad.   
+(Note E) Attach. 5, Line 13, Col. (f)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+6a      Less PBOP Expense in Year Attachment 7, Line 8, Col. (g)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+7      Plus Transmission Related Reg. Comm. Exp.   (Note E) Attach. 5, Line 13, Col. (g)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+7a      Plus PBOP Expense Allowed Amount Attachment 7, Line 6, Col. (g)                                       
+-    
+ W/S                                         
+-    
+                                       
+-    
+  
+8   Common  356.1                                       
+-    
+ CE                                         
+-    
+                                       
+-    
+  
+9   Transmission Lease Payments Attach. 5, Line 13, Col (h)                                       
+-    
+ DA                                
+1.0000  
+                                       
+-    
+  
+10 Account 566          
+11    Amortization of Regulatory Asset (Note T) Attach. 5, Line 13, Col. (i)                                       
+-    
+ DA                                
+1.0000  
+                                       
+-    
+  
+12    Miscellaneous Transmission Expense (less 
+amortization of regulatory asset) 
+Attach. 5, Line 13, Col .(j)                                       
+-    
+ TP                                         
+-    
+                                       
+-    
+  
+13 Total Account 566 (Line 11 plus Line 12) Ties to 321.97.b                                       
+-    
+        
+14 TOTAL O&M (Sum of Lines 1, 4, 7, 7a, 8, 9, 13 less Lines 2, 3, 5, 6, 6a)                                       
+-    
+                                          
+-    
+             
+15 DEPRECIATION EXPENSE  (Note U)          
+16   Transmission  336.7.b, d &e Attach. 5, Line 13, Col. (k)                                       
+-    
+  TP                                          
+-    
+                                       
+-    
+  
+17   General & Intangible 336.10.b, d &e, 336.1.b, d &e Attach. 5, Line 26, Col. (a)                                       
+-    
+  W/S                                          
+-    
+                                       
+-    
+  
+18   Common  336.11.b, d &e                                       
+-    
+  CE                                          
+-    
+                                       
+-    
+  
+19   Amortization of Abandoned Plant (Note S) Attach. 5, Line 26, Col. (b)                                       
+-    
+  DA                                 
+1.0000  
+                                       
+-    
+  
+20 TOTAL DEPRECIATION  (Sum of Lines 16 through 19)                                       
+-    
+                                          
+-    
+             
+21 TAXES OTHER THAN INCOME TAXES  (Note F)         
+22   LABOR RELATED          
+23           Payroll 263.i Attach. 5, Line 26, Col. (c)                                       
+-      W/S                                          
+-                                           
+-      
+24           Highway and vehicle 263.i Attach. 5, Line 26, Col. (d)                                       
+-      W/S                                          
+-                                           
+-      
+25   PLANT RELATED           
+26          Property 263.i Attach. 5, Line 26, Co.l (e)                                       
+-      GP                                          
+-                                           
+-      
+27          Gross Receipts 263.i Attach. 5, Line 26, Col. (f)                                       
+-      NA   zero                                         
+-      
+28          Other 263.i Attach. 5, Line 26, Col. (g)                                       
+-      GP                                          
+-                                           
+-      
+29          Payments in lieu of taxes 263.i Attach. 5, Line 26, Col. (h)                                       
+-      GP                                          
+-                                           
+-      
+30 TOTAL OTHER TAXES (Sum of Lines 23 through 29)                                       
+-    
+                                          
+-    
+             
+31 INCOME TAXES           (Note G)         
+32      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT 
+* p)} 
+WCLTD = Page 4, Line 20                          -           
+33      CIT=(T/1-T) * (1-(WCLTD/R)) = R = Page 4, Line 23                         -           
+34      FIT & SIT & P (Note G)         
+35           
+36       1 / (1 - T)  =  (T from line 32)                                        
+-           
+37 Amortized Investment Tax Credit 266.8f (enter negative) Attach. 5, Line 26, Col. (i)                                       
+-           
+38 Excess Deferred Income Taxes  (enter negative) Attach. 5, Line 26, Col. (j)                                       
+-           
+39 Tax Effect of Permanent Differences Attach. 5, Line 26, Col. (k) (Note W)                                       
+-           
+40 Income Tax Calculation  (Line 33 times Line 46)                                       
+-     NA                                         
+-       
+41 ITC adjustment  (Line 36 times Line 37)                                       
+-     NP                                         
+-                                           
+-      
+42 Excess Deferred Income Tax Adjustment  (Line 36 times Line 38)                                       
+-     NP                                         
+-                                           
+-      
+43 Permanent Differences Tax Adjustment (Line 36 times Line 39)                                       
+-     NP                                         
+-                                           
+-      
+44 Total Income Taxes  (Sum of Lines 40 through 43)                                       
+-    
+                                            
+-    
+             
+45 RETURN           
+46 Rate Base times Return (Page 2, Line 37 times Page 4, Line 23)                                       
+-     NA                                         
+-                 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 4 
+47 REV. REQUIREMENT (Sum of Lines 14, 20, 30, 44 & 46)                                       
+-    
+                                          
+-    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 5 
+         
+page 4 of 
+5 
+           
+ Formula Rate - Non-Levelized  Rate Formula Template   For  the 12 months ended ____ 
+  Utilizing FERC Form 1 Data      
+  NextEra Energy Transmission MidAtlantic, Inc.      
+ (1) (2) (3)    (4)  (5)             
+  
+SUPPORTING CALCULATIONS AND 
+NOTES         
+Lin
+e 
+          
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES          
+1 Total Transmission plant   (Page 2, Line 2, Column 3)                                            
+-    
+  
+2 Less Transmission plant excluded from ISO rates   (Note H)                                            
+-    
+  
+3 Less Transmission plant included in OATT Ancillary 
+Services   
+(Note I)                                            
+-    
+  
+4 Transmission plant included in ISO rates (Line 1 minus Lines 2 & 3)                                            
+-    
+  
+           
+5 Percentage of Transmission plant included in ISO Rates   (Line 4 divided by Line 1)     TP
+= 
+                                      
+-    
+             
+6 WAGES & SALARY ALLOCATOR  (W&S)          
+  Form 1 Reference $ TP  Allocation     
+7   Production  354.20.b                                       
+-    
+-                                          
+-    
+    
+8   Transmission 354.21.b                                       
+-    
+-                                          
+-    
+    
+9   Distribution  354.23.b                                       
+-    
+-                                          
+-    
+ W&S 
+Allocator 
+  
+10   Other 354.24,25,26.b                                       
+-    
+-                                          
+-    
+ ($ / 
+Allocation) 
+  
+11  Total  (W& S Allocator is 1 if lines 7-10 are zero) (Sum of Lines 7 through 10)                                       
+-    
+                                          
+-    
+=                                       
+-    
+= WS 
+             
+12 COMMON PLANT ALLOCATOR  (CE)  (Note J and X)   $   % Electric  W&S 
+Allocator 
+  
+13   Electric  200.3.c                                       
+-    
+  (line 13 / line 16)  (line 11)  CE 
+14   Gas 201.3.d                                       
+-    
+                                          
+-    
+ *                                        
+-    
+ =                           
+-    15   Water  201.3.e                                       
+-    
+        
+16   Total (Sum of Lines 13 through 15)                                       
+-    
+                  
+17 RETURN (R) (Note V)      $   
+18      Cost     
+19   $ %  (Notes K, Q, & 
+R) 
+ Weighted   
+20   Long Term Debt  (Attachment 5, line 48    Notes Q & R)                                       
+-    
+-                                          
+-    
+                                       
+-    
+=WCLTD 
+21   Preferred Stock  (112.3.c) (Attachment 5, line 49   Notes Q & R)                                       
+-    
+-                                          
+-    
+                                       
+-    
+  
+22   Common Stock (Attachment 5, line 50  Notes K, Q & R)                                       
+-    
+-  10.77%                                        
+-    
+  
+23 Total  (Attachment 5, line 51)                                       
+-    
+                                           
+-    
+=R             
+24 REVENUE CREDITS          
+            
+25 ACCOUNT 447 (SALES FOR RESALE) (Note L) 310 -311          
+26 a. Bundled Non-RQ Sales for Resale  311.x.h                                            
+-    
+  
+27 b. Bundled Sales for Resale  Attach 5, line 39, col (a)                                             
+-    
+  
+28   Total of (a)-(b)                                             
+-    
+             
+29 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY)  (Note M) Attach 5, line 39, col (b)                                             
+-    
+             
+30 ACCOUNT 456.1 (OTHER ELECTRIC REVENUES) 330.x.n          
+31 a. Transmission charges for all transmission transactions  Attach 5, line 39, col (c)                                             
+-    
+  
+32 
+b. Transmission charges associated with Project detailed on 
+the Project Rev Req Schedule Col. 10. Attach 5, line 39, col (d)       
+                                      
+-      
+33   Total of (a)-(b)       
+                                      
+-      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 6 
+          
+page 5 of 
+5            
+ Formula Rate - Non-Levelized  Rate Formula Template   For  the 12 months ended ____ 
+  Utilizing FERC Form 1 Data      
+  NextEra Energy Transmission MidAtlantic, Inc.                
+ General Note:  References to pages in this formulary rate are indicated as:  (page#, line#, 
+col.#) 
+        
+ References to data from FERC Form 1 are indicated as:  #.y.x  (page, line, column)         
+Note           
+Letter 
+         
+A  Reserved 
+B  The balances in Accounts 190, 281, 282 and 283, as adjusted by any amounts in contra accounts identified as regulatory assets or liabilities related to FASB 106 or 109.  Balance of Account 255 is reduced by prior flow throughs and 
+excluded if the utility chose to utilize amortization of tax credits against taxable income.  Account 281 is not allocated.   
+C Identified in Form 1 as being only transmission related. 
+D Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 14, column 5 minus amortization of Regulatory Asset at page 3, line 11, column 5.  Prepayments are the electric related 
+prepayments booked to Account No. 165 and reported on pages 111, line 57 in the Form 1. 
+E Page 3, Line 6 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1 found at 323.191.b.  Page 3, Line 7-
+Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h.  
+F Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year.  Taxes related to income are excluded. Gross receipts taxes are not included in transmission revenue 
+requirement in the Rate Formula Template, since they are recovered elsewhere. 
+The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes".  If the utility is taxed in more than 
+one state it must attach a work paper showing the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that elected to utilize amortization of tax credits against taxable income, rather than 
+book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, line 36).  Excess Deferred 
+Income Taxes reduce income tax expense by the amount of the expense multiplied by (T/1-T). 
+         Inputs Required: FIT =                                       
+-    
+       
+ 
+SIT=                                       
+-    
+(State Income Tax Rate or Composite SIT) 
+    
+ 
+p =                                       
+-    
+(percent of federal income tax deductible for state purposes) 
+  
+G 
+          
+H Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+I Removes dollar amount of transmission plant to be included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT ancillary services.  For these purposes, 
+generation step-up facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down.   
+J Enter dollar amounts 
+K ROE will be supported in the original filing and no change in ROE may be made absent a filing with FERC. 
+L  Page 4, Line 28 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1. 
+M Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+N  Company will not have any grandfathered agreements.  Therefore, this line shall remain zero.  
+O The revenues credited on page 1 lines 2-6 shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for service under this tariff) reflecting the Transmission Owner's integrated 
+transmission facilities.  Revenue Credits do not include revenues associated with FERC annual charges, gross receipts taxes, facilities not included in this template (e.g., direct assignment facilities and GSUs) the costs of which are 
+not recovered under this Rate Formula Template. 
+P Reserved 
+Q NEET MidAtlantic, Inc. will use its actual capital structure, subject to a 60% cap on the equity capitalization provided it demonstrates in its Annual Update that NEET MidAtlantic (1) issues its own long-term debt without 
+guarantees, and (2) has its own issuer or issuance credit rating.  If NEET MidAtlantic fails to make this demonstration, it will use the capital structure of its ultimate upstream parent company, NextEra Energy, Inc. for ratemaking 
+purposes. 
+R Calculate using 13 month average balance, except ADIT. 
+S Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of abandoned plant.  Utility must receive FERC authorization before recovering the 
+cost of abandoned plant. 
+T Each NEET PJM Entity has a Regulatory Asset rate incentive for prudently-incurred pre-commercial and formation costs.  When the net book value of all transmission facilities owned by NEET PJM Entities in the PJM Region 
+equals or exceeds $50 million, a NEET PJM Entity: (i) may file for authorization from the Commission to amortize and recover in rates its Regulatory Asse for pre-commercial and formation costs; and (ii) shall cease to book 
+expenses to such Regulatory Asset effective upon the effective date of such filing.  Recovery of any other regulatory assets requires authorization from the Commission. A carrying charge equal to the weighted cost of capital 
+calculated pursuant to this formula will be applied to the Regulatory Asset prior to the rate year after Commission authorization to recover the Regulatory Asset. 
+U Excludes Asset Retirement Obligation balances 
+        
+V Company shall be allowed recovery of costs related to interest rate locks.  Absent a Section 205 filing, Company shall not include in the Formula Rate, the gains, losses, or costs related to other hedges. 
+W The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H that are not the result of a timing difference 
+X Calculated on Attachment 4 for the true up and on Attachment 4a for the projection     
+Y Unfunded Reserves are customer contributed capital such as when employee vacation expense is accrued but not yet incurred.  Also, pursuant to Special Instructions to Accounts 228.1 through 228.4,  
+ no amounts shall be credited to accounts 228.1 through 228.4 unless authorized by a regulatory authority or authorities to be collected in a utility’s rates.    
+Z This Formula Rate Template, including Attachments, is to be used by any NEET PJM Entity, which includes NEET MidAtlantic, , and any other wholly-owned subsidiary of NextEra Energy Transmission, LLC, that operates in the 
+PJM Region and that owns, or proposes to own, transmission facilities that have been, or will be, turned over to the functional control of PJM and whose costs are recoverable under the PJM Tariff.  Each subsequent NEET PJM 
+Entity shall use a replication of H-33B(1) designated as a subsequent version (e.g., H-33B(2), etc.), in this Attachment H-33. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 7 
+      Attachment 1    Page 1 of 2 
+       Project Revenue Requirement Worksheet     
+      NextEra Energy Transmission MidAtlantic, Inc.   
+               
+               
+  To be completed in conjunction with Attachment H.          
+               
+               
+  (1)  (2)    (3)   (4)    
+    Attachment H           
+Line    Page, Line, Col.    Transmission   Allocator    
+No.               
+               
+1  Gross Transmission Plant - Total  Attach H, p 2, line 2 col 5  (Note A)                                 -      -    
+2  Net Transmission Plant - Total  Attach H, p 2, line 16 col 5 plus line 27 & 29 col 5 (Note B)                                -              -                       
+-    
+   
+               
+  O&M EXPENSE             
+3  Total O&M Allocated to Transmission  Attach H, p 3, line 14 col 5                                    -   -    
+4  Annual Allocation Factor for O&M  (line 3 divided by line 1 col 3)   -                       -       
+               
+  
+GENERAL, INTANGIBLE AND COMMON (G&C)  
+DEPRECIATION EXPENSE           
+5  Total G, I & C Depreciation Expense  Attach H, p 3, lines 17 & 18, col 5 (Note H)   -      -    
+6  Annual Allocation Factor for G, I & C Depreciation Expense (line 5 divided by line 1 col 3)                               -       -                                    
+-    
+   
+               
+  TAXES OTHER THAN INCOME TAXES             
+7  Total Other Taxes  Attach H, p 3, line 30 col 5    -      -                               
+--    
+   
+8  Annual Allocation Factor for Other Taxes  (line 7 divided by line 1 col 3)   -                                           
+-    
+                               
+-    
+  
+               
+9  Less Revenue Credits  Attach H, p 1, line 7 col 5      -      -                            
+-   - 
+   
+10  Annual Allocation Factor Revenue Credits  (line 9 divided by line 1 col 3)         -      -               
+-                    
+-    
+  
+               
+11  Annual Allocation Factor for Expense  Sum of line 4, 6, 8, and 10    -   -    
+               
+  INCOME TAXES             
+12  Total Income Taxes  Attach H, p 3, line 44 col 5    -   -    
+13  Annual Allocation Factor for Income Taxes  (line 12 divided by line 2 col 3)    -                     -                      
+-    
+                       
+-        
+-    
+  
+               
+  RETURN              
+14  Return on Rate Base  Attach H, p 3, line 46 col 5    -      -       
+15  Annual Allocation Factor for Return on Rate Base  (line 14 divided by line 2 col 3)   -      -                       
+- 
+-        
+-    
+  
+               
+16  Annual Allocation Factor for Return  Sum of line 13 and 15      -      -       
+               
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 8 
+      Attachment 1       Page 2 of 2 
+      Project Revenue Requirement Worksheet        
+      NextEra Energy Transmission MidAtlantic, Inc.                            
+  (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)  (12a) (13) (14) (15) (16) 
+Line 
+No.   Project Name  
+RTO 
+Project 
+Number 
+Project 
+Gross 
+Plant  
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual 
+Expense 
+Charge 
+Project 
+Net 
+Plant 
+or 
+CWIP 
+Balance 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation/ 
+Amortization 
+Expense 
+Annual 
+Revenue 
+Requirement 
+Incentive 
+Return in 
+basis Points 
+Incentive 
+Return 
+Ceiling 
+Rate 
+Competitive 
+Bid 
+Concession 
+Total Annual 
+Revenue 
+Requirement 
+True-Up 
+Adjustment 
+Net 
+Rev 
+Req 
+        (Note C) 
+(Page 1 line 
+11) 
+(Col. 3 * 
+Col. 4) 
+(Notes 
+D & I) 
+(Page 1 line 
+16) 
+(Col. 6 * 
+Col. 7) (Notes E & I) 
+(Sum Col. 5, 8 
+& 9) (Note K) 
+(Attachment 
+2, Line 28 
+/100 * Col. 
+11) 
+(Sum Col. 
+10 & 12) (Note J) 
+(Sum Col. 10 & 
+12 Less Col. 13) (Note F) 
+Sum 
+Col. 14 
+& 15  
+(Note 
+G) 
+                            
+15a  Example PIS    $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-    15b       $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-    15c       $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-            $                                      
+-    
+                             
+-    
+                                 
+-    
+ $                                   
+-    
+                               
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-                                  
+-           $                                                                    
+-    
+                                 
+-                                    
+-    
+                                 
+-    
+                               
+-    
+                                     
+-    
+                                     
+-    
+                                 
+-    
+                                 
+-    
+                             
+-    
+                                
+-    
+                   
+-    
+                             
+-    
+16  Annual Totals             
+                             
+-      
+                             
+-    
+                   
+Not
+e                   
+Lett
+er                   
+A  Gross Transmission Plant is that identified on page 2 line 2 of Attachment H   
+B  Inclusive of any CWIP or unamortized abandoned plant included in rate base when authorized by FERC order less any prefunded AFUDC, if applicable.   
+C 
+ 
+Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1.  This value includes subsequent capital investments required to maintain the facilities to their original 
+capabilities.    
+   Gross plant does not include Unamortized Abandoned Plant.           
+D 
+ 
+Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation.  Net Plant includes CWIP and Unamortized Abandoned Plant and excludes any regulatory asset, which are to entered as a 
+separate line item.  
+E  
+Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H, page 3, line 16.  Project Depreciation Expense includes the amortization of Abandoned 
+Plant   
+F  True-Up Adjustment is calculated on the Project True-up Schedule for the Rate Year   
+G  The Net Rev Req is the value to be used in the rate calculation under the applicable Schedule under the PJM OATT for each project.   
+H  The Total General, Intangible and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in page 2 column 9.   
+I  The Unamortized Abandoned Plant balance is included in Net Plant, and Amortization of Abandoned Plant is included in Depreciation/Amortization Expense.   
+J  
+The Competitive Bid Concession is the reduction in revenue, if any, that the company agreed to, for instance, to be selected to build facilities as the result of a competitive process and equals the amount by which the annual revenue 
+requirement is reduced from the ceiling rate  
+K  Requires approval by FERC of incentive return applicable to the specified project(s)         
+M  All facilities other than those being recovered under Schedules 7, 8, 9 are to be included in Attachment 1.         
+N  Facilities that provide Wholesale Distribution Service are not to be listed as projects on lines 15, the revenue requirements associated with these facilities are calculated on Attachment 11    
+O  
+When an updated projected net revenue requirement is posted due to an asset acquisition as provided for in the Protocols, the difference between the updated net revenue requirement in Col (16) and the revenues collected to 
+date will be recovered over the remaining months of the Rate Year.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 9 
+  
+  
+Attachment 2   Page 1 of 1 
+  Incentive ROE    
+  NextEra Energy Transmission MidAtlantic, Inc.               
+   1  Rate Base Attachment H, Page 2 line 37, Col.5        - 
+           
+       2  100 Basis Point Incentive Return       $  
+       Cost    
+    $ %     Weighted  
+       3    Long Term Debt  (Attachment H, Notes Q and R)  -         -            -                                                    
+-    
+ 
+       4    Preferred Stock   (Attachment H, Notes Q and R)  -         -            -                                                    
+-     
+       5    Common Stock 
+(Attachment H, Notes K, Q and 
+R) 
+Cost = Attachment H, Page 
+4 Line 22, Cost plus .01 -         -     0.1177  
+                                               
+-     
+       6  Total  (sum lines 3-5)   -        
+                                               
+-     
+       7  
+100 Basis Point Incentive Return multiplied by Rate Base (line 1 * 
+line 6)        - 
+       8  INCOME TAXES                    
+       9       T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =  -       
+     10       CIT=(T/1-T) * (1-(WCLTD/R)) =  -       
+     11        WCLTD = Line 3          
+     12         and FIT, SIT & p are as given in footnote K.         
+     13        1 / (1 - T)  =  (from line 9)  -       
+     14  Amortized Investment Tax Credit (266.8f) (enter negative) 
+Attachment H, Page 3, Line 
+37 -       
+     15  Excess Deferred Income Taxes (enter negative) 
+Attachment H, Page 3, Line 
+38 -       
+     16  Tax Effect of Permanent Differences  (Note B) 
+Attachment H, Page 3, Line 
+39 -       
+     17  Income Tax Calculation = line 10 * line 7  -  NA                                                  
+-     
+     18  ITC adjustment (line 13 * line 14)  -  NP        -                                                    
+-     
+19 Excess Deferred Income Tax Adjustment (line 13 * line 15)  -  NP -    
+     20  Permanent Differences Tax Adjustment (line 13 * 16)  -  NP        -                                                    
+-     
+     21  Total Income Taxes (sum lines 
+17 - 20)   -                                                      
+-    
+- 
+           
+     22  Return and Income Taxes with 100 basis point increase in ROE (Sum lines 7 & 21)       -            
+     23  Return    (Attach. H, page 3 line 46 col 5)        - 
+     24  Income Tax    (Attach. H, page 3 line 44 col 5)        - 
+     25  Return and Income Taxes without 100 basis point increase in ROE (Sum lines 23 & 24)       - 
+     26  Incremental Return and Income Taxes for 100 basis point increase 
+in ROE 
+(Line 22 - line 25)       - 
+     27  Rate Base (line 1)         - 
+     28  Incremental Return and Income Taxes for 100 basis point increase in ROE divided by Rate Base (Line 26 / line 27)     - 
+           
+ Notes:            
+ A  Line 5 includes a 100 basis point increase in ROE that is used only to determine the increase in return and income taxes associated with a 100 basis point increase in ROE.  Any actual ROE incentive must be approved by 
+the Commission.  For example, if the Commission were to grant a 137 basis point ROE incentive, the increase in return and taxes for a 100 basis point  increase in ROE would be multiplied by 1.37 on Attachment 1 column 12. 
+ B  The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H that are not the result of a timing difference 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 10 
+   Attachment 3     Page 1 of 1 
+   Project True-Up      
+   NextEra Energy Transmission MidAtlantic, Inc.      
+   Revenue Requirement Projected  Actual Revenue         
+1 Rate Year being Trued-Up 
+For Rate Year Revenue 
+Received3 Requirement Annual True-Up Calculation   
+2      $                                
+-          
+ A B C D E F G H I J 
+    Projected % of Total Revenue  Actual Net    Interest Total 
+  Project #   Net Revenue Revenue Received Net Revenue Under/(Over) Prior Period Income True-Up 
+ Or Other Identifier Project Name Requirement1 Requirement (E, Line 2 ) x 
+(D)  
+Requirement2 Collection  (F)-(E) Adjustment 5 (Expense)4 (G) + (H) + (I) 
+3 Attachment H   -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-    3a     -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-    3b     -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-    3c     -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-         -                                                       
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-    
+                                            
+-    
+                               
+-                                     
+-                         
+4 Total Annual Revenue Requirements (Note A)                                              
+-    
+                                                      
+-    
+                                   
+-    
+                                            
+-    
+                                 
+-                                    
+-                                     
+-           Monthly Interest Rate                                  
+-     
+       Interest Income (Expense)                                  
+-     
+ Notes:          
+ 1) From Attachment 1, line 15, col. 14 for the projection for the Rate Year.      
+ 2) From Attachment 1, line 15, col. 14 for that project based on the actual costs for the Rate Year.     
+ 
+ 
+3) The "Revenue Received" on line 2, Col. (E), is the total amount of revenue distributed to company in the year as shown on pages 328-330 of the Form No 1. The Revenue Received is input on line 2, Col. E excludes any True-
+Up revenues.   Column E, lines 3 are the dollar amounts of Revenue Received reflecting the % in Column D.  This assigns to each project a percentage of the revenue received based on the percentage of the Projected Net Revenue 
+Requirement in Column C.   Column D, lines 3 are sourced from the projected revenue requirement for the year at issue. 
+ 4) Interest from Attachment 6.       
+ 5)  Prior Period Adjustment from line 5 is pro rata  to each project, unless the error was project specific.     
+Prior Period 
+Adjustment          
+ (a) (b) (c) (d)       
+ Prior Period 
+Adjustment 
+Amount Interest Total       
+ (Note B) In Dollars Note B Col. (b) + Col. (c)       
+5                                                                     
+-    
+                        -                                                 
+-    
+                                                      
+-    
+      
+Note
+s: 
+A For each project or Attachment H, the utility will populate the formula rate with the inputs for the True-Up Year.  The revenue requirements, based on actual operating results for the True-Up Year, associated 
+with the projects and Attachment H will then be entered in Col. (F) above.  Column (E) above contains the actual revenues received associated with Attachment H and any Projects paid by the RTO to the utility 
+during the True-Up Year.   Then in Col. (G), Col. (E) is subtracted from Col. (F) to calculate the True-up Adjustment.  The Prior Period Adjustment from Line 5 below is input in Col. (H).  Column (I) is the 
+applicable interest rate from Attachment 6.  Column (I) adds the interest on the sum of Col.(G) and  (H).  Col. (J) is the sum of Col. (G), (H), and (I). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 11 
+ B Prior Period Adjustment is the amount of an adjustment to correct an error in a prior period.  The FERC Refund interest rate specified in CFR 35.19(a) for the period up to the date the projected rates that are 
+subject to True Up here went into effect. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B 
+NextEra Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 12 
+    Attachment 4   Page 1 of 2 
+    Rate Base Worksheet     
+    NextEra Energy Transmission MidAtlantic, Inc.              
+  
+Gross Plant In 
+Service CWIP LHFFU Working Capital Accumulated Depreciation  
+Line 
+No Month Transmission 
+General & 
+Intangible 
+CWIP in Rate 
+Base  Held for Future Use 
+  Materials & 
+Supplies   Prepayments Transmission General & Intangible 
+ (a) (b) (c) (d) (e) (f) (g) (h) (i) 
+ 
+Attachment H, Page 2, Line 
+No: 2 4 27 31 34 35 9 11 
+  
+207.58.g for 
+end of year, 
+records for 
+other months 
+205.5.g & 
+207.99.g for end 
+of year, records 
+for other months (Note C) 
+214.x.d for end of 
+year, records for other 
+months 
+227.8.c & 227.16.c 
+for end of year, 
+records for other 
+months 
+111.57.c for end of 
+year, records for 
+other months 
+219.25.c for end of year, 
+records for other months 
+219.28.c & 200.21.c 
+for end of year, 
+records for other 
+months 
+1 Month 12 PriorYear 
+                                                  
+-  
+                                                
+-  - - 
+                                                      
+-  
+                                           
+-    
+                                                     
+-  
+                                                                 
+-  
+2 Month 1                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+3 Montth 2                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+4 Month 3                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+5 Month 4                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+6 Month 5                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+7 Month 6                                                    
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+8 Month 7                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+9 Month 8                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+10 Month 9                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+11 Month 10                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+12 Month 11                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+13 Month 12                                                   
+-  
+                                                
+-  - -                                                       
+-  
+                                             
+-  
+                                                   
+-    
+                                                                 
+-  
+14 
+Average of the 13 Monthly 
+Balances                                                                                                    
+                                     
+-    
+                                         
+-                                                                                                                                                                                                                                
+  Adjustments to Rate Base   
+Line 
+No Month 
+Unamortized 
+Regulatory 
+Asset  
+Unamortized 
+Abandoned 
+Plant   
+Account No. 281 
+Accumulated 
+Deferred Income 
+Taxes (Note D) 
+Account No. 282 
+Accumulated 
+Deferred Income 
+Taxes (Note D) 
+Account No. 283 
+Accumulated 
+Deferred Income 
+Taxes (Note D) 
+Account No. 190 
+Accumulated Deferred 
+Income Taxes (Note D) 
+Account No. 255 
+Accumulated Deferred 
+Investment Credit  
+ (a) (b) (c) (d) (e) (f) (g) (h)  
+ Attachment H, Page 2, Line No: 28 29 22 23 24 25 26  
+  Notes A & E Notes B & F 272.8.b & 273.8.k 274.2.b & 275.2.k 276.9.b & 277.9.k 234.8.b & c 
+Consistent with 266.8.b 
+& 267.8.h  
+15 Month 12 Prior Year                                                   
+-  
+                                                
+-  
+                                       
+-  
+                                           
+-  
+                                                      
+-  
+                                             
+-  
+                                                     
+-   
+16 Month 1                                                   
+-  
+                                                
+-  
+                                                             
+-   
+17 Month 2                                                   
+-  
+                                                
+-  
+                                                             
+-   
+18 Month 3                                                   
+-  
+                                                
+-  
+                                                             
+-   
+19 Month 4                                                   
+-  
+                                                
+-  
+                                                             
+-   
+20 Month 5                                                   
+-  
+                                                
+-  
+                                                             
+-   
+21 Month 6                                                   
+-  
+                                                
+-  
+                                                             
+-   
+22 Month 7                                                   
+-  
+                                                
+-  
+                                                             
+-   
+23 Month 8                                                   
+-  
+                                                
+-  
+                                                             
+-   
+24 Month 9                                                   
+-  
+                                                
+-  
+                                                             
+-   
+25 Month 10                                                   
+-  
+                                                
+-  
+                                                             
+-   
+26 Month 11                                                   
+-  
+                                                
+-  
+                                                             
+-   
+27 Month 12                                                   
+-  
+                                                
+-  
+                                       
+-  
+                                  
+-  --      -  
+                                                      
+-  
+                                             
+-  
+                                                     
+-   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B 
+NextEra Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 13 
+28 
+Average of the 13 Monthly 
+Balances                                                 
+                                     
+-    
+                                         
+-        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B 
+NextEra Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 14 
+    Attachment 4   Page 2 of 2 
+    Rate Base Worksheet     
+    NextEra Energy Transmission MidAtlantic, Inc.    
+ 
+Unfunded Reserves    (Notes 
+G & H)         
+ (a) (b) (c) (d) (e) (f) (g) (h)  
+29 List of all reserves:  Amount 
+Enter 1 if NOT in a 
+trust or reserved 
+account, enter zero 
+(0) if included in a 
+trust or reserved 
+account  
+Enter 1 if the accrual 
+account is included in 
+the formula rate, enter 
+(0) if  O if the accrual 
+account is NOT 
+included in the 
+formula rate 
+Enter the 
+percentage paid for 
+by the transmission 
+formula customers 
+Allocation (Plant or 
+Labor Allocator)  
+Amount Allocated, 
+col. c x col. d x col. 
+e x col. f x col. g  
+30a  Reserve 1 
+                                              
+-    
+                                     
+-          
+                                                   
+-     
+30b  Reserve 2 
+                                              
+-    
+                                     
+-          
+                                                   
+-     
+30c  Reserve 3             
+30d  Reserve 4             
+30e  …             
+30f  … 
+                                              
+-    
+                                     
+-          
+                                                   
+-     
+31  Total 
+                                              
+-        
+                                                   
+-     
+          
+          
+          
+Notes:          
+A Recovery of regulatory asset is limited to any regulatory assets authorized by FERC. 
+B Recovery of abandoned plant is limited to any abandoned plant recovery authorized by FERC. 
+C 
+Includes only CWIP authorized by the Commission for inclusion in rate base.  The annual report filed pursuant to Section 6 of the Protocols will include for each project under construction (i) the CWIP balance 
+eligible for inclusion in rate base; (ii) the CWIP balance ineligible for inclusion in rate base; and (iii) a demonstration that AFUDC is only applied to the CWIP balance that is not included in rate base.  The annual 
+report will reconcile the project-specific CWIP balances to the total Account 107 CWIP balance reported on p. 216.b of the FERC Form 1.   The demonstration in (iii) above will show that monthly debts and credits 
+do not contain entries for AFUDC for each CWIP project in ratebase. 
+D 
+ADIT and Accumulated Deferred Income Tax Credits are computed using the average of the beginning of the year and the end of the year balances. The projection will use line 108 of Attachment 4a to populate the 
+average ADIT balance on line 28 above. 
+E Each NEET PJM Entity has a Regulatory Asset rate incentive for prudently-incurred pre-commercial and formation costs.  When the net book value of all transmission facilities owned by NEET PJM Entities in the 
+PJM Region equals or exceeds $50 million, a NEET PJM Entity: (i) may file for authorization from the Commission to amortize and recover in rates its Regulatory Asset; and (ii) shall cease to book expenses to the 
+Regulatory Asset effective upon the effective date of such filing.  Recovery of any other regulatory assets requires authorization from the Commission. A carrying charge equal to the weighted cost of capital 
+calculated pursuant to this formula will be applied to the Regulatory Asset prior to the rate year after Commission authorization to recover the Regulatory Asset. 
+F Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of abandoned plant. 
+G The Formula Rate shall include a credit to rate base for all unfunded reserves (funds collected from customers that (1) have not been set aside in a trust, escrow or restricted account; (2) whose balance are collected 
+from customers through cost accruals to accounts that are recovered under the Formula Rate; and (3) exclude the portion of any balance offset by a balance sheet account).  Each unfunded reserve will be included on 
+lines 30 above.  The allocator in Col. (g) will be the same allocator used in the formula for the cost accruals to the account that is recovered under the Formula Rate.  Since reserves can be created by an offsetting 
+balance sheet account, rather than through cost accruals, the amount to be deducted from rate base should exclude the portion offset by another balance sheet account. 
+H Calculate using 13 month average balance, except ADIT.     
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 15 
+ NextEra Energy Transmission MidAtlantic, Inc. 
+ Attachment 4a - Accumulated Deferred Income Taxes 
+ Year Ended __ 
+        Rate Year =  
+1 Account 190         
+2 Days in Period  Averaging with Proration - Projected 
+ A B C D E  F G H 
+3 
+Month Days in the Month Number of Days Prorated Total Days in Future Portion 
+of Test Period 
+Proration 
+Amount (C / 
+D) 
+ Projected Monthly 
+Activity 
+Prorated Projected Monthly 
+Activity (E x F) 
+Prorated Projected Balance 
+(Cumulative Sum of G) 
+4          
+5 End of Year balance Prorated Items                                    -    
+6 Month 1                -                    -                         -                    -                                -                             -                                  -    
+7 Month 2                -                    -                         -                    -                                -                             -                                  -    
+8 Month 3                -                    -                         -                    -                                -                             -                                  -    
+9 Month 4                -                    -                         -                    -                                -                             -                                  -    
+10 Month 5                -                    -                         -                    -                                -                             -                                  -    
+11 Month 6                -                    -                         -                    -                                -                             -                                  -    
+12 Month 7                -                    -                         -                    -                                -                             -                                  -    
+13 Month 8                -                    -                         -                    -                                -                             -                                  -    
+14 Month 9                -                    -                         -                    -                                -                             -                                  -    
+15 Month 10                -                    -                         -                    -                                -                             -                                  -    
+16 Month 11                -                    -                         -                    -                                -                             -                                  -    
+17 Month 12                -                    -                         -                    -                                -                             -                                  -    
+18   Total                                   -                             -      
+          
+19 Beginning Balance   234.8.b                                  -    
+20 Less non Prorated Items   (Line 19 less line 21)                                -    
+21 Beginning Balance of Prorated items  (Line 5, Col H)                                 -    
+22 Ending Balance   234.8.c                                  -    
+23 Less non Prorated Items   (Line 22 less line 24)                                -    
+24 Ending Balance of Prorated items  (Line 17, Col H)                                 -    
+25 Average Balance   Line 17, Col H + (Lines 20 + 23)/2                               -    
+26 Less FASB 106 & 109 Items  Attachment H, Footnote B                                -    
+27 Amount for Attachment 4   (Line 25 less line 26)                                -                        
+28 Account 281      
+   
+29 Days in Period  Averaging with Proration - Projected 
+ A B C D E  F G H 
+30 
+Month Days in the Month Number of Days Prorated Total Days in Future Portion 
+of Test Period 
+Proration 
+Amount (C / 
+D) 
+ Projected Monthly 
+Activity 
+Prorated Projected Monthly 
+Activity (E x F) 
+Prorated Projected Balance 
+(Cumulative Sum of G) 
+31          
+32 End of Year balance Prorated Items                                    -    
+33 Month 1                              -                     -                         -                    -                                -                             -                                  -    
+34 Month 2                -                    -                         -                    -                                -                             -                                  -    
+35 Month 3                -                    -                         -                    -                                -                             -                                  -    
+36 Month 4                -                    -                         -                    -                                -                             -                                  -    
+37 Month 5                -                    -                         -                    -                                -                             -                                  -    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 16 
+38 Month 6                -                    -                         -                    -                                -                             -                                  -    

@@ -1,0 +1,656 @@
+Attachment H-33A, and the Formula Rate Template in Attachment H-33B. 
+ 
+4. The formula rate in this attachment shall be effective until amended by NextEra Energy 
+Transmission MidAtlantic, Inc., another NEET PJM Entity, or modified by the Commission. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 1 
+Attachment H-33A 
+NextEra Energy Transmission PJM Entities 
+FORMULA RATE IMPLEMENTATION 
+PROTOCOLS 
+ 
+Section I. Applicability 
+ 
+ The following procedures shall apply to the calculation of the actual net revenue 
+requirements, True-Up Adjustments, and projected net revenue requirements of NextEra 
+Energy Transmission MidAtlantic, Inc.’s (“NEET MidAtlantic”), and any other wholly-
+owned subsidiary of NextEra Energy Transmission, LLC, that operates in the PJM 
+Interconnection, L.L.C. (“PJM”) Region and that owns, or proposes to own, transmission 
+facilities that have been, or will be, turned over to the functional control of PJM and 
+whose costs are recoverable under the PJM Tariff (“NEET PJM Entity”). 
+ 
+The NEET PJM Entities shall use either a January - December rate year or a June - May 
+rate year, as specified below: 
+ 
+NEET PJM Entity Formula Rate Rate Year 
+NextEra Energy 
+Transmission 
+MidAtlantic, Inc. 
+H-33B(1) June to May 
+   
+   
+ 
+Section II. Annual True-Up and Projected Net Revenue Requirement 
+ 
+A. On or before May 15 of each year, each NEET PJM Entity shall determine its 
+Annual True-Up in accordance with the formula rate for each NEET PJM Entity 
+and Section VII of these protocols, to derive a True-Up Adjustment to be 
+included in projected net revenue requirement for each NEET PJM Entity for the 
+subsequent rate year.   
+ 
+B. On or before June 1 of each year, each NEET PJM Entity using a January – 
+December rate year shall provide its Annual True-Up, actual net revenue 
+requirement, and True-Up Adjustment to PJM and cause such information to be 
+posted on the PJM website and OASIS.  For NEET PJM Entities using a June - 
+May rate year, such information shall be provided to PJM on or before May 15 
+of each year.  Within five (5) days of such posting, PJM shall provide notice of 
+such posting via an email exploder list.  Interested Parties can subscribe to the 
+PJM exploder list on the PJM website.  For purposes of these protocols, the term 
+Interested Party includes, but is not limited to, customers under the PJM Tariff, 
+state utility regulatory commissions, consumer advocacy agencies, and state 
+attorneys general. 
+ 
+C. On or before September 30 of each year, each NEET PJM Entity using a January 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 2 
+– December rate year shall provide its projected net revenue requirement to PJM 
+and cause such information to be posted on the PJM website and OASIS.  For 
+NEET PJM Entities using a June to May rate year, such information shall be 
+provided to PJM on or before May 15 of each year.  Within five (5) days of 
+posting of the projected net revenue requirement, PJM shall provide notice of 
+such posting to an email exploder list.  In the event the NEET PJM Entity’s 
+formula rate is first included in the PJM Tariff such that the first projected net 
+revenue requirement cannot be provided to PJM by May 15 or September 30, as 
+applicable, each NEET PJM Entity will nevertheless prepare a projection of its 
+net revenue requirement for the first Rate Year using the most recent information 
+available, and the projection will be posted on the PJM website and OASIS at 
+least sixty (60) days prior to the rates becoming effective.  The projected net 
+revenue requirement for a partial first Rate Year will reflect the NEET PJM 
+Entity’s net revenue requirement only over the remaining months during the 
+partial Rate Year.  The NEET PJM Entities will conduct a meeting with 
+Interested Parties on the projected net revenue requirement for the first Rate 
+Year between twenty (20) to forty (40) days after posting.  Notice of the 
+customer meeting, including the time, date, location, and remote access 
+information, shall be posted on the PJM website and OASIS and distributed to 
+the e-mail exploder list no less than seven (7) days prior to such meeting.   
+ 
+D. If the date for posting the Annual True-Up or the projected net revenue 
+requirement falls on a weekend or a holiday recognized by the Federal Energy 
+Regulatory Commission (“FERC” or “Commission”), then the posting shall be 
+due on the next business day.  The date on which posting of the Annual True-Up 
+occurs shall be that year’s “Publication Date.”  Any delay in the Publication 
+Date or in the posting of the projected net revenue requirement will result in an 
+equivalent extension of time for the submission of information requests 
+discussed in Section III of these protocols. 
+ 
+E. The Annual True-Up shall: 
+ 
+1. Include a workable data-populated formula rate template and underlying 
+workpapers in native format with all formulas and links intact; 
+ 
+2. Be based on each NEET PJM Entity’s FERC Form No. 1 for the prior 
+calendar year; 
+ 
+3. Provide the formula rate calculations and all inputs thereto, as well as 
+supporting documentation and workpapers for data that are used in the 
+Annual True-Up that are not otherwise available in the FERC Form No. 
+1; 
+ 
+4. Provide sufficient information to enable Interested Parties  to replicate 
+the calculation of the Annual True-Up  results from the FERC Form No. 1 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 3 
+; 
+ 
+5. Identify any changes in the formula references (page and line 
+numbers) to the FERC Form No. 1; 
+ 
+6. Identify all material adjustments made to the FERC Form No. 1 data in 
+determining formula inputs, including relevant footnotes to the FERC 
+Form No. 1 and any adjustments not shown in the  FERC Form No. 1; 
+ 
+7. Provide underlying data for formula rate inputs that provide greater 
+granularity than is required for the FERC Form No. 1; 
+ 
+8. With respect to any change in accounting that affects inputs to the formula 
+rate or the resulting charges billed under the formula rate (“Accounting 
+Change”): 
+ 
+a. Identify Accounting Changes, including 
+ 
+i. the initial implementation of an accounting standard or 
+policy; 
+ 
+ii. the initial implementation of accounting practices for 
+unusual or unconventional items where FERC has not 
+provided specific accounting direction; 
+ 
+iii. correction of errors and prior period adjustments that 
+impact the True-Up Adjustment calculation; 
+ 
+iv. the implementation of new estimation methods or policies 
+that change prior estimates; and 
+ 
+v. changes to income tax elections; 
+ 
+b. Identify items included in the Annual True-Up at an amount 
+other than on a historic cost basis (e.g., fair value adjustments); 
+ 
+c. Identify any reorganization or merger transaction during the 
+previous year and explain the effect of the accounting for such 
+transaction(s) on inputs to the Annual True-Up; 
+ 
+d. Provide, for each item identified pursuant to items II.E.8.a - 
+II.E.8.c of these protocols, a narrative explanation of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 4 
+individual impact of such changes on the True-Up Adjustment. 
+ 
+9. Provide for the applicable Rate Year the following information related to 
+affiliate cost allocation: (1) a detailed description of the methodologies 
+used to allocate and directly assign costs between each NEET PJM Entity 
+and its affiliates by service category or function, including any changes to 
+such cost allocation methodologies from the prior year and the reasons and 
+justifications for those changes; and (2) the magnitude of such costs that 
+have been allocated or directly assigned between each NEET PJM Entity 
+and each affiliate by service category or function. 
+ 
+F. The projected net revenue requirement shall: 
+ 
+1.  Include a workable data-populated formula rate template and underlying 
+workpapers in native format with all formulas and links intact; 
+ 
+2.  Provide the formula rate calculations and all inputs thereto, as well as 
+supporting documentation and workpapers for data that are used in the 
+projected net revenue requirement; 
+ 
+3.  Provide sufficient information to enable Interested Parties to replicate the 
+calculation of the projected net revenue requirement; and  
+ 
+4.  With respect to any Accounting Change: 
+ 
+a.  Identify any Accounting Changes, including 
+ 
+i.  the initial implementation of an accounting standard or 
+policy; 
+ 
+ii.  the initial implementation of accounting practices for 
+unusual or unconventional items where FERC has not 
+provided specific accounting direction; 
+ 
+iii.  correction of errors and prior period adjustments that 
+impact the projected net revenue requirement calculation; 
+ 
+iv.  the implementation of new estimation methods or policies 
+that change prior estimates;  
+ 
+v.  changes to income tax elections; 
+ 
+b.  Identify items included in the projected net revenue requirement 
+at an amount other than on a historic cost basis (e.g., fair value 
+adjustments); 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 5 
+c.  Identify any reorganization or merger transaction during the 
+previous year and explain the effect of the accounting for such 
+transaction(s) on inputs to the projected net revenue requirement; 
+and 
+ 
+d. Provide, for each item identified pursuant to items II.F.4.a - 
+II.F.4.c of these protocols, a narrative explanation of the 
+individual impact of such changes on the projected net revenue 
+requirement. 
+ 
+G.  A NEET PJM Entity shall hold an open meeting among Interested Parties 
+(“Annual True-Up Meeting”) no sooner than twenty (20) days after the 
+Publication Date. For NEET PJM Entities using a January – December rate year, 
+the Annual True-Up Meeting shall occur no later than September 1, and for 
+NEET PJM Entities using a June – May rate year, the Annual True-Up Meeting 
+shall occur no later than June 15. The NEET PJM Entities will make the Annual 
+True-Up Meeting remotely accessible.  No less than seven (7) days prior to such 
+Annual True-Up Meeting, the NEET PJM Entities shall provide notice on PJM’s 
+internet website and OASIS of the time, date, location, and remote access 
+information for the Annual True-Up Meeting and PJM shall provide notice of 
+such meeting to an email exploder list.  The Annual True-Up Meeting shall (i) 
+permit each NEET PJM Entity to explain and clarify its Annual True-Up and 
+True-Up Adjustment and (ii) provide Interested Parties an opportunity to seek 
+information and clarifications from each NEET PJM Entity about the Annual 
+True-Up and True-Up Adjustment. 
+ 
+H.  A NEET PJM Entity shall hold an open meeting among Interested Parties 
+(“Annual Projected Rate Meeting”) no sooner than twenty (20) days after the 
+date that the projected net revenue requirement is posted to the PJM website and 
+OASIS (as described in Section II.C of these protocols).  For NEET PJM 
+Entities using a January – December rate year, the Annual Projected Rate 
+Meeting shall occur no later than October 31, and for NEET PJM Entities using 
+a June – May rate year, the Annual Projected Rate Meeting shall occur no later 
+than June 15.  The NEET PJM Entities will make the Annual Projected Rate 
+Meeting remotely accessible.  No less than seven (7) days prior to such Annual 
+Projected Rate Meeting, the NEET PJM Entities shall provide notice on PJM’s 
+internet website and OASIS of the time, date, location, and remote access 
+information for the Annual Projected Rate Meeting and PJM shall provide notice 
+of such meeting to an email exploder list.  The Annual Projected Rate Meeting 
+shall (i) permit each NEET PJM Entity to explain and clarify its projected net 
+revenue requirement and (ii) provide Interested Parties an opportunity to seek 
+information and clarifications from the NEET PJM Entities about the projected 
+net revenue requirements. 
+ 
+I. Transmission owners with transmission projects that utilize a regional or inter-
+regional cost sharing mechanism shall endeavor to hold a joint informational 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 6 
+meeting to enable all interested parties to understand how those transmission 
+owners are implementing their formula rates for cost recovery of such projects.  
+The NEET PJM Entities will make the joint informational meeting remotely 
+accessible.  Notice of joint informational meetings, including the time, date, 
+location, and remote access information, shall be posted on the PJM website and 
+OASIS and distributed to the email exploder list no less than seven (7) days prior 
+to such meetings.  Each NEET PJM Entity will participate in joint informational 
+meetings once it begins development of a project for which costs are to be 
+regionally or inter-regionally allocated. 
+ 
+Section III. Information Exchange Procedures 
+ 
+Each Annual True-Up and projected net revenue requirement  shall be subject 
+to the following information exchange procedures (“Information Exchange 
+Procedures”): 
+ 
+A. Interested Parties shall have one hundred and eighty (180) days following 
+Publication Date (unless such period is extended with the written consent of the 
+NEET PJM Entities or by FERC order) to serve reasonable information and 
+document requests on a NEET PJM Entity (“Information Exchange Period”). If 
+the due date for information and document requests falls on a weekend or a 
+holiday recognized by FERC, the deadline for submitting all information and 
+document requests shall be extended to the next business day. Such information 
+and document requests shall be limited to what is necessary to determine: 
+ 
+1. the extent or effect of an Accounting Change; 
+2. whether the Annual True-Up or projected net revenue 
+requirement fails to include data properly recorded in accordance 
+with these protocols; 
+3. the proper application of the formula rate and procedures in these 
+protocols; 
+4. the accuracy of data and consistency with the formula rate of the 
+calculations shown in the Annual True-Up or projected net 
+revenue requirement; 
+5. the prudence of actual costs and expenditures, including 
+procurement methods and cost control methodologies;  
+ 
+6. the effect of any change to the underlying Uniform System of 
+Accounts or FERC Form No. 1; or  
+ 
+7.  any other information that may reasonably have substantive effect 
+on the calculation of the charge pursuant to the formula. 
+ 
+The information and document requests shall not otherwise be directed to 
+ascertaining whether the formula rate is just and reasonable.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 7 
+ 
+B. A NEET PJM Entity shall make a good faith effort to respond to information 
+and document requests within fifteen (15) business days of receipt of such 
+requests. The NEET PJM Entity shall respond to all information and document 
+requests by no later than two hundred and twenty (220) days following the Publication 
+Date, unless the Information Exchange Period is extended by the applicable NEET 
+PJM Entity or FERC.  If the last day for the NEET PJM Entity to respond falls on 
+a weekend or a holiday recognized by FERC, the deadline for responses to 
+information requests shall be extended to the next business day.   
+ 
+C. Each NEET PJM Entity will cause to be posted on the PJM website and OASIS 
+all information requests from Interested Parties and such NEET PJM Entity’s 
+response(s) to such requests; except, however, if responses to information and 
+document requests include material deemed by the NEET PJM Entity to be 
+confidential information, such information will not be publicly posted but will be 
+made available to requesting parties pursuant to a confidentiality agreement to be 
+executed by such NEET PJM Entity and the requesting party. 
+ 
+D.  A NEET PJM Entity shall not claim that responses to information and document 
+requests provided pursuant to these protocols are subject to any settlement 
+privilege in any subsequent FERC proceeding addressing a NEET PJM Entity’s 
+Annual True-Up or projected net revenue requirement. 
+ 
+Section IV. Challenge Procedures 
+ 
+A. Interested Parties shall have until two hundred and forty (240) days following 
+the Publication Date (unless such period is extended with the written consent of 
+the applicable NEET PJM Entity or by FERC order) to review the inputs, 
+supporting explanations, allocations and calculations and to notify the applicable 
+NEET PJM Entity in writing, which may be made electronically, of any specific 
+Informal Challenges to the Annual True-Up or projected net revenue 
+requirement.  The period of time from the Publication Date until the date that is 
+two hundred and forty (240) days later shall be referred to as the Review Period.  
+If the final day of the Review Period falls on a weekend or a holiday recognized 
+by FERC, the deadline for submitting all Informal Challenges shall be extended 
+to the next business day.  Failure to pursue an issue through an Informal 
+Challenge or to lodge a Formal Challenge regarding any issue as to a given 
+Annual True-Up or projected net revenue requirement shall bar pursuit of such 
+issue with respect to that Annual True-Up or projected net revenue requirement 
+under the challenge procedures set forth in these protocols, but shall not bar 
+pursuit of such issue or the lodging of a Formal Challenge as to such issue as 
+it relates to a subsequent Annual True-Up or projected net revenue requirement. 
+This Section IV.A in no way shall affect a party’s rights under section 206 of the 
+Federal Power Act (“FPA”) as set forth in Section IV.I of these protocols. 
+ 
+B. A party submitting an Informal Challenge to a NEET PJM Entity must 
+specify the inputs, supporting explanations, allocations, calculations, or other 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 8 
+information to which it objects, and provide an appropriate explanation and 
+documents to support its challenge.  A NEET PJM Entity shall make a good 
+faith effort to respond to any Informal Challenge within twenty (20) business 
+days of notification of such challenge. A NEET PJM Entity, and where 
+applicable, PJM, shall appoint a senior representative to work with the party 
+that submitted the Informal Challenge (or its representative) toward a resolution 
+of the challenge. If the applicable NEET PJM Entity disagrees with such 
+challenge, the NEET PJM Entity will provide the Interested Party(ies) with an 
+explanation supporting the inputs, supporting explanations, allocations, 
+calculations, or other information. No Informal Challenge may be submitted 
+after the final day of the Review Period, and a NEET PJM Entity must respond 
+to all Informal Challenges by no later than  thirty (30) days after the end of the 
+Review Period, unless the Review Period is extended by the NEET PJM Entity 
+or FERC.  If the end of the Review Period falls on a weekend or a holiday 
+recognized by FERC, the deadline for submitting all Informal Challenges shall 
+be extended to the next business day.  If the deadline for a NEET PJM Entity to 
+respond to all Informal Challenges falls on a weekend or a holiday recognized by 
+FERC, the deadline for responding to Informal Challenges shall be extended to 
+the next business day. 
+ 
+C. Informal Challenges shall be subject to the resolution procedures and 
+limitations in this Section IV. Formal Challenges shall be filed pursuant to these 
+protocols and shall satisfy all of the following requirements. 
+ 
+1.  A Formal Challenge shall: 
+ 
+a.  Clearly identify the action or inaction which is alleged to violate 
+the filed rate formula or protocols; 
+ 
+b.  Explain how the action or inaction violates the filed rate formula or 
+protocols;   
+  
+c. Set forth the business, commercial, economic or other issues 
+presented by the action or inaction as such relate to or affect the 
+party filing the Formal Challenge, including: 
+ 
+i.  The extent or effect of an Accounting Change; 
+ 
+ii. Whether the Annual True-Up or projected net revenue 
+requirement fails to include data properly recorded in 
+accordance with these protocols; 
+ 
+iii.  The proper application of the formula rate and procedures 
+in these protocols; 
+ 
+iv.  The accuracy of data and consistency with the formula rate 
+of the charges shown in the Annual True-Up or projected 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 9 
+net revenue requirement; 
+ 
+v.  The prudence of actual costs and expenditures; 
+ 
+vi.  The effect of any change to the underlying Uniform System 
+of Accounts or FERC Form No. 1; or 
+  
+vii.  Any other information that may reasonably have 
+substantive effect on the calculation of the charge pursuant 
+to the formula.   
+ 
+d. Make a good faith effort to quantify the financial impact or burden 
+(if any) created for the party filing the Formal Challenge as a result 
+of the action or inaction; 
+ 
+e. State whether the issues presented are pending in an existing 
+Commission proceeding or a proceeding in any other forum in 
+which the filing party is a party, and if so, provide an explanation 
+why timely resolution cannot be achieved in that forum; 
+ 
+f.  State the specific relief or remedy requested, including any request 
+for stay or extension of time, and the basis for that relief; 
+ 
+g. Include all documents that support the facts in the Formal 
+Challenge in possession of, or otherwise attainable by, the filing 
+party, including, but not limited to, contracts and affidavits; and 
+ 
+h. State whether the filing party utilized the Informal Challenge 
+procedures described in these protocols to dispute the action or 
+inaction raised by the Formal Challenge, and, if not, describe why 
+not. 
+ 
+2. Service.  Any person filing a Formal Challenge must serve a copy of the 
+Formal Challenge on the NEET PJM Entity.  Service to the NEET PJM 
+Entity must be simultaneous with filing at the Commission.  
+Simultaneous service can be accomplished by electronic mail in 
+accordance with 18 C.F.R. § 385.2010(f)(3), facsimile, express delivery, 
+or messenger.  The party filing the Formal Challenge shall serve the 
+individual listed as the contact person on the NEET PJM Entity’s 
+Informational Filing required under Section VI of these protocols. 
+ 
+D. Informal and Formal Challenges shall be limited to all issues that may be 
+necessary to determine: (1) the extent or effect of an Accounting Change; (2) 
+whether the Annual True-Up or projected net revenue requirement fails to 
+include data properly recorded in accordance with these protocols; (3) the 
+proper application of the formula rate and procedures in these protocols; (4) 
+the accuracy of data and consistency with the formula rate of the calculations 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 10 
+shown in the Annual True-Up and projected net revenue requirement ; (5) the 
+prudence of actual costs and expenditures; (6) the effect of any change to 
+the underlying Uniform System of Accounts or FERC Form No. 1; or (7) any 
+other information that may reasonably have substantive effect on the calculation 
+of the charge pursuant to the formula. 
+ 
+E. Each NEET PJM Entity will cause to be posted to PJM’s website and OASIS all 
+Informal Challenges from Interested Parties and the NEET PJM Entity 
+response(s) to such Informal Challenges ; except, however, if Informal Challenges 
+or responses to Informal Challenges include material deemed by such NEET PJM 
+Entity to be confidential information, such information will not be publicly posted 
+but will be made available to requesting parties pursuant to a confidentiality 
+agreement to be executed by the NEET PJM Entity and the requesting party. 
+ 
+F. Any changes or adjustments to the Annual True-Up Adjustment or projected net 
+revenue requirement resulting from the Information Exchange and Informal 
+Challenge processes that are agreed to by a NEET PJM Entity will be reported 
+in the Informational Filing required pursuant to Section VI of these 
+protocols.  Any such changes or adjustments agreed to by a NEET PJM Entity 
+on or before the last day of the Information Exchange Period will be reflected in 
+the projected net revenue requirement for the upcoming Rate Year. Any changes 
+or adjustments agreed to by a NEET PJM Entity after the last day of the 
+Information Exchange Period will be reflected in the following year’s Annual 
+True-Up, as discussed in Section V of these protocols. 
+ 
+G. An Interested Party shall have until seventy-five (75) days following the Review 
+Period (unless such date is extended with the written consent of the applicable 
+NEET PJM Entity to continue efforts to resolve the Informal Challenge or 
+unless the deadline for the NEET PJM Entity to submit its informational filing is 
+extended) to make a Formal Challenge with FERC, which shall be served 
+on the NEET PJM Entity on the date of such filing as specified in Section 
+IV.C(2) above. If the last day of the seventy-five day period to make a Formal 
+Challenge falls on a weekend or a holiday recognized by FERC, the deadline for 
+submitting all Formal Challenges shall be extended to the next business day. A 
+Formal Challenge shall be filed in the same docket as the NEET PJM Entity’s 
+Informational Filing discussed in Section VI of these protocols.  The NEET PJM 
+Entity shall respond to the Formal Challenge by the deadline established by 
+FERC. A party may not pursue a  Formal Challenge if that party did not submit an 
+Informal Challenge on any issue during the applicable Review Period. 
+ 
+H. In any proceeding initiated by FERC concerning the Annual  True-Up or 
+projected net revenue requirement or in response to a Formal Challenge, the 
+NEET PJM Entity shall bear the burden, consistent with section 205 of the FPA, 
+of proving that it has correctly applied the terms of the formula rate consistent 
+with these protocols, and that it followed the applicable requirements and 
+procedures in these protocols. Nothing herein is intended to alter the burdens 
+applied by FERC with respect to prudence challenges. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 11 
+ 
+I. Except as specifically provided herein, nothing herein shall be deemed to limit in 
+any way the right of a NEET PJM Entity  to file unilaterally, pursuant to  
+section 205 of the FPA and the regulations thereunder, to change the formula 
+rate or any of its inputs (including, but not limited to, rate of return and 
+transmission incentive rate treatment), or to replace the formula rate with a stated 
+rate, or the right of any other party to request such changes pursuant to section 
+206 of the FPA and the regulations thereunder. 
+ 
+J. No party shall seek to modify the formula rate under the Challenge Procedures 
+set forth in these protocols and the Annual True-Up and projected net revenue 
+requirement shall not be subject to challenge by anyone for the purpose of 
+modifying the formula rate. Any modifications to the formula rate will 
+require, as applicable, an FPA section 205 or section 206 filing. 
+ 
+K. Any Interested Party seeking changes to the application of the formula rate due to 
+a change in the Uniform System of Accounts or FERC Form No. 1, shall first 
+raise the matter with the applicable NEET PJM Entity in accordance with this 
+Section IV before pursuing a Formal Challenge. 
+ 
+Section V. Changes to Annual True-Up Adjustment or Projected Net Revenue 
+Requirement 
+ 
+ Except as provided in Section IV.F of these protocols,  any changes to the data 
+inputs, including but not limited to revisions to a  NEET PJM Entity’s FERC Form No. 
+1, or as the result of any FERC proceeding to consider the Annual True-Up or 
+projected net revenue requirement, or as a result of the procedures set forth herein, shall 
+be incorporated into the formula rate and the charges produced by the formula rate in 
+the projected net revenue requirement  for the next Rate Year. This reconciliation 
+mechanism shall apply in lieu of mid-Rate Year adjustments. Interest on any refund or 
+surcharge shall be calculated in accordance with the procedures outlined in Section VII of 
+these protocols. 
+ 
+Section VI. Informational Filings 
+ 
+A. By September 30 of each year, each NEET PJM Entity using a January – 
+December rate year shall submit to FERC an informational filing (“Informational 
+Filing”) of its projected net revenue requirement for the Rate Year, including its 
+Annual  True-Up and True-Up Adjustment (unless the Review Period is extended 
+by the NEET PJM Entity or FERC). Such filing shall be made by each NEET 
+PJM Entity using a June – May rate year no later than May 15 of each year.  If the 
+due date for the informational filing falls on a weekend or a holiday recognized by 
+FERC, the deadline for submitting the Informational Filing shall be extended to 
+the next business day.  This Informational Filing must include the information that 
+is reasonably necessary to determine: (1) that input data under the formula rate are 
+properly recorded in any underlying workpapers; (2) that the NEET PJM Entity 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 12 
+has properly applied the formula rate and these procedures; (3) the accuracy of 
+data and the consistency with the formula rate of the transmission revenue 
+requirement and rates under review; (4) the extent of accounting changes that 
+affect formula rate inputs; and (5) the reasonableness of projected costs.  The 
+Informational Filing must also describe any corrections or adjustments made 
+during that period, and must describe all aspects of the formula rate or its inputs 
+that are the subject of an ongoing dispute under the Informal or Formal Challenge 
+Procedures.  Additionally, the Informational Filing must include for the applicable 
+Rate Year the following information related to affiliate cost allocation: (1) a 
+detailed description of the methodologies used to allocate and directly assign 
+costs between a NEET PJM Entity and its affiliates by service category or 
+function, including any changes to such cost allocation and methodologies from 
+the prior year, and the reasons and justification for those changes; and (2) the 
+magnitude of such costs that have been allocated or directly assigned between a 
+NEET PJM Entity and each affiliate by service category or function. Within five 
+(5) days of such Informational Filing, PJM shall provide notice of the 
+Informational Filing via an email exploder list and by posting the docket number 
+assigned to each NEET PJM Entity’s Informational Filing on the PJM website 
+and OASIS. 
+ 
+B. Any challenges to the implementation of the NEET PJM Entity formula rate 
+must be made through the Challenge Procedures described in Section IV of 
+these protocols or in a separate complaint proceeding, and not in response to 
+the Informational Filing. 
+ 
+Section VII. Calculation of True-Up Adjustment 
+ 
+The True-Up Adjustment will be determined in the following manner: 
+ 
+1. Actual transmission revenues received the previous calendar year (“True-
+Up Year”) shall be compared to the actual net revenue requirement 
+(calculated in accordance with the NEET PJM Entity’s formula rate) for 
+the True-Up Year as determined using the NEET PJM Entity’s completed 
+FERC Form No. 1 report to determine any excess or shortfall.  The excess 
+or shortfall due to the actual revenue received versus the actual net 
+revenue requirement shall constitute the “True-Up Adjustment.”  The 
+True-Up Adjustment and related calculations shall be posted to PJM’s 
+website and OASIS no later than June 1 for NEET PJM Entities using a 
+January – December rate year or May 15 for NEET PJM Entities using a 
+June – May rate year (or if that day falls on a weekend or a holiday 
+recognized by FERC, then the posting shall be due on the next business 
+day) following the issuance of the FERC Form No. 1 for the previous 
+year, as set forth in Section II of these protocols.   
+  
+2. Interest on any over recovery of the net revenue requirement shall be 
+determined based on the Commission’s regulation at 18 C.F.R § 35.19a.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-33A NextEra Formula Rate Protocols 
+Effective Date: 6/1/2024 - Docket #: ER25-2941-001 - Page 13 
+Interest on any under recovery of the net revenue requirement shall be 
+determined using the interest rate equal to: (i) the NEET PJM Entity’s 
+actual short-term debt costs capped at the interest rate determined based 
+on the Commission’s regulation at 18 C.F.R § 35.19a; or (ii) if the NEET 
+PJM Entity does not have short-term debt, then the interest rate 
+determined based on the Commission’s regulation at 18 C.F.R § 35.19a.  
+In either case, an average interest rate shall be used to calculate the interest 
+payable for the twenty-four (24) months during which the over or under 
+recovery in the revenue requirement exists.  The interest rate to be applied 
+to the over or under recovery amounts will be determined using the 
+average rate for the twenty-one (21) months preceding October of the 
+current year.  The interest amount will be included in the projected costs 
+made available by either May 15 or September 30, as described in Section 
+II.C above.  
+3. The net revenue requirement for transmission services for the following 
+Rate Year shall be the sum of the projected net revenue requirement for 
+the following year, plus or minus the True-Up Adjustment from the True-
+Up Year, if any, including interest, as explained above, and as described in 
+Attachment 3 of the NEET PJM Entity’s formula rate.  
+ 
+4.  A NEET PJM Entity may accelerate the refund of any over recovery 
+amounts by one year.  The interest calculation will be adjusted to reflect 
+the period the over recovery exists.    
+ 
+Section VIII. Competitive Bid Concessions 
+ 
+ For transmission development projects assigned to a NEET PJM Entity as a result 
+of the PJM competitive project sponsor process, such NEET PJM Entity may, in its sole 
+discretion, agree with PJM to apply a Competitive Bid Concession that will result in a 
+lower net revenue requirement on a project-specific basis than that which would 
+otherwise be produced by the NEET PJM Entity’s formula rate.  Any Competitive Bid 
+Concession will appear as a zero or negative input to the formula, and will be determined 
+on a project-specific basis using a workpaper that will be provided to Interested Parties as 
+supporting documentation for each Annual True-Up by such NEET PJM Entity. 
+ 
+Section IX.  Regulatory Asset for Pre-Commercial and Formation Costs 
+ NEET MidAtlantic, Inc. will recover through current rates costs necessary to 
+administer, operate, and maintain its assets in its projected net revenue requirement and 
+Annual True-Up.  Consistent with the Commission’s authorization, additional costs that 
+would otherwise be recoverable through the Formula Rate will be deferred to the 
+regulatory asset for pre-commercial and formation costs until the net book value of all 
+transmission facilities owned by NEET MidAtlantic, Inc. and any NEET PJM Entity 
+equals or exceeds $50 million.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-33B NextEra 
+Formula Rate Template 
+Effective Date: 10/3/2025 - Docket #: ER24-2255-003 - Page 1 
+          page 1 of 5 

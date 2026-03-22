@@ -1,0 +1,655 @@
+SCHEDULE 14 
+Transmission Service on the Neptune Line 
+ 
+Pursuant to Tariff, Part IV, section 38, this Schedule provides the terms and conditions of 
+transmission service on the Neptune Line which is a Merchant Transmission Facility under the 
+Tariff and the PJM Operating Agreement. 
+ 
+1. Definitions 
+ 
+Capitalized terms used and defined in this Schedule 14 shall have the meaning given them under 
+this Schedule.  Capitalized terms used and not defined in this Schedule 14 but defined in other 
+provisions of the Tariff shall have the meaning given them under those provisions. Capitalized 
+terms used in this Schedule 14 that are not defined in it or elsewhere in this Tariff shall have the 
+meanings customarily attributed to such terms by the electric utility industry in PJM. 
+ 
+ 1.1 Neptune Reservation:  A right, denoted in Megawatts and for a specified period, 
+to request the withdrawal of energy and capacity from the Transmission System at the Point of 
+Interconnection and submit schedules for transmission service over the Neptune Line on a firm 
+or non-firm basis as set forth in this Schedule 14.   
+ 
+  1.1.1 Firm Neptune Reservation:  A Firm Neptune Reservation allows a 
+Neptune Transmission Customer to schedule capacity and energy on a firm basis from the 
+Neptune Point of Receipt to the Neptune Point of Delivery.   
+ 
+  1.1.2 Non-Firm Neptune Reservation:  A Non-Firm Neptune Reservation 
+allows a Neptune Transmission Customer to schedule energy on a non-firm, as available, basis 
+from the Neptune Point of Receipt to the Neptune Point of Delivery. 
+ 
+ 1.2 Neptune Transmission Customer:  An entity that (i) is an Eligible Customer (or 
+its Designated Agent) that meets the creditworthiness requirements of the Transmission Provider 
+set forth in Tariff, Attachment Q and is in good-standing with respect to all payments owed 
+under the Tariff and Operating Agreement; (ii) executes a Neptune Service Agreement, the form 
+of which is attached as Exhibit A to this Schedule 14; and (iii) holds a Neptune Reservation.   
+ 
+ 1.3 Neptune Line:  The Neptune Line is a controllable, high voltage, direct current 
+Merchant Transmission Facility that runs undersea between the Raritan River (Sayreville) 
+Substation in Sayreville, New Jersey to the Newbridge Road Substation in Long Island, New 
+York, which was the subject of Commission orders in FERC Docket No. ER01-2099 et al. 
+regarding operation of the line as a merchant transmission facility and as more particularly 
+described in the Interconnection Service Agreement among PJM Interconnection, L.L.C. and 
+Neptune Regional Transmission System, LLC and Jersey Central Power & Light Company a 
+First Energy Company, which was accepted for filing by the Commission in FERC Docket No. 
+ER05-1010. 
+ 
+ 1.4 Neptune Schedule:  The schedule for the transmission of capacity and energy on 
+the Neptune Line pursuant to the terms and conditions of service set forth in this Schedule 14.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
+ 
+ 1.5 Neptune Transmission Owner:  Neptune Regional Transmission System, LLC, 
+its agents, successors or assigns.   
+ 
+ 1.6 Primary Rights Holder:  An entity that has been allocated rights to the use of the 
+transmission capability of the Neptune Line and assigned Firm and Non-Firm Transmission 
+Withdrawal Rights by the Neptune Transmission Owner in accordance with Tariff, Part I, section 
+2.1. 
+ 
+ 1.7 Point of Interconnection:  The Point of Interconnection is as defined in section 
+11.1 of the Interconnection Service Agreement among PJM Interconnection, L.L.C. and Neptune 
+Regional Transmission System, LLC and Jersey Central Power & Light Company a First Energy 
+Company, which was accepted for filing by the Commission in FERC Docket No. ER05-1010. 
+ 
+ 1.8 Neptune Service Agreement:  An initial agreement and any amendments or 
+supplements thereto entered into by a Neptune Transmission Customer and the Transmission 
+Provider for transmission service on the Neptune Line under this Schedule 14, the form of which 
+is included as Exhibit A to this Schedule 14. 
+ 
+ 1.9 Neptune Point of Receipt:  The point of receipt is the Raritan River (Sayreville) 
+Substation in Sayreville, New Jersey. 
+ 
+ 1.10 Neptune Point of Delivery:  The point of delivery is the Newbridge Road 
+Substation in Long Island, New York. 
+ 
+2. Allocation of Available Transmission Capability Over the Neptune Line 
+ 
+ 2.1 Commission Approved Allocation Process:  The Neptune Transmission Owner 
+shall allocate the total transmission capability over the Neptune Line pursuant to an allocation 
+process approved by the Commission under FERC Docket No. ER01-2099 et al., as such 
+allocation process may be amended by the Neptune Transmission Owner from time-to-time 
+subject to Commission approval provided that the results of such rights allocation process shall 
+be furnished to the Transmission Provider and posted on the OASIS.  The allocation of rights to 
+the Primary Rights Holder for the transmission capability of the Neptune Line shall include the 
+allocation of the Firm and Non-Firm Transmission Withdrawal Rights, as applicable, which have 
+been assigned to the Neptune Transmission Owner pursuant to Tariff, Part VI, section 232 as 
+well as the award of Firm and Non-Firm Neptune Reservations.  The allocation of such rights 
+shall be in the megawatt quantity and for the period specified for allocation to parties pursuant to 
+the Neptune Transmission Owner’s Commission-approved allocation process.  The Primary 
+Rights Holder is the holder of the Firm Transmission Withdrawal Rights for the Neptune Line.  
+In the event that there has been no allocation of Firm Transmission Withdrawal Rights to a 
+Primary Rights Holder, the Neptune Transmission Owner is the holder of such unallocated Firm 
+Transmission Withdrawal Rights. 
+ 
+ 2.2 Charges for Allocation of Rights by Neptune Transmission Owner to 
+Primary Rights Holder:  The charge applicable to the allocation of rights to the Primary Rights 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 3 
+Holder pursuant to this section shall be determined pursuant to arrangements between the 
+Neptune Transmission Owner and the Primary Rights Holder in accordance with the process 
+approved by the Commission under FERC Docket No. ER01-2099 et al., as amended by the 
+Neptune Transmission Owner from time-to-time subject to Commission approval.  The charge 
+for the allocation of rights to the Primary Rights Holder shall be in accordance with the 
+Commission’s authorization for the Neptune Transmission Owner to charge negotiated rates (i.e., 
+rates established pursuant to market mechanisms as recognized for merchant transmission 
+projects and not included in PJM Tariff rates) for the use of transmission capability over the 
+Neptune Line.  Agreements between the Neptune Transmission Owner and a Primary Rights 
+Holder for the allocation of rights to a Primary Rights Holder shall be considered Service 
+Agreements under this Schedule 14 and shall be reported by the Neptune Transmission Owner to 
+the Commission through Electronic Quarterly Reports in accordance with Order No. 2001.  
+ 
+ 2.3 Transmission Withdrawal Rights Associated with the Neptune Line:  The 
+award of Transmission Withdrawal Rights to the Neptune Transmission Owner and any 
+subsequent transfer to the Primary Rights Holder shall be made pursuant to Tariff, Part VI, 
+section 232.  The Transmission Withdrawal Rights solely allow for the withdrawal of capacity 
+and energy at the Point of Interconnection for the Neptune Line and do not provide any priority 
+with respect to the reservation, scheduling, curtailment or interruption of transmission service 
+over the Neptune Line pursuant to this Schedule. 
+ 
+ 2.4 Transfer of Transmission Withdrawal Rights:  Any sale, assignment, 
+conveyance or transfer of a Transmission Withdrawal Right shall be consistent with Tariff, Part 
+VI, section 232.6 and any terms and conditions agreed upon between the Neptune Transmission 
+Owner and the Primary Rights Holder. 
+ 
+3. Neptune Reservations 
+ 
+ 3.1 Effect of a Neptune Reservation:  A Neptune Reservation is a prerequisite to 
+scheduling capacity and/or energy on the Neptune Line.  A holder of a Neptune Reservation may 
+submit offers to schedule capacity and/or energy from the Transmission System at the Point of 
+Interconnection over the Neptune Line.   
+ 
+ 3.2 Recallability:  A Non-Firm Neptune Reservation released pursuant to Section 3.7 
+is recallable by a holder of a Firm Neptune Reservation that has retained the right of recall until 
+the deadline posted on the OASIS which shall be based on the time necessary for submittal of 
+energy bids to meet installed capacity obligations in the New York Control Area.  The 
+procedures and prerequisites for the exercise of recall rights are set forth in section 4.2.2 below. 
+ 
+ 3.3 Term of Service 
+ 
+  3.3.1 Firm Neptune Reservation:  The minimum term of a Firm Neptune 
+Reservation shall be one day and the maximum term shall be equal to the term of agreement 
+allocating rights to the capability of the Neptune Line pursuant to section 2.1 of this Schedule.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 4 
+  3.3.2 Non-Firm Neptune Reservation:  Non-Firm Neptune Reservation will be 
+available for periods ranging from one hour to one month.   
+ 
+  3.3.3 Limitations.  An Eligible Customer holding a Firm or Non-Firm Neptune 
+Reservation may not submit a request for scheduling of capacity and energy over the Neptune 
+Line that exceeds the period or MW amount of its Neptune Reservation.     
+ 
+ 3.4 Acquisition of Neptune Reservations:  Firm and Non-Firm Neptune 
+Reservations are initially allocated to the Primary Rights Holder pursuant to section 2.1 of this 
+Schedule.  Third parties may acquire Firm or Non-Firm Neptune Reservations through:  (i) 
+through assignment pursuant to section 3.5 of this Schedule or (ii) voluntary or default release 
+through a secondary market operated through the OASIS in accordance with section 3.7 of this 
+Schedule. 
+ 
+ 3.5 Assignment of a Neptune Reservation:  The holder of a Neptune Reservation 
+may separately assign its Neptune Reservation to third parties provided that notice of such 
+assignment is provided to the Transmission Provider with such information posted on the 
+OASIS.  Subject to Commission approval of any necessary filings, a holder of a Neptune 
+Reservation may sell, assign, or transfer all or a portion of its rights, but only to another Eligible 
+Customer (the Assignee).  The holder of a Neptune Reservation that sells, assigns or transfers its 
+rights is hereafter referred to as the Reseller.  Where the Reseller is assigning a Firm Neptune 
+Reservation, such assignment shall include the right of recall that can be exercised by the 
+Assignee pursuant to section 4.2.2 of this Schedule 14.  The compensation to the Reseller shall 
+be at rates established by agreement with the Assignee.  A Reseller should notify the 
+Transmission Provider as soon as possible after any assignment occurs but in any event, 
+notification must be provided prior to any submission of offers to schedule capacity and energy 
+pursuant to such Neptune Reservation by the Assignee. The Assignee will be subject to all terms 
+and conditions of the Tariff. 
+ 
+ 3.6 Limitations on Assignment or Transfer of Neptune Reservations:  If the 
+Assignee requests a change in the specifications set forth in the original Neptune Service 
+Agreement, the Transmission Provider will consent to such change subject to the provisions of 
+the Tariff, provided that the change does not exceed the rights granted in the original Neptune 
+Reservation and will not impair the operation and reliability of the Neptune Line, the 
+Transmission Provider’s Transmission System or a Transmission Owner’s generation, 
+transmission, or distribution systems.  The Reseller shall remain liable for the performance of all 
+obligations under the Neptune Service Agreement, except as specifically agreed to by the 
+Reseller, the Assignee or the Transmission Provider through an amendment to the Neptune 
+Service Agreement. 
+ 
+ 3.7 Release of Neptune Reservation:  In addition to a bilateral assignment of a 
+Neptune Reservation pursuant to section 3.5 of this Schedule, Neptune Reservations may be 
+released as Available Transmission Capacity (ATC) for acquisition as Neptune Service by third 
+parties using the OASIS.  All releases of Neptune Reservations shall be posted on the OASIS.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 5 
+  3.7.1. Voluntary Releases:  A holder of a Neptune Reservation may voluntarily 
+release its Neptune Reservation for acquisition by third parties on a first-come, first-served basis.  
+A holder of a Neptune Reservation shall notify the Transmission Provider of the voluntary 
+release of any Firm Neptune Reservation including the rate to be charged service in accordance 
+with the following deadlines: 
+ 
+(a) Monthly:  No later than 30 calendar days prior to the first Operating Day 
+of each Month. 
+ 
+(b) Weekly:  No later than 10 calendar days prior to the first Operating Day of 
+each Week, a holder of a Neptune Reservation shall notify the 
+Transmission Provider of the voluntary release of any Non-Firm Neptune 
+Reservation including the rate to be charged for the Neptune Reservation 
+in accordance with the following deadlines: 
+ 
+(i) Monthly:  No later than 7 calendar days prior to the first Operating Day of 
+each Month. 
+ 
+(ii) Weekly:  No later than 5 calendar days prior to the first Operating Day of 
+each Week. 
+ 
+(iii) Daily:  No later than 13:00 the two business days before the Operating 
+Day. 
+ 
+(iv) Hourly:  No later than Noon on the day before the Operating Day. 
+ 
+A Neptune Reservation that has posted for voluntary release under this subsection shall be 
+excluded from the default release procedures set forth in subsection 3.7.2 below.  
+ 
+  3.7.2 Default Releases:  In the event that a holder of a Neptune Reservation 
+fails to either:  (i) submit a request to schedule energy up to the full MW value of its Non-Firm 
+Neptune Reservation by noon (12:00 p.m.) one business day prior to the Operating Day or (ii) 
+voluntarily release its Neptune Reservation pursuant to subsection 3.7.1 above, then, the 
+difference between the Total Transfer Capability over the Neptune Line in each scheduling hour 
+of the Operating Day and the sum of the valid requests for Neptune Schedules and MW amount 
+of Neptune Reservations voluntarily released on OASIS for such scheduling hour, shall be 
+deemed released and shall be posted on the OASIS by the Transmission Provider as Non-Firm 
+ATC for acquisition by third parties on a first-come, first served basis.  
+ 
+  3.7.3 Release Rate:  The holder of a Neptune Reservation which is seeking to 
+voluntarily release its Neptune Reservation shall provide to the Transmission Provider the rate to 
+be posted on OASIS and charged for such releases.  The Neptune Transmission Owner may 
+provide the Transmission Provider a rate to be posted on OASIS and charged for default releases 
+pursuant to section 3.7.2 above.  In the event that the Neptune Transmission Owner does not 
+separately provide to the Transmission Provider a rate for default releases, such default releases 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 6 
+shall be charged the lowest rate posted on OASIS for voluntary release of Neptune Reservations 
+in the applicable hour.    
+ 
+  3.7.4 Character of Service Released:  Releases of Neptune Reservations made 
+pursuant to the default release provisions in subsection 3.7.2 above do not include the right of 
+recall under section 3.2 of this Schedule and shall be hourly Non-Firm Neptune Reservations. 
+ 
+  3.7.5  Requirements for Acquisition of Neptune Reservations through 
+Release or Assignment:  An Eligible Customer shall be eligible to acquire and hold a Neptune 
+Reservation through an assignment of a Neptune Reservation pursuant to section 3.5 of this 
+Schedule or release of a Neptune Reservation over OASIS pursuant to section 3.7 of this 
+Schedule if such entity:  (i) has executed a Neptune Service Agreement, the form of which is 
+attached as Exhibit A to this Schedule 14; (ii) meets the creditworthiness requirements of the 
+Transmission Provider set forth in Tariff, Attachment Q; and (iii) is in good-standing with 
+respect to all payments owed under the Tariff and Operating Agreement. 
+ 
+ 3.8 Billing and Payment for Neptune Reservations: 
+ 
+  3.8.1 Neptune Reservations Allocated to Primary Rights Holders Pursuant 
+to Section 2.1:  The billing and payment of rates or charges applicable to the allocation of Firm 
+or Non-Firm Neptune Reservations to the Primary Rights Holder pursuant to section 2.1 of this 
+Schedule shall be determined pursuant to arrangements between the Neptune Transmission 
+Owner and the Primary Rights Holder and not under this Tariff. 
+ 
+  3.8.2 Neptune Reservations Acquired Through Bilateral Assignment 
+Pursuant to Section 3.5:  The billing and payment of rates or charges applicable to a bilateral 
+assignment of Firm or Non-Firm Neptune Reservations shall be determined pursuant to the 
+arrangements between the assignor and assignee.   
+ 
+  3.8.3 Neptune Reservations Acquired Through Voluntary and Default 
+Releases on OASIS Pursuant to Section 3.7:  An entity acquiring a Neptune Reservation 
+through a voluntary or default release over the OASIS shall be billed the applicable release rate 
+which is posted on OASIS pursuant to subsection 3.7.3 of this Schedule. The entity acquiring a 
+Neptune Reservation through voluntary or default releases shall make payments to the 
+Transmission Provider in accordance with the terms of the Neptune Service Agreement.  The 
+Neptune Transmission Customer shall pay the applicable rate for the MW amount of the Neptune 
+Reservation for each hour regardless of whether such holder submits a schedule for transmission 
+service over the Neptune Line in such hour. 
+ 
+ 3.9 Payment of Revenues Received:  Revenues received from the acquisition of 
+voluntarily released Neptune Reservation shall be paid by the Transmission Provider to the party 
+releasing such Neptune Reservation.  Revenues received from the acquisition of Neptune 
+Reservations subject to default release provisions shall be paid by the Transmission Provider to 
+the Neptune Transmission Owner.  
+ 
+4. Neptune Schedules 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 7 
+ 
+ 4.1 Nature of Transmission Service over the Neptune Line:  Neptune Schedules 
+shall be requested in accordance with NERC Standards, including requirements relating to E-
+Tagging and Transmission Line Relief procedures.  An entity seeking to schedule use of the 
+Neptune Line must hold a Neptune Reservation for no less than the amount of MWs of service 
+being requested.  Deadlines for scheduling the use of the Neptune Line shall adhere to the 
+Transmission Provider’s deadlines for scheduling as provided by the Transmission Provider’s 
+manuals and consistent with the deadlines for scheduling Point to Point services as described in 
+Tariff, Part II. 
+ 
+ 4.2 Submission of Scheduling Requests, Award of Reservations, Curtailment and 
+Interruption of Neptune Schedule: 
+ 
+  4.2.1 Submission of Scheduling Requests:  An Eligible Customer holding a 
+Neptune Reservation has the right to submit requests for Firm or Non-Firm Neptune Schedules 
+commensurate to the Neptune Reservations held by that entity.  
+ 
+  4.2.2 Exercise of Recall Rights:  An Eligible Customer holding a Firm 
+Neptune Reservation, that retains the right of recall, may exercise such recall rights by providing 
+notice, until the deadline posted on the OASIS which shall be based on the time necessary for 
+submittal of energy bids to meet any installed capacity obligations in the New York Control 
+Area, to the Transmission Provider that it wishes to exercise its right of recall.  The exercise of a 
+recall right pursuant to notice to the Transmission Provider shall immediately act to recall the 
+Neptune Reservation previously released by the Eligible Customer and acquired by a third party 
+under the assignment provisions set forth in section 3.5 of this Schedule or the release procedures 
+set forth in section 3.7 of this Schedule.   
+ 
+ 4.3 Scheduling of Capacity and Energy over the Neptune Line:  The Transmission 
+Provider shall evaluate all requests to schedule capacity and energy for withdrawal from the 
+Transmission System at the Point of Interconnection based on economic merit order.  In the 
+event of a tie within economic merit, a scheduling request made pursuant to a Firm Neptune 
+Reservation shall have priority over a scheduling request made pursuant to a Non-Firm Neptune 
+Reservation.  In the case of an economic merit order tie between two or more scheduling 
+requests using a Firm Neptune Reservation, the award of the scheduling reservation shall be on a 
+pro rata  basis.  In the case of an economic merit order tie between two or more scheduling 
+requests based on Non-Firm Neptune Reservations, the reservation classification of the Non-
+Firm Neptune Reservation (Monthly, Weekly, Daily or Hourly) shall then be used as the 
+tiebreaker, with the longer term of Non-Firm Neptune Reservation receiving priority.  In the case 
+of a further tie within the sub-category of Non-Firm Neptune Reservations (Monthly, Weekly, 
+Daily or Hourly), the timestamp order of the submission of requests to schedule service over the 
+Neptune Line shall be used as a tie-breaker.  A holder of Neptune Reservations is limited in its 
+total capacity and energy schedule for its Neptune Schedule to the higher of either its Firm or 
+Non-Firm Neptune Reservations.  
+ 
+ 4.4 Limitations on Scheduling Amount:  The Neptune Line has a minimum total 
+scheduling requirement of 60 MW at the Neptune Point of Delivery.  In the event that the total 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 8 
+MW of schedules determined to be in economic merit by the Transmission Provider is less than 
+60 MW at the Neptune Point of Delivery, all schedules shall be rejected.  The Neptune Line has 
+a maximum continuous scheduling capability of the lower of the Total Transfer Capability 
+(“TTC”) set by the Transmission Provider or 660 MW at the Neptune Point of Delivery.  In the 
+event that the total MW of schedules determined to be in economic merit by the Transmission 
+Provider is greater than the lower of the TTC or 660 MW at the Neptune Point of Delivery, all 
+schedules above the maximum capability shall be rejected.  
+ 
+ 4.5 Curtailment or Interruption of Neptune Schedules:  In the event that a 
+Curtailment or interruption of Neptune Schedules is required to maintain reliable operation of the 
+Neptune Line and the systems directly and indirectly interconnected with the Neptune Line, any 
+such Curtailment or interruption implemented by the Transmission Provider shall be based upon 
+the priority of the associated Neptune Reservations.  For curtailment or interruptions of Neptune 
+Schedules based on Firm Neptune Reservations will be performed on a pro rata basis.  
+Curtailment or interruptions of Neptune Schedules based on Non-Firm Neptune Reservations 
+shall first be based on the Non-Firm Neptune Reservation classification (i.e., Monthly, Weekly, 
+Daily, Hourly) with the longer term of Non-Firm Neptune Reservation receiving priority.  In the 
+case of a tie within the Non-Firm Neptune Reservation classifications, the time stamp order of 
+the submission of valid bids/offers to schedule service over the Neptune Line shall be used as a 
+tiebreaker.  The Transmission Provider shall provide advance notice of any Curtailment or 
+interruption of Neptune Schedules to all affected Neptune Transmission Customers where such 
+notice can be provided consistent with Good Utility Practice.  The Transmission Provider shall 
+curtail Neptune Schedules over the Neptune Line as required by NERC Standards.  The 
+Transmission Provider shall curtail Neptune Schedules over the Neptune Line for reliability of 
+the Transmission System pursuant to the separately reserved Transmission Service over the 
+Transmission System pursuant to Tariff, Part II or Tariff, Part III to the Neptune Line and the 
+PJM Manuals. 
+ 
+ 4.6 Separate Reservation for Network or Point-to-Point Service over the 
+Transmission System:  Prior to the commencement of a Neptune Schedule under this Schedule 
+14, the Neptune Transmission Customer must separately reserve Transmission Service over the 
+Transmission System pursuant Tariff, Part II or Tariff, Part III for delivery of energy, capacity or 
+ancillary services to the Neptune Line for at least the same time period as the Neptune Schedule 
+provided under this Schedule 14.  Reserving such Transmission Service to the Neptune Line is a 
+required precondition to holding a Neptune Schedule.  The Neptune Transmission Customer is 
+responsible for all charges associated with Transmission Service for delivery of capacity and 
+energy to the Neptune Line.   
+ 
+5. Liability 
+ 
+The Transmission Provider and any holder of a Neptune Reservation which releases its Neptune 
+Reservation through the voluntary or default release procedures set forth in section 3.7 of this 
+Schedule 14 shall be held harmless with regard to any claim which may be raised by any party 
+regarding the award of the released Neptune Reservation, except to the extent that such party 
+successfully establishes that the releasing party has incorrectly selected the party acquiring such 
+released Neptune Reservation as the result of gross negligence or willful misconduct.  The 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 9 
+liability of the Transmission Provider shall be limited by the terms and conditions of Tariff, Part 
+I, section 10 and the provisions of the PJM Operating Agreement. 
+ 
+6. Losses and Inadvertent Energy 
+ 
+Real power losses and inadvertent energy across the Neptune Line shall be allocated solely to 
+Neptune Transmission Customers that schedule Firm or Non-Firm transmission service over the 
+Neptune Line on an hourly pro rata basis, except for hours with no Neptune Schedules, in which 
+case any real power losses and inadvertent energy across the Neptune Line shall be allocated to 
+Neptune Transmission Customer that schedule Firm or Non-Firm transmission service over the 
+Neptune Line on a monthly pro rata basis. 
+ 
+7. Congestion Costs and FTRs 
+ 
+A Neptune Schedule provides a physical right to deliver capacity and energy over the Neptune 
+Line.  Accordingly, no congestion costs shall be calculated over the Neptune Line and no 
+financial transmission rights or their equivalent shall be offered for a Neptune Schedule.  This 
+provision is not meant to preclude any allocation of financial transmission rights, auction 
+revenue rights or their equivalent awarded to the Neptune Transmission Owner pursuant to 
+Tariff, Part VI.  
+ 
+8. Measurement and Posting of ATC and TTC   
+ 
+The Available Transfer Capability and Total Transfer Capability of the Neptune Line shall be 
+calculated and posted on the OASIS by the Transmission Provider consistent with the 
+requirements of the Tariff. 
+ 
+9. Payment of Other Charges Required for a Neptune Schedule  
+ 
+The Neptune Transmission Customer is responsible for charges applicable to a Neptune 
+Schedule provided under this Schedule 14, including, but not limited to, any congestion and loss 
+charges, redispatch costs, transitional revenue neutrality charges, scheduling, administrative, 
+hardware or software upgrade charges, control area or administrative services charges or 
+ancillary service charges applicable to the Transmission Provider’s administration of 
+transmission service over the Neptune Line (collectively, the “Neptune Service Administration 
+Charges”).  In the event that any such Neptune Service Administration Charges are billed by the 
+Transmission Provider to the Neptune Transmission Owner, the Neptune Transmission Owner 
+may bill the Neptune Transmission Customer for such charges, and the Neptune Transmission 
+Customer shall pay the Transmission Provider, on behalf of the Neptune Transmission Owner, 
+such Neptune Service Administration Charges pursuant to this section 9 as a condition of 
+receiving transmission service over the Neptune Line.  In the event that any Transmission 
+Enhancement Charges under Tariff, Schedule 12 are charged to the Neptune Transmission 
+Owner, the Neptune Transmission Owner may bill the holder of Firm Transmission Withdrawal 
+Rights for the Neptune Line, and the holder of Firm Transmission Withdrawal Rights for the 
+Neptune Line shall pay the Transmission Provider such Transmission Enhancement Charges, on 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 10 
+behalf of the Neptune Transmission Owner, pursuant to this Section 9 as a condition of receiving 
+transmission service over the Neptune Line.   
+ 
+In the event that any other charges related to the construction, maintenance, operation or 
+upgrading of the Transmission System are assessed by the Transmission Provider to the Neptune 
+Transmission Owner for the use of the Neptune Line for withdrawals of energy or capacity from 
+the Transmission System, the Neptune Transmission Owner may bill the Primary Rights Holder, 
+and the Primary Rights Holder shall pay the Transmission Provider, on behalf of the Neptune 
+Transmission Owner, such charges pursuant to this section 9 as a condition of receiving 
+transmission service over the Neptune Line.  The issuance and time for payment of charges 
+under this Schedule 14 shall be consistent with the billing and payment provisions of Tariff, Part 
+I, section 7. 
+ 
+Any failure of the Neptune Transmission Customer, the holder of Firm Transmission Withdrawal 
+Rights, or the Primary Rights Holder to pay any of the charges referenced in this Section 9 shall 
+be deemed a failure to pay by the Neptune Transmission Owner. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 1 
+EXHIBIT A TO SCHEDULE 14 
+ 
+Form of Service Agreement for 
+Transmission Service over the Neptune Line 
+ 
+1.0 This Service Agreement, dated as of ___________, is entered into, by and between the 
+Office of the Interconnection of PJM Interconnection, L.L.C. (the “Transmission Provider”), as 
+administrator of Transmission Service over the Neptune Line, and 
+__________________________ (“Neptune Transmission Customer”). 
+ 
+2.0 The Neptune Transmission Customer has been determined by the Transmission Provider 
+to have a Completed Application for a Neptune Reservation under the Tariff. 
+ 
+3.0 If required, the Neptune Transmission Customer has provided to the Transmission 
+Provider an Application deposit in accordance with the provisions of Section 17.3 of the Tariff. 
+ 
+4.0 Service under this agreement shall commence on the later of (1) the requested service 
+commencement date, or (2) such other date as it is permitted to become effective by the 
+Commission.  Service under this agreement shall terminate on such date as mutually agreed upon 
+by the parties. 
+ 
+5.0 The Transmission Provider agrees to provide and the Neptune Transmission Customer 
+agrees to take and pay for the Neptune Reservation in accordance with the provisions of 
+Schedule 14 of the Tariff and this Service Agreement. 
+ 
+6.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representatives as indicated below. 
+ 
+Transmission Provider 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA  19403 
+ 
+Neptune Transmission Customer 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+ 
+7.0 The Tariff, including Schedule 14, is incorporated herein and made a part hereof. 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by 
+their respective authorized officials. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 2 
+ 
+ Office of the Interconnection: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
+ 
+ Neptune Transmission Customer: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
+ 
+CERTIFICATION 
+ I, ____________________, certify that I am a duly authorized officer of 
+_______________________________ (Neptune Transmission Customer) and that 
+_______________________________ (Neptune Transmission Customer) will not request 
+service under this Service agreement to assist an Eligible Customer to avoid the reciprocity 
+provision of this Open-Access Transmission Tariff. 
+ 
+_________________________ 
+(Name) 
+ 
+_________________________ 
+(Title) 
+ Subscribed and sworn before me this ________ day of ______________, ____________. 
+_________________________ 
+(Notary Public) 
+ 
+My Commission expires: ______________________________ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 14 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 3 
+Specifications For Transmission Service Over Neptune Line 
+ 
+1.0 Term of Transaction: ______________________________________________________ 
+ 
+ Start Date: ______________________________________________________________ 
+ 
+ Termination Date: ________________________________________________________ 
+ 
+2.0 Description of capacity and energy to be transmitted. 
+ 
+ _______________________________________________________________________ 
+ 
+3.0 Point of Receipt:  Raritan River (Sayreville) Substation in Sayreville, New Jersey  
+ 
+ Delivering Party: _________________________________________________________ 
+ 
+4.0 Point of Delivery:  Newbridge Road Substation in Long Island, New York 
+ 
+ Receiving Party: _________________________________________________________ 
+ 
+5.0 Maximum amount of energy to be transmitted (Reserved Transmission Capability): 
+_______________________________________________________________________ 
+ 
+6.0 Designation of party(ies) subject to reciprocal service obligation: ___________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+7.0 Service under this Agreement may be subject to some combination of the charges 
+detailed below.  (The appropriate charges for individual transactions will be determined in 
+accordance with the terms and conditions of the Tariff and Schedule 14). 
+ 
+7.1 Neptune Reservation Charge: _________________________________________ 
+ 
+  __________________________________________________________________ 
+ 
+7.2 Neptune Service Administration Charges: ________________________________ 
+ 
+  __________________________________________________________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 15 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
+SCHEDULE 15 
+Non-Retail Behind The Meter Generation 
+Maximum Generation Emergency Obligations 
+ 
+1. A Non-Retail Behind The Meter Generation resource that has output that is netted from 
+load for the purposes of determining the DCPZ of a Network Customer pursuant to Tariff, Part 
+III, section 34 shall be required to operate at its full output the first ten times between November 
+1 and October 31, that Maximum Generation Emergency conditions occur in the zone in which 
+the Non-Retail Behind The Meter Generation resource is located . 
+ 
+2. The Network Customer for which Non-Retail Behind The Meter Generation output is 
+netted for the purposes of determining its DCPZ shall be required to report to the Transmission 
+Provider scheduled outages of the resource prior to the occurrence of such outage in accordance 
+with the time requirements and procedures set forth in the PJM Manuals.  Such Network 
+Customers also shall report to the Transmission Provider the output of the Non-Retail Behind 
+The Meter Generation resource during each Maximum Generation Emergency condition in 
+which the resource is required to operate in accordance with the procedures set forth in PJM 
+Manuals.  
+ 
+3. Except for failures to operate due to scheduled outages during the months of October 
+through May, for each instance a Non-Retail Behind The Meter Generation resource fails to 
+operate, in whole or in part, as required in section 1 above, the amount of operating Non-Retail 
+Behind The Meter Generation from such resource that is eligible for netting will be reduced 
+pursuant to the following formula: 
+ 
+  Adjusted 
+  ENRBTMG =  ENRBTMG – ∑(10% of the Not Run NRBTMG) 
+ 
+  Where: 
+ 
+ENRBTMG equals the operating Non-Retail Behind The Meter Generation 
+eligible for netting as determined pursuant to Tariff, Part III, section 34.3. 
+ 
+Not Run NRBTMG is the amount in megawatts that the Non-Retail Behind The 
+Meter Generation resource failed to produce during an occurrence of Maximum 
+Generation Emergency conditions in which the resource was required to operate.  
+ 
+∑(10% of the Not Run NRBTMG) is the summation of 10% megawatt reductions 
+associated with the events of non-performance. 
+ 
+ The Adjusted ENRBTMG shall not be less than zero and shall be applicable for the 
+succeeding calendar year. 
+ 
+4. If a Non-Retail Behind The Meter Generation resource that is required to operate during a 
+Maximum Generation Emergency condition is an Energy Resource and injects energy into the 
+Transmission System during the Maximum Generation Emergency condition, the Network 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 15 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
+Customer that owns the resource shall be compensated for such injected energy in accordance 
+with the PJM market rules. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 

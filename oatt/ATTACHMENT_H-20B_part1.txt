@@ -1,0 +1,1268 @@
+[ATTACHMENT H-20B - Part 1 of 4]
+
+Attachment H-20B shall be implemented pursuant to the Formula Rate 
+Implementation Protocols set forth in Attachment H-20A. 
+ 
+2. Determination of monthly charges for AEP Zone: On a monthly basis, revenue credits 
+shall be calculated based on the sum of AEPTCo’s share of revenues collected during the 
+month from: (i) the PJM Border Rate under Schedule 7; (ii) Network Integration 
+Transmission Service to Non-Zone Network Load under Attachment H-A; and (iii) Firm 
+Point-To-Point Transmission Service where the Point of Delivery is internal to the AEP 
+Zone. The sum of these revenue credits and potential charges will appear as an 
+adjustment (reduction) to the gross monthly rate stated above on a Transmission 
+Customer’s bill in that month for service under this schedule. 
+ 
+3. The revenue requirement in (1) shall be effective until amended by AEPTCo or 
+modified by the Commission. 
+ 
+4. In addition to the rate set forth in section (1) above, the Network Customer 
+purchasing Network Integration transmission Service shall pay for transmission 
+congestion charges, and any other applicable charges, in accordance with the 
+provisions of this Tariff, and any amounts necessary to reimburse the Transmission 
+Owners for any amounts payable to them as sales, excise, “btu,” carbon, value-added, 
+or similar taxes (other than taxes based upon or measured by net income) with respect 
+to the amounts payable pursuant to the Tariff. 
+ 
+ 
+ 
+1  AEPTCo subsidiaries in PJM include AEP Appalachian Transmission Company, Inc., 
+AEP Indiana Michigan Transmission Company, Inc., AEP Kentucky Transmission 
+Company, Inc, AEP Ohio Transmission Company, Inc., and AEP West Virginia 
+Transmission Company, Inc.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 1 
+ATTACHMENT H-20 A 
+ 
+THE AEP TRANSMISSION COMPANIES IN THE AEP ZONE 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+The formula rate template (“Template”), and these formula rate implementation 
+protocols (“Protocols”) together comprise the filed rate (“Formula Rate”) of  AEP Appalachian 
+Transmission Company Inc., AEP Indiana Michigan Transmission Company Inc., AEP 
+Kentucky Transmission Company Inc., AEP Ohio Transmission Company Inc., and AEP West 
+Virginia Transmission Company Inc. (collectively “AEPTCo”) for transmission revenue 
+requirement determinations under the PJM Interconnection, LLC (“PJM”) Open Access 
+Transmission Tariff (“PJM Tariff”).  AEPTCo shall follow the instructions specified in the 
+Formula Rate to calculate annually its net annual transmission revenue requirement, as set forth 
+at Attachment H-20B, page 1, line 4 of the Template (“Net Revenue Requirement”).  The Net 
+Revenue Requirement shall be determined for January 1 to December 31 of a given calendar 
+year (the “Rate Year”). The Formula Rate shall become effective for recovery of AEPTCo’s 
+Net Revenue Requirement upon the effective date for incorporation into the PJM Tariff through 
+a filing with the Federal Energy Regulatory Commission (“FERC” or “Commission”) under 
+Section 205 of the Federal Power Act (“FPA”), 16 U.S.C. § 824d.         
+Section 1. Annual Projection 
+a. No later than October 31 preceding a Rate Year, and each subsequent Rate Year, 
+AEPTCo shall determine its projected Net Revenue Requirement for the upcoming Rate 
+Year in accordance with the Formula Rate (“Annual Projection”). The Annual Projection 
+shall include the True-Up Adjustment described and defined in Section 2 below, if 
+applicable.  AEPTCo shall cause an electronic version of the Annual Projection to be 
+posted in both a Portable Document Format (“PDF”) and fully-functioning Excel file at a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 2 
+publicly accessible location on PJM’s internet website and OASIS.  The date on which 
+the posting occurs shall be that year’s “Annual Projection Publication Date.”   
+b. The posting of the Annual Projection shall: 
+(i) Provide the Formula Rate calculations and all inputs thereto, as well as supporting 
+documentation and workpapers for data that are used in the projected Net 
+Revenue Requirement; 
+(ii) Include all inputs in sufficient detail to identify the components of AEPTCo’s 
+projected Net Revenue Requirement, explanations of the bases for the projections 
+and input data, and sufficient detail and explanation to enable Interested Parties1 
+to replicate the calculation of the projected Net Revenue Requirement;   
+(iii) With respect to any Accounting Changes (as that term is defined in Section 3.e.iii)  
+A.  Identify any Accounting Changes including:  
+i. The initial implementation of an accounting standard or policy; 
+ii. The initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction;  
+iii. Correction of errors and prior period adjustments that impact the 
+projected Net Revenue Requirement calculation;  
+iv. The implementation of new estimation methods or policies that 
+change prior estimates; and  
+v. Changes to income tax elections;  
+ 
+1 As used in these Protocols, “Interested Parties” shall include but not be limited to: (i) any Eligible Customer 
+under the PJM Tariff; (ii) any regulatory agency with rate jurisdiction over a public utility located within the PJM 
+footprint; (iii) any consumer advocate authorized by state law to review and contest the rates for any such public 
+utility; and (iv) any party with standing under FPA section 205 or section 206. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 3 
+B. Identify items included in the projected Net Revenue Requirement at an 
+amount other than on a historic cost basis (e.g., fair value adjustments);  
+C. Identify any reorganization or merger transaction during the previous year 
+and explain the effect of the accounting for such transaction(s) on inputs to 
+the projected Net Revenue Requirement; and  
+D. Provide, for each item identified pursuant to Section 1.b.iii.A - C of these 
+Protocols, a narrative explanation of the individual impact of such changes 
+on the projected Net Revenue Requirement. 
+(iv) Include the following information related to affiliate cost allocation: 
+A. A detailed description of the methodologies used to allocate and directly 
+assign costs between AEP and its affiliates by service category or 
+function, including any changes to such cost allocation methodologies 
+from the prior year, and the reasons for those changes; and 
+B. The magnitude of such costs that have been allocated or directly assigned 
+between AEP and each affiliate by service category or function.  
+ c.  If the date for making the posting of the Annual Projection should fall on a weekend or a 
+holiday recognized by FERC, then the posting shall be made no later than the next 
+business day.2  Within five (5) calendar days of the posting, PJM shall provide notice of 
+such posting via the PJM Members Committee email subscription (“PJM Exploder List”).  
+Interested Parties can subscribe to the PJM Exploder List on the PJM website.   
+d. Together with the posting of the Annual Projection, AEPTCo shall cause to be posted on 
+the PJM internet website and OASIS, and distributed to the PJM Exploder List, the time, 
+ 
+2 For the purposes of these Protocols, if any deadline included in these Protocols should fall on a weekend or a 
+holiday recognized by FERC, then the deadline shall be extended to no later than the next business day. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 4 
+date, location, and remote-access information for a stakeholder meeting with Interested 
+Parties in order for AEPTCo to explain its Annual Projection and to provide Interested 
+Parties an opportunity to seek information and clarifications regarding the Annual 
+Projection (“Annual Projection Meeting”). The Annual Projection Meeting shall be held 
+no less than twenty (20) business days and no more than thirty (30) business days after 
+the posting of the Annual Projection. Notice of the Annual Projection Meeting shall be 
+provided via the PJM Exploder List no less than seven (7) calendar days prior to the 
+meeting.  AEPTCo will provide remote access to the Annual Projection Meeting in 
+order to ease burdens (e.g. travel costs) to ensure all Interested Parties have the 
+opportunity to participate.  
+e. To the extent AEPTCo agrees to make changes in the Annual Projection for a given 
+Rate Year, such revised Annual Projection shall be promptly posted at a publicly 
+accessible location on PJM’s internet website and OASIS, and e-mailed to the PJM 
+Exploder List.  Changes posted prior to November 30 preceding the Rate Year, or the 
+next business day if November 30 is not a business day (or such later date as can be 
+accommodated under PJM’s billing practices), shall be reflected in the Annual 
+Projection for the Rate Year; changes posted after that date will be reflected, as 
+appropriate, in the True-Up Adjustment for the Rate Year.   
+f. The Annual Projection, including the True-Up Adjustment, for each Rate Year shall be 
+subject to review, challenge, true-up, and refunds or surcharges with interest, to the 
+extent and in the manner provided in these Protocols. 
+Section 2.  True-Up Adjustment 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 5 
+AEPTCo will calculate the amount of under- or over-collection of its actual Net Revenue 
+Requirement during the preceding Rate Year (“True-Up Adjustment”) after the FERC Form No. 
+1 data for that Rate Year has been filed with the Commission.  The True-Up Adjustment shall be 
+the sum of the True-Up Adjustment Over/Under Recovery as determined in Section 2(a) and the 
+Interest on the True-Up Adjustment Over/Under Recovery as determined in Section 2(b): 
+ 
+a.  AEPTCo’s projected Net Revenue Requirement collected during the previous Rate Year 3 
+will be compared to AEPTCo’s actual Net Revenue Requirement for the previous Rate 
+Year calculated in accordance with  AEPTCo’s Formula Rate and based upon (i) 
+AEPTCo’s FERC Form No. 1 for that same Rate Year, (ii) any FERC orders specifically 
+applicable to AEPTCo’s calculation of its annual revenue requirement, (iii) the books and 
+records of AEPTCo (which shall be maintained consistent with the FERC Uniform 
+System of Accounts (“USofA”)), (iv) FERC accounting policies and practices applicable 
+to the calculation of annual revenue requirements under formula rates, and (v) any 
+aspects of the PJM Tariff Governing Documents that apply to the calculation of annual 
+revenue requirements under individual transmission owner formula rates,4 to determine 
+any over- or under-recovery (“True-Up Adjustment Over/Under Recovery”).   
+ 
+3 If the initial use of this Formula Rate covers only part of a calendar year, the initial projected annual Net Revenue 
+Requirement will be divided by 12 to calculate the monthly projected cost of service to be collected each month it is 
+effective that first year.  Similarly, the actual Net Revenue Requirement will be divided by 12 to calculate the actual 
+monthly cost of service to be collected during those same months of that year.  Similar calculations of projected Net 
+Revenue Requirement and actual Net Revenue Requirement will be made for the months prior to the effective date 
+of this Formula Rate using the previous formula rate in effect during those months. The actual Net Revenue 
+Requirements computed under each of the two formula rate periods that initial Rate Year will be added together to 
+obtain the total actual Net Revenue Requirement. The first True-up Adjustment will compare this total actual Net 
+Revenue Requirement to the Net Revenue Requirement collected under the two formulas for that initial Rate Year. 
+4 PJM Tariff Governing Documents include the PJM Tariff, Bylaws, Criteria, and Membership Agreements. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 6 
+b. Interest on any True-Up Adjustment Over/Under Recovery shall be calculated for the 
+thirty-six (36) months during which the over or under recovery in the revenue 
+requirement remains outstanding (i.e., from January 1 of the Rate Year being trued-up  
+through December 31 of the year in which the True-Up Adjustment Over/Under recovery 
+is credtited or collected).   The interest rate to be applied to the True-Up Adjustment 
+Over/Under Recovery amounts will be determined using the average monthly FERC 
+Interest Rate (as determined pursuant to 18 C.F.R. § 35.19a) for the twenty (20) months 
+from the beginning of the Rate Year being trued-up through August 31 of the following 
+year.  
+Section 3.  Annual Update 
+a. On or before May 25 following each Rate Year, AEPTCo shall calculate its actual Net 
+Revenue Requirement and the True-Up Adjustment as described in Section 2 (“Annual 
+Update”) for such Rate Year and, together with such other information described in this 
+Section 3, shall cause such Annual Update to be posted, in both a PDF and fully-
+functioning Excel format, at a publicly accessible location on PJM’s internet website 
+and OASIS.  Within five (5) calendar days of such posting, PJM shall provide notice of 
+such posting via the PJM Exploder List.    
+b. If the date for making the Annual Update posting should fall on a weekend or a holiday 
+recognized by the FERC, then the posting shall be due on the next business day. 
+c. The date on which the posting occurs shall be that year’s “Annual Update Publication 
+Date.” 
+d. Together with the posting of the Annual Update, AEPTCo shall cause to be posted on 
+the PJM website and OASIS the time, date, location, and remote-access information for 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 7 
+a stakeholder meeting with Interested Parties in order for AEPTCo to explain its Annual 
+Update and to provide Interested Parties an opportunity to seek information and 
+clarifications regarding the Annual Update (“Annual Update Meeting”). Notice of the 
+Annual Update Meeting shall be provided via the PJM Exploder List no less than seven 
+(7) calendar days prior to the meeting.  The Annual Update Meeting shall be held no 
+less than twenty (20) business days and no more than thirty (30) business days after the 
+Annual Update Publication Date.  AEPTCo will provide remote access to the Annual 
+Update Meeting in order to ease burdens (e.g. travel costs) to ensure all Interested 
+Parties have the opportunity to participate.   
+e. The Annual Update posting for the Rate Year: 
+(i)  Shall provide, via the Formula Rate worksheets, sufficiently detailed supporting 
+documentation for data (and all adjustments thereto or allocations thereof) used in 
+the Formula Rate that are not stated in the FERC Form No. 1;5 
+(ii) Shall provide sufficient detail and sufficient explanation to enable Interested 
+Parties to replicate the calculation of the Annual Update results from the FERC 
+Form No. 1 and verify that each input to the Template is consistent with the 
+requirements of the Formula Rate; 
+(iii) Shall identify:  
+ 
+5 It is the intent of the Formula Rate, including the supporting explanations and allocations described therein, that 
+each input to the Formula Rate for purposes of determining the actual Net Revenue Requirement for a given Rate 
+Year will be either taken directly from the FERC Form No. 1 or reconcilable to the FERC Form No. 1 by the 
+application of clearly identified and supported information.  If the referenced form is superseded, the successor 
+form(s) shall be utilized and supplemented as necessary to provide equivalent information as that provided in the 
+superseded form.  If the referenced form is discontinued, equivalent information as that provided in the discontinued 
+form shall be utilized. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 8 
+A. Any change in accounting that affects inputs to the Template or the 
+resulting charges billed under the Formula Rate (“Accounting Change”), 
+including: 
+i. The initial implementation of an accounting standard or policy;  
+ii. The initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction; 
+iii.  Correction of errors and prior period adjustments that impact the 
+True-Up Adjustment calculation; 
+iv. The implementation of new estimation methods or policies that 
+change prior estimates; and 
+v. Changes to income tax elections; 
+B. Any items included in the Annual Update at an amount other than on a 
+historic cost basis (e.g., fair value adjustments); 
+C. Any reorganization or merger transaction during the previous year and an 
+explanation of the effect of the accounting for such transaction(s) on 
+inputs to the Annual Update; 
+D. For each item identified pursuant to Sections 3.e.iii.A – C of these 
+Protocols, the individual impact (in narrative format) of such changes on 
+the Annual Update.  
+ (iv) Shall be subject to review and challenge in accordance with the procedures set 
+forth in Sections 4, 5, and 6 of these Protocols.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 9 
+(v) Shall be subject to review and challenge in accordance with the procedures set 
+forth in these Protocols with respect to the prudence of any costs and 
+expenditures included for recovery in the Annual Update; provided, however, 
+that nothing in these Protocols is intended to modify the Commission’s 
+applicable precedent with respect to the burden of going forward or burden of 
+proof under formula rates in such prudence challenges; and 
+(vi) Shall not seek to modify the Formula Rate and shall not be subject to challenge 
+by any Interested Party seeking to modify the Formula Rate (i.e., any 
+modifications to the Formula Rate will require, as applicable, an FPA section 
+205 or section 206 filing or initiation of a section 206 investigation). 
+f. The following Formula Rate inputs shall be stated values to be used in the Formula Rate 
+until changed pursuant to an FPA section 205 or section 206 proceeding: (i) rate of 
+return on common equity (“ROE”); (ii) the depreciation and/or amortization rates as set 
+forth in Attachment 10 to the Formula Rate template, and (iii) Post-Employment  
+benefits  other  than  Pension (“PBOP”)  charges pursuant to Statement of Financial 
+Accounting Standards No. 106, Employers’ Accounting for Postretirement Benefits 
+Other Than Pensions.  
+g. Example – Timelines for 2018 Annual Projection and 2019 Annual Update: 
+ On or before October 31, 2017, AEPTCo will determine the projected Net Revenue 
+Requirement for the 2018 Rate Year.  AEPTCo will post the Annual Projection for the 
+2018 Rate Year in accordance with Section 1 above.  On or before May 25, 2019, 
+AEPTCo will post its Annual Update, consisting of the actual Net Revenue Requirement 
+and True-Up Adjustment for the 2018 Rate Year determined pursuant to Section 2 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 10 
+above.  Such True-Up Adjustment will be reflected in the Annual Projection of the Net 
+Revenue Requirement for the 2020 Rate Year posted on or before October 31, 2019.   
+Section 4.  Annual Review Procedures 
+Each Annual Update and Annual Projection shall be subject to the following review 
+procedures (“Annual Review Procedures”): 
+ a. Interested Parties shall have up to the later of two-hundred-ten (210) calendar days after 
+the applicable Publication Date, or thirty (30) calendar days after the receipt of all 
+responses to timely submitted information requests (unless such period is extended with 
+the written consent of AEPTCo or by FERC order) (“Review Period”), to review the 
+calculations and to notify AEPTCo in writing of any specific challenges to the Annual 
+Update or Annual Projection (“Preliminary Challenge”), including challenges related to 
+Accounting Changes.  An Interested Party submitting a Preliminary Challenge must 
+specify the inputs, supporting explanations, allocations, calculations, or other 
+information to which it objects, and provide an appropriate explanation and documents 
+to support its challenge.  AEPTCo shall cause to be posted all Preliminary Challenges at 
+a publicly accessible location on PJM’s internet website and OASIS, and a link to the 
+website will be e-mailed to the PJM Exploder List. 
+b.  In the event of a Preliminary Challenge, AEPTCo will appoint a senior representative to 
+work with the Interested Party (or its representatives) toward a resolution of the dispute.   
+c. AEPTCo shall respond in writing to a Preliminary Challenge within twenty (20) 
+business days of receipt, and its response shall notify the challenging party of the extent 
+to which AEPTCo agrees or disagrees with the challenge.  If AEPTCo disagrees with 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 11 
+the Preliminary Challenge, it will provide the Interested Party with an explanation 
+supporting the challenged inputs, explanations, allocations, calculations, or other 
+information.  AEPTCo shall promptly cause to be posted its responses to all Preliminary 
+Challenges at a publicly accessible location on PJM’s internet website and OASIS, and 
+a link to the website will be e-mailed to the PJM Exploder List. Notwithstanding the 
+foregoing, Preliminary Challenges and responses to Preliminary Challenges that include 
+material deemed by AEPTCo to be confidential information will not be publicly posted 
+but will be made available to requesting parties pursuant to a confidentiality agreement 
+to be executed by AEPTCo and the requesting party.   
+d. AEPTCo shall respond to all Preliminary Challenges submitted during the Review 
+Period by no later than thirty (30) calendar days after the end of the Review Period.  
+e. Interested Parties shall have up to one-hundred-fifty (150) calendar days after each 
+annual Publication Date (unless such period is extended with the written consent of 
+AEPTCo or by FERC order) to serve reasonable information requests on AEPTCo 
+(“Discovery Period”).   
+f.  Information requests shall be limited to what is necessary to determine: (i) the extent, 
+effect, or impact of an Accounting Change; (ii) whether the  Annual Update or Annual 
+Projection fails to include data properly recorded in accordance with the Protocols; (iii) 
+the proper application of the Template and procedures in the Protocols; (iv) the accuracy 
+of data and consistency with the Formula Rate of the charges shown in the Annual 
+Update or Annual Projection; (v) the prudence of the actual costs and expenditures, 
+including procurement methods and cost control methodologies; (vi) the effect of any 
+change to the underlying USofA or FERC Form No. 1; and (vii) any other information 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 12 
+that may reasonably have substantive effect on the calculation of the charge pursuant to 
+the Formula Rate. The information requests shall not otherwise be directed to 
+ascertaining whether the Formula Rate is just and reasonable. Information requests shall 
+not solicit information concerning costs or allocations where the costs or allocation 
+methods have been determined to be appropriate by FERC in the context of prior 
+AEPTCo Annual Updates, except that such information requests shall be permitted if 
+they (i) seek to determine if there has been a change in circumstances, (ii) are in 
+connection with corrections pursuant to Section 6 of these Protocols, or (iii) relate to 
+costs or allocations that have not previously been challenged and adjudicated by FERC.   
+g. AEPTCo shall make a good faith effort to respond to reasonable information requests 
+pertaining to the Annual Update or Annual Projection within fifteen (15) business days of 
+receipt of such requests.  AEPTCo shall respond to all reasonable information requests no 
+later than thirty (30) calendar days after the end of the Discovery Period. AEPTCo will 
+cause to be posted on the PJM website and OASIS all information requests from 
+Interested Parties and AEPTCo’s response(s) to such requests, and a link to the website 
+will be e-mailed to the PJM Exploder List.  Notwithstanding the foregoing, information 
+and document requests and responses to information and document requests that include 
+material deemed by AEPTCo to be confidential information will not be publicly posted 
+but will be made available to requesting parties pursuant to a confidentiality agreement to 
+be executed by AEPTCo and the requesting party. Voluminous materials will be made 
+available at a physical AEP site. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 13 
+h.  AEPTCo shall not claim that responses to information and document requests provided 
+pursuant to these Protocols are subject to any settlement privilege in any subsequent 
+FERC proceeding addressing AEPTCo’s Annual Update or Annual Projection. 
+i. To the extent AEPTCo and any Interested Party(ies) are unable to resolve disputes 
+related to information requests submitted in accordance with these Annual Review 
+Procedures, AEPTCo or the Interested Party may petition the FERC to appoint an 
+Administrative Law Judge as a discovery master to resolve the discovery dispute(s) in 
+accordance with these Protocols and consistent with the FERC’s discovery rules. 
+j. Preliminary Challenges or Formal Challenges (as described in Sections 4 and 5) related 
+to Accounting Changes shall be treated in the same manner under these Protocols as 
+other challenges to the Annual Update or Annual Projection.  Failure to make a 
+Preliminary Challenge with respect to an Accounting Change in an Annual Update or 
+Annual Projection shall not act as a bar with respect to a Formal Challenge with respect 
+to that Annual Update or Annual Projection provided that the Interested Party submitted 
+a Preliminary Challenge with respect to one or more other issues. Nor shall such failure 
+bar a subsequent Preliminary Challenge related to a subsequent Annual Update or 
+Annual Projection to the extent such Accounting Change affects the subsequent Annual 
+Update or Annual Projection. 
+k. If a change made by AEPTCo to its accounting policies, practices, or procedures, or the 
+application of the Formula Rate, is found by the FERC to be unjust, unreasonable, or 
+unduly discriminatory or preferential, then the calculation of the charges to be assessed 
+during the Rate Year then under review, and the charges to be assessed during any 
+subsequent Rate Years, including any True-up Adjustments, shall not include such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 14 
+change, but shall include any remedy that may be prescribed by FERC in the exercise of 
+its discretion as of the effective date of such remedy, to ensure that the Formula Rate 
+continues to operate in a manner that is just, reasonable, and not unduly discriminatory 
+or preferential.  
+ Section 5. Resolution of Challenges 
+ a. Interested Parties shall have up to two –hundred-seventy (270) days following the 
+applicable Publication Date (unless such period is extended with the written consent of 
+AEPTCo or by FERC order), to file a challenge with the FERC (“Formal Challenge”). 
+Such Formal Challenge shall be submitted in the same docket as the AEPTCo 
+informational filing and shall be served on AEPTCo by electronic service on the date of 
+such filing in accordance with Section 385.2010(f)(3) of the Commission’s regulations.  
+Subject to any applicable confidentiality and Critical Energy Infrastructure Information 
+restrictions, all information and correspondence produced by AEPTCo pursuant to these 
+Protocols may be included in any Formal Challenge or other FERC proceeding relating 
+to the Formula Rate. 
+b. Formal Challenges are to be filed pursuant to these Protocols, rather than under rule 
+206, and shall: 
+(i) Clearly identify the action or inaction which is alleged to violate the Formula 
+Rate Template or Protocols;  
+(ii)   Explain how the action or inaction violates the filed rate Template or Protocols; 
+(iii)   Set forth the business, commercial, economic or other issues presented by the 
+action or inaction as such relate to or affect the party filing the Formal 
+Challenge, including 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 15 
+A.  The extent or effect of an Accounting Change; 
+B. Whether the Annual Update or Annual Projection fails to include data 
+properly recorded in accordance with these Protocols;  
+C. The proper application of the Template and procedures in these 
+Protocols;  
+D. The accuracy of the data and consistency with the Formula Rate of the 
+charges shown in the Annual Update or Annual Projection; 
+E. The prudence of actual costs and expenditures; 
+F. The effect of any change to the underlying Uniform System of Accounts 
+or the FERC Form No. 1; or  
+G. Any other information that may reasonably have substantive effect on the 
+calculation of the charge pursuant to the Template.  
+(iv) Make a good faith effort to quantify the financial impact or burden (if any) 
+created for the party filing the Formal Challenge as a result of the action or 
+inaction; 
+(v)  State whether the issues presented are pending in an existing Commission 
+proceeding or a proceeding in any other forum in which the filing party is a 
+party, and if so, provide an explanation why timely resolution cannot be 
+achieved in that forum; 
+(vi) State the specific relief or remedy requested, including any request for stay or 
+extension of time, and the basis for that relief; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 16 
+(vii) Include all documents that support the facts in the Formal Challenge in 
+possession of, or otherwise attainable by, the filing party, including, but not 
+limited to, contracts and affidavits; and 
+(viii) State whether the filing party utilized the Preliminary Challenge procedures 
+described in these Protocols to dispute the action or inaction raised by the 
+Formal Challenge, and, if not, describe why not. 
+c. Preliminary and Formal Challenges shall be limited to issues that may be necessary to 
+determine: (i) the extent or effect of an Accounting Change; (ii) whether the Annual 
+Update or Annual Projection fails to include  data properly recorded in accordance with 
+these Protocols; (iii) the proper application of the Formula Rate and procedures in these 
+Protocols; (iv) the accuracy of data and consistency with the Formula Rate of the 
+calculations shown in the Annual Update and Annual Projection; (v) the prudence of 
+actual costs and expenditures; (vi) the effect of any change to the underlying Uniform 
+System of Accounts or FERC Form No. 1; or (vii) any other information that may 
+reasonably have substantive effect on the calculation of the charge pursuant to the 
+formula. 
+d.  Failure to raise an issue in a Preliminary Challenge shall not bar an Interested Party 
+from raising that issue in a Formal Challenge, provided the Interested Party submitted a 
+Preliminary Challenge during the Review Period with respect to one or more other 
+issues. Failure to pursue an issue through a Preliminary Challenge or to lodge a Formal 
+Challenge regarding any issue as to a given Annual Update shall bar pursuit of such 
+issue with respect to that Annual Update, but shall not bar pursuit of such issue or the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 17 
+lodging of a Formal Challenge as to such issue as it relates to a subsequent Annual 
+Update. 
+e. Any response by AEPTCo to a Formal Challenge must be submitted to the FERC within 
+thirty (30) calendar days of the date of the filing of the Formal Challenge, and shall be 
+served on the filing party(ies) and the PJM Exploder List on the date of such filing.  
+f. In any Formal Challenge proceeding concerning an Annual Update (including 
+corrections), Annual Projection, or Accounting Change(s), AEPTCo shall demonstrate 
+the justness and reasonableness of the rate resulting from its application of the Formula 
+Rate by demonstrating that it has correctly applied the terms of the Formula Rate 
+consistent with these Protocols and that it followed the applicable requirements and 
+procedures in applying the Formula Rate. Nothing herein is intended to alter the burdens 
+applied by FERC with respect to prudence challenges. 
+g. Except as specifically provided herein, nothing herein shall be deemed to limit in any 
+way the right of AEPTCo to file unilaterally, pursuant to section 205 of the FPA and the 
+regulations thereunder, an application seeking changes to the Formula Rate or to any of 
+the stated value inputs requiring a section 205 filing under these Protocols (including, 
+but not limited to, ROE and depreciation and amortization rates), or the right of any 
+other party or the Commission to seek such changes pursuant to section 206 of the FPA 
+and the regulations thereunder.  
+h. AEPTCo may, at its discretion and at a time of its choosing, make a limited filing 
+pursuant to section 205 to modify stated values in the Formula Rate (i) for amortization 
+and depreciation rates, (ii) to correct obvious errors or omissions in the Formula Rate 
+such as would result from changes to the FERC Form No. 1, or (iii) PBOP charges 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - AEPTCo 
+Effective Date: 1/1/2017 - Docket #: ER17-406-001 - Page 18 
+pursuant to Statement of Financial Accounting Standards No. 106, Employers’ 
+Accounting for Postretirement Benefits Other Than Pensions.  The sole issue in any 
+such limited section 205 proceeding shall be whether such proposed change(s) is just 
+and reasonable, and it shall not address other aspects of the Formula Rate or impose 
+upon AEPTCo any burden with respect to such other aspects of the Formula Rate.     
+Section 6. Changes to Annual Updates  
+  If AEPTCo determines or concedes that corrections to the Annual Update are 
+required, whether under Sections 4 or 5 of these Protocols, including but not limited to 
+those requiring corrections to its FERC Form No. 1, or input data used for a Rate Year that 
+would have affected the Annual Update for that Rate Year, such corrections shall be 
+reflected as adjustments in the Annual Update for the next Rate Year, with interest 
+calculated in accordance with the FERC Interest Rate (as determined pursuant to 18 C.F.R. 
+§ 35.19a).  This reconciliation mechanism shall apply in lieu of mid-Rate Year 
+adjustments. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 1 
+Appendix A to Attachment H-20A 
+ 
+American Electric Power Service Corporation 
+Docket No. ER10-355 
+ 
+Transmission Formula Rate Settlement 
+For  
+AEP Appalachian Transmission Company Inc., AEP Indiana Michigan Transmission Company Inc., AEP 
+Kentucky Transmission Company Inc., AEP Ohio Transmission Company Inc., and AEP West Virginia 
+Transmission Company Inc. 
+  
+(collectively “AEP” or “the AEP East Transmission Companies”) 
+ 
+ 
+Cost of Service and Formula Rate Settlement Principles 
+ 
+ 
+The following Cost of Service and Formula Rate Settlement Principles are a part of the 
+Settlement Agreement being filed _______ , 2010 in Docket No. ER10-355 (“the Settlement”): 
+ 
+ 
+I. Transmission Formula Rate Design. 
+A. Applicability of Wholesale Ratemaking Practices. 
+1. Only those costs that are recoverable pursuant to FERC accounting and/or 
+ratemaking practices may be recovered by the AEP East Transmission 
+Companies through its FERC transmission formula rate. 
+2. Adjustments to the AEP cost of service formula rate templates - AEP shall 
+take steps to have PJM include in the rate template used to calculate 
+charges to transmission customers all of the adjustments, modifications, 
+and corrections identified in the new formula rate templates included with 
+this Statement of Settlement Principles.  
+3. Costs of transmission studies 
+a. All costs of transmission studies (e.g., studies of requested new or 
+modified delivery or interconnection points, System Impact 
+Studies and Facilities Studies) associated with service to affiliated 
+(e.g., AEP East Transmission Companies) and non-affiliated 
+customers shall be allocated and charged to customers on a 
+comparable and consistent basis.  
+b. The costs of such studies shall be accounted for in one of the 
+following ways: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 2 
+i. The study costs are not included in the formula rate, 
+expressly or otherwise; or  
+ii. If the costs are included in the formula rate but also 
+are directly assigned to the entity requesting the 
+study, then the formula rate also will include a 
+revenue credit equal to the amount of study costs 
+that are directly assignable to the requesting entity.  
+Such revenue credit shall be reflected in the formula 
+rate regardless of the specific accounting applied to 
+the costs and revenues.  
+iii. Study costs that are not directly assigned to the 
+requesting entity may be treated as a system-wide 
+cost in applying the formula rate, but only if that 
+treatment is applied to all such study costs incurred 
+for any requesting entity. 
+c. Transmission service base rate charges under the formula shall be 
+calculated in a manner that allocates the costs of transmission 
+studies to, and recovers those costs from, transmission customers 
+(including the AEP East Operating Companies) on a comparable 
+basis, without regard to whether the costs of those studies are 
+directly assigned or rolled-in, and without regard to whether any 
+particular studies are performed for affiliated or non-affiliated 
+customers. 
+   
+B. Rate Base 
+1. The transmission Rate Base used in the annual update shall be based upon 
+the end-of-year net transmission plant balance from the prior calendar year 
+FERC Form 1 (“FF1”).  The true-up of the formula rate, however, shall 
+utilize a Transmission Rate Base that incorporates the arithmetic average 
+of the most recent actual values for beginning-of-year and end-of-year net 
+transmission plant (that is, the average of beginning and end of calendar 
+year balances for plant in service and accumulated depreciation). 
+a. The revenue requirements billed each July and running through 
+June of the next year will be based on a test-year-end rate base 
+style annual transmission revenue requirement (“ATRR”) 
+calculation.  The initial revenue requirements will be billed July 1, 
+2010, through June 30, 2011, and will be based on the 2009 
+expenses and year-end rate base plus projected 2010 calendar 
+transmission plant in service (TPIS) additions.  The following year 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 3 
+the projected revenue requirements will be based on the 2010 
+expenses and year-end TPIS balances obtained from the 2010 FF1 
+plus projected 2011 calendar year TPIS additions.   
+b. In 2011, the estimated ATRR that was effective during 2010 will 
+be reconciled (“trued-up”) with an ATRR that is calculated based 
+on actual 2010 calendar year expenses and rate base reflecting the 
+arithmetic average of the beginning-of-year and end-of-year 
+balances for TPIS and accumulated depreciation.  The actual 2010 
+ATRR (“true-up”) to be used for such reconciliation will be posted 
+or otherwise provided to customers in May 2011 at the same time 
+that the projected ATRR to be used for billing purposes during the 
+second half of 2011 (and the first half of 2012) is posted or 
+otherwise provided to customers.   
+c. For the true-up of prior year charges, AEP East Transmission 
+Companies will calculate the difference between the estimated 
+ATRR for the prior calendar year that was used for billing 
+purposes and the actual ATRR for that prior calendar year, 
+calculated as described in paragraph B.1.b. above.  The difference 
+between the two values (plus interest at the applicable FERC 
+refund interest rates) shall be reflected as an addition to or offset 
+against billed charges for transmission service July 1st of the 
+current year through June 30 of the following year. The interest 
+rate will be calculated as per section 35.19a of the Commission’s 
+regulations.  
+d. The sequence outlined in paragraphs B.1.a, B.1.b and B.1.c above 
+will be repeated each year. 
+2. Cash working capital for each AEP East Transmission Company will be 
+calculated as 1/8 of transmission-related O&M expense not including any 
+portion of A&G expense allocated to transmission.   
+3. AEP will provide as a part of its informational filing each May detail 
+regarding ADIT balances for the historical year that is no less detailed, 
+and selectively more detailed as described in this section, than what is 
+included in FERC Standard Filing Requirements for Period I Statement 
+AF (Accts. 281, 282, and 283) and Statement AG (Acct. 190).    In 
+addition, AEP’s information on ADIT will distinguish between utility and 
+non-utility ADIT in order to ensure compliance with Section I.D.2.c.i., 
+below. 
+4. AEP will be permitted to include in Rate Base in the formula rate such 
+portion of AEP’s FAS 87 cash investment in Pre-Paid Pension cost 
+recorded in FERC Account 165 as may be incurred for AEP System 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 4 
+employees providing service to the AEP Transmission Companies.  If 
+AEP elects to include such costs in Rate Base, it will use a labor expense 
+allocation factor to allocate the total company amount to the transmission 
+cost of service (“TCOS”).  
+C. Expenses 
+1. The formula rate shall allocate property tax expense based on the 
+methodology of Worksheet Sheet H using the as-filed methodology. 
+2. The formula rate shall reflect the applicable state and federal statutory tax 
+rates in effect during the period the calculated estimated unit charges are 
+applicable. If statutory tax rates change during such period, the effective 
+tax rates used in the formula shall be weighted by the number of days the 
+pre-change rate and the post-change rate each is in effect (e.g., if a 40% 
+rate is in effect nine months and a 32% rate is in effect 3 months, the 
+weighted rate for the 12-month period would be 38%, which reflects 40% 
+x 0.75 + 32% x 0.25 = 38%).  
+3. The formula shall include only expenses that are directly related to or 
+properly allocable to transmission service.  
+4. Expenses recorded in FERC Accounts 928 (Regulatory Commission 
+Expense), 930.1 (Safety Related Advertising) and 930.2 (Miscellaneous 
+General Expenses) that are not directly related to or properly allocable to 
+transmission service will be removed from the TCOS.  If AEP includes 
+any expenses booked to these accounts in future ATRR updates, AEP 
+must provide supporting information demonstrating that the underlying 
+activities are directly related to providing transmission service.  
+5. The AEP Transmission Companies will record depreciation expense using 
+composites of the depreciation rates attached as Appendix A.1.2, which 
+rates will not be changed absent an Order of the Commission approving 
+such change in a Section 205 or 206 filing at FERC to seek a change in 
+depreciation rates.   
+6. PBOP Expense  
+i. Post employment benefit expenses other than pensions (PBOP) 
+included in each update of the AEP Transmission Companies’ 
+formula rate will be fixed based on a rate reflecting the ratio of the 
+AEP System-wide PBOP expense divided by the AEP System-
+wide total employee direct labor expense (PBOP Rate).  The initial 
+PBOP Rate shall be $0.094 per dollar cost of each AEP 
+Transmission Company’s direct labor expense. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 5 
+ii. The calculation of PBOP expense includable in each Annual 
+Update of the formula rate shall be made pursuant to Worksheet O, 
+which is included in Attachment F to the Settlement Agreement, 
+and which will be included in the formula rate.  Using Worksheet 
+O, each AEP Transmission Company will, as part of each Annual 
+Update, compare the allowable PBOP expense, based on the PBOP 
+Rate, to its actual PBOP expense in the prior calendar year in order 
+to determine the adjustment required to increase or decrease the 
+actual PBOP expense to the allowable amount.  
+  
+iii. As part of the annual update process, AEP will provide to 
+transmission customers, and include in its informational filing, an 
+independently prepared actuarial report (“Annual Actuarial 
+Report”) that includes a ten (10) year forecast of PBOP expenses 
+when that report becomes available.  The Settling Parties anticipate 
+that the Annual Actuarial Report normally will be received by the 
+time the annual update is posted or otherwise provided to 
+customers each year.  
+ 
+iv.   During the annual update process conducted in 2014, and every 
+four years thereafter, Worksheet O will be used to determine 
+whether, and if so by what amount, the PBOP allowance rate 
+($PBOP per $ Direct O&M Labor) should be adjusted going 
+forward for the next four years (PBOP Rate Review).  If the 
+Annual Actuarial Report issued during the year of any PBOP Rate 
+Review projects PBOP costs during the next four years that, when 
+allocated to the AEP Transmission Companies based on their 
+projected direct labor expenses over that same projected four-year 
+period, absent a change in the PBOP Rate, will likely cause the 
+AEP East Transmission Companies to over or under collect their 
+cumulative PBOP expenses by more than 20% of the projected 
+next four year's total PBOP expense, taking into account the net 
+over or under collection of such expenses during the previous four 
+years, the PBOP Rate shall be adjusted.  In order to determine 
+whether continued use of the then approved PBOP Rate is likely to 
+result in the AEP Companies' incurrence of a cumulative 
+allowance of PBOP costs under the formula rate will result in a 
+cumulative over or under-recovery of actual PBOP expenses 
+exceeding 20% over the subsequent four year period, Worksheet O 
+will be used to determine the following PBOB expense metrics: 
+ 
+(a) the level of cumulative over or under collections of PBOP 
+expense during the time since the PBOP allowance rate was 
+last set, including carrying costs based on the weighted 
+average cost of capital ("WACC") each year from the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 6 
+Formula rate True-Up transmission cost-of-service 
+("TCOS") analyses; 
+(b)  the cumulative net present value ("CNPV") of projected 
+PBOP costs during the next four years, as estimated by the 
+then current Actuarial Report, assuming a discount rate 
+equal to the True-Up TCOS WACC for the immediately 
+prior calendar year ("Prior Year WACC"); and 
+(c)  the CNPV of continued collections over the next four years 
+based on the projected AEP Transmission Companies’ 
+direct labor expenses and the then effective PBOP 
+allowance rate, assuming a discount rate equal to the Prior 
+Year WACC. 
+ 
+If the absolute value of (a) + (b) - (c) exceeds 20% of (b), 
+then the PBOP allowance rate used in the formula rate 
+calculation shall be changed to the value that will cause the 
+projected result of  
+(a) + (b) - (c) to equal zero.  If the projected over or under 
+collection during the next four years, (a) + (b) - (c), is less 
+than 20% of (b), then the PBOP Rate will continue in effect 
+for the next four years at the then effective rate. 
+ 
+ v. If it is determined through the foregoing procedure that the AEP 
+Companies’ cumulative PBOP Rate will over-recover or under-
+recover actual PBOP expenses by more than 20% over the 
+subsequent four-year period, AEP shall make a filing under FPA § 
+205 to change the PBOP Rate stated in the formula rate.  No other 
+changes to the formula rate may be included in that filing.  Neither 
+AEP nor any Settling Party may raise in connection with such 
+filing any issue affecting the formula rate other than the level of 
+allowable PBOP Rate.  
+ 
+vi. The foregoing procedure for required updating of the formula 
+rate’s stated PBOP Rate shall not affect either: (i) AEP’s right to 
+make filings under FPA § 205 to address aspects of the formula 
+rate other than PBOP expense, or (ii) customers’ rights to make 
+filings under FPA § 206 to address aspects of the formula rate 
+other than the PBOP expense.   
+  
+7. Formation Costs 
+ 
+a. One half of the AEP Transmission Companies’ Formation costs 
+incurred before June 30, 2010 will be included in the formula rate, 
+with such amount to be allocated equally among the AEP 
+Transmission Companies and amortized over four years.  There 
+will be no carrying charges on the unamortized balance of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 7 
+recoverable Formation costs.  Formation costs incurred after June 
+30, 2010 shall not be included in the transmission formula rates of 
+the AEP Transmission Companies (or the AEP Operating 
+Companies) and shall not be otherwise recoverable in FERC-
+regulated rates.  For purposes of such rate exclusion, post-June 30, 
+2010 formation costs include, but are not limited to, all costs 
+associated with obtaining any necessary federal, state or local 
+approvals for formation/operation of the AEP Transmission 
+Companies, all costs associated with establishment of the AEP 
+Transmission Companies and the evaluation of how to accomplish 
+same, and any other category of cost that AEP treated as a 
+formation cost for purposes of its request to recover pre-June 30, 
+2010 formation costs.  In its Annual Update filings, AEP 
+Transmission Companies shall provide information sufficient to 
+permit verification that such formation costs have been excluded 
+from the formula rates.  AEP reserves the right to seek recovery of 
+post-June 30, 2010 formation costs associated with obtaining 
+necessary state or local approvals (regarding state-related costs) 
+from the applicable state regulatory commission. 
+ 
+D. Capital Structure, Cost of Capital and Return on Equity  
+1. Return on Equity 
+a. The Settlement shall establish on a non-precedential basis a base 
+return on common equity (“Base ROE”) used in the OATT 
+transmission formula rates applicable to the AEP East zone of 
+10.99%, plus a 50 basis point adder for continued RTO 
+participation (for a total of 11.49% ROE).  This ROE shall remain 
+in effect for a period of at least 36 months. 
+b. The Settlement shall not establish a lower or upper end of the zone 
+of reasonableness, but for a period of 36 months from the effective 
+date of the formula rate, AEP will limit any request for an 
+incentive ROE pursuant to Order No. 679 and Order No. 679-A to 
+not more than the total ROE plus 125 basis points, (i.e., 12.74% 
+total incentive ROE).  Such incentive ROE must be within the 
+then-applicable zone of reasonableness as determined in a Section 
+205 or 206 proceeding. Settling Parties reserve the right to protest 
+any request by AEP for incentive rates including any request for an 
+incentive ROE. 
+2. Capital Structure / Cost of Capital: 
+a. In the annual true-up calculations, AEP shall use the arithmetic 
+average of the beginning-of-year and end-of-year balances of long-
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 8 
+term debt, common and preferred equity, and shall use actual 
+calendar year long term debt interest expenses, preferred 
+dividends, and approved ROE. The long term debt balances and 
+long term debt cost rate shall not include any amounts related to 
+hedging activity. 
+b. AEP shall use the most recent available FF1 actual end-of-year 
+balances of outstanding long term debt (less the balance of any 
+hedges), preferred equity, and common equity, in the projected 
+ATRR used for billing purposes. The estimated cost rate for long 
+term debt for the Projected Rate Year shall reflect the prior 
+calendar year actual cost of long term debt (including periodic 
+expenses such as remarketing and letter of credit fees, and related 
+amortizations, as applicable, of issuance/reacquisition cost and 
+discount or premium amortizations) for debt outstanding during the 
+full year and the annualized cost of any issuances that occur after 
+January 1 of the prior calendar year for a full twelve months 
+coupon interest expense. However, any amortization of gains or 
+losses on interest rate derivative hedging shall be excluded from 
+long-term-debt cost annual and annualized expenses.  AEP will 
+reflect the calculation of its debt cost in Worksheets L and M.  
+c. AEP is not restricted from hedging at its discretion, and all interest 
+rate hedge gains and losses will be excluded from the formula rate 
+for both the Projected and True-Up rates.  
+ 
+d. AEP East Transmission Companies will establish LTD and Equity 
+investments in the AEP East Transmission Companies as soon as is 
+practicable (actual capital structure and long term debt costs and 
+preferred equity costs).  Until that time, the AEP East 
+Transmission Companies will use the actual consolidated 
+(weighted composite) capital structure and LTD cost rate of the 
+AEP Operating Companies in PJM {The AEP Operating 
+Companies in PJM are: Appalachian Power Company, Indiana 
+Michigan Power Company, Kentucky Power Company, Kingsport 
+Power Company, Ohio Power Company, and Wheeling Power 
+Company} subject to a 50% equity ratio cap, as further explained 
+below.  Appendix A-1.1 to this Attachment A-1 describes the 
+manner in which the weighted average composite capital structure 
+and cost of long term debt and preferred equity costs of the AEP 
+East Operating Companies in PJM shall be calculated. 
+e. In transitioning from the use of the proxy composite capital cost of 
+the East Operating Companies in PJM to an actual capital 
+structure, long term debt cost and preferred equity cost, a 
+transitioning East Transmission Company’s actual capital structure 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 9 
+and cost rates will be implemented for the Projected TCOS in the 
+first formula rate Annual Update after the issuance of long-term 
+debt or allocation of debt financing from an associated company 
+establishing the transitioning East Company’s actual capital 
+structure and cost of debt.  The True-Up TCOS in that Annual 
+Update will continue to be based on the East Operating 
+Companies’ composite capital structure and LTD cost, and 
+preferred equity costs.     
+f. The first long term debt in the actual capital structure of an AEP 
+Transmission Company is expected to be an allocation of proceeds 
+from a debt issuance of AEP Transmission Company LLC or AEP 
+Transmission Holding Company LLC (refer to page 7 of Exhibit 
+AEP 100 for the AEPTCo Corporate Structure).  The AEP 
+Transmission Companies {The AEP Transmission Companies 
+include the AEP East Transmission Companies and AEP 
+Southwestern Transmission Company Inc., and AEP Oklahoma 
+Transmission Co., Inc.} would draw debt financing from this 
+issuance, as well as equity infusions from AEP Transmission 
+Company LLC or AEP Transmission Holding Company LLC, 
+based on their individual expenditure levels to establish their actual 
+capital structure.  The interest rate of this debt financing, along 
+with any associated issuance costs incurred (not to include any 
+costs related to any hedging activities), would define the initial 
+cost of debt for the affected AEP Transmission Companies. This 
+initial debt financing and all subsequent allocations of associated 
+company (AEP Transmission Company LLC or AEP Transmission 
+Holding Company LLC or a higher affiliate in AEP, Inc.) long 
+term debt shall be recorded in Account 430 Advances from 
+Associated Companies in the FERC Form No. 1 reports of the 
+affected AEP Transmission Companies.  However, long term debt 
+issuances and equity of the AEP Operating Companies shall not be 
+used to finance debt or equity in the actual capital structure of the 
+AEP Transmission Companies. The debt cost rate of long term 
+debt issuances allocated from associated companies to the AEP 
+Transmission Companies shall be at cost. 
+g. In the event there is a construction draw down loan, the Companies 
+will adopt the yield to maturity (YTM) approach filed in the PATH 
+Settlement Agreement Docket No. ER08-386-000 in determining 
+the cost of debt for such draw down loan[s], and illustrated in 
+Attachment A.1.3. There is an annual and final (at end of loan) 
+true-up of YTM, consistent with actual debt cost experience. 
+Workpapers showing the calculation of the yield to maturity cost 
+and true-up shall be included in the Annual Update(s) in which 
+such charges are proposed to be included in the Projected rate. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 10 
+h. When an individual East Transmission Company has an actual 
+capital structure, which is first achieved when the Transmission 
+Company issues its own first long term debt issuance in its own 
+name, or the individual Transmission Company has debt financing 
+specifically allocated from an issuance by AEP Transmission 
+Company LLC or AEP Transmission Holding Company LLC or a 
+higher AEP corporate entity as described in (f) above, the actual 
+long term debt cost and capital structure of that individual East 
+Transmission Company shall be used in the Projected and True Up 
+formula rates for that individual company, subject to a 50% Equity 
+Ratio cap described below and subject to transition year treatment 
+as described in (e) of this section.  The True-up and Projected 
+ATRR of the remaining East Transmission Companies which have 
+not yet issued their own long term debt, or received a specific 
+allocation of debt financing by an associated company for the 
+purpose of rate making, shall continue to be based on the 
+consolidated (composite) actual weighted average capital structure, 
+long term debt cost, and preferred equity cost of all the East 
+Operating Companies in PJM (including the costs of the operating 
+company geographically associated with the individual 
+transmission company which has established an actual capital 
+structure and long-term debt cost). 
+i. In applying the formula rate, the balance amounts of common 
+equity, used in determining the weighted average cost of capital to 
+be used for the AEP East Transmission Companies, shall not 
+exceed 50% percent of the total projected and true-up 
+capitalization (“Equity Cap”), regardless of the actual amounts of 
+common equity capital outstanding.  The Equity Cap applies to 
+both the implementation of the consolidated East Operating 
+Company’s actual capital structure and to the implementation of an 
+individual East Transmission Company actual capital structure.  
+The Equity Cap can be removed or adjusted only after June 30, 
+2013 and only through a filing under section 205 or 206 of the 
+Federal Power Act. When applied to the consolidated East 
+Operating Companies’ actual capital structure, the individual 
+Operating Company equity caps pursuant to the East Operating 
+Companies’ settlement in Docket ER08-1329 shall be applied first 
+before the 50% Equity Cap pursuant to the instant settlement is 
+applied to the weighted composite East Operating Companies’ 
+capital structure.  The composite weighted average long term debt 
+cost rate of the East Operating Companies, exclusive of hedging 
+costs and Indiana-Michigan Operating Company’s spent nuclear 
+fuel disposal funding costs, shall apply. 
+j. If the percentage of common equity in the East Operating 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 11 
+Companies’ composite (consolidated) capitalization or any AEP 
+East Transmission Company’s actual capitalization exceeds the 
+applicable Equity Cap, the amount of common equity exceeding 
+the Equity Cap shall be assigned the same cost rate as long-term 
+debt in the formula rate cost of capital calculations. 
+E. Revenue Credits-- The following principles shall be stated in the formula rate: 
+1. If the AEP East Transmission Companies have any directly assigned 
+transmission facilities, the revenue credits in the AEP East formula rate 
+shall include all revenues associated with those directly assigned 
+transmission facilities, irrespective of whether the loads of the customer 
+are included in the formula rate divisor; provided, however, such addition 
+to revenue credits shall not be reflected if the costs of such directly 
+assigned transmission facilities are not included in the transmission plant 
+balances on which the formula rate ATRR is based.   
+2. All transmission services revenues not credited to customers in monthly 
+PJM billings shall be included in the formula rate calculation as reductions 
+to the ATRR.  Such amounts shall include transmission revenues received 
+from PJM or other PJM Transmission Owners where the associated loads 
+are not in the AEP Zone divisor, unless the revenues are attributable to 
+AEP’s base transmission rate charges for Network Integration 
+Transmission Service (“Network Service”) or long-term firm Point-to-
+Point Transmission Service.  
+F. Allocators. 
+1. The allocations of Administrative & General (A&G) expenses identified 
+by three-digit FERC account in the Formula Rate Template and 
+Worksheet F, Supporting Allocation of Specific O&M or A&G Expenses, 
+may not be changed except through a filing under FPA § 205 or 206. If 
+AEP wishes to reflect new O&M or A&G expenses or accounts in future 
+updates, it must include in such § 205 filing: (i) a specification of the basis 
+on which it proposes to allocate a portion of such costs as is properly 
+assignable to wholesale transmission service, and (ii) documentation 
+sufficient to demonstrate the reasonableness of its proposed allocation 
+factor consistent with applicable Commission precedent.  
+2. No Account 565 costs other than inter-company charges that net out (such 
+as lease arrangements and transmission equalization payments/receipts 
+between AEP companies) will be included in the TCOS, unless first 
+approved by FERC following a separate FPA §  205 filing by AEP. 
+3. AEP will include in the Annual Update to the formula rate, notification of 
+any change in the use of established allocation factors (change from one 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 12 
+factor to another established allocation factor for a cost applicable to AEP 
+Transmission Companies). Any new allocation factor (not previously 
+approved by the Securities and Exchange Commission or the FERC) will 
+be filed with the FERC for approval in a Section 205 proceeding before 
+being implemented, and AEP will provide notification in the Annual 
+Update of the implementation of a newly created allocation factor that 
+may affect costs allocated to the AEP Transmission Companies.  In 
+addition, AEP shall include notification in the Annual Updates of the 
+establishment of any new regulated and un-regulated income-producing 
+affiliates or operating divisions with new income-producing operations.  
+II. Application of Interest Rate Calculation in True-Up  
+AEP shall include an interest rate worksheet as Attachment C to the Settlement 
+Agreement specifying its procedure for applying interest to true-up over or under recoveries.  
+III. Formula Implementation Protocols 
+The Formula Rate Implementation Protocols shall be adopted as set forth in Attachment A-2. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 13 
+ Appendix A-1.1  
+AEP East Consolidated Utility Capital Structure 
+Consolidation of Operating Companies' Capital Structure @ 12-31-2009 
+Worksheet Q Page 1 
+Line  
+Appalachian 
+Power 
+Company 
+Indiana 
+Michigan 
+Power 
+Company 
+Kentucky 
+Power 
+Company 
+Kingsport 
+Power 
+Company 
+Ohio Power 
+Company 
+Wheeling 
+Power 
+Company 
+AEP East 
+Operating 
+Companies' 
+Consolidated 
+Capital Structure 
+Development of Long Term Debt Balances 
+at Year End        
+1 Bonds (112.18.c&d)                        -                          -                          -                        -                      -                      -                               -    
+2 Less: Reacquired Bonds (112.19.c&d) 
+          
+17,500,000                        -                          -                        -       303,000,000                    -    
+            
+320,500,000  
+3 
+LT Advances from Assoc. Companies  
+(112.20.c&d) 
+        
+100,000,000  
+         
+25,000,000          20,000,000  
+       
+20,000,000     200,000,000  
+     
+25,000,000  
+            
+490,000,000  
+4 
+Senior Unsecured Notes (112.21.c&d) 
+Excludes Spent Nuc Fuel Disp Fund 
+     
+3,419,099,201  
+    
+1,692,000,000  
+       
+530,000,000                      -     3,351,580,000                    -    
+        
+10,435,424,201  
+5 
+Less: Fair Value Hedges (See Note on 
+Ln 7 below)                        -                          -                          -                        -                      -                      -                               -    
+6 Total Long Term Debt Balance 
+     
+3,501,599,201  
+    
+1,717,000,000  
+       
+550,000,000  
+       
+20,000,000   3,248,580,000  
+     
+25,000,000  
+        
+10,604,924,201  
+7 
+ 
+NOTE:  The balance of fair value hedges on outstanding long term debt are to be excluded from the balance of long term debt included in the formula's capital structure. (page 257, Column H of 
+the FF1) 
+Development of Long Term Debt Interest 
+Expense        
+8 
+Interest on Long Term Debt (256-
+257.33.i)         201,508,637  
+       
+100,346,371          30,323,070  
+         
+1,075,000     129,578,994         1,312,500  
+            
+547,990,827  
+9 
+Amort of Debt Discount & Expense 
+(117.63.c)             3,232,592            3,157,632               457,098                      -           3,354,846                    -    
+              
+12,043,656  
+10 
+Amort of Loss on Reacquired Debt 
+(117.64.c)               991,540            1,596,824                 33,649                      -              626,793                    -    
+                
+3,992,302  
+11 
+Less: Amort of Premium on Debt 
+(117.65.c)                        -                          -                          -                        -                      -                      -    
+                           
+-    
+12 
+Less: Amort of Gain on Reacquired 
+Debt (117.66.c)                        -                     1,712                        -                        -                      -                      -    
+                      
+1,712  
+13 Less: Hedge Interest on pp 256-257(i)             2,569,395            1,551,518                 92,956                      -          (7,185,191)                   -    
+               
+(2,971,322) 
+14 LTD Interest Expense         203,163,374  
+       
+103,547,597          30,720,861  
+         
+1,075,000     140,745,824         1,312,500  
+            
+566,996,395  
+Development of Cost of Preferred Stock and Preferred Dividends 
+ 
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 14 
+15 Dividend Rate (p. 250-251. 7.a) 4.50% 4.125%     4.08%    
+16 Par Value (p. 250-251. 8.c)  $             100.00   $            100.00       $         100.00     
+17 Shares Outstanding (p.250-251. 8.e)               177,518                 55,301                  14,595     
+18 Monetary Value (Ln 16 * Ln 17)           17,751,800            5,530,100                        -                        -           1,459,500                    -    
+              
+24,741,400  
+19 Dividend Amount (Ln 15 * Ln 18)               798,831               228,117                        -                        -                59,548                    -    
+                
+1,086,495  
+20 Dividend Rate (p. 250-251. 7.a)   4.12%     4.20%    
+21 Par Value (p. 250-251. 8.c)    $            100.00       $         100.00     
+22 Shares Outstanding (p.250-251. 8.e)                  11,055                  22,824     
+23 Monetary Value (Ln 21 * Ln 22)                        -              1,105,500                        -                        -           2,282,400                    -    
+                
+3,387,900  
+24 Dividend Amount (Ln 20 * Ln 23)                        -                   45,547                        -                        -                95,861                    -    
+                   
+141,407  
+25 Dividend Rate (p. 250-251. 7.a)   4.56%     4.40%    
+26 Par Value (p. 250-251. 8.c)    $            100.00       $         100.00     
+27 Shares Outstanding (p.250-251. 8.e)                  14,412                  31,482     
+28 Monetary Value (Ln 26 * Ln 27)                        -              1,441,200                        -                        -           3,148,200                    -    
+                
+4,589,400  
+29 Dividend Amount (Ln 25 * Ln 28)                        -                   65,719                        -                        -              138,521                    -    
+                   
+204,240  
+30 Dividend Rate (p. 250-251. 7.a)         4.50%    
+31 Par Value (p. 250-251. 8.c)          $         100.00     
+32 Shares Outstanding (p.250-251. 8.e)                     97,363     
+33 Monetary Value (Ln 31 * Ln 32)                        -                          -                          -                        -           9,736,300                    -    
+                
+9,736,300  
+34 Dividend Amount (Ln 30 * Ln 33)                        -                          -                          -                        -              438,134                    -    
+                   
+438,134  
+35 Preferred Stock (Lns 18, 23, 28,33)           17,751,800            8,076,800                        -                        -         16,626,400                    -    
+              
+42,455,000  
+36 
+Preferred Dividends (Lns 19, 24, 
+29,34)               798,831               339,382                        -                        -              732,063                    -    
+                
+1,870,276  
+Development of Common Equity        
+37 Proprietary Capital (112.16.c)      2,789,329,067  
+    
+1,680,859,984  
+       
+431,783,697  
+       
+21,335,470   3,251,321,953       43,904,852  
+          
+9,578,370,175  
+38 Less: Preferred Stock (Ln 35 Above) 
+           
+ 
+17,751,800            8,076,800                        -                        -         16,626,400                    -    
+              
+42,455,000  
+39 Less: Account 216.1 (112.12.c)             2,593,528  
+            
+(581,331)                       -                        -                      -                      -    
+                
+4,076,997  
+40 Less: Account 219.1 (112.15.c)          (50,254,363)                                     (118,458,118)      (1,749,500)            
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
+Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 15 
+(21,700,504) (600,942) 5,560  (242,751,398) 
+41 Balance of Common Equity      2,819,238,102  
+    
+1,695,065,019  
+       
+432,384,639  
+       
+21,329,910   3,353,153,671       45,654,352  
+          
+9,774,589,576  
+Calculation of Capital Shares        
+42 Long Term Debt (Ln 6 Above)      3,501,599,201  
+    
+1,717,000,000  
+       
+550,000,000  
+       
+20,000,000   3,248,580,000       25,000,000  
+        
+10,604,924,201  
+43 Preferred Stock (Ln 35 Above)           17,751,800            8,076,800                        -                        -         16,626,400                    -    
+              
+42,455,000  
+44 Common Equity (Ln 41 Above)      2,819,238,102  
+    
+1,695,065,019  
+       
+432,384,639  
+       
+21,329,910   3,353,153,671       45,654,352  
+          

@@ -1,0 +1,371 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 1 
+Definitions S – T 
+ 
+ 
+Sector Votes: 
+ 
+“Sector Votes” shall mean the affirmative and negative votes of each sector of a Senior Standing 
+Committee, as specified in Operating Agreement, section 8.4. 
+ 
+Securities: 
+ 
+“Securities” shall mean negotiable or non-negotiable investment or financing instruments that can 
+be sold and bought.  Securities include bonds, stocks, debentures, notes and options. 
+ 
+Segment:  
+“Segment” shall have the same meaning as described in Operating Agreement, Schedule 1, section 
+3.2.3(e)and the parallel provisions of Tariff, Attachment K-Appendix, section 3.2.3(e). 
+ 
+Senior Standing Committees: 
+ 
+“Senior Standing Committees” shall mean the Members Committee, and the Markets and 
+Reliability Committee, as established in Operating Agreement, section 8.1 and Operating 
+Agreement, section 8.6.  
+ 
+SERC: 
+ 
+“SERC” or “Southeastern Electric Reliability Council” shall mean the reliability council under 
+section 202 of the Federal Power Act established pursuant to the SERC Agreement dated January 
+14, 1970, or any successor thereto. 
+ 
+Short-term Project: 
+ 
+“Short-term Project” shall mean a transmission enhancement or expansion with an in-service date 
+of more than three years but no more than five years from the year in which, pursuant to Operating 
+Agreement, Schedule 6, section 1.5.8(c), the Office of the Interconnection posts the violations, 
+system conditions, or Public Policy Requirements to be addressed by the enhancement or 
+expansion.  
+ 
+Special Member: 
+ 
+“Special Member” shall mean an entity that satisfies the requirements of  Operating Agreement, 
+Schedule 1, section 1.5A.02, and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 1.5A.02, or the special membership provisions established under the Emergency Load 
+Response and Pre-Emergency Load Response Programs. 
+ 
+Spot Market Backup: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 2 
+“Spot Market Backup” shall mean the purchase of energy from, or the delivery of energy to, the 
+PJM Interchange Energy Market in quantities sufficient to complete the delivery or receipt 
+obligations of a bilateral contract that has been curtailed or interrupted for any reason. 
+ 
+Spot Market Energy: 
+ 
+“Spot Market Energy” shall mean energy bought or sold by Market Participants through the PJM 
+Interchange Energy Market at System Energy Prices determined as specified in Operating 
+Agreement, Schedule 1, section 2, and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 2. 
+ 
+Standing Committees: 
+ 
+“Standing Committees” shall mean the Members Committee, the committees established and 
+maintained under Operating Agreement, section 8.6, and such other committees as the Members 
+Committee may establish and maintain from time to time. 
+ 
+Start Fuel: 
+ 
+For units without a soak process, “Start Fuel” shall consist of fuel consumed from first fire of the 
+start process to first breaker closing, plus any fuel expended from last breaker opening to 
+shutdown. 
+ 
+For units with a soak process, “Start Fuel” is fuel consumed from first fire of the start process 
+(initial reactor criticality for nuclear units) to dispatchable output (including auxiliary boiler 
+fuel), plus any fuel expended from last breaker opening to shutdown, excluding normal plant 
+heating/auxiliary equipment fuel requirements.  Start Fuel included for each temperature state 
+from breaker closure to dispatchable output shall not exceed the unit specific soak time period 
+reviewed and approved as part of the unit-specific parameter process detailed in Tariff, 
+Attachment K-Appendix, section 6.6(c) or the defaults below: 
+• Cold Soak Time = 0.73 * unit specific Minimum Run Time (in hours) 
+• Intermediate Soak Time = 0.61 * unit specific Minimum Run Time (in hours) 
+• Hot Soak Time = 0.43 * unit specific Minimum Run Time (in hours)   
+ 
+ 
+Start-Up Costs: 
+ 
+“Start-Up Costs” shall consist primarily of the cost of fuel, as determined by the unit’s start heat 
+input (adjusted by the performance factor) times the fuel cost.  It also includes operating costs, 
+Maintenance Adders, emissions allowances/adders, and station service cost.  Start-Up Costs can 
+vary with the unit offline time being categorized in three unit temperature conditions: hot, 
+intermediate and cold. 
+ 
+For units with a steam turbine and a soak process (nuclear, steam, and combined cycle), “Start 
+Fuel” is fuel consumed from first fire of start process (initial reactor criticality for nuclear units): 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 3 
+Start-Up Costs shall mean the net unit costs from PJM’s notification to the level at which the unit 
+can follow PJM’s dispatch, and from last breaker open to shutdown. 
+ 
+For units without a steam turbine and no soak process (engines, combustion turbines, 
+Intermittent Resources, and Energy Storage Resources): Start-Up Costs shall mean the unit costs 
+from PJM’s notification to first breaker close and from last breaker open to shutdown. 
+State: 
+ 
+“State” shall mean the District of Columbia and any State or Commonwealth of the United States. 
+ 
+State Certification: 
+ 
+“State Certification” shall mean the Certification of an Authorized Commission, pursuant to 
+Operating Agreement, section 18, the form of which is appended to the Operating Agreement as 
+Operating Agreement, Schedule 10A, wherein the Authorized Commission identifies all 
+Authorized Persons employed or retained by such Authorized Commission, a copy of which shall 
+be filed with FERC. 
+ 
+State Consumer Advocate: 
+ 
+“State Consumer Advocate” shall mean a legislatively created office from any State, all or any 
+part of the territory of which is within the PJM Region, and the District of Columbia established, 
+inter alia, for the purpose of representing the interests of energy consumers before the utility 
+regulatory commissions of such states and the District of Columbia and the FERC. 
+ 
+State Estimator: 
+ 
+“State Estimator” shall mean the computer model of power flows specified in Operating 
+Agreement, Schedule 1, section 1.11A, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.11A. 
+ 
+State of Charge: 
+ 
+“State of Charge” shall mean the quantity of physical energy stored in an Energy Storage 
+Resource Model Participant or in a storage component of a Hybrid Resource in proportion to its 
+maximum State of Charge capability. State of Charge is quantified as defined in the PJM 
+Manuals. 
+ 
+State of Charge Management: 
+ 
+“State of Charge Management” shall mean the control of State of Charge of an Energy Storage 
+Resource Market Participant or a storage component of a Hybrid Resource using minimum and 
+maximum discharge (and, as applicable, charge) limits, changes in operating mode (as 
+applicable), discharging (and, as applicable, charging) offer curves, and self-scheduling of non-
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 4 
+dispatchable sales (and, as applicable, purchases) of energy in the PJM markets.  State of Charge 
+Management shall not interfere with the obligation of a Market Seller of an Energy Storage 
+Resource Model Participant or of a Hybrid Resource to follow PJM dispatch, consistent with all 
+other resources. 
+ 
+Station Power: 
+ 
+“Station Power” shall mean energy used for operating the electric equipment on the site of a 
+generation facility located in the PJM Region or for the heating, lighting, air-conditioning and 
+office equipment needs of buildings on the site of such a generation facility that are used in the 
+operation, maintenance, or repair of the facility.  Station Power does not include any energy (i) 
+used to power synchronous condensers; (ii) used for pumping at a pumped storage facility; (iii) 
+used in association with restoration or black start service; or (iv) that is Direct Charging Energy. 
+  
+Sub-meter: 
+ 
+“Sub-meter” shall mean a metering point for electricity consumption that does not include all 
+electricity consumption for the end-use customer as defined by the electric distribution company 
+account number.  PJM shall only accept sub-meter load data from end-use customers for 
+measurement and verification of Regulation service as set forth in the Economic Load Response 
+rules and PJM Manuals. 
+ 
+Subregional RTEP Project: 
+ 
+“Subregional RTEP Project” shall mean a transmission expansion or enhancement rated below 
+230 kV which is required for compliance with the following PJM criteria:  system reliability, 
+operational performance or economic criteria, pursuant to a determination by the Office of the 
+Interconnection. 
+ 
+Supplemental Project: 
+ 
+“Supplemental Project” shall mean a transmission expansion or enhancement that is not required 
+for compliance with the following PJM criteria:  system reliability, operational performance or 
+economic criteria, pursuant to a determination by the Office of the Interconnection and is not a 
+state public policy project pursuant to Operating Agreement, Schedule 6, section 1.5.9(a)(ii).  Any 
+system upgrades required to maintain the reliability of the system that are driven by a Supplemental 
+Project are considered part of that Supplemental Project and are the responsibility of the entity 
+sponsoring that Supplemental Project. 
+ 
+Synchronized Reserve: 
+ 
+“Synchronized Reserve” shall mean the reserve capability of generation resources that can be 
+converted fully into energy or Economic Load Response Participant resources whose demand 
+can be reduced within ten minutes from the request of the Office of the Interconnection 
+dispatcher, and is provided by equipment that is electrically synchronized to the Transmission 
+System. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 5 
+ 
+Synchronized Reserve Event: 
+ 
+“Synchronized Reserve Event” shall mean a request from the Office of the Interconnection to 
+generation resources and/or Economic Load Response Participant resources able, assigned or 
+self-scheduled to provide Synchronized Reserve in one or more specified Reserve Zones or 
+Reserve Sub-zones, within ten minutes, to increase the energy output or reduce load by a 
+directed amount of the assigned or self-scheduled Synchronized Reserve. 
+ 
+Synchronized Reserve Requirement: 
+ 
+“Synchronized Reserve Requirement” shall mean the megawatts required to be maintained in a 
+Reserve Zone or Reserve Sub-zone as Synchronized Reserve, absent any increase to account for 
+additional reserves scheduled to address operational uncertainty.  The Synchronized Reserve 
+Requirement is calculated in accordance with the PJM Manuals.  This requirement can only be 
+satisfied by Synchronized Reserve resources. 
+ 
+System: 
+ 
+“System” shall mean the interconnected electric supply system of a Member and its interconnected 
+subsidiaries exclusive of facilities which it may own or control outside of the PJM Region.  Each 
+Member may include in its system the electric supply systems of any party or parties other than 
+Members which are within the PJM Region, provided its interconnection agreements with such 
+other party or parties do not conflict with such inclusion. 
+ 
+System Energy Price: 
+ 
+“System Energy Price” shall mean the energy component of the Locational Marginal Price, 
+which is the price at which the Market Seller has offered to supply an additional increment of 
+energy from a resource, calculated as specified in Operating Agreement, Schedule 1, section 2, 
+and the parallel provisions of Tariff, Attachment K-Appendix, section 2. 
+ 
+Target Allocation: 
+ 
+“Target Allocation” shall mean the allocation of Transmission Congestion Credits as set forth in 
+Operating Agreement, Schedule 1, section 5.2.3, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 5.2.3 or the allocation of Auction Revenue Rights Credits as set 
+forth in Operating Agreement, Schedule 1, section 7.4.3, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 7.4.3. 
+ 
+Third Party Request: 
+ 
+“Third Party Request” shall mean any request or demand by any entity upon an Authorized Person 
+or an Authorized Commission for release or disclosure of confidential information provided to the 
+Authorized Person or Authorized Commission by the Office of the Interconnection or the Market 
+Monitoring Unit.  A Third Party Request shall include, but shall not be limited to, any subpoena, 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 6 
+discovery request, or other request for confidential information made by any: (i) federal, state, or 
+local governmental subdivision, department, official, agency or court, or (ii) arbitration panel, 
+business, company, entity or individual. 
+ 
+Tie Line: 
+ 
+“Tie Line” shall have the same meaning provided in the Open Access Transmission Tariff. 
+ 
+Total Lost Opportunity Cost Offer:   
+ 
+“Total Lost Opportunity Cost Offer” shall mean the applicable offer used to calculate lost 
+opportunity cost credits.  For pool-scheduled resources specified in PJM Operating Agreement, 
+Schedule 1, section 3.2.3(f-1) and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 3.2.3(f-1), the Total Lost Opportunity Cost Offer shall equal the Real-time Settlement 
+Interval offer integrated under the applicable offer curve for the LOC Deviation, as determined 
+by the greater of the Committed Offer or last Real-Time Offer submitted for the offer on which 
+the resource was committed in the Day-ahead Energy Market for each hour in an Operating 
+Day.  For all other pool-scheduled resources, the Total Lost Opportunity Cost Offer shall equal 
+the Real-time Settlement Interval offer integrated under the applicable offer curve for the LOC 
+Deviation, as determined by the offer curve associated with the greater of the Committed Offer 
+or Final Offer for each hour in an Operating Day.   For self-scheduled generation resources, the 
+Total Lost Opportunity Cost Offer shall equal the Real-time Settlement Interval offer integrated 
+under the applicable offer curve for the LOC Deviation,  where for self-scheduled generation 
+resources (a) operating pursuant to a cost-based offer, the applicable offer curve shall be the 
+greater of the originally submitted cost-based offer or the cost-based offer that the resource was 
+dispatched on in real-time; or (b) operating pursuant to a market-based offer, the applicable offer 
+curve shall be determined in accordance with the following process: (1) select the greater of the 
+cost-based day-ahead offer and updated costbased Real-time Offer; (2) for resources with 
+multiple cost-based offers, first, for each cost-based offer select the greater of the day-ahead 
+offer and updated Real-time Offer, and then select the lesser of the resulting cost-based offers; 
+and (3) compare the offer selected in (1), or for resources with multiple cost-based offers the 
+offer selected in (2), with the market-based day-ahead offer and the market-based Real-time 
+Offer and select the highest offer. 
+ 
+Tracking Ramp Limited Desired 
+ 
+“Tracking Ramp Limited Desired” shall mean the desired MW or MWh calculated pursuant to 
+Tariff, Attachment K-Appendix, section 3.2.3(e-1) and parallel provisions in Operating 
+Agreement, Schedule 1, section 3.2.3(e-1). 
+ 
+Transmission Congestion Charge: 
+ 
+“Transmission Congestion Charge” shall mean a charge attributable to the increased cost of 
+energy delivered at a given load bus when the transmission system serving that load bus is 
+operating under constrained conditions, or as necessary to provide energy for third-party 
+transmission losses, which shall be calculated and allocated as specified in Operating Agreement, 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 7 
+Schedule 1, section 5.1, and the parallel provisions of Tariff, Attachment K-Appendix, section 
+5.1. 
+ 
+Transmission Congestion Credit: 
+ 
+“Transmission Congestion Credit” shall mean the allocated share of total Transmission 
+Congestion Charges credited to each FTR Holder, calculated and allocated as specified in 
+Operating Agreement, Schedule 1, section 5.2 and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 5.2. 
+ 
+Transmission Customer: 
+ 
+“Transmission Customer” shall have the meaning set forth in the PJM Tariff. 
+ 
+Transmission Facilities: 
+ 
+“Transmission Facilities” shall mean facilities that:  (i) are within the PJM Region; (ii) meet the 
+definition of transmission facilities pursuant to FERC’s Uniform System of Accounts or have been 
+classified as transmission facilities in a ruling by FERC addressing such facilities; and (iii) have 
+been demonstrated to the satisfaction of the Office of the Interconnection to be integrated with the 
+PJM Region transmission system and integrated into the planning and operation of the PJM Region 
+to serve all of the power and transmission customers within the PJM Region. 
+ 
+Transmission Forced Outage: 
+ 
+“Transmission Forced Outage” shall mean an immediate removal from service of a transmission 
+facility by reason of an Emergency or threatened Emergency, unanticipated failure, or other 
+cause beyond the control of the owner or operator of the transmission facility, as specified in the 
+relevant portions of the PJM Manuals.  A removal from service of a transmission facility at the 
+request of the Office of the Interconnection to improve transmission capability shall not 
+constitute a Forced Transmission Outage. 
+ 
+Transmission Loading Relief: 
+ 
+“Transmission Loading Relief” shall mean NERC’s procedures for preventing operating security 
+limit violations, as implemented by PJM as the security coordinator responsible for maintaining 
+transmission security for the PJM Region. 
+ 
+Transmission Loss Charge: 
+ 
+“Transmission Loss Charge” shall mean the charges to each Market Participant, Network 
+Customer, or Transmission Customer for the cost of energy lost in the transmission of electricity 
+from a generation resource to load as specified in Operating Agreement, Schedule 1, section 5, 
+and the parallel provisions of Tariff, Attachment K-Appendix, section 5. 
+ 
+Transmission Operator: 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions S – T 
+Effective Date: 2/21/2026 - Docket #: ER26-852-000 - Page 8 
+ 
+“Transmission Operator” shall have the same meaning set forth in the NERC Glossary of Terms 
+used in NERC Reliability Standards. 
+ 
+Transmission Owner: 
+ 
+“Transmission Owner” shall mean a Member that owns or leases with rights equivalent to 
+ownership Transmission Facilities and is a signatory to the PJM Transmission Owners Agreement.  
+Taking transmission service shall not be sufficient to qualify a Member as a Transmission Owner. 
+ 
+Transmission Owner Upgrade: 
+ 
+“Transmission Owner Upgrade” shall mean an upgrade to a Transmission Owner’s own 
+transmission facilities, which is an improvement to, addition to, or replacement of a part of, an 
+existing facility and is not an entirely new transmission facility. 
+ 
+Transmission Planned Outage: 
+ 
+“Transmission Planned Outage” shall mean any transmission outage scheduled in advance for a 
+pre-determined duration and which meets the notification requirements for such outages 
+specified in Operating Agreement, Schedule 1, and the parallel provisions of Tariff, Attachment 
+K-Appendix, or the PJM Manuals. 
+ 
+Turn Down Ratio: 
+ 
+“Turn Down Ratio” shall mean the ratio of a generating unit’s economic maximum megawatts to 
+its economic minimum megawatts. 
+ 
+

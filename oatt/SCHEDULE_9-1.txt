@@ -1,0 +1,48 @@
+SCHEDULE 9-1 
+Control Area Administration Service 
+ 
+a) Control Area Administration Service comprises all of the activities of PJM associated 
+with preserving the reliability of the PJM Region and administering Point-to-Point Transmission 
+Service and Network Integration Transmission Service.  PJM provides Control Area 
+Administration Service to customers using Point-to-Point or Network Integration Transmission 
+Service under this Tariff. 
+ 
+b) PJM will charge each user of Control Area Administration Service each month a charge 
+equal to the Monthly Control Area Administration Service Rate defined below times the total 
+quantity in MWhs of energy delivered (including losses, but excluding Direct Charging Energy) 
+during such month by such user as a transmission customer under this Tariff for Point-to-Point 
+Transmission Service or Network Integration Transmission Service. 
+ 
+c) The Monthly Control Area Administration Service Rate (“MCAASR”) shall be 
+calculated each month in accordance with the formula: 
+ 
+MCAASR = [CAASME] 
+PJMTHTU 
+ 
+where: 
+ 
+MCAASR is the Monthly Control Area Administration Service Rate 
+ 
+CAASME, Control Area Administration Service monthly expenses, is the Actual Costs 
+assigned to the Control Area Administration Service, calculated as the sum of A.1 plus 
+A.2 plus A.3 for the month for which MCAASR is being calculated, where: 
+ 
+“A.1” equals the product of 33.5% times the Actual Costs for all Divisions in the 
+month for which MCAASR is being calculated. 
+ 
+“A.2” equals an allocation to the Control Area Administration Service of PJM’s 
+Actual Costs for Management Service Cost during the month for which 
+MCAASR is being calculated, based on the formula in Schedule 9-5.  
+ 
+“A.3” equals PJM’s Actual Costs for Non-Divisional Costs that are assigned to 
+Control Area Administration Service for the month for which MCAASR is being 
+calculated. 
+ 
+PJMTHTU, PJM total hourly transmission usage, is the actual total quantity in MWhs of 
+energy delivered under Point-to-Point and Network Integration Transmission Service by 
+all customers during the month for which MCAASR is being calculated. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-2 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 1 

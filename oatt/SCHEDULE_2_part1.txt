@@ -1,0 +1,1101 @@
+[SCHEDULE 2 - Part 1 of 7]
+
+Schedule 2.  
+ 
+4.6.2 Primary Frequency Response:  
+Generation Project Developer shall ensure the primary frequency response capability of its 
+Generating Facility by installing, maintaining, and operating a functioning governor or 
+equivalent controls.  The term “functioning governor or equivalent controls” as used herein shall 
+mean the required hardware and/or software that provides frequency responsive real power 
+control with the ability to sense changes in system frequency and autonomously adjust the 
+Generating Facility’s real power output in accordance with the droop and deadband parameters 
+and in the direction needed to correct frequency deviations.  Generation Project Developer is 
+required to install a governor or equivalent controls with the capability of operating: (1) with a 
+maximum 5 percent droop and ±0.036 Hz deadband; or (2) in accordance with the relevant 
+droop, deadband, and timely and sustained response settings from an approved NERC Reliability 
+Standard providing for equivalent or more stringent parameters.  The droop characteristic shall 
+be: (1) based on the nameplate capacity of the Generating Facility, and shall be linear in the 
+range of frequencies between 59 to 61 Hz that are outside of the deadband parameter; or (2) 
+based an approved NERC Reliability Standard providing for an equivalent or more stringent 
+parameter.  The deadband parameter shall be: the range of frequencies above and below nominal 
+(60 Hz) in which the governor or equivalent controls is not expected to adjust the Generating 
+Facility’s real power output in response to frequency deviations.  The deadband shall be 
+implemented: (1) without a step to the droop curve, that is, once the frequency deviation exceeds 
+the deadband parameter, the expected change in the Generating Facility’s real power output in 
+response to frequency deviations shall start from zero and then increase (for under-frequency 
+deviations) or decrease (for over-frequency deviations) linearly in proportion to the magnitude of 
+the frequency deviation; or (2) in accordance with an approved NERC Reliability Standard 
+providing for an equivalent or more stringent parameter.  Generation Project Developer shall 
+notify Transmission Provider that the primary frequency response capability of the Generating 
+Facility has been tested and confirmed during commissioning.  Once Generation Project 
+Developer has synchronized the Generating Facility with the Transmission System, Generation 
+Project Developer shall operate the Generating Facility consistent with the provisions specified 
+in sections 4.6.2.1 and 4.6.2.2 of this agreement.  The primary frequency response requirements 
+contained herein shall apply to both synchronous and non-synchronous Generating Facilities. 
+ 
+4.6.2.1 Governor or Equivalent Controls:   
+ 
+Whenever the Generating Facility is operated in parallel with the Transmission System, 
+Generation Project Developer shall operate the Generating Facility with its governor or 
+equivalent controls in service and responsive to frequency.  Generation Project Developer shall: 
+(1) in coordination with Transmission Provider and/or the relevant balancing authority, set the 
+deadband parameter to: (1) a maximum of ±0.036 Hz and set the droop parameter to a maximum 
+of 5 percent; or (2) implement the relevant droop and deadband settings from an approved NERC 
+Reliability Standard that provides for equivalent or more stringent parameters.  Generation 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 4 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 6 
+Project Developer shall be required to provide the status and settings of the governor or 
+equivalent controls to Transmission Provider and/or the relevant balancing authority upon 
+request.  If Generation Project Developer needs to operate the Generating Facility with its 
+governor or equivalent controls not in service, Generation Project Developer shall immediately 
+notify Transmission Provider and the relevant balancing authority, and provide both with the 
+following information: (1) the operating status of the governor or equivalent controls (i.e., 
+whether it is currently out of service or when it will be taken out of service); (2) the reasons for 
+removing the governor or equivalent controls from service; and (3) a reasonable estimate of 
+when the governor or equivalent controls will be returned to service.  Generation Project 
+Developer shall make Reasonable Efforts to return its governor or equivalent controls into 
+service as soon as practicable.  Generation Project Developer shall make Reasonable Efforts to 
+keep outages of the Generating Facility’s governor or equivalent controls to a minimum 
+whenever the Generating Facility is operated in parallel with the Transmission System. 
+ 
+4.6.2.2 Timely and Sustained Response:   
+ 
+Generation Project Developer shall ensure that the Generating Facility’s real power response to 
+sustained frequency deviations outside of the deadband setting is automatically provided and 
+shall begin immediately after frequency deviates outside of the deadband, and to the extent the 
+Generating Facility has operating capability in the direction needed to correct the frequency 
+deviation.  Generation Project Developer shall not block or otherwise inhibit the ability of the 
+governor or equivalent controls to respond and shall ensure that the response is not inhibited, 
+except under certain operational constraints including, but not limited to, ambient temperature 
+limitations, physical energy limitations, outages of mechanical equipment, or regulatory 
+requirements.  The Generating Facility shall sustain the real power response at least until system 
+frequency returns to a value within the deadband setting of the governor or equivalent controls.  
+A Commission-approved Reliability Standard with equivalent or more stringent requirements 
+shall supersede the above requirements. 
+ 
+4.6.2.3 Exemptions: 
+ 
+Generating Facilities that are regulated by the United States Nuclear Regulatory Commission 
+shall be exempt from sections 4.6.2, 4.6.2.1, and 4.6.2.2 of this agreement.  Generating Facilities 
+that are behind the meter generation that is sized-to-load (i.e., the thermal load and the generation 
+are near-balanced in real-time operation and the generation is primarily controlled to maintain 
+the unique thermal, chemical, or mechanical output necessary for the operating requirements of 
+its host facility) shall be required to install primary frequency response capability in accordance 
+with the droop and deadband capability requirements specified in section 4.6.2, but shall be 
+otherwise exempt from the operating requirements in sections 4.6.2, 4.6.2.1, 4.6.2.2, and 4.6.2.4 
+of this agreement. 
+ 
+4.6.2.4 Energy Storage Resources: 
+ 
+Generation Project Developer interconnecting an Energy Storage Resource shall establish an 
+operating range in Schedule I of this GIA that specifies a minimum state of charge and a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 4 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 7 
+maximum state of charge between which the Energy Storage Resource will be required to 
+provide primary frequency response consistent with the conditions set forth in sections 4.6.2, 
+4.6.2.1, 4.6.2.2, and 4.6.2.3 of this agreement.  Schedule I shall specify whether the operating 
+range is static or dynamic, and shall consider (1) the expected magnitude of frequency deviations 
+in the interconnection; (2) the expected duration that system frequency will remain outside of the 
+deadband parameter in the interconnection; (3) the expected incidence of frequency deviations 
+outside of the deadband parameter in the interconnection; (4) the physical capabilities of the 
+Energy Storage Resource; (5) operational limitations of the Energy Storage Resource due to 
+manufacturer specifications; and (6) any other relevant factors agreed to by Transmission 
+Provider and Generation Project Developer, and in consultation with the relevant transmission 
+owner or balancing authority as appropriate.  If the operating range is dynamic, then Schedule I 
+must establish how frequently the operating range will be reevaluated and the factors that may be 
+considered during its reevaluation. 
+ 
+Generation Project Developer’s Energy Storage Resource is required to provide timely and 
+sustained primary frequency response consistent with section 4.6.2.2 of this agreement when it is 
+online and dispatched to inject electricity to the Transmission System and/or receive electricity 
+from the Transmission System.  This excludes circumstances when the Energy Storage Resource 
+is not dispatched to inject electricity to the Transmission System and/or dispatched to receive 
+electricity from the Transmission System.  If Generation Project Developer’s Energy Storage 
+Resource is charging at the time of a frequency deviation outside of its deadband parameter, it is 
+to increase (for over-frequency deviations) or decrease (for under-frequency deviations) the rate 
+at which it is charging in accordance with its droop parameter.  Generation Project Developer’s 
+Energy Storage Resource is not required to change from charging to discharging, or vice versa, 
+unless the response necessitated by the droop and deadband settings requires it to do so and it is 
+technically capable of making such a transition. 
+ 
+4.7 Under- and Over-Frequency and Under- and Over- Voltage Conditions:  
+ 
+The Generation Project Developer shall ensure “frequency ride through” capability and “voltage 
+ride through” capability of its Generating Facility.  The Generation Project Developer shall 
+enable these capabilities such that its Generating Facility shall not disconnect automatically or 
+instantaneously from the system or equipment of the Transmission Provider and any Affected 
+Systems for a defined under-frequency or over-frequency condition, or an under-voltage or over-
+voltage condition, as tested pursuant to section 1.4.4 of Appendix 2 of this Generation 
+Interconnection Agreement.  The defined conditions shall be in accordance with Good Utility 
+Practice and consistent with any standards and guidelines that are applied to other Generating 
+Facilities in the PJM Region on a comparable basis.  The Generating Facility’s protective 
+equipment settings shall comply with the Transmission Provider’s automatic load-shed program.  
+The Transmission Provider shall review the protective equipment settings to confirm compliance 
+with the automatic load-shed program.  The term “ride through” as used herein shall mean the 
+ability of a Generating Facility to stay connected to and synchronized with the system or 
+equipment of the Transmission Provider and any Affected Systems during system disturbances 
+within a range of conditions, in accordance with Good Utility Practice and consistent with any 
+standards and guidelines that are applied to other Generating Facilities in the Balancing 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 4 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 8 
+Authority on a comparable basis.  The term “frequency ride through” as used herein shall mean 
+the ability of a Generation Project Developer’s Generating Facility Generating Facility to stay 
+connected to and synchronized with the Transmission System or equipment of the Transmission 
+Provider and any Affected Systems during system disturbances within a range of under-
+frequency and over-frequency conditions, in accordance with Good Utility Practice and 
+consistent with any standards and guidelines that are applied to other Generating Facilities in the 
+PJM Region on a comparable basis.  The term “voltage ride through” as used herein shall mean 
+the ability of a Generating Facility to stay connected to and synchronized with the system or 
+equipment of the Transmission Provider and any Affected Systems during system disturbances 
+within a range of under-voltage and over-voltage conditions, in accordance with Good Utility 
+Practice and consistent with any standards and guidelines that are applied to other Generating 
+Facilities in the PJM Region on a comparable basis. 
+ 
+The Transmission System is designed to automatically activate a load-shed program as required 
+by NERC and each Applicable Regional Entity in the event of an under-frequency system 
+disturbance.  A Generation Project Developer shall implement under-frequency and over-
+frequency relay set points for the Generating Facility as required by NERC and each Applicable 
+Regional Entity to ensure “frequency ride through” capability of the Transmission System.  The 
+response of a Generation Project Developer’s Generating Facility to frequency deviations of 
+predetermined magnitudes, both under-frequency and over-frequency deviations shall be studied 
+and coordinated with the Transmission Provider in accordance with Good Utility Practice.   
+ 
+4.8 System Protection and Power Quality: 
+ 
+4.8.1 System Protection:   
+ 
+Project Developer shall, at its expense, install, operate and maintain such System Protection 
+Facilities as may be required in connection with operation of the Generating Facility or Merchant 
+Transmission Facility and the Project Developer Interconnection Facilities consistent with 
+Applicable Technical Requirements and Standards.  Transmission Owner shall install any 
+System Protection Facilities that may be required, as determined by Transmission Provider, on 
+the Transmission Owner Interconnection Facilities and Transmission Owner Upgrades or the 
+Transmission System in connection with the operation of the Generating Facility or Merchant 
+Transmission Facility and the Project Developer Interconnection Facilities. Responsibility for the 
+cost of any System Protection Facilities required on the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades or the Transmission System shall be allocated as 
+provided in the GIP.  
+ 
+4.8.2 Power Quality:   
+ 
+The Generating Facility or Merchant Transmission Facility and Project Developer 
+Interconnection Facilities shall not cause excessive deviations from the power quality criteria set 
+forth in the Applicable Technical Requirements and Standards.  
+ 
+4.9 Access Rights:   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 4 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 9 
+ 
+Each Interconnected Entity shall provide the other Interconnected Entity access to areas under its 
+control as reasonably necessary to permit the other Interconnected Entity to perform its 
+obligations under this Appendix 2, including operation and maintenance obligations.  An 
+Interconnected Entity that obtains such access shall comply with all safety rules applicable to the 
+area to which access is obtained.  Each Interconnected Entity agrees to inform the other 
+Interconnected Entity’s representatives of safety rules applicable to an area. 
+ 
+4.10 Switching and Tagging Rules:   
+ 
+The Interconnected Entities shall comply with applicable Switching and Tagging Rules in 
+obtaining clearances for work or for switching operations on equipment.  Such Switching and 
+Tagging Rules shall be developed in accordance with OSHA standards codified at 29 C.F.R. part 
+1910, or successor standards.  Each Interconnected Entity shall provide the other Interconnected 
+Entity a copy of its Switching and Tagging Rules that are applicable to the other Interconnected 
+Entity’s activities. 
+ 
+4.11 Communications and Data Protocol:   
+ 
+The Interconnected Entities shall comply with any communications and data protocol that the 
+Transmission Provider may establish. 
+ 
+4.12 Nuclear Generating Facilities: 
+ 
+In the event that the Generating Facility is a nuclear Generating Facility, the Interconnection 
+Parties shall agree to such non-standard terms and conditions as are reasonably necessary to 
+accommodate the Project Developer’s satisfaction of Nuclear Regulatory Commission 
+requirements relating to the safety and reliability of operations of such facilities. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 5 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+5 Maintenance 
+ 
+5.1 General:   
+ 
+Each Interconnected Entity shall maintain, or shall cause the maintenance of, its facilities in a 
+safe and reliable manner in accord with (i) the terms of this Appendix 2; (ii) Applicable 
+Standards; (iii) applicable rules, procedures and protocols set forth in the Tariff and the 
+Operating Agreement, as any or all may be amended from time to time; (iv) Applicable Laws 
+and Regulations, and (v) Good Utility Practice. 
+ 
+5.2 Outage Authority and Coordination: 
+ 
+5.2.1 Coordination:   
+ 
+The Interconnection Parties agree to confer regularly to coordinate the planning, scheduling and 
+performance of preventive and corrective maintenance on the Generating Facility or Merchant 
+Transmission Facility, the Project Developer Interconnection Facilities and any Transmission 
+Owner Interconnection Facilities.  In the event a Construction Service Agreement is required, the 
+Construction Parties acknowledge and agree that certain outages of transmission facilities owned 
+by the Transmission Owner, as more specifically detailed in the Scope of Work, may be 
+necessary in order to complete the process of constructing and installing all Interconnection 
+Facilities.  The Interconnection Parties, and where applicable, any Construction Parties, further 
+acknowledge and agree that any such outages shall be coordinated by and through the 
+Transmission Provider. 
+ 
+5.2.2 Authority:   
+ 
+Each Interconnected Entity may, in accordance with Good Utility Practice, remove from service 
+its facilities that may affect the other Interconnected Entity’s facilities in order to perform 
+maintenance or testing or to install or replace equipment.  Except in the event of an Emergency 
+Condition, the Project Developer proposing to remove such facilities from service shall provide 
+prior notice of such activities to the Transmission Provider and the Transmission Owner, and the 
+Interconnected Entities shall coordinate all scheduling of planned facility outages with 
+Transmission Provider, in accordance with applicable sections of the Operating Agreement, the 
+PJM Manuals and any other applicable operating guidelines or directives of the Transmission 
+Provider.  Subject to the foregoing, the Interconnected Entity scheduling a facility outage shall 
+use Reasonable Efforts to coordinate such outage with the other Interconnected Entity’s 
+scheduled outages. 
+ 
+5.2.3 Outages Required for Maintenance:   
+ 
+Subject to any necessary approval by Transmission Provider, each Interconnected Entity shall 
+provide necessary equipment outages to allow the other Interconnected Entity to perform 
+periodic maintenance, repair or replacement of its facilities and such outages shall be provided at 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 5 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+mutually agreeable times, unless conditions arise which an Interconnected Entity believes, in 
+accordance with Good Utility Practice, may endanger persons or property.  
+ 
+5.2.4 Rescheduling of Planned Outages:   
+ 
+To the extent so provided by the Tariff, the Operating Agreement, and the PJM Manuals, an 
+Interconnected Entity may seek compensation from Transmission Provider for any costs related 
+to rejection by Transmission Provider of a request of such Interconnected Entity for a planned 
+maintenance outage.  
+ 
+5.2.5 Outage Restoration:   
+ 
+If an outage on an Interconnected Entity’s facilities adversely affects the other Interconnected 
+Entity’s facilities, the Interconnected Entity that owns or controls the facility that is out of 
+service shall use Reasonable Efforts to restore the facility to service promptly.  
+ 
+5.3 Inspections and Testing:   
+ 
+Each Interconnected Entity shall perform routine inspection and testing of its facilities and 
+equipment in accordance with Good Utility Practice as may be necessary to ensure the continued 
+interconnection of the Generating Facility or Merchant Transmission Facility with the 
+Transmission System in a safe and reliable manner.  Each Interconnected Entity shall have the 
+right, upon advance written notice, to request reasonable additional testing of an Interconnected 
+Entity’s facilities for good cause, as may be in accordance with Good Utility Practice. 
+ 
+5.4 Right to Observe Testing:   
+ 
+Each Interconnected Entity shall notify the other Interconnected Entity in advance of its 
+performance of tests of its portion of the Interconnection Facilities.  The other Interconnected 
+Entity shall, at its own expense, have the right, but not the obligation, to: 
+ 
+(a) Observe the other Party’s tests and/or inspection of any of its system protection facilities 
+and other protective equipment, including power system stabilizers; 
+ 
+(b) Review the settings of the other Party’s system protection facilities and other protective 
+equipment; 
+ 
+(c) Review the other Party’s maintenance record relative to the Interconnection Facilities, 
+system protection facilities and other protective equipment; and 
+ 
+(d) Exercise these rights from time to time as it deems necessary upon reasonable notice to 
+the other Party.  
+ 
+5.5 Secondary Systems:  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 5 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+Each Interconnected Entity agrees to cooperate with the other in the inspection, maintenance, 
+and testing of those Secondary Systems directly affecting the operation of an Interconnected 
+Entity's facilities and equipment which may reasonably be expected to affect the other 
+Interconnected Entity’s facilities.  Each Interconnected Entity shall provide advance notice to the 
+other Interconnected Entity before undertaking any work on such equipment, especially in 
+electrical circuits involving circuit breaker trip and close contacts, current transformers, or 
+potential transformers. 
+ 
+5.6 Access Rights:   
+ 
+Each Interconnected Entity shall provide the other Interconnected Entity access to areas under its 
+control as reasonably necessary to permit the other Interconnected Entity to perform its 
+obligations under this Appendix 2, including operation and maintenance obligations.  An 
+Interconnected Entity that obtains such access shall comply with all safety rules applicable to the 
+area to which access is obtained.  Each Interconnected Entity agrees to inform the other 
+Interconnected Entity’s representatives of safety rules applicable to an area. 
+ 
+5.7 Observation of Deficiencies:   
+ 
+If an Interconnection Party observes any Abnormal Condition on, or becomes aware of a lack of 
+scheduled maintenance and testing with respect to, an Interconnection Party’s facilities and 
+equipment that might reasonably be expected to adversely affect the observing Interconnection 
+Party’s facilities and equipment, the observing Interconnection Party shall provide prompt notice 
+under the circumstances to the appropriate Interconnection Party, and such Interconnection Party 
+shall consider such notice in accordance with Good Utility Practice.  Any Interconnection Party’s 
+review, inspection, and approval related to the other Interconnection Party’s facilities and 
+equipment shall be limited to the purpose of assessing the safety, reliability, protection, and 
+control of the Transmission System and shall not be construed as confirming or endorsing the 
+design of such facilities and equipment, or as a warranty of any type, including safety, durability, 
+or reliability thereof.  Notwithstanding the foregoing, the observing Interconnection Party shall 
+have no liability whatsoever for failure to give a deficiency notice to the other Interconnection 
+Party and the Interconnected Entity that owns the relevant Interconnection Facilities and 
+Transmission Owner Upgrades shall remain fully liable for its failure to determine and correct 
+deficiencies and defects in its facilities and equipment. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 6 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+6 Emergency Operations 
+ 
+6.1 Obligations:   
+ 
+Subject to Applicable Laws and Regulations, each Interconnection Party shall comply with the 
+Emergency Condition procedures of NERC, the Applicable Regional Entity, Transmission 
+Provider, the Transmission Owner and Project Developer. 
+ 
+6.2 Notice:   
+ 
+Each Interconnection Party shall notify the other parties promptly when it becomes aware of an 
+Emergency Condition that may reasonably be expected to affect operation of the Generating 
+Facility or Merchant Transmission Facility, the Project Developer Interconnection Facilities, the 
+Transmission Owner Interconnection Facilities and Transmission Owner Upgrades, or the 
+Transmission System.  To the extent information is known, the notification shall describe the 
+Emergency Condition, the extent of the damage or deficiency, the expected effect on the 
+facilities and/or operation thereof, its anticipated duration and the corrective action taken and/or 
+to be taken.  The initial notice shall be followed as soon as practicable with written notice. 
+ 
+6.3 Immediate Action:   
+ 
+An Interconnection Party becoming aware of an Emergency Condition may take such action, 
+including disconnection of the Generating Facility or Merchant Transmission Facility from the 
+Transmission System, as is reasonable and necessary in accord with Good Utility Practice (i) to 
+prevent, avoid, or mitigate injury or danger to, or loss of, life or property; (ii) to preserve the 
+reliability of, in the case of Project Developer, the Generating Facility or Merchant Transmission 
+Facility, or, in the case of Transmission Provider or the Transmission Owner, the Transmission 
+System and interconnected sub-transmission and distribution facilities; or (iii) to expedite 
+restoration of service.  Unless, in Project Developer’s reasonable judgment, immediate action is 
+required to prevent imminent loss of life or property, Project Developer shall obtain the consent 
+of Transmission Provider and the Transmission Owner prior to performing any manual switching 
+operations at the Generating Facility or Merchant Transmission Facility or the Generation 
+Interconnection Facilities.  Each Interconnection Party shall use Reasonable Efforts to minimize 
+the effect of its actions during an Emergency Condition on the facilities and operations of the 
+other Interconnection Parties.  
+ 
+6.4 Record-Keeping Obligations:   
+ 
+Each Interconnection Party shall keep and maintain records of actions taken during an 
+Emergency Condition that may reasonably be expected to affect the other parties’ facilities and 
+make such records available for audit in accordance with section 19.3 of this Appendix 2. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 7 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+7 Safety 
+ 
+7.1 General:   
+ 
+Each Interconnected Entity and, as applicable, each Construction Party shall perform all work 
+under this Appendix 2 that may reasonably be expected to affect the other Interconnected Entity 
+and, as applicable, the other Construction Party in accordance with Good Utility Practice and all 
+Applicable Laws and Regulations pertaining to the safety of persons or property.  An 
+Interconnected Entity and, as applicable, a Construction Party performing work within the 
+boundaries of the other Interconnected Entity’s facilities and, as applicable, the other 
+Construction Party’s facilities must abide by the safety rules applicable to the site. Each party 
+agrees to inform the other party’s representatives of applicable safety rules that must be obeyed 
+on the premises.  A Construction Party performing work within an area controlled by another 
+Construction Party must abide by the safety rules applicable to the area. 
+ 
+7.2 Environmental Releases:   
+ 
+Each Interconnected Entity and, as applicable, each Construction Party shall notify the other 
+Interconnection Parties and, as applicable, Construction Parties, first orally and promptly 
+thereafter in writing, of the release of any Hazardous Substances, any asbestos or lead abatement 
+activities, or any type of remediation activities, related to the Generating Facility or Merchant 
+Transmission Facility or the Interconnection Facilities and Transmission Owner Upgrades, any 
+of which may reasonably be expected to affect one or both of the other parties.  The notifying 
+party shall (i) provide the notice as soon as possible; (ii) make a good faith effort to provide the 
+notice within 24 hours after the party becomes aware of the occurrence; and (iii) promptly 
+furnish to the other parties copies of any publicly available reports filed with any governmental 
+agencies addressing such events. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 8 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+8 Metering 
+ 
+8.1 General:   
+ 
+Project Developer shall have the right to install, own, operate, test, and maintain the necessary 
+Metering Equipment.  In the event that Project Developer exercises this option, the Transmission 
+Owner shall have the right to install its own check meter(s), at its own expense, at or near the 
+location of the Metering Equipment.  If both Project Developer and Transmission Owner install 
+meters, the meter installed by the Project Developer shall control unless it is determined by 
+testing to be inaccurate.  If the Project Developer does not exercise the option provided by the 
+first sentence of this section, the Transmission Owner shall have the option to install, own, 
+operate, test and maintain all necessary Metering Equipment at Project Developer’s expense.  If 
+the Transmission Owner does not exercise this option, the Project Developer shall install, own, 
+operate, test and maintain all necessary Metering Equipment.  Transmission Provider shall 
+determine the location where the Metering Equipment shall be installed, after consulting with 
+Project Developer and the Transmission Owner.  All Metering Equipment shall be tested prior to 
+any operation of the Generating Facility or Merchant Transmission Facility.  Power flows to and 
+from the Generating Facility or Merchant Transmission Facility shall be compensated to the 
+Point of Interconnection, or, upon the mutual agreement of the Transmission Owner and the 
+Project Developer, to another location. 
+ 
+8.2 Standards:   
+ 
+All Metering Equipment installed pursuant to this Appendix 2 to be used for billing and 
+payments shall be revenue quality Metering Equipment and shall satisfy applicable ANSI 
+standards and Transmission Provider’s metering standards and requirements.  Nothing in this 
+Appendix 2 precludes the use of Metering Equipment for any retail services of the Transmission 
+Owner provided, however, that in such circumstances Applicable Laws and Regulations shall 
+control. 
+ 
+8.3 Testing of Metering Equipment:   
+ 
+The Interconnected Entity that, pursuant to section 8.1 of this Appendix 2, owns the Metering 
+Equipment shall operate, maintain, inspect, and test all Metering Equipment upon installation 
+and at least once every two years thereafter.  Upon reasonable request by the other 
+Interconnected Entity, the owner of the Metering Equipment shall inspect or test the Metering 
+Equipment more frequently than every two years, but in no event more frequently than three 
+times in any 24-month period.  The owner of the Metering Equipment shall give reasonable 
+notice to the Interconnection Parties of the time when any inspection or test of the owner’s 
+Metering Equipment shall take place, and the other parties may have representatives present at 
+the test or inspection.  If Metering Equipment is found to be inaccurate or defective, it shall be 
+adjusted, repaired or replaced in order to provide accurate metering.  Where the Transmission 
+Owner owns the Metering Equipment, the expense of such adjustment, repair or replacement 
+shall be borne by the Project Developer, except that the Project Developer shall not be 
+responsible for such expenses where the inaccuracy or defect is caused by the Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 8 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+Owner.  If Metering Equipment fails to register, or if the measurement made by Metering 
+Equipment during a test varies by more than 1 percent from the measurement made by the 
+standard meter used in the test, the owner of the Metering Equipment shall inform Transmission 
+Provider, and the Transmission Provider shall inform the other Interconnected Entity, of the need 
+to correct all measurements made by the inaccurate meter for the period during which the 
+inaccurate measurements were made, if the period can be determined.  If the period of inaccurate 
+measurement cannot be determined, the correction shall be for the period immediately preceding 
+the test of the Metering Equipment that is equal to one-half of the time from the date of the last 
+previous test of the Metering Equipment, provided that the period subject to correction shall not 
+exceed nine months. 
+ 
+8.4 Metering Data:   
+ 
+At Project Developer's expense, the metered data shall be telemetered (a) to a location designated 
+by Transmission Provider; (b) to a location designated by the Transmission Owner, unless the 
+Transmission Owner agrees otherwise; and (c) to a location designated by Project Developer. 
+Data from the Metering Equipment at the Point of Interconnection shall be used, under normal 
+operating conditions, as the official measurement of the amount of energy delivered from or to 
+the Generating Facility or Merchant Transmission Facility to the Point of Interconnection, 
+provided that the Transmission Provider’s rules applicable to Station Power as set forth at Tariff, 
+Attachment K-Appendix, section 1.7.10(d) shall control with respect to a Generation Project 
+Developer’s consumption of Station Power. 
+ 
+8.5 Communications 
+ 
+8.5.1 Project Developer Obligations:   
+ 
+Project Developer shall install and maintain satisfactory operating communications with 
+Transmission Provider’s system dispatcher or its other designated representative and with the 
+Transmission Owner.  Project Developer shall provide standard voice line, dedicated voice line, 
+and electronic communications at its Generating Facility or Merchant Transmission Facility 
+control room.  Project Developer also shall provide and maintain backup communication links 
+with both Transmission Provider and Transmission Owner for use during abnormal conditions as 
+specified by Transmission Provider and Transmission Owner, respectively.  Project Developer 
+further shall provide the dedicated data circuit(s) necessary to provide Project Developer data to 
+the Transmission Provider and Transmission Owner as necessary to conform with Applicable 
+Technical Requirements and Standards. 
+ 
+8.5.2 Remote Terminal Unit:  
+ 
+Unless otherwise deemed unnecessary by Transmission Provider and Transmission Owner, as 
+indicated in the Generation Interconnection Agreement, prior to any operation of the Generating 
+Facility or Merchant Transmission Facility, a remote terminal unit, or equivalent data collection 
+and transfer equipment acceptable to the Interconnection Parties, shall be installed by Project 
+Developer, or by the Transmission Owner at Project Developer's expense, to gather accumulated 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 8 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+and instantaneous data to be telemetered to the location(s) designated by Transmission Provider 
+and Transmission Owner through use of a dedicated point-to-point data circuit(s) as indicated in 
+section 8.5.1 of this Appendix 2.  Instantaneous, bi-directional real power and, with respect to a 
+Generation Project Developer’s Generating Facility or Merchant Transmission Facility, reactive 
+power flow information, must be telemetered directly to the location(s) specified by 
+Transmission Provider and the Transmission Owner. 
+ 
+8.5.3 Phasor Measurement Units (PMUs):  
+ 
+A Project Developer entering the New Services Queue on or after October 1, 2012, with a 
+proposed new Generating Facility that has a Maximum Facility Output equal to or greater than 
+100 MW shall install and maintain, at its expense, phasor measurement units (“PMUs”). PMUs 
+shall be installed on the Generating Facility low side of the generator step-up transformer, unless 
+it is a non-synchronous generation facility, in which case the PMUs shall be installed on the 
+Generating Facility side of the Point of Change in Ownership.  The PMUs must be capable of 
+performing phasor measurements at a minimum of 30 samples per second which are 
+synchronized via a high-accuracy satellite clock.  To the extent Project Developer installs similar 
+quality equipment, such as relays or digital fault recorders, that can collect data at least at the 
+same rate as PMUs and which data is synchronized via a high-accuracy satellite clock, such 
+equipment would satisfy this requirement.  As provided for in the PJM Manuals, a Project 
+Developer shall be required to install and maintain, at its expense, PMU equipment which 
+includes the communication circuit capable of carrying the PMU data to a local data 
+concentrator, and then transporting the information continuously to the Transmission Provider; 
+as well as store the PMU data locally for 30 days. Project Developer shall provide to 
+Transmission Provider all necessary and requested information through the Transmission 
+Provider synchrophasor system, including the following: (a) gross MW and MVAR measured at 
+the Generating Facility side of the generator step-up transformer (or, for a non-synchronous 
+generation facility, to be measured at the Generating Facility side of the Point of 
+Interconnection); (b) generator terminal voltage; (c) generator terminal frequency; and (d) 
+generator field voltage and current, where available.  The Transmission Provider will install and 
+provide for the ongoing support and maintenance of the network communications linking the 
+data concentrator to the Transmission Provider.  Additional details regarding the requirements 
+and guidelines of PMU data and telecommunication of such data are contained in the PJM 
+Manuals. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 9 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+9 Force Majeure  
+ 
+9.1 Notice:   
+ 
+An Interconnection Party that is unable to carry out an obligation imposed on it by this Appendix 
+2 due to Force Majeure shall notify the other parties in writing or by telephone within a 
+reasonable time after the occurrence of the cause relied on. 
+ 
+9.2 Duration of Force Majeure:   
+ 
+A party shall not be considered to be in Default with respect to any obligation hereunder, other 
+than the obligation to pay money when due, if prevented from fulfilling such obligation by Force 
+Majeure.  A party unable to fulfill any obligation hereunder (other than an obligation to pay 
+money when due) by reason of Force Majeure shall give notice and the full particulars of such 
+Force Majeure to the other parties in writing as soon as reasonably possible after the occurrence 
+of the cause relied upon.  Those notices shall specifically state full particulars of the Force 
+Majeure, the time and date when the Force Majeure occurred, and when the Force Majeure is 
+reasonably expected to cease.  Written notices given pursuant to this Article shall be 
+acknowledged in writing as soon as reasonably possible.  The party affected shall exercise 
+Reasonable Efforts to remove such disability with reasonable dispatch, but shall not be required 
+to accede or agree to any provision not satisfactory to it in order to settle and terminate a strike or 
+other labor disturbance.  The party affected has a continuing notice obligation to the other 
+parties, and must update the particulars of the original Force Majeure notice and subsequent 
+notices, in writing, as the particulars change.  The affected party shall be excused from whatever 
+performance is affected only for the duration of the Force Majeure and while the party exercises 
+Reasonable Efforts to alleviate such situation.  As soon as the non-performing party is able to 
+resume performance of its obligations excused because of the occurrence of Force Majeure, such 
+party shall resume performance and give prompt written notice thereof to the other parties. 
+ 
+9.3 Obligation to Make Payments:   
+ 
+Any Interconnection Party's obligation to make payments for services shall not be suspended by 
+Force Majeure. 
+ 
+9.4 Definition of Force Majeure: 
+ 
+For the purposes of this section, shall mean any act of God, labor disturbance, act of the public 
+enemy, war, insurrection, riot, fire, storm or flood, explosion, breakage or accident to machinery 
+or equipment, any order, regulation, or restriction imposed by governmental, military, or 
+lawfully established civilian authorities, or any other cause beyond a party’s control that, in any 
+of the foregoing cases, by exercise of due diligence, such party could not reasonably have been 
+expected to avoid, and which, by the exercise of due diligence, it has been unable to overcome.  
+Force majeure does not include (i) a failure of performance that is due to an affected party’s own 
+negligence or intentional wrongdoing; (ii) any removable or remediable causes (other than 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 9 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+settlement of a strike or labor dispute) which an affected party fails to remove or remedy within a 
+reasonable time; or (iii) economic hardship of an affected party. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 10 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+10 Charges 
+ 
+10.1 Specified Charges:   
+ 
+If and to the extent required by the Transmission Owner, after the Initial Operation of the 
+Generating Facility or Merchant Transmission Facility, Project Developer shall pay one or more 
+of the types of recurring charges described in this section to compensate the Transmission Owner 
+for costs incurred in performing certain of its obligations under this Appendix 2.  All such 
+charges shall be stated in Schedule E of the Generator Interconnection Agreement.  Permissible 
+charges under this section may include: 
+ 
+ (a) Administration Charge – Any such charge may recover only the costs and 
+expenses incurred by the Transmission Owner in connection with administrative obligations such 
+as the preparation of bills, the processing of Generating Facility- or Merchant Transmission 
+Facility-specific data on energy delivered at the Point of Interconnection and costs incurred in 
+similar types of administrative processes related to Project Developer’s Interconnection Service.  
+An Administration Charge shall not be permitted to the extent that the Transmission Owner’s 
+other charges to the Project Developer under the same Generator Interconnection Agreement 
+include an allocation of Transmission Owner’s administrative and general expenses and/or other 
+corporate overhead costs.  
+ 
+ (b) Metering Charge – Any such charge may recover only the Transmission Owner’s 
+costs and expenses associated with operation, maintenance, inspection, testing, and carrying or 
+capital replacement charges for any Metering Equipment that is owned by the Transmission 
+Owner. 
+ 
+ (c) Telemetering Charge – Any such charge may recover only the Transmission 
+Owner’s costs and expenses associated with operation, maintenance, inspection, testing, and 
+carrying or capital replacement charges for any telemetering equipment that is owned by the 
+Transmission Owner and that is used exclusively in conjunction with Interconnection Service for 
+the Project Developer. 
+ 
+ (d) Generating Facility or Merchant Transmission Facility Operations and 
+Maintenance Charge – Any such charge may recover only the Transmission Owner’s costs and 
+expenses associated with operation, maintenance, inspection, testing, modifications, taxes, and 
+carrying or capital replacement charges for Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades related to the Project Developer’s Interconnection Service and 
+that are owned by the Transmission Owner, provided that  
+ 
+  (i) any such charge shall exclude costs and expenses associated with 
+Transmission Owner Interconnection Facilities and Transmission Owner Upgrades owned by the 
+Transmission Owner that are radial line facilities that serve load in addition to a Project 
+Developer; and 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 10 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+  (ii) except as otherwise provided by Applicable Laws and Regulations, any 
+such charge may include only an allocated share, derived in accordance with the allocations 
+contained in the System Impact Study(ies), of costs and expenses associated with Transmission 
+Owner Interconnection Facilities and Transmission Owner Upgrades owned by the Transmission 
+Owner that are radial line facilities that serve more than one Project Developer.  At the discretion 
+of the affected Interconnected Entities, a Generating Facility or Merchant Transmission Facility 
+Operations and Maintenance Charge authorized under this section may apply on a per-incident 
+basis or on a monthly or other periodic basis. 
+ 
+ (e) Other Charges – Any other charges applicable to the Project Developer, as 
+mutually agreed upon by the Project Developer and the Transmission Owner. 
+ 
+10.2 FERC Filings: 
+ 
+To the extent required by law or regulation, each Interconnection Party shall seek FERC 
+acceptance or approval of its respective charges or the methodology for the calculation of such 
+charges.  If such filing is required, Transmission Owner shall provide Transmission Provider and 
+Project Developer with appropriate cost data, schedules and/or written testimony in support of 
+any charges under this section in such manner and at such time as to allow Transmission 
+Provider to include such materials in its filing of the Generation Interconnection Agreement with 
+the FERC. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 11 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+11 Security, Billing and Payments 
+ 
+11.1 Recurring Charges Pursuant to section 10:   
+ 
+The following provisions shall apply with respect to recurring charges applicable to 
+Interconnection Service after Initial Operation of the Generating Facility or Merchant 
+Transmission Facility pursuant to section 10 of this Appendix 2.   
+ 
+11.1.1 General:   
+ 
+Except as, and to the extent, otherwise provided in the Generation Interconnection Agreement, 
+billing and payment of any recurring charges applicable to Interconnection Service after Initial 
+Operation of the Generating Facility or Merchant Transmission Facility pursuant to section 10 of 
+this Appendix 2 shall be in accordance with section 7 of the Tariff.  The Transmission Owner 
+shall provide Transmission Provider with all necessary information and supporting data that 
+Transmission Provider may reasonably require to administer billing for and payment of 
+applicable charges under this Appendix 2.  Transmission Provider shall remit to the 
+Transmission Owner revenues received in payment of Transmission Owner’s charges to Project 
+Developer under this Appendix 2 upon Transmission Provider’s receipt of such revenues.  At 
+Transmission Provider’s reasonable discretion, charges to Project Developer and remittances to 
+Transmission Owner under this Appendix 2 may be netted against other amounts owed by or to 
+such parties under the Tariff. 
+ 
+11.1.2 Billing Disputes:   
+ 
+In the event of a billing dispute between Transmission Provider and Project Developer, 
+Transmission Provider shall continue to provide interconnection service under this Appendix 2 
+as long as Project Developer (i) continues to make all payments not in dispute, and (ii) pays to 
+Transmission Provider or into an independent escrow account the portion of the invoice in 
+dispute, pending resolution of such dispute.  If Project Developer fails to meet these two 
+requirements for continuation of service, then Transmission Provider shall so inform the 
+Interconnection Parties and may provide notice to Project Developer of a Breach pursuant to 
+section 15 of this Appendix 2.  Within 30 days after the resolution of the dispute, the 
+Interconnection Party that owes money to the other Interconnection Party shall pay the amount 
+due with interest calculated in accord with section 11.4. 
+ 
+11.2 Costs for Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades:   
+ 
+The following provisions shall apply with respect to charges for the Costs of the Transmission 
+Owner for which the Project Developer is responsible.   
+ 
+11.2.1 Adjustments to Security:   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 11 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+The Security provided by Project Developer at or before execution of the Generation 
+Interconnection Agreement (a) shall be reduced as portions of the work are completed, and/or (b) 
+shall be increased or decreased as required to reflect adjustments to Project Developer’s cost 
+responsibility, as determined in accordance with the GIP, to correspond with changes in the 
+Scope of Work developed in accordance with Transmission Provider’s scope change process for 
+interconnection projects set forth in the PJM Manuals. 
+ 
+11.2.2 Invoice:   
+ 
+The Transmission Owner shall provide Transmission Provider a quarterly statement of the 
+Transmission Owner’s scheduled expenditures during the next three months for, as applicable (a) 
+the design, engineering and construction of, and/or for other charges related to, construction of 
+the Interconnection Facilities and Transmission Owner Upgrades for which the Transmission 
+Owner is responsible under the GIA, or (b) in the event that the Project Developer exercises the 
+Option to Build, for the Transmission Owner’s oversight costs (i.e. costs incurred by the 
+Transmission Owner when engaging in oversight activities to satisfy itself that the Project 
+Developer is complying with the Transmission Owner’s standards and Specifications for the 
+construction of facilities) associated with Project Developer’s building Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades, including but not limited to Costs 
+for tie-in work and Cancellation Costs.  Transmission Owner oversight costs shall be consistent 
+with Schedule L of this GIA.  Transmission Provider shall bill Project Developer on behalf of the 
+Transmission Owner, for the Transmission Owner’s expected Costs during the subsequent three 
+months.  Project Developer shall pay each bill within 20 days after receipt thereof.  Upon receipt 
+of each of Project Developer’s payments of such bills, Transmission Provider shall reimburse the 
+Transmission Owner.  Project Developer may request that the Transmission Provider provide a 
+quarterly cost reconciliation.  Such a quarterly cost reconciliation will have a one-quarter lag, 
+e.g., reconciliation of Costs for the first calendar quarter of work will be provided at the start of 
+the third calendar quarter of work, provided, however, that section 11.2.3 of this Appendix 2 
+shall govern the timing of the final cost reconciliation upon completion of the work. 
+ 
+11.2.3 Final Invoice:   
+ 
+Within 120 days after the Transmission Owner completes construction and installation of the 
+Interconnection Facilities and Transmission Owner Upgrades for which the Transmission Owner 
+is responsible under the Generation Interconnection Agreement, Transmission Provider shall 
+provide Project Developer with an accounting of, and the appropriate Interconnection Party, and 
+where applicable, the Construction Party shall make any payment to the other that is necessary to 
+resolve, any difference between (a) Project Developer's responsibility under the Tariff for the 
+actual Cost of such facilities, and (b) Project Developer's previous aggregate payments to 
+Transmission Provider for the Costs of such facilities.  Notwithstanding the foregoing, however, 
+Transmission Provider shall not be obligated to make any payment to either the Project 
+Developer or the Transmission Owner that the preceding sentence requires it to make unless and 
+until the Transmission Provider has received the payment that it is required to refund from the 
+Interconnection Party, and where applicable, the Construction Party owing the payment. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 11 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+11.2.4 Disputes:   
+ 
+In the event of a billing dispute between any of the Interconnection Parties, and where 
+applicable, the Construction Parties, Transmission Provider and the Transmission Owner shall 
+continue to perform their respective obligations pursuant to this Generation Interconnection 
+Agreement and any related Construction Service Agreements so long as (a) Project Developer 
+continues to make all payments not in dispute, and (b) the Security held by the Transmission 
+Provider while the dispute is pending exceeds the amount in dispute, or (c) Project Developer 
+pays to Transmission Provider or into an independent escrow account the portion of the invoice 
+in dispute, pending resolution of such dispute.  If Project Developer fails to meet any of these 
+requirements, then Transmission Provider shall so inform the other Interconnection Parties and 
+Construction Parties and Transmission Provider or the Transmission Owner may provide notice 
+to Project Developer of a Breach pursuant to section 15 of this Appendix 2. 
+ 
+11.3 No Waiver:   
+ 
+Payment of an invoice shall not relieve Project Developer from any other responsibilities or 
+obligations it has under this Appendix 2, nor shall such payment constitute a waiver of any 
+claims arising hereunder. 
+ 
+11.4 Interest:   
+ 
+Interest on any unpaid, delinquent amounts shall be calculated in accordance with the 
+methodology specified for interest on refunds in the FERC’s regulations at 18 C.F.R. § 
+35.19a(a)(2)(iii) and shall apply from the due date of the bill to the date of payment. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 12 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+12 Assignment 
+ 
+12.1 Assignment with Prior Consent:   
+ 
+Except as provided in section 12.2 to this Appendix 2, no Interconnection Party shall assign its 
+rights or delegate its duties, or any part of such rights or duties, under the Generation 
+Interconnection Agreement without the written consent of the other Interconnection Parties, 
+which consent shall not be unreasonably withheld, conditioned, or delayed.  Any such 
+assignment or delegation made without such written consent shall be null and void.  An 
+Interconnection Party may make an assignment in connection with the sale, merger, or transfer of 
+a substantial portion or all of its properties including the Interconnection Facilities and 
+Transmission Owner Upgrades which it owns or will own upon completion of construction and 
+the transfer of title required as set forth in section 23 of this Appendix 2, so long as the assignee 
+in such a sale, merger, or transfer assumes in writing all rights, duties and obligations arising 
+under this Generation Interconnection Agreement.  In addition, the Transmission Owner shall be 
+entitled, subject to Applicable Laws and Regulations, to assign the Generation Interconnection 
+Agreement to any Affiliate or successor that owns and operates all or a substantial portion of the 
+Transmission Owner’s transmission facilities. 
+ 
+12.2 Assignment Without Prior Consent 
+ 
+12.2.1 Assignment to Owners:   
+ 
+Project Developer may assign the Generation Interconnection Agreement without the 
+Transmission Owner’s or Transmission Provider’s prior consent to any Affiliate or person that 
+purchases or otherwise acquires, directly or indirectly, all or substantially all of the Generating 
+Facility or Merchant Transmission Facility and the Project Developer Interconnection Facilities, 
+provided that prior to the effective date of any such assignment, the assignee shall demonstrate 
+that, as of the effective date of the assignment, the assignee has the technical and operational 
+competence to comply with the requirements of this Generation Interconnection Agreement and 
+assumes in a writing provided to the Transmission Owner and Transmission Provider all rights, 
+duties, and obligations of Project Developer arising under this Generation Interconnection 
+Agreement.  However, any assignment described herein shall not relieve or discharge the Project 
+Developer from any of its obligations hereunder absent the written consent of the Transmission 
+Provider, such consent not to be unreasonably withheld, conditioned or delayed.  Project 
+Developer shall provide Transmission Provider with notice of any such assignment in 
+accordance with the PJM Manuals. 
+ 
+12.2.2 Assignment to Lenders:   
+ 
+Project Developer may, without the consent of the Transmission Provider or the Transmission 
+Owner, assign the Generation Interconnection Agreement to any Project Finance Entity(ies), 
+provided that such assignment does not alter or diminish Project Developer’s duties and 
+obligations under this Generation Interconnection Agreement.  If Project Developer provides the 
+Transmission Owner with notice of an assignment to any Project Finance Entity(ies) and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 12 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+identifies such Project Finance Entities as contacts for notice purposes pursuant to section 21 of 
+this Appendix 2, the Transmission Provider or Transmission Owner shall provide notice and 
+reasonable opportunity for such entity(ies) to cure any Breach under this Generation 
+Interconnection Agreement in accordance with this Generation Interconnection Agreement. 
+Transmission Provider or Transmission Owner shall, if requested by such lenders, provide such 
+customary and reasonable documents, including consents to assignment, as may be reasonably 
+requested with respect to the assignment and status of the Generation Interconnection 
+Agreement, provided that such documents do not alter or diminish the rights of the Transmission 
+Provider or Transmission Owner under this Generation Interconnection Agreement, except with 
+respect to providing notice of Breach to a Project Finance Entity.  Upon presentation of the 
+Transmission Provider and/or the Transmission Owner’s invoice therefor, Project Developer 
+shall pay the Transmission Provider and/or the Transmission Owner’s reasonable documented 
+cost of providing such documents and certificates.  Any assignment described herein shall not 
+relieve or discharge the Project Developer from any of its obligations hereunder absent the 
+written consent of the Transmission Owner and Transmission Provider. 
+ 
+12.3 Successors and Assigns:   
+ 
+This Generation Interconnection Agreement and all of its provisions are binding upon, and inure 
+to the benefit of, the Interconnection Parties and their respective successors and permitted 
+assigns. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 13 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+13 Insurance 
+ 
+13.1 Required Coverages For Generation Resources Of More Than 20 Megawatts or 
+Merchant Transmission Facilities:  
+ 
+Each Interconnected Entity and, as applicable, Constructing Entity shall maintain insurance at its 
+own expense as described in paragraphs (a) through (d) below. In addition, if there any 
+construction activities associated with this GIA, each Interconnected Entity and, as applicable, 
+Constructing Entity shall maintain insurance at its own expense as described in paragraph (e).  
+All insurance shall be procured from insurance companies rated “A-”, VII, or better by AM Best 
+and authorized to do business in a state or states in which the Interconnection Facilities and 
+Transmission Owner Upgrades are or will be located.  Failure to maintain required insurance 
+shall be a Breach of the Generation Interconnection Agreement. 
+ 
+ (a) Workers Compensation insurance with statutory limits, as required by the state 
+and/or jurisdiction in which the work is to be performed, and employer's liability insurance with 
+limits of not less than one million dollars ($1,000,000). 
+ 
+ (b) Commercial General Liability Insurance and/or Excess Liability Insurance 
+covering liability arising out of premises, operations, personal injury, advertising, products and 
+completed operations coverage, independent contractors coverage, liability assumed under an 
+insured contract, coverage for pollution to the extent normally available, and punitive damages to 
+the extent allowable under applicable law, with limits of not less than one million dollars 
+($1,000,000) per occurrence/one million dollars ($1,000,000) general aggregate/one million 
+dollars ($1,000,000) products and completed operations aggregate. 
+ 
+ (c) Business/Commercial Automobile Liability Insurance for coverage of owned and 
+non-owned and hired vehicles, trailers or semi-trailers designed for travel on public roads, with a 
+minimum, combined single limit of not less than one million dollars ($1,000,000) each accident 
+for bodily injury, including death, and property damage. 
+ 
+ (d) Excess and/or Umbrella Liability Insurance with a limit of liability of not less 
+than twenty million dollars ($20,000,000) per occurrence.  These limits apply in excess of the 
+employer’s liability, commercial general liability and business/commercial automobile liability 
+coverages described above.  This requirement can be met alone or via a combination of primary, 
+excess and/or umbrella insurance. 
+ 
+ (e) In addition, if there are construction activities required in connection with this 
+GIA, the following Professional Liability Insurance requirements shall apply:  
+ 
+Professional Liability, including Contractors Legal Liability, providing errors, omissions 
+and/or malpractice coverage.  Coverage shall be provided for the Interconnected Entity or 
+Constructing Entity’s duties, responsibilities and performance outlined in Schedule L to 
+this GIA, with limits of liability as follows: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 13 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+$10,000,000 each occurrence 
+$10,000,000 aggregate 
+ 
+An Interconnected Entity may meet the Professional Liability Insurance requirements by 
+requiring third-party contractors, designers, or engineers, or other parties that are responsible for 
+design work associated with the transmission facilities or Interconnection Facilities and 
+Transmission Owner Upgrades necessary for the interconnection to procure professional liability 
+insurance in the amounts and upon the terms prescribed by this section 13.1(e), and providing 
+evidence of such insurance to the other Interconnected Entity.  Such insurance shall be procured 
+from companies rated “A-”, VII, or better by AM Best and authorized to do business in a state or 
+states in which the Interconnection Facilities and Transmission Owner Upgrades are located.  
+Nothing in this section relieves the Interconnected Entity from complying with the insurance 
+requirements.  In the event that the policies of the designers, engineers, or other parties used to 
+satisfy the Interconnected Entity’s insurance obligations under this section become invalid for 
+any reason, including but not limited to, (i) the policy(ies) lapsing or otherwise terminating or 
+expiring; (ii) the coverage limits of such policy(ies) are decreased; or (iii) the policy(ies) do not 
+comply with the terms and conditions of the Tariff; Interconnected Entity shall be required to 
+procure insurance sufficient to meet the requirements of this section, such that there is no lapse 
+in insurance coverage.  
+ 
+13.1A Required Coverages for Generation Resources of 20 Megawatts or Less:   
+ 
+Each Interconnected Entity and, as applicable, Constructing Entity shall maintain the types of 
+insurance as described in section 13.1 paragraphs (a) through (e) in an amount sufficient to 
+insure against all reasonably foreseeable direct liabilities given the size and nature of the 
+generating equipment being interconnected, the interconnection itself, and the characteristics of 
+the system to which the interconnection is made.  Additional insurance may be required by the 
+Project Developer, as a function of owning and operating a Generating Facility.  All insurance 
+shall be procured from insurance companies rated “A-”, VII, or better by AM Best and 
+authorized to do business in a state or states in which the Interconnection Facilities and 
+Transmission Owner Upgrades are located.  Failure to maintain required insurance shall be a 
+Breach of the Generation Interconnection Agreement. 
+ 
+13.2 Additional Insureds:   
+ 
+The Commercial General Liability, Business/Commercial Automobile Liability and Excess 
+and/or Umbrella Liability policies procured by each Interconnected Entity (the “Insuring 
+Interconnected Entity”) shall include each other Interconnection Party (the “Insured 
+Interconnection Party”), and its respective officers, agents and employees as additional insureds, 
+and as applicable each other Construction Party (“Insured Construction Party”) its officers, 
+agents and employees as additional insureds, providing all standard coverages and covering 
+liability of the Insured Interconnection Party, and as applicable Insured Construction Party 
+arising out of bodily injury and/or property damage (including loss of use) in any way connected 
+with the operations, performance, or lack of performance under this Generation Interconnection 
+Agreement. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Appendix 2 Standard 
+Terms and Conditions --> OATT Part IX.B GIA Appx 2 Section 13 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 3 
+ 
+13.3 Other Required Terms:   
+ 
+The above-mentioned insurance policies (except workers’ compensation) shall provide the 
+following: 
+ 
+ (a) Each policy shall contain provisions that specify that it is primary and non-
+contributory for any liability arising out of that party’s negligence, and shall apply to such extent 
+without consideration for other policies separately carried and shall state that each insured is 
+provided coverage as though a separate policy had been issued to each, except the insurer’s 
+liability shall not be increased beyond the amount for which the insurer would have been liable 
+had only one insured been covered.  Each Insuring Interconnected Entity shall be responsible for 
+its respective deductibles or retentions. 
+ 
+ (b) If any coverage is written on a Claims First Made Basis, continuous coverage 
+shall be maintained or an extended discovery period will be exercised for a period of not less 
+than two years after termination of the Generation Interconnection Agreement. 
+ 
+ (c) Provide for a waiver of all rights of subrogation which the Insuring 
+Interconnected Entity’s insurance carrier might exercise against the Insured Interconnection 
+Party. 
+ 
+13.3A No Limitation of Liability:   
+ 
+The requirements contained herein as to the types and limits of all insurance to be maintained by 
+the Interconnected Entities are not intended to and shall not in any manner, limit or qualify the 
+liabilities and obligations assumed by the Interconnection Parties under the Generation 
+Interconnection Agreement. 
+ 
+13.4 Self-Insurance:   
+ 
+Notwithstanding the foregoing, each Interconnected Entity may self-insure to meet the minimum 
+insurance requirements of this section 13 of this Appendix 2 to the extent it maintains a self-
+insurance program, provided that such Interconnected Entity’s senior secured debt is rated at 
+investment grade or better by Standard & Poor’s and its self-insurance program meets the 
+minimum insurance requirements of this section 13.  For any period of time that an 
+Interconnected Entity’s senior secured debt is unrated by Standard & Poor’s or is rated at less 
+than investment grade by Standard & Poor’s, such Party shall comply with the insurance 

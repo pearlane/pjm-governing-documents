@@ -1,0 +1,357 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+Definitions O - P 
+ 
+Offer Data: 
+ 
+“Offer Data” shall mean the scheduling, operations planning, dispatch, new resource, and other 
+data and information necessary to schedule and dispatch generation resources and Demand 
+Resource(s) for the provision of energy and other services and the maintenance of the reliability 
+and security of the Transmission System in the PJM Region, and specified for submission to the 
+PJM Interchange Energy Market for such purposes by the Office of the Interconnection. 
+ 
+Office of the Interconnection: 
+ 
+“Office of the Interconnection” shall mean the employees and agents of PJM Interconnection, L.L.C. 
+subject to the supervision and oversight of the PJM Board, acting pursuant to the Operating Agreement.  
+ 
+Office of the Interconnection Control Center: 
+ 
+“Office of the Interconnection Control Center” shall mean the equipment, facilities and 
+personnel used by the Office of the Interconnection to coordinate and direct the operation of the 
+PJM Region and to administer the PJM Interchange Energy Market, including facilities and 
+equipment used to communicate and coordinate with the Market Participants in connection with 
+transactions in the PJM Interchange Energy Market or the operation of the PJM Region. 
+ 
+On-Site Generators: 
+ 
+“On-Site Generators” shall mean generation facilities or portions of a generation facility 
+(including Behind The Meter Generation) that (i) are not Generation Capacity Resources, (ii) are 
+not injecting into the grid for the portion of a generation facility that participates as an Economic 
+Load Response Participant or as a Demand Resource, (iii) are either synchronized or non-
+synchronized to the Transmission System, and (iv) can be used to reduce demand for the purpose 
+of participating in the PJM Interchange Energy Market. 
+ 
+Open Access Same-Time Information System (OASIS) or PJM Open Access Same-time 
+Information System: 
+ 
+“Open Access Same-Time Information System,” “PJM Open Access Same-time Information 
+System”  or “OASIS” shall mean the electronic communication system and information system 
+and standards of conduct contained in Part 37 and Part 38 of the Commission’s regulations and 
+all additional requirements implemented by subsequent Commission orders dealing with OASIS 
+for the collection and dissemination of information about transmission services in the PJM 
+Region, established and operated by the Office of the Interconnection in accordance with FERC 
+standards and requirements. 
+ 
+Open-Loop Hybrid Resource: 
+ 
+“Open-Loop Hybrid Resource” shall mean a Hybrid Resource with a storage component that 
+operates by charging its storage component from the grid. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 2 
+ 
+Operating Day: 
+ 
+“Operating Day” shall mean the daily 24 hour period beginning at midnight for which 
+transactions on the PJM Interchange Energy Market are scheduled. 
+ 
+Operating Margin: 
+ 
+“Operating Margin” shall mean the incremental adjustments, measured in megawatts, required in 
+PJM Region operations in order to accommodate, on a first contingency basis, an operating 
+contingency in the PJM Region resulting from operations in an interconnected Control Area.  
+Such adjustments may result in constraints causing Transmission Congestion Charges, or may 
+result in Ancillary Services charges pursuant to the PJM Tariff. 
+ 
+Operating Margin Customer: 
+ 
+“Operating Margin Customer” shall mean a Control Area purchasing Operating Margin pursuant 
+to an agreement between such other Control Area and the LLC. 
+ 
+Operating Reserve: 
+ 
+“Operating Reserve” shall mean the amount of generating capacity scheduled to be available for 
+a specified period of an Operating Day to ensure the reliable operation of the PJM Region, as 
+specified in the PJM Manuals. 
+ 
+Operating Reserve Demand Curve:  
+ 
+“Operating Reserve Demand Curve” shall mean a curve with prices on the y-axis and megawatts 
+on the x-axis, which defines the relationship between each incremental megawatt of reserves that 
+can be used to meet a given reserve requirement. 
+ 
+Operator-initiated Commitment:  
+ 
+“Operator-initiated Commitment” shall mean a commitment after the Day-ahead Energy Market 
+and Day-ahead Scheduling Reserves Market, whether manual or automated, for a reason other 
+than minimizing the total production costs of serving load. 
+ 
+Original PJM Agreement: 
+ 
+“Original PJM Agreement” shall mean that certain agreement between certain of the Members, 
+originally dated September 26, 1956, and as amended and supplemented up to and including 
+December 31, 1996, relating to the coordinated operation of their electric supply systems and the 
+interchange of electric capacity and energy among their systems. 
+ 
+Other Supplier: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 3 
+“Other Supplier” shall mean a Member that:  (i) is engaged in buying, selling or transmitting 
+electric energy, capacity, ancillary services, financial transmission rights or other services 
+available under PJM’s governing documents in or through the Interconnection or has a good faith 
+intent to do so, and; (ii) does not qualify for the Generation Owner, Electric Distributor, 
+Transmission Owner or End-Use Customer sectors. 
+ 
+PJM Board: 
+ 
+“PJM Board” shall mean the Board of Managers of the LLC, acting pursuant to the Operating 
+Agreement, except when such term is being used in Tariff, Attachment M, in which case PJM 
+Board shall mean the Board of Managers of PJM or its designated representative, exclusive of 
+any members of PJM Management. 
+ 
+PJM Control Area: 
+ 
+“PJM Control Area” shall mean the Control Area recognized by NERC as the PJM Control Area. 
+ 
+PJM Dispute Resolution Procedures: 
+ 
+“PJM Dispute Resolution Procedures” shall mean the procedures for the resolution of disputes 
+set forth in Operating Agreement, Schedule 5. 
+ 
+PJM Governing Agreements: 
+ 
+“PJM Governing Agreements” shall mean the PJM Open Access Transmission Tariff, the 
+Operating Agreement, the Consolidated Transmission Owners Agreement, the Reliability 
+Assurance Agreement, or any other applicable agreement approved by the FERC and intended to 
+govern the relationship by and among PJM and any of its Members. 
+ 
+PJM Interchange: 
+ 
+“PJM Interchange” shall mean the following, as determined in accordance with the  Operating 
+Agreement and Tariff: (a) for a Market Participant that is a Network Service User, the amount by 
+which its interval Equivalent Load exceeds, or is exceeded by, the sum of the interval outputs of 
+its operating generating resources; or (b) for a Market Participant that is not a Network Service 
+User, the amount of its Spot Market Backup; or (c) the interval scheduled deliveries of Spot 
+Market Energy by a Market Seller from an External Resource; or (d) the interval net metered 
+output of any other Market Seller; or (e) the interval scheduled deliveries of Spot Market Energy 
+to an External Market Buyer; or (f) the interval scheduled deliveries to an Internal Market Buyer 
+that is not a Network Service User. 
+ 
+PJM Interchange Energy Market: 
+ 
+“PJM Interchange Energy Market” shall mean the regional competitive market administered by 
+the Office of the Interconnection for the purchase and sale of spot electric energy at wholesale in 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 4 
+interstate commerce and related services established pursuant to Operating Agreement, Schedule 
+1, and the parallel provisions of Tariff, Attachment K-Appendix. 
+ 
+PJM Interchange Export: 
+ 
+“PJM Interchange Export” shall mean the following, as determined in accordance with the 
+Operating Agreement and Tariff:  (a) for a Market Participant that is a Network Service User, the 
+amount by which its interval Equivalent Load is exceeded by the sum of the interval outputs of 
+its operating generating resources; or (b) for a Market Participant that is not a Network Service 
+User, the amount of its Spot Market Backup sales; or (c) the interval scheduled deliveries of Spot 
+Market Energy by a Market Seller from an External Resource; or (d) the interval net metered 
+output of any other Market Seller. 
+ 
+PJM Interchange Import: 
+ 
+“PJM Interchange Import” shall mean the following, as determined in accordance with the 
+Operating Agreement and Tariff:  (a) for a Market Participant that is a Network Service User, the 
+amount by which its interval Equivalent Load exceeds the sum of the interval outputs of its 
+operating generating resources; or (b) for a Market Participant that is not a Network Service 
+User, the amount of its Spot Market Backup purchases; or (c) the interval scheduled deliveries of 
+Spot Market Energy to an External Market Buyer; or (d) the interval scheduled deliveries to an 
+Internal Market Buyer that is not a Network Service User. 
+ 
+PJM Manuals:  
+ 
+“PJM Manuals” shall mean the instructions, rules, procedures and guidelines established by the 
+Office of the Interconnection for the operation, planning, and accounting requirements of the 
+PJM Region and the PJM Interchange Energy Market. 
+ 
+PJM Mid-Atlantic Region: 
+ 
+“PJM Mid-Atlantic Region” shall mean the aggregate of the Transmission Facilities of Atlantic 
+City Electric Company, Baltimore Gas and Electric Company, Delmarva Power and Light 
+Company, Jersey Central Power and Light Company, Mid-Atlantic Interstate Transmission, 
+LLC, PECO Energy Company, PPL Electric Utilities Corporation, Potomac Electric Power 
+Company, Public Service Electric and Gas Company, and Rockland Electric Company. 
+ 
+PJM Region: 
+ 
+“PJM Region” shall mean the aggregate of the Zones within PJM as set forth in Tariff, 
+Attachment J. 
+ 
+PJMSettlement:  
+ 
+“PJMSettlement” or “PJM Settlement, Inc.” shall mean PJM Settlement, Inc. (or its successor), 
+established by PJM as set forth in Operating Agreement, section 3.3.   
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 5 
+ 
+PJM South Region: 
+ 
+“PJM South Region” shall mean the Transmission Facilities of Virginia Electric and Power 
+Company. 
+ 
+PJM Tariff, Tariff, O.A.T.T., OATT or PJM Open Access Transmission Tariff:  
+ 
+“PJM Tariff,”  “Tariff,” “O.A.T.T.,” or “PJM Open Access Transmission Tariff” shall mean that 
+certain “PJM Open Access Transmission Tariff”, including any schedules, appendices, or 
+exhibits attached thereto, on file with FERC and as amended from time to time thereafter. 
+ 
+PJM West Region: 
+ 
+“PJM West Region” shall mean the Zones of Allegheny Power; Commonwealth Edison 
+Company (including Commonwealth Edison Co. of Indiana); AEP East Affiliate Companies; 
+The Dayton Power and Light Company; the Duquesne Light Company; American Transmission 
+Systems, Incorporated; Duke Energy Ohio, Inc., Duke Energy Kentucky, Inc. and East Kentucky 
+Power Cooperative, Inc. 
+ 
+Planning Period: 
+ 
+“Planning Period” shall have the meaning specified in the Reliability Assurance Agreement. 
+ 
+Planning Period Balance: 
+ 
+“Planning Period Balance” shall mean the entire period of time remaining in the Planning Period 
+following the month that a monthly auction is conducted. 
+ 
+Planning Period Quarter: 
+ 
+“Planning Period Quarter” shall mean any of the following three month periods in the Planning 
+Period:  June, July and August; September, October and November; December, January and 
+February; or March, April and May. 
+ 
+Point-to-Point Transmission Service: 
+ 
+“Point-to-Point Transmission Service” shall mean the reservation and transmission of capacity 
+and energy on either a firm or non-firm basis from the Point(s) of Delivery under Tariff, Part II. 
+ 
+PRD Curve: 
+ 
+“PRD Curve” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+PRD Provider: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 6 
+“PRD Provider” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+PRD Reservation Price: 
+ 
+ “PRD Reservation Price” shall have the meaning provided in the Reliability Assurance 
+Agreement. 
+ 
+PRD Substation:   
+ 
+“PRD Substation” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+Pre-Emergency Load Response Program: 
+ 
+“Pre-Emergency Load Response Program” shall be the program by which Curtailment Service 
+Providers may be compensated by PJM for Demand Resources that will reduce load when 
+dispatched by PJM during pre-emergency conditions, and is described in Operating Agreement, 
+Schedule 1, section 8 and the parallel provisions of Tariff, Attachment K-appendix, section 8.  
+ 
+President: 
+ 
+“President” shall have the meaning specified in Operating Agreement, section 9.2. 
+ 
+Price Responsive Demand: 
+ 
+“Price Responsive Demand” shall have the meaning provided in the Reliability Assurance 
+Agreement. 
+ 
+Primary Reserve: 
+ 
+“Primary Reserve” shall mean the total reserve capability of generation resources that can be 
+converted fully into energy or Economic Load Response Participant resources whose demand 
+can be reduced within ten minutes of a request from the Office of the Interconnection dispatcher, 
+and is comprised of both Synchronized Reserve and Non-Synchronized Reserve. 
+ 
+Primary Reserve Alert: 
+ 
+“Primary Reserve Alert” shall mean a notification from PJM to alert Members of an anticipated 
+shortage of Operating Reserve capacity for a future critical period. 
+ 
+Primary Reserve Requirement: 
+ 
+“Primary Reserve Requirement” shall mean the megawatts required to be maintained in a 
+Reserve Zone or Reserve Sub-zone as Primary Reserve absent any increase to account for 
+additional reserves scheduled to address operational uncertainty.  The Primary Reserve 
+Requirement is calculated in accordance with the PJM Manuals.  The requirement can be 
+satisfied by any combination of Synchronized Reserve or Non-Synchronized Reserve resources. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 7 
+ 
+Prohibited Securities: 
+ 
+“Prohibited Securities” shall mean the Securities of a Member, Eligible Customer, or 
+Nonincumbent Developer, or their Affiliates, if: 
+ 
+(1) the primary business purpose of the Member or Eligible Customer, or their Affiliates, is to 
+buy, sell or schedule energy, power, capacity, ancillary services or transmission services as 
+indicated by an industry code within the “Electric Power Generation, Transmission, and 
+Distribution” industry group under the North American Industry Classification System 
+(“NAICS”) or otherwise determined by the Office of the Interconnection; 
+  
+(2) the Nonincumbent Developer has been pre-qualified as eligible to be a Designated Entity 
+pursuant to Operating Agreement, Schedule 6; 
+ 
+(3) the total (gross) financial settlements regarding the use of transmission capacity of the 
+Transmission System and/or transactions in the centralized markets that the Office of the 
+Interconnection administers under the Tariff and the Operating Agreement for all Members or 
+Eligible Customers affiliated with the publicly traded company during its most recently 
+completed fiscal year is equal to or greater than 0.5% of its gross revenues for the same time 
+period; or 
+ 
+(4) the total (gross) financial settlements regarding the use of transmission capacity of the 
+Transmission System and/or transactions in the centralized markets that the Office of the 
+Interconnection administers under the Tariff and the Operating Agreement for all Members or 
+Eligible Customers affiliated with the publicly traded company during the prior calendar year is 
+equal to or greater than 3% of the total transactions for which PJMSettlement is a Counterparty 
+pursuant to Operating Agreement, section 3.3 for the same time period. 
+ 
+The Office of the Interconnection shall compile and maintain a list of the Prohibited Securities 
+publicly traded and post this list for all employees and distribute the list to the Board Members. 
+ 
+Proportional Multi-Driver Project: 
+ 
+“Proportional Multi-Driver Project” shall mean a Multi-Driver Project that is planned as 
+described in Operating Agreement, Schedule 6, section 1.5.10(h). 
+ 
+Pseudo-Tie: 
+ 
+“Pseudo-Tie shall have the same meaning set forth in the NERC Glossary of Terms Used in 
+NERC Reliability Standards. 
+ 
+Public Policy Objectives: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions O - P 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 8 
+“Public Policy Objectives” shall refer to Public Policy Requirements, as well as public policy 
+initiatives of state or federal entities that have not been codified into law or regulation but which 
+nonetheless may have important impacts on long term planning considerations. 
+ 
+Public Policy Requirements: 
+ 
+“Public Policy Requirements” shall refer to policies pursued by:  (a) state or federal entities, 
+where such policies are reflected in duly enacted statutes or regulations, including but not limited 
+to, state renewable portfolio standards and requirements under Environmental Protection Agency 
+regulations; and (b) local governmental entities such as a municipal or county government, 
+where such policies are reflected in duly enacted laws or regulations passed by the local 
+governmental entity. 
+ 
+

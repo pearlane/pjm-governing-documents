@@ -1,0 +1,1173 @@
+[ATTACHMENT I - Part 7 of 12]
+
+deviation will accrue for that hour.  If the actual reduction quantity for the load reduction 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 24 
+resource for a given hour is outside the 20% bandwidth, the balancing Operating Reserve 
+deviations will accrue for that hour in the amount of the absolute value of (Desired MW – actual 
+reduction quantity).  For those hours where the actual reduction quantity is within the 20% 
+bandwidth specified above, the load reduction resource will be eligible to be made whole for the 
+total value of its offer as defined in Tariff, Attachment K-Appendix, section 3.3A.  Hours for 
+which the actual reduction quantity is outside the 20% bandwidth will not be eligible for the 
+make-whole payment.  If at least one hour is not eligible for make-whole payment based on the 
+20% criteria, then the resource will also not be made whole for its shutdown cost. 
+(p) The Office of the Interconnection shall allocate the charges assessed pursuant to 
+Tariff, Attachment K-Appendix, section 3.2.3(h) except those associated with the scheduling of 
+units for Black Start service or testing of Black Start Units as provided in Tariff, Schedule 6A, to 
+real-time deviations from day-ahead schedules or real-time load share plus exports depending on 
+whether the underlying balancing Operating Reserve credits are related to resources scheduled 
+during the reliability analysis for an Operating Day, or during the actual Operating Day.  If the 
+Office of the Interconnection declares a Market Suspension, per Operating Agreement, section 
+1.11.6, the Office of the Interconnection shall allocate the charges to the ratio share of real-time 
+load plus export transactions. 
+ 
+(i) For resources scheduled by the Office of the Interconnection during the 
+reliability analysis for an Operating Day, the associated balancing Operating Reserve 
+charges shall be allocated based on the reason the resource was scheduled according to 
+the following provisions: 
+ 
+(A) If the Office of the Interconnection determines during the 
+reliability analysis for an Operating Day that a resource was committed to operate 
+in real-time to augment the physical resources committed in the Day-ahead 
+Energy Market to meet the forecasted real-time load plus the Operating Reserve 
+requirement, the associated balancing Operating Reserve charges shall be 
+allocated to real-time deviations from day-ahead schedules.   
+ 
+(B) If the Office of the Interconnection determines during the 
+reliability analysis for an Operating Day that a resource was committed to 
+maintain system reliability, the associated balancing Operating Reserve charges 
+shall be allocated according to ratio share of real time load plus export 
+transactions.   
+ 
+(C) If the Office of the Interconnection determines during the 
+reliability analysis for an Operating Day that a resource with a day-ahead 
+schedule is required to deviate from that schedule to provide balancing Operating 
+Reserves, the associated balancing Operating Reserve charges shall be allocated 
+pursuant to (A) or (B) above.   
+ 
+(ii) For resources scheduled during an Operating Day, the associated 
+balancing Operating Reserve charges shall be allocated according to the following 
+provisions: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 25 
+ 
+(A) If the Office of the Interconnection directs a resource to operate 
+during an Operating Day to provide balancing Operating Reserves, the associated 
+balancing Operating Reserve charges shall be allocated according to ratio share of 
+load plus exports.  The foregoing notwithstanding, charges will be assessed 
+pursuant to this section only if the LMP at the resource’s bus does not meet or 
+exceeds the applicable offer of the resource for at least four-5-minute intervals 
+during one or more discrete clock hours during each period the resource operated 
+and produced MWs during the relevant Operating Day.   If a resource operated 
+and produced MWs for less than four 5-minute intervals during one or more 
+discrete clock hours during the relevant Operating Day, the charges for that 
+resource during the hour it was operated less than four 5-minute intervals will be 
+identified as being in the same category as identified for the Operating Reserves 
+for the other discrete clock hours. 
+ 
+(B) If the Office of the Interconnection directs a resource not covered 
+by Tariff, Attachment K-Appendix, section 3.2.3(h)(ii)(A) to operate in real-time 
+during an Operating Day, the associated balancing Operating Reserve charges 
+shall be allocated according to real-time deviations from day-ahead schedules.  
+ 
+ (q) The Office of the Interconnection shall determine regional balancing Operating 
+Reserve rates for the Western and Eastern Regions of the PJM Region.  For the purposes of this 
+section, the Western Region shall be the AEP, APS, ComEd, Duquesne, Dayton, ATSI, DEOK, 
+EKPC, OVEC transmission Zones, and the Eastern Region shall be the AEC, BGE, Dominion, 
+PENELEC, PEPCO, ME, PPL, JCPL, PECO, DPL, PSEG, RE transmission Zones.  The regional 
+balancing Operating Reserve rates shall be determined in accordance with the following 
+provisions: 
+ 
+(i) The Office of the Interconnection shall calculate regional adder rates for 
+the Eastern and Western Regions.  Regional adder rates shall be equal to the total 
+balancing Operating Reserve credits paid to generators for transmission constraints that 
+occur on transmission system capacity equal to or less than 345kv.  The regional adder 
+rates shall be separated into reliability and deviation charges, which shall be allocated to 
+real-time load or real-time deviations, respectively.  Whether the underlying credits are 
+designated as reliability or deviation charges shall be determined in accordance with 
+section 3.2.3(p). 
+ 
+(ii) The Office of the Interconnection shall calculate RTO balancing 
+Operating Reserve rates.  RTO balancing Operating Reserve rates shall be equal to 
+balancing Operating Reserve credits except those associated with the scheduling of units 
+for Black Start service or testing of Black Start Units as provided in Tariff, Schedule 6A, 
+in excess of the regional adder rates calculated pursuant to Tariff, Attachment K-
+Appendix, section 3.2.3(q)(i) of Schedule 1 of this Agreement. The RTO balancing 
+Operating Reserve rates shall be separated into reliability and deviation charges, which 
+shall be allocated to real-time load or real-time deviations, respectively.  Whether the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 26 
+underlying credits are allocated as reliability or deviation charges shall be determined in 
+accordance with section 3.2.3(p). 
+ 
+(iii) Reliability and deviation regional balancing Operating Reserve rates shall 
+be determined by summing the relevant RTO balancing Operating Reserve rates and 
+regional adder rates. 
+ 
+(iv) If the Eastern and/or Western Regions do not have regional adder rates, 
+the relevant regional balancing Operating Reserve rate shall be the reliability and/or 
+deviation RTO balancing Operating Reserve rate. 
+ 
+(r)  Market Sellers that incur incremental operating costs for a generation resource 
+that are either greater than $1,000/MWh as determined in accordance with the Market Seller’s 
+PJM-approved Fuel Cost Policy, Operating Agreement, Schedule 2 and PJM Manual 15, but are 
+not verified at the time of dispatch of the resource under section 6.4.3 of this Schedule, or greater 
+than $2,000/MWh as determined in accordance with the Market Seller’s PJM-approved Fuel 
+Cost Policy, Operating Agreement, Schedule 2, and PJM Manual 15, will be eligible to receive 
+credit for Operating Reserves upon review of the Market Monitoring Unit and the Office of the 
+Interconnection, and approval of the Office of the Interconnection.  Market Sellers must submit 
+to the Office of the Interconnection and the Market Monitoring Unit all relevant documentation 
+demonstrating the calculation of costs greater than $2,000/MWh, and costs greater than 
+$1,000/MWh which were not verified at the time of dispatch of the resource under Tariff, 
+Attachment K-Appendix, section 6.4.3.  The Office of the Interconnection must approve any 
+Operating Reserve credits paid to a Market Seller under this subsection (r).   
+ 
+3.2.3A Synchronized Reserve. 
+ 
+ (a) Each Market Participant that is a Load Serving Entity that is not part of an 
+agreement to share reserves with external entities subject to the requirements in BAL-002 shall have 
+an obligation for hourly Synchronized Reserve equal to its pro rata share of Synchronized 
+Reserve requirements for the hour for each Reserve Zone and Reserve Sub-zone of the PJM 
+Region, based on the Market Participant’s total load (net of operating Behind The Meter 
+Generation, but not to be less than zero) in such Reserve Zone or Reserve Sub-zone for the hour 
+(“Synchronized Reserve Obligation”), less any amount obtained from condensers associated with 
+provision of Reactive Services as described in section 3.2.3B(i) and any amount obtained from 
+condensers associated with post-contingency operations, as described in section 3.2.3C(b).  
+Those entities that participate in an agreement to share reserves with external entities subject to the 
+requirements in BAL-002 shall have their reserve obligations determined based on the stipulations in 
+such agreement.  A Market Participant’s hourly Synchronized Reserve Obligation shall be 
+adjusted by any Synchronized Reserve provided on the Market Participant’s behalf through a 
+bilateral agreement.  A Market Participant with an hourly Synchronized Reserve Obligation shall 
+be charged the pro rata share of the sum of day-ahead and real-time credits for Synchronized 
+Reserve as defined in sections 3.2.3A(b)(i) and (ii) below. 
+  
+ (b) A resource supplying Synchronized Reserve at the direction of the Office of the 
+Interconnection shall be credited as follows:  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 27 
+ 
+i) Credits for Synchronized Reserve provided by generation and Economic 
+Load Response Participant resources assigned to provide Synchronized Reserve by the 
+Office of the Interconnection or self-scheduled in the Day-ahead Synchronized Reserve 
+Market shall be equal to the product of the Day-ahead Synchronized Reserve Market 
+Clearing Price multiplied by the megawatt amount of Synchronized Reserve such 
+resource is assigned to provide.. 
+ 
+ii) Credits for Synchronized Reserve provided by generation resources and 
+Economic Load Response Participant resources assigned to provide Synchronized 
+Reserve by the Office of the Interconnection or self-scheduled in the Real-time 
+Synchronized Reserve Market shall be determined for each operating hour based on the 
+sum of their hourly total of Real-time Settlement Interval deviations determined in 
+accordance with the following equation:  
+ 
+∑i ((A - B) * C) 
+ 
+Where: 
+ 
+i = the Real-time Settlement Intervals in the applicable operating hour; 
+ 
+A = For each Real-time Settlement Interval, the megawatts of Synchronized 
+Reserve from that resource assigned by the Office of the Interconnection or self-
+scheduled in the Real-time Synchronized Reserve Market.  The megawatt value is 
+capped at the lesser of the Economic Maximum and the Synchronized Reserve 
+maximum MW minus the Revenue Data for Settlements of the resource for each 
+Real-time Settlement Interval where there is not a Synchronized Reserve event;  
+ 
+B = For each Real-time Settlement Interval, the megawatts of Synchronized 
+Reserve from that resource assigned by the Office of the Interconnection or self-
+scheduled in the Day-ahead Synchronized Reserve Market; and 
+ 
+C = For each Real-time Settlement Interval, the Real-time Synchronized Reserve 
+Market Clearing Price.  
+ 
+If a Synchronized Reserve Event is initiated by the Office of the Interconnection 
+and the Economic Load Response Participant resource reduced its load in response to the 
+event, the resource shall be eligible to receive a credit for the fixed costs associated with 
+achieving the load reduction, as specified in the PJM Manuals. 
+ 
+iii) Pool-scheduled resources shall be credited a Synchronized Reserve lost 
+opportunity cost credit, where positive, as described in subsection (f)(iv) below. 
+ 
+ (c) [Reserved for future use] 
+ 
+ (d) Synchronized Reserve Market Clearing Prices 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 28 
+   
+(i) For the Day-ahead Synchronized Reserve Market, the Synchronized 
+Reserve Market Clearing Price shall be determined for each Reserve Zone and Reserve 
+Sub-zone by the Office of the Interconnection for each hour of the Operating Day.  The 
+Day-ahead Synchronized Reserve Market Clearing Price shall be calculated as the price 
+of serving the next increment of demand for Synchronized Reserve in a Reserve Zone or 
+Reserve Sub-zone, determined by the interaction between a supply curve formed using 
+Synchronized Reserve offer prices and opportunity costs and the applicable Operating 
+Reserve Demand Curve for Synchronized Reserve established in accordance with Tariff, 
+Attachment K-Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-zone, 
+plus (A) the price of serving the next increment of demand for Synchronized Reserve for 
+any other Reserve Zone or Reserve Sub-zone to which the next increment of demand for 
+Synchronized Reserve can contribute and (B) the price of serving the next increment of 
+demand for Primary Reserve and 30-minute Reserve for each Reserve Zone or Reserve 
+Sub-zone to which the next increment of demand for Synchronized Reserve can 
+contribute, provided that the Synchronized Reserve Market Clearing Price shall be less 
+than or equal to the sum of no more than two of the Reserve Penalty Factors for the 
+Synchronized Reserve Requirement, the Primary Reserve Requirement, and the 30-
+minute Reserve Requirement for the Reserve Zone or Reserve Sub-zone to which the 
+next increment of demand for Synchronized Reserve can contribute.   
+ 
+If the Office of the Interconnection declares a Market Suspension, per Operating 
+Agreement, Schedule 1, section 1.10.8(d), Day-ahead Synchronized Reserve Market 
+Clearing Prices shall be set to zero dollars per megawatt-hour and for purposes of 
+settlements for such Operating Day, the Office of the Interconnection shall utilize a 
+scheduled megawatt quantity and Day-ahead Synchronized Reserve Market Clearing 
+Price of zero dollars per megawatt-hour and all settlements will be based on the Real-
+time Synchronized Reserve market quantities and prices as determined pursuant to 
+subsection (d)(ii) hereof. 
+ 
+ (ii) For the Real-time Synchronized Reserve Market, the Synchronized 
+Reserve Market Clearing Price shall be determined for each Reserve Zone and Reserve 
+Sub-zone by the Office of the Interconnection in the Real-time Price software program, 
+which is known as the pricing run, for each Real-time Settlement Interval of the 
+Operating Day.  Each 5-minute clearing price shall be calculated as the price of serving 
+the next increment of demand for Synchronized Reserve in a Reserve Zone or Reserve 
+Sub-zone, determined by the interaction between a supply curve formed using 
+Synchronized Reserve offer prices and opportunity costs and the applicable Operating 
+Reserve Demand Curve for Synchronized Reserve established in accordance with Tariff, 
+Attachment K-Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-zone, 
+plus (A) the price of serving the next increment of demand for Synchronized Reserve for 
+any other Reserve Zone or Reserve Sub-zone to which the next increment of demand for 
+Synchronized Reserve can contribute and (B) the price of serving the next increment of 
+demand for Primary Reserve and 30-minute Reserve for each Reserve Zone or Reserve 
+Sub-zone to which the next increment of demand for Synchronized Reserve can 
+contribute, provided that the Synchronized Reserve Market Clearing Price shall be less 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 29 
+than or equal to the sum of no more than two of the Reserve Penalty Factors for the 
+Synchronized Reserve Requirement, the Primary Reserve Requirement, and the 30-
+minute Reserve Requirement for the Reserve Zone or Reserve Sub-zone to which the 
+next increment of demand for Synchronized Reserve can contribute.   
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, and the Office of the Interconnection is not 
+assigning Synchronized Reserves, then the Synchronized Reserve Market Clearing Price 
+will be set to zero dollars per megawatt-hour for all Real-time Settlement Intervals in the 
+Market Suspension period. 
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, where the real-time Market Suspension is less than 
+or equal to six (6) consecutive hours, which may span up to two Operating Days, and the 
+Office of the Interconnection is assigning Synchronized Reserves, then the Synchronized 
+Reserve Market Clearing Prices associated with such Market Suspension shall be the 
+average of the Synchronized Reserve Market Clearing Prices for all Real-time Settlement 
+Intervals of the preceding and subsequent clock hours (from XX:00 to XX:59) adjacent to 
+such Market Suspension. 
+ 
+If the real-time Market Suspension is greater than six (6) consecutive hours but less than 
+or equal to twenty-four (24) consecutive hours, which may span up to two Operating 
+Days, and there are cleared Day-ahead Synchronized Reserve Market Clearing Prices for 
+the affected Operating Day, then the Real-time Synchronized Reserve Market Clearing 
+Prices associated with such Market Suspension shall be the Day-ahead Synchronized 
+Reserve Market Clearing Prices for each corresponding hour. If no such Day-ahead 
+Synchronized Reserve Market Clearing Prices exist, then the Synchronized Reserve 
+Market Clearing Prices associated with such Market Suspension shall be the average of 
+the Synchronized Reserve Market Clearing Prices for all Real-time Settlement Intervals 
+of the preceding and subsequent clock hours (from XX:00 to XX:59) adjacent to such 
+Market Suspension. 
+ 
+If the real-time Market Suspension is greater than twenty-four (24) consecutive hours, 
+and the Office of the Interconnection is assigning Synchronized Reserves, the Office of 
+the Interconnection will set the Synchronized Reserve Market Clearing Price to zero 
+dollars per megawatt-hour for all Real-time Settlement Intervals in the Market 
+Suspension period. Resources will be compensated for lost opportunity cost per 
+subsection (f) hereof using the energy price as determined in Operating Agreement, 
+Schedule 1, section 2.5.2.iii. The opportunity cost shall be zero for all resources self-
+scheduled to provide Synchronized Reserve, synchronous condensers and Economic 
+Load Response Participant resources. 
+ 
+If the Office of the Interconnection has initiated in a Reserve Zone or Reserve Sub-zone 
+either a Voltage Reduction Action as described in the PJM Manuals or a Manual Load 
+Dump Action as described in the PJM Manuals, the Real-time Synchronized Reserve 
+Market Clearing Price shall be the sum of the Reserve Penalty Factors for the Primary 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 30 
+Reserve Requirement, and the Synchronized Reserve Requirement for that Reserve Zone 
+or Reserve Sub-zone.  
+ 
+(iii) The Reserve Penalty Factor for the Synchronized Reserve Requirement shall be 
+$850/MWh. 
+ 
+The Reserve Penalty Factor for the Extended Synchronized Reserve Requirement shall be 
+$300/MWh. 
+ 
+(iv) By no later than April 30 of each year, the Office of the Interconnection will 
+analyze Market Participants’ response to prices exceeding $1,000/MWh on an annual 
+basis and will provide its analysis to PJM stakeholders.  The Office of the 
+Interconnection will also review this analysis to determine whether any changes to the 
+Synchronized Reserve Penalty Factors are warranted for subsequent Delivery Year(s). 
+ 
+(e) (i) For determining the Synchronized Reserve Market Clearing Price in each 
+hour of the Day-ahead Synchronized Reserve Market, the estimated resource-specific 
+opportunity cost for a generation resource or Economic Load Response Participant 
+resource shall be the difference between the Locational Marginal Price at the generation 
+or Economic Load Response Participant resource bus and the offer price for energy from 
+the generation resource (at the megawatt level of the energy dispatch point for the 
+resource) or offer price to reduce energy from the Economic Load Response Participant 
+resource in the PJM Interchange Energy Market when the Locational Marginal Price at 
+the generation or Economic Load Participant resource bus is greater than the offer price 
+for energy from the generation resource or the offer price to reduce energy from the 
+Economic Load Response Participant resource.   
+ 
+However, the opportunity costs shall be zero for resources self-scheduled to provide 
+Synchronized Reserve and for synchronous condensers and for Economic Load Response 
+Participant resources that do not receive a day-ahead commitment to provide energy in 
+the same operating hour in which such resource is committed to provide Synchronized 
+Reserve. 
+  
+(ii) For determining the Synchronized Reserve Market Clearing Price for each 
+Real-time Settlement Interval in the Real-time Synchronized Reserve Market, the 
+estimated unit-specific opportunity cost for a generation resource that is not a 
+hydroelectric resource shall be the difference between the Locational Marginal Price at 
+the generation bus for the generation resource and the offer price for energy from the 
+generation resource (at the megawatt level of the energy dispatch point for the resource) 
+in the PJM Interchange Energy Market when the Locational Marginal Price at the 
+generation bus is greater than the offer price for energy from the generation resource.   
+ 
+For hydroelectric resources, the estimated unit-specific opportunity costs for each 
+hydroelectric resource in spill conditions as defined in the PJM Manuals will be the 
+expected real-time Locational Marginal Price at that generation bus.  The estimated unit-
+specific opportunity costs for each hydroelectric resource that is not in spill conditions, as 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 31 
+defined in the PJM Manuals, and has a day-ahead energy commitment greater than zero 
+shall be the greater of zero and the difference between the expected real-time Locational 
+Marginal Price at the generation bus for the hydroelectric resource and the average day-
+ahead Locational Marginal Price at the generation bus for the appropriate on-peak or off-
+peak period as defined in the PJM Manuals, excluding those hours during which all 
+available units at the hydroelectric resource were operating.  The estimated unit-specific 
+opportunity costs for each hydroelectric resource that is not in spill conditions as defined 
+in the PJM Manuals and does not have a day-ahead energy commitment greater than zero 
+shall be zero.  
+   
+The opportunity costs shall be zero for all resources self-scheduled to provide 
+Synchronized Reserve, synchronous condensers and Economic Load Response 
+Participant resources.  
+  
+(f) (i) In determining the credit under subsection (b) to a generation resource, 
+except a generation resource that is operating as a synchronous condenser, selected to provide 
+Synchronized Reserve in the Day-ahead Synchronized Reserve Market, or an Economic Load 
+Response Participant resource that is selected to provide Synchronized Reserve in the Day-ahead 
+Synchronized Reserve Market for the same operating hour in which such resource receives a 
+day-ahead commitment to provide energy, the opportunity cost of a resource shall be determined 
+for each operating hour that the Office of the Interconnection requires a resource to provide 
+Synchronized Reserve and shall be in accordance with the following equation: 
+ 
+(A x B) - C 
+ 
+Where: 
+ 
+A = The Day-ahead Locational Marginal Price at the generation bus of the generation 
+resource or the applicable pricing point for the Economic Load Response Participant resource;  
+ 
+B =  The deviation of the resource’s energy output or load reduction necessary to supply 
+a Day-ahead Synchronized Reserve assignment from the resource’s energy expected output or 
+load reduction level if it had been assigned in economic merit order to provide energy or reduce 
+load; and  
+ 
+C = The Day-ahead Energy market offer integrated under the applicable energy offer 
+curve for the resource’s energy output or load reduction necessary to provide a Day-
+ahead Synchronized Reserve Market assignment from the resource’s expected energy 
+output or load reduction level if it had been assigned in economic merit order to provide 
+energy or reduce load. 
+ 
+For a generation resource that is operating as a synchronous condenser, the resource’s 
+unit-specific opportunity cost shall be determined as follows: [energy use for providing 
+synchronous condensing multiplied by A] plus [the applicable condense start-up cost 
+divided by the number of hours the resource is assigned Synchronized Reserve].  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 32 
+(ii)  In determining the credit under subsection (b) to a generation resource, 
+except a generation resource that is operating as a synchronous condenser, selected to 
+provide Synchronized Reserve in the Real-time Synchronized Reserve Market in excess 
+of the resource’s Day-ahead Synchronized Reserve Market assignment and that actively 
+follows the Office of the Interconnection’s signals and instructions, the unit-specific 
+opportunity cost of that generation resource shall be determined for each Real-time 
+Settlement Interval that the Office of the Interconnection requires that generation 
+resource to provide Synchronized Reserve and shall be in accordance with the following 
+equation: 
+ 
+(A x B) - C 
+ 
+Where: 
+ 
+A = The Real-time Locational Marginal Price at the generation bus of the 
+generation resource;  
+ 
+B = The deviation of the generation resource’s output necessary to supply 
+Synchronized Reserve in real-time, reduced by the amount of Synchronized 
+Reserve the resource failed to respond during a Synchronized Reserve Event 
+during the Operating Day, in excess of its Day-ahead Synchronized Reserve 
+Market assignment and follow the Office of the Interconnection’s signals and 
+instructions from the generation resource’s expected output level if it had been 
+dispatched in economic merit order to provide energy; and 
+ 
+C = The energy offer integrated under the applicable energy offer curve for the 
+generation resource’s output necessary to supply Synchronized Reserve in real-
+time from the lesser of the generation resource’s output necessary to provide a 
+Day-ahead Synchronized Reserve Market assignment or follow the Office of the 
+Interconnection’s signals and instructions from the generation resource’s expected 
+output level if it had been dispatched in economic merit order to provide energy. 
+ 
+For a generation resource that is a synchronous condenser, the resource’s unit-specific 
+opportunity cost shall be determined as follows: [additional energy use in excess of day-
+ahead energy use for providing synchronous condensing in real-time multiplied by A] 
+plus [any applicable condense start-up costs due to additional condense start-ups in real-
+time in excess of day-ahead condense start-ups allocated to each Real-time Settlement 
+Interval as described in PJM Manuals]. 
+ 
+For hydroelectric resources, the unit-specific opportunity costs for each hydroelectric 
+resource in spill conditions as defined in the PJM Manuals will be the real-time 
+Locational Marginal Price at that generation bus multiplied by the additional megawatts 
+assigned to supply Synchronized Reserve in real-time in excess of its Day-ahead 
+Synchronized Reserve Market assignment. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 33 
+The unit-specific opportunity costs for each hydroelectric resource that is not in spill 
+conditions as defined in the PJM Manuals and has a day-ahead energy commitment 
+greater than zero shall be the greater of zero and the difference between the real-time 
+Locational Marginal Price at the generation bus for the hydroelectric resource and the 
+average real-time Locational Marginal Price at the generation bus for the appropriate on-
+peak or off-peak period as defined in the PJM Manuals, excluding those hours during 
+which all available units at the hydroelectric resource were operating multiplied by the 
+additional megawatts assigned to supply the hourly Synchronized Reserve in real-time in 
+excess of its Day-ahead Synchronized Reserve Market assignment.   
+ 
+The unit-specific opportunity costs for each hydroelectric resource that is not in spill 
+conditions as defined in the PJM Manuals and does not have a day-ahead energy 
+commitment greater than zero shall be zero. 
+ 
+(iii)  For each Real-time Settlement Interval, a Market Revenue Neutrality 
+Offset is calculated for each resource, if eligible.  If there is a decrease in the resource’s 
+real-time reserve MW from a day-ahead market assignment in more than one market for 
+that Real-time Settlement Interval, the total Market Revenue Neutrality Offset is 
+allocated to the Synchronized Reserve market based on the ratio of the opportunity cost 
+owed due to a reduction in assignment in real-time within the Synchronized Reserve 
+market and the total opportunity cost owed due to a reduction in assignment in real-time 
+from all reserve markets, not to exceed the resource’s opportunity cost owed in the 
+Synchronized Reserve market. 
+ 
+A resource is not eligible for Market Revenue Neutrality Offset for Synchronized 
+Reserve in a Real-time Settlement Interval for any of the following conditions: 
+ 
+(A) A resource’s real-time Synchronized Reserve assignment decreases 
+due to the resource being self-scheduled to provide energy or Regulation;   
+ 
+(B) A resource reduces its flexibility in real-time such that the resource 
+no longer qualifies to provide Synchronized Reserve in real-time; 
+ 
+(C) A resource’s Final Offer is less than its Committed Offer; 
+ 
+(D) A resource trips offline or otherwise becomes unavailable in real-
+time; 
+(E) A resource does not follow dispatch as described in section 
+3.2.3(o) above and section 3.2.3(o-1) above; or 
+ 
+(F) A resource increases its Synchronized Reserve offer price in the 
+Real-time Synchronized Reserve Market from its offer price in the Day-ahead 
+Synchronized Reserve Market. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 34 
+(iv) A Synchronized Reserve lost opportunity cost credit is determined for 
+each resource for each Real-time Settlement Interval in accordance with the following 
+equation:  
+ 
+(A + B + C + D) – (E + F + G + H) 
+ 
+Where:  
+ 
+A = day-ahead Synchronized Reserve offer price times the Synchronized Reserve 
+MW assignment;  
+ 
+B = real-time Synchronized Reserve offer price times the Synchronized Reserve 
+MW assigned in real-time in excess of the Synchronized Reserve MW assigned 
+day-ahead, where the Synchronized Reserve MW assigned is capped at the lesser 
+of the Economic Maximum and the Synchronized Reserve maximum MW minus 
+the Revenue Data for Settlements of the resource for each Real-time Settlement 
+Interval where there is not a Synchronized Reserve event; 
+ 
+C = day-ahead opportunity cost as determined in subsection (f)(i) above;  
+ 
+D = real-time opportunity cost as determined in subsection (f)(ii) above;  
+ 
+E = day-ahead clearing price credits as determined in subsection (b)(i) above;  
+ 
+F = real-time clearing price credits as determined in subsection (b)(ii) above less 
+any applicable charges for failure to respond to a Synchronized Reserve Event as 
+determined in subsection (j) below; 
+ 
+G = the applicable Market Revenue Neutrality Offset as determined in subsection 
+(f)(iii) above; and  
+ 
+H = the opportunity cost credit owed due to a reduction in assignment in real-time 
+as described in section 3.2.3A(f)(iii) above if not eligible for Market Revenue 
+Neutrality Offset.     
+ 
+(v)  The opportunity costs for an Economic Load Response Participant 
+resource assigned Synchronized Reserve in real-time or any resource self-scheduled for 
+Synchronized Reserves shall be zero. 
+ 
+ (g) [Reserved for future use]  
+ 
+ (h) For each operating hour, the sum of the Synchronized Reserve lost opportunity 
+cost credits credited in accordance with subsection (b)(iii) above shall be allocated and charged 
+to each Market Participant that does not meet its hourly Synchronized Reserve Obligation in 
+proportion to its real-time purchases of Synchronized Reserve in megawatt-hours during that 
+hour. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 35 
+ 
+ (i) [Reserved for future use] 
+ 
+ (j) In the event a generation resource or Economic Load Response Participant 
+Resource that either has been assigned by the Office of the Interconnection or self-scheduled to 
+provide Synchronized Reserve in real-time fails to provide the assigned or self-scheduled amount 
+of Synchronized Reserve in response to a Synchronized Reserve Event, the resource will be 
+charged at the Real-time Synchronized Reserve Market Clearing Price for the real-time 
+Synchronized Reserve assignment, in excess of amount that actually responded for all Real-time 
+Settlement Intervals the resource was assigned or self-scheduled Synchronized Reserve real-
+time, which is capped at the lesser of the Economic Maximum and the Synchronized Reserve 
+maximum MW minus the Revenue Data for Settlements for the resource on the Operating Day 
+during which the event occurred. The determination of the amount of Synchronized Reserve 
+credited to a resource shall be on an individual resource basis, not on an aggregate basis. 
+ 
+The resource shall refund payments received for Synchronized Reserve it failed to provide.  For 
+purposes of determining the amount of the payments to be refunded by a Market Participant, the 
+Office of the Interconnection shall calculate the shortfall of Synchronized Reserve on an 
+individual resource basis unless the Market Participant had multiple resources that were assigned 
+or self-scheduled to provide Synchronized Reserve, in which case the shortfall will be 
+determined on an aggregate basis.  For performance determined on an aggregate basis, the 
+response of any resource that provided more Synchronized Reserve than it was assigned or self-
+scheduled to provide will be used to offset the performance of other resources that provided less 
+Synchronized Reserve than they were assigned or self-scheduled to provide during a 
+Synchronized Reserve Event, as calculated in the PJM Manuals.  The determination of a Market 
+Participant’s aggregate response shall not be taken into consideration in the determination of the 
+amount of Synchronized Reserve credited to each individual resource.  
+ 
+The amount refunded shall be determined by multiplying the retroactive penalty megawatts by 
+the Real-time Synchronized Reserve Market Clearing Price for all intervals the resource was 
+assigned or self-scheduled to provide Synchronized Reserve for a period of time immediately 
+preceding the Synchronized Reserve Event equal to the lesser of the average number of days 
+between Synchronized Reserve Events, or the number of days since the resource last failed to 
+provide the amount of Synchronized Reserve it was assigned or self-scheduled to provide in 
+response to a Synchronized Reserve Event.  The retroactive penalty megawatts for each interval 
+shall be the lesser of the amount of the shortfall of Synchronized Reserve, measured in 
+megawatts, and the real-time Synchronized Reserve assignment for each interval, which is 
+capped at the lesser of the Economic Maximum and the Synchronized Reserve maximum MW 
+minus the Revenue Data for Settlements for the resource.  The average number of days between 
+Synchronized Reserve Events for purposes of this calculation shall be determined by an annual 
+review of the twenty-four month period ending October 31 of the calendar year in which the 
+review is performed, and shall be rounded down to a whole day value.  The Office of the 
+Interconnection shall report the results of its annual review to stakeholders by no later than 
+December 31, and the average number of days between Synchronized Reserve Events shall be 
+effective as of the following January 1.  The refunded charges shall be allocated as credits to 
+Market Participants based on its pro rata share of the Synchronized Reserve Obligation 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 36 
+megawatts in the hour(s) of the Synchronized Reserve Event for the Reserve Sub-zone or 
+Reserve Zone, except that Market Participants that incur a refund obligation and also have an 
+applicable Synchronized Reserve Obligation during the hour(s) of the Synchronized Reserve 
+Event shall not be included in the allocation of such refund credits.  If the event spans multiple 
+hours, the refund credits will be prorated hourly based on the duration of the event within each 
+clock hour. 
+ 
+ (k) The magnitude of response to a Synchronized Reserve Event by a generation 
+resource or an Economic Load Response Participant resource, except for Batch Load Economic 
+Load Response Participant resources covered by section 3.2.3A(l), is the difference between the 
+generation resource’s output or the Economic Load Response Participant resource’s consumption 
+at the start of the event and its output or consumption 10 minutes after the start of the event.  In 
+order to allow for small fluctuations and possible telemetry delays, generation resource output or 
+Economic Load Response Participant resource consumption at the start of the event is defined as 
+the lowest telemetered generator resource output or greatest Economic Load Response 
+Participant resource consumption between one minute prior to and one minute following the start 
+of the event.  Similarly, a generation resource's output or an Economic Load Response 
+Participant resource's consumption 10 minutes after the event is defined as the greatest generator 
+resource output or lowest Economic Load Response Participant resource consumption achieved 
+between 9 and 11 minutes after the start of the event.  The response actually credited to a 
+generation resource will be reduced by the amount the megawatt output of the generation 
+resource falls below the level achieved after 10 minutes by either the end of the event or after 30 
+minutes from the start of the event, whichever is shorter.  The response actually credited to an 
+Economic Load Response Participant resource will be reduced by the amount the megawatt 
+consumption of the Economic Load Response Participant resource exceeds the level achieved 
+after 10 minutes by either the end of the event or after 30 minutes from the start of the event, 
+whichever is shorter. 
+ 
+ (l) The magnitude of response by a Batch Load Economic Load Response Participant 
+resource that is at the stage in its production cycle when its energy consumption is less than the 
+level of megawatts in its offer at the start of a Synchronized Reserve Event shall be the 
+difference between (i) the Batch Load Economic Load Response Participant resource’s 
+consumption at the end of the Synchronized Reserve Event and (ii) the Batch Load Economic 
+Load Response Participant resource’s consumption during the minute within the ten minutes 
+after the end of the Synchronized Reserve Event in which the Batch Load Economic Load 
+Response Participant resource’s consumption was highest and for which its consumption in all 
+subsequent minutes within the ten minutes was not less than fifty percent of the consumption in 
+such minute; provided that, the magnitude of the response shall be zero if, when the 
+Synchronized Reserve Event commences, the scheduled off-cycle stage of the production cycle 
+is greater than ten minutes. . 
+ 
+3.2.3A.001  Non-Synchronized Reserve. 
+ 
+(a) Each Market Participant that is a Load Serving Entity that is not part of an 
+agreement to share reserves with external entities subject to the requirements in BAL-002 shall have 
+an obligation for hourly Non-Synchronized Reserve equal to its pro rata share of Non-
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 37 
+Synchronized Reserve assigned for the hour for each Reserve Zone and Reserve Sub-zone of the 
+PJM Region, based on the Market Participant’s total load (net of operating Behind The Meter 
+Generation, but not to be less than zero) in such Reserve Zone and Reserve Sub-zone for the 
+hour (“Non-Synchronized Reserve Obligation”).  Those entities that participate in an agreement to 
+share reserves with external entities subject to the requirements in BAL-002 shall have their reserve 
+obligations determined based on the stipulations in such agreement.  A Market Participant’s hourly 
+Non-Synchronized Reserve Obligation shall be adjusted by any Non-Synchronized Reserve 
+provided on the Market Participant’s behalf through a bilateral agreement.  A Market Participant 
+with an hourly Non-Synchronized Reserve Obligation shall be charged the pro rata share of the 
+sum day-ahead and real-time credits for Non-Synchronized Reserve as defined in sections 
+3.2.3A.001(b)(i) and (ii) below.  
+ 
+(b) Resources assigned to provide Non-Synchronized Reserve at the direction of the  
+Office of the Interconnection shall be credited as follows:  
+ 
+(i) Credits for Non-Synchronized Reserve provided by generation resources 
+assigned to provide Non-Synchronized Reserve by the Office of the Interconnection in 
+the Day-ahead Non-Synchronized Reserve Market shall be equal to the product of the 
+Day-ahead Non-Synchronized Market Clearing Price multiplied by the megawatt amount 
+of Non-Synchronized Reserve such resource is assigned to provide. 
+ 
+(ii) Credits for Non-Synchronized Reserve provided by generation resources 
+assigned to provide Non-Synchronized Reserve by the Office of the Interconnection in 
+the Real-time Non-Synchronized Reserve Market shall be determined for each operating 
+hour based on the sum on their hourly total of Real-time Settlement Interval deviations 
+determined in accordance with the following equation:  
+ 
+∑i ((A - B) * C) 
+ 
+Where: 
+ 
+i = the Real-time Settlement Intervals in the applicable operating hour; 
+ 
+A = For each Real-time Settlement Interval, the megawatts of Non-Synchronized 
+Reserve from that resource assigned by the Office of the Interconnection in the 
+Real-time Non-Synchronized Reserve Market;  
+ 
+B = For each Real-time Settlement Interval, the megawatts of Non-Synchronized 
+Reserve from that resource assigned by the Office of the Interconnection in the 
+Day-ahead Non-Synchronized Reserve Market; and 
+ 
+C = For each Real-time Settlement Interval, the Real-time Non-Synchronized 
+Reserve Market Clearing Price.  
+ 
+(iii) Pool-scheduled generation resources assigned to provide Non-
+Synchronized Reserve in the Day-ahead Non-Synchronized Reserve Market shall be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 38 
+credited a Non-Synchronized Reserve lost opportunity cost credit, where positive, as 
+determined in accordance with subsection (d)(iii) below, to recover any net monetary loss 
+to the Market Seller of such resource associated with the purchase of Non-Synchronized 
+Reserve in the Real-time Non-Synchronized Reserve Market as a result of following the 
+dispatch direction of the Office of the Interconnection.   
+ 
+(c) Non-Synchronized Reserve Market Clearing Prices 
+ 
+(i) For the Day-ahead Non-Synchronized Reserve Market, the Non-
+Synchronized Reserve Market Clearing Price shall be determined for each Reserve Zone 
+and Reserve Sub-zone by the Office of the Interconnection for each hour of the Operating 
+Day.  The Day-ahead Non-Synchronized Reserve Market Clearing Price shall be 
+calculated as the price of serving the next increment of demand for Primary Reserve in a 
+Reserve Zone or Reserve Sub-zone, determined by the interaction between a supply 
+curve formed using Non-Synchronized Reserve offer prices and the applicable Operating 
+Reserve Demand Curve for Non-Synchronized Reserve established in accordance with 
+Tariff, Attachment K-Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-
+zone, plus (A) the price of serving the next increment of demand for Primary Reserve for 
+any other Reserve Zone or Reserve Sub-zone to which the next increment of demand for 
+Primary Reserve can contribute and (B) the price of serving the next increment of 
+demand for 30-minute Reserve for each Reserve Zone or Reserve Sub-zone to which the 
+next increment of demand for Primary Reserve can contribute, provided that the Non-
+Synchronized Reserve Market Clearing Price shall be less than or equal to the product of 
+1.5 multiplied by the Reserve Penalty Factor for the Primary Reserve Requirement for the 
+Reserve Zone or Reserve Sub-zone to which the next increment of demand for Non-
+Synchronized Reserve can contribute. 
+ 
+If the Office of the Interconnection declares a Market Suspension, per Operating 
+Agreement, Schedule 1, section 1.10.8(d), Day-ahead Non-Synchronized Reserve Market 
+Clearing Prices shall be set to zero dollars per megawatt-hour and for purposes of 
+settlements for such Operating Day, the Office of the Interconnection shall utilize a 
+scheduled megawatt quantity and Day-ahead Non-Synchronized Reserve Market 
+Clearing Price of zero dollars per megawatt-hour and all settlements will be based on the 
+Real-time Non-Synchronized Reserve market quantities and prices as determined 
+pursuant to subsection (c)(ii) hereof. 
+ 
+(ii) For the Real-time Non-Synchronized Reserve Market, the Non-
+Synchronized Reserve Market Clearing Price shall be determined for each Reserve Zone 
+and Reserve Sub-zone by the Office of the Interconnection in the Real-time Price 
+software program, which is known as the pricing run, for each Real-time Settlement 
+Interval of the Operating Day.  Each 5-minute clearing price shall be calculated as the 
+price of serving the next increment of demand for Primary Reserve in a Reserve Zone or 
+Reserve Sub-zone determined by the interaction between a supply curve formed using 
+Non-Synchronized Reserve offer prices and the applicable Operating Reserve Demand 
+Curve for Non-Synchronized Reserve established in accordance with Tariff, Attachment 
+K-Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-zone, plus (A) the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 39 
+price of serving the next increment of demand for Primary Reserve for any other Reserve 
+Zone or Reserve Subzone to which the next increment of demand for Primary Reserve 
+can contribute and (B) the price of serving the next increment of demand for 30-minute 
+Reserve for each Reserve Zone or Reserve Sub-zone to which the next increment of 
+demand for Primary Reserve can contribute, provided that the Non-Synchronized 
+Reserve Market Clearing Price shall be less than or equal to the product of 1.5 multiplied 
+by the Reserve Penalty Factor for the Primary Reserve Requirement for the Reserve Zone 
+or Reserve Sub-zone to which the next increment of demand for Non-Synchronized 
+Reserve can contribute.  
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, and the Office of the Interconnection is not 
+assigning Non-Synchronized Reserves, then the Non-Synchronized Reserve Clearing 
+Price will be set to zero dollars per megawatt-hour for all Real-time Settlement Intervals 
+in the Market Suspension period. 
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, where the real-time Market Suspension is less than 
+or equal to six (6) consecutive hours, which may span up to two Operating Days, and the 
+Office of the Interconnection is assigning Non-Synchronized Reserves, then the Non-
+Synchronized Reserve Market Clearing Prices associated with such Market Suspension 
+shall be the average of the Non-Synchronized Reserve Market Clearing Prices for all 
+Real-time Settlement Intervals of the preceding and subsequent clock hours (from XX:00 
+to XX:59) adjacent to such Market Suspension. 
+ 
+If the real-time Market Suspension is greater than six (6) consecutive hours but less than 
+or equal to twenty-four (24) consecutive hours, which may span up to two Operating 
+Days, and there are cleared Day-ahead Non-Synchronized Reserve Market Clearing 
+Prices for the affected Operating Day, then the Real-time Non-Synchronized Reserve 
+Market Clearing Prices associated with such Market Suspension shall be the Day-ahead 
+Non-Synchronized Reserve Market Clearing Prices for each corresponding hour. If no 
+such Day-ahead Non-Synchronized Reserve Market Clearing Prices exist, then the Non-
+Synchronized Reserve Market Clearing Prices associated with such Market Suspension 
+shall be the average of the Non-Synchronized Reserve Market Clearing Prices for all 
+Real-time Settlement Intervals of the preceding and subsequent clock hours (from XX:00 
+to XX:59) adjacent to such Market Suspension. 
+ 
+If the real-time Market Suspension is greater than twenty-four (24) consecutive hours, the 
+Non-Synchronized Reserve Market Clearing Price will be set to zero dollars per 
+megawatt-hour regardless of whether the Office of the Interconnection is assigning Non-
+Synchronized Reserves. 
+ 
+If the Office of the Interconnection has initiated in a Reserve Zone or Reserve 
+Sub-zone either a Voltage Reduction Action as described in the PJM Manuals or a 
+Manual Load Dump Action as described in the PJM Manuals, the Real-time Non-
+Synchronized Reserve Market Clearing Price shall be the product of 1.5 multiplied by the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 40 
+Reserve Penalty Factor for the Primary Reserve Requirement for that Reserve Zone or 
+Reserve Sub-zone.  
+ 
+(iii) The Reserve Penalty Factor for the Primary Reserve Requirement shall be 
+$850/MWh. 
+ 
+The Reserve Penalty Factor for the Extended Primary Reserve Requirement shall be 
+$300/MWh.  
+ 
+(iv) By no later than April 30 of each year, the Office of the Interconnection will 
+analyze Market Participants’ response to prices exceeding $1,000/MWh on an annual 
+basis and will provide its analysis to PJM stakeholders.  The Office of the 
+Interconnection will also review this analysis to determine whether any changes to the 
+Primary Reserve Penalty Factors are warranted for subsequent Delivery Year(s).  
+ 
+(d) (i) For determining the Non-Synchronized Reserve clearing price for 
+each hour in the Day-ahead Non- Synchronized Reserve Market and for each Real-time 
+Settlement Interval in the Real-time Non-Synchronized Reserve Market, including during 
+a declaration of a Market Suspension, the unit-specific opportunity cost for a generation 
+resource that is not providing energy because they are providing Non-Synchronized 
+Reserves will be zero. 
+ 
+(ii)  For each Real-time Settlement Interval, a total Market Revenue Neutrality 
+Offset is calculated for each resource, if eligible.  If there is a decrease in real-time 
+reserve MW from a day-ahead market assignment in more than one market for that Real-
+time Settlement Interval, the total Market Revenue Neutrality Offset is allocated to the 
+Non-Synchronized Reserve market based on the ratio of the opportunity cost owed due to 
+a reduction in assignment in real-time within the Non-Synchronized Reserve market and 
+the total opportunity cost owed due to a reduction in assignment in real-time from all 
+reserve markets, not to exceed the resource’s opportunity cost owed in the Non-
+Synchronized Reserve market. 
+ 
+A resource is not eligible for Market Revenue Neutrality Offset for Non-
+Synchronized Reserve in a Real-time Settlement Interval for any of the following 
+conditions: 
+ 
+(A) A resource’s real-time Non-Synchronized Reserve assignment 
+decreases due to the resource being self-scheduled to provide energy, 
+Synchronized Reserve, or Regulation;   
+ 
+(B) A resource reduces flexibility in real-time such that the resource no 
+longer qualifies to provide Non-Synchronized Reserve in real-time; 
+ 
+(C) A resource’s Final Offer is less than its Committed Offer;  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 41 
+(D) A resource trips offline or otherwise becomes unavailable in real-
+time; or 
+ 
+(E) A resource does not follow dispatch as described in section 
+3.2.3(o) above and section 3.2.3(o-1) above. 
+ 
+(iii)  A Non-Synchronized Reserve lost opportunity cost credit is determined 
+for each resource for each Real-time Settlement Interval in accordance with the following 
+equation:  
+ 
+(zero) – (A + B + C + D) 
+ 
+Where:  
+ 
+A = day-ahead clearing price credits as determined in subsection (b)(i) 
+above;  
+ 
+B = real-time clearing price credits as determined in subsection (b)(ii) 
+above; 
+ 
+C = the applicable Market Revenue Neutrality Offset as determined in 
+subsection (d)(ii) above; and 
+   
+D = the opportunity cost credit owed due to a reduction in assignment in 
+real-time as described in section 3.2.3A.001(d)(ii) above if not eligible for 
+Market Revenue Neutrality Offset. 
+ 
+(e) [Reserved for future use]  
+(f) For each operating hour, the sum of the Non-Synchronized Reserve lost 
+opportunity cost credits credited in subsection (b)(iii) above shall be allocated and charged to 
+each Market Participant that does not meet its hourly Non-Synchronized Reserve Obligation in 
+proportion to its real-time purchases of Non-Synchronized Reserve in megawatt-hours during 
+that hour. 
+ 
+(g) The magnitude of response to a Non-Synchronized Reserve Event by a generation 
+resource is the difference between the generation resource’s output at the start of the event and 
+its output 10 minutes after the start of the event.  In order to allow for small fluctuations and 
+possible telemetry delays, generation resource output at the start of the event is defined as the 
+lowest telemetered generator resource output between one minute prior to and one minute 
+following the start of the event.  Similarly, a generation resource's output 10 minutes after the 
+start of the event is defined as the greatest generator resource output achieved between 9 and 11 
+minutes after the start of the event.  The response actually credited to a generation resource will 
+be reduced by the amount the megawatt output of the generation resource falls below the level 
+achieved after 10 minutes by either the end of the event or after 30 minutes from the start of the 
+event, whichever is shorter.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 42 
+(h) In the event a generation resource that has been assigned by the Office of the 
+Interconnection to provide Non-Synchronized Reserve fails to provide the assigned amount of 
+Non-Synchronized Reserve in response to a Non-Synchronized Reserve Event, the resource will 
+be credited for Non-Synchronized Reserve capacity in the amount that actually responded for the 
+contiguous Real-time Settlement Interval the resource was assigned Non-Synchronized Reserve 
+during which the event occurred. 
+ 
+3.2.3A.01  Secondary Reserve. 
+ 
+ (a) Each Market Participant that is a Load Serving Entity shall have an obligation for 
+hourly Secondary Reserve equal to its pro rata share of Secondary Reserve assigned for the hour 
+for each Reserve Zone and Reserve Sub-zone of the PJM Region, based on the Market 
+Participant’s total load (net of operating Behind The Meter Generation, but not to be less than 
+zero) in such Reserve Zone and Reserve Sub-zone for the hour (“Secondary Reserve 
+Obligation”).  A Market Participant’s hourly Secondary Reserve Obligation shall be adjusted by 
+any Secondary Reserve provided on the Market Participant’s behalf through a bilateral 
+agreement.  A Market Participant with an hourly Secondary Reserve Obligation shall be charged 
+the pro rata share of the sum of day-ahead and real-time credits for Secondary Reserve as defined 
+in sections 3.2.3A.01(b)(i) and (ii) below. 
+ 
+ (b) Resources assigned to provide Secondary Reserve at the direction of the Office of 
+the Interconnection shall be credited as follows:  
+ 
+(i) Credits for Secondary Reserve provided by generation resources and 
+Economic Load Response Participant resources assigned to provide Secondary Reserve 
+by the Office of the Interconnection in the Day-ahead Secondary Reserve Market shall be 
+equal to the product of the Day-ahead Secondary Reserve Market Clearing Price 
+multiplied by the megawatt amount of Secondary Reserve such resource is scheduled to 
+provide.  
+ 
+(ii) Credits for Secondary Reserve provided by generation resources and 
+Economic Load Response Participant resources scheduled to provide Secondary Reserve 
+by the Office of the Interconnection in the Real-time Secondary Reserve Market shall be 
+determined for each operating hour based on the sum of their hourly total of Real-time 
+Settlement Interval deviations determined in accordance with the following equation:  
+ 
+∑i ((A - B) * C) 
+ 
+Where: 
+ 
+i = the Real-time Settlement Intervals in the applicable operating hour; 
+ 
+A = For each Real-time Settlement Interval, the megawatts of Secondary Reserve 
+from that resource assigned by the Office of the Interconnection in the Real-time 
+Secondary Reserve Market. The megawatt value is capped at the lesser of the 
+Economic Maximum or Secondary Reserve maximum MW minus the Revenue 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 43 
+Data for Settlements of the resource for each Real-time Settlement Interval minus 
+the Real-time Synchronized Reserve assignment;  
+ 
+B = For each Real-time Settlement Interval, the megawatts of Secondary Reserve 
+from that resource scheduled by the Office of the Interconnection in the Day-
+ahead Secondary Reserve Market; and 
+ 
+C = For each Real-time Settlement Interval, the Real-time Secondary Reserve 
+Market Clearing Price.  
+ 
+(iii) Pool-scheduled resources and Economic Load Response Participant 
+resources shall be credited a Secondary Reserve lost opportunity cost credit, where 
+positive, as described in subsection (f)(iv) below. 
+ 
+ (c) [Reserved for future use] 
+ 
+(d)  Secondary Reserve Market Clearing Prices 
+   
+(i) For the Day-ahead Secondary Reserve Market, the Secondary Reserve 
+Market Clearing Price shall be determined for each Reserve Zone and, as applicable, 
+Reserve Sub-zone by the Office of the Interconnection for each hour of the Operating 
+Day.  The Day-ahead Secondary Reserve Market Clearing Price shall be calculated as the 
+price of serving the next increment of demand for 30-minute Reserve in a Reserve Zone 
+or Reserve Sub-zone, determined by the interaction between a supply curve formed using 
+Secondary Reserve offer prices and opportunity costs and the applicable Operating 
+Reserve Demand Curve for Secondary Reserve established in accordance with Tariff, 
+Attachment K-Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-zone, 
+plus the price of serving the next increment of demand for 30-minute Reserve for any 
+other Reserve Zone or Reserve Sub-zone to which the next increment of demand for 30-
+minute Reserve can contribute, but the Secondary Reserve Market Clearing Price shall 
+not exceed the Reserve Penalty Factor for the 30-minute Reserve Requirement for the 
+Reserve Zone or Reserve Sub-zone to which the next increment of demand for 30-minute 
+Reserve can contribute. 
+ 
+If the Office of the Interconnection declares a Market Suspension, per Operating 
+Agreement, Schedule 1, section 1.10.8(d), Day-ahead Secondary Reserve Market 
+Clearing Prices shall be set to zero dollars per megawatt-hour and for purposes of 
+settlements for such Operating Day, the Office of the Interconnection shall utilize a 
+scheduled megawatt quantity and Day-ahead Secondary Reserve Market Clearing Price 
+of zero dollars per megawatt-hour and all settlements will be based on the Real-time 
+Secondary Reserve market quantities and prices as determined pursuant to subsection 
+(d)(ii) hereof. 
+ 
+(ii)  For the Real-time Secondary Reserve Market, the Secondary Reserve 
+Market Clearing Price shall be determined for each Reserve Zone and Reserve Sub-zone 
+by the Office of the Interconnection for each Real-time Settlement Interval of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 44 
+Operating Day.  Each 5-minute clearing price shall be calculated as the price of serving 
+the next increment of demand for 30-minute Reserve in a Reserve Zone or Reserve Sub-
+zone, determined by the interaction between a supply curve formed using Secondary 
+Reserve offer prices and opportunity costs and the applicable Operating Reserve Demand 
+Curve for Secondary Reserve established in accordance with Tariff, Attachment K-
+Appendix, section 3.2.3A.02 for that Reserve Zone or Reserve Sub-zone, plus the price of 
+serving the next increment of demand for 30-minute Reserve for any other Reserve Zone 
+or Reserve Sub-zone to which the next increment of demand for 30-minute Reserve can 
+contribute but the Secondary Reserve Market Clearing Price shall not exceed the Reserve 
+Penalty Factor for the 30-minute Reserve Requirement for the Reserve Zone or Reserve 
+Sub-zone to which the next increment of demand for 30-minute Reserve can contribute.   
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, and the Office of the Interconnection is not 
+assigning Secondary Reserves, then the Secondary Reserve Clearing Price will be set to 
+zero dollars per megawatt-hour for all Real-time Settlement Intervals in the Market 
+Suspension period. 
+ 
+If the Office of the Interconnection declares a Market Suspension, as per Operating 
+Agreement, Schedule 1, section 2.5.2, where the real-time Market Suspension is less than 
+or equal to six (6) consecutive hours, which may span up to two Operating Days, and the 
+Office of the Interconnection is assigning Secondary Reserves, then the Secondary 
+Reserve Market Clearing Prices associated with such Market Suspension shall be the 
+average of the Secondary Reserve Market Clearing Prices for all Real-time Settlement 
+Intervals of the preceding and subsequent clock hours (from XX:00 to XX:59) adjacent to 
+such Market Suspension. 
+ 
+If the real-time Market Suspension is greater than six (6) consecutive hours but less than 
+or equal to twenty-four (24) consecutive hours, which may span up to two Operating 
+Days, and there are cleared Day-ahead Secondary Reserve Market Clearing Prices for the 
+affected Operating Day, then the Real-time Secondary Reserve Market Clearing Prices 
+associated with such Market Suspension shall be the Day-ahead Secondary Reserve 
+Market Clearing Prices for each corresponding hour. If no such Day-ahead Secondary 
+Reserve Market Clearing Prices exist, then the Secondary Reserve Market Clearing 
+Prices associated with such Market Suspension shall be the average of the Secondary 
+Reserve Market Clearing Prices for all Real-time Settlement Intervals of the preceding 
+and subsequent clock hours (from XX:00 to XX:59) adjacent to such Market Suspension. 
+ 
+If the real-time Market Suspension is greater than twenty-four (24) consecutive hours, 
+and the Office of the Interconnection is assigning Secondary Reserves, the Secondary 
+Reserve Market Clearing Price will be set to zero dollars per megawatt-hour. Resources 
+will be compensated for lost opportunity cost per subsection (f) hereof using the energy 
+price as determined in Operating Agreement, Schedule 1, section 2.5.2.iii. 
+ 
+If the Office of the Interconnection has initiated in a Reserve Zone or Reserve 
+Sub-zone either a Voltage Reduction Action or a Manual Load Dump Action as 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 45 
+described in the PJM Manuals, the Real-time Secondary Reserve Market Clearing Price 
+for a given Reserve Zone or Sub-zone shall be the Reserve Penalty Factor for the 30-
+minute Reserve Requirements for that Reserve Zone or Reserve Sub-zone. 
+ 
+(iii) The Reserve Penalty Factor for the 30-minute Reserve Requirement shall 
+be $850/MWh. 
+The Reserve Penalty Factor for the Extended 30-minute Reserve Requirement shall be 
+$300/MWh.  
+ 
+(iv)  By no later than April 30 of each year, the Office of the Interconnection 
+will analyze Market Participants’ response to prices exceeding $1,000/MWh on an annual 
+basis and will provide its analysis to PJM stakeholders.  The Office of the 
+Interconnection will also review this analysis to determine whether any changes to the 
+Reserve Penalty Factor for 30-minute Reserve are warranted for subsequent Delivery 
+Year(s). 
+ 
+ (e) (i) For determining the Secondary Reserve Market Clearing Price for 
+each hour in the Day-ahead Secondary Reserve Market, the estimated resource-specific 
+opportunity cost for a generation resource or Economic Load Response Participant 
+resources shall be the difference between the Locational Marginal Price at the generation 
+or Economic Load Response Participant resource bus and the offer price for energy from 
+the generation resource (at the megawatt level of the energy dispatch point for the 
+resource) or offer price to reduce energy from the Economic Load Response Participant 
+resource in the PJM Interchange Energy Market when the Locational Marginal Price at 
+the Economic Load Response Participant resource bus is greater than the offer price for 
+energy from the generation resource or the offer price to reduce energy from the 
+Economic Load Response Participant resource. 
+ 
+However, opportunity costs shall be zero for resources self-scheduled to provide 
+Synchronized Reserve, and for synchronous condensers and for Economic Load 
+Response Participant resources that do not receive a day-ahead commitment to provide 
+energy in the same operating hour in which such resource is committed to provide 
+Secondary Reserve. 
+ 
+(ii) For determining the Secondary Reserve Market Clearing Price for each 
+Real-time Settlement Interval in the Real-time Secondary Reserve Market, the estimated 
+unit-specific opportunity cost for a generation resource  that is not a hydroelectric 
+resource shall be the difference between the Locational Marginal Price at the generation 
+bus for the generation resource and the offer price for energy from the generation 
+resource (at the megawatt level of the energy dispatch point for the resource) in the PJM 
+Interchange Energy Market when the Locational Marginal Price at the generation bus is 
+greater than the offer price for energy from the generation resource.  
+ 
+For hydroelectric resources, the estimated unit-specific opportunity costs for each 
+hydroelectric resource in spill conditions as defined in the PJM Manuals will be the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 46 
+expected real-time Locational Marginal Price at that generation bus.  The estimated unit-
+specific opportunity costs for each hydroelectric resource that is not in spill conditions as 
+defined in the PJM Manuals and has a day-ahead energy commitment greater than zero 
+shall be the greater of zero and the difference between the expected real-time Locational 
+Marginal Price at the generation bus for the hydroelectric resource and the average day-
+ahead Locational Marginal Price at the generation bus for the appropriate on-peak or off-
+peak period as defined in the PJM Manuals, excluding those hours during which all 
+available units at the hydroelectric resource were operating.  The estimated unit-specific 
+opportunity costs for each hydroelectric resource that is not in spill conditions as defined 
+in the PJM Manuals and does not have a day-ahead energy commitment greater than zero 
+shall be zero.  
+ 
+However, the opportunity costs shall be zero for resources self-scheduled to provide 
+Synchronized Reserve, and for synchronous condensers and Economic Load Response 
+Participant resources. 
+ 
+(f) (i) In determining the credit under subsection (b) to a generation resource, 
+except a generation resource that is a synchronous condenser, selected to provide 
+Secondary Reserve in the Day-ahead Secondary Reserve Market or an Economic Load 
+Response Participant resource that is selected to provide Secondary Reserve in the Day-
+ahead Secondary Reserve Market in the same operating hour in which such resource 
+receives a day-ahead commitment to provide energy, the opportunity cost of a resource 
+shall be determined for each operating hour that the Office of the Interconnection 
+requires a resource to provide Secondary Reserve and shall be in accordance with the 
+following equation: 
+ 
+(A x B) – C 
+ 
+Where: 
+ 
+A = The Day-ahead Locational Marginal Price at the generation bus of the 
+generation resource or the applicable pricing point for the Economic Load 
+Response Participant resource;  
+ 
+B= The deviation of the resource’s energy output or load reduction necessary to 
+supply a Day-ahead Secondary Reserve assignment from the resource’s expected 
+energy output or load reduction level if it had been assigned in economic merit 
+order to provide energy or reduce load less any Day-ahead Synchronized Reserve 
+Market assignment; and  
+ 
+C = The Day-ahead Energy Market offer integrated under the applicable energy 
+offer curve for the   resource’s energy output or load reduction necessary to 
+provide a Day-ahead Secondary Reserve Market assignment from the resource’s 
+expected energy output or load reduction level if it had been assigned in economic 
+merit order to provide energy or reduce load less any Day-ahead Synchronized 
+Reserve Market assignment. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 

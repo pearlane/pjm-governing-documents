@@ -1,0 +1,204 @@
+Attachment K-Appendix, section 7.4.3. 
+ 
+Authorized Government Agency: 
+ 
+“Authorized Government Agency” means a regulatory body or government agency, with 
+jurisdiction over PJM, the PJM Market, or any entity doing business in the PJM Market, including, 
+but not limited to, the Commission, State Commissions, and state and federal attorneys general. 
+ 
+Avoidable Cost Rate: 
+ 
+“Avoidable Cost Rate” shall mean a component of the Market Seller Offer Cap calculated in 
+accordance with Tariff, Attachment DD, section 6. 
+ 
+Balancing Congestion Charges: 
+ 
+“Balancing Congestion Charges” shall be equal to the sum of congestion charges collected from 
+Market Participants that are purchasing energy in the Real-time Energy Market minus [the sum 
+of congestion charges paid to Market Participants that are selling energy in the Real-time Energy 
+Market plus any congestion charges calculated pursuant to the Joint Operating Agreement 
+between the Midcontinent Independent Transmission System Operator, Inc. and PJM 
+Interconnection, L.L.C. (PJM Rate Schedule FERC No. 38), plus any congestion charges 
+calculated pursuant to the Joint Operating Agreement Among and Between New York 
+Independent System Operator Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC 
+No. 45), plus any congestion charges calculated pursuant to agreements between the Office of 
+the Interconnection and other entities, plus any charges or credits calculated pursuant to 
+Operating Agreement, Schedule 1, section 3.8, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 3.8, as applicable)]. 
+ 
+Balancing Ratio: 
+ 
+“Balancing Ratio” shall have the meaning provided in Tariff, Attachment DD, section 10A. 
+ 
+Base Capacity Demand Resource:  
+ 
+“Base Capacity Demand Resource” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+ 
+Base Capacity Demand Resource Constraint: 
+ 
+“Base Capacity Demand Resource Constraint” for the PJM Region or an LDA, shall mean, for 
+the 2018/2019 and 2019/2020 Delivery Years, the maximum Unforced Capacity amount, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+determined by PJM, of Base Capacity Demand Resources and Base Capacity Energy Efficiency 
+Resources that is consistent with the maintenance of reliability.  As more fully set forth in the 
+PJM Manuals, PJM calculates the Base Capacity Demand Resource Constraint for the PJM 
+Region or an LDA, by first determining a reference annual loss of load expectation (“LOLE”) 
+assuming no Base Capacity Resources, including no Base Capacity Demand Resources or Base 
+Capacity Energy Efficiency Resources.  The calculation for the PJM Region uses a daily 
+distribution of loads under a range of weather scenarios (based on the most recent load forecast 
+and iteratively shifting the load distributions to result in the Installed Reserve Margin established 
+for the Delivery Year in question) and a weekly capacity distribution (based on the cumulative 
+capacity availability distributions developed for the Installed Reserve Margin study for the 
+Delivery Year in question).  The calculation for each relevant LDA uses a daily distribution of 
+loads under a range of weather scenarios (based on the most recent load forecast for the Delivery 
+Year in question) and a weekly capacity distribution (based on the cumulative capacity 
+availability distributions developed for the Installed Reserve Margin study for the Delivery Year 
+in question).  For the relevant LDA calculation, the weekly capacity distributions are adjusted to 
+reflect the Capacity Emergency Transfer Limit for the Delivery Year in question. 
+ 
+For both the PJM Region and LDA analyses, PJM then models the commitment of varying 
+amounts of Base Capacity Demand Resources and Base Capacity Energy Efficiency Resources 
+(displacing otherwise committed generation) as interruptible from June 1 through September 30 
+and unavailable the rest of the Delivery Year in question and calculates the LOLE at each DR 
+and EE level.  The Base Capacity Demand Resource Constraint is the combined amount of Base 
+Capacity Demand Resources and Base Capacity Energy Efficiency Resources, stated as a 
+percentage of the unrestricted annual peak load, that produces no more than a five percent 
+increase in the LOLE, compared to the reference value.  The Base Capacity Demand Resource 
+Constraint shall be expressed as a percentage of the forecasted peak load of the PJM Region or 
+such LDA and is converted to Unforced Capacity by multiplying [the reliability target 
+percentage] times [the Forecast Pool Requirement] times [the forecasted peak load of the PJM 
+Region or such LDA, reduced by the amount of load served under the FRR Alternative]. 
+ 
+Base Capacity Demand Resource Price Decrement: 
+ 
+“Base Capacity Demand Resource Price Decrement” shall mean, for the 2018/2019 and 
+2019/2020 Delivery Years, a difference between the clearing price for Base Capacity Demand 
+Resources and Base Capacity Energy Efficiency Resources and the clearing price for Base 
+Capacity Resources and Capacity Performance Resources, representing the cost to procure 
+additional Base Capacity Resources or Capacity Performance Resources out of merit order when 
+the Base Capacity Demand Resource Constraint is binding. 
+ 
+Base Capacity Energy Efficiency Resource: 
+ 
+“Base Capacity Energy Efficiency Resource” shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+Base Capacity Resource:  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+“Base Capacity Resource” shall mean a Capacity Resource as described in Tariff, Attachment 
+DD, section 5.5A(b). 
+ 
+Base Capacity Resource Constraint: 
+ 
+“Base Capacity Resource Constraint” for the PJM Region or an LDA, shall mean, for the 
+2018/2019 and 2019/2020 Delivery Years, the maximum Unforced Capacity amount, determined 
+by PJM, of Base Capacity Resources, including Base Capacity Demand Resources and Base 
+Capacity Energy Efficiency Resources, that is consistent with the maintenance of reliability.  As 
+more fully set forth in the PJM Manuals, PJM calculates the above Base Capacity Resource 
+Constraint for the PJM Region or an LDA, by first determining a reference annual loss of load 
+expectation (“LOLE”) assuming no Base Capacity Resources, including no Base Capacity 
+Demand Resources or Base Capacity Energy Efficiency Resources.  The calculation for the PJM 
+Region uses the weekly load distribution from the Installed Reserve Margin study for the 
+Delivery Year in question (based on the most recent load forecast and iteratively shifting the load 
+distributions to result in the Installed Reserve Margin established for the Delivery Year in 
+question) and a weekly capacity distribution (based on the cumulative capacity availability 
+distributions developed for the Installed Reserve Margin study for the Delivery Year in 
+question).  The calculation for each relevant LDA uses a weekly load distribution (based on the 
+Installed Reserve Margin study and the most recent load forecast for the Delivery Year in 
+question) and a weekly capacity distribution (based on the cumulative capacity availability 
+distributions developed for the Installed Reserve Margin study for the Delivery Year in 
+question).  For the relevant LDA calculation, the weekly capacity distributions are adjusted to 
+reflect the Capacity Emergency Transfer Limit for the Delivery Year in question.  Additionally, 
+for the PJM Region and relevant LDA calculation, the weekly capacity distributions are adjusted 
+to reflect winter ratings. 
+ 
+For both the PJM Region and LDA analyses, PJM models the commitment of an amount of Base 
+Capacity Demand Resources and Base Capacity Energy Efficiency Resources equal to the Base 
+Capacity Demand Resource Constraint (displacing otherwise committed generation).  PJM then 
+models the commitment of varying amounts of Base Capacity Resources (displacing otherwise 
+committed generation) as unavailable during the peak week of winter and available the rest of 
+the Delivery Year in question and calculates the LOLE at each Base Capacity Resource level.  
+The Base Capacity Resource Constraint is the combined amount of Base Capacity Demand 
+Resources, Base Capacity Energy Efficiency Resources and Base Capacity Resources, stated as a 
+percentage of the unrestricted annual peak load, that produces no more than a ten percent 
+increase in the LOLE, compared to the reference value.  The Base Capacity Resource Constraint 
+shall be expressed as a percentage of the forecasted peak load of the PJM Region or such LDA 
+and is converted to Unforced Capacity by multiplying [the reliability target percentage] times 
+[one minus the pool-wide average EFORd] times [the forecasted peak load of the PJM Region or 
+such LDA, reduced by the amount of load served under the FRR Alternative]. 
+ 
+Base Capacity Resource Price Decrement: 
+ 
+“Base Capacity Resource Price Decrement” shall mean, for the 2018/2019 and 2019/2020 
+Delivery Years, a difference between the clearing price for Base Capacity Resources and the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 8 
+clearing price for Capacity Performance Resources, representing the cost to procure additional 
+Capacity Performance Resources out of merit order when the Base Capacity Resource Constraint 
+is binding. 
+ 
+Base Load Generation Resource 
+ 
+“Base Load Generation Resource” shall mean a Generation Capacity Resource that operates at 
+least 90 percent of the hours that it is available to operate, as determined by the Office of the 
+Interconnection in accordance with the PJM Manuals. 
+ 
+Base Offer Segment: 
+ 
+“Base Offer Segment” shall mean a component of a Sell Offer based on an existing Generation 
+Capacity Resource, equal to the Unforced Capacity of such resource, as determined in 
+accordance with the PJM Manuals.  If the Sell Offers of multiple Market Sellers are based on a 
+single Existing Generation Capacity Resource, the Base Offer Segments of such Market Sellers 
+shall be determined pro rata based on their entitlements to Unforced Capacity from such 
+resource. 
+ 
+Base Residual Auction:  
+ 
+“Base Residual Auction” shall mean the auction conducted three years prior to the start of the 
+Delivery Year to secure commitments from Capacity Resources as necessary to satisfy any 
+portion of the Unforced Capacity Obligation of the PJM Region not satisfied through Self-
+Supply. 
+ 
+Batch Load Economic Load Response Participant Resource: 
+ 
+“Batch Load Economic Load Response Participant Resource” shall mean an Economic Load 
+Response Participant Resource that has a cyclical production process such that at most times 
+during the process it is consuming energy, but at consistent regular intervals, ordinarily for 
+periods of less than ten minutes, it reduces its consumption of energy for its production processes 
+to minimal or zero megawatts. 
+ 
+Behind The Meter Generation: 
+ 
+“Behind The Meter Generation” shall refer to a generation unit that delivers energy to load 
+without using the Transmission System or any distribution facilities (unless the entity that owns 
+or leases the distribution facilities has consented to such use of the distribution facilities and such 
+consent has been demonstrated to the satisfaction of the Office of the Interconnection); provided, 
+however, that Behind The Meter Generation does not include (i) at any time, any portion of such 
+generating unit’s capacity that is designated as a Generation Capacity Resource; or (ii) in an 
+hour, any portion of the output of such generating unit that is sold to another entity for 
+consumption at another electrical location or into the PJM Interchange Energy Market. 
+ 
+Black Start Service: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 9 
+ 
+“Black Start Service” shall mean the capability of generating units to start without an outside 
+electrical supply or the demonstrated ability of a generating unit with a high operating factor 
+(subject to Transmission Provider concurrence) to automatically remain operating at reduced 
+levels when disconnected from the grid. 
+ 
+Border Yearly Charge: 
+ 
+“Border Yearly Charge” shall mean the yearly charge determined in accordance with Tariff, 

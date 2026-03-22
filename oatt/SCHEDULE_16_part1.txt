@@ -1,0 +1,1237 @@
+[SCHEDULE 16 - Part 1 of 2]
+
+SCHEDULE 16 
+Transmission Service on the Linden VFT Facility 
+ 
+ Pursuant to Section 38 of the Tariff, this Schedule provides the terms and conditions of 
+transmission service on the Linden VFT Facility which is a Merchant Transmission Facility 
+under the Tariff and the Amended and Restated Operating Agreement of PJM Interconnection, 
+L.LC (“Operating Agreement”). 
+ 
+1. Definitions 
+ 
+Capitalized terms used and defined in this Schedule 16 shall have the meaning given them under 
+this Schedule.  Capitalized terms used and not defined in this Schedule 16 but defined in other 
+provisions of the Tariff shall have the meaning given them under those provisions. Capitalized 
+terms used in this Schedule 16 that are not defined in it or elsewhere in this Tariff shall have the 
+meanings customarily attributed to such terms by the electric utility industry in PJM, including, 
+but not limited to the Operating Agreement. 
+ 
+ 1.1 Linden VFT Reservation:  A right, denoted in whole megawatts and for a 
+specified period, to request the withdrawal of energy and capacity from the Transmission System 
+at the Point of Interconnection and submit schedules for transmission service utilizing the Linden 
+VFT Facility on a firm or non-firm basis as set forth in this Schedule 16.   
+ 
+  1.1.1 Firm Linden VFT Reservation:  A Firm Linden VFT Reservation allows 
+a Linden VFT Transmission Customer to schedule capacity and energy on a firm basis from the 
+Linden FFT Point of Receipt to the Linden VFT Point of Delivery.   
+ 
+  1.1.2 Non-Firm Linden VFT Reservation:  A Non-Firm Linden VFT 
+Reservation allows a Linden VFT Transmission Customer to schedule energy on a non-firm, as 
+available, basis from the Linden VFT Point of Receipt to the Linden VFT Point of Delivery. 
+ 
+ 1.2 Linden VFT Transmission Customer:  An entity that (i) is an Eligible Customer 
+(or its Designated Agent) that meets the creditworthiness requirements of the Transmission 
+Provider set forth in Attachment Q to this Tariff and is in good-standing with respect to all 
+payments owed under the Tariff and Operating Agreement; (ii) executes a Linden VFT Service 
+Agreement, the form of which is attached as Exhibit A to this Schedule 16; (iii) holds a Linden 
+VFT Reservation, and, in the case of a re-sale of a Linden VFT Reservation, (iv) has the 
+applicable Attachment A-1 completed and signed by all parties.   
+ 
+ 1.3 Linden VFT Facility:  The Linden VFT Facility is a controllable alternating 
+current Merchant Transmission Facility located in Linden, New Jersey, which was the subject of 
+Commission orders in FERC Docket No. ER07-543 et al. regarding operation of these 
+transmission facilities as a merchant transmission facility and as more particularly described in 
+the Interconnection Service Agreement among PJM Interconnection, L.L.C. and Linden VFT, 
+LLC and Public Service Electric and Gas Company, which was accepted for filing by the 
+Commission in FERC Docket No. ER06-649. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 2 
+ 1.4 Linden VFT Schedule:  The schedule for the transmission of capacity and 
+energy on the Linden VFT Facility pursuant to the terms and conditions of service set forth in 
+this Schedule 16. 
+ 
+ 1.5 Linden VFT Service:  Transmission service provided pursuant to the terms and 
+conditions of service set forth in this Schedule 16. 
+ 
+ 1.6 Linden VFT Transmission Owner:  Linden VFT, LLC, its agents, successors or 
+assigns.   
+ 
+ 1.7 Primary Rights Holder(s):  Entities that have been allocated rights to the use of 
+the transmission capability of the Linden VFT Facility and assigned Firm and Non-Firm 
+Transmission Withdrawal Rights by the Linden VFT Transmission Owner in accordance with 
+Section 2.1.  To the extent any portion of the total transmission capability of the Linden VFT 
+Facility has not been assigned pursuant to Section 2.1 the Linden VFT Transmission Owner shall 
+be the Primary Rights Holder of such capacity for purposes of this Schedule 16 until such 
+capacity is allocated to another entity. 
+ 
+ 1.8 Point of Interconnection:  The Point of Interconnection is as defined in Section 
+11.1 of the Interconnection Service Agreement among PJM Interconnection, L.L.C. and East 
+Coast Power, L.L.C., which was assigned to Linden VFT, LLC effective December 21, 2006, 
+and is the Linden VFT Point of Receipt. 
+ 
+ 1.9 Linden VFT Service Agreement:  An initial agreement and any amendments or 
+supplements thereto entered into by a Linden VFT Transmission Customer and the Transmission 
+Provider for transmission service on the Linden VFT Facility under this Schedule 16, the form of 
+which is included as Exhibit A to this Schedule 16. 
+ 
+ 1.10 Linden VFT Point of Receipt:  The point of receipt is the Point of 
+Interconnection. 
+ 
+ 1.11 Linden VFT Point of Delivery:  The point of delivery is the point of connection 
+with transmission facilities at the 345 kV Linden Cogen ring bus, which is the point for the 
+interchange of capacity and energy between PJM and NYISO. 
+ 
+2. Allocation of Available Transmission Capability on the Linden VFT Facility 
+ 
+ 2.1 Commission Approved Allocation Process:  The Linden VFT Transmission 
+Owner shall allocate the total transmission capability on the Linden VFT Facility pursuant to an 
+allocation process approved by the Commission under FERC Docket No. ER07-543-000  as such 
+allocation process may be amended by the Linden Transmission Owner from time-to-time 
+subject to Commission approval provided that the results of such rights allocation process shall 
+be furnished to the Transmission Provider and posted on the OASIS.  The allocation of rights to 
+Primary Rights Holders for the transmission capability of the Linden VFT Facility shall include 
+the allocation of the Firm and Non-Firm Transmission Withdrawal Rights, as applicable, which 
+have been assigned to the Linden VFT Transmission Owner pursuant to Section 232 of this 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 3 
+Tariff as well as the award of Firm and Non-Firm Linden VFT Reservations.  The allocation of 
+such rights shall be in the megawatt quantity and for the period specified for allocation to parties 
+pursuant to the Linden VFT Transmission Owner’s Commission-approved allocation process and 
+as submitted to the Transmission Provider for posting on the OASIS.  In the event that there has 
+been no allocation of Firm Transmission Withdrawal Rights to a Primary Rights Holder, the 
+Linden VFT Transmission Owner is the holder of such unallocated Firm Transmission 
+Withdrawal Rights. 
+ 
+ 2.2 Charges for Allocation of Rights by Linden VFT Transmission Owner to 
+Primary Rights Holder:  The charges applicable to the allocation of rights to a Primary Rights 
+Holder pursuant to this section shall be determined pursuant to arrangements between the Linden 
+VFT Transmission Owner and the Primary Rights Holder in accordance with the process 
+approved by the Commission under FERC Docket No. ER07-543-000, as amended by the 
+Linden VFT Transmission Owner from time-to-time subject to Commission approval.  The 
+charge for the allocation of rights to a Primary Rights Holder shall be in accordance with the 
+Commission’s authorization for the Linden VFT Transmission Owner to charge negotiated rates 
+(i.e., rates established pursuant to market mechanisms as recognized for merchant transmission 
+projects and not included in Transmission Provider’s Tariff rates) for the use of transmission 
+capability over the Linden VFT Facility.  Agreements between the Linden VFT Transmission 
+Owner and a Primary Rights Holder for the allocation of rights to a Primary Rights Holder shall 
+be considered Service Agreements under this Schedule 16 and shall be reported by the Linden 
+VFT Transmission Owner to the Commission through Electronic Quarterly Reports in 
+accordance with Order No. 2001.  
+ 
+ 2.3 Transmission Withdrawal Rights Associated with the Linden VFT Facility:  
+The award of Transmission Withdrawal Rights to the Linden VFT Transmission Owner shall be 
+made pursuant to Section 232 of the Tariff and any subsequent transfer to Primary Rights 
+Holders shall be made in accordance with Section 2.1 hereof.  The Transmission Withdrawal 
+Rights solely allow for the withdrawal of capacity and energy at the Point of Interconnection for 
+the Linden VFT Facility and do not provide any priority with respect to the reservation, 
+scheduling, curtailment or interruption of transmission service over the Linden VFT Facility 
+pursuant to this Schedule. 
+ 
+ 2.4 Transfer of Transmission Withdrawal Rights:  Any resale, assignment, 
+conveyance or transfer of a Transmission Withdrawal Right shall be consistent with Section 
+232.6 of this Tariff and any terms and conditions agreed upon between the Linden VFT 
+Transmission Owner and the Primary Rights Holder. 
+ 
+3. Linden VFT Reservations 
+ 
+ 3.1 Effect of a Linden VFT Reservation:  A Linden VFT Reservation is a 
+prerequisite to scheduling capacity and/or energy on the Linden VFT Facility.  A holder of a 
+confirmed Linden VFT Reservation may submit offers to schedule capacity and/or energy from 
+the Transmission System at the Point of Interconnection over the Linden VFT Facility.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 4 
+ 3.2 Recallability:  A Non-Firm Linden VFT Reservation released pursuant to Section 
+3.7 is recallable by a holder of a Firm Linden VFT Reservation that has retained the right of 
+recall until the deadline posted on the OASIS which shall be based on the time necessary for 
+submittal of energy bids to meet installed capacity obligations in the New York Control Area.  
+The procedures and prerequisites for the exercise of recall rights are set forth in Section 4.2.2. 
+ 
+ 3.3 Term of Service 
+ 
+  3.3.1 Firm Linden VFT Reservation:  The minimum term of a Firm Linden 
+VFT Reservation shall be one day and the maximum term shall be equal to the term of 
+agreement allocating rights to the Primary Rights Holder, the capability of the Linden VFT 
+Facility pursuant to Section 2.1 of this Schedule.  The terms and conditions applicable to Firm 
+Point-To-Point Transmission Service in Part II of the Tariff shall apply to any and all Firm 
+Linden VFT Reservations.  
+ 
+  3.3.2 Non-Firm Linden VFT Reservation:  The terms and conditions of Non-
+Firm Point-To-Point Transmission Service in Part II of the Tariff shall apply to any and all Non-
+Firm Linden VFT Reservations. 
+ 
+  3.3.3 Limitations:  A Linden VFT Transmission Customer holding a Firm 
+Linden VFT Reservation or Non-Firm Linden VFT Reservation may not submit a request for 
+scheduling of capacity and energy over the Linden VFT Facility that exceeds the period or 
+megawatt amount of its Linden VFT Reservation.     
+ 
+ 3.4 Acquisition of Linden VFT Reservations:  Firm Linden VFT Reservations are 
+initially allocated to Primary Rights Holders pursuant to Section 2.1  Third parties may purchase 
+Firm Linden VFT Reservation or Non-Firm Linden VFT Reservations through (i) assignment 
+pursuant to Section 3.5 of this schedule or (ii) voluntary or default release through Transmission 
+Provider’s resale procedures as stated in the Tariff and the Regional Scheduling Practices in 
+accordance with Section 3.7 of this Schedule.  The holder of a Linden VFT Reservation that sells 
+or assigns its rights is hereafter referred to as the Reseller.  The entity purchasing a Linden VFT 
+Reservation through resale is hereafter referred to as the Buyer. 
+ 
+ 3.5 Assignment of Linden VFT Reservation:   The Primary Rights Holder of a VFT 
+Reservation may assign its VFT Reservation to third parties in accordance with the terms of the 
+agreement between the Linden VFT Transmission Owner and the Primary Rights Holder 
+provided that notice of such assignment is provided to the Transmission Provider with such 
+information provided on the OASIS.  Subject to Commission approval of any necessary filings, a 
+holder of a VFT Reservation may assign all or a portion of its rights, but only to another Eligible 
+Customer (the Buyer).  The compensation to the Reseller shall be at rates established by 
+agreement with the Buyer.  Notice of such assignment shall be provided to the Transmission 
+Provider as soon as possible after any assignment occurs but in any event, notification must be 
+provided prior to any submission of offers to schedule capacity and energy pursuant to such VFT 
+Reservation by the Buyer.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 5 
+ 3.6 Limitations on Resale of Linden VFT Reservations:  If the Buyer requests a 
+change in the specifications set forth in the original Linden VFT Service Agreement, the 
+Transmission Provider will consent to such change subject to the provisions of the Tariff, 
+provided that the change is done before the start of service, does not exceed the rights granted in 
+the Reseller’s original Linden VFT Reservation and will not impair the operation and reliability 
+of the Linden VFT Facility, the Transmission Provider’s Transmission System or a Transmission 
+Owner’s generation, transmission, or distribution systems.  The Reseller shall remain liable for 
+the performance of all obligations under the Linden VFT Service Agreement, except as 
+specifically agreed to by the Reseller, the Buyer, and the Transmission Provider through an 
+amendment to the Linden VFT Service Agreement.  A holder of a Linden VFT Reservation shall 
+notify the Transmission Provider of the resale of any Linden VFT Reservation including the rate 
+to be charged in accordance with the deadlines posted in NAESB WEQ 001-11.5.1.for On-
+OASIS re-sales, and  NAESB WEQ 001-11.5.2 for Off-OASIS re-sales. 
+ 
+ 3.7 Release of Linden VFT Reservation:  Linden VFT Reservations may be resold 
+as Available Transmission Capacity (ATC) for acquisition as Linden VFT Service by third 
+parties using the OASIS.  Such a resale of transmission service is subject to the requirements in 
+the PJM Manuals, NERC and NAESB Standards. 
+ 
+  3.7.1 Voluntary Releases:  A holder of a VFT Reservation may offer all or any 
+portion of its VFT Reservation for voluntarily release on a first-come, first-served basis.  A VFT 
+Reservation that has been posted for voluntary release under this subsection shall be excluded 
+from the default release procedures set forth in subsection 3.7.2. 
+ 
+  3.7.2 Default Releases:  In the event that any holder of a VFT Reservation fails 
+to either:  (i) submit a request to schedule energy up to the full MW value of its VFT Reservation 
+by noon (12:00 p.m.) one business day prior to the Operating Day or (ii) offer its VFT 
+Reservation for voluntarily release pursuant to subsection 3.7.1, then, the difference between the 
+Total Transfer Capability over the VFT Line in each scheduling hour of the Operating Day and 
+the sum of the valid requests for VFT Schedules and MW amount of VFT Reservations 
+voluntarily released on OASIS for such scheduling hour, shall be deemed released by the VFT 
+Transmission Owner (as Reseller) and shall be posted on the OASIS by the Transmission 
+Provider as Non-Firm ATC for acquisition by third parties on a first-come, first-served basis. 
+ 
+  3.7.3 Release Rate:  The holder of a VFT Reservation seeking to voluntarily 
+release all or any portion of its VFT Reservation shall provide to the Transmission Provider the 
+rate to be posted on OASIS and charged for such releases.  The VFT Transmission Owner may 
+provide the Transmission Provider a rate to be posted on OASIS and charged for default releases 
+pursuant to Section 3.7.2.  In the event that the VFT Transmission Owner does not separately 
+provide to the Transmission Provider a rate for default releases, such default releases shall be 
+charged the lowest rate posted on OASIS for voluntary release of VFT Reservations in the 
+applicable hour. 
+ 
+  3.7.4 Character of Service Released:  Releases of VFT Reservations made 
+pursuant to the default release provisions in subsection 3.7.2 do not include the right of recall 
+under Section 3.2 and shall be hourly Non-Firm VFT Reservations. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 6 
+ 
+  3.7.5 Requirements for Acquisition of VFT Reservations through Release 
+or Assignment:  An Eligible Customer shall be eligible to acquire and hold a VFT Reservation 
+through an assignment of a VFT Reservation pursuant to Section 3.5 or release of a VFT 
+Reservation over OASIS pursuant to Section 3.7 if such entity meets all of the requirements for a 
+Linden VFT Transmission Customer except for part (iii) of such requirements. 
+ 
+  3.7.6 Resale Rate:  The Reseller of a Linden VFT Reservation shall post the 
+rate on OASIS and will be credited for completed re-sales of its service.  The Reseller of a 
+Linden VFT Transmission Reservation and the resale Buyer shall be credited/charged the rate as 
+agreed and posted on the OASIS for the Linden VFT Reservations resold.  
+ 
+ 3.8 Billing and Payment for Linden VFT Reservations 
+ 
+  3.8.1 Linden VFT Reservations Allocated to Primary Rights Holders 
+Pursuant to Section 2.1:  The billing and payment of rates or charges applicable to the 
+allocation of Firm or Non-Firm Linden VFT Reservations to the Primary Rights Holder pursuant 
+to section 2.1 shall be determined pursuant to arrangements between the Linden VFT 
+Transmission Owner and the Primary Rights Holder and not under this Tariff. 
+ 
+  3.8.2 Linden VFT Reservations Acquired Through Resale Pursuant to 
+Section 3.7.1:  An entity acquiring a Linden VFT Reservation through a Resale over the OASIS 
+pursuant to subsection 3.7.1 shall be billed the applicable rate which is posted on OASIS 
+pursuant to subsection 3.7.3.   The Transmission Provider will credit/bill both parties according 
+to the applicable rate and the transaction shall be settled through Transmission Provider’s 
+settlements.   
+ 
+  3.8.3 Linden VFT Reservations Acquired Through Default Resale:  The 
+Transmission Provider shall bill an entity acquiring a Linden VFT Reservation through a default 
+resale the applicable rate which is posted on OASIS pursuant to subsection 3.7.3.   Any revenues 
+received from the acquisition of VFT Reservations subject to default release provisions shall be 
+paid by the Transmission Provider to the VFT Transmission Owner.  A Linden VFT 
+Transmission Customer shall pay the applicable rates for the megawatt amount of the Linden 
+VFT Reservation for each hour regardless of whether such holder(s) submitted a schedule for 
+transmission service over the Linden VFT Facility in such hour. 
+ 
+4. Linden VFT Schedules 
+ 
+ 4.1 Nature of Transmission Service over the Linden VFT Facility:   Linden VFT 
+Schedules shall be requested in accordance with NERC and NAESB Standards, including 
+requirements relating to E-Tagging and Transmission Line Relief procedures.  An entity seeking 
+to schedule use of the Linden VFT Facility must hold a Linden VFT Reservation for no less than 
+the amount of megawatts of service being requested.  Deadlines for scheduling the use of the 
+Linden VFT Facility shall adhere to the Transmission Provider’s deadlines for scheduling as 
+provided by the Transmission Provider’s manuals and consistent with the deadlines for 
+scheduling Point to Point Transmission Services as described in Part II of the Tariff. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 7 
+ 
+ 4.2 Submission of Scheduling Requests, Award of Reservations, Curtailment and 
+Interruption of Linden VFT Schedule 
+ 
+  4.2.1 Submission of Scheduling Requests:  A Linden VFT Transmission  
+Customer holding a Linden VFT Reservation has the right to submit requests for Firm Linden 
+VFT Schedules or Non-Firm Linden VFT Schedules commensurate to the Linden VFT 
+Reservations held by that entity.  
+ 
+  4.2.2 Exercise of Recall Rights:  An Eligible Customer holding a Firm Linden 
+VFT Reservation, that retains the right of recall, may exercise such recall rights by providing 
+notice, until the deadline posted on the OASIS which shall be based on the time necessary for 
+submittal of energy bids to meet any installed capacity obligations in the New York Control 
+Area, to the Transmission Provider that it wishes to exercise its right of recall.  The exercise of a 
+recall right pursuant to notice to the Transmission Provider shall immediately act to recall the 
+Linden VFT Reservation previously released by the Eligible Customer and acquired by a third 
+party under the assignment provisions set forth in Section 3.5 or the release procedures set forth 
+in Section 3.7 
+ 
+ 4.3 Scheduling of Capacity and Energy over the Linden VFT Facility:  The 
+Transmission Provider shall evaluate all requests to schedule capacity and energy for withdrawal 
+from the Transmission System at the Point of Interconnection based on economic merit order.  In 
+the event of a tie within economic merit, a scheduling request made pursuant to a Firm Linden 
+VFT Reservation shall have priority over a scheduling request made pursuant to a Non-Firm 
+Linden VFT Reservation.  In the case of an economic merit order tie between two or more 
+scheduling requests using a Firm Linden VFT Reservation, the award of the scheduling 
+reservation shall be on a pro rata  basis.  In the case of an economic merit order tie between two 
+or more scheduling requests based on Non-Firm Linden VFT Reservations, the reservation 
+classification of the Non-Firm Linden VFT Reservation (Monthly, Weekly, Daily or Hourly) 
+shall then be used as the tiebreaker, with the longer term of Non-Firm Linden VFT Reservation 
+receiving priority.  In the case of a further tie within the sub-category of Non-Firm Linden VFT 
+Reservations (Monthly, Weekly, Daily or Hourly), the timestamp order of the submission of 
+requests to schedule service over the Linden VFT Facility shall be used as a tie-breaker.  A 
+holder of Linden VFT Reservations is limited in its total capacity and energy schedule for its 
+Linden VFT Schedule to the higher of either its Firm or Non-Firm Linden VFT Reservations.  
+ 
+ 4.4 Limitations on Scheduling Amount:  The Linden VFT Facility has a minimum 
+total scheduling requirement. of 1 MW at the Linden VFT Point of Delivery.  The Linden VFT 
+Facility has a maximum continuous scheduling capability of the lower of the Total Transfer 
+Capability (“TTC”) set by the Transmission Provider or 330 MW at the Linden VFT Point of 
+Delivery.  In the event that the total megawatt of schedules determined by the Transmission 
+Provider is greater than the lower of the TTC or 330 MW at the Linden VFT Point of Delivery, 
+all schedules above the maximum capability shall be rejected.  
+ 
+ 4.5 Curtailment of Linden VFT Schedules:  In the event that a Curtailment or 
+interruption of Linden VFT Schedules is required to maintain reliable operation of the Linden 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 8 
+VFT Facility and the systems directly and indirectly interconnected with the Linden VFT 
+Facility, any such Curtailment implemented by the Transmission Provider shall be based upon 
+the priority of the associated Linden VFT Reservations.  For Curtailment or interruptions of 
+Linden VFT Schedules based on Firm Linden VFT Reservations will be performed on a pro rata 
+basis.  Curtailment of Linden VFT Schedules based on Non-Firm Linden VFT Reservations shall 
+first be based on the Non-Firm Linden VFT Reservation classification (i.e., Monthly, Weekly, 
+Daily, Hourly) with the longer term of Non-Firm Linden VFT Reservation receiving priority.  In 
+the case of a tie within the Non-Firm Linden VFT Reservation classifications, the time stamp 
+order of the submission of valid bids/offers to schedule service over the Linden VFT Facility 
+shall be used as a tiebreaker.  The Transmission Provider shall provide advance notice of any 
+Curtailment of Linden VFT Schedules to all affected Linden VFT Transmission Customers 
+where such notice can be provided consistent with Good Utility Practice.  The Transmission 
+Provider shall curtail Linden VFT Schedules over the Linden VFT Line as required by NERC 
+Standards and the Joint Emergency Operating Protocol for the Linden VFT Scheduled Line 
+which is posted on the PJM website.  The Transmission Provider shall curtail Linden VFT 
+Schedules over the Linden VFT Facility for reliability of the Transmission System pursuant to 
+the separately reserved Transmission Service over the Transmission System pursuant to Part II or 
+Part III of the Tariff to the Linden VFT Facility and the Transmission Provider’s Manuals. 
+ 
+ 4.6 Separate Reservation for Network Integration Transmission Service or 
+Point-to-Point Transmission Service over the Transmission System:  Prior to the 
+commencement of a Linden VFT Schedule under this Schedule 16, a Linden VFT Transmission 
+Customer must separately reserve Transmission Service over the Transmission System pursuant 
+Part II or Part III of the Tariff for delivery of energy, capacity or ancillary services over the 
+Transmission System to the Point of Receipt of the Linden VFT Facility for at least the same 
+time period as the Linden VFT Schedule provided under this Schedule 16.  Reserving such 
+Transmission Service to the Linden VFT Facility is a required precondition to acquiring a Linden 
+VFT Schedule.  The Linden VFT Transmission Customer is responsible for all charges 
+associated with Transmission Service for delivery of capacity and energy to the Point of Receipt 
+of the Linden VFT Facility.   
+ 
+5. Liability 
+ 
+The Transmission Provider and any holder of a Linden VFT Reservation which releases or 
+resells its Linden VFT Reservation through resale procedures set forth in Section 3.5 and 3.7 of 
+this Schedule 16 shall be held harmless with regard to any claim which may be raised by any 
+party regarding the award of the released Linden VFT Reservation, except to the extent that such 
+party successfully establishes that the releasing party has incorrectly selected the party acquiring 
+such released Linden VFT Reservation as the result of gross negligence or willful misconduct.  
+The liability of the Transmission Provider shall be limited by the terms and conditions of Section 
+10 of the Tariff and the provisions of the Operating Agreement. 
+ 
+6. Losses and Inadvertent Energy 
+ 
+Real power losses and inadvertent energy across the Linden VFT Facility shall be allocated 
+solely to Linden VFT Transmission Customers that schedule Firm or Non-Firm transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 9 
+service over the Linden VFT Facility on an hourly pro rata basis, except for hours with no 
+Linden VFT Schedules, in which case any real power losses and inadvertent energy across the 
+Linden VFT Facility shall be allocated to Linden VFT Transmission Customers that schedule 
+Firm or Non-Firm transmission service over the Linden VFT Facility on a monthly pro rata 
+basis. 
+ 
+7. Congestion Costs and FTRs 
+ 
+A Linden VFT Schedule provides a physical right to deliver energy over the Linden VFT 
+Facility.  Accordingly, no congestion costs shall be calculated over the Linden VFT Facility and 
+no FTRs  or their equivalent shall be offered for a Linden VFT Schedule.  This provision is not 
+meant to preclude any allocation of financial transmission rights, auction revenue rights or their 
+equivalent awarded to the Linden VFT Transmission Owner pursuant to Part VI of the Tariff. 
+Such rights would be allocated to Primary Rights Holders in accordance with Section 2.1. 
+ 
+8. Measurement and Posting of ATC and TTC   
+ 
+The ATC and TTC of the Linden VFT Facility shall be calculated and posted on the OASIS by 
+the Transmission Provider consistent with the requirements of the Tariff. 
+ 
+9. Payment of Other Charges Required for a Linden VFT Schedule  
+ 
+The Linden VFT Transmission Customer is responsible for charges applicable to a Linden VFT 
+Schedule provided under this Schedule 16, including, but not limited to, any congestion and loss 
+charges, redispatch costs, transitional revenue neutrality charges, scheduling, administrative, 
+hardware or software upgrade charges, control area or administrative services charges or 
+ancillary service charges applicable to the Transmission Provider’s administration of 
+transmission service over the Linden VFT Facility (collectively, the “Linden VFT Service 
+Administration Charges”).  In the event that any such Linden VFT Service Administration 
+Charges are billed by the Transmission Provider to the Linden VFT Transmission Owner, the 
+Linden VFT Transmission Owner may bill the Linden VFT Transmission Customer for such 
+charge, and the Linden VFT Transmission Customer shall pay the Transmission Provider, on 
+behalf of the Linden VFT Transmission Owner, such Linden VFT Service Administration 
+Charges pursuant to this Section 9 as a condition of receiving transmission service over the 
+Linden VFT Facility.  In the event that any Transmission Enhancement Charges under Schedule 
+12 of the Tariff are charged to the Linden VFT Transmission Owner, the Linden VFT 
+Transmission Owner may bill the Primary Rights Holders, and the Primary Rights Holders shall 
+pay the Transmission Provider such Transmission Enhancement Charges, on behalf of the 
+Linden VFT Transmission Owner, pursuant to this Section 9 as a condition of receiving 
+transmission service over the Linden VFT Facility.  In the event that any other charges related to 
+the construction, maintenance, operation or upgrading of the Transmission System are assessed 
+by the Transmission Provider to the Linden VFT Transmission Owner for the use of the Linden 
+VFT Facility for withdrawals of energy or capacity from the Transmission System, the Linden 
+VFT Transmission Owner may bill the Primary Rights Holder, and the Primary Rights Holder 
+shall pay the Transmission Provider, on behalf of the Linden VFT Transmission Owner, such 
+charges pursuant to this Section 9 as a condition of receiving transmission service over the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 10 
+Linden VFT Facility.  The issuance and time for payment of charges under this Schedule 16 shall 
+be consistent with the billing and payment provisions of Section 7 of the Tariff. 
+ 
+Any failure of a Linden VFT Transmission Customer or a Primary Rights Holder to pay any of 
+the charges referenced in this Section 9 shall be deemed a failure to pay by the Linden VFT 
+Transmission Owner. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 1 
+EXHIBIT A TO SCHEDULE 16 
+ 
+Form of Service Agreement for 
+Transmission Service over the Linden VFT Facility 
+ 
+1.0 This Service Agreement, dated as of ___________, is entered into, by and between the 
+Office of the Interconnection of PJM Interconnection, L.L.C. (the “Transmission Provider”), as 
+administrator of Transmission Service on the Linden VFT Facility, and 
+__________________________ (“Linden VFT Transmission Customer”). 
+ 
+2.0 The Linden VFT Transmission Customer has been determined by the Transmission 
+Provider to have a Completed Application for a Linden VFT Reservation under the Tariff. 
+ 
+3.0 If required, the Linden VFT Transmission Customer has provided to the Transmission 
+Provider an Application deposit in accordance with the provisions of Section 17.3 of the Tariff. 
+ 
+4.0 Service under this agreement shall commence on the later of (1) the requested service 
+commencement date, or (2) such other date as it is permitted to become effective by the 
+Commission.  Service under this agreement shall terminate on such date as mutually agreed upon 
+by the parties. 
+ 
+5.0 The Transmission Provider agrees to provide and the Linden VFT Transmission 
+Customer agrees to take and pay for the Linden VFT Reservation in accordance with the 
+provisions of Schedule 16 of the Tariff and this Service Agreement. 
+ 
+6.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representatives as indicated below. 
+ 
+Transmission Provider 
+ 
+PJM Interconnection, L.L.C. 
+ 
+2750 Monroe Blvd. 
+ 
+Audubon, PA 19403 
+Linden VFT Transmission Customer 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+7.0 The Tariff, including Schedule 16, is incorporated herein and made a part hereof. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 2 
+IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by 
+their respective authorized officials. 
+ 
+ Office of the Interconnection: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
+ 
+ Linden VFT Transmission Customer: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
+ 
+CERTIFICATION 
+ 
+ I, ____________________, certify that I am a duly authorized officer of 
+_______________________________ (Linden VFT Transmission Customer) and that 
+_______________________________ (Linden VFT Transmission Customer) will not request 
+service under this Service agreement to assist an Eligible Customer to avoid the reciprocity 
+provision of this Open-Access Transmission Tariff. 
+ 
+_________________________ 
+(Name) 
+ 
+_________________________ 
+(Title) 
+ 
+ Subscribed and sworn before me this ________ day of ______________, ____________. 
+_________________________ 
+(Notary Public) 
+My Commission expires: ______________________________ 
+ 
+ 
+Specifications For Transmission Service Over Linden VFT Facility 
+ 
+1.0 Term of Transaction: ______________________________________________________ 
+ 
+ Start Date: ______________________________________________________________ 
+ 
+ Termination Date: ________________________________________________________ 
+ 
+2.0 Description of capacity and energy to be transmitted. 
+ 
+ _______________________________________________________________________ 
+ 
+3.0 Point of Receipt:  VFT Switching Station in Linden, New Jersey  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16 EXHIBIT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 3 
+ 
+ Delivering Party: _________________________________________________________ 
+ 
+4.0 Point of Delivery:  NYISO (at the Linden Cogen 345 kV ring bus in Linden, New 
+Jersey) 
+ 
+ Receiving Party: _________________________________________________________ 
+ 
+5.0 Maximum amount of energy to be transmitted (Reserved Transmission Capability): 
+_______________________________________________________________________ 
+ 
+6.0 Designation of party(ies) subject to reciprocal service obligation: ___________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+7.0 Service under this Agreement may be subject to some combination of the charges 
+detailed below.  (The appropriate charges for individual transactions will be determined in 
+accordance with the terms and conditions of the Tariff and Schedule16). 
+ 
+ 7.1 Linden VFT Reservation Charge: 
+  _________________________________________ 
+   
+  __________________________________________________________________ 
+ 
+ 7.2 Linden VFT Service Administration Charges: 
+  ________________________________ 
+ 
+  __________________________________________________________________ 
+ 
+ 7.3 Linden VFT Transmission Enhancement Charges: 
+ 
+  ______________________________________________ 
+ 
+  ______________________________________________ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 1 
+SCHEDULE 16-A 
+ 
+Transmission Service for Imports on the Linden VFT Facility 
+ 
+ Pursuant to Section 38 of the Tariff, this Schedule provides the terms and conditions of 
+transmission service for imports on the Linden VFT Facility which is a Merchant Transmission 
+Facility under the Tariff and the Amended and Restated Operating Agreement of PJM 
+Interconnection, L.LC (“Operating Agreement”). 
+ 
+1.  Definitions 
+ 
+Capitalized terms used and defined in this Schedule 16-A shall have the meaning given them 
+under this Schedule.  Capitalized terms used and not defined in this Schedule 16-A but defined in 
+other provisions of the Tariff shall have the meaning given them under those provisions. 
+Capitalized terms used in this Schedule 16-A that are not defined in it or elsewhere in this Tariff 
+shall have the meanings customarily attributed to such terms by the electric utility industry in 
+PJM, including, but not limited to the Operating Agreement. 
+ 
+ 1.1  Linden VFT Reservation:  For purposes of this Schedule 16-A, a right, denoted 
+in whole megawatts and for a specified period, to request the injection of energy and capacity 
+into the Transmission System at the Point of Interconnection and submit schedules for 
+transmission service utilizing the Linden VFT Facility on a firm or non-firm basis as set forth in 
+this Schedule 16-A. 
+ 
+ 1.1.1 Firm Linden VFT Reservation:  A Firm Linden VFT Reservation allows 
+a Linden VFT Transmission Customer to schedule capacity and energy on a firm basis 
+from the Linden VFT Point of Receipt to the Linden VFT Point of Delivery. 
+ 
+ 1.1.2 Non-Firm Linden VFT Reservation:  A Non-Firm Linden VFT 
+Reservation allows a Linden VFT Transmission Customer to schedule energy on a non-
+firm, as available, basis from the Linden VFT Point of Receipt to the Linden VFT Point 
+of Delivery. 
+ 
+ 1.2 Linden VFT Transmission Customer:  An entity that (i) is an Eligible Customer 
+(or its Designated Agent) that meets the creditworthiness requirements of the Transmission 
+Provider set forth in Attachment Q to this Tariff and is in good-standing with respect to all 
+payments owed under the Tariff and Operating Agreement; (ii) executes a Linden VFT Service 
+Agreement, the form of which is attached as Exhibit A to this Schedule 16-A; (iii) holds a 
+Linden VFT Reservation, and, in the case of a re-sale of a Linden VFT Reservation, (iv) has the 
+applicable Attachment A-1 completed and signed by all parties. 
+ 
+ 1.3 Linden VFT Facility:  The Linden VFT Facility is a controllable alternating 
+current Merchant Transmission Facility located in Linden, New Jersey, which was the subject of 
+Commission orders in FERC Docket No. ER07-543 et al. regarding operation of these 
+transmission facilities as a merchant transmission facility and as more particularly described in 
+the Interconnection Service Agreement among PJM Interconnection, L.L.C. and Linden VFT, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 2 
+LLC and Public Service Electric and Gas Company, which was accepted for filing by the 
+Commission in FERC Docket No. ER06-649. 
+ 
+ 1.4 Linden VFT Schedule:  The schedule for the transmission of capacity and 
+energy on the Linden VFT Facility pursuant to the terms and conditions of service set forth in 
+this Schedule 16-A. 
+ 
+ 1.4A Linden VFT Service:  Transmission service provided pursuant to the terms and 
+conditions of service set forth in this Schedule 16-A. 
+ 
+ 1.5 Linden VFT Transmission Owner:  Linden VFT, LLC, its agents, successors or 
+assigns. 
+ 
+ 1.6 Primary Rights Holder(s):  Entities that have been allocated rights to the use of 
+the transmission capability of the Linden VFT Facility and assigned Firm and Non-Firm 
+Transmission Injection Rights by the Linden VFT Transmission Owner in accordance with 
+Section 2.1.  To the extent any portion of the total transmission capability of the Linden VFT 
+Facility has not been assigned pursuant to Section 2.1 the Linden VFT Transmission Owner shall 
+be the Primary Rights Holder of such capacity for purposes of this Schedule 16-A until such 
+capacity is allocated to another entity. 
+ 
+ 1.7 Point of Interconnection:  The Point of Interconnection is as defined in Section 
+11.1 of the Interconnection Service Agreement among PJM Interconnection, L.L.C. and East 
+Coast Power, L.L.C., which was assigned to Linden VFT, LLC effective December 21, 2006, 
+and is the Linden VFT Point of Delivery. 
+ 
+ 1.8 Linden VFT Service Agreement:  An initial agreement and any amendments or 
+supplements thereto entered into by a Linden VFT Transmission Customer and the Transmission 
+Provider for transmission service on the Linden VFT Facility under this Schedule 16-A, the form 
+of which is included as Exhibit A to this Schedule 16-A. 
+ 
+ 1.9 Linden VFT Point of Delivery:  For purposes of this Schedule 16-A, the point of 
+delivery is the Point of Interconnection with the 230 kV transmission line connecting Public 
+Service Electric and Gas Company’s Warinanco substation with the Tosco substation near 
+Linden, New Jersey. 
+ 
+ 1.10 Linden VFT Point of Receipt:  For purposes of this Schedule 16-A, the point of 
+receipt is the point of connection with transmission facilities at the 345 kV Linden Cogen ring 
+bus, which is the point for the interchange of capacity and energy between PJM and NYISO. 
+ 
+2. Allocation of Available Transmission Capability on the Linden VFT Facility 
+ 
+ 2.1 Commission Approved Allocation Process:  The Linden VFT Transmission 
+Owner shall allocate the total transmission capability on the Linden VFT Facility pursuant to an 
+allocation process approved by the Commission under FERC Docket No. ER07-543-000  as such 
+allocation process may be amended by the Linden Transmission Owner from time-to-time 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 3 
+subject to Commission approval provided that the results of such rights allocation process shall 
+be furnished to the Transmission Provider and posted on the OASIS.  The allocation of rights to 
+Primary Rights Holders for the transmission capability of the Linden VFT Facility shall include 
+the allocation of the Firm and Non-Firm Transmission Injection Rights, as applicable, which 
+have been assigned to the Linden VFT Transmission Owner pursuant to Section 232 of this 
+Tariff as well as the award of Firm and Non-Firm Linden VFT Reservations.  The allocation of 
+such rights shall be in the megawatt quantity and for the period specified for allocation to parties 
+pursuant to the Linden VFT Transmission Owner’s Commission-approved allocation process and 
+as submitted to the Transmission Provider for posting on the OASIS.  In the event that there has 
+been no allocation of Firm or Non-Firm Transmission Injection Rights to a Primary Rights 
+Holder, the Linden VFT Transmission Owner is the holder of such unallocated Firm or Non-
+Firm Transmission Injection Rights. 
+ 
+ 2.2 Charges for Allocation of Rights by Linden VFT Transmission Owner to 
+Primary Rights Holder:  The charges applicable to the allocation of rights to a Primary Rights 
+Holder pursuant to this section shall be determined pursuant to arrangements between the Linden 
+VFT Transmission Owner and the Primary Rights Holder in accordance with the process 
+approved by the Commission under FERC Docket No. ER07-543-000, as amended by the 
+Linden VFT Transmission Owner from time-to-time subject to Commission approval.  The 
+charge for the allocation of rights to a Primary Rights Holder shall be in accordance with the 
+Commission’s authorization for the Linden VFT Transmission Owner to charge negotiated rates 
+(i.e., rates established pursuant to market mechanisms as recognized for merchant transmission 
+projects and not included in Transmission Provider’s Tariff rates) for the use of transmission 
+capability over the Linden VFT Facility.  Agreements between the Linden VFT Transmission 
+Owner and a Primary Rights Holder for the allocation of rights to a Primary Rights Holder shall 
+be considered Service Agreements under this Schedule 16-A and shall be reported by the Linden 
+VFT Transmission Owner to the Commission through Electronic Quarterly Reports in 
+accordance with Order No. 2001. 
+ 
+ 2.3 Transmission Injection Rights Associated with the Linden VFT Facility:  The 
+award of Transmission Injection Rights to the Linden VFT Transmission Owner shall be made 
+pursuant to Section 232 of the Tariff and any subsequent transfer to Primary Rights Holders shall 
+be made in accordance with Section 2.1 hereof.  The Transmission Injection Rights solely allow 
+for the injection of capacity and energy at the Point of Interconnection for the Linden VFT 
+Facility and do not provide any priority with respect to the reservation, scheduling, curtailment 
+or interruption of transmission service over the Linden VFT Facility pursuant to this Schedule. 
+ 
+ 2.4 Transfer of Transmission Injection Rights:  Any resale, assignment, 
+conveyance or transfer of a Transmission Injection Right shall be consistent with Section 232.6 
+of this Tariff and any terms and conditions agreed upon between the Linden VFT Transmission 
+Owner and the Primary Rights Holder. 
+ 
+3. Linden VFT Reservations 
+ 
+ 3.1 Effect of a Linden VFT Reservation:  A Linden VFT Reservation is a 
+prerequisite to scheduling capacity and/or energy on the Linden VFT Facility.  A holder of a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 4 
+confirmed Linden VFT Reservation may submit offers to schedule capacity and/or energy into 
+the Transmission System at the Point of Interconnection over the Linden VFT Facility. 
+ 
+ 3.2 Recallability:  A Non-Firm Linden VFT Reservation released pursuant to Section 
+3.7 is recallable by a holder of a Firm Linden VFT Reservation that has retained the right of 
+recall until the deadline posted on the OASIS which shall be based on the time necessary for 
+submittal of energy bids to meet installed capacity obligations in PJM.  The procedures and 
+prerequisites for the exercise of recall rights are set forth in Section 4.2.2. 
+ 
+ 3.3 Term of Service 
+ 
+ 3.3.1 Firm Linden VFT Reservation:  The minimum term of a Firm Linden 
+VFT Reservation shall be one day and the maximum term shall be equal to the term of 
+agreement allocating rights to the Primary Rights Holder, the capability of the Linden 
+VFT Facility pursuant to Section 2.1 of this Schedule.  The terms and conditions 
+applicable to Firm Point-To-Point Transmission Service in Part II of the Tariff shall 
+apply to any and all Firm Linden VFT Reservations. 
+ 
+ 3.3.2 Non-Firm Linden VFT Reservation:  The terms and conditions of Non-
+Firm Point-To-Point Transmission Service in Part II of the Tariff shall apply to any and 
+all Non-Firm Linden VFT Reservations. 
+ 
+ 3.3.3 Limitations.  A Linden VFT Transmission Customer holding a Firm 
+Linden VFT Reservation or Non-Firm Linden VFT Reservation may not submit a request 
+for scheduling of capacity and energy over the Linden VFT Facility that exceeds the 
+period or megawatt amount of its Linden VFT Reservation. 
+ 
+ 3.4 Acquisition of Linden VFT Reservations:  Linden VFT Reservations are 
+initially allocated to Primary Rights Holders pursuant to Section 2.1  Third parties may purchase 
+Firm Linden VFT Reservation or Non-Firm Linden VFT Reservations through (i) assignment 
+pursuant to Section 3.5 of this schedule or (ii) voluntary or default release through Transmission 
+Provider’s resale procedures as stated in the Tariff and the Regional Scheduling Practices in 
+accordance with Section 3.7 of this Schedule.  The holder of a Linden VFT Reservation that sells 
+or assigns its rights is hereafter referred to as the Reseller.  The entity purchasing a Linden VFT 
+Reservation through resale is hereafter referred to as the Buyer. 
+ 
+ 3.5 Assignment of Linden VFT Reservation:  The Primary Rights Holder of a VFT 
+Reservation may assign its VFT Reservation to third parties in accordance with the terms of the 
+agreement between the Linden VFT Transmission Owner and the Primary Rights Holder 
+provided that notice of such assignment is provided to the Transmission Provider with such 
+information provided on the OASIS.  Subject to Commission approval of any necessary filings, a 
+holder of a VFT Reservation may assign all or a portion of its rights, but only to another Eligible 
+Customer (the Buyer).  The compensation to the Reseller shall be at rates established by 
+agreement with the Buyer.  Notice of such assignment shall be provided to the Transmission 
+Provider as soon as possible after any assignment occurs but in any event, notification must be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 5 
+provided prior to any submission of offers to schedule capacity and energy pursuant to such VFT 
+Reservation by the Buyer. 
+ 
+ 3.6 Limitations on Resale of Linden VFT Reservations:  If the Buyer requests a 
+change in the specifications set forth in the original Linden VFT Service Agreement, the 
+Transmission Provider will consent to such change subject to the provisions of the Tariff, 
+provided that the change is done before the start of service, does not exceed the rights granted in 
+the Reseller’s original Linden VFT Reservation and will not impair the operation and reliability 
+of the Linden VFT Facility, the Transmission Provider’s Transmission System or a Transmission 
+Owner’s generation, transmission, or distribution systems.  The Reseller shall remain liable for 
+the performance of all obligations under the Linden VFT Service Agreement, except as 
+specifically agreed to by the Reseller, the Buyer, and the Transmission Provider through an 
+amendment to the Linden VFT Service Agreement.  A holder of a Linden VFT Reservation shall 
+notify the Transmission Provider of the resale of any Linden VFT Reservation including the rate 
+to be charged in accordance with the deadlines posted in NAESB WEQ 001-11.5.1.for On-
+OASIS re-sales, and  NAESB WEQ 001-11.5.2 for Off-OASIS re-sales. 
+ 
+ 3.7 Release of Linden VFT Reservation:  Linden VFT Reservations may be resold 
+as Available Transmission Capacity (ATC) for acquisition as Linden VFT Service by third 
+parties using the OASIS.  Such a resale of transmission service is subject to the requirements in 
+the PJM Manuals, NERC and NAESB Standards. 
+ 
+ 3.7.1 Voluntary Releases:  A holder of a VFT Reservation may offer all or any 
+portion of its VFT Reservation for voluntarily release on a first-come, first-served basis.  
+A VFT Reservation that has been posted for voluntary release under this subsection shall 
+be excluded from the default release procedures set forth in subsection 3.7.2. 
+ 
+ 3.7.2 Default Releases:  In the event that any holder of a Linden VFT 
+Reservation fails to either:  (i) submit a request to schedule energy up to the full MW 
+value of its Linden VFT Reservation by noon (12:00 p.m.) one business day prior to the 
+Operating Day or (ii) offer its VFT Reservation for voluntarily release pursuant to 
+subsection 3.7.1, then, the difference between the Total Transfer Capability over the VFT 
+Line in each scheduling hour of the Operating Day and the sum of the valid requests for 
+Linden VFT Schedules and MW amount of Linden VFT Reservations voluntarily 
+released on OASIS for such scheduling hour, shall be deemed released by the Linden 
+VFT Transmission Owner (as Reseller) and shall be posted on the OASIS by the 
+Transmission Provider as Non-Firm ATC for acquisition by third parties on a first-come, 
+first-served basis. 
+ 
+ 3.7.3 Release Rate:  The holder of a Linden VFT Reservation seeking to 
+voluntarily release all or any portion of its Linden VFT Reservation shall provide to the 
+Transmission Provider the rate to be posted on OASIS and charged for such releases.  
+The Linden VFT Transmission Owner may provide the Transmission Provider a rate to 
+be posted on OASIS and charged for default releases pursuant to Section 3.7.2.  In the 
+event that the Linden VFT Transmission Owner does not separately provide to the 
+Transmission Provider a rate for default releases, such default releases shall be charged 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 6 
+the lowest rate posted on OASIS for voluntary release of Linden VFT Reservations in the 
+applicable hour. 
+ 
+ 3.7.4 Character of Service Released:  Releases of Linden VFT Reservations 
+made pursuant to the default release provisions in subsection 3.7.2 do not include the 
+right of recall under Section 3.2 and shall be hourly Non-Firm Linden VFT Reservations. 
+ 
+ 3.7.5  Requirements for Acquisition of Linden VFT Reservations through 
+Release or Assignment:  An Eligible Customer shall be eligible to acquire and hold a 
+Linden VFT Reservation through an assignment of a Linden VFT Reservation pursuant 
+to Section 3.5 or release of a Linden VFT Reservation over OASIS pursuant to Section 
+3.7 if such entity meets all of the requirements for a Linden VFT Transmission Customer 
+except for part (iii) of such requirements. 
+ 
+ 3.7.6 Resale Rate:  The Reseller of a Linden VFT Reservation shall post the 
+rate on OASIS and will be credited for completed re-sales of its service.  The Reseller of 
+a Linden VFT Transmission Reservation and the resale Buyer shall be credited/charged 
+the rate as agreed and posted on the OASIS for the Linden VFT Reservations resold. 
+ 
+ 3.8 Billing and Payment for Linden VFT Reservations: 
+ 
+ 3.8.1 Linden VFT Reservations Allocated to Primary Rights Holders 
+Pursuant to Section 2.1:  The billing and payment of rates or charges applicable to the 
+allocation of Firm or Non-Firm Linden VFT Reservations to the Primary Rights Holder 
+pursuant to section 2.1 shall be determined pursuant to arrangements between the Linden 
+VFT Transmission Owner and the Primary Rights Holder and not under this Tariff. 
+ 
+ 3.8.2 Linden VFT Reservations Acquired Through Resale Pursuant to 
+Section 3.7.1:  An entity acquiring a Linden VFT Reservation through a Resale over the 
+OASIS pursuant to subsection 3.7.1 shall be billed the applicable rate which is posted on 
+OASIS pursuant to subsection 3.7.3.   The Transmission Provider will credit/bill both 
+parties according to the applicable rate and the transaction shall be settled through 
+Transmission Provider’s settlements. 
+ 
+ 3.8.3 Linden VFT Reservations Acquired Through Default Resale:  The 
+Transmission Provider shall bill an entity acquiring a Linden VFT Reservation through a 
+default resale the applicable rate which is posted on OASIS pursuant to subsection 3.7.3.  
+Any revenues received from the acquisition of Linden VFT Reservations subject to 
+default release provisions shall be paid by the Transmission Provider to the VFT 
+Transmission Owner.  A Linden VFT Transmission Customer shall pay the applicable 
+rates for the megawatt amount of the Linden VFT Reservation for each hour regardless of 
+whether such holder(s) submitted a schedule for transmission service over the Linden 
+VFT Facility in such hour. 
+ 
+4. Linden VFT Schedules 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 7 
+ 4.1 Nature of Transmission Service over the Linden VFT Facility:   Linden VFT 
+Schedules shall be requested in accordance with NERC and NAESB Standards, including 
+requirements relating to E-Tagging and Transmission Line Relief procedures.  An entity seeking 
+to schedule use of the Linden VFT Facility must hold a Linden VFT Reservation for no less than 
+the amount of megawatts of service being requested.  Deadlines for scheduling the use of the 
+Linden VFT Facility shall adhere to the Transmission Provider’s deadlines for scheduling as 
+provided by the Transmission Provider’s manuals and consistent with the deadlines for 
+scheduling Point to Point Transmission Services as described in Part II of the Tariff. 
+ 
+ 4.2 Submission of Scheduling Requests, Award of Reservations, Curtailment and 
+Interruption of Linden VFT Schedule: 
+ 
+ 4.2.1 Submission of Scheduling Requests:  A Linden VFT Transmission  
+Customer holding a Linden VFT Reservation has the right to submit requests for Firm 
+Linden VFT Schedules or Non-Firm Linden VFT Schedules commensurate to the Linden 
+VFT Reservations held by that entity. 
+ 
+ 4.2.2 Exercise of Recall Rights:  An Eligible Customer holding a Firm Linden 
+VFT Reservation, that retains the right of recall, may exercise such recall rights by 
+providing notice, until the deadline posted on the OASIS which shall be based on the 
+time necessary for submittal of energy bids to meet any installed capacity obligations in 
+PJM, to the Transmission Provider that it wishes to exercise its right of recall.  The 
+exercise of a recall right pursuant to notice to the Transmission Provider shall 
+immediately act to recall the Linden VFT Reservation previously released by the Eligible 
+Customer and acquired by a third party under the assignment provisions set forth in 
+Section 3.5 or the release procedures set forth in Section 3.7 
+ 
+ 4.3 Scheduling of Capacity and Energy over the Linden VFT Facility:  The 
+Transmission Provider shall evaluate all requests to schedule capacity and energy for injection 
+into the Transmission System at the Point of Interconnection based on economic merit order.  In 
+the event of a tie within economic merit, a scheduling request made pursuant to a Firm Linden 
+VFT Reservation shall have priority over a scheduling request made pursuant to a Non-Firm 
+Linden VFT Reservation.  In the case of an economic merit order tie between two or more 
+scheduling requests using a Firm Linden VFT Reservation, the award of the scheduling 
+reservation shall be on a pro rata basis.  In the case of an economic merit order tie between two 
+or more scheduling requests based on Non-Firm Linden VFT Reservations, the reservation 
+classification of the Non-Firm Linden VFT Reservation (Monthly, Weekly, Daily or Hourly) 
+shall then be used as the tiebreaker, with the longer term of Non-Firm Linden VFT Reservation 
+receiving priority.  In the case of a further tie within the sub-category of Non-Firm Linden VFT 
+Reservations (Monthly, Weekly, Daily or Hourly), the timestamp order of the submission of 
+requests to schedule service over the Linden VFT Facility shall be used as a tie-breaker.  A 
+holder of Linden VFT Reservations is limited in its total capacity and energy schedule for its 
+Linden VFT Schedule to the higher of either its Firm or Non-Firm Linden VFT Reservations. 
+ 
+ 4.4 Limitations on Scheduling Amount:  The Linden VFT Facility has a minimum 
+total scheduling requirement. of 1 MW at the Linden VFT Point of Receipt.  The Linden VFT 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 8 
+Facility has a maximum continuous scheduling capability of the lower of the Total Transfer 
+Capability (“TTC”) set by the Transmission Provider or 330 MW at the Linden VFT Point of 
+Delivery.  In the event that the total megawatt of schedules determined by the Transmission 
+Provider is greater than the lower of the TTC or 330 MW at the Linden VFT Point of Delivery, 
+all schedules above the maximum capability shall be rejected. 
+ 
+ 4.5 Curtailment of Linden VFT Schedules:  In the event that a Curtailment or 
+interruption of Linden VFT Schedules is required to maintain reliable operation of the Linden 
+VFT Facility and the systems directly and indirectly interconnected with the Linden VFT 
+Facility, any such Curtailment implemented by the Transmission Provider shall be based upon 
+the priority of the associated Linden VFT Reservations.  For Curtailment or interruptions of 
+Linden VFT Schedules based on Firm Linden VFT Reservations will be performed on a pro rata 
+basis.  Curtailment of Linden VFT Schedules based on Non-Firm Linden VFT Reservations shall 
+first be based on the Non-Firm Linden VFT Reservation classification (i.e., Monthly, Weekly, 
+Daily, Hourly) with the longer term of Non-Firm Linden VFT Reservation receiving priority.  In 
+the case of a tie within the Non-Firm Linden VFT Reservation classifications, the time stamp 
+order of the submission of valid bids/offers to schedule service over the Linden VFT Facility 
+shall be used as a tiebreaker.  The Transmission Provider shall provide advance notice of any 
+Curtailment of Linden VFT Schedules to all affected Linden VFT Transmission Customers 
+where such notice can be provided consistent with Good Utility Practice.  The Transmission 
+Provider shall curtail Linden VFT Schedules over the Linden VFT Facility as required by NERC 
+Standards and the Joint Emergency Operating Protocol for the Linden VFT Scheduled Line 
+which is posted on the PJM website.  The Transmission Provider shall curtail Linden VFT 
+Schedules over the Linden VFT Facility for reliability of the Transmission System pursuant to 
+the separately reserved Transmission Service over the Transmission System pursuant to Part II or 
+Part III of the Tariff to the Linden VFT Facility and the Transmission Provider’s Manuals. 
+ 
+ 4.6 Transmission Service Over the Transmission System.  Prior to the 
+commencement of a Linden VFT Schedule under this Schedule 16-A, a Linden VFT 
+Transmission Customer shall arrange such Transmission Service over the Transmission System 
+pursuant to Part II or Part III of the Tariff as may be necessary pursuant to the Tariff for delivery 
+of energy, capacity or ancillary services over the Transmission System from the Point of 
+Delivery of the Linden VFT Facility for at least the same time period as the Linden VFT 
+Schedule provided under this Schedule 16-A.  Reserving such Transmission Service from the 
+Linden VFT Facility is a required precondition to acquiring a Linden VFT Schedule.  The 
+Linden VFT Transmission Customer is responsible for all charges associated with Transmission 
+Service for delivery of capacity and energy from the Point of Delivery of the Linden VFT 
+Facility. 
+ 
+5. Liability 
+ 
+ The Transmission Provider and any holder of a Linden VFT Reservation which releases 
+or resells its Linden VFT Reservation through resale procedures set forth in Section 3.5 and 3.7 
+of this Schedule 16-A shall be held harmless with regard to any claim which may be raised by 
+any party regarding the award of the released Linden VFT Reservation, except to the extent that 
+such party successfully establishes that the releasing party has incorrectly selected the party 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 9 
+acquiring such released Linden VFT Reservation as the result of gross negligence or willful 
+misconduct.  The liability of the Transmission Provider shall be limited by the terms and 
+conditions of Section 10 of the Tariff and the provisions of the Operating Agreement. 
+ 
+6. Losses and Inadvertent Energy 
+ 
+ Real power losses and inadvertent energy across the Linden VFT Facility shall be 
+allocated solely to Linden VFT Transmission Customers that schedule Firm or Non-Firm 
+transmission service over the Linden VFT Facility on an hourly pro rata basis, except for hours 
+with no Linden VFT Schedules, in which case any real power losses and inadvertent energy 
+across the Linden VFT Facility shall be allocated to Linden VFT Transmission Customers that 
+schedule Firm or Non-Firm transmission service over the Linden VFT Facility on a monthly pro 
+rata basis. 
+ 
+7. Congestion Costs and FTRs 
+ 
+ A Linden VFT Schedule provides a physical right to deliver energy over the Linden VFT 
+Facility.  Accordingly, no congestion costs shall be calculated over the Linden VFT Facility and 
+no FTRs  or their equivalent shall be offered for a Linden VFT Schedule.  This provision is not 
+meant to preclude any allocation of financial transmission rights, auction revenue rights or their 
+equivalent awarded to the Linden VFT Transmission Owner pursuant to Part VI of the Tariff. 
+Such rights would be allocated to Primary Rights Holders in accordance with Section 2.1. 
+ 
+8. Measurement and Posting of ATC and TTC 
+ 
+ The ATC and TTC of the Linden VFT Facility shall be calculated and posted on the 
+OASIS by the Transmission Provider consistent with the requirements of the Tariff. 
+ 
+9. Payment of Other Charges Required for a Linden VFT Schedule 
+ 
+ The Linden VFT Transmission Customer is responsible for charges applicable to a 
+Linden VFT Schedule provided under this Schedule 16-A, including, but not limited to, any 
+congestion and loss charges, redispatch costs, transitional revenue neutrality charges, scheduling, 
+administrative, hardware or software upgrade charges, control area or administrative services 
+charges or ancillary service charges applicable to the Transmission Provider’s administration of 
+transmission service over the Linden VFT Facility (collectively, the “Linden VFT Service 
+Administration Charges”).  In the event that any such Linden VFT Service Administration 
+Charges are billed by the Transmission Provider to the Linden VFT Transmission Owner, the 
+Linden VFT Transmission Owner may bill the Linden VFT Transmission Customer for such 
+charge, and the Linden VFT Transmission Customer shall pay the Transmission Provider, on 
+behalf of the Linden VFT Transmission Owner, such Linden VFT Service Administration 
+Charges pursuant to this Section 9 as a condition of receiving transmission service over the 
+Linden VFT Facility. 
+ 
+ In the event that any other charges related to the construction, maintenance, operation or 
+upgrading of the Transmission System are assessed by the Transmission Provider to the Linden 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 10 
+VFT Transmission Owner for the use of the Linden VFT Facility for injection of energy or 
+capacity into the Transmission System, the Linden VFT Transmission Owner may bill the 
+Primary Rights Holder, and the Primary Rights Holder shall pay the Transmission Provider, on 
+behalf of the Linden VFT Transmission Owner, such charges pursuant to this Section 9 as a 
+condition of receiving transmission service over the Linden VFT Facility.  The issuance and time 
+for payment of charges under this Schedule 16-A shall be consistent with the billing and 
+payment provisions of Section 7 of the Tariff. 
+ 
+ Any failure of a Linden VFT Transmission Customer or a Primary Rights Holder to pay 
+any of the charges referenced in this Section 9 shall be deemed a failure to pay by the Linden 
+VFT Transmission Owner. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 11 
+EXHIBIT A TO SCHEDULE 16-A 
+ 
+ 
+Form of Service Agreement for 
+Transmission Service for Imports over the Linden VFT Facility 
+ 
+ 
+ 1.0 This Service Agreement, dated as of ___________, is entered into, by and 
+between the Office of the Interconnection of PJM Interconnection, L.L.C. (the “Transmission 
+Provider”) and __________________________ (“Linden VFT Transmission Customer”). 
+ 
+ 2.0 The Linden VFT Transmission Customer has been determined by the 
+Transmission Provider to have a Completed Application for a Linden VFT Reservation under the 
+Tariff. 
+ 
+ 3.0 If required, the Linden VFT Transmission Customer has provided to the 
+Transmission Provider an Application deposit in accordance with the provisions of Section 17.3 
+of the Tariff. 
+ 
+ 4.0 Service under this agreement shall commence on the later of (1) the requested 
+service commencement date, or (2) such other date as it is permitted to become effective by the 
+Commission.  Service under this agreement shall terminate on such date as mutually agreed upon 
+by the parties. 
+ 
+ 5.0 The Transmission Provider agrees to provide and the Linden VFT Transmission 
+Customer agrees to take and pay for the Linden VFT Reservation in accordance with the 
+provisions of Schedule 16-A of the Tariff and this Service Agreement. 
+ 
+ 6.0 Any notice or request made to or by either Party regarding this Service 
+Agreement shall be made to the representatives as indicated below. 
+ 
+ 
+Transmission Provider 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA 19403 
+ 
+Linden VFT Transmission Customer 
+________________________________ 
+________________________________ 
+________________________________ 
+ 
+ 
+ 7.0 The Tariff, including Schedule 16-A, is incorporated herein and made a part 
+hereof. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 12 
+ IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be 
+executed by their respective authorized officials. 
+ 
+Office of the Interconnection: 
+   
+   
+By: __________________ __________________ __________________ 
+Name Title Date 
+   
+Linden VFT Transmission Customer: 
+   
+   
+By: __________________ __________________ __________________ 
+Name Title Date 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 13 
+CERTIFICATION 
+ 
+ I, ____________________, certify that I am a duly authorized officer of 
+_______________________________ (Linden VFT Transmission Customer) and that 
+_______________________________ (Linden VFT Transmission Customer) will not request 
+service under this Service agreement to assist an Eligible Customer to avoid the reciprocity 
+provision of this Open-Access Transmission Tariff. 
+ 
+_________________________ 
+(Name) 
+ 
+_________________________ 
+(Title) 
+ 
+ 
+Subscribed and sworn before me this ________ day of ______________, ____________. 
+_________________________ 
+(Notary Public) 
+ 
+My Commission expires: ______________________________ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 16-A Transmission Service Imports - Linden VFT 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 14 
+Specifications For Transmission Service for Imports Over Linden VFT Facility 
+ 
+1.0 Term of Transaction:  _____________________________________________________ 
+  
+ Start Date:  _____________________________________________________________ 
+  
+ Termination Date:  _______________________________________________________ 
+  
+2.0 Description of capacity and energy to be transmitted. 
+ _______________________________________________________________________ 
+  
+3.0 Point of Receipt:  NYISO (at the Linden Cogen 345 kV ring bus in Linden, New Jersey) 
+  
+ Delivering Party:  ________________________________________________________ 
+  
+4.0 Point of Delivery:   VFT Switching Station in Linden, New Jersey 
+  
+ Receiving Party:  ________________________________________________________ 
+  
+5.0 Maximum amount of energy to be transmitted (Reserved Transmission Capability): 
+ ______________________________________________________________________ 
+  
+6.0 Designation of party(ies) subject to reciprocal service obligation: 
+ ______________________________________________________________________ 
+ ______________________________________________________________________ 
+ ______________________________________________________________________ 
+  
+7.0 Service under this Agreement may be subject to some combination of the charges detailed 
+below.  (The appropriate charges for individual transactions will be determined in 
+accordance with the terms and conditions of the Tariff and Schedule16-A). 
+  
+7.1
+  
+Linden VFT Reservation Charge: 
+______________________________________________________________________ 
+______________________________________________________________________ 
+  
+7.2 Linden VFT Service Administration Charges: 
+ ______________________________________________________________________ 
+______________________________________________________________________ 
+  
+7.3 Linden VFT Transmission Enhancement Charges: 
+ ______________________________________________________________________ 
+ 
+  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 1 
+SCHEDULE 17 
+Transmission Service on the Hudson Line 
+ 
+Pursuant to Section 38 of the Tariff, this Schedule provides the terms and conditions of 
+transmission service on the Hudson Line which is a Merchant Transmission Facility under the 
+Tariff and the PJM Operating Agreement. 
+ 
+1. Definitions 
+ 
+Capitalized terms used and defined in this Schedule 17 shall have the meaning given them under 
+this Schedule.  Capitalized terms used and not defined in this Schedule 17 shall have the same 
+meaning as provided in the Tariff or Operating Agreement. Capitalized terms used in this 
+Schedule 17 that are not defined in it or elsewhere in this Tariff or Operating Agreement shall 
+have the meanings customarily attributed to such terms by the electric utility industry in PJM . 
+ 
+ 1.1 Hudson Reservation:  A right, denoted in whole Megawatts (“MWs”) and for a 
+specified period, to request the withdrawal of energy and capacity from the Transmission System 
+at the Point of Interconnection and submit schedules for transmission service utilizing the 
+Hudson Line on a firm or non-firm basis as set forth in this Schedule 17.   
+ 
+  1.1.1 Firm Hudson Reservation:  A Firm Hudson Reservation allows a 

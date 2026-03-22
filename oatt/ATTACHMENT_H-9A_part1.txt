@@ -1,0 +1,3380 @@
+[ATTACHMENT H-9A - Part 1 of 7]
+
+ATTACHMENT H-9A 
+ 
+ 
+Potomac Electric Power Company 
+ 
+Formula Rate -- Appendix A 
+ 
+ 
+Shaded cells are input cells 
+Notes FERC Form 1 Page # or Instruction 
+ 
+ 
+Wages & Salary Allocation Factor 
+1               Direct Transmission Wages Expense p354.21b 
+1a             Exelon Business Services Company Transmission Wages Expense p354 footnote 
+1b             PHI Service Company Transmission Wages Expense p354 footnote  
+1c             Total Transmission Wages Expense (Line 1+1a+1b) 
+2               Total Direct Wages Expense p354.28b 
+2a             Total Exelon Business Services Company Wages Expense p354 footnote 
+2b             Total PHI Service Company Wages Expense p354 footnote 
+2c             Total Wages Expense (Line 2+2a+2b) 
+3               Less Direct A&G Wages Expense p354.27b 
+3a             Less Exelon Business Services Company A&G Expense p354 footnote 
+3b             Less PHI Service Company A&G Expense p354footnote 
+ 
+4               Total (Line 2c – 3-3a-3b) 
+ 
+5        Wages & Salary Allocator (Line 1c / 4) 
+ 
+ 
+ 
+6 
+6a 
+7 
+8 
+9 
+9a 
+10 
+10a 
+11 
+11a 
+12 
+12a 
+13 
+14 
+15 
+16 
+17 
+18 
+Plant Allocation Factors 
+ 
+Allocators
+Electric Plant in Service
+Less Merger Costs to Achieve 
+Common Plant In Service - Electric
+(Note B) p207.104g (See Attachment 9A, line 14, column j)
+Attachment 10, line 80, column b 
+(Line 24 -24a)
+Total Plant In Service ( Line 6 - 6a + 7)
+Accumulated Depreciation (Total Electric Plant) p219.29c (See Attachment 9A, line 42, column b)
+Less Merger Costs to Achieve Attachment 10, line 39, column b
+Accumulated Intangible Amortization (Note A) p200.21c (See Attachment 9, line 14, column h)
+Less Merger Costs to Achieve Attachment 9, line 15, column h
+Accumulated Common Amortization - Electric (Note A) p356 (See Attachment 9, line 14, column i)
+Less Merger Costs to Achieve Attachment 9, line 15, column i
+Accumulated Common Plant Depreciation - Electric (Note A) p356 (See Attachment 9, line 14, column g)
+Less Merger Costs to Achieve Attachment 9, line 15, column g
+Total Accumulated Depreciation (Line 9 - 9a + 10 - 10a + 11 - 11a + 12 - 12a)
+Net Plant (Line 8 - 13)
+Transmission Gross Plant (Line 29 - Line 28)
+Gross Plant Allocator (Line 15 / 8)
+Transmission Net Plant (Line 39 - Line 28)
+Net Plant Allocator (Line 17 / 14)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 2 
+ 
+ 
+19 
+19a 
+20 
+Plant In Service 
+Plant Calculations
+Transmission Plant In Service (Note B) p207.58.g (See Attachment 9, line 14, column b)
+Less Merger Costs to Achieve Attachment 9, line 15, column b
+This line Intentionally Left Blank
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 3 
+21 This line Intentionaly Left Blank  
+22 
+23 
+23a 
+24 
+24a 
+25 
+26 
+27 
+28 
+29 
+ 
+ 
+ 
+30 
+30a 
+30b 
+31 
+31a 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+Accumulated Depreciation 
+ 
+ 
+ 
+ 
+40a 
+40b 
+40c 
+40d 
+Accumulated Deferred Income Taxes (ADIT) 
+ 
+Account No. 190 (ADIT) 
+Account No. 281 (ADIT - Accel. Amort) 
+Account No. 282 (ADIT - Other Property) 
+ 
+Projected 
+Activity (Note V) Attachment 1A - ADIT Summary, Line 23  
+Projected 
+Activity (Note V) Attachment 1A - ADIT Summary, Line 46  
+Projected 
+Activity (Note V) Attachment 1A - ADIT Summary, Line 69 
+ 
+40e 
+Account No. 283 (ADIT - Other) Projected Activity (Note V) Attachment 1A - ADIT Summary, Line 92 
+Account No. 255 (Accum. Deferred Investment Tax Credits) Projected Activity (Note U) Attachment 1A - ADIT Summary, Line 115 
+ 
+ 
+40f Accumulated Deferred Income Taxes Allocated To Transmission (Line 40a+40b + 40c + 40d + 40e) 
+ 
+ 
+ 
+41a 
+41b 
+42 
+Unamortized Deficient / (Excess) ADIT 
+Adjustment To Rate Base
+Total Transmission Plant In Service
+General & Intangible
+Less Merger Costs to Achieve 
+Common Plant (Electric Only) 
+Less Merger Costs to Achieve
+(Notes A & B)
+(Line 19 - 19a)
+p205.5.g & p207.99.g (See Attachment 9, line 14, column c)
+Attachment 9, line 15, column c
+p356 (See Attachment 9, line 14, column d) 
+Attachment 9, line 15, column d
+Total General & Common   
+Wage & Salary Allocation Factor
+(Line 23 – 23a + 24 – 24a)
+(Line 5)
+General & Common Plant Allocated to Transmission (Line 25 * 26)
+Plant Held for Future Use (Including Land) (Note C) p214 (See Attachment 9, line 30, column c)
+TOTAL Plant In Service (Line 22 + 27 + 28)
+Transmission Accumulated Depreciation
+Less Merger Costs to Achieve
+(Note B) p219.25.c (See Attachment 9, line 14, column e)
+Attachment 9, line 15, column e
+Transmission Accumulated Depreciation Less Merger Costs to Achieve 
+Accumulated General Depreciation
+Less Merger Costs to Achieve     
+Accumulated Intangible Amortization 
+Accumulated Common Amortization - Electric
+Common Plant Accumulated Depreciation (Electric Only)
+(Line 30 - 30a)
+p219.28.c (See Attachment 9, line 14, column f)
+Attachment 9, line 15, column f 
+(Line 10 – 10a)
+(Line 11 – 11a)
+(Line 12 – 12a)
+Total Accumulated Depreciation 
+Wage & Salary Allocation Factor
+(Sum Lines 31 – 31a + 32 + 33 + 34 )
+(Line 5)
+General & Common Allocated to Transmission (Line 35 * 36)
+TOTAL Accumulated Depreciation (Line 30b + 37)
+TOTAL Net Property, Plant & Equipment (Line 29 - 38)
+Unamortized Deficient / (Excess) ADIT - (Federal) Projected Activity (Note W) Attachment 1D - ADIT Rate Base Adjustment, Line 73
+Unamortized Deficient / (Excess) ADIT - (State) Projected Activity (Note W) Attachment 1D - ADIT Rate Base Adjustment, Line 146
+Unamortized Deficient / (Excess) ADIT Allocated to Transmission (Line 41a + 41b)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 4 
+ 
+ 
+43 
+Adjusted Accumulated Deferred Income Taxes Allocated To Transmission (Line 40f +42) 
+ 
+43a  
+Transmission Related CWIP (Current Year 12 Month weighted average balances) (Note B) p216.43.b (See Attachment 9, line 30, column b) 
+ 
+ 
+43b Unamortized Abandoned Transmission Plant Attachment - 9, line 30, column h 
+Transmission O&M Reserves 
+44 
+ 
+Prepayments 
+45 
+46 
+Total Balance Transmission Related Account -Reserves Enter Negative Attachment 5 
+ 
+Materials and 
+47 
+48 
+49 
+50 
+51 
+ 
+Cash Working Capital 
+52 
+Operation & Maintenance Expense (Line 85) 
+53 
+1/8th Rule x 1/8 
+ 
+54 
+Total Cash Working Capital Allocated to Transmission (Line 52 * 53) 
+Network Credits 
+55 
+56 
+57 
+ 
+ 
+58 
+TOTAL Adjustment to Rate Base (Line 43 + 43a + 43b + 44 + 46 + 51 + 54 - 57) 
+ 
+59 
+Rate Base (Line 39 + 58) 
+ 
+ 
+60 
+61 
+62 
+63 
+63a 
+64 
+65 
+66 
+Transmission O&M 
+ 
+ 
+67 
+68 
+68a 
+68b 
+68c 
+69 
+Allocated General & Common Expenses 
+O&M
+Prepayments (Note A) Attachment 9, line 30, column f
+Total Prepayments Allocated to Transmission 
+Supplies
+(Line 45)
+Undistributed Stores Exp
+Wage & Salary Allocation Factor
+(Note A) p227.6c & 16.c (See Attachment 9, line 30, column e)
+(Line 5)
+Total Transmission Allocated 
+Transmission Materials & Supplies (Note AA)
+(Line 47 * 48)
+p227.8c + p227.5c (See Attachment 9, line 30, column d)
+Total Materials & Supplies Allocated to Transmission (Line 49 + 50)
+Outstanding Network Credits (Note N) From PJM
+Less Accumulated Depreciation Associated with Facilities with Outstanding Network Credits(Note N) From PJM
+Net Outstanding Credits (Line 55 - 56)
+Transmission O&M Attachment 11A, line 27, column c
+Less extraordinary property loss Attachment 5
+Plus amortized extraordinary property loss Attachment 5
+Less Account 565 p321.96.b
+Less Merger Costs to Achieve Attachment 10, line 1, column x
+Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 565 (Note O) PJM Data
+Plus Transmission Lease Payments (Note A) p200.3.c
+Transmission O&M (Lines 60 - 61 + 62 - 63 – 63a + 64 + 65)
+Common Plant O&M (Note A) p356
+Total A&G Attachment 11B, line 15, column a
+For informational purposes: PBOP expense in FERC Account 926 (Note S) Attachment 5
+Less Merger Costs to Achieve Attachment 10, line 2, column b
+Less Other Attachment 5
+Less Property Insurance Account 924 p323.185b
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 5 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+ 
+Directly Assigned A&G 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+ 
+ 
+ 
+ 
+ 
+86 
+86a 
+87 
+87a 
+88 
+88a 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+Depreciation Expense 
+Transmission Depreciation Expense P336.7b&c ( See Attachment 5 ) 
+Amortization of Abandoned Transmission Plant Attachment 5 
+General Depreciation p336.10b&c ( See Attachment 5 ) 
+Less Merger Costs to Achieve Attachment 10, line 8, column b 
+Intangible Amortization (Note A) p336.1d&e (See Attachment 5 ) 
+Less Merger Costs to Achieve Attachment 10, line 9, column b 
+ 
+Total (Line 87 – 87a + 88 – 88a) 
+Wage & Salary Allocation Factor (Line 5) 
+ 
+General Depreciation Allocated to Transmission (Line 89 * 90) 
+Common Depreciation - Electric Only (Note A) p336.11.b (See Attachment 5 ) 
+Common Amortization - Electric Only (Note A) p356 or p336.11d (See Attachment 5 )  
+Total  (Line 92 + 93) 
+Wage & Salary Allocation Factor (Line 5) 
+ 
+Common Depreciation - Electric Only Allocated to Transmission (Line 94 * 95) 
+ 
+Total Transmission Depreciation & Amortization (Line 86 + 86a + 91 + 96) 
+ 98 
+Taxes Other than Income Attachment 2 
+ 
+99 
+Total Taxes Other than Income (Line 98) 
+ 
+ 
+100 
+Long Term Interest 
+Long Term Interest p117.62c through 67c 
+101 Less LTD Interest on Securitization Bonds (Note P) Attachment 8  
+ 
+Depreciation & Amortization Expense
+Taxes Other than Income
+Return / Capitalization Calculations
+Less Regulatory Commission Exp Account 928 
+Less General Advertising Exp Account 930.1
+Less DE Enviro & Low Income and MD Universal Funds
+Less EPRI Dues
+(Note E)
+(Note D)
+p323.189b 
+p323.191b
+p335.b
+p352-353
+General & Common Expenses
+Wage & Salary Allocation Factor
+(Lines 67 + 68) - Sum (68b to 73)
+(Line 5)
+General & Common Expenses Allocated to Transmission (Line 74 * 75)
+Regulatory Commission Exp Account 928
+General Advertising Exp Account 930.1
+(Note G)
+(Note K)
+p323.189b
+p323.191b
+Subtotal - Transmission Related 
+Property Insurance Account 924
+(Line 77 + 78) 
+p323.185b
+General Advertising Exp Account 930.1 (Note F) p323.191b
+Total
+Net Plant Allocation Factor
+(Line 80 + 81)
+(Line 18)
+A&G Directly Assigned to Transmission (Line 82 * 83)
+Total Transmission O&M (Line 66 + 76 + 79 + 84)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 6 
+102 
+103 
+ 
+104 
+105 
+106 
+106a 
+107 
+ 
+108 
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 
+121 
+122 
+123 
+124 
+125 
+126 
+127 
+Long Term Interest 
+Preferred Dividends 
+Common Stock
+Proprietary Capital 
+Less Preferred Stock 
+Less Account 216.1
+Less Account 219
+enter positive
+enter negative
+enter negative 
+enter negative
+"(Line 100 - line 101)" 
+p118.29c
+p112.16c
+(Line 114)
+p112.12c 
+p112.15c
+Common Stock (Note Z) (Sum Lines 104 to 106a)
+Capitalization
+Long Term Debt p112.18c through 21c
+Less Loss on Reacquired Debt enter negative p111.81c
+Plus Gain on Reacquired Debt enter positive p113.61c
+Less ADIT associated with Gain or Loss enter negative Attachment 1B - ADIT EOY, Line 7
+Less LTD on Securitization Bonds (Note P) enter negative Attachment 8
+Total Long Term Debt (Note X) (Sum Lines 108 to 112)
+Preferred Stock (Note Y) p112.3c
+Common Stock (Line 107)
+Total Capitalization (Sum Lines 113 to 115)
+Debt % Total Long Term Debt (Note Q) (Line 108 / (108+114+115))
+Preferred % Preferred Stock (Line 114 / (108+114+115))
+Common % Common Stock (Note Q) (Line 115 /(108+ 114+115))
+Debt Cost Total Long Term Debt (Line 102 / 113)
+Preferred Cost Preferred Stock (Line 103 / 114)
+Common Cost Common Stock (Note J) Fixed
+Weighted Cost of Debt Total Long Term Debt (WCLTD) (Line 117 * 120)
+Weighted Cost of Preferred Preferred Stock (Line 118 * 121)
+Weighted Cost of Common Common Stock (Line 119 * 122)
+Total Return ( R ) (Sum Lines 123 to 125)
+Investment Return = Rate Base * Rate of Return (Line 59 * 126)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 7 
+ 
+ 
+Income Tax Rates 
+ 
+128 FIT=Federal Income Tax Rate  (Note I) 
+129 SIT=State Income Tax Rate or Composite  (Note I) 
+ 
+130 P (percent of federal income tax deductible for state purposes)  Per State Tax Code 
+131 T T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   
+132a T/ (1-T)    
+132b Tax Gross-Up Factor 1*1/(1-T)   
+ ITC Adjustment  (Note U)  
+133 Amortized Investment Tax Credit  enter negative Attachment 1B - ADIT EOY 
+134 Tax Gross-Up Factor   (Line 132b) 
+135 ITC Adjustment Allocated to Transmission   (Line 133 * + 134 * 135) 
+Other Income Tax Adjustment 
+ 
+136a Tax Adjustment for AFUDC Equity Component of  
+Transmission Depreciation Expense 
+ 
+136b Amortization Deficient / (Excess) Deferred Taxes 
+ 
+ 
+(Note T) 
+ 
+Attachment 5, Line 136a 
+(Federal) - Transmission Component (Note T) Attachment 5, Line 136b 
+136c Amortization Deficient / (Excess) Deferred Taxes 
+(State) - Transmission Component (Note T) Attachment 5, Line 136c 
+136d Amortization of Other Flow-Through Items - 
+Transmission Component (Note T) Attachment 5, Line 136d 
+136e 
+136f 
+ 
+Other Income Tax Adjustments - Expense / (Benefit) (Line 136a + 136b + 136c +136d) 
+Tax Gross-Up Factor (Line 132b) 
+ 
+136g Other Income Tax Adjustment (Line 136e * 136f) 
+137 Income Tax Component = CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = [Line 132a * 127 * (1-(123 / 126))] 
+ 
+138 Total Income Taxes (Line 135 + 136g + 137) 
+ 
+Summary 
+ 
+139 Net Property, Plant & Equipment  (Line 39) 
+140    Adjustment to Rate Base   (Line 58)  
+141 Rate Base  (Line 59) 
+142 O&M  (Line 85) 
+143 Depreciation & Amortization  (Line 97) 
+144 Taxes Other than Income  (Line 99) 
+145 Investment Return  (Line 127) 
+146 Income Taxes  (Line 138) 
+147 Gross Revenue Requirement  (Sum Lines 142 to 146) 
+Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities 
+148 Transmission Plant In Service  (Line 19) 
+149    Excluded Transmission Facilities  (Note M)  Attachment 5  
+150 Included Transmission Facilities  (Line 148 - 149) 
+151 Inclusion Ratio  (Line 150 / 148) 
+152    Gross Revenue Requirement   (Line 147)  
+Composite Income Taxes
+REVENUE REQUIREMENT
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 8 
+153 Adjusted Gross Revenue Requirement (Line 151 * 152) 
+Revenue Credits & Interest on Network Credits 
+ 
+154 Revenue Credits  Attachment 3 
+155 Interest on Network Credits (Note N) PJM Data 
+ 
+156 
+ 
+Net Revenue Requirement   
+(Line 153 - 154 + 155) 
+ 
+ 
+157 
+Net Plant Carrying Charge 
+Net Revenue Requirement 
+  
+ 
+(Line 156) 
+158 Net Transmission Plant  (Line 19 - 30) 
+159 Net Plant Carrying Charge  (Line 157 / 158) 
+160 Net Plant Carrying Charge without Depreciation  (Line 157 - 86) / 158 
+161 
+ 
+ 
+162 
+Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes 
+Net Plant Carrying Charge Calculation per 100 Basis Point increase in ROE 
+Net Revenue Requirement Less Return and Taxes 
+ (Line 157 - 86 - 127 - 138) / 158 
+ 
+ 
+(Line 156 - 145 - 146) 
+163 Increased Return and Taxes  Attachment 4 
+164 Net Revenue Requirement per 100 Basis Point increase in ROE  (Line 162 + 163) 
+165 Net Transmission Plant  (Line 19 - 30) 
+166 Net Plant Carrying Charge per 100 Basis Point increase in ROE  (Line 164 / 165) 
+167 Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation  (Line 163 - 86) / 165 
+168 Net Revenue Requirement  (Line 156) 
+169 True-up amount  Attachment 6A, line 4, column j 
+170 Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects  Attachment 6, line 18, column 12 
+171 
+171a 
+Facility Credits under Section 30.9 of the PJM OATT and Facility Credits to Vineland per settlement in ER05-515 
+MAPP Abandonment recovery pursuant to ER13-607 
+ Attachment 5 
+Attachment 5 
+172 Net Zonal Revenue Requirement 
+Network Zonal Service Rate 
+ (Line 168 + 169 + 170 + 171 +171a) 
+173 1 CP Peak (Note L) PJM Data 
+174 Rate ($/MW-Year)  (Line 172 / 173) 
+175 Network Service Rate ($/MW/Year) 
+(Note ZZ) 
+(Line 174) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 9 
+Notes 
+A Electric portion only 
+ 
+B Exclude Construction Work In Progress and leases that are expensed as O&M (rather than amortized). New Transmission plant 
+ 
+that is expected to be placed in service in the current calendar year weighted by number of months it is expected to be in-service. New Transmission plant expected 
+to be placed in service in the current calendar year that is not included in the PJM Regional Transmission Plan (RTEP) detailed on Attachments 9 or 9A. 
+For the Reconciliation, new transmission plant that was actually placed in service weighted by the number of months it was actually in service 
+CWIP will be linked to Attachment 6 which shows detail support by project (incentive and non-incentive). 
+C Transmission Portion Only 
+ 
+D All EPRI Annual Membership Dues E
+ All Regulatory Commission Expenses 
+F Safety related advertising included in Account 930.1 
+ 
+G Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h. 
+I The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = 
+"the percentage of federal income tax deductible for state income taxes". If the utility includes taxes in more than one state, it must explain in 
+Attachment 5 the name of each state and how the blended or composite SIT was developed. 
+ 
+ 
+ 
+ 
+ 
+J The ROE is 10.5% which includes a base ROE of 10.0% ROE per FERC order in Docket No. EL13-48 and a 50 basis point RTO membership adder as authorized by FERC: provided, that the projects identified in 
+Docket Nos. ER08-686 and ER08-1423 have been awarded an additional 150 basis point adder and, thus, their ROE is 12.0%. 
+K Education and outreach expenses relating to transmission, for example siting or billing 
+ 
+L As provided for in Section 34.1 of the PJM OATT and the PJM established billing determinants will not be revised or updated in the annual rate reconciliations per settlement in ER05-515. 
+M Amount of transmission plant excluded from rates per Attachment 5. 
+N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments 
+(net of accumulated depreciation) towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A. 
+Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmission Owner whole on Line 155. 
+O Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included in Transmission O&M. 
+If they are booked to Acct 565, they are included in on line 64 
+P Securitization bonds may be included in the capital structure per settlement in ER05-515. 
+Q Pepco capital structure is derived from gross debt. 
+R Per the settlement in ER05-515, the facility credits of $15,000 per month paid to Vineland will increase to $37,500 per month (prorated for partial months) 
+effective on the date FERC approves the settlement in ER05-515. 
+S See Attachment 5, Cost Support, section entitled “PBOP expense in FERC Account 926 “ for additional information per FERC orders in Docket Nos. EL13-48, EL15-27 and ER16-456. 
+T See Attachment 5 - Cost Support, section entitled "Other Income Tax Adjustment" for additional information. 
+U Potomac Electric Power Company elected to amortize investment tax credits against recoverable income tax expense, rather than to reduce rate base by unamortized investment tax 
+credit. Amortization reduces income tax expense and reduces the revenue requirement by the amount of the Investment Tax Credit Amortization (Form 1, 266.8.f) multiplied by (1/1- 
+T). 
+ 
+ 
+The Accumulated Deferred Income Tax (ADIT) balances in Accounts 190, 281, 282, and 283 are measured using the enacted tax rate that is expected to apply when the underlying temporary differences are expected to 
+be settled or realized. To preserve rate base neutrality, theses balances appropriately exclude ADIT amounts associated with income tax related regulatory assets and liabilities. The balances in Accounts 190, 281, 282 and 283 
+are adjusted in accordance with Treasury regulation Section 1.167(l)-1(h)(6) and averaged in accordance with IRC Section 168(i)(9)(B) in the calculations of rate base in the projected revenue requirement and in the true-up adjustment. 
+Differences attributable to over-projection of ADIT in the projected revenue requirement will result in a proportionate reversal of the projected prorated ADIT activity in the true-up adjustment to the extent of the over-projection. 
+Differences attributable to under-projection of ADIT in the projected revenue requirement will result in an adjustment to the projected prorated ADIT activity by 50 percent of the difference between the projected monthly activity and 
+the actual monthly activity. However, when projected monthly ADIT activity is an increase and actual monthly ADIT activity is a decrease, 50 percent of the actual monthly ADIT activity will be used. Likewise, when projected 
+monthly ADIT activity is a decrease and actual monthly ADIT activity is an increase, 50 percent of actual monthly ADIT activity will be used. For the Annual Update (Projected) filing, see Attachment 1A - ADIT Summary, 
+V Column H for inputs. For the Annual Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs. 
+ 
+These balances represent the unamortized federal and state deficient / (excess) deferred income taxes.  For the Annual Update (Projected) filing, see Attachment 1D - ADIT Rate Base Adjustment, Column H for inputs. For the Annual 
+W Update (True-Up) filing, See Attachment 1D - ADIT Rate Base Adjustment, Column M for inputs. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 10 
+Long Term Debt balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. The balances for January through November 
+X shall represent the actual balances in Pepco’s books and records (trial balance or monthly balance sheet). 
+ 
+Preferred Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. The balances for January through November 
+Y shall represent the actual balances in Pepco’s books and records (trial balance or monthly balance sheet). 
+ 
+Common Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. The balances for January through November 
+Z shall represent the actual balances in Pepco’s books and records (trial balance or monthly balance sheet). 
+ 
+Only the transmission portion of amounts reported at Form 1, page 227, line 5 is used. The transmission portion is derived by applying the wages and salary allocator to the total of line 5 is and specified in a footnote to the 
+AA Form 1, page 227. 
+ 
+The revisions made in the Order No. 864 Cleanup Filing will not require any adjustment to rates, or annual update filings, for rates charged and annual update filings made prior to the date of 
+ZZ the order accepting the revised tariff sheets. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rate Year = 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+Accumulated Deferred Income Taxes (Account No. 
+190) 
+   
+ 
+ADIT Subject to 
+1 Proration 
+ 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+- - - - - 
+ 
+ 
+ 
+ 
+ 
+Days in Period
+(A)
+Month
+(B)
+Days   
+Per Month
+(C)
+Remaining 
+Days    
+Per Month
+(D)
+Total Days 
+in Future 
+Test Period
+(E)
+Proration Amount 
+(Column C / 
+Column D) Note 
+1
+Projection - Proration of Deferred Tax Activity (Note A)
+(F)
+Projected 
+Monthly 
+Activity
+(G)
+Prorated Projected 
+Monthly Activity 
+(Column E x Column 
+F)
+(H)
+Prorated 
+Projected Balance
+(Column G Plus Column H, 
+Preceding Balance)
+Actual - Proration of Deferred Tax Activity (Note B)
+(I)
+Actual 
+Monthly 
+Activity
+(J)
+Difference 
+Projected vs.
+Actual 
+(Note C)
+(K)
+Preserve Proration 
+(Actual vs Projected) 
+(Note D)
+(L)
+Preserve Proration 
+(Actual vs Projected) 
+(Note E)
+(M)
+Preserved Prorated 
+Actual Balance
+(Col. K + Col. L + Col. M, 
+Preceding Balance)
+January 31 - 214 50.00%
+February 28 - 214 50.00%
+March 31 - 214 50.00%
+April
+May
+30 - 214 50.00%
+31 - 214 50.00%
+June 30 185 214 86.45%
+July 31 154 214 71.96%
+August 31 123 214 57.48%
+September 30 93 214 43.46%
+October
+November
+31 62 214 28.97%
+30 32 214 14.95%
+- - -
+- - -
+- - -
+-
+-
+-
+-
+-
+-
+- - -
+- - -
+- - -
+- - -
+-
+-
+-
+-
+-
+-
+- -
+- - - - -
+- - - - -
+- - - - -
+- - -
+- - -
+-
+-
+-
+-
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - -
+- - -
+-
+-
+-
+-
+- - - - -
+- -
+13
+14
+December 31Total (Sum of Lines 2 -
+13) 365
+1 214 0.47% -
+-
+15 Beginning Balance - ADIT Not Subject to Proration -
+16 Beginning Balance - ADIT Depreciation Adjustment (Note F) - -
+17 Beginning Balance - DTA / (DTL) (Col. (H), Line 15 + Line 16) (Col. (M), Line 15 + Line 16) -
+18 Ending Balance - ADIT Not Subject to Proration -
+19 Ending Balance - ADIT Depreciation Adjustment (Note F) - -
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 11 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 12 
+2018 Projected
+(Note F)
+-
+-
+Ending Balance - DTA / 
+20 (DTL) (Col. (H), Line 18 + Line 19) (Col. (M), Line 18 + Line 19) - 
+ 
+Average Balance as adjusted (non- 
+21 prorated) ([Col. (H), Line 17 + Line 20] / 2) (Col. (H)(, 
+([Col. (M), Line 17 + Line 20] / 
+2) - 
+(Col. (M), 
+22 Prorated ADIT 
+Amount for 
+Attachment H-9A, Line 
+Line 13)
+ 
+- 
+Line 13) - 
+ 
+- 
+23 40a (Col. (H), Line 21 + Line 22) (Col. (M), Line 21 + Line 22) 
+  
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+ 
+ 
+Accumulated Deferred Income Taxes - Property (Account No. 281) 
+   
+ 
+ 
+24 ADIT Subject to Proration 
+ 
+ 
+25 
+ 
+26 
+ 
+27 
+ 
+28 
+ 
+29 
+ 
+30 
+ 
+31 
+ 
+32 
+ 
+33 
+ 
+34 
+ 
+35 
+ 
+36 
+37 Total (Sum of Lines 25 - 36) 365 - - - - - -  
+ 
+38 Beginning Balance - ADIT Not Subject to Proration 
+ 
+39 Beginning Balance - ADIT Depreciation Adjustment 
+ 
+40 Beginning Balance - DTA / (DTL) (Col. (H), Line 38 + Line 39) (Col. (M), Line 38 + Line 39) - 
+2018 
+41 Estimated Ending Balance - ADIT Not Subject to Proration 
+ 
+42 Ending Balance - ADIT Depreciation Adjustment 
+Projected 
+Days in Period
+(A)
+Month
+(B)
+Days    
+Per Month
+(C)
+Prorated Days 
+Per Month
+(D)
+Total Days  
+Per Future  
+Test Period
+(E)
+Proration Amount 
+(Column C / 
+Column D)
+Projection - Proration of Deferred Tax Activity (Note A)
+(F)
+Projected 
+Monthly Activity
+(G)
+Prorated Projected 
+Monthly Activity 
+(Column E x Column 
+F)
+(H)
+Prorated 
+Projected Balance
+(Column G Plus Column H, 
+Preceding Balance)
+Actual - Proration of Deferred Tax Activity (Note B)
+(I)
+Actual 
+Monthly 
+Activity
+(J)
+Difference 
+Projected vs.
+Actual 
+(Note C)
+(K)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note D)
+(L)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note E)
+(M)
+Preserved Prorated 
+Actual Balance (Col. 
+K + Col. L + Col.
+M, Preceding Balance)
+January 31 - 214 50.00%
+February 28 - 214 50.00%
+March 31 - 214 50.00%
+April 30 - 214 50.00%
+May 31 - 214 50.00%
+June 30 185 214 86.45%
+July 31 154 214 71.96%
+August 31 123 214 57.48%
+September 30 93 214 43.46%
+October 31 62 214 28.97%
+November 30
+31
+32
+1
+214 14.95%
+December 214 0.47%
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+(Note F)
+-
+-
+- -
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 11 
+Ending Balance - DTA / 
+43 (DTL) (Col. (H), Line 41 + Line 42) (Col. (M), Line 41 + Line 42) - 
+([Col. (M), Line 40+ Line 43] / 
+44 Average Balance as adjusted (non-prorated) ([Col. (H), Line 40+ Line 43] / 2) 
+45 Prorated ADIT (Col. (H), Line 36) 
+Amount for Attachment H- 
+2) - 
+(Col. (M), 
+Line 36)  -   
+46 9A, Line 40b (Col. (H), Line 44 + Line 45) (Col. (M), Line 44 + Line 45) - 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1A Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 12 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1B Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 1 
+(Note F)
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+Accumulated Deferred Income Taxes - Other (Account No. 282) 
+   
+ 
+ADIT Subject to 
+38 Proration 
+ 
+48 January 31 - 214 50.00% 
+49 February 28 - 214 50.00% 
+50 March 31 - 214 50.00% 
+51 April 30 - 214 50.00% 
+52 May 31 - 214 50.00% 
+53 June 30 185 214 86.45% 
+54 July 31 154 214 71.96% 
+55 August 31 123 214 57.48% 
+56 September 30 93 214 43.46% 
+57 October 31 62 214 28.97% 
+58 November 30 32 214 14.95% 
+59  December 31 1 214  0.47% 
+Total (Sum of 
+60 Lines 51 - 62) 365 - - - - - - 
+61 Beginning Balance - ADIT Not Subject to Proration - 
+62 Beginning Balance - ADIT Depreciation Adjustment - 
+63 Beginning Balance - DTA / (DTL) (Col. (H), Line 61 + Line 62) (Col. (M), Line 61 + Line 62) - 
+ 
+Estimated Ending Balance - ADIT Not Subject to 
+64 Proration 
+65 Ending Balance - ADIT Depreciation Adjustment 
+Ending Balance 
+66 - DTA / (DTL) (Col. (H), Line 64 + Line 65) (Col. (M), Line 64 + Line 65) - 
+ 
+Average Balance as adjusted 
+67 (non-prorated) ([Col. (H), Line 63 + Line 66] / 2) ([Col. (M), Line 63 + Line 66] / 2) - 
+68 Prorated ADIT 
+Amount for 
+Attachment H- 
+(Col. (H), Line 
+59) 
+(Col. (M), 
+Line 59)  -  
+- 
+69 9A, Line 40c (Col. (H), Line 67 + Line 68) (Col. (M), Line 67 + Line 68) 
+  
+Days in Period
+(A)
+Month
+(B)
+Days   
+Per Month
+(C)
+Prorated Days 
+Per Month
+(D)
+Total Days  
+Per Future  
+Test Period
+(E)
+Proration Amount 
+(Column C / 
+Column D)
+Projection - Proration of Deferred Tax Activity (Note A)
+(F)
+Projected 
+Monthly 
+Activity
+(G)
+Prorated Projected 
+Monthly Activity 
+(Column E x Column F)
+(H)
+Prorated 
+Projected Balance
+(Column G Plus Column 
+H, Preceding Balance)
+Actual - Proration of Deferred Tax Activity (Note B)
+(I)
+Actual 
+Monthly 
+Activity
+(J)
+Difference 
+Projected vs.
+Actual 
+(Note C)
+(K)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note D)
+(L)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note E)
+(M)
+Preserved Prorated 
+Actual Balance
+(Col. K + Col. L + Col. M, 
+Preceding Balance)
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+-
+-
+- -
+(Note F)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1B Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 2 
+(Note F)
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+Accumulated Deferred Income Taxes - Other (Account No. 283) 
+   
+ 
+ADIT Subject to 
+70 Proration 
+ 
+71 January 31 - 214 50.00% 
+72 February 28 - 214 50.00% 
+73 March 31 - 214 50.00% 
+74 April 30 - 214 50.00% 
+75 May 31 - 214 50.00% 
+76 June 30 185 214 86.45% 
+77 July 31 154 214 71.96% 
+78 August 31 123 214 57.48% 
+79 September 30 93 214 43.46% 
+80 October 31 62 214 28.97% 
+81 November 30 32 214 14.95% 
+82  December 31 1 214  
+0.47% Total (Sum of 
+83 Lines 51 - 62) 365 - - - - - - 
+84 Beginning Balance - ADIT Not Subject to Proration - 
+85 Beginning Balance - ADIT Depreciation Adjustment - 
+86 Beginning Balance - DTA / (DTL) (Col. (H), Line 84 + Line 85) (Col. (M), Line 84 + Line 85) - 
+ 
+Estimated Ending Balance - ADIT Not Subject to 
+87 Proration 
+88 Ending Balance - ADIT Depreciation Adjustment 
+Ending Balance 
+89 - DTA / (DTL) (Col. (H), Line 87 + Line 88) (Col. (M), Line 87 + Line 88) - 
+ 
+Average Balance as adjusted 
+90 (non-prorated) ([Col. (H), Line 86 + Line 89] / 2) ([Col. (M), Line 86 + Line 89 / 2) - 
+91 Prorated ADIT 
+Amount for 
+Attachment H- 
+(Col. (H), Line 
+82) 
+(Col. (M), 
+Line 82)  -  
+- 
+92 9A, Line 40d (Col. (H), Line 90 + Line 91) (Col. (M), Line 90 + Line 91) 
+  
+Days in Period
+(A)
+Month
+(B)
+Days   
+Per Month
+(C)
+Prorated Days 
+Per Month
+(D)
+Total Days  
+Per Future  
+Test Period
+(E)
+Proration Amount 
+(Column C / 
+Column D)
+Projection - Proration of Deferred Tax Activity (Note A)
+(F)
+Projected 
+Monthly 
+Activity
+(G)
+Prorated Projected 
+Monthly Activity 
+(Column E x Column F)
+(H)
+Prorated 
+Projected Balance
+(Column G Plus Column 
+H, Preceding Balance)
+Actual - Proration of Deferred Tax Activity (Note B)
+(I)
+Actual 
+Monthly 
+Activity
+(J)
+Difference 
+Projected vs.
+Actual 
+(Note C)
+(K)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note D)
+(L)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note E)
+(M)
+Preserved Prorated 
+Actual Balance
+(Col. K + Col. L + Col. M, 
+Preceding Balance)
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+-
+-
+- -
+(Note F)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1B Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 14 
+(Note F)
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+Accumulated Deferred Investment Tax Credits (Account No. 255) 
+   
+ 
+ADIT Subject to 
+93 Proration 
+ 
+94 January 31 - 214 50.00% 
+95 February 28 - 214 50.00% 
+96 March 31 - 214 50.00% 
+97 April 30 - 214 50.00% 
+98 May 31 - 214 50.00% 
+99 June 30 185 214 86.45% 
+100 July 31 154 214 71.96% 
+101 August 31 123 214 57.48% 
+102 September 30 93 214 43.46% 
+103 October 31 62 214 28.97% 
+104 November 30 32 214 14.95% 
+105  December 31 1 214  
+0.47% Total (Sum of 
+106 Lines 51 - 62) 365 - - - - - - 
+107 Beginning Balance - ADIT Not Subject to Proration - 
+108 Beginning Balance - ADIT Depreciation Adjustment - 
+109 Beginning Balance - DTA / (DTL) (Col. (H), Line 107 + Line 108) (Col. (M), Line 107 + Line 108) - 
+ 
+ 
+110 
+Estimated Ending Balance - ADIT Not Subject to 
+Proration 
+111 Ending Balance - ADIT Depreciation Adjustment  
+Ending Balance 
+112 - DTA / (DTL) (Col. (H), Line 110 + Line 111) (Col. (M), Line 110 + Line 111) - 
+ 
+ 
+113 
+Average Balance as adjusted 
+(non-prorated) ([Col. (H), Line 109 + Line 112] / 2) 
+(Col. (H), Line 
+([Col. (M), Line 109 + Line 112 / 
+2) - 
+(Col. (M), 
+114 Prorated ADIT 
+Amount for 
+Attachment H- 
+105) Line 105) - 
+  
+- 
+115 9A, Line 40e (Col. (H), Line 113 + Line 114) (Col. (M), Line 113 + Line 114) 
+  
+Days in Period
+(A)
+Month
+(B)
+Days   
+Per Month
+(C)
+Prorated Days 
+Per Month
+(D)
+Total Days  
+Per Future  
+Test Period
+(E)
+Proration Amount 
+(Column C / 
+Column D)
+Projection - Proration of Deferred ITC Activity (Note A)
+(F)
+Projected 
+Monthly 
+Activity
+(G)
+Prorated Projected 
+Monthly Activity 
+(Column E x Column F)
+(H)
+Prorated 
+Projected Balance
+(Column G Plus Column 
+H, Preceding Balance)
+Actual - Proration of Deferred ITC Activity (Note B)
+(I)
+Actual 
+Monthly 
+Activity
+(J)
+Difference 
+Projected vs.
+Actual 
+(Note C)
+(K)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note D)
+(L)
+Preserve Proration 
+(Actual vs 
+Projected) 
+(Note E)
+(M)
+Preserved Prorated 
+Actual Balance
+(Col. K + Col. L + Col. M, 
+Preceding Balance)
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+-
+-
+- -
+(Note F)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1B Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 15 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - ADIT Summary 
+ 
+ 
+ 
+1. For purposes of calculating projected activity, use Columns (F), (G), and (H) and set the "Rate Year" below to "Projected Activity".  For purposes of calculating the "True-Up" adjustment, use Columns (I), (J), (K), (L), and (M) and set the "Rate Year" below 
+to "True-Up Adjustment". 
+ 
+Rate Year Check 
+ 
+2. For the Annual Update (Projected) filing, see Attachment 1A - ADIT Summary, Column  H for inputs.  For the Annual Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs. 
+ 
+ 
+ 
+ 
+ 
+ 
+A The computations on this workpaper apply the proration rules of Reg. Sec. 1.167(l)-1(h)(6) to the annual activity of accumulated deferred income taxes subject to the normalization requirements 
+.  Activity related to the portions of the account balances not subject to the proration requirement are averaged instead of prorated.  For accumulated deferred income taxes subject to the 
+normalization requirements, activity for months prior to the future portion of the test period is averaged rather than prorated.  This section is used to prorate the projected ADIT balance. 
+ 
+ 
+B The balances in Accounts 190, 281, 282 and 283 are adjusted in accordance with Treasury regulation Section 1.167(l)-1(h)(6) and averaged in accordance with IRC Section 168(i)(9)(B) in the calculations of rate base in the projected revenue requirement and in the true-up adjustment.  Differences attributable to over-projection of ADIT in the projected revenue requirement will result in a 
+proportionate reversal of the projected prorated ADIT activity in the true-up adjustment to the extent of the over-projection.  Differences attributable to under-projection of ADIT in the projected 
+revenue requirement will result in an adjustment to the projected prorated ADIT activity by 50 percent of the difference between the projected monthly activity and the actual monthly activity.  
+However, when projected monthly ADIT activity is an increase and actual monthly ADIT activity is a decrease, 50 percent of the actual monthly ADIT activity will be used.  Likewise, when projected 
+monthly ADIT activity is a decrease and actual monthly ADIT activity is an increase, 50 percent of actual monthly ADIT activity will be used.  This section is used to calculate ADIT activity in the true- 
+up adjustment only. 
+ 
+ 
+C Column J is the difference between projected monthly and actual monthly activity (Column I minus Column F).  Specifically, if projected and actual activity are both positive, a negative in Column J 
+represents over-projection (amount of projected activity that did not occur) and a positive in Column J represents under-projection (excess of actual activity over projected activity). If projected and 
+actual activity are both negative, a negative in Column J represents under-projection (excess of actual activity over projected activity) and a positive in Column J represents over-projection (amount of 
+projected activity that did not occur). 
+D Column K preserves proration when actual monthly and projected monthly activity are either both increases or decreases.  Specifically, if Column J is over-projected, enter Column G x [Column 
+I/Column F].  If Column J is under-projected, enter the amount from Column G and complete Column L).  In other situations, enter zero. 
+E Column L applies when (1) Column J is under-projected AND (2) actual monthly and projected monthly activity are either both increases or decreases.  Enter the amount from Column J.  In other 
+situations, enter zero. 
+F IRS normalization adjustment for timing when accelerated tax depreciation should affect rate base.
+Projected Activity
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1B Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 16 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac 
+Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 16 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet – End of 
+Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Line  ADIT (Not Subject to 
+  Proration) Total  
+Gas, 
+Production, Only 
+Distribution 
+or  Transmission Plant  
+Labor Other 
+Related Related Related Related 
+ 
+ 
+1 ADIT-190 
+2 ADIT-281 
+3 ADIT-282 
+4 ADIT-283 
+5 ADITC-255 
+ 
+ 
+ 
+6 Subtotal - Transmission ADIT 
+ 
+ 
+ 
+ 
+Line Description Total 
+7 ADIT (Required Debt)  
+ 
+ 
+Note: ADIT associated with Gain or Loss on Reacquired Debt included in ADIT-283, Column A is excluded from rate base and instead included in Cost of Debt on Attachment H-9A, 
+Line 111. A deferred tax (liability) should be reported as a positive balance and a deferred tax asset should be reported as a negative balance on Attachment H-9A, Line 111. 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns B - F and each separate ADIT item will be listed, dissimilar 
+items with amounts exceeding $100,000 will be listed separate 
+ 
+ 
+ 
+ 
+(A) (B) 
+Total 
+(C) 
+Gas, Production, 
+(D) 
+Only 
+(E) (F) (G) 
+ 
+ADIT-190 (Not Subject to Proration) 
+ Distribution  or 
+Other Related 
+Transmission 
+Related 
+Plant 
+Related 
+Labor 
+Related 
+ 
+Justification 
+ 
+        
+        
+        
+        
+        
+        
+        
+Subtotal: ADIT-190 (Not Subject to 
+Proration) 
+       
+Less: ASC 740 ADIT Adjustments 
+excluded from rate base 
+       
+Less: ASC 740 ADIT Adjustments 
+related to unamortized ITC 
+       
+Less: ASC 740 ADIT balances related 
+to income tax regulatory assets / 
+(liabilities) 
+       
+Less: OPEB related ADIT, Above if 
+not separately removed 
+       
+Total: ADIT-190 (Not Subject to 
+Proration) 
+       
+        
+Wages & Salary Allocator        
+Gross Plant Allocator        
+Transmission Allocator        
+Other Allocator        
+ADIT - Transmission        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+ 
+(A) 
+ 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+ 
+ 
+ 
+         
+         
+         
+         
+         
+         
+         
+ 
+Subtotal: ADIT-190 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less: ASC 740 ADIT Adjustments 
+excluded from rate base 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less: ASC 740 ADIT Adjustments 
+related to unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total: ADIT-190 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+         
+Wages & Salary Allocator         
+Gross Plant Allocator         
+Transmission Allocator         
+Other Allocator         
+ADIT - Transmission   -      
+ 
+ 
+ 
+(A) 
+ 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+ 
+ 
+ 
+ 
+ADIT-190 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total - FERC Form 1, Page 234 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+Instructions for Account 190: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer), Production or Distribution Only are directly 
+assigned to Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, 
+therefore if the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded. 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-190 (Subject to Proration) 
+(B)
+Total
+(C)
+Gas, 
+Production, 
+Distribution
+(D)
+Only
+(E) (F) (G)
+Or 
+Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+(B) (C) (D) (E) (F) (G)
+Gas,
+Total Production, Only
+Distribution
+,
+Or Other
+Transmission Plant Labor
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+        
+ 
+Subtotal: ADIT-282 (Not Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less: ASC 740 ADIT Adjustments excluded 
+from rate base 
+        
+Less: ASC 740 ADIT Adjustments related to 
+unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+        
+Total: ADIT-282 (Not Subject to Proration)        
+         
+Wages & Salary Allocator         
+Gross Plant Allocator         
+Transmission Allocator         
+Other Allocator         
+ADIT - Transmission         
+ 
+(A) (B) (C) (D) (E) (F) (G) 
+Gas, 
+ 
+ADIT-282 (Subject to Proration) 
+Total Production, Only 
+ 
+ 
+ 
+        
+         
+         
+Subtotal: ADIT-282 (Subject to Proration)        
+Less: ASC 740 ADIT Adjustments excluded 
+from rate base 
+        
+Less: ASC 740 ADIT Adjustments related to 
+unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+        
+Total: ADIT-282 (Subject to Proration)        
+         
+Wages & Salary Allocator         
+Gross Plant Allocator         
+Transmission Allocator         
+Other Allocator         
+ADIT - Transmission         
+ 
+ 
+(A) (B) (C) (D) (E) (F) (G) 
+Gas, 
+Total Production, Only 
+(A) (B) (C) (D) (E) (F) (G)
+Gas,
+Production,
+Total Distribution, Only
+ADIT- 282 (Not Subject to Proration) Or 
+Other Related
+Transmission 
+Related
+Plant 
+Related
+Labor 
+Related Justification
+Distribution, Transmission Plant Labor
+Or Other
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 19 
+ADIT-282 
+ 
+ 
+ 
+ 
+ADIT-282 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-282 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Total - Pg. 277 (Form 1-F filer: see note 7, 
+below) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Instructions for Account 282: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) Production or Distribution Only are directly 
+assigned to Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, 
+therefore if the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-282 (Subject to Proration) 
+7. Re: Form 1-F filer: Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ADIT- 283 (Not Subject to Proration) 
+ 
+ 
+ 
+        
+        
+        
+        
+Subtotal: ADIT-283 (Not Subject to Proration)        
+Less: ASC 740 ADIT Adjustments excluded from rate base         
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC 
+        
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not separately removed         
+Total: ADIT-283 (Not Subject to Proration)        
+         
+Wages & Salary Allocator         
+Gross Plant Allocator         
+Transmission Allocator         
+Other Allocator         
+ADIT - Transmission         
+ 
+(A) 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+ 
+ 
+         
+         
+         
+ 
+Subtotal: ADIT-283 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Less: ASC 740 ADIT Adjustments excluded from rate base 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC 
+        
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities) 
+        
+ 
+Less: OPEB related ADIT, Above if not separately removed 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+(B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, Only
+Distribution, Transmission Plant Labor
+Or Other
+Related Related Related Related Justification
+(A) (B)
+Total
+(C)
+Gas, 
+Production,
+(D)
+Only
+€ (F) (G)
+Distribution, Transmission Plant Labor
+Or Other 
+Related Related Related Related Justification
+Distribution, Transmission Plant Labor
+Or Other 
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric Power 
+Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 20 
+ 
+ 
+Total: ADIT-283 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     100.0000%    
+Other Allocator    0.0000%     
+ 
+ADIT - Transmission 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+(A) 
+ 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+ 
+ 
+ 
+ 
+ADIT-283 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total - Pg. 277 (Form 1-F filer: see note 7, below) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Instructions for Account 283: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) Production or Distribution Only are directly assigned to 
+Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if 
+the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-283 (Subject to Proration) 
+7. Re: Form 1-F filer: Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+Account No. 255 (Accum. Deferred Investment Tax 
+Credits) 
+       
+        
+        
+Subtotal: ADIT-255 (Form No. 1 p. 266 & 267)        
+         
+Less: Adjustment to rate base         
+Total : ADITC 255        
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     100%    
+Other Allocator    %     
+Investment Tax Credit - Transmission         
+ 
+ 
+(A) 
+ 
+ 
+ 
+Investment Tax Credit Amortization 
+ 
+ 
+ 
+Investment Tax Credit Amortization        
+(B) (C) (D) (E) (F) (G)
+Gas,
+Total Production, Only
+Distribution,
+Or Other 
+Related
+Transmission 
+Related
+Plant 
+Related
+Labor 
+Related Justification
+(B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, Only
+Distribution,
+Or Other Transmission Plant Labor
+Related Related Related Related Justification
+(A) (B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, Only
+ADITC- 255 (Unamortized Investment Tax Credits) Distribution, Transmission Plant Labor
+Or Other 
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric Power 
+Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 21 
+ 
+         
+         
+         
+         
+         
+ 
+Subtotal: (Form No. 1 p. 266 & 267) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+        
+Wages & Salary Allocator       0.00%  
+Gross Plant Allocator      0.00%   
+Transmission Allocator     100.00%    
+Other Allocator    0.00%     
+Investment Tax Credit Amortization - 
+Transmission 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1C - ADIT Worksheet - Beginning of Year 
+ 
+ 
+ 
+ 
+ 
+ Gas, 
+Production, 
+ 
+Only 
+ 
+ 
+Line ADIT (Not Subject to 
+ Distribution, 
+Or Other 
+Transmission Plant Labor 
+  Proration)  Total Related Related Related Related 
+ 
+1 ADIT-190 
+2 ADIT-281 
+3 ADIT-282 
+4 ADIT-283 
+5 ADITC 255 
+ 
+ 
+6   Subtotal - Transmission ADIT 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns B - F and each separate ADIT item will be listed, dissimilar 
+items with amounts exceeding $100,000 will be listed separately. 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns B-E and each separate ADIT item will be 
+listed, dissimilar items with amounts exceeding $100,000 will be listed separately. 
+END
+Line Description Total
+7 ADIT (Required Debt)
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 22 
+(A) 
+ 
+ 
+ 
+ 
+ADIT-190 (Not Subject to Proration) 
+ 
+        
+        
+        
+        
+        
+        
+        
+Subtotal: ADIT-190 (Not Subject to 
+Proration) 
+       
+Less: ASC 740 ADIT Adjustments 
+excluded from rate base 
+       
+Less: ASC 740 ADIT Adjustments 
+related to unamortized ITC 
+       
+Less: ASC 740 ADIT balances related 
+to income tax regulatory assets / 
+(liabilities) 
+       
+Less: OPEB related ADIT, Above if 
+not separately removed 
+       
+Total: ADIT-190 (Not Subject to 
+Proration) 
+       
+        
+Wages & Salary Allocator      %  
+Gross Plant Allocator     %   
+Transmission Allocator    %    
+Other Allocator   %     
+ADIT - Transmission        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1C - ADIT Worksheet - Beginning of Year 
+ 
+(A) 
+ 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+ 
+ 
+ 
+         
+         
+         
+         
+         
+         
+         
+ 
+Subtotal: ADIT-190 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less ASC 740 ADIT Adjustments 
+excluded from rate base 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+(B)
+Total
+(C)
+Gas, 
+Production,
+(D)
+Only
+(E) (F) (G)
+Distribution, 
+Or Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+(B) (C) (D) (E) (F) (G)
+Gas,
+Total Production Only
+Distribution
+, Transmission Plant Labor
+Or Other 
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 23 
+ 
+Less: ASC 740 ADIT Adjustments 
+related to unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total: ADIT-190 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     %    
+Other Allocator    %     
+ADIT - Transmission   -      
+ 
+ 
+ 
+(A) 
+ 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+ 
+ 
+ 
+ 
+ADIT-190 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-190 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total - FERC Form 1, Page 234 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+Instructions for Account 190: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) Production or Distribution Only are directly 
+assigned to Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, 
+therefore if the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded. 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-190 (Subject to Proration) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1C - ADIT Worksheet - Beginning of Year 
+ 
+ (A) (B) 
+ 
+Total 
+(C) 
+Gas, 
+Production, 
+(D) 
+ 
+Only 
+(E) (F) (G) 
+ADIT- 282 (Not Subject to Proration)   Distribution, 
+Or Other 
+Related 
+Transmission 
+ 
+Related 
+Plant 
+ 
+Related 
+Labor 
+ 
+Related 
+ 
+ 
+Justification 
+Subtotal: ADIT-282 (Not Subject to Proration) - - - - -
+Less ASC 740 ADIT Adjustments excluded 
+from rate base
+(B) (C) (D) (E) (F) (G)
+Gas,
+Total Production Only
+Distribution
+, Transmission Plant Labor
+Or Other
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 24 
+ 
+Less: ASC 740 ADIT Adjustments related to 
+unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+        
+Total: ADIT-282 (Not Subject to Proration)        
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     %    
+Other Allocator    %     
+ADIT - Transmission         
+ 
+(A) 
+ 
+ 
+ADIT-282 (Subject to Proration) 
+ 
+ 
+ 
+        
+         
+         
+Subtotal: ADIT-282 (Subject to Proration)        
+Less: ASC 740 ADIT Adjustments excluded 
+from rate base 
+        
+Less: ASC 740 ADIT Adjustments related to 
+unamortized ITC 
+        
+Less: ASC 740 ADIT balances related to 
+income tax regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not 
+separately removed 
+        
+Total: ADIT-282 (Subject to Proration)        
+         
+Wages & Salary Allocator         
+Gross Plant Allocator         
+Transmission Allocator         
+Other Allocator         
+ADIT - Transmission         
+ 
+ 
+(A) 
+ 
+ 
+ADIT-282 
+ 
+ 
+ 
+ 
+ADIT-282 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-282 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Total - Pg. 277 (Form 1-F filer: see note 7, 
+below) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Instructions for Account 282: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) Production or Distribution Only are directly 
+assigned to Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, 
+therefore if the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-282 (Subject to Proration) 
+7. Re: Form 1-F filer: Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Potomac Electric Power Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1C - ADIT Worksheet - Beginning of Year 
+(B)
+Total
+(C)
+Gas, 
+Production
+(D)
+Only
+(E) (F) (G)
+Distribution 
+Or Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+(B)
+Total
+(C)
+Gas, 
+Production
+(D)
+Only
+(E) (F) (G)
+Distribution, 
+Or Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric Power 
+Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 25 
+ 
+ 
+ 
+ 
+ADIT- 283 (Not Subject to Proration) 
+ 
+ 
+ 
+        
+        
+        
+        
+Subtotal: ADIT-283 (Not Subject to Proration)        
+Less: ASC 740 ADIT Adjustments excluded from rate base         
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC 
+        
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities) 
+        
+Less: OPEB related ADIT, Above if not separately removed         
+Total: ADIT-283 (Not Subject to Proration)        
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     %    
+Other Allocator    %     
+ADIT - Transmission         
+ 
+(A) 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+ 
+ 
+         
+         
+         
+ 
+Subtotal: ADIT-283 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Less ASC 740 ADIT Adjustments excluded from rate base 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC 
+        
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities) 
+        
+ 
+Less: OPEB related ADIT, Above if not separately removed 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total: ADIT-283 (Subject to Proration) 
+  
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     %    
+Other Allocator    %     
+ 
+ADIT - Transmission 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+(A) 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+ 
+ 
+ 
+ 
+ADIT-283 (Not Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ADIT-283 (Subject to Proration) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Total - Pg. 277 (Form 1-F filer: see note 7, below) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+Instructions for Account 283: 
+1. ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) Production or Distribution Only are directly assigned to 
+Column C 
+2. ADIT items related only to Transmission are directly assigned to Column D 
+3. ADIT items related to Plant and not in Columns C & D are included in Column E 
+4. ADIT items related to labor and not in Columns C & D are included in Column F 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if 
+the item giving rise to the ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+ 
+6. ADIT items subject to the proration under the "normalization" rules will be included in ADIT-283 (Subject to Proration) 
+7. Re: Form 1-F filer: Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c 
+ 
+Potomac Electric Power Company 
+(B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, Only
+Distribution, 
+Or Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+(B)
+Total
+(C)
+Gas, 
+Production.
+(D)
+Only
+(E) (F) (G)
+Distribution. 
+Or Other 
+Related
+Transmission
+Related
+Plant
+Related
+Labor
+Related Justification
+(A) (B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, Only
+Distribution, Transmission Plant Labor
+Or Other
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 1C Potomac Electric 
+Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 26 
+Accumulated Deferred Income Taxes 
+(ADIT) 
+Attachment 1C - ADIT Worksheet - Beginning of Year 
+ 
+ 
+ (A) (B) (C) (D) (E) (F) (G) 
+   Gas,     
+  Total Production, Only    
+ADITC- 255 (Unamortized Investment Tax Credits) 
+  Distribution, 
+or Other 
+ 
+Transmission 
+ 
+Plant 
+ 
+Labor 
+ 
+ 
+Related Related Related Related Justification 
+        
+Account No. 255 (Accum. Deferred Investment Tax 
+Credits) 
+       
+        
+        
+Subtotal: ADIT-255 (Form No. 1 p. 266 & 267)        
+         
+Less: Adjustment to rate base         
+Total : ADITC 255        
+         
+Wages & Salary Allocator       %  
+Gross Plant Allocator      %   
+Transmission Allocator     %    
+Other Allocator    %     
+Unamortized Investment Tax Credits  - Transmission         
+ 
+(A) 
+ 
+ 
+ 
+ADITC-255 
+ 
+ 
+ 
+Investment Tax Credit Amortization         
+         
+         
+         
+         
+         
+ 
+Subtotal: ADIT-255 (Form No. 1 p. 266 & 267) 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+        
+Wages & Salary Allocator       0.00%  
+Gross Plant Allocator      0.00%   
+Transmission Allocator     100.00%    
+Other Allocator    0.00%     
+Investment Tax Credit Amortization - 
+Transmission 
+   
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END
+(B) (C)
+Gas,
+(D) (E) (F) (G)
+Total Production, 
+Distribution, 
+Or Other
+Only
+Transmission Plant Labor
+Related Related Related Related Justification
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-9A Pt. 2 
+Potomac Electric Power Company 
+Effective Date: 8/1/2021 - Docket #: ER21-206-004 - Page 1 
+  
+Potomac Electric Power Company 
+Deficient / (Excess) Accumulated Deferred Income Taxes - Transmission Allocated 
+Attachment 1D - ADIT Rate Base Adjustment 
+                  
+   Rate Year =                 
+                  
+ Federal Deficient / (Excess) Deferred Income Taxes 
+                  
+   
+Deficient / (Excess) Accumulated 
+Deferred Income Taxes (Account No. 
+190)      
+  
+ 
+  
+   
+Days in Period  Projection - Proration of Deficient / (Excess) ADIT 
+Activity (Note A) 
+ Actual  - Proration of Deficient / (Excess) ADIT Activity (Note B) 
+   
+(A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Remaining Days 
+Per Month 
+Total 
+Days 
+in 
+Future  
+Test 
+Period 
+Proration Amount  
+(Column C / Column D) 
+ Projected 
+ Monthly Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 1  
+Deficient / (Excess) ADIT Subject to 
+Proration  
+                                                                                                                                                           
+-    
+                  
+ 2  
+January                                                                         
+31  
+                                                                                                                 
+-    
+                                                                         
+214  50.00% 
+                                                                                                                                                 
+-    
+                                                                                                                 
+-    
+                                                                                                                                   
+-    
+                                                                                                      
+-    
+                                                                                                                                     
+-    
+                                                                                                                                 
+-    
+                                                                                                                                  
+-    
+                                                                                                                                           
+-    
+ 3  
+February                                                                        
+28  
+                                                                                                                 
+-    
+                                                                         
+214  50.00% 
+                                                                                                                                                 
+-    
+                                                                                                                 
+-    
+                                                                                                                                   
+-    
+                                                                                                      
+-    
+                                                                                                                                     
+-    
+                                                                                                                                 
+-    
+                                                                                                                                  
+-    
+                                                                                                                                           
+-    
+ 4  
+March                                                                         
+31  
+                                                                                                                 
+-    
+                                                                         
+214  50.00% 
+                                                                                                                                                 
+-    
+                                                                                                                 
+-    
+                                                                                                                                   
+-    
+                                                                                                      
+-    
+                                                                                                                                     
+-    
+                                                                                                                                 
+-    
+                                                                                                                                  
+-    
+                                                                                                                                           
+-    
+ 5  
+April                                                                        
+30  
+                                                                                                                 
+-    
+                                                                         
+214  50.00% 
+                                                                                                                                                 
+-    
+                                                                                                                 
+-    
+                                                                                                                                   
+-    
+                                                                                                      
+-    
+                                                                                                                                     
+-    
+                                                                                                                                 
+-    
+                                                                                                                                  
+-    
+                                                                                                                                           
+-    
+ 6  
+May                                                                         
+31  
+                                                                                                                 
+-    
+                                                                         
+214  50.00% 
+                                                                                                                                                 
+-    
+                                                                                                                 
+-    
+                                                                                                                                   
+-    
+                                                                                                      
+-    
+                                                                                                                                     
+-    
+                                                                                                                                 
+-    
+                                                                                                                                  
+-    

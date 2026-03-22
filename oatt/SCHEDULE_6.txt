@@ -1,0 +1,792 @@
+Schedule 6. 
+ 
+In addition, a party requesting Transmission Service shall provide the information specified in, 
+and otherwise comply with, the “PJM Credit Policy” set forth in Tariff, Attachment Q hereto.  
+Unless the Parties agree to a different time frame, the Transmission Provider must acknowledge 
+the request within ten (10) days of receipt.  The acknowledgement must include a date by which 
+a response, including a Service Agreement, will be sent to the Eligible Customer.  If an 
+Application fails to meet the requirements of this section, the Transmission Provider shall notify 
+the Eligible Customer requesting service within fifteen (15) days of receipt and specify the 
+reasons for such failure.  Wherever possible, the Transmission Provider will attempt to remedy 
+deficiencies in the Application through informal communications with the Eligible Customer.  If 
+such efforts are unsuccessful, the Transmission Provider shall return the Application without 
+prejudice to the Eligible Customer filing a new or revised Application that fully complies with 
+the requirements of this section.  The Eligible Customer will be assigned a new Project Identifier 
+consistent with the date of the new or revised Application.  The Transmission Provider shall treat 
+this information consistent with the standards of conduct contained in Part 37 of the 
+Commission’s regulations. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION TRANSMISSION 
+SERVICE --> OATT 29 Initiating Service --> OATT 29.2A Determination of Available Transfer Capability 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+ 
+29.2A Determination of Available Transfer Capability:  
+ 
+A description of the Transmission Provider’s specific methodology for assessing available 
+transfer capability posted on the Transmission Provider’s OASIS (Tariff, Part I, section 4) is 
+contained in Tariff, Attachment C.  Requests for Cross-Border Network Integration 
+Transmission Service are evaluated based on Available Transfer Capability (ATC) if the request 
+falls entirely within the ATC horizon. Otherwise, such requests that terminate beyond the 18-
+month ATC horizon require a Phase I System Impact Study and shall be subject to Tariff, Part 
+VII or Tariff, Part VIII, as applicable. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 29 Initiating Service --> OATT 29.3 Technical Arrangements to be Completed 
+Prior to C 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+29.3  Technical Arrangements to be Completed Prior to Commencement of 
+Service: 
+ 
+Network Integration Transmission Service shall not commence until the Transmission Provider, 
+the affected Transmission Owners, and the Network Customer, or a third party, have completed 
+installation of all equipment specified under the Network Operating Agreement and, if 
+applicable, the Construction Service Agreement, consistent with Good Utility Practice and any 
+additional requirements reasonably and consistently imposed to ensure the reliable operation of 
+the Transmission System.  The Transmission Provider and the affected Transmission Owners 
+shall exercise reasonable efforts, in coordination with the Network Customer, to complete such 
+arrangements as soon as practicable taking into consideration the Service Commencement Date. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 29 Initiating Service --> OATT 29.4 Network Customer Facilities: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+29.4  Network Customer Facilities: 
+ 
+The provision of Network Integration Transmission Service shall be conditioned upon the 
+Network Customer’s constructing, maintaining and operating the facilities on its side of each 
+delivery point or interconnection necessary to reliably deliver capacity and energy from the 
+Transmission Provider’s Transmission System to the Network Customer or, with respect to 
+service provided pursuant to a state required retail access program, for otherwise arranging for 
+the delivery of its energy from the delivery point or interconnection.  The Network Customer 
+shall be solely responsible for constructing or installing all facilities on the Network Customer’s 
+side of each such delivery point or interconnection or, with respect to service provided pursuant 
+to a state required retail access program, for otherwise arranging for the delivery of its energy 
+from the delivery point or interconnection. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 29 Initiating Service --> OATT 29.5 Filing of Service Agreement: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+29.5  Filing of Service Agreement: 
+ 
+The Transmission Provider will file Service Agreements with the Commission in compliance 
+with applicable Commission regulations. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+30 Network Resources 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.1 Designation of Network Resources: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+30.1  Designation of Network Resources: 
+ 
+Network Resources shall include all generation owned, purchased or leased by the Network 
+Customer designated to serve Network Load under the Tariff.  Network Resources may not 
+include resources, or any portion thereof, that are committed for sale to non-designated third 
+party load or otherwise cannot be called upon to meet the Network Customer’s Network Load on 
+a non-interruptible basis, except for purposes of fulfilling obligations under a reserve sharing 
+program.  Any owned or purchased resources that were serving the Network Customer’s loads 
+under firm agreements entered into on or before the Service Commencement Date shall initially 
+be designated as Network Resources until the Network Customer terminates the designation of 
+such resources. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.2 Designation of New Network 
+Resources: 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+30.2  Designation of New Network Resources: 
+ 
+The Network Customer may designate a new Network Resource by providing the Transmission 
+Provider with as much advance notice as practicable (notwithstanding the requirements in this 
+Tariff, Part III, section 30.2, the applicable requirements of Tariff, Attachment DD, the 
+Reliability Assurance Agreement, and the PJM Manuals regarding the designation of Network 
+Resources shall apply).  For a Network Resource not located on the Transmission Provider’s 
+Transmission System, a request for Transmission Service associated with designation of a new 
+Network Resource must be made through the Transmission Provider’s OASIS pursuant to an 
+Application under Tariff, Part III, section 29.  A request to designate a new network resource 
+must include a statement that the new network resource satisfies the following conditions: (1) the 
+Network Customer owns the resource, has committed to purchase generation pursuant to an 
+executed contract, or has committed to purchase generation where execution of a contract is 
+contingent upon the availability of transmission service under Tariff, Part III; and (2) the 
+Network Resources do not include any resources, or any portion thereof, that are committed for 
+sale to non-designated third party load or otherwise cannot be called upon to meet the Network 
+Customer's Network Load on a non-interruptible basis, except for purposes of fulfilling 
+obligations under a reserve sharing program.  The Network Customer’s request will be deemed 
+deficient if it does not include this statement and the Transmission Provider will follow the 
+procedures for a deficient application as described in Tariff, Part III, section 29.2.  In the event 
+the Network Resource to be designated consists of new generation facilities in the PJM Region, 
+the Network Customer or the owner of the generating facilities also must submit an 
+Interconnection Request pursuant to Tariff, Part VII or Tariff, Part VIII, as applicable.  In the 
+event the Network Resource to be designated is Behind The Meter Generation, the designation 
+must be made before the commencement of a Planning Period as that term is defined in the 
+Operating Agreement and will remain in effect for the entire Planning Period.  In the event the 
+Network Resource to be designated will use interface capacity and is for a period of less than one 
+year, the designation request and the request for Transmission Service must be submitted in 
+accordance with the time requirements set forth in Tariff, Part II, section 17.8 and Tariff, Part II, 
+section 17.9 and the request for Transmission Service will be processed together with, and in the 
+same manner as, requests for Short-Term Firm Point-To-Point Transmission Service. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.3 Termination of Network Resources: 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+30.3  Termination of Network Resources: 
+ 
+The Network Customer may terminate the designation of all or part of a generating resource as a 
+Network Resource at any time by providing notification to the Transmission Provider through 
+eRPM as soon as reasonably practicable, but not later than the firm scheduling deadline for the 
+period of termination.*  Any request for termination of Network Resource status must be 
+submitted on eRPM, and should indicate whether the request is for indefinite or temporary 
+termination.  A request for indefinite termination of Network Resource status must indicate the 
+date and time that the termination is to be effective, and the identification and capacity of the 
+resource(s) or portions thereof to be indefinitely terminated, and the Transmission Service for 
+that Network Resource shall be deemed terminated.  A request for temporary termination of 
+Network Resource status must include the following: 
+ 
+(i) Effective date and time of temporary termination; 
+ 
+(ii) Effective date and time of redesignation, following period of temporary 
+termination; 
+ 
+(iii) Identification and capacity of resource(s) or portions thereof to be temporarily 
+terminated; 
+ 
+(iv) Resource description and attestation for redesignating the network resource 
+following the temporary termination, in accordance with Tariff, Part III, section 30.2; and 
+ 
+(v) Identification of any related transmission service requests to be evaluated 
+concomitantly with the request for temporary termination, such that the requests for 
+undesignation and the request for these related transmission service requests must be 
+approved or denied as a single request.  The evaluation of these related transmission 
+service requests must take into account the termination of the network resources 
+identified in (iii) above, as well as all competing transmission service requests of higher 
+priority. 
+ 
+As part of a temporary termination, a Network Customer may only redesignate the same resource 
+that was originally designated, or a portion thereof.  Requests to redesignate a different resource 
+and/or a resource with increased capacity will be deemed deficient and the Transmission 
+Provider will follow the procedures for a deficient application as described in Tariff, Part III, 
+section 29.2. 
+ 
+* Pursuant to the notice granting extension of effective date, 120 FERC ¶ 61,222 (2007), the 
+effective date for the language “but not later than the firm scheduling deadline for the period of 
+termination” was extended pending further order by the Commission.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.4 Operation of Network Resources: 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+30.4  Operation of Network Resources: 
+ 
+The Network Customer shall not operate its designated Network Resources located in the 
+Network Customer’s or Transmission Provider’s Control Area(s) such that the output of those 
+facilities exceeds its designated Network Load plus Non-Firm Sales delivered pursuant to Tariff, 
+Part II, plus net sales of energy through the interchange energy market established under the 
+Operating Agreement, plus losses plus power sales under a reserve sharing program, plus sales 
+that permit curtailment without penalty to serve its designated Network Load.  This limitation 
+shall not apply to changes in the operation of a Transmission Provider in response to an 
+emergency or other unforeseen condition which may impair or degrade the reliability of the 
+Transmission System.  For all Network Resources not physically connected with the 
+Transmission Provider’s Transmission System, the Network Customer may not schedule 
+delivery of energy in excess of the Network Resource’s capacity, as specified in the Network 
+Customer’s Application pursuant to Tariff, Part III, section 29, unless the Network Customer 
+supports such delivery within the Transmission Provider’s Transmission System by either 
+obtaining Point-to-Point Transmission Service or utilizing secondary service pursuant to Tariff, 
+Part III, section 28.4.  The Transmission Provider shall specify the rate treatment and all related 
+terms and conditions applicable in the event that a Network Customer’s schedule at the delivery 
+point for a Network Resource not physically interconnected with the Transmission Provider's 
+Transmission System exceeds the Network Resource’s designated capacity, excluding energy 
+delivered using secondary service or Point-to-Point Transmission Service. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.5 Network Customer Redispatch 
+Obligation: 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+30.5  Network Customer Redispatch Obligation: 
+ 
+As a condition to receiving Network Integration Transmission Service, the Network Customer 
+agrees to redispatch its Network Resources as requested by the Transmission Provider pursuant 
+to Tariff, Part III, section 33.2.  To the extent practical, the redispatch of resources pursuant to 
+this section shall be on a least cost, non-discriminatory basis among all Network Customers and 
+the Transmission Owners. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.6 Transmission Arrangements for 
+Network Resources N 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+30.6  Transmission Arrangements for Network Resources Not Physically 
+Interconnected With The Transmission Provider: 
+ 
+The Network Customer shall be responsible for any arrangements necessary to deliver capacity 
+and energy from a Network Resource not physically interconnected with the Transmission 
+Provider’s Transmission System.  The Transmission Provider will undertake reasonable efforts 
+to assist the Network Customer in obtaining such arrangements, including without limitation, 
+providing any information or data required by such other entity pursuant to Good Utility 
+Practice. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.7 Limitation on Designation of Network 
+Resources: 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+30.7 Limitation on Designation of Network Resources: 
+ 
+The Network Customer must demonstrate that it owns or has committed to purchase generation 
+pursuant to an executed contract in order to designate a generating resource as a Network 
+Resource.  Alternatively, the Network Customer may establish that execution of a contract is 
+contingent upon the availability of transmission service under Tariff, Part III. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.8 Use of Interface Capacity by the 
+Network Customer 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+30.8  Use of Interface Capacity by the Network Customer: 
+ 
+There is no limitation upon a Network Customer’s use of the Transmission Provider’s 
+Transmission System at any particular interface to integrate the Network Customer’s Network 
+Resources (or substitute economy purchases) with its Network Loads.  However, a Network 
+Customer’s use of the Transmission Provider’s total interface capacity with other transmission 
+systems may not exceed the Network Customer’s Load.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 30 Network Resources --> OATT 30.9 Network Customer Owned 
+Transmission Facilities: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+30.9  Network Customer Owned Transmission Facilities: 
+ 
+The Network Customer that owns existing transmission facilities that are integrated with the 
+Transmission Provider’s Transmission System may be eligible to receive consideration either 
+through a billing credit or some other mechanism.  In order to receive such consideration the 
+Network Customer must demonstrate that its transmission facilities are integrated into the plans 
+or operations of the Transmission Provider to serve its power and transmission customers.  For 
+facilities added by the Network Customer subsequent to the [effective date of a Final Rule in 
+RM05-25-000], the Network Customer shall receive credit for such transmission facilities added 
+if such facilities are integrated into the operations of the Transmission Provider’s facilities.  
+Calculation of any credit under this subsection shall be addressed in either the Network 
+Customer’s Service Agreement or any other agreement between the Parties. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load 
+Effective Date: 5/31/2023 - Docket #: ER23-1529-000 - Page 1 
+31 Designation of Network Load 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.1 Network Load: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+31.1  Network Load: 
+ 
+The Network Customer must designate the individual Network Loads on whose behalf the 
+Transmission Provider will provide Network Integration Transmission Service.  The Network 
+Loads shall be specified in the Service Agreement, except with respect to loads served pursuant 
+to state required retail access programs for which the Transmission Customer shall provide 
+information regarding Network Loads using the Transmission Provider’s specified electronic 
+information system for such programs in accordance with the Service Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.2 New Network Loads 
+Connected With the Transmission 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+31.2  New Network Loads Connected With the Transmission Provider: 
+ 
+The Network Customer shall provide the Transmission Provider with as much advance notice as 
+reasonably practicable of the designation of new Network Load that will be added to the 
+Transmission System.  A designation of new Network Load must be made through a 
+modification of service pursuant to a new Application.  The affected Transmission Owners, in 
+accordance with the terms and conditions of the Tariff and the Operating Agreement, will use 
+due diligence to install any transmission facilities required to interconnect a new Network Load 
+designated by the Network Customer.  The costs of new facilities required to interconnect a new 
+Network Load shall be determined in accordance with the procedures provided in Tariff, Part III, 
+section 32.4 and shall be charged to the Network Customer in accordance with Commission 
+policies. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.3 Network Load Not Physically 
+Interconnected with t 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+31.3  Network Load Not Physically Interconnected with the Transmission 
+Provider: 
+ 
+This section applies to both initial designation pursuant to Tariff, Part III, section 31.1 and the 
+subsequent addition of new Network Load not physically interconnected with the Transmission 
+Provider.  To the extent that the Network Customer desires to obtain transmission service for a 
+load outside the Transmission Provider’s Transmission System, the Network Customer shall 
+have the option of (1) electing to include the entire load as Network Load for all purposes under 
+Tariff, Part III and designating Network Resources in connection with such additional Network 
+Load in accordance with Tariff, Part III, section 30 or (2) excluding that entire load from its 
+Network Load and purchasing Point-To-Point Transmission Service under Tariff, Part II.  To the 
+extent that the Network Customer gives notice of its intent to add a new Network Load as part of 
+its Network Load pursuant to this section the request must be made through a modification of 
+service pursuant to a new Application. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.4 New Interconnection Points: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+31.4  New Interconnection Points: 
+ 
+To the extent the Network Customer desires to add a new Delivery Point or interconnection point 
+between the Transmission Provider’s Transmission System and a Network Load, the Network 
+Customer shall provide the Transmission Provider with as much advance notice as reasonably 
+practicable. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.5 Changes in Service 
+Requests: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+31.5  Changes in Service Requests: 
+ 
+Under no circumstances shall the Network Customer’s decision to cancel or delay a requested 
+change in Network Integration Transmission Service (e.g. the addition of a new Network 
+Resource or designation of a new Network Load) in any way relieve the Network Customer of its 
+obligation to pay the costs of transmission facilities constructed by a Transmission Owner and 
+charged to the Network Customer as reflected in the Service Agreement.  However, the 
+Transmission Provider must treat any requested change in Network Integration Transmission 
+Service in a non-discriminatory manner. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 31 Designation of Network Load --> OATT 31.6 Annual Load and Resource 
+Information Updates: 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+31.6  Annual Load and Resource Information Updates: 
+ 
+Even if an Application is no longer required, the Network Customer shall provide the 
+Transmission Provider with annual updates of Network Load and Network Resource forecasts 
+consistent with those included in its Application for Network Integration Transmission Service 
+under Tariff, Part III including, but not limited to, any information provided under Tariff, Part 
+III, section 29.2(ix) pursuant to the Transmission Provider’s planning process in Operating 
+Agreement, Schedule 6.  Even if an Application is no longer required, the Network Customer 
+also shall provide the Transmission Provider with timely written or electronic notice of material 
+changes in any other information listed in Tariff, Part III, section 29.2 or provided in its 
+Application relating to the Network Customer’s Network Load, Network Resources, its 
+transmission system or other aspects of its facilities or operations affecting the Transmission 
+Provider’s ability to provide reliable service. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION TRANSMISSION 
+SERVICE --> OATT 31 Designation of Network Load --> OATT 31.7 Changing Network Load Energy Settlement Area Defi 
+Effective Date: 12/14/2023 - Docket #: ER23-1529-000 - Page 1 
+31.7 Establishing and Changing Network Load Energy Settlement Area Definitions: 
+ 
+(a) Prior to the 2015/2016 Planning Period, the Energy Settlement Area for a Network 
+Customer’s Network Load in a given electric distribution company’s fully metered franchise 
+area(s) or service territory(ies) shall be the aggregate load buses in a Zone, as defined in 
+subsection (c) below, or, with respect to Non-Zone Network Load, to the border of the PJM 
+Region, unless the Network Customer defines a more specific Energy Settlement Area in 
+accordance with the procedures set forth in the PJM Manuals.  Commencing with the 2015/2016 
+Planning Period, the Energy Settlement Area for a Network Customer’s Network Load in a given 
+electric distribution company’s fully metered franchise area(s) or service territory(ies) shall be 
+the aggregate load buses specifying the Residual Metered Load distribution for that franchise 
+area(s) or service territory(ies), as defined in subsection (c) below, or with respect to Non-Zone 
+Network Load to the border of the PJM Region, unless the Network Customer defines a more 
+specific nodal Energy Settlement Area in accordance with the procedures set forth in the PJM 
+Manuals.  
+ 
+(b) A Network Customer may change the definition of its existing Network Load Energy 
+Settlement Area in accordance with the procedures set forth in the PJM Manuals and the 
+Network Customer’s existing rights under the Tariff.  Notwithstanding any other relevant 
+provision(s) of this Tariff, advance notice of any such change described in the PJM Manuals 
+must be provided to the Transmission Provider and the effective date of such change shall 
+coincide with the first day of a Planning Period, as defined in the Operating Agreement.  If 
+system upgrades are required to affect a Network Load Energy Settlement Area change, all 
+required upgrades shall be completed prior to the requested effective date of the change; if all 
+required system upgrades are not completed prior to the requested effective date, the effective 
+date shall be the first day of the Planning Period that immediately follows completion of all 
+system upgrades.  A Network Customer may not change the definition of its existing Network 
+Load Energy Settlement Area to a less specific Energy Settlement Area, except in circumstances 
+where there has been a physical change to the relevant transmission system infrastructure, as set 
+forth in the PJM Manuals, such that settlement according to the previously defined Energy 
+Settlement Area is no longer possible. 
+ 
+(c) The distribution of load buses in an Energy Settlement Area for the determination of a 
+Transmission Loss Charge and Transmission Congestion Charge per Tariff, Part I, section 5.1 
+and Tariff, Part I, section 5.4 are determined as follows. 
+ 
+(i) Zonal aggregate determination.  The default distribution of load buses for a Zone 
+for the Day-ahead Energy Market is the State Estimator distribution of load for 
+that Zone for the corresponding hour of the Operating Day one week prior (i.e. if 
+the Operating Hour is Monday at 8:00 a.m., the default distribution is from 8:00 
+a.m. on Monday of the previous week).  Should the Office of the Interconnection 
+experience technical limitations that would restrict the ability to obtain the State 
+Estimator distribution of load for a Zone for any hour of the operating day one 
+week prior or if the required data is not available, a State Estimator distribution of 
+load from the most recently available day of the week that the Operating Day falls 
+on will be used (i.e., if the Operating Hour is Monday at 8:00 a.m., the Office of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION TRANSMISSION 
+SERVICE --> OATT 31 Designation of Network Load --> OATT 31.7 Changing Network Load Energy Settlement Area Defi 
+Effective Date: 12/14/2023 - Docket #: ER23-1529-000 - Page 2 
+the Interconnection will utilize the State Estimator distribution of load from the 
+most recent Monday at 8:00 a.m. for which data is available and will subsequently 
+utilize all hours from the same Operating Day as the replaced hour).  If the default 
+distribution does not accurately reflect the distribution of load for the Zone for the 
+relevant electric distribution company for the Day-ahead Energy Market, it may 
+specify another more accurate distribution of load buses for the Zone in the Office 
+of the Interconnection’s internet-based software application.  The distribution of 
+load buses for a Zone for the Real-time Energy Market is the State Estimator 
+distribution of load for that Zone for each hour during the Operating Day. 
+ 
+(ii) Residual Metered Load aggregate determination.  The default distribution of load 
+buses for a Residual Metered Load aggregate for the Day-ahead Energy Market is 
+the distribution of the real-time Residual Metered Load at each bus within the 
+Residual Metered Load aggregate for the corresponding hour of the Operating 
+Day one week prior. Should the Office of the Interconnection experience 
+technical limitations that would restrict the ability to obtain the bus distribution of 
+the real-time Residual Metered Load aggregate for any hour of the operating day 
+one week prior or if the required data is not available, a distribution of the real-
+time Residual Metered Load aggregate from the most recently available day of the 
+week that the Operating Day falls on will be used (i.e., if the Operating Hour is 
+Monday at 8:00 a.m., the Office of the Interconnection will utilize the bus 
+distribution of the real-time Residual Metered Load aggregate from the most 
+recent Monday at 8:00 a.m. for which data is available and will subsequently 
+utilize all hours from the same Operating Day as the replaced hour).  The 
+distribution of load buses for a Residual Metered Load aggregate for the Real-
+time Energy Market is the Residual Metered Load at each bus in the Residual 
+Metered Load aggregate for each hour during the Operating Day.  Residual 
+Metered Load is determined by reducing the electric distribution company’s 
+revenue meter calculated load at each bus in its fully metered franchise area(s) or 
+service territory(ies) as determined in Tariff, Part I, section 5.1.3(e)(i) and Tariff, 
+Part I, section 5.4.3(e)(i) by the nodally priced load of other entities assigned to 
+each load bus in the electric distribution company’s fully metered franchise 
+area(s) or service territory(ies) via hourly load contracts as specified in Tariff, 
+Part I, section 5.1.3(e)(ii) and Tariff, Part I, section 5.4.3(e)(ii). 
+ 
+(iii) Nodal aggregate determination.  The distribution of load buses for nodal load in 
+the Day-ahead Energy Market and Real-time Energy Market is determined by a 
+fixed aggregate definition that represents the composition of the nodal load at a 
+single identifiable bus or set of identifiable buses, as agreed upon by the Load Serving 
+Entity responsible for the load and the electric distribution company in whose 
+fully metered franchise area(s) or service territory(ies) the load is located, per the 
+nodal pricing settlement rules defined in the PJM Manuals.  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32 System Impact Study Procedures for Network Integration Transmission Service 
+Requests 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.1 Notice 
+of Need for Initial Study: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.1  Notice of Need for Phase I System Impact Study: 
+ 
+After receiving a request for service, the Transmission Provider shall determine on a non-
+discriminatory basis whether a Phase I System Impact Study is needed. The purpose of the Phase 
+I System Impact Study shall be to assess whether the Transmission System has sufficient 
+available capability to provide the requested service. If the Transmission Provider determines 
+that a Phase I System Impact Study is necessary to evaluate the requested service, it shall so 
+inform the Eligible Customer, as soon as practicable.  In such Cases, the Transmission Provider 
+shall within thirty (30) days of receipt of a Completed Application, tender an Application and 
+Studies Agreement pursuant to which the Eligible Customer shall agree to reimburse the 
+Transmission Provider for the required Phase I System Impact Study.  For a service request to 
+remain a Completed Application, the Eligible Customer shall execute the Application and 
+Studies Agreement and return it to the Transmission Provider within fifteen (15) days and 
+provide the Study Deposit and Readiness Deposit required pursuant to Tariff, Part VII, Subpart 
+C, section 306(A)(5) or Tariff, Part VIII, Subpart B, section 403(A)(5), as applicable.  If the 
+Eligible Customer elects not to execute the Application and Studies Agreement, its Application 
+shall be deemed withdrawn and its deposit shall be returned with interest. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.2 Initial 
+Study Agreement and Cost Reimbursement: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.2 Study Deposit and Readiness Deposit: 
+ 
+A request for service for which a Phase I System Impact Study is required is subject to the Study 
+Deposit and Readiness Deposit(s), as set forth in Tariff, Part VII or Tariff, Part VIII, as 
+applicable. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.3 Initial 
+Study Procedures: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.3  Phase I System Impact Study Procedures: 
+ 
+A request for service for which a Phase I System Impact Study is required is subject to the 
+System Impact Study Procedures, as set forth in Tariff, Part VII or Tariff, Part VIII, as 
+applicable. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION TRANSMISSION 
+SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.3.1 Meeting with Transmission Provider 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.3.1   [Reserved] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.4 
+Retaining Queue Position: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.4  [Reserved] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 32 Initial Study Procedures For Network Integration Tra --> OATT 32.5 
+Penalties for Failure to Meet Study Deadlines: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+32.5  [Reserved] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33 Load Shedding and Curtailments 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.1 Procedures: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.1  Procedures: 
+ 
+Prior to the Service Commencement Date, the Transmission Provider and the Network Customer 
+shall establish Load Shedding and Curtailment procedures pursuant to the Network Operating 
+Agreement with the objective of responding to contingencies on the Transmission System and on 
+systems directly and indirectly interconnected with Transmission Provider’s Transmission 
+System.  The Parties will implement such programs during any period when the Transmission 
+Provider determines that a system contingency exists and such procedures are necessary to 
+alleviate such contingency.  The Transmission Provider will notify all affected Network 
+Customers in a timely manner of any scheduled Curtailment. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.2 Transmission 
+Constraints: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.2  Transmission Constraints: 
+ 
+During any period when the Transmission Provider determines that a transmission constraint 
+exists on the Transmission System, and such constraint may impair the reliability of the 
+Transmission Provider’s system, the Transmission Provider will take whatever actions, 
+consistent with Good Utility Practice, that are reasonably necessary to maintain the reliability of 
+the Transmission Provider’s system.  To the extent the Transmission Provider determines that the 
+reliability of the Transmission System can be maintained by redispatching resources, the 
+Transmission Provider will initiate procedures pursuant to the Network Operating Agreement to 
+redispatch all Network Resources and the Transmission Owners’ own resources on a least-cost 
+basis without regard to the ownership of such resources.  Any redispatch under this section may 
+not unduly discriminate between the Transmission Owners’ use of the Transmission System on 
+behalf of their Native Load Customers and any Network Customer’s use of the Transmission 
+System to serve its designated Network Load. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.3 Cost Responsibility for 
+Relieving Transmission Co 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+33.3  Cost Responsibility for Relieving Transmission Constraints: 
+ 
+Whenever the Transmission Provider implements least-cost redispatch procedures in response to 
+a transmission constraint, the Transmission Owners and the Network Customers will bear the 
+costs of such redispatch in accordance with Tariff, Attachment K. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.4 Curtailments of 
+Scheduled Deliveries: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.4  Curtailments of Scheduled Deliveries: 
+ 
+If a transmission constraint on the Transmission Provider’s Transmission System cannot be 
+relieved through the implementation of least-cost redispatch procedures and the Transmission 
+Provider determines that it is necessary to Curtail scheduled deliveries, the Parties shall Curtail 
+such schedules in accordance with the Network Operating Agreement or pursuant to the 
+Transmission Loading Relief procedures. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.5 Allocation of 
+Curtailments: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.5  Allocation of Curtailments: 
+ 
+The Transmission Provider shall, on a non-discriminatory basis, Curtail the transaction(s) that 
+effectively relieve the constraint.  However, to the extent practicable and consistent with Good 
+Utility Practice, any Curtailment will be shared by each Transmission Owner and Network 
+Customer in proportion to their respective Load Ratio Shares.  The Transmission Provider shall 
+not direct the Network Customer to Curtail schedules to an extent greater than the Transmission 
+Provider would Curtail the schedules of a Transmission Owner under similar circumstances. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.6 Load Shedding: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.6  Load Shedding: 
+ 
+To the extent that a system contingency exists on the Transmission Provider’s Transmission 
+System and the Transmission Provider determines that it is necessary for the Transmission 
+Owners and the Network Customer to shed load, the Network Customer and the Transmission 
+Owners shall shed load in accordance with previously established procedures under the Network 
+Operating Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 33 Load Shedding and Curtailments --> OATT 33.7 System Reliability: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+33.7 System Reliability: 
+ 
+Notwithstanding any other provisions of this Tariff, the Transmission Provider reserves the right, 
+consistent with Good Utility Practice and on a not unduly discriminatory basis, to Curtail 
+Network Integration Transmission Service without liability on the Transmission Provider’s part 
+for the purpose of making necessary adjustments to, changes in, or repairs on its lines, 
+substations and facilities, and in cases where the continuance of Network Integration 
+Transmission Service would endanger persons or property.  In the event of any adverse 
+condition(s) or disturbance(s) on the Transmission Provider’s Transmission System or on any 
+other system(s) directly or indirectly interconnected with the Transmission Provider’s 
+Transmission System, the Transmission Provider, consistent with Good Utility Practice, also 
+may Curtail Network Integration Transmission Service in order to (i) limit the extent or damage 
+of the adverse condition(s) or disturbance(s), (ii) prevent damage to generating or transmission 
+facilities, or (iii) expedite restoration of service.  The Transmission Provider will give the 
+Network Customer as much advance notice as is practicable in the event of such Curtailment.  
+Any Curtailment of Network Integration Transmission Service will be not unduly discriminatory 
+relative to a Transmission Owner’s use of the Transmission System on behalf of its Native Load 
+Customers.  The Transmission Provider shall specify the rate treatment and all related terms and 
+conditions applicable in the event that the Network Customer fails to respond to established Load 
+Shedding and Curtailment procedures. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION TRANSMISSION 
+SERVICE --> OATT 34 Rates and Charges 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+34 Rates and Charges 
+ 
+The Network Customer shall pay PJMSettlement, in its own name, or as agent for the 
+Transmission Provider for any Direct Assignment Facilities, Ancillary Services, PJM 
+Administrative Service, any applicable Transmission Enhancement Charge(s) and applicable 
+study costs, consistent with Commission policy, along with the following: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 34 Rates and Charges --> OATT 34.1 Monthly Demand Charge: 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+34.1  Monthly Demand Charge: 
+ 
+ (a) The Network Customer shall pay a monthly Demand Charge for Zone Network Load 
+and Non-Zone Network Load, which shall be determined as follows: 
+ 
+MDC       = Sum of MDCZ for all Zones plus the MDCNZ for Non-Zone Network 
+Load 
+ 
+MDCZ     = Sum of DDCZ for each day of the calendar month for the Zone 
+ 
+DDCZ      = DCPZ X RTZ/365 
+ 
+MDCNZ  = Sum of DDCNZ for each day of the calendar month for Non-Zone 
+Network Load 
+ 
+DDCNZ  = DCPNZ X RTNZ/365 
+ 
+Where: 
+ 
+MDC is the monthly demand charge 
+ 
+MDCZ is the monthly demand charge for a Zone 
+ 
+DDCZ is the daily demand charge for a Zone 
+ 
+DCPZ is the daily load of the Network Customer located within a Zone coincident with 
+the annual peak of the Zone (as adjusted pursuant to Tariff, Part III, section 34.2 and 
+Tariff, Part III, section 34.3). 
+ 
+RTZ  is the rate for Network Integration Transmission Service from Attachment H for 
+the Zone in which the Zone Network Load is located, stated in dollars per megawatt per 
+year 
+ 
+MDCNZ is the monthly demand charge for Non-Zone Network Load 
+ 
+DDCNZ is the daily demand charge for Non-Zone Network Load 
+ 
+DCPNZ is the daily transmission responsibility for Non-Zone Network Load 
+ 
+RTNZ is the rate for Network Integration Transmission Service for Non-Zone Network 
+Load from Tariff, Attachment H-A, stated in dollars per megawatt per year 
+ 
+The zonal daily load (DCPZ) of the Network Customer shall be the sum of the Network 
+Customer’s individual wholesale and retail customer Zone Network Loads (including losses) at 
+the time of the annual peak of the Zone in which the load is located.  For Non-Zone Network 
+Load, the daily transmission responsibility of the Network Customer shall be the sum of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 34 Rates and Charges --> OATT 34.1 Monthly Demand Charge: 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 2 
+Network Customer’s Network Load at the border of the PJM Region at the time of the annual 
+peak of such region; provided that Non-Zone Network Load that is subject to charges for 
+network integration transmission service under the open-access transmission tariff of the 
+Midwest Independent Transmission System Operator, Inc. shall be excluded from this 
+calculation if such load commenced being served on or after April 1, 2004 pursuant to an 
+application for service submitted on or after November 17, 2003. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 34 Rates and Charges --> OATT 34.2 Netting of Behind the Meter 
+Generation. 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+34.2  Netting of Behind the Meter Generation. 
+ 
+The daily load of a Network Customer does not include load served by operating Behind The 
+Meter Generation.  The daily load of a Network Customer shall not be reduced by energy 
+injections into the transmission system by the Network Customer. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT III. NETWORK INTEGRATION 
+TRANSMISSION SERVICE --> OATT 34 Rates and Charges --> OATT 34.3 Netting of Non-Retail Behind The 
+Meter Generation 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+34.3  Netting of Non-Retail Behind The Meter Generation. 
+ 
+Netting of Behind The Meter Generation for Network Customers with regard to Non-Retail 
+Behind The Meter Generation shall be subject to the following limitations:   
+ 
+For calendar year 2006, 100 percent of the operating Non-Retail Behind The Meter Generation 
+shall be netted, provided that the total amount of Non-Retail Behind The Meter Generation in the 
+PJM Region does not exceed 1500 megawatts (“Non-Retail Threshold”).  For each calendar year 
+thereafter, the Non-Retail Threshold shall be proportionately increased based on load growth in 
+the PJM Region but shall not be greater than 3000 megawatts. Load growth shall be determined 
+by Transmission Provider based on the most recent forecasted weather-adjusted coincident 
+summer peak of the PJM Region divided by the weather-adjusted coincident peak for the 
+previous summer for the same area.  After the load growth factor is applied, the Non-Retail 
+Threshold will be rounded up or down to the nearest whole megawatt and the rounded number 
+shall be the Non-Retail Threshold for the current year and shall be the base amount for 
+calculating the Non-Retail Threshold for the succeeding year.  If the total amount of Non-Retail 
+Behind The Meter Generation in the PJM Region exceeds the Non-Retail Threshold, the amount 
+of operating Non-Retail Behind The Meter Generation that the Network Customer may net shall 
+be adjusted according to the following formula: 
+ 
+Network CustomerNetting Credit =    (NRT / PJM NRBTMG) * Network Customer 
+operating NRBTMG  
+ 
+Where: NRBTMG is Non-Retail Behind The Meter Generation  
+ 
+NRT is the Non-Retail Threshold 
+ 
+PJM NRBTMG is the total amount of Non-Retail Behind The Meter Generation 
+in the PJM Region 
+ 
+The total amount of Non-Retail Behind The Meter Generation that is eligible for netting in the 
+PJM Region is 3000 megawatts.  Once this 3000 megawatt limit is reached, any additional Non-
+Retail Behind The Meter Generation which operates in the PJM Region will be ineligible for 
+netting under this section. 
+ 
+In addition, the Network Customer NRBTMG Netting Credit shall be adjusted pursuant to Tariff, 

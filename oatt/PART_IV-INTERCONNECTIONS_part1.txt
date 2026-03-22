@@ -1,0 +1,1238 @@
+[PART IV-INTERCONNECTIONS - Part 1 of 4]
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+IV. INTERCONNECTIONS WITH THE TRANSMISSION SYSTEM 
+ 
+References to section numbers in this Part IV refer to sections of this Part IV, unless otherwise 
+specified. 
+ 
+Preamble 
+ 
+This Part IV shall apply to apply to: (a) any New Service Request received prior to April 1, 
+2018; and (b) any New Service Request for which, as of the Transition Date (defined in Tariff, 
+Part VII), the Interconnection Customer has received for execution an Interconnection Service 
+Agreement or wholesale market participation agreement or has directed the Transmission 
+Provider to file an Interconnection Service Agreement or wholesale market participation 
+agreement unexecuted.  New Service Requests received on or after April 1, 2018 for which 
+Interconnection Customers have not received for execution or directed to be filed unexecuted an 
+Interconnection Service Agreement or wholesale market participation agreement will be subject 
+to the Generation Interconnection Procedures set forth in Tariff, Part VII or Tariff, Part VIII, as 
+applicable. 
+ 
+An Interconnection Customer that proposes to (i) interconnect a generating unit to the 
+Transmission System in the PJM Region, (ii) increase the capacity of a generating unit in the 
+PJM Region, (iii) interconnect Merchant Transmission Facilities with the Transmission System, 
+(iv) increase the capacity of existing Merchant Transmission Facilities interconnected to the 
+Transmission System, or (v) interconnect a generating unit to distribution facilities located in the 
+PJM Region that are used for transmission of power in interstate commerce, and to make 
+wholesale sales using the output of the generating unit shall request interconnection with the 
+Transmission System pursuant to, and shall comply with, the terms, conditions, and procedures 
+set forth in Tariff, Part IV. Tariff, Part IV, Subpart G and related portions of the PJM Manuals 
+apply to Interconnection Requests involving new Small Generation Resources or increases of 20 
+MW or less to the capability of existing generation resources over any consecutive 24-month 
+period.  Upgrade Customers that propose Upgrade Requests seeking Incremental Auction 
+Revenue Rights shall also comply with the terms, conditions, and procedures set forth in Tariff, 
+Part VI.  Tariff, Part VI contains procedures, terms and conditions governing the Transmission 
+Provider’s administration of the New Services Queue, System Impact Studies and Facilities 
+Studies of Interconnection Requests (as well as other New Service Requests), and agreements 
+related to such studies and Interconnection Service. Each Interconnection Customer must pay for 
+any Attachment Facilities, Local Upgrades, and Network Upgrades necessary to accommodate 
+the requested interconnection.  Notwithstanding the foregoing, by August 31 of each calendar 
+year, PJM shall solicit requests from Generation Owners of Intermittent Resources and 
+Environmentally Limited Resources which seek to obtain additional Capacity Interconnection 
+Rights related to the winter period (defined as November through April of a Delivery Year) for 
+the purposes of aggregation under the Tariff, Attachment DD.  Such additional Capacity 
+Interconnection Rights would be for a one-year period as specified by PJM in the solicitation. 
+Responses to such solicitation must be submitted by such interested Generation Owners by 
+October 31 prior to the upcoming Base Residual Auction.  Such requests shall be studied for 
+deliverability similar to any Generation Interconnection Customer seeking to enter the New 
+Services Queue; however, such requests shall not be required to enter the New Services 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+Queue.  PJM shall study such requests in a manner so as to prevent infringement on available 
+system capabilities of any resource which is already in service, or which has an executed 
+Interconnection Service Agreement, Transmission Service Agreement, Upgrade Construction 
+Service Agreement, or has obtained a Queue Position in the New Services Queue.   
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+Subpart A – INTERCONNECTION PROCEDURES 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+36 Interconnection Requests 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 1 
+36.1 General: 
+ 
+Generation Interconnection Requests and Transmission Interconnection Requests shall be 
+governed by Tariff, Part IV, Subpart A, section 36.   
+ 
+36.1.01 Generation Interconnection Request: 
+ 
+Except as otherwise provided in this Subpart A with respect to Behind The Meter Generation, an 
+Interconnection Customer that seeks to interconnect new generation in, to increase the capacity 
+of generation already interconnected in, the PJM Region shall submit to the Transmission 
+Provider a Generation Interconnection Request.  The Transmission Provider shall acknowledge 
+receipt of the Generation Interconnection Request (electronically when available to all parties, 
+otherwise written) within five Business Days after receipt of the Generation Interconnection 
+Request. 
+1. Generation Interconnection Request Requirements.  To be assigned a PJM Queue 
+Position pursuant to Tariff, Part IV, Preamble, section 201, a Generation 
+Interconnection Customer must submit a complete and fully executed Generation 
+Interconnection Feasibility Study Agreement, a form of which is located in the 
+Tariff, Attachment N.  To be considered complete at the time of submission, the 
+Interconnection Customer’s Generation Interconnection Feasibility Study 
+Agreement must include, at a minimum, each of the following: 
+a. specification of the location of the proposed Generating Facility site or 
+existing Generating Facility (include both a written description (e.g., street 
+address, global positioning coordinates) and attach a map in PDF format 
+depicting the property boundaries and the location of the generating unit 
+site); and 
+b. evidence of an ownership interest in, or right to acquire or control the 
+Generating Facility site for a minimum of three years, such as a deed, 
+option agreement, lease, or other similar document acceptable to the 
+Transmission Provider; and 
+c. the MW size of the proposed Generating Facility or the amount of increase 
+in MW capability of an existing Generating Facility, and identification of 
+any MW portion of the facility’s capability that will be a Capacity 
+Resource; and 
+d. identification of the fuel type of the proposed generating unit or upgrade 
+thereto; and 
+e. a description of the equipment configuration, and a set of preliminary 
+electrical design specifications, and, if the generating unit is a wind 
+generation facility, then the set of preliminary electrical design 
+specifications must depict the wind plant as a single equivalent generator; 
+and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 2 
+f. the planned date the proposed generating unit or increase in MW 
+capability of an existing generating unit will be in service, where such date 
+is to be no more than seven years from the date that a complete and fully 
+executed Generation Interconnection Feasibility Study Agreement is 
+received by the Transmission Provider unless the Interconnection 
+Customer demonstrates that engineering, permitting, and construction of 
+the generating unit or increase in capability will take more than seven 
+years; and  
+g. any additional information as may be prescribed by the Transmission 
+Provider in the PJM Manuals, including a description of how the full 
+electrical generating capability of the generating unit will be limited to the 
+Maximum Facility Output requested if the Maximum Facility Output of 
+the generating unit is less than the full electrical generating capability of 
+the Generating Facility; and 
+h. if Behind The Meter Generation is identified in the Generation 
+Interconnection Feasibility Study Agreement, all of the requirements in 
+Tariff, Part IV, Subpart A, section 36.1A must also be met; and  
+i. Deposit. 
+i. A deposit shall be submitted to Transmission Provider, as follows: 
+(1) Provided that the maximum total deposit amount for a 
+Generation Interconnection Request submitted in the first 
+four calendar months of the current New Services Queue 
+shall not exceed $110,000, a deposit of $10,000 plus $100 
+for each MW requested if the Generation Interconnection 
+Request is received in the first four calendar months of the 
+current New Services Queue; or 
+(2) Provided that the maximum total deposit amount for a 
+Generation Interconnection Request submitted in the fifth 
+calendar month of the current New Services Queue shall 
+not exceed $120,000, a deposit of $20,000 plus $150 for 
+each MW requested if the Generation Interconnection 
+Request is received in the fifth calendar month of the 
+current New Services Queue; or  
+(3) Provided that the maximum total deposit amount for a 
+Generation Interconnection Request submitted in the sixth 
+calendar month of the current New Services Queue shall 
+not exceed $130,000 a deposit of $30,000 plus $200 for 
+each MW requested, if the Generation Interconnection 
+Request is received in the sixth calendar month of the 
+current New Services Queue. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 3 
+ii. 10% of each total deposit amount is non-refundable.  Any unused 
+non-refundable deposit monies shall be returned to the Generation 
+Interconnection Customer upon Initial Operation.  However, if, 
+before reaching Initial Operation, the Generation Interconnection 
+Customer withdraws its Generation Interconnection Request, or the 
+Generation Interconnection Request is otherwise deemed rejected 
+or terminated and withdrawn, any unused portion of the non-
+refundable deposit monies shall be used to fund: 
+(1) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices due to 
+Transmission Provider, Interconnected Transmission 
+Owner(s) and/or third party contractors, as applicable, as a 
+result of any failure of the Interconnection Customer to pay 
+actual costs for the Generation Interconnection Request 
+and/or associated Queue Position; and/or 
+(2) Any restudies required as a result of the rejection, 
+termination and/or withdrawal of such Generation 
+Interconnection Request; and/or 
+(3) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices related 
+to prior New Service Requests and/or Generation 
+Interconnection Requests by the Interconnection Customer. 
+iii. 90% of each total deposit amount is refundable, and the 
+Transmission Provider shall utilize, in no particular order, the 
+refundable portion of each total deposit amount to cover the 
+following: 
+(1) The cost of the Queue Position acceptance review; and 
+(2) The cost of the deficiency review of the Interconnection 
+Customer’s Generation Interconnection Request (to 
+determine whether the Generation Interconnection Request 
+is valid); and  
+(3) The dollar amount of the Interconnection Customer’s cost 
+responsibility for the Generation Interconnection 
+Feasibility Study; and 
+(4) If the Generation Interconnection Request is deemed to be 
+modified (pursuant to Tariff, Part IV, Subpart A, section 
+36.2A), rejected, terminated and/or withdrawn during the 
+deficiency review and/or deficiency response period (as 
+described further below), or during the Feasibility Study 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 4 
+period, the refundable deposit money shall be applied to 
+cover all of the costs incurred by the Transmission Provider 
+up to the point of such Generation Interconnection Request 
+being modified, rejected, terminated and/or withdrawn, and 
+any remaining refundable deposit monies shall be applied 
+to cover: 
+(a) The costs of any restudies required as a result of the 
+modification (pursuant to Tariff, Part IV, Subpart A, 
+section 36.2A), rejection, termination and/or 
+withdrawal of such Generation Interconnection 
+Request; and/or 
+(b) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices due to Transmission Provider, 
+Interconnected Transmission Owner(s) and/or third 
+party contractors, as applicable, as a result of any 
+failure of the Interconnection Customer to pay 
+actual costs for the Generation Interconnection 
+Request and/or associated Queue Position; and/or 
+(c) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices related to prior New Service 
+Requests and/or Generation Interconnection 
+Requests by the Interconnection Customer. 
+(d) If any refundable deposit monies remain after all 
+costs and outstanding monies owed, as described in 
+this section, are covered, such remaining refundable 
+deposit monies shall be returned to the Generation 
+Interconnection Customer in accordance with the 
+PJM Manuals.  
+iv. Upon completion of the Feasibility Study, the Transmission 
+Provider shall apply any remaining refundable deposit monies 
+toward: 
+(1) The Interconnection Customer’s cost responsibility for any 
+other studies conducted for the Generation Interconnection 
+Request under Tariff, Part VI, which shall be applied prior 
+to the deposit monies collected for such other studies; 
+and/or 
+(2) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices related 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 5 
+to prior Generation Interconnection Requests by the 
+Interconnection Customer. 
+v. If any refundable deposit monies remain after the Feasibility Study 
+is complete and any outstanding monies owed by the 
+Interconnection Customer in connection with outstanding invoices 
+related to prior New Service Requests and/or Generation 
+Interconnection Requests by the Interconnection Customer have 
+been paid, such remaining deposit monies shall be returned to the 
+Generation Interconnection Customer. 
+vi. The Interconnection Customer must submit the total required 
+deposit amount with the Generation Interconnection Request.  If 
+the Interconnection Customer fails to submit the total required 
+deposit amount with the Generation Interconnection Request, the 
+Generation Interconnection Request shall be deemed to be 
+terminated and withdrawn (i.e., the Generation Interconnection 
+Request shall be terminated prior to reaching the deficiency review 
+stage). 
+vii. Deposit monies are non-transferrable.  Under no circumstances 
+may refundable or non-refundable deposit monies for a specific 
+Interconnection Request or Queue Position be applied in whole or 
+in part to a different New Service Request or Interconnection 
+Request or Queue Position. 
+j. Primary frequency response operating range for Energy Storage 
+Resources. 
+2. Deficiency Review.  Transmission Provider shall provide a deficiency review of 
+the Generation Interconnection Request to determine whether the Interconnection 
+Customer submitted a valid Generation Interconnection Request.  
+a. With the exception of evidence of an ownership interest in, or right to 
+acquire or control the generating unit site for a minimum of three years, if 
+a Generation Interconnection Request meets all requirements set forth 
+above the Transmission Provider shall start the deficiency review.  While 
+deficiency reviews may commence for Generation Interconnection 
+Requests that are submitted without site control evidence that is acceptable 
+to the Transmission Provider, such Generation Interconnection Requests 
+shall not be assigned a Queue Position until the Transmission Provider 
+receives site control evidence that is acceptable to the Transmission 
+Provider. 
+b. Pursuant to Tariff, Attachment N, section 9, Cost Responsibility, of the 
+Generation Interconnection Feasibility Study Agreement, if the 
+Transmission Provider anticipates that the actual study costs will exceed 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 6 
+the refundable portion of the required deposit, the Transmission Provider 
+shall provide the Interconnection Customer with an estimate of the 
+additional study costs.  The estimated additional study costs are non-
+binding, and additional actual study costs may exceed the estimated 
+additional study cost increases provided by the Transmission Provider.  
+Regardless of whether the Transmission Provider provides the 
+Interconnection Customer with estimated additional study costs, the 
+Interconnection Customer is responsible for and must pay all actual study 
+costs. 
+i. If the Transmission Provider sends the Interconnection Customer 
+notification of estimated additional study costs during the 
+deficiency review period (as described below), then the 
+Interconnection Customer must either: 
+(1) Withdraw the Generation Interconnection Request during 
+the deficiency response period (as described below); or 
+(2) Pay all estimated additional study costs prior to the 
+expiration of the deficiency response period (as described 
+below).   
+(3) If the Interconnection Customer fails to complete either (1) 
+or (2) above, the Generation Interconnection Request shall 
+be deemed to be terminated and withdrawn. 
+ii. If at any time after the deficiency review period the Transmission 
+Provider provides the Interconnection Customer with notification 
+of estimated additional study costs, the Interconnection Customer 
+must pay such estimated additional study costs within ten Business 
+Days of Transmission Provider sending the Interconnection 
+Customer notification of such estimated additional study costs.  If 
+the Interconnection Customer fails to pay such estimated additional 
+study costs within ten Business Days of Transmission Provider 
+sending the Interconnection Customer notification of such 
+estimated additional study costs, then the Generation 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn. 
+c. If there are deficiencies in the Generation Interconnection Request for any 
+of the requirements set forth above, the Transmission Provider shall use 
+Reasonable Efforts consistent with the volume of the New Services Queue 
+to notify the Interconnection Customer (electronically when available to 
+all parties, otherwise written) within fifteen Business Days of receipt of 
+the Generation Interconnection Request that such Generation 
+Interconnection Request is deficient.  If Transmission Provider is unable 
+to provide a deficiency review within fifteen Business Days from receipt 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 7 
+of the Generation Interconnection Request, Transmission Provider shall 
+use Reasonable Efforts to complete and issue the deficiency review to the 
+Interconnection Customer as soon thereafter as practicable, but, in no 
+event shall the Transmission Provider’s response herein serve as a basis to 
+delaying Transmission Provider’s compliance with the Interconnection 
+Feasibility Study provisions of the Tariff, Part IV, Subpart A, section 36.2.  
+This notification is referred to as a deficiency notice. 
+i. The deficiency notice shall clearly set forth the basis upon which 
+the deficiency determination was made. 
+ii. The Interconnection Customer shall be provided ten Business Days 
+to respond to the deficiency notice.  This ten Business Day period 
+is referred to as the deficiency response period. 
+(1) Within the deficiency response period, the Interconnection 
+Customer shall provide, in full, the additional information 
+and/or evidence (such as generation site control) and/or 
+monies that the Transmission Provider’s deficiency notice 
+identified as being required to constitute a valid Generation 
+Interconnection Request. 
+(2) If the Interconnection Customer fails to clear within the 
+deficiency response period all deficiencies identified by the 
+Transmission Provider in the deficiency notice, the 
+Generation Interconnection Request shall be deemed to be 
+terminated and withdrawn. 
+iii. Without regard to the timing of the Interconnection Customer’s 
+deficiency response period, the Transmission Provider shall use 
+Reasonable Efforts consistent with the volume of the New Services 
+Queue to review each Interconnection Customer’s response to the 
+deficiency notice within fifteen Business Days of the 
+Interconnection Customer submitting its response to the deficiency 
+notice.  If Transmission Provider is unable to complete its review 
+of Interconnection Customer’s response to the deficiency notice 
+within fifteen Business Days of receiving the response, 
+Transmission Provider shall use Reasonable Efforts to complete 
+such review as soon thereafter as practicable, but, in no event shall 
+the Transmission Provider’s response herein serve as a basis to 
+delaying Transmission Provider’s compliance with the 
+Interconnection Feasibility Study provisions of the Tariff, Part IV, 
+Subpart A, section 36.2.  If the Generation Interconnection Request 
+is still deficient after the Transmission Provider’s review of 
+Interconnection Customer’s response to the deficiency notice and 
+the full ten Business Days of the Interconnection Customer’s 
+deficiency response period have expired, the Generation 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 8 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn. 
+iv. If the Interconnection Customer fails to respond in full to the 
+Transmission Provider’s deficiency notice (including failing to 
+provide all of the additional required information, evidence and/or 
+make payments on any outstanding invoices required by the 
+Transmission Provider’s deficiency notice), the Generation 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn. 
+3. The Interconnection Customer must submit a complete and fully executed 
+Generation Interconnection Feasibility Study Agreement (Tariff, Attachment N) 
+to the Transmission Provider by March 10 for the New Services Queue ending 
+March 31, and by September 10 for the New Services Queue ending September 
+30.  No Generation Interconnection Requests shall be accepted for the relevant 
+New Services Queue after such dates. 
+4. In accordance with Tariff, Part VI, Preamble, section 201, the Transmission 
+Provider shall assign Queue Positions as of the date and time of receipt of all 
+information required pursuant to this section 36.1.01.  If the information required 
+pursuant to this section 36.1.01 is provided to the Transmission Provider in 
+separate submissions, the Queue Position shall be assigned based on the date and 
+time of receipt of the last required piece of information. 
+5. Deficiency notices shall be considered cleared as of the date and time the 
+Transmission Provider receives from the Interconnection Customer the last piece 
+of required information deemed acceptable by the Transmission Provider to clear 
+such deficiency notice. 
+6. Transmission Provider Website Postings. 
+a. The Transmission Provider shall maintain on the Transmission Provider’s 
+website a list of all Generation Interconnection Requests that identifies: 
+i.  the proposed maximum summer and winter megawatt electrical 
+output;  
+ii.  the location of the generation by county and state;  
+iii.  the station or transmission line or lines where the interconnection 
+will be made;  
+iv.  the facility’s projected date of Initial Operation;  
+v.  the status of the Generation Interconnection Request, including its 
+Queue Position;  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 9 
+vi.  the type of Generation Interconnection Service requested;  
+vii.  the availability of any studies related to the Interconnection 
+Request;  
+viii.  the date of the Generation Interconnection Request;  
+ix.  the type of Generating Facility to be constructed (combined cycle, 
+base load or combustion turbine and fuel type); and  
+x.  for each Generation Interconnection Request that has not resulted 
+in a completed interconnection, an explanation of why it was not 
+completed.   
+b. This list will not disclose the identity of the Generation Interconnection 
+Customer, except as otherwise provided in Tariff, Part IV.  The list and the 
+priority of Generation Interconnection Requests shall be included on the 
+Transmission Provider’s website as part of the New Services Queue. 
+36.1.02 Generation Interconnection Requests of 20 Megawatts or Less: 
+ 
+The Transmission Provider has developed streamlined processes for Generation Interconnection 
+Requests involving new generation resources of 20 MW or less and increases in the capacity of a 
+generating unit by 20 MW or less over any consecutive 24-month period.  The processes for 
+Generation Interconnection Requests involving increases in capacity by 20 MW or less are set 
+forth in Tariff, Part IV, Subpart G and the PJM Manuals. 
+ 
+36.1.03 Transmission Interconnection Request: 
+ 
+An Interconnection Customer that seeks to interconnect or add Merchant Transmission Facilities 
+to the Transmission System, or to increase the capacity of existing Merchant Transmission 
+Facilities interconnected with the Transmission System shall submit to the Transmission 
+Provider a Transmission Interconnection Request.  The Transmission Provider shall 
+acknowledge receipt of the Transmission Interconnection Request (electronically when available 
+to all parties, otherwise written) within five Business Days after receipt of the Transmission 
+Interconnection Request. 
+ 
+1. Transmission Interconnection Request Requirements.  To be assigned a PJM 
+Queue Position pursuant to Tariff, Part VI, Preamble, section 201, a Transmission 
+Interconnection Customer must submit a complete and fully executed 
+Transmission Interconnection Feasibility Study Agreement, a form of which is 
+located in the Tariff, Attachment S.  To be considered complete at the time of 
+submission, the Interconnection Customer’s Transmission Interconnection 
+Feasibility Study Agreement must include, at a minimum, each of the following: 
+a.  the location of the proposed Merchant Transmission Facilities and of the 
+substation(s) or other location(s) where the Transmission Interconnection 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 10 
+Customer proposes to interconnect or add its Merchant Transmission 
+Facilities to the Transmission System; and 
+b.  a description of the proposed Merchant Transmission Facilities; and 
+c.  the nominal capability or increase in capability (in megawatts) of the 
+proposed Merchant Transmission Facilities; and 
+d.  the planned date the proposed Merchant Transmission Facilities will be in 
+service, such date to be no more than seven years from the date the request 
+is received by the Transmission Provider, unless the Transmission 
+Interconnection Customer demonstrates that engineering, permitting, and 
+construction of the Merchant Transmission Facilities will take more than 
+seven years; and 
+e.  if the request relates to proposed Merchant D.C. Transmission Facilities 
+and/or Controllable A.C. Merchant Transmission Facilities that will 
+interconnect with the Transmission System and with another control area 
+outside the PJM Region, the Transmission Interconnection Customer’s 
+election to receive either; and  
+i.  Transmission Injection Rights and/or Transmission Withdrawal 
+Rights, or  
+ii.  Incremental Deliverability Rights, Incremental Auction Revenue 
+Rights, Incremental Capacity Transfer Rights, and Incremental 
+Available Transfer Capability Revenue Rights, associated with the 
+capability of the proposed Merchant D.C. Transmission Facilities 
+and/or Controllable A.C. Merchant Transmission Facilities;  
+f.  if the Transmission Interconnection Customer will be eligible to receive 
+Incremental Deliverability Rights under Tariff, Part VI, Subpart C, section 
+235, identification of the point on the Transmission System where the 
+Transmission Interconnection Customer wishes to receive Incremental 
+Deliverability Rights created by the construction or installation of its 
+proposed Merchant Transmission Facilities; and 
+g.  any additional information as may be prescribed by the Transmission 
+Provider in the PJM Manuals; and 
+h.  Deposit.   
+i. A deposit shall be submitted to the Transmission Provider as 
+follows: 
+(1) Provided that the maximum total deposit amount for a 
+Transmission Interconnection Request submitted in the first 
+four calendar months of the current New Services Queue 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 11 
+shall not exceed $110,000, a deposit of $10,000 plus $100 
+for each MW requested if the Transmission Interconnection 
+Request is received in the first four calendar months of the 
+current New Services Queue; or 
+(2) Provided that the maximum total deposit amount for a 
+Transmission Interconnection Request submitted in the 
+fifth calendar month of the current New Services Queue 
+shall not exceed $120,000, a deposit of $20,000 plus $150 
+for each MW requested if the Transmission Interconnection 
+Request is received within the fifth calendar month of the 
+current New Services Queue; or 
+(3) Provided that the maximum total deposit amount for a 
+Transmission Interconnection Request submitted in the 
+sixth calendar month of the current New Services Queue 
+shall not exceed $130,000, a deposit of $30,000 plus $200 
+for each MW requested, if the Transmission 
+Interconnection Request is received within the sixth 
+calendar month of the current New Services Queue. 
+ii. 10% of each total deposit amount is non-refundable.  Any unused 
+non-refundable deposit monies shall be returned to the 
+Transmission Interconnection Customer upon Initial Operation.  
+However, if, before reaching Initial Operation, the Transmission 
+Interconnection Customer withdraws its Transmission 
+Interconnection Request, or the Transmission Interconnection 
+Request is otherwise deemed rejected or terminated and 
+withdrawn, any unused portion of the non-refundable deposit 
+monies shall be used to fund: 
+(1) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices due to 
+Transmission Provider, Interconnected Transmission 
+Owner(s) and/or third party contractors, as applicable, as a 
+result of any failure of the Interconnection Customer to pay 
+actual costs for the Transmission Interconnection Request 
+and/or associated Queue Position; and/or 
+(2) Any restudies required as a result of the rejection, 
+termination and/or withdrawal of such Transmission 
+Interconnection Request; and/or 
+(3) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices related 
+to prior New Service Requests and/or Transmission and/or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 12 
+Generation Interconnection Requests by the 
+Interconnection Customer.  
+iii. 90% of each total deposit amount is refundable, and the 
+Transmission Provider shall utilize, in no particular order, the 
+refundable portion of each total deposit amount to cover the 
+following: 
+(1) The cost of the Queue Position acceptance review; and 
+(2) The cost of the deficiency review of the Interconnection 
+Customer’s Transmission Interconnection Request (to 
+determine whether the Transmission Interconnection 
+Request is valid); and 
+(3) The dollar amount of the Interconnection Customer’s cost 
+responsibility for the Transmission Interconnection 
+Feasibility Study; and 
+(4) If the Transmission Interconnection Request is deemed to 
+be modified (pursuant to Tariff, Part IV, Subpart A, section 
+36.2A), rejected, terminated and/or withdrawn during the 
+deficiency review and/or deficiency response period (as 
+described further below), or during the Feasibility Study 
+period, the refundable deposit money shall be applied to 
+cover all of the costs incurred by the Transmission Provider 
+up to the point of such Transmission Interconnection 
+Request being modified, rejected, terminated and/or 
+withdrawn, and any remaining refundable deposit monies 
+shall be applied to cover: 
+(a) The costs of any restudies required as a result of the 
+modification, rejection termination and/or 
+withdrawal of such Transmission Interconnection 
+Request; and/or 
+(b) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices due to Transmission Provider, 
+Interconnected Transmission Owner(s) and/or third 
+party contractors, as applicable, as a result of any 
+failure of the Interconnection Customer to pay 
+actual costs for the Transmission Interconnection 
+Request and/or associated Queue Position; and/or 
+(c) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 13 
+outstanding invoices related to prior New Service 
+Requests and/or Transmission and/or Generation 
+Interconnection Requests by the Interconnection 
+Customer. 
+(d) If any refundable deposit monies remain after all 
+costs and outstanding monies owed, as described in 
+this section, are covered, such remaining refundable 
+deposit monies shall be returned to the 
+Interconnection Customer in accordance with the 
+PJM Manuals. 
+iv. Upon completion of the Transmission Interconnection Feasibility 
+Study, the Transmission Provider shall apply any remaining 
+refundable deposit monies toward: 
+(1) The Interconnection Customer’s cost responsibility for any 
+other studies conducted for the Transmission 
+Interconnection Request under Tariff, Part VI, which shall 
+be applied prior to the deposit monies collected for such 
+other studies; and/or 
+(2) Any outstanding monies owed by the Interconnection 
+Customer in connection with outstanding invoices related 
+to prior New Service Requests and/or Transmission and/or 
+Generation Interconnection Requests by the 
+Interconnection Customer. 
+v. If any refundable deposit monies remain after the Feasibility Study 
+is complete and any outstanding monies owed by the 
+Interconnection Customer in connection with outstanding invoices 
+related to prior New Service Requests and/or Transmission and/or 
+Generation Interconnection Requests by the Interconnection 
+Customer have been paid, such remaining deposit monies shall be 
+returned to the Interconnection Customer.  
+vi. The Interconnection Customer must submit the total required 
+deposit amount with the Transmission Interconnection Request.  If 
+the Interconnection Customer fails to submit the total required 
+deposit amount with the Transmission Interconnection Request, the 
+Transmission Interconnection Request shall be deemed to be 
+terminated and withdrawn (i.e., the Transmission Interconnection 
+Request shall be terminated prior to reaching the deficiency review 
+stage). 
+vii. Deposit monies are non-transferrable.  Under no circumstances 
+may refundable or non-refundable deposit monies for a specific 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 14 
+Interconnection Request or Queue Position be applied in whole or 
+in part to a different New Service Request or Interconnection 
+Request or Queue Position. 
+2. Deficiency Review.  Transmission Provider shall provide a deficiency review of 
+the Transmission Interconnection Request to determine whether the 
+Interconnection Customer submitted a valid Transmission Interconnection 
+Request. 
+a. If a Transmission Interconnection Request meets all requirements set forth 
+above, the Transmission Provider shall start the deficiency review. 
+b. Pursuant to Tariff, Attachment S, section 9, Cost Responsibility, of the 
+Transmission Interconnection Feasibility Study Agreement, if the 
+Transmission Provider anticipates that the actual study costs will exceed 
+the refundable portion of the required deposit, the Transmission Provider 
+shall provide the Interconnection Customer with an estimate of the 
+additional study costs.  The estimated additional study costs are non-
+binding, and additional actual study costs may exceed the estimated 
+additional study cost increases provided by the Transmission Provider.  
+Regardless of whether the Transmission Provider provides the 
+Interconnection Customer with estimated additional study costs, the 
+Interconnection Customer is responsible for and must pay all actual study 
+costs. 
+i. If the Transmission Provider sends the Interconnection Customer 
+notification of estimated additional study costs during the 
+deficiency review period (as described below), then the 
+Interconnection Customer must either: 
+(1) Withdraw the Interconnection Request during the 
+deficiency response period (as described below); or 
+(2) Pay all estimated additional study costs prior to the 
+expiration of the deficiency response period (as described 
+below). 
+(3) If the Interconnection Customer fails to complete either (1) 
+or (2) above, the Transmission Interconnection Request 
+shall be deemed to be terminated and withdrawn. 
+ii. If at any time after the deficiency review period the Transmission 
+Provider provides the Interconnection Customer with notification 
+of estimated additional study costs, the Interconnection Customer 
+must pay such estimated additional study costs within ten Business 
+Days of Transmission Provider sending the Interconnection 
+Customer notification of such estimated additional study costs.  If 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 15 
+the Interconnection Customer fails to pay such estimated additional 
+study costs within ten Business Days of Transmission Provider 
+sending the Interconnection Customer notification of such 
+estimated additional study costs, then the Transmission 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn.  
+c. If there are deficiencies in the Transmission Interconnection Request for 
+any of the requirements set forth above, the Transmission Provider shall 
+use Reasonable Efforts consistent with the volume of the New Services 
+Queue to notify the Interconnection Customer (electronically when 
+available to all parties, otherwise written) within fifteen Business Days of 
+receipt of the Transmission Interconnection Request that such 
+Transmission Interconnection Request is deficient.  If Transmission 
+Provider is unable to provide a deficiency review within fifteen Business 
+Days from receipt of the Transmission Interconnection Request, 
+Transmission Provider shall use Reasonable Efforts to complete and issue 
+the deficiency review to the Interconnection Customer as soon thereafter 
+as practicable, but, in no event shall the Transmission Provider’s response 
+herein serve as a basis to delaying Transmission Provider’s compliance 
+with the Interconnection Feasibility Study provisions of the Tariff, Part 
+IV, Subpart A, section 36.2.  This notification is referred to as a deficiency 
+notice. 
+i. The deficiency notice shall clearly set forth the basis upon which 
+the deficiency determination was made. 
+ii. The Interconnection Customer shall be provided ten Business Days 
+to respond to the deficiency notice.  This ten Business Day period 
+is referred to as the deficiency response period. 
+(1) Within the deficiency response period, the Interconnection 
+Customer shall provide, in full, the additional information 
+and/or monies that the Transmission Provider’s deficiency 
+notice identified as being required to constitute a valid 
+Transmission Interconnection Request. 
+(2) If the Interconnection Customer fails to clear within the 
+deficiency response period all deficiencies identified by the 
+Transmission Provider in the deficiency notice, the 
+Transmission Interconnection Request shall be deemed to 
+be terminated and withdrawn. 
+iii. Without regard to the timing of the Interconnection Customer’s 
+deficiency response period, the Transmission Provider shall use 
+Reasonable Efforts consistent with the volume of the New Services 
+Queue to review the Interconnection Customer’s response to the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 16 
+deficiency notice within fifteen Business Days of the 
+Interconnection Customer submitting its response to the deficiency 
+notice.  If Transmission Provider is unable to complete its review 
+of Interconnection Customer’s response to the deficiency notice 
+within fifteen Business Days of receiving the response, 
+Transmission Provider shall use Reasonable Efforts to complete 
+such review as soon thereafter as practicable, but, in no event shall 
+the Transmission Provider’s response herein serve as a basis to 
+delaying Transmission Provider’s compliance with the 
+Interconnection Feasibility Study provisions of the Tariff, Part IV, 
+Subpart A, section 36.2.  If the Transmission Interconnection 
+Request is still deficient after the Transmission Provider’s review 
+of Interconnection Customer’s response to the deficiency notice 
+and the full ten Business Days of the Interconnection Customer’s 
+deficiency response period have expired, the Transmission 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn. 
+iv. If the Interconnection Customer fails to respond in full to the 
+Transmission Provider’s deficiency notice (including failing to 
+provide all of the additional required information, evidence and/or 
+make payments on any outstanding invoices required by the 
+Transmission Provider’s deficiency notice), the Transmission 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn.  
+3. The Interconnection Customer must submit a complete and fully executed 
+Transmission Interconnection Feasibility Study Agreement (Tariff, Attachment S) 
+to the Transmission Provider by March 10 for the New Services Queue ending 
+March 31, and by September 10 for the New Services Queue ending September 
+30.  No Transmission Interconnection Requests shall be accepted for the relevant 
+New Services Queue after such dates. 
+4. The Transmission Provider shall assign Queue Positions pursuant to Tariff, Part 
+VI, Preamble, section 201 on the date and time of receipt of all the required 
+information set forth in this section 36.1.03.  
+5. Deficiencies shall be considered cleared as of the date and time the Transmission 
+Provider receives from the Interconnection Customer the last piece of required 
+information deemed acceptable by the Transmission Provider to clear such 
+deficiency notice.  
+6. Adjacent Control Area Stipulation.  If applicable, within 30 calendar days of 
+submitting its Transmission Interconnection Request, the Interconnection 
+Customer shall provide evidence acceptable to the Transmission Provider that 
+Interconnection Customer has submitted a valid interconnection request with the 
+adjacent Control Area(s) in which it is interconnecting.  Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 17 
+Interconnection Customer shall maintain its queue position(s) with such adjacent 
+Control Area(s) throughout the entire PJM Transmission Interconnection Request 
+process for the relevant PJM Transmission Interconnection Request.  If 
+Interconnection Customer fails to maintain its queue position(s) with such 
+adjacent Control Area(s) throughout the entire PJM Transmission Interconnection 
+Request process for the relevant PJM Transmission Interconnection Request, the 
+relevant PJM Transmission Interconnection Request shall be deemed to be 
+terminated and withdrawn. 
+7. Transmission Provider Website Postings. 
+a. The Transmission Provider shall maintain on the Transmission Provider’s 
+website a list of all Transmission Interconnection Requests that identifies: 
+i.  in megawatts the potential nominal capability or increase in 
+capability;  
+ii.  the location of the Merchant Transmission Facilities by county and 
+state;  
+iii.  the station or transmission line or lines where the interconnection 
+will be made;  
+iv.  the facility’s projected date of Initial Operation;  
+v.  the status of the Transmission Interconnection Request, including 
+its Queue Position;  
+vi.  the availability of any studies related to the Interconnection 
+Request;  
+vii.  the date of the Transmission Interconnection Request;  
+viii.  the type of Merchant Transmission Facilities to be constructed; and  
+ix.  for each Transmission Interconnection Request that has not 
+resulted in a completed interconnection, an explanation of why it 
+was not completed.   
+b. This list will not disclose the identity of the Transmission Interconnection 
+Customer, except as otherwise provided in Tariff, Part IV or Tariff, Part 
+VI.  The list and the priority of Transmission Interconnection Requests 
+shall be included on the Transmission Provider’s website as a part of the 
+New Services Queue. 
+36.1.03A Transmission Interconnection Customers Requesting Merchant Network 
+ Upgrades 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 18 
+Notwithstanding Tariff, Part IV, Subpart A, section 36.1.03, an Interconnection Customer that 
+proposes Merchant Network Upgrades (including advancing pursuant to Tariff, Part VI, Subpart 
+B, section 220 or accelerating the construction of any transmission enhancement or expansion, 
+other than Merchant Transmission Facilities, that is included in the Regional Transmission 
+Expansion Plan prepared pursuant to Operating Agreement, Schedule 6) shall submit an Upgrade 
+Request, with the required information and the required deposit for a System Impact Study, as 
+set forth in Tariff, Attachment EE. 
+  
+36.1.1 Interconnection Services for Generation: 
+ 
+Generation Interconnection Customers may request either of two forms of Interconnection 
+Service, i.e., interconnection as a Capacity Resource or as an Energy Resource.  Energy 
+Resource status allows the generator to participate in the PJM Interchange Energy Market 
+pursuant to the PJM Operating Agreement.  Capacity Resource status allows the generator to 
+participate in the PJM Interchange Energy Market to be utilized by load-serving entities in the 
+PJM Region to meet capacity obligations imposed under the Reliability Assurance Agreement 
+and/or to be designated as a Network Resource under Tariff, Part III.  Capacity Resources also 
+may participate in Reliability Pricing Model Auctions and in Ancillary Services markets 
+pursuant to the Tariff or the Operating Agreement.  Capacity Resource status is based on 
+providing sufficient transmission capability to ensure deliverability of generator output to the 
+aggregate PJM Network Load and to satisfy the contingency criteria in the Applicable Standards.  
+Specific tests performed during the Generation Interconnection Feasibility Study and later 
+System Impact Study will identify those upgrades required to satisfy the contingency criteria 
+applicable at the generator’s location. 
+ 
+Consistent with Operating Agreement, Schedule 1, section 1.7.4(i), to the extent its Generating 
+Facility is dispatchable, an Interconnection Customer shall submit an Economic Minimum in the 
+real-time market that is no greater than the higher of its physical operating minimum or its 
+Capacity Interconnection Rights. 
+ 
+36.1.1A Service Below Generating Capability 
+ 
+The Transmission Provider shall consider requests for Interconnection Service below the full 
+electrical generating capability of the Generating Facility.  These requests for Interconnection 
+Service shall be studied at the level of Interconnection Service requested for purposes of 
+determining Interconnection Facilities, Network Upgrades, and associated costs, but may be 
+subject to other studies at the full electrical generating capability of the Generating Facility to 
+ensure the safety and reliability of the system, with the study costs borne by the Interconnection 
+Customer.  If after additional studies are complete, Transmission Provider determines that 
+additional Network Upgrades are necessary, then Transmission Provider must: (i) specify which 
+additional Network Upgrade costs are based on which studies; and (ii) provide a detailed 
+explanation of why the additional Network Upgrades are necessary.  Any Interconnection 
+Facility and/or Network Upgrades costs required for safety and reliability also will be borne by 
+the Interconnection Customer.  Interconnection Customers may be subject to additional control 
+technologies as well as testing and validation of these technologies as set forth in the 
+Interconnection Service Agreement.  The necessary control technologies and protection systems 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 19 
+shall be established in Tariff, Attachment O, Schedule K (Requirements for Interconnection 
+Service Below Full Electrical Generating Capability) of the executed, or requested to be filed 
+unexecuted Interconnection Service Agreement. 
+ 
+36.1.1B Surplus Interconnection Service Request 
+ 
+Requests for Surplus Interconnection Service may be made by the existing Interconnection 
+Customer whose Generating Facility is already interconnected, or one of its affiliates, or by an 
+unaffiliated Interconnection Customer.  The existing Interconnection Customer or one of its 
+affiliates has priority to use this service; however, if they do not exercise this priority, Surplus 
+Interconnection Requests also may be made available to an unaffiliated Surplus Interconnection 
+Customer.  Surplus Interconnection Service is limited to utilizing or transferring an existing 
+Generating Facility’s Surplus Interconnection Service at the pre-existing Point of Interconnection 
+of the existing Generating Facility and cannot exceed the existing Generating Facility’s total 
+amount of Interconnection Service, i.e., the total amount of Interconnection Service used by the 
+Generating Facility requesting Surplus Interconnection Service and the existing Generating 
+Facility shall not exceed the lesser of the Maximum Facility Output stated in the existing 
+Generating Facility’s Interconnection Service Agreement or the total “as-built capability” of the 
+existing Generating Facility.  If the Generating Facility requests Surplus Interconnection Service 
+associated with an existing Generating Facility that is an Energy Resource, the Generating 
+Facility requesting the Surplus Interconnection Service shall be an Energy Resource; and if the 
+existing Generating Facility is a Capacity Resource, the Generating Facility requesting Surplus 
+Interconnection Service associated with the Generating Facility may be an Energy Resource or a 
+Capacity Resource (but only up to the amount of Capacity Interconnection Rights granted the 
+existing Generating Facility).  Surplus Interconnection Service cannot be granted if doing so 
+would require new Network Upgrades or would have additional impacts affecting the 
+determination of what Network Upgrades would be necessary to New Service Customers already 
+in the New Services Queue or that have a material impact on short circuit capability limits, 
+steady-state thermal and voltage limits, or dynamic system stability and response. 
+ 
+1. Surplus Interconnection Request Requirements.  A Surplus Interconnection 
+Customer seeking Surplus Interconnection Service must submit a complete and 
+fully executed Surplus Interconnection Study Agreement, which form is located at 
+Tariff, Attachment RR.  To be considered complete at the time of submission, the 
+Surplus Interconnection Customer’s Surplus Interconnection Study Agreement 
+must include, at a minimum, each of the following: 
+ 
+a. Specification of the location of the proposed surplus generating unit site or 
+existing surplus generating unit (include both a written description (e.g., 
+street address, global positioning coordinates) and attach a map in PDF 
+format depicting the property boundaries and the location of the 
+generating unit site); and 
+ 
+b. Evidence of an ownership interest in, or right to acquire or control the 
+surplus generating unit site for a minimum of three years, such as a deed, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 20 
+option agreement, lease or other similar document acceptable to the 
+Transmission Provider; and 
+ 
+c. The MW size of the proposed surplus generating unit or the amount of 
+increase in MW capability of an existing surplus generating unit; and 
+Identification of the fuel type of the proposed surplus generating unit or 
+upgrade thereto; and 
+ 
+d. Identification of the fuel type of the proposed surplus generating unit or 
+upgrade thereto; and 
+ 
+e. A description of the equipment configuration, and a set of preliminary 
+electrical design specifications, and, if the surplus generating unit is wind 
+generation facility, then the set of preliminary electrical design 
+specifications must depict the wind plant as a single equivalent generator; 
+and 
+ 
+f. The planned date the proposed surplus generating unit or increase in MW 
+capability of an existing surplus generating unit will be in service; and 
+ 
+g. Any additional information as may be prescribed by the Transmission 
+Provider in the PJM Manuals; and 
+ 
+h. A description of the circumstances under which Surplus Interconnection 
+Service will be available at the existing Generating Facility’s Point of 
+Interconnection; and 
+ 
+i. A deposit in the amount of $10,000 plus $100 for each MW requested 
+provided that the maximum total deposit amount for a Surplus 
+Interconnection Request shall not exceed $110,000.  If any deposit monies 
+remain after the Surplus Interconnection Study is complete and any 
+outstanding monies owed by the Surplus Interconnection Customer in 
+connection with outstanding invoices related to prior New Service 
+Requests and/or Surplus Interconnection Requests by the Surplus 
+Interconnection Customer have been paid, such remaining deposit monies 
+shall be returned to the Surplus Interconnection Customer; and 
+ 
+j. Identification of the specific, existing Generating Facility already 
+interconnected to the PJM Transmission System providing Surplus 
+Interconnection Service, including whether the Surplus Interconnection 
+Customer requesting Surplus Interconnection Service is the owner or 
+affiliate of the existing Generating Facility; and 
+ 
+k. If the Surplus Interconnection Customer is an unaffiliated third party, the 
+Surplus Interconnection Customer must submit with its Surplus 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 21 
+Interconnection Study Agreement the following information and 
+documentation acceptable to the Transmission Provider: 
+ 
+i. Written evidence from the owner of the existing Generating 
+Facility granting Surplus Interconnection Customer permission to 
+utilize the existing Generating Facility’s unused portion of 
+Interconnection Service established in the existing Generating 
+Facility’s Interconnection Service Agreement; and 
+ 
+ii. Written documentation stating that the owner of the surplus 
+generating unit and the owner of the existing Generating Facility 
+will have entered into, prior to the owner of the existing 
+Generating Facility executing a revised Interconnection Service 
+Agreement, a shared facilities agreement between the owner of the 
+existing Generating Facility and the owner of the surplus 
+generating unit detailing their respective roles and responsibilities 
+relative to the Surplus Interconnection Service. 
+ 
+l. If an Energy Storage Resource, Surplus Interconnection Customer must 
+submit primary frequency response operating range for the surplus 
+generating unit. 
+ 
+ 
+2. Deficiency Review.  Following the receipt of the Surplus Interconnection Study 
+Agreement and requisite information and/or monies listed in section 36.1.1B.1.a – 
+l above, Transmission Provider shall determine whether the listed requirements 
+were submitted as valid or deficient.  If deemed deficient by Transmission 
+Provider, Surplus Interconnection Customer must submit the requisite information 
+and/or monies acceptable to the Transmission Provider within ten Business Days 
+of receipt of the Transmission Provider’s notice of deficiency.  Failure of the 
+Interconnection Customer to timely provide information and/or monies identified 
+in the deficiency notice shall result in the Surplus Interconnection Request being 
+terminated and withdrawn.  The Surplus Interconnection Service Request shall be 
+considered valid as of the date and time the Transmission Provider receives from 
+the Interconnection Customer the last piece of required information and/or monies 
+deemed acceptable by the Transmission Provider to clear such deficiency notice. 
+ 
+36.1.2 No Applicability to Transmission Service: 
+ 
+Nothing in this Tariff, Part IV shall constitute a request for transmission service, or confer upon 
+an Interconnection Customer any right to receive transmission service, under Tariff, Part II or 
+Tariff, Part III. 
+   
+36.1.3 [Reserved] 
+ 
+36.1.4 [Reserved] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 22 
+ 
+36.1.5 Scoping Meeting: 
+ 
+After a valid Interconnection Request has been established, the Transmission Provider shall 
+provide each Interconnection Customer with an opportunity for a scoping meeting among the 
+Transmission Provider, the prospective Interconnected Transmission Owner and the 
+Interconnection Customer.  The purpose of the scoping meeting will be to identify one 
+alternative Point(s) of Interconnection and configurations to evaluate in the Interconnection 
+Studies and to attempt to select the best alternatives in a reasonable fashion given resources and 
+information available.  The Interconnection Customer may select a maximum of two Point(s) of 
+Interconnection to be studied during the Interconnection Feasibility Study, a primary and 
+secondary Point of Interconnection may be selected by the Interconnection Customer.  After 
+establishing a valid Interconnection Request, Transmission Provider shall offer to arrange, within 
+seven Business Days of establishing such valid Interconnection Request, for the scoping 
+meeting, and shall provide a minimum of three suggested meeting dates and times for the 
+scoping meeting.  The scoping meeting shall be held, or waived by mutual agreement of the 
+parties within 45 days after establishment of a valid Interconnection Request if the valid 
+Interconnection Request is established in the first four calendar months of the current New 
+Services Queue; or within 30 days if the valid Interconnection Request is established within the 
+fifth calendar month of the current New Services Queue; or in 20 days if the valid 
+Interconnection Request is established in the sixth calendar month of the date of the beginning of 
+the current New Services Queue.  The Interconnection Customer may choose to divide the 
+scoping meeting into two sessions, one between the Transmission Provider and Interconnection 
+Customer and one among Transmission Provider, the Interconnection Customer and the 
+prospective Interconnected Transmission Owner.  Such meetings may be held consecutively on 
+the same day.  Scoping meetings may be held in person or by telephone or video conference.  In 
+the event the Interconnection Customer fails to waive or complete the scoping meeting 
+requirement, its Interconnection Request shall be deemed to be terminated and withdrawn. 
+ 
+36.1.6 Coordination with Affected Systems: 
+ 
+The Transmission Provider will coordinate with Affected System Operators the conduct of any 
+required studies in accordance with Tariff, Part VI, Subpart A, section 202.  
+ 
+36.1.7 Base Case Data: 
+ 
+Transmission Provider shall maintain base case power flow, short circuit and stability databases, 
+including all underlying assumptions, and contingency list on a password-protected website, 
+subject to the confidentiality provisions of Tariff, Part VI, Subpart B, section 223.  In addition, 
+Transmission Provider shall maintain base case power flows and underlying assumptions on a 
+password-protected website.  Such base case power flows and underlying assumptions should 
+reasonably represent those used during the most recent interconnection study.  Transmission 
+Provider may require Interconnection Customers and password-protected website users to sign 
+any required confidentiality agreement(s) before the release of commercially sensitive 
+information or Critical Energy Infrastructure Information in the Base Case data.  Such databases 
+and lists, hereinafter referred to as Base Cases, shall include all (i) generation projects and (ii) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1 
+General 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 23 
+transmission projects, including merchant transmission projects, that are included in the then-
+current, approved Regional Transmission Expansion Plan. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1A 
+Behind The Meter Generation: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+36.1A Behind The Meter Generation: 
+ 
+The following provisions shall apply with respect to Behind The Meter Generation: 
+ 
+36.1A.1 Generation Interconnection Requests: 
+ 
+Any Behind The Meter Generation that desires to be designated, in whole or in part, as a 
+Capacity Resource or Energy Resource must submit a Generation Interconnection Request. 
+ 
+36.1A.2 Information Required in Generation Interconnection Requests: 
+ 
+In addition to the information described in Tariff, Part IV, Subpart A, section 36.1, a Generation 
+Interconnection Request for Behind The Meter Generation shall include (1) the type and size of 
+the load located (or to be located) at the site of such generation; (2) a description of the electrical 
+connections between the generation facility and the load; and (3) the amount of the facility’s 
+generating capacity for which the customer seeks Capacity Interconnection Rights or that will be 
+an Energy Resource.  The amount of capacity included in the election pursuant to section (3) of 
+the preceding sentence may be reduced, but shall not be increased, during the interconnection 
+study process in accordance with any rules and procedures stated in the PJM Manuals. 
+ 
+36.1A.3 Small Generation Classification: 
+ 
+The amount of generating capacity of Behind The Meter Generation that the Generation 
+Interconnection Customer identifies in its Generation Interconnection Request as the capacity 
+that it wishes to be a Capacity Resource or Energy Resource shall determine whether Subpart A 
+or Subpart G of Part IV will apply to such Generation Interconnection Request. 
+ 
+36.1A.4 Transmission Provider Determination: 
+ 
+Prior to commencing any Interconnection Studies related to a Generation Interconnection 
+Request involving facilities described as Behind The Meter Generation, Transmission Provider 
+shall determine, based on the information included in the Generation Interconnection Request 
+and any other information requested and obtained from the Generation Interconnection 
+Customer, whether the Generating Facility or expansion involved in the Generation 
+Interconnection Request appears to meet the definition of Behind The Meter Generation in the 
+Tariff. In the event that Transmission Provider finds that the subject project does not meet the 
+definition of Behind The Meter Generation, it shall so notify the Generation Interconnection 
+Customer and, for all purposes of Tariff, Part IV and Tariff, Part VI, shall thereafter deem the 
+customer’s Generation Interconnection Request to include the full generating capacity of the 
+facility or expansion to which the request relates. 
+ 
+36.1A.5 Treatment As Energy Resource:  
+ 
+Any portion of the capacity of Behind The Meter Generation that a Generation Interconnection 
+Customer identifies in its Generation Interconnection Request as capacity that it seeks to utilize, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.1A 
+Behind The Meter Generation: 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+directly or indirectly, in Wholesale Transactions, but for which the customer does not seek 
+Capacity Resource status, shall be deemed to be an Energy Resource. 
+ 
+36.1A.6 Operation as Capacity Resource:   
+ 
+To the extent that a Generation Interconnection Customer that owns or operates generation 
+facilities that otherwise would be classified as Behind The Meter Generation elects to operate 
+such facilities as a Capacity Resource, the provisions of the Tariff regarding Behind The Meter 
+Generation shall not apply to such generation facilities for the period such election is in effect. 
+ 
+36.1A.7 Other Requirements:  
+ 
+Behind The Meter Generation for which a Generation Interconnection Request is not required 
+under Tariff, Part IV may be subject to other interconnection-related requirements of a 
+Transmission Owner or Electric Distributor with which the generation facility will be 
+interconnected. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.2 
+Interconnection Feasibility Study 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+36.2 Interconnection Feasibility Study:   
+ 
+After receiving an Interconnection Request, a signed Generation Interconnection Feasibility 
+Study Agreement or Transmission Interconnection Feasibility Study Agreement, as applicable, 
+and the applicable deposit contained in Tariff, Part IV, Subpart A, sections 36.1.01 and 36.1.03, 
+and Tariff, Part IV, Subpart G, sections 110.1, 111.1, and  112.1 from the Interconnection 
+Customer, and, if applicable, subject to the terms of Tariff, Part IV, Subpart A, section 36.1A.5, 
+the Transmission Provider shall conduct an Interconnection Feasibility Study to make a 
+preliminary determination of the type and scope of Attachment Facilities, Local Upgrades, and 
+Network Upgrades that will be necessary to accommodate the Interconnection Request and to 
+provide the Interconnection Customer a preliminary estimate of the time that will be required to 
+construct any necessary facilities and upgrades and the Interconnection Customer’s cost 
+responsibility, estimated consistent with Tariff, Part VI, Subpart B, section 217.  The 
+Interconnection Feasibility Study assesses the practicality and cost of accommodating 
+interconnection of the generating unit or increased generating capacity with the Transmission 
+System.  The analysis is limited to load-flow analysis of probable contingencies and, for 
+Generation Interconnection Requests, short-circuit studies.  This study also focuses on 
+determining preliminary estimates of the type, scope, cost and lead time for construction of 
+facilities required to interconnect the project.  For a Generation Interconnection Customer, the 
+Interconnection Feasibility Study may provide separate estimates of necessary facilities and 
+upgrades and associated cost responsibility reflecting the Generating Facility being designated as 
+either a Capacity Resource or an Energy Resource.  Transmission Provider shall study the 
+Interconnection Request at the level of service requested by the Interconnection Customer, 
+unless otherwise required to study the full electrical generating capability of the Generating 
+Facility due to safety or reliability concerns.  For purposes of determining necessary 
+interconnection facilities and network upgrades, the Feasibility Study shall consider the level of 
+Interconnection Service requested by the Interconnection Customer, unless otherwise required to 
+study the full electrical generating capability of the Generating Facility due to safety or reliability 
+concerns.  The study for the primary Point of Interconnection will be conducted as a cluster, 
+within the project’s New Services Queue.  The study for the secondary Point of Interconnection 
+will be conducted as a sensitivity analysis.  The Transmission Provider shall provide a copy of 
+the Interconnection Feasibility Study and, to the extent consistent with the Office of the 
+Interconnection’s confidentiality obligations in Operating Agreement, section 18.17, related 
+work papers to the Interconnection Customer and the affected Transmission Owner(s).  Upon 
+completion, the Transmission Provider shall list the study and the date of the Interconnection 
+Request to which it pertains on the Transmission Provider’s website.  To the extent required by 
+Commission regulations, the Transmission Provider shall make the completed Interconnection 
+Feasibility Study publicly available upon request, except that the identity of the Interconnection 
+Customer shall remain confidential.  The Transmission Provider shall conduct Interconnection 
+Feasibility Studies two times each year.   
+ 
+The following applies to Interconnection Requests received on or before October 31, 2016: 
+ 
+For Interconnection Requests received during the six-month period ending October 31, the 
+Transmission Provider shall use due diligence to complete Interconnection Feasibility Studies by 
+the last day of February.  For Interconnection Requests received during the six-month period 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart A – INTERCONNECTION PROCEDURES --> OATT 36 Interconnection Requests --> OATT 36.2 
+Interconnection Feasibility Study 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+ending April 30 the Transmission Provider shall use due diligence to complete Interconnection 
+Feasibility Studies by August 31.  Following the closure of an interconnection queue on October 
+31 and April 30, the Transmission Provider will utilize the following one month period to 
+conduct any remaining scoping meetings and assemble the necessary analysis models so as to 
+initiate the performance of the Interconnection Feasibility Studies on December 1 and June 1, 
+respectively.  In the event that the Transmission Provider is unable to complete an 
+Interconnection Feasibility Study within such time period, it shall so notify the affected 
+Interconnection Customer and the affected Transmission Owner(s) and provide an estimated 
+completion date along with an explanation of the reasons why additional time is needed to 
+complete the study. 
+ 
+The following applies to Interconnection Requests received between November 1, 2016 and 
+March 31, 2017: 
+ 
+For Interconnection Requests received during the five-month period ending March 31, the 
+Transmission Provider shall use due diligence to complete Interconnection Feasibility Studies by 
+July 31.  Following the closure of the relevant New Services Queue on March 31, the 
+Transmission Provider will utilize the following one month period to conduct any remaining 
+scoping meetings and assemble the necessary analysis models so as to initiate the performance of 

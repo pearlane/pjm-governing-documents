@@ -1,0 +1,189 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 1 
+SCHEDULE 8 
+ 
+DETERMINATION OF UNFORCED CAPACITY OBLIGATIONS 
+ 
+A. For each billing month during a Delivery Year, the Daily Unforced Capacity 
+Obligation of a Party that has not elected the FRR Alternative for such Delivery 
+Year shall be determined on a daily basis for each Zone as follows: 
+ 
+ Daily Unforced Capacity Obligation = OPL x Final Zonal RPM Scaling Factor x 
+FPR 
+ 
+ Where: 
+ 
+OPL  = Obligation Peak Load, defined as the daily summation of the weather-
+adjusted coincident summer peak, last preceding the Delivery Year, of the 
+end-users in such Zone (net of operating Behind The Meter Generation, but 
+not to be less than zero) for which such Party was responsible on that billing 
+day, as determined in accordance with the procedures set forth in the PJM 
+Manuals, and as adjusted further to include the Obligation Peak Load 
+associated with any Load Adjustment that may be allocated to the Party  
+ 
+Final Zonal RPM Scaling Factor = the factor determined as set forth in sections 
+B and C of this Schedule 
+ 
+FPR   = the Forecast Pool Requirement 
+ 
+Netting of Behind the Meter Generation for a Party with regard to Non-Retail Behind the 
+Meter Generation shall be subject to the following limitation: 
+ 
+For the 2006/2007 Planning Period, 100 percent of the operating Non-Retail Behind the 
+Meter Generation shall be netted, provided that the total amount of Non-Retail 
+Behind the Meter Generation in the PJM Region does not exceed 1500 megawatts 
+(“Non-Retail Threshold”).  For each Planning Period/Delivery Year thereafter, the 
+Non-Retail threshold shall be proportionately increased based on load growth in the 
+PJM Region but shall not be greater than 3000 megawatts.  Load growth shall be 
+determined by the Office of the Interconnection based on the most recent forecasted 
+weather-adjusted coincident summer peak for the PJM Region divided by the 
+weather-adjusted coincident peak for the previous summer for the same area.  After 
+the load growth factor is applied, the Non-Retail Threshold will be rounded up or 
+down to the nearest whole megawatt and the rounded number shall be the Non-
+Retail Threshold for the current Planning Period and the base amount for 
+calculating the Non-Retail Threshold for the succeeding planning period.  If the 
+Non-Retail Threshold is exceeded, the amount of operating Non-Retail Behind the 
+Meter Generation that a Party may net shall be adjusted according to the following 
+formula: 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 2 
+Party Netting Credit = (NRT/ PJM NRBTMG) * Party Operating NRBTMG 
+ 
+Where:  NRBTMG is Non-Retail Behind the Meter Generation 
+ 
+ NRT is the Non-Retail Threshold 
+ 
+ PJM NRBTMG is the total amount of Non-Retail Behind the Meter Generation in 
+the PJM Region 
+ 
+The total amount of Non-Retail Behind the Meter Generation that is eligible for netting in 
+the PJM Region is 3000 megawatts.  Once this 3000 megawatt limit is reached, any 
+additional Non-Retail Behind the Meter Generation which operates in the PJM 
+Region will be ineligible for netting under this section. 
+ 
+In addition, the Party NRBTMG Netting Credit shall be adjusted pursuant to Schedule 16 
+of this Agreement, if applicable. 
+ 
+A Party shall be required to report to PJM such information as is required to facilitate the 
+determination of its NRBTMG Netting Credit in accordance with the procedures 
+set forth in the PJM Manuals.    
+ 
+B. Following the Base Residual Auction for a Delivery Year, the Office of the 
+Interconnection shall determine the Base Zonal RPM Scaling Factor and the Base 
+Zonal Unforced Capacity Obligation for each Zone for such Delivery Year as 
+follows: 
+ 
+ 
+Base Zonal Unforced Capacity Obligation = (ZPLDY/RPLDY) * RUCO  
+ 
+ and 
+ 
+ Base Zonal RPM Scaling Factor  = Base Zonal Unforced Capacity Obligation / 
+(Adjusted ZWNSP * FPR) 
+ 
+Where: 
+ 
+ ZPLDY = Preliminary Zonal Peak Load Forecast for such Delivery Year 
+ 
+ RPLDY = RTO Preliminary Peak Load Forecast for such Delivery Year,  
+ 
+ RUCO = the RTO Unforced Capacity Obligation satisfied in the Base Residual 
+Auction for such Delivery Year,  
+ 
+ FPR – the Forecast Pool Requirement, and,  
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 3 
+Adjusted ZWNSP = Adjusted Zonal Weather Normalized Summer Peak = ZWNSP 
++ [ZLA * (ZWNSP / (ZPLDY - ZLA))] 
+ 
+Where: 
+ 
+ ZWNSP = Zonal Weather-Normalized Summer Peak for the summer season 
+concluding four years prior to the commencement of such Delivery Year, and,  
+ 
+ ZLA = the total zonal MW quantity of Load Adjustment for such Delivery Year. 
+ 
+ For purposes of such determination, PJM shall determine the Preliminary RTO 
+Peak Load Forecast, and the Preliminary Zonal Peak Load Forecasts for each Zone, 
+in accordance with the PJM Manuals for each Delivery Year no later than one 
+month prior to the Base Residual Auction for such Delivery Year.  PJM shall 
+determine the Updated  RTO and Zonal Peak Load Forecasts in accordance with 
+the PJM Manuals for each Delivery Year no later than one month prior to each of 
+the First, Second, and Third Incremental Auctions for such Delivery Year.  PJM 
+shall determine the most recent Weather Normalized Summer Peak for each Zone 
+no later than seven months prior to the start of the Delivery Year, and shall calculate 
+the RTO Weather Normalized Summer Peak as the sum of the Weather Normalized 
+Summer Peaks for all Zones.  In addition, for each Zone, PJM shall determine, as 
+applicable, the Adjusted Zonal Weather Normalized Summer Peak as set forth in 
+Section B of this Schedule, where the Obligation Peak Load associated with such 
+Load Adjustment is included.  The Obligation Peak Load associated with such Load 
+Adjustment MW will be calculated for each “zone/area” as determined by: 
+ 
+ LAOPL = the Obligation Peak Load associated with the total MW quantity of Load 
+Adjustment of a Zone or separate wholesale area within the zone for such Delivery 
+Year = LAMW * (ZWNSP / (ZPLDY - ZLA)) 
+ 
+ Where: 
+ 
+ LAMW = the total MW quantity of Load Adjustment of a Zone or of a separate 
+wholesale area within the Zone for the relevant Delivery Year,  
+ 
+ ZWNSP = Zonal Weather-Normalized Summer Peak from most recent summer 
+season,  
+ 
+ ZPLDY = Zonal Peak Load Forecast for such Delivery Year, and,  
+ 
+ ZLA = the total zonal MW quantity of Load Adjustment for such Delivery Year. 
+ 
+ C. This subsection C is effective through the end of the 2024/2025 Delivery Year.  The 
+Final RTO Unforced Capacity Obligation for a Delivery Year shall be equal to the 
+sum of the unforced capacity obligations satisfied through the Base Residual 
+Auction and the First, Second, Third, and any Conditional Incremental Auctions 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 4 
+for such Delivery Year.  The unforced capacity obligation satisfied in an 
+Incremental Auction may be negative if capacity is decommitted in such auction.  
+The Final Zonal Unforced Capacity Obligation for a Zone shall be equal to such 
+Zone’s pro rata share of the Final RTO Unforced Capacity Obligation for the 
+Delivery Year based on the Final Zonal Peak Load Forecast made one month prior 
+to the Third Incremental Auction.  The Final Zonal RPM Scaling Factor shall be 
+equal to the Final Zonal Unforced Capacity Obligation divided by (FPR times the 
+Zonal Weather Normalized Summer Peak for the summer concluding prior to the 
+commencement of such Delivery Year). 
+ 
+C1. This subsection C1 is effective beginning with the 2025/2026 Delivery Year.  The 
+Final RTO Unforced Capacity Obligation for a Delivery Year shall be equal to the 
+sum of the unforced capacity obligations satisfied through the Base Residual 
+Auction and the First, Second, Third, and any Conditional Incremental Auctions 
+for such Delivery Year.  The unforced capacity obligation satisfied in an 
+Incremental Auction may be negative if capacity is de-committed in such auction.  
+The Final Zonal Unforced Capacity Obligation for a Zone shall be equal to such 
+Zone’s pro rata share of the Final RTO Unforced Capacity Obligation for the 
+Delivery Year based on the Final Zonal Peak Load Forecast made one month prior 
+to the Third Incremental Auction.  The Final Zonal RPM Scaling Factor shall be 
+equal to the Final Zonal Unforced Capacity Obligation divided by (FPR times the 
+Adjusted Zonal Weather Normalized Summer Peak of such Delivery Year). 
+ 
+D. 1. No later than five months prior to the start of each Delivery Year, the 
+Electric Distributor for a Zone shall allocate the most recent Zonal Weather 
+Normalized Summer Peak for such Zone to each “zone/area” in the Zone to 
+determine the Obligation Peak Load for each “zone/area” in such Zone. 
+ 
+2. During the Delivery Year, no later than 36 hours prior to the start of each Operating 
+Day, the Electric Distributor shall provide to PJM for each Party to this Agreement 
+serving load in such Electric Distributor’s Zone the Obligation Peak Load for all 
+end-use customers served by such Party in such Zone.  The Electric Distributor may 
+submit corrections to the Obligation Peak Load data up to 12:00PM Eastern 
+Prevailing Time of the next Business Day following the Operating Day. 
+ 
+3. For purposes of such allocations, the daily sum of the Obligation Peak Loads of all 
+Parties serving load in a given “zone/area” within the Zone must equal the 
+Obligation Peak Load established for that “zone/area,” including any Load 
+Adjustment MW, determined as set forth in section B above. 
+ 
+

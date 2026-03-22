@@ -1,0 +1,199 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.D-FRR Capacity 
+Plans 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 1 
+D. FRR Capacity Plans 
+ 
+1. Each FRR Entity shall submit its initial FRR Capacity Plan as required by subsection C.1 
+of this Schedule, and shall annually extend and update such plan by no later than one month prior 
+to the Base Residual Auction for each succeeding Delivery Year in such plan.  Each FRR 
+Capacity Plan shall indicate the nature and current status of each resource, including the status of 
+each Planned Generation Capacity Resource or Planned Demand Resource, the planned 
+deactivation or retirement of any Generation Capacity Resource or Demand Resource, and the 
+status of commitments for each sale or purchase of capacity included in such plan. 
+ 
+1.1 Beginning with the 2020/2021 Delivery Year and for all subsequent Delivery Years, the 
+FRR Capacity Plan shall comprise only Capacity Performance Resources and Seasonal Capacity 
+Performance Resources.   
+ 
+2. The FRR Capacity Plan of each FRR Entity that commits that it will not sell surplus 
+Capacity Resources as a Capacity Market Seller in any auction conducted under Attachment DD 
+of the PJM Tariff, or to any direct or indirect purchaser that uses such resource as the basis of 
+any Sell Offer in such auction, shall designate Capacity Resources in a megawatt quantity no less 
+than the Forecast Pool Requirement for each applicable Delivery Year times the FRR Entity’s 
+allocated share of the Preliminary Zonal Peak Load Forecast for such Delivery Year, as 
+determined in accordance with procedures set forth in the PJM Manuals.  If the FRR Entity is not 
+responsible for all load within a Zone, the Preliminary Forecast Peak Load for such entity shall 
+be the Base Zonal FRR Scaling Factor times the summation of the FRR Entity’s MW share of 
+the Zonal Weather Normalized Summer Peak last determined prior to the Base Residual Auction 
+for such Delivery Year plus the Obligation Peak Load MW associated with any Load Adjustment 
+specified for such Delivery Year for any “zone/area” served by the FRR Entity’s Capacity Plan.  
+The Obligation Peak Load MW associated with a Load Adjustment specified for a “zonal/area” 
+is determined as set forth in RAA, Schedule 8, section B. 
+ 
+The FRR Capacity Plan of each FRR Entity that does not commit that it will not sell surplus 
+Capacity Resources as set forth above shall designate Capacity Resources at least equal to the 
+Threshold Quantity.  To the extent the FRR Entity’s allocated share of the Final Zonal Peak 
+Load Forecast exceeds the FRR Entity’s allocated share of the Preliminary Zonal Peak Load 
+Forecast, such FRR Entity’s FRR Capacity Plan shall be updated to designate additional 
+Capacity Resources in an amount no less than the Forecast Pool Requirement times such 
+increase; provided, however, any excess megawatts of Capacity Resources included in such FRR 
+Entity’s previously designated Threshold Quantity, if any, may be used to satisfy the capacity 
+obligation for such increased load.  To the extent the FRR Entity’s allocated share of the Final 
+Zonal Peak Load Forecast is less than the FRR Entity’s allocated share of the Preliminary Zonal 
+Peak Load Forecast, such FRR Entity’s FRR Capacity Plan may be updated to release previously 
+designated Capacity Resources in an amount no greater than the Forecast Pool Requirement 
+times such decrease.  Peak load values referenced in this section shall be adjusted as necessary to 
+take into account any applicable Nominal PRD Values approved pursuant to Schedule 6.1 of this 
+Agreement.  Any FRR Entity seeking an adjustment to peak load for Price Responsive Demand 
+must submit a separate PRD Plan in compliance with Section 6.1 (provided that the FRR Entity 
+shall not specify any PRD Reservation Price), and shall register all PRD-eligible load needed to 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.D-FRR Capacity 
+Plans 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 2 
+satisfy its PRD commitment and be subject to compliance charges as set forth in that Schedule 
+under the circumstances specified therein; provided that for non-compliance by an FRR Entity, 
+the compliance charge rate shall be equal to 1.20 times the Capacity Resource Clearing Price 
+resulting from all RPM Auctions for such Delivery Year for the LDA encompassing the FRR 
+Entity’s Zone, weight-averaged for the Delivery Year based on the prices established and 
+quantities cleared in the RPM auctions for such Delivery Year; and provided further that an 
+alternative PRD Provider may provide PRD in an FRR Service Area by agreement with the FRR 
+Entity responsible for the load in such FRR Service Area, subject to the same terms and 
+conditions as if the FRR Entity had provided the PRD. 
+ 
+3. As to any FRR Entity, the Base Zonal FRR Scaling Factor for each Zone in which it 
+serves load for a Delivery Year shall equal [(ZPLDY-ZLA) / ZWNSP], where: 
+ 
+ZPLDY = Preliminary Zonal Peak Load Forecast for such Zone for such Delivery Year;  
+ 
+ZLA = the Zonal MW quantity of Load Adjustment for such Delivery Year; and  
+ 
+ZWNSP = Zonal Weather-Normalized Summer Peak Load for such Zone for the summer 
+concluding four years prior to the commencement of such Delivery Year. 
+ 
+4. Capacity Resources identified and committed in an FRR Capacity Plan shall meet all 
+requirements under this Agreement, the PJM Tariff, and the PJM Operating Agreement 
+applicable to Capacity Resources, including, as applicable, requirements and milestones for 
+Planned Generation Capacity Resources and Planned Demand Resources.  A Capacity Resource 
+submitted in an FRR Capacity Plan must be on a unit-specific basis, and may not include “slice 
+of system” or similar agreements that are not unit specific.  An FRR Capacity Plan may include 
+bilateral transactions that commit capacity for less than a full Delivery Year only if the resources 
+included in such plan in the aggregate satisfy all obligations for all Delivery Years.  All demand 
+response, load management, energy efficiency, or similar programs on which such FRR Entity 
+intends to rely for a Delivery Year must be included in the FRR Capacity Plan, subject to 
+applicable demand resource constraints for the relevant Delivery Year, submitted three years in 
+advance of such Delivery Year and must satisfy all requirements applicable to Demand 
+Resources or Energy Efficiency Resources, as applicable, including, without limitation, those set 
+forth in Schedule 6 to this Agreement and the PJM Manuals; provided, however, that previously 
+uncommitted Unforced Capacity from such programs may be used to satisfy any increased 
+capacity obligation for such FRR Entity resulting from a Final Zonal Peak Load Forecast 
+applicable to such FRR Entity.  Without limiting the generality of the foregoing, the FRR Entity 
+must submit a Demand Resource Sell Offer Plan 15 business days before the deadline for 
+submitting an FRR Capacity Plan as to any Demand Resources it intends to include in such FRR 
+Capacity Plan and may only include in such FRR Capacity Plan Demand Resources that are 
+approved by PJM following review of such Demand Resource Sell Offer Plan.  The 
+requirements, standards, and procedures for a Demand Resource Sell Offer Plan shall be as set 
+forth in Schedule 6 of this Agreement, provided that all references (including deadlines) in 
+Schedule 6, section A-1 to submission or clearing of a Demand Resource offer in an RPM 
+Auction shall be understood for purposes of FRR Entities as referring to inclusion of a Demand 
+Resource in an FRR Capacity Plan, and a distinct Demand Resource Officer Certification Form 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.D-FRR Capacity 
+Plans 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 3 
+shall be applicable to FRR Entities, as shown in the PJM Manuals and provided on the PJM 
+website. 
+ 
+5. For each LDA for which the Office of the Interconnection is required to establish a 
+separate Variable Resource Requirement Curve for any Delivery Year addressed by such FRR 
+Capacity Plan, the plan must include a Percentage Internal Resources Required, subject to 
+subsections D.1.1 and D.2 of this Schedule.  The Percentage Internal Resources Required will be 
+calculated as the LDA Reliability Requirement less the CETL for the Delivery Year, as 
+determined by the RTEP process as set forth in the PJM Manuals.  Such requirement shall be 
+expressed as a percentage of the Unforced Capacity Obligation based on the Preliminary Zonal 
+Peak Load Forecast multiplied by the Forecast Pool Requirement.  Notwithstanding the 
+provisions of Sections C.1 and C.2 of this Schedule 8.1, an FRR Entity may terminate its 
+election of the FRR Alternative prior to meeting its minimum five year commitment 
+without penalty for any Delivery Year after the first Delivery Year of its minimum five 
+year FRR commitment for which the Office of the Interconnection will be required to 
+establish a separate Variable Resource Requirement Curve by giving written notice two 
+months prior to the Base Residual Auction for the Delivery Year. The Office of the 
+Interconnection shall be deemed to be required to establish a separate Variable Resource 
+Requirement Curve for an LDA if the LDA is the Eastern Mid-Atlantic Region 
+(“EMAR”), Southwest Mid-Atlantic Region (“SWMAR”), or Mid-Atlantic Region 
+(“MAR”), or for other LDAs if the separate modeling is required by Section 
+5.10(a)(ii)(A) or (B) of Attachment DD of the Tariff. 
+ 
+6. An FRR Entity may reduce the Percentage Internal Resources Required as to any LDA to 
+the extent the FRR Entity commits to a transmission upgrade that increases the CETL for such 
+LDA.  Any such transmission upgrade shall adhere to all requirements for a Qualified 
+Transmission Upgrade as set forth in Attachment DD to the PJM Tariff.  The increase in CETL 
+used in the FRR Capacity Plan shall be that approved by PJM prior to inclusion of any such 
+upgrade in an FRR Capacity Plan.  The FRR Entity shall designate specific additional Capacity 
+Resources located in the LDA from which the CETL was increased, to the extent of such 
+increase. 
+ 
+7. The Office of the Interconnection will review the adequacy of all submittals hereunder 
+both as to timing and content.  A Party that seeks to elect the FRR Alternative that submits an 
+FRR Capacity Plan which, upon review by the Office of the Interconnection, is determined not to 
+satisfy such Party’s capacity obligations hereunder, shall not be permitted to elect the FRR 
+Alternative.  If a previously approved FRR Entity submits an FRR Capacity Plan that, upon 
+review by the Office of the Interconnection, is determined not to satisfy such Party’s capacity 
+obligations hereunder, the Office of the Interconnection shall notify the FRR Entity, in writing, 
+of the insufficiency within five (5) business days after the submittal deadline of the FRR 
+Capacity Plan.  Through the 2024/2025 Delivery Year, if the FRR Entity does not cure such 
+insufficiency within five (5) business days after receiving such notice of insufficiency, then such 
+FRR Entity shall be assessed an FRR Commitment Insufficiency Charge, in an amount equal to 
+two times the Cost of New Entry for the relevant location, in $/MW-day, times the shortfall of 
+Capacity Resources below the FRR Entity’s capacity obligation (including any Threshold 
+Quantity requirement) in such FRR Capacity Plan, for the remaining term of such plan. For 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.D-FRR Capacity 
+Plans 
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 4 
+Delivery Years between the 2025/2026 Delivery Year through the 2028/2029 Delivery Year, no 
+FRR Commitment Insufficiency Charge shall be assessed. Effective with the 2029/2030 Delivery 
+Year and subsequent Delivery Years, if the FRR Entity does not cure such insufficiency within 
+five (5) business days after receiving such notice of insufficiency, then such FRR Entity shall be 
+assessed an FRR Commitment Insufficiency Charge, in an amount equal to the price level 
+corresponding to point (1) of the Variable Resource Requirement curve, as provided in Tariff, 
+Attachment DD, section 5.10(a)(i), for the relevant Locational Deliverability Area, in $/MW-
+day, times the shortfall of Capacity Resources below the FRR Entity’s capacity obligation 
+(including any Threshold Quantity requirement) in such FRR Capacity Plan, for such Delivery 
+Year.  
+ 
+8. In a state regulatory jurisdiction that has implemented retail choice, the FRR Entity must 
+include in its FRR Capacity Plan all load, including expected load growth, in the FRR Service 
+Area, notwithstanding the loss of any such load to or among alternative retail LSEs.  In the case 
+of load reflected in the FRR Capacity Plan that switches to an alternative retail LSE, where the 
+state regulatory jurisdiction requires switching customers or the LSE to compensate the FRR 
+Entity for its FRR capacity obligations, such state compensation mechanism will prevail.  In the 
+absence of a state compensation mechanism, the applicable alternative retail LSE shall 
+compensate the FRR Entity at the capacity price in the unconstrained portions of the PJM 
+Region, as determined in accordance with Attachment DD to the PJM Tariff, provided that the 
+FRR Entity may, at any time, make a filing with FERC under Sections 205 of the Federal Power 
+Act proposing to change the basis for compensation to a method based on the FRR Entity's cost 
+or such other basis shown to be just and reasonable, and a retail LSE may at any time exercise its 
+rights under Section 206 of the FPA. 
+ 
+9. Notwithstanding the foregoing, in lieu of providing the compensation described above, 
+such alternative retail LSE may, for any Delivery Year subsequent to those addressed in the FRR 
+Entity’s then-current FRR Capacity Plan, provide to the FRR Entity Capacity Resources 
+sufficient to meet the capacity obligation described in paragraph D.2 for the switched load. Such 
+Capacity Resources shall meet all requirements applicable to Capacity Resources pursuant to this 
+Agreement, the PJM Tariff, and the PJM Operating Agreement, all requirements applicable to 
+resources committed to an FRR Capacity Plan under this Agreement, and shall be committed to 
+service to the switched load under the FRR Capacity Plan of such FRR Entity.  The alternative 
+retail LSE shall provide the FRR Entity all information needed to fulfill these requirements and 
+permit the resource to be included in the FRR Capacity Plan.  The alternative retail LSE, rather 
+than the FRR Entity, shall be responsible for any performance charges or compliance penalties 
+related to the performance of the resources committed by such LSE to the switched load.  For 
+any Delivery Year, or portion thereof, the foregoing obligations apply to the alternative retail 
+LSE serving the load during such time period.  PJM shall manage the transfer accounting 
+associated with such compensation and shall administer the collection and payment of amounts 
+pursuant to the compensation mechanism.  
+ 
+Such load shall remain under the FRR Capacity Plan until the effective date of any termination 
+of the FRR Alternative and, for such period, shall not be subject to Locational Reliability 
+Charges under Section 7.2 of this Agreement. 
+

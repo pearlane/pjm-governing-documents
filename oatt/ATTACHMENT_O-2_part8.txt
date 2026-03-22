@@ -1,0 +1,1481 @@
+[ATTACHMENT O-2 - Part 8 of 22]
+
+Office of the Interconnection must use Seasonal Facility Ratings as the relevant 
+Transmission Facility Ratings.  
+ 
+The Office of the Interconnection must use Seasonal Facility Ratings as the relevant 
+Transmission Facility Ratings when evaluating requests for and whether to curtail, 
+interrupt, or redispatch any Transmission Service not otherwise covered above in this 
+section (including, but not limited to, requests for non-Near-Term Transmission Service 
+or requests to designate or change the designation of Network Resources or Network 
+Load), when developing any ATC or other information posted or provided to potential 
+customers related to such services.  The Office of the Interconnection must use Seasonal 
+Facility Ratings as a recourse rating in the event that an AAR otherwise required to be 
+used under this Attachment is unavailable.   
+ 
+The Office of the Interconnection must use uniquely determined Emergency Ratings for 
+contingency analysis in the operations horizon and in post-contingency simulations of 
+constraints.  Such uniquely determined Emergency Ratings must also include separate 
+AAR for each Emergency Rating duration used.   
+ 
+Any forecasts of ambient air temperature for AARs and Seasonal Facility Ratings 
+developed by the Office of the Interconnection or the Transmission Owner must be 
+developed consistent with Good Utility Practice and on a non-discriminatory basis. 
+ 
+Postings to the Office of the Interconnection’s OASIS or another password-protected 
+website:  The Office of the Interconnection must maintain on the password-protected 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT W - Transmission Facility Ratings 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 3 
+section of its OASIS page or on another password-protected website a database of 
+Transmission Facility Ratings and Transmission Facility Rating methodologies.  This 
+database must be accessible to the Market Monitoring Unit.  The database must include 
+a full record of all Transmission Facility Ratings, both as used in real-time operations, 
+and as used for all future periods for which Transmission Service is offered.  Any 
+postings of temporary alternate Transmission Facility Ratings or exceptions used under 
+the System Reliability section above or the Exceptions section below, respectively, are 
+considered part of the database.  The database must include records of which 
+Transmission Facility Ratings and Transmission Facility Rating methodologies were in 
+effect at which times over at least the previous five years, including records of which 
+temporary alternate Transmission Facility Ratings or exceptions were in effect at which 
+times during the previous five years.  Each record in the database must indicate which 
+Transmission Facility the record applies to, and the date and time the record was entered 
+into the database.  The database must be maintained such that users with OASIS access 
+or access to the password-protected website can view, download, and query data in 
+standard formats, using standard protocols.   
+ 
+Sharing with Transmission Providers:  The Office of the Interconnection must share, 
+upon request by any Transmission Provider and in a timely manner, the following 
+information:  
+ 
+(1) Transmission Facility Ratings for each period for which Transmission 
+Facility Ratings are evaluated, with updated ratings shared each time 
+Transmission Facility Ratings are evaluated, and 
+ 
+(2) Written Transmission Facility Rating methodologies used in arriving at the 
+Transmission Facility Ratings in (1) above. 
+AAR Exceptions:  
+  
+Where the Transmission Owner determines, consistent with Good Utility Practice, that 
+the Transmission Facility Rating of a Transmission Facility is not affected by ambient air 
+temperature or solar heating, the Office of the Interconnection and Transmission Owner 
+may use a Transmission Facility Rating for that Transmission Facility that is not an AAR 
+or Seasonal Transmission Facility Rating, including consideration for the technical 
+limitations of the transmission system (such as system voltage or stability limits).  
+Examples of such a Transmission Facility may include (but are not limited to):  (1) a 
+Transmission Facility for which the technical transfer capability of the limiting 
+conductors and/or limiting transmission equipment is not dependent on ambient air 
+temperature or solar heating; or (2) a Transmission Facility whose transfer capability is 
+limited by a Transmission System limit (such as a system voltage or stability limit) which 
+is not dependent on ambient air temperature or solar heating.  The entity that makes this 
+determination must document in the Office of the Interconnection’s database of 
+Transmission Facility Ratings and Transmission Facility Rating methodologies on 
+OASIS or another password-protected website any exceptions to the requirements 
+contained in this Attachment initiated under this paragraph, including the nature of and 
+basis for each exception, the date(s) and time(s) that the exception was initiated, and (if 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT W - Transmission Facility Ratings 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 4 
+applicable) the date(s) and time(s) that each exception was withdrawn and the standard 
+rating became effective again.  If the technical basis for an exception under this 
+paragraph changes, then the Transmission Owner must update the relevant Transmission 
+Facility Rating(s) in a timely manner.  The Transmission Owner must reevaluate any 
+exceptions taken under this paragraph at least every five years. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
+ATTACHMENT X 
+ 
+Seams Elimination Cost Assignment Charges 
+ 
+1) Except where modified by the terms of a Commission order, Transmission Customers 
+taking Transmission Service to deliver capacity and/or energy to loads located in the zones or 
+sub-zones listed in the table below shall pay the Seams Elimination Charge/Cost 
+Adjustments/Assignment ("SECA") charge applicable to such zone or sub-zone. 
+ 
+2) The SECA charges under this Attachment X are designed to collect the MISO 
+transmission owners' lost revenues shown in the Midwest Independent Transmission System 
+Operator, Inc. ("MISO") Open Access Transmission Tariff ("OATT"), effective December 1, 
+2004 (except as otherwise noted), subject to refunds to reflect decreases in the amount of lost 
+revenues claimed by a MISO transmission owner following FERC review, as well as the lost 
+revenues among the PJM Transmission Owners, shown in Tariff, Attachment R, effective 
+December 1, 2004 (except as otherwise noted), subject to refunds to reflect decreases in the 
+amount of lost revenues claimed by a PJM Transmission Owner.  The SECA charges under this 
+Attachment are also subject to refund or surcharge, effective December 1, 2004, to reflect any 
+FERC-ordered increases, decreases or other changes in the amount allocated to, or within, a PJM 
+zone. 
+ 
+3) For purposes of this Attachment, a "MISO Existing Transaction" shall mean through-and-
+out transmission service under the MISO OATT, serving load located within a PJM zone during 
+the period that this Attachment is in effect where the reservation requests were made prior to 
+November 17, 2003 or service commenced before April 1, 2004.  Transmission Customers 
+paying SECA charges under this Attachment are eligible for a credit to reflect the revenues 
+received by MISO under a MISO Existing Transaction.  All such credits will reduce the amounts 
+to be collected as SECA charges under this Attachment and paid to MISO.  PJM in consultation 
+with MISO shall develop and publish the procedures for determining whether a transaction 
+qualifies for a credit and how the monthly crediting amount is to be implemented. 
+ 
+4) SECA charges under this Attachment shall be recalculated to reflect:  a) the addition of 
+transmission zones or sub-zones to PJM, effective upon the date of integration of such new 
+transmission zones; b) 2003 calendar year lost revenues, effective April 1, 2005; c) the annual 
+revisions of the billing determinants used by PJM to calculate charges to Transmission 
+Customers for Network Integration. 
+ 
+5) The SECA charges (in both PJM and MISO) are effective as of December 1, 2004 
+(except as otherwise noted); however, PJM shall begin billing under this Attachment when PJM 
+and MISO have both certified to the Commission that they are prepared to implement, under 
+effective MISO OATT and PJM Tariff provisions, billings and settlements for payments to PJM 
+Transmission Owners and MISO transmission owners.  PJM shall distribute 100% of the 
+revenues that PJM collects pursuant to the charges that PJM collects under this Attachment X for 
+MISO transmission owners to MISO.  MISO shall be responsible for distributing these revenues 
+to transmission owners within MISO.  PJM shall distribute revenues that PJM collects under this 
+Attachment for PJM Transmission Owners in accordance with Tariff, Attachment R. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 2 
+SECA Charges 
+($/MW-mo.) 
+ 
+ 
+ 
+  
+SECA Rates To 
+Collect MISO 
+Transmission 
+Owner Lost 
+Revenues 
+SECA Rates To 
+Collect PJM 
+Transmission Owner 
+Lost Revenues 
+Zone Pricing Zone or Sub-zone $/MW-mo. $/MW-mo. 
+PJM Pre-
+Expansion Zones Allegheny Power $26.16 $85.27 
+ Atlantic City Electric Company $26.16 $85.27 
+ Baltimore Gas & Electric $26.16 $85.27 
+ Delmarva Power & Light $26.16 $85.27 
+ 
+Metropolitan Edison Company, 
+Jersey Central Power and Light 
+Company and Pennsylvania 
+Electric Company 
+$26.16 $85.27 
+ PECO Energy Company $26.16 $85.27 
+ Potomac Electric Power 
+Company $26.16 $85.27 
+ PPL Group $26.16 $85.27 
+ Public Service Electric and Gas 
+Company $26.16 $85.27 
+ Rockland Electric Company $26.16 $85.27 
+ComEd ComEd $29.82 $37.31 
+ City of Batavia, Illinois $852.30 $0.00 
+ City of Rock Falls, Illinois $1,179.87 $0.00 
+ City of St. Charles, Illinois $897.69 $0.00 
+ City of Winnetka, Illinois $2,205.13 $0.00 
+Dominion 
+Virginia Power Dominion Virginia Power $1.58 $79.00 
+ Central Virginia Elec. Coop $0.00 $199.25 
+ Old Dominion Elec. Coop $6.06 $582.95 
+ Southeastern Power Adm. $0.00 $122.85 
+ Pepco Energy Services $0.00 $0.00 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 3 
+ 
+  
+SECA Rates To 
+Collect  MISO 
+Transmission 
+Owner Lost 
+Revenues 
+SECA Rates To 
+Collect PJM 
+Transmission Owner 
+Lost Revenues 
+Zone Pricing Zone or Sub-zone $/MW-mo. $/MW-mo. 
+AEP-East 
+AEP, Musser Companies of 
+West Virginia, Old Dominion 
+Electric Coop, Ohio Municipal 
+Electric Group, City of Radford, 
+VA, City of Sturgis, MI,  West 
+Virginia Power 
+$  24.40 $50.90 
+ Strategic Energy Retail $130.92 $960.35 
+ FE Solutions Retail $12,163.78 $0.00 
+ Ormet $935.07 $21,252.34 
+ 
+AMP-Ohio (AMP-Ohio NTS, 
+City of Columbus, Ohio, City of 
+Dover Ohio, City of Orrville, 
+Ohio, City of Shelby, Ohio, City 
+of St. Mary's, Ohio) 
+$208.44 $212.47 
+ AMP-Ohio (Ohio Municipal 
+Electric Group) $18.18 $75.49 
+ Central Virginia Electric Coop $236.19 $88.59 
+ City of Dowagiac, Michigan $ 0.00 $163.64 
+ Hoosier Energy REC, Inc. $785.41 $0.00 
+ Wabash Valley Power 
+Association $166.27 $126.19 
+ Blue Ridge Power Agency $25.93 $90.55 
+ Indiana Municipal Power 
+Agency $63.10 $42.15 
+Dayton Dayton $20.93 $54.79 
+ AMP-Ohio $274.55 $137.42 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 4 
+ 
+  
+SECA Rates To 
+Collect  MISO 
+Transmission 
+Owner Lost 
+Revenues 
+SECA Rates To 
+Collect PJM 
+Transmission Owner 
+Lost Revenues 
+Zone Pricing Zone or Sub-zone $/MW-mo. $/MW-mo. 
+ Buckeye $0.00 $777.79 
+ City of Piqua, Ohio $29.19 $121.04 
+Duke Energy 
+Washington 
+County  Ohio 
+(DEWO)1 
+DEWO $23,791.62 $88,202.55 
+Duke Energy 
+Lawrence Ohio2 DELO  $12.40 
+Sugar Creek2 Mirant $1.05 $0.00 
+ 
+6) The SECA charges for the Duquesne zone, beginning April 1, 2005, shall be calculated 
+as follows: 
+ 
+ a) The following sub-zones shall apply to the Duquesne zone:  Dominion Energy 
+Direct Sales, Dominion Resources, FirstEnergy Solutions Corp., Green Mountain Power, 
+Strategic Energy, ValuSource/Duquesne Light Energy, Constellation NewEnergy, Pepco Energy 
+Services, Reliant Energy Services, Tractebel Energy Marketing, Duquesne POLR I, Duquesne 
+FPS, Duquesne HPS, Duquesne POLR III, Zinc Corp., Pitcairn.  Sub-zones may be added to the 
+Duquesne zone should a new electric generation supplier or wholesale customer commence 
+transmission service to serve load within the Duquesne zone during the period of the SECA 
+recovery. 
+ 
+ b) SECA charges applicable to the Duquesne sub-zones shall be calculated 
+beginning April 1, 2005 in accordance with the following formula: 
+ 
+  i) For each of the sub-zones within the Duquesne zone for which the MWhs 
+of energy (measured at the transmission level) delivered to end-use load in the Duquesne zone in 
+the applicable month of 2005 or 2006 were less than those delivered to load in the corresponding 
+month of 2003, the applicable SECA rate for that sub-zone shall be calculated in accordance with 
+the following formula: 
+ 
+ SZC i = (SZOi / 12) x (SZMWHWMonthCurri / SZMWHMonth03i) 
+  
+  ii) For each of the sub-zones within the Duquesne zone for which the MWhs 
+of energy (measured at the transmission level) delivered to end-use load in the Duquesne zone in 
+the applicable month of 2005 or 2006 were greater than those delivered to load in the 
+ 
+1  Assumes 1 MW of load. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 5 
+corresponding month of 2003, the applicable SECA rate for that sub-zone shall be calculated in 
+accordance with the following formulas: 
+ 
+ 
+ 
+ 
+  and 
+ 
+ 
+where: 
+ 
+All quantities and rates with a subscript i refer to quantities or rates for which the MWhs 
+of energy (measured at the transmission level) delivered to end-use load in the Duquesne 
+zone in the applicable month of 2005 or 2006 were less than those delivered to load in the 
+corresponding month of the 2003 test year. 
+All quantities and rates with a subscript j refer to quantities or rates for which the MWhs 
+of energy (measured at the transmission level) delivered to end-use load in the Duquesne 
+zone in the applicable month of 2005 or 2006 were greater than those delivered to load in 
+the corresponding month of the 2003 test year. 
+SZCi = The sub-zonal charge for the applicable month of 2005 or 2006 applicable to sub-
+zone i where, for that sub-zone, fewer MWhs of energy were delivered in the applicable 
+month of 2005 than were delivered to load in the same sub-zone in the corresponding 
+month of the 2003 test year. 
+SZOi = The annual SECA obligation for sub-zone i calculated based on the 2003 test year 
+NERC transmission tag data, re-sales of energy within the Duquesne zone, and other 
+applicable adjustments. 
+SZMWHMonthCurri = MWhs of energy delivered to end-use load in sub-zone i in the 
+applicable month of 2005 or 2006. 
+ 
+SZMWHMonth03i = MWhs of energy delivered to end-use load in sub-zone i in the 
+month of the 2003 test year that corresponds to SZMWHMonthCurri. 
+SZCj = The sub-zonal charge for the applicable month of 2005 or 2006 applicable to sub-
+zone j where, for that sub-zone, more MWhs of energy were delivered in the applicable 
+month of 2005 or 2006 than were delivered to load in the same sub-zone in the 
+corresponding month of the 2003 test year. 
+  urr] SZARMonthC  x ) 03 SZMWHMonth - thCurr [(SZMWHMon /12) (SZO SZCj j j j 
+
+
+
+ All
+j
+All
+i
+1
+j j
+1
+i i
+] 03 SZMWHMonth - hCurr [SZMWHMont
+] SZC - /12 [SZO
+urr SZARMonthC
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT X 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 6 
+SZOj = The annual SECA obligation for sub-zone j calculated based on the 2003 test year 
+NERC transmission tag data, re-sales of energy within the Duquesne zone, and other 
+applicable adjustments.   
+SZMWHMonthCurrj = MWhs of energy delivered to end-use load in sub-zone j in the 
+applicable month of 2005 or 2006. 
+SZMWHMonth03j = MWhs of energy delivered to end-use load in sub-zone j in the 
+month of the 2003 test year that correspond to SZMWHMonthCurrj.. 
+SZARMonthCurr = The average per MWh rate applicable to all additional MWhs served 
+within a sub-zone in 2005 or 2006, where the MWhs served in the applicable month of 
+2005 or 2006 were greater than those served in the sub-zone in the corresponding month 
+of the 2003 test year.  
+For the purposes of this calculation, the Duquesne POLR load (POLR I, POLR III, 
+Duquesne HPS and Duquesne FPS) will be considered a single sub-zone. 
+ 
+ 
+7) The charges under this Attachment X shall terminate on March 31, 2006; provided, 
+however, that if the SECAs to recover PJM transmission owners' lost revenues do not become 
+effective on December 1, 2004, such SECAs shall continue for 16 months from the date the 
+charges become effective. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT NOTICE OF ADOPTION OF NERC TRANSMISSION 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+NOTICE OF ADOPTION OF NERC TRANSMISSION 
+LOADING RELIEF PROCEDURES 
+ 
+Pursuant to Ordering Paragraph (D) of the Commission’s order in North American Electric 
+Reliability Council, 110 FERC ¶ 61,388 (2005), PJM Interconnection, L.L.C. (“PJM”), hereby 
+notifies the Commission that it is adopting the revised North American Electric Reliability 
+Council’s (“NERC”) Transmission Loading Relief (“TLR”) Procedures, and any amendments 
+thereto, and that the PJM Open Access Transmission Tariff should be considered so modified.  
+See www.nerc.com for the current version of NERC TLR Procedures. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT NOTICE OF ADOPTION OF LOCAL TRANSMISSION 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+NOTICE OF ADOPTION OF LOCAL TRANSMISSION 
+LOADING RELIEF PROCEDURE 
+ 
+Pursuant to NERC Reliability Standard IRO-006-3 — Reliability Coordination — TLR, R2, PJM 
+adopts a local TLR procedure that will be used to supplement the current NERC’s TLR 
+Procedures.   
+ 
+PJM will implement this procedure with neighbors signing an agreement agreeing to the local 
+procedure.  PJM will use the current NERC TLR Procedure that has a 5% Transfer Distribution 
+Factor (“TDF”) for determining Non-Firm schedule curtailment. 
+ 
+If the NERC TLR Procedure (NERC Standard IRO 006-3) does not provide the required relief 
+from Non-Firm schedules than the parties will curtail Non-Firm schedules down to 3% TDF in 
+accordance with local procedures as described in section R2 of the NERC TLR Standard. 
+ 
+This will be done for any tagged schedule has a 3% TDF that can provide relief on the flowgate, 
+where either PJM or the reciprocal party, is a source or sink for the schedule. 
+ 
+If any schedules are identified that curtailment will provide relief on the flowgate, then that Party 
+will curtail the schedules until the flow is reduced on the flowgate or all of the schedules have 
+been curtailed. 
+ 
+The local transmission loading relief procedure described above shall be used to supplement, and 
+not as a substitute for, the Interconnection-wide procedure.  The Parties agree that they will 
+comply with the NERC TLR Procedure and all NERC Reliability Standards at all times. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE OF PARTIES ADOPTING 
+Effective Date: 12/16/2024 - Docket #: ER25-51-000 - Page 1 
+SCHEDULE OF PARTIES ADOPTING 
+LOCAL TRANSMISSION LOADING RELIEF PROCEDURES 
+ 
+Pursuant to the Commission’s Order issued on July 2, 2008, 124 FERC ¶ 61,006, the following is 
+a Schedule of parties adopting PJM’s Local Transmission Loading Relief Procedures: 
+ 
+• Duke Energy Progress, LLC  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 1 
+Attachment Y 
+ 
+Form of Screens Process Interconnection Request 
+(For Generation Facilities of 2 MW or less synchronous 5 MW or less inverter-based) 
+ 
+1.0 Instructions 
+ 
+Interconnection Customer must submit the Screens Process Interconnection Request to 
+Transmission Provider by hand delivery, mail, e-mail, or fax. 
+ 
+2.0 Processing Fee or Deposit: 
+ 
+Interconnection Customer is required to provide the Transmission Provider the applicable 
+deposit.  A portion of the deposit is non-refundable pursuant to Section 112A. 
+ 
+The base and initial per MW deposit received will be credited toward the amount of the 
+Generation Interconnection Customer’s cost responsibility pursuant to Section 112A.  
+ 
+3.0 Interconnection Customer Information 
+ 
+Legal Name of the Interconnection Customer (or, if an individual, individual’s name) 
+ 
+Name:  ________________________________________________________________________ 
+ 
+Contact Person: ________________________________________________________________  
+ 
+Mailing Address: _______________________________________________________________ 
+ 
+City: ______________________ State: _______________ Zip: ____________________  
+ 
+Facility Location (if different from above): ___________________________________________  
+ 
+Telephone (Day): ______________________ Telephone (Evening): ______________________ 
+ 
+Fax: ___________________________ E-Mail Address: ________________________________ 
+ 
+Alternative Contact Information (if different from the Interconnection Customer) 
+ 
+Contact Name: _________________________________________________________________ 
+ 
+Title: _________________________________________________________________________ 
+ 
+Address: ______________________________________________________________________ 
+ 
+______________________________________________________________________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 2 
+Telephone (Day): _____________________ Telephone (Evening):  _______________________ 
+  
+Fax: ___________________________ E-Mail Address: ________________________________ 
+ 
+ 
+4.0   Energy Resource Information  
+ 
+Will the Energy Resource be used for any of the following? 
+ 
+ Net Metering? Yes ___ No ___ 
+ To Supply Power to the Interconnection Customer? Yes ___No ___ 
+ To Supply Power to Others? Yes ___ No ___ 
+ 
+For installations at locations with existing electric service to which the proposed Energy 
+Resource will interconnect, provide: 
+ 
+______________________________   ______________________________ 
+(Local Electric Service Provider)  
+ 
+Contact Name:  ________________________________________________________________ 
+ 
+Title:  ________________________________________________________________________ 
+ 
+Address:  _____________________________________________________________________ 
+ 
+     ______________________________________________________________________ 
+ 
+Telephone (Day):________________________ Telephone (Evening): _____________________ 
+ 
+Fax: __________________________________ E-Mail Address: _________________________ 
+ 
+Requested Point of Interconnection:  ________________________________________________ 
+ 
+Interconnection Customer's Requested In-Service Date: _________________________________ 
+ 
+Energy Source: ___ Solar ___ Wind ___ Hydro ___ Hydro Type (e.g. Run-of-River): _________ 
+ Diesel  ___ Natural Gas   ___ Fuel Oil  ___  Other (state type)  _____________________ 
+ 
+Prime Mover: ___Fuel Cell ___Recip Engine ___Gas Turb ___Steam Turb  
+  ___Microturbine   ___PV  ___Other 
+ 
+Type of Generator: ____Synchronous      ____Induction     ____ Inverter 
+ 
+Generator Nameplate Rating: ________kW (Typical)        Generator Nameplate kVAR: _______ 
+ 
+Interconnection Customer or Customer-Site Load: _________________kW (if none, so state) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 3 
+ 
+Typical Reactive Load (if known): _________________ 
+ 
+Maximum Physical Export Capability Requested: ______________ kW 
+ 
+List components of the Small Energy Resource equipment package that are currently certified: 
+ 
+ Equipment Type      Certifying Entity 
+ 1.  __________________________   _________________________ 
+ 2. __________________________   _________________________ 
+ 3.  __________________________   _________________________ 
+ 4. __________________________   _________________________ 
+ 5. __________________________   _________________________ 
+ 
+Is the prime mover compatible with the certified protective relay package?   ___Yes  ___No 
+ 
+Generator (or solar collector) 
+Manufacturer, Model Name & Number: _____________________________________________  
+Version Number: _________________________  
+ 
+Nameplate Output Power Rating in kW:   (Summer) _____________ (Winter) ______________ 
+Nameplate Output Power Rating in kVA: (Summer) _____________ (Winter) ______________ 
+ 
+Individual Generator Power Factor 
+Rated Power Factor: Leading: _____________Lagging: _______________ 
+ 
+Total Number of Generators in wind farm to be interconnected pursuant to this 
+Interconnection Request: ________ Elevation: _____ ___Single phase      ___Three phase 
+ 
+Inverter Manufacturer, Model Name & Number (if used): _______________________________ 
+ 
+List of adjustable set points for the protective equipment or software: ______________________ 
+ 
+Note: A completed Power Systems Load Flow data sheet must be supplied with the 
+Interconnection Request. 
+ 
+5.0 Energy Resource Characteristic Data (for inverter-based machines) 
+ 
+Max design fault contribution current: __________  Instantaneous ___ or RMS? ___  
+ 
+Harmonics Characteristics: _______________________________________________________  
+ 
+Start-up requirements: ___________________________________________________________  
+ 
+  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 4 
+6.0 Energy Resource Characteristic Data (for rotating machines) 
+ 
+RPM Frequency: _____________ 
+(*) Neutral Grounding Resistor (If Applicable): ____________ 
+ 
+Synchronous Generators: 
+ 
+Direct Axis Synchronous Reactance, Xd: _______ P.U. 
+Direct Axis Transient Reactance, X'd: ___________P.U. 
+Direct Axis Subtransient Reactance, X"d: ______________P.U. 
+Negative Sequence Reactance, X2: _________ P.U. 
+Zero Sequence Reactance, X0: ____________ P.U. 
+KVA Base: __________________________ 
+Field Volts: ______________ 
+Field Amperes: ______________ 
+ 
+Induction Generators: 
+ 
+Motoring Power (kW): ______________ 
+I22t or K (Heating Time Constant): ______________ 
+Rotor Resistance, Rr: ______________ 
+Stator Resistance, Rs:  ______________  
+Stator Reactance, Xs: ______________ 
+Rotor Reactance, Xr:  ______________   
+Magnetizing Reactance, Xm: ______________ 
+Short Circuit Reactance, Xd'': ______________ 
+Exciting Current: ______________ 
+Temperature Rise: ______________ 
+Frame Size:  ______________  
+Design Letter: ______________ 
+Reactive Power Required In Vars (No Load): ______________ 
+Reactive Power Required In Vars (Full Load): ______________ 
+Total Rotating Inertia, H: _____________   Per Unit on kVA Base 
+ 
+Note: Please contact the Transmission Provider prior to submitting the Interconnection Request 
+to determine if the specified information above is required. 
+ 
+Excitation and Governor System Data for Synchronous Generators Only 
+ 
+Provide appropriate IEEE model block diagram of excitation system, governor system and power 
+system stabilizer (PSS) in accordance with the appropriate regional reliability council criteria.  A 
+PSS may be determined to be required by applicable studies.  A copy of the manufacturer's block 
+diagram may not be substituted. 
+ 
+7.0 Interconnection Facilities Information 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 5 
+Will a transformer be used between the generator and the point of common coupling? _Yes _No 
+ 
+Will the transformer be provided by the Interconnection Customer?  ____Yes ____No 
+ 
+Transformer Data (If Applicable, for Interconnection Customer-Owned Transformer): 
+ 
+Is the transformer:  ____single phase _____three phase?                           Size: __________kVA  
+Transformer Impedance: _______% on __________kVA Base 
+If Three Phase: 
+Transformer Primary:     _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+Transformer Secondary: _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+Transformer Tertiary:     _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+ 
+Transformer Fuse Data (If Applicable, for Interconnection Customer-Owned Fuse): 
+ 
+(Attach copy of fuse manufacturer's Minimum Melt and Total Clearing Time-Current Curves) 
+ 
+Manufacturer: ________________ Type: _____________ Size: ________Speed: ____________ 
+ 
+Interconnecting Circuit Breaker (if applicable): 
+ 
+Manufacturer: ____________________________ Type: __________ 
+ 
+Load Rating (Amps):______ Interrupting Rating (Amps):______ Trip Speed (Cycles):_______ 
+ 
+Interconnection Protective Relays (If Applicable): 
+ 
+If Microprocessor-Controlled: 
+ 
+List of Functions and Adjustable Setpoints for the protective equipment or software: 
+ 
+Setpoint Function 
+      Minimum  Maximum 
+ 
+1. _________________________________  _______________   _______________ 
+2. _________________________________  _______________   _______________ 
+3. _________________________________  _______________   _______________ 
+4. _________________________________  _______________   _______________ 
+5. _________________________________  _______________   _______________ 
+6. _________________________________  _______________  _______________ 
+ 
+If Discrete Components: 
+ 
+(Enclose Copy of any Proposed Time-Overcurrent Coordination Curves) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 6 
+ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________  
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+  
+Current Transformer Data (If Applicable): 
+ 
+(Enclose Copy of Manufacturer's Excitation and Ratio Correction Curves) 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Potential Transformer Data (If Applicable): 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+8.0  Diagrams and Site Control Documentation 
+ 
+Enclose copy of site electrical one-line diagram showing the configuration of all Energy 
+Resource equipment, current and potential circuits, and protection and control schemes.  This 
+one-line diagram must be signed and stamped by a licensed Professional Engineer if the Energy 
+Resource is larger than 50 kW.  Is one-line diagram enclosed? ____Yes ____No 
+ 
+Enclose copy of any site documentation that indicates the precise physical location of the 
+proposed Energy Resource (e.g., USGS topographic map or other diagram or documentation).  
+ 
+Proposed location of protective interface equipment on property (include address if different 
+from the Interconnection Customer's address) _________________________________________ 
+ 
+Enclose copy of any site documentation that describes and details the operation of the protection 
+and control schemes.  Is available documentation enclosed? ___Yes ____No 
+ 
+Enclose copies of schematic drawings for all protection and control circuits, relay current 
+circuits, relay potential circuits, and alarm/monitoring circuits (if applicable). 
+Are schematic drawings enclosed? ___Yes ____No 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 7 
+Provide demonstration of site control through an exclusive option to purchase the property on 
+which the generation project is to be developed, a property deed, or a range of tax or corporate 
+documents that identify property ownership.  Site control must either be in the name of the party 
+submitting the generation interconnection request or documentation must be provided 
+establishing the business relationship between the project developer and the party having site 
+control. 
+ 
+Interconnection Customer hereby certifies that, to the best of my knowledge, all the information 
+provided in this Screens Process Interconnection Request is true and correct. 
+ 
+9.0 Primary Frequency Response Information for Energy Storage Resources 
+ 
+ Primary Frequency Response Information for Energy Storage Resources: 
+  Minimum State of Charge:     ; and  
+  Maximum State of Charge:     .  
+ 
+ IN WITNESS WHEREOF, the Transmission Provider and the Interconnection Customer 
+have caused this Screens Process Interconnection Request Agreement to be executed by their 
+respective authorized officials. 
+ 
+Transmission Provider:  PJM Interconnection, L.L.C. 
+ 
+By:                 
+ Name    Title      Date 
+ 
+Printed name of signer:             
+ 
+ 
+Interconnection Customer:  [Name of Party] 
+ 
+By:                
+  Name    Title      Date 
+ 
+Printed name of signer:             
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Z 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+ATTACHMENT Z 
+ 
+Certification Codes and Standards 
+ 
+IEEE1547 Standard for Interconnecting Distributed Resources with Electric Power Systems 
+(including use of IEEE 1547.1 testing protocols to establish conformity)  
+ 
+UL 1741 Inverters, Converters, and Controllers for Use in Independent Power Systems 
+ 
+IEEE Std 929-2000 IEEE Recommended Practice for Utility Interface of Photovoltaic (PV) 
+Systems 
+ 
+NFPA 70 (2002), National Electrical Code 
+ 
+IEEE Std C37.90.1-1989 (R1994), IEEE Standard Surge Withstand Capability (SWC) Tests for 
+Protective Relays and Relay Systems 
+ 
+IEEE Std C37.90.2 (1995), IEEE Standard Withstand Capability of Relay Systems to Radiated 
+Electromagnetic Interference from Transceivers 
+ 
+IEEE Std C37.108-1989 (R2002), IEEE Guide for the Protection of Network Transformers 
+ 
+IEEE Std C57.12.44-2000, IEEE Standard Requirements for Secondary Network Protectors 
+ 
+IEEE Std C62.41.2-2002, IEEE Recommended Practice on Characterization of Surges in Low 
+Voltage (1000V and Less) AC Power Circuits 
+ 
+IEEE Std C62.45-1992 (R2002), IEEE Recommended Practice on Surge Testing for Equipment 
+Connected to Low-Voltage (1000V and Less) AC Power Circuits 
+ 
+ANSI C84.1-1995 Electric Power Systems and Equipment – Voltage Ratings (60 Hertz) 
+ 
+IEEE Std 100-2000, IEEE Standard Dictionary of Electrical and Electronic Terms 
+ 
+NEMA MG 1-1998, Motors and Small Resources, Revision 3 
+ 
+IEEE Std 519-1992, IEEE Recommended Practices and Requirements for Harmonic Control in 
+Electrical Power Systems 
+ 
+NEMA MG 1-2003 (Rev 2004), Motors and Generators, Revision 1 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT AA 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+ATTACHMENT AA 
+ 
+Certification of Small Generator Equipment Packages 
+ 
+1.0 Small generating facility equipment proposed for use separately or packaged with other 
+equipment in an interconnection system shall be considered certified for interconnected 
+operation if (1) it has been tested in accordance with industry standards for continuous utility 
+interactive operation in compliance with the appropriate codes and standards referenced below 
+by any Nationally Recognized Testing Laboratory (“NRTL”) recognized by the United States 
+Occupational Safety and Health Administration to test and certify interconnection equipment 
+pursuant to the relevant codes and standards listed in Attachment Z to this Tariff, (2) it has been 
+labeled and is publicly listed by such NRTL at the time of the interconnection application, and 
+(3) such NRTL makes readily available for verification all test standards and procedures it 
+utilized in performing such equipment certification, and, with consumer approval, the test data 
+itself.  The NRTL may make such information available on its website and by encouraging such 
+information to be included in the manufacturer’s literature accompanying the equipment. 
+ 
+2.0 The Interconnection Customer must verify that the intended use of the equipment falls 
+within the use or uses for which the equipment was tested, labeled, and listed by the NRTL. 
+ 
+3.0 Certified equipment shall not require further type-test review, testing, or additional 
+equipment to meet the requirements of this interconnection procedure; however, nothing herein 
+shall preclude the need for an on-site commissioning test by the parties to the interconnection nor 
+follow-up production testing by the NRTL. 
+ 
+4.0 If the certified equipment package includes only interface components (switchgear, 
+inverters, or other interface devices), then an Interconnection Customer must show that the 
+generator or other electric source being utilized with the equipment package is compatible with 
+the equipment package and is consistent with the testing and listing specified for this type of 
+interconnection equipment. 
+ 
+5.0 Provided the generator or electric source, when combined with the equipment package, is 
+within the range of capabilities for which it was tested by the NRTL, and does not violate the 
+interface components' labeling and listing performed by the NRTL, no further design review, 
+testing or additional equipment on the customer side of the point of common coupling shall be 
+required to meet the requirements of this interconnection procedure. 
+ 
+6.0 An equipment package does not include equipment provided by the utility. 
+ 
+7.0 Any equipment package approved and listed in a state by that state’s regulatory body for 
+interconnected operation in that state prior to the effective date of these small generator 
+interconnection procedures shall be considered certified under these procedures for use in that 
+state. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT BB 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 1 
+ATTACHMENT BB 
+ 
+Form of Interconnection Service Agreement for 
+Certified Inverter-Based Generating Facility 
+ 
+This Certified Inverter-Based Generating Facility Interconnection Service Agreement 
+(“Agreement”) is entered into between PJM Interconnection, L.L.C. (“Transmission Provider”), 
+______________ (“Interconnected Transmission Owner”), and ___________ (“Interconnection 
+Customer”). 
+ 
+1.0 Processing Fee 
+ 
+Concurrent with tendering this Agreement to Transmission Provider, Interconnection Customer 
+shall pay a non-refundable processing fee of $500. 
+ 
+2.0 Interconnection Customer  
+ 
+Name: _______________________________________________________________________ 
+Contact Person: ________________________________________________________________ 
+Address: ______________________________________________________________________ 
+City: ____________________________________ State: _______________ Zip: ____________   
+Telephone (Day): __________________________ (Evening): ___________________________   
+Fax: _____________________________________ E-Mail Address: ______________________   
+ 
+Contact Information (if different from Interconnection Customer) 
+Name: _______________________________________________________________________ 
+Contact Person: ________________________________________________________________ 
+Address: ______________________________________________________________________ 
+City: ____________________________________ State: _______________ Zip: ____________   
+Telephone (Day): __________________________ (Evening): ___________________________   
+Fax: _____________________________________ E-Mail Address: ______________________  
+  
+3.0 Small Inverter Facility Information 
+ 
+Location: _____________________________________________________________________  
+Electric Service Company: _______________________________________________________  
+Customer Account Number: ______________________________________________________  
+Inverter Manufacturer: _______________________ Model ______________________________ 
+Nameplate Rating: _______(kW) ______(kVA) _______(AC Volts) 
+    Single Phase _______ Three Phase _______   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT BB 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 2 
+System Design Capacity: _________ (kW) _______ (kVA) 
+Prime Mover: Photovoltaic ____  Reciprocating Engine ____   Fuel Cell ____   
+  Turbine ____ Other ____________   
+Energy Source: Solar ____Wind ____ Hydro ____ Diesel ____ Natural Gas ____   
+ Fuel Oil ____   Other (describe) _____________________________ 
+Is the equipment UL1741 Listed?       Yes ______ No ______    
+ If Yes, attach manufacturer’s cut-sheet showing UL1741 listing 
+ 
+Interconnection Customer or Customer-Site Load:     kW (zero, if none)  
+ 
+Maximum Physical Export Capability Requested:     kW  
+ 
+Estimated Installation Date: _____________ Estimated In-Service Date: ____________  
+ 
+Owner of the Small Inverter Facility _______(include % ownership by any electric utility):  
+ 
+4.0 Certification of Small Inverter Facility 
+ 
+The Interconnection Customer represents and warrants that the Small Inverter Facility which is 
+the subject of this Agreement is no larger than 10 kW and it meets the codes, standards, and 
+certification requirements of Attachments Z and AA of the PJM Open Access Transmission 
+Tariff (“Tariff”) , or in lieu of such representation and warranty,  the Transmission Provider has 
+reviewed the design or tested the proposed Small Inverter  Facility and is satisfied that it is safe 
+to operate. 
+ 
+The following is a list of components of the Small Inverter Facility equipment package that are 
+currently certified: 
+ 
+ Equipment Type     Certifying Entity 
+ 
+ 1. ________________   ____________________________  
+ 2. ________________   ____________________________ 
+ 3. ________________   ____________________________ 
+ 4. ________________   ____________________________ 
+ 5. ________________   ____________________________ 
+ 
+5.0 Authority and Incorporation of Tariff. 
+  
+This Agreement is entered into pursuant to Part IV of the Tariff.  Interconnection Customer has 
+requested an Certified Inverter-Based Generating Facility Interconnection Service Agreement 
+under the Tariff and Transmission Provider has determined that Interconnection Customer is 
+eligible under the Tariff to obtain this Agreement.  The standard terms and conditions for 
+interconnection of Small Inverter Facilities as set forth in section 112B the Tariff as of the date 
+of this Agreement are attached as Appendix A to this Agreement and are hereby specifically 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT BB 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 3 
+incorporated as provisions of this Agreement.  Transmission Provider, Interconnected 
+Transmission Owner and Interconnection Customer agree to and assume all of the rights and 
+obligations of the Transmission Provider, Interconnected Transmission Owner and 
+Interconnection Customer, respectively, as set forth in the appended provisions of section 112B. 
+ 
+6.0 Effective Date.   
+ 
+This Agreement shall become effective on the date it is executed by the Transmission Provider 
+and shall terminate on such date as mutually agreed upon by the parties, 
+ 
+7.0 Assumption of Tariff Obligations.   
+ 
+Interconnection Customer agrees to abide by all rules and procedures pertaining to generation 
+and transmission in the PJM Region, including but not limited to the rules and procedures 
+concerning the dispatch of generation or scheduling transmission set forth in the Tariff, the 
+Operating Agreement and the PJM Manuals.   
+ 
+8.0 Waiver.   
+ 
+No waiver by either party of one or more defaults by the other in performance of any of the 
+provisions of this Agreement shall operate or be construed as a waiver of any other or further 
+default or defaults, whether of a like or different character. 
+ 
+9.0 Amendment.   
+ 
+This Agreement or any part thereof, may not be amended, modified, assigned, or waived other 
+than by a writing signed by all parties hereto. 
+ 
+10. Critical Infrastructure. 
+ 
+Infrastructure security of electric system equipment and operations and control hardware and 
+software is essential to ensure day-to-day reliability and operational security.  All Transmission 
+Providers, Interconnected Transmission Owner, market participants, and Interconnection 
+Customers interconnected with electric systems to comply with the recommendations offered by 
+the President's Critical Infrastructure Protection Board and best practice recommendations from 
+the electric reliability authority.  All public utilities are expected to meet basic standards for 
+electric system infrastructure and operational security, including physical, operational, and 
+cyber-security practices. 
+ 
+11. PJM Queue Number 
+ 
+The PJM queue number associated with this Agreement is ________. 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT BB 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 4 
+12. Site Control 
+ 
+Concurrent with tendering this Agreement to Transmission Provider, Interconnection Customer 
+shall submit documentation of site control. 
+ 
+ IN WITNESS WHEREOF, Transmission Provider, Interconnection Customer and 
+Interconnected Transmission Owner have caused this Agreement to be executed by their 
+respective authorized officials. 
+ 
+Transmission Provider:  PJM Interconnection, L.L.C. 
+ 
+By:               
+ Name    Title     Date 
+ 
+Printed name of signer:            
+ 
+Interconnection Customer:  [Name of Party] 
+ 
+By:              
+ Name    Title     Date 
+ 
+Printed name of signer:            
+ 
+Interconnected Transmission Owner:  [Name of Party] 
+ 
+By:              
+ Name    Title     Date 
+ 
+Printed name of signer:            
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT CC 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 1 
+ATTACHMENT CC 
+ 
+Form of Certificate of Completion 
+(Small Generating Inverter Facility No Larger Than 10 kW) 
+ 
+Is the Small Generating Inverter Facility owner-installed? Yes_____ No _____ 
+ 
+Interconnection Customer: ________________________________________________________ 
+Contact Person: ________________________________________________________________  
+Address: ______________________________________________________________________ 
+Location of the Small Generating Inverter Facility (if different from above): 
+______________________________________________________________________________ 
+City: __________________________________ State: _________________ Zip Code: _______   
+Telephone (Day): ________________________ (Evening): _____________________________   
+Fax: ___________________________________ E-Mail Address: ________________________ 
+ 
+Electrician:  
+Name: ________________________________________________________________________ 
+Address: ______________________________________________________________________ 
+City: __________________________________ State: _________________ Zip Code: _______   
+Telephone (Day): ________________________ (Evening): _____________________________   
+Fax: ___________________________________ E-Mail Address: ________________________ 
+License number: ____________________________________ 
+ 
+Date Approval to Install Small Inverter Facility granted by Transmission Provider: 
+___________________ 
+ 
+PJM Queue Number:  
+ 
+Inspection:  
+ 
+The Small Generating Inverter Facility has been installed and inspected in compliance with the 
+local building/electrical code of ____________________________________________________ 
+           
+Signed (Local electrical wiring inspector, or attach signed electrical inspection): 
+______________________________________________________________________________ 
+ 
+Print Name: ___________________________________________________________________  
+      
+Date: ___________ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT CC 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 2 
+ 
+As a condition of interconnection, you are required to send/fax a copy of this form along with a 
+copy of the signed electrical permit to (insert Transmission Provider information below):  
+ 
+  Name: _______________________________________________ 
+ 
+  Company: ____________________________________________ 
+ 
+  Address: _____________________________________________ 
+ 
+  _____________________________________________________ 
+ 
+  City, State ZIP: ________________________________________ 
+ 
+  Fax: _______________________  
+ 
+ 
+Approval to Energize the Small Generating Inverter Facility (For Transmission Provider use 
+only)  
+ 
+Energizing the Small Generating Inverter Facility is approved contingent upon the Terms and 
+Conditions set forth in section 112B of the Tariff and the Interconnection Customer’s Small 
+Inverter ISA for Interconnecting an Inverter-Based Small Generating Facility No Larger than 
+10kW. 
+ 
+Transmission Provider Signature 
+ 
+By:               
+ Name    Title      Date 
+ 
+Printed name of signer:             
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+ATTACHMENT DD 
+ 
+Reliability Pricing Model 
+ 
+References to section numbers in this Attachment DD refer to sections of this Attachment DD, 
+unless otherwise specified. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.1. INTRODUCTION 
+Effective Date: 11/2/2020 - Docket #: ER20-2799-000 - Page 1 
+1. INTRODUCTION 
+ 
+This Attachment sets forth the terms and conditions governing the Reliability Pricing Model for 
+the PJM Region. In the event of a conflict between this Attachment DD and Tariff, Attachment 
+M and Tariff, Attachment M-Appendix with respect to the responsibilities of the Market 
+Monitoring Unit, the provisions of Tariff, Attachment M and Tariff, Attachment M-Appendix 
+shall control. As more fully set forth in this Attachment and the PJM Manuals, and in 
+conjunction with the Reliability Assurance Agreement, the Reliability Pricing Model provides: 
+ 
+ (a) support for LSEs in satisfying Daily Unforced Capacity Obligations for future 
+Delivery Years through Self Supply of Capacity Resources; 
+ 
+ (b) a competitive auction mechanism to secure the forward commitment of additional 
+Capacity Resources and Qualifying Transmission Upgrades as necessary to satisfy the portion of 
+LSEs’ Unforced Capacity Obligations not satisfied through Self-Supply, in order to ensure the 
+reliability of the PJM Region for future Delivery Years; 
+ 
+ (c) long-term pricing signals for the development of Capacity Resources, including 
+demand resources and planned generation resources, to ensure the reliability of the PJM Region;  
+ 
+ (d) recognition for the locational benefits of Capacity Resources; 
+ 
+ (e) deficiency charges to ensure progress toward, and fulfillment of, forward 
+commitments by demand and generation resources to satisfy capacity requirements;  
+ 
+ (f) measures to identify and mitigate capacity market structure deficiencies; and  
+ 
+ (g) a Reliability Backstop mechanism to ensure that sufficient generation, 
+transmission and demand response solutions will be available to preserve system reliability. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.2 DEFINITIONS 
+Effective Date: 7/18/2016 - Docket #: ER16-1737-000 - Page 1 
+2. [Reserved for Future Use]   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.3 RESPONSIBILITIES OF THE 
+OFFICE OF THE 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+3. RESPONSIBILITIES OF THE OFFICE OF THE INTERCONNECTION 
+ 
+3.1 Support for Self-Supply and Bilateral Transactions 
+ 
+The Office of the Interconnection shall: 
+ 
+ (a) support electronic tools to facilitate communication by Market Sellers and 
+Market Buyers of information to the Office of the Interconnection concerning Self-Supply 
+arrangements; 
+ 
+ (b) support an electronic bulletin board providing a forum for prospective 
+buyers and sellers to transact Capacity Resources outside the Reliability Pricing Model 
+Auctions, including Locational UCAP transactions (including mechanisms to allow 
+prospective Sellers with partial-year resources to explore voluntary opportunities to 
+combine their resources such that they can be offered together for a full Delivery Year) and 
+support electronic tools to report bilateral capacity transactions between Market 
+Participants to the Office of the Interconnection, in accordance with procedures set forth 
+in the PJM Manuals; and 
+ 
+ (c) define one or more capacity trading hubs and determine and publicize 
+values for such hubs based on the capacity prices determined for one or more Locational 
+Deliverability Areas, in accordance with the PJM Manuals. 
+ 
+3.2 Administration of the Base Residual Auction and Incremental Auctions 
+ 
+The Office of the Interconnection shall conduct and administer the Base Residual Auction 
+and Incremental Auctions in accordance with this Attachment, the Operating Agreement, 
+and the Reliability Assurance Agreement.  Administration of the Base Residual Auction 
+and Incremental Auctions shall include, but not be limited to, the following: 
+ 
+ a) Determining the qualification of entities to become Capacity Market Sellers 
+and Capacity Market Buyers; 
+ 
+ b) Determining PJM Region Peak Load Forecasts and Locational 
+Deliverability Area Reliability Requirements;  
+ 
+ c) Determining the need, if any, for a Conditional Incremental Auction and 
+providing appropriate prior notice of any such auction; 
+ 
+ d) Calculating the EFORd for each Generation Capacity Resource in the PJM 
+Region to be used in the Third Incremental Auction; 
+ 
+ e) Receiving Buy Bids and Sell Offers, determining Locational Deliverability 
+Requirements and Variable Resource Requirement Curves, and determining the clearing 
+price that reflects all such inputs; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.3 RESPONSIBILITIES OF THE 
+OFFICE OF THE 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+ f) Conducting settlements for auction transactions, including but not limited 
+to rendering bills to, receiving payments from, and disbursing payments to, participants in 
+Base Residual Auctions and Incremental Auctions. 
+ 
+ g) Maintaining such records of Sell Offers and Buy Bids, clearing price 
+determinations, and other aspects of auction transactions, as may be appropriate to the 
+administration of Base Residual Auctions and Incremental Auctions; and 
+ 
+ h) Posting of selected non-confidential data used in Reliability Pricing Model 
+Auctions to calculate clearing prices and other auction results, as appropriate to inform 
+market participants of auction conditions.   
+ 
+3.3 Records and Reports 
+ 
+The Office of the Interconnection shall prepare and maintain such records as are required 
+for the administration of the Base Residual Auction and Incremental Auctions.  For each 
+auction conducted, the Office of the Interconnection shall, consistent with Operating 
+Agreement, section 18.17, publish the following:  (i) Zonal Capacity Prices for each LDA; 
+(ii) Capacity Resource Clearing Prices for each LDA; (iii) Locational Price Adders; (iv) 
+the total megawatts of Unforced Capacity that cleared; and (v) such other auction data as 
+may be appropriate to the efficient and competitive conduct of the Base Residual Auction 
+and Incremental Auctions.  Such information shall be available on the PJM internet site 
+through the end of the Delivery Year to which such auctions apply.   
+ 
+ 
+3.4 Counterparty   
+ (a) PJMSettlement shall be the Counterparty to the transactions arising from the 
+cleared Base Residual Auctions and Incremental Auctions; provided, however, 
+PJMSettlement shall not be a contracting party to (i) any bilateral transactions between Market 
+Participants, or (ii) with respect to Self-Supply for which designation of Self-Supply has been 
+reported to the Office of the Interconnection.   
+ (b) Charges.  PJMSettlement shall be the Counterparty with respect to the 
+obligations to pay, and the payment of, charges pursuant to this Tariff, Attachment DD.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.4. GENERAL PROVISIONS 
+Effective Date: 2/19/2025 - Docket #: ER25-783-000 - Page 1 
+4. GENERAL PROVISIONS 
+ 
+4.1 Capacity Market Sellers 
+ 
+Only Capacity Market Sellers shall be eligible to submit Sell Offers into the Base Residual 
+Auction and Incremental Auctions.  Capacity Market Sellers shall comply with the terms and 
+conditions of all Sell Offers, as established by the Office of the Interconnection in accordance 
+with this Attachment DD, Tariff, Attachment M, Tariff, Attachment M - Appendix and the 
+Operating Agreement.  
+ 
+4.2 Capacity Market Buyers 
+ 
+Only Capacity Market Buyers shall be eligible to submit Buy Bids into an Incremental Auction.  
+Capacity Market Buyers shall comply with the terms and conditions of all Buy Bids, as 
+established by the Office of the Interconnection in accordance with this Attachment DD, Tariff, 
+Attachment M, Tariff, Attachment M - Appendix and the Operating Agreement.  
+ 
+4.3 Agents 
+ 
+A Capacity Market Seller may participate in a Base Residual Auction or Incremental Auction 
+through an Agent, provided that the Capacity Market Seller informs the Office of the 
+Interconnection in advance in writing of the appointment and authority of such Agent. A 
+Capacity Market Buyer may participate in an Incremental Auction through an Agent, provided 
+that the Capacity Market Buyer informs the Office of the Interconnection in advance in writing 
+of the appointment and authority of such Agent. A Capacity Market Buyer or Capacity Market 
+Seller participating in such an auction through an Agent shall be bound by all of the acts or 
+representations of such Agent with respect to transactions in such auction. Any written 
+instrument establishing the authority of such Agent shall provide that any such Agent shall 
+comply with the requirements of this Attachment DD and the Operating Agreement. 
+ 
+4.4 General Obligations of Capacity Market Buyers and Capacity Market Sellers 
+ 
+Each Capacity Market Buyer and Capacity Market Seller shall comply with all laws and 
+regulations applicable to the operation of the Base Residual and Incremental Auctions and the 
+use of these auctions shall comply with all applicable provisions of this Attachment DD, Tariff, 
+Attachment M, Tariff, Attachment M - Appendix, Tariff, Attachment Q, the Operating 
+Agreement, and the Reliability Assurance Agreement, Tariff, Attachment K-Appendix, section 
+1.4 and the parallel provisions of Operating Agreement, Schedule 1, section 1.4, and all 
+procedures and requirements for the conduct of the Base Residual and Incremental Auctions and 
+the PJM Region established by the Office of the Interconnection in accordance with the 
+foregoing. 
+ 
+4.5 Confidentiality 
+ 
+The following information submitted to the Office of the Interconnection in connection with any 
+Base Residual Auction, Incremental Auction, Reliability Backstop Auction, or Capacity 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.4. GENERAL PROVISIONS 
+Effective Date: 2/19/2025 - Docket #: ER25-783-000 - Page 2 
+Performance Transition Incremental Auction shall be deemed confidential information for 
+purposes of Operating Agreement, section 18.17, Tariff, Attachment M and Tariff, Attachment 
+M - Appendix:  (i) the terms and conditions of the Sell Offers and Buy Bids; and (ii) the terms 
+and conditions of any bilateral transactions for Capacity Resources. 
+ 
+4.6 Bilateral Capacity Transactions 
+ 
+ (a) Unit-Specific Internal Capacity Bilateral Transaction Transferring All Rights and 
+Obligations (“Section 4.6(a) Bilateral”). 
+ 
+(i) Market Participants may enter into unit-specific internal bilateral capacity 
+contracts for the purchase and sale of title and rights to a specified amount of installed capacity 
+from a specific generating unit or units.  Such bilateral capacity contracts shall be for the transfer 
+of rights to capacity to and from a Market Participant and shall be reported to the Office of the 
+Interconnection in accordance with this Attachment DD and the Office of the Interconnection’s 
+rules related to its “capacity exchange” tool.   
+ 
+(ii) For purposes of clarity, with respect to all Section 4.6(a) Bilateral 
+transactions, the rights to, and obligations regarding, the capacity that is the subject of the 
+transaction shall pass to the buyer under the contract at the location of the unit and further 
+transactions and rights and obligations associated with such capacity shall be the responsibility 
+of the buyer under the contract. Such obligations include any charges, including penalty charges, 
+relating to the capacity under this Attachment DD.  In no event shall the purchase and sale of the 
+rights to capacity pursuant to a Section 4.6(a) Bilateral constitute a transaction with the Office of 
+the Interconnection or PJMSettlement or a transaction in any auction under this Attachment DD.   
+ 
+(iii) All payments and related charges associated with a Section 4.6(a) Bilateral 
+shall be arranged between the parties to the transaction and shall not be billed or settled by the 
+Office of the Interconnection or PJMSettlement.  The Office of the Interconnection, 
+PJMSettlement, and the Members will not assume financial responsibility for the failure of a 
+party to perform obligations owed to the other party under a Section 4.6(a) Bilateral reported to 
+the Office of the Interconnection under this Attachment DD.   
+ 
+(iv) With respect to capacity that is the subject of a Section 4.6(a) Bilateral that 
+has cleared an auction under this Attachment DD prior to a transfer, the buyer of the cleared 
+capacity shall be considered in the Delivery Year the party to a transaction with PJMSettlement 
+as Counterparty for the cleared capacity at the Capacity Resource Clearing Price published for 
+the applicable auction. 
+ 
+(v) A buyer under a Section 4.6(a) Bilateral contract shall pay any penalties or 
+charges associated with the capacity transferred under the contract.  To the extent the capacity 
+that is the subject of a Section 4.6(a) Bilateral contract has cleared an auction under this 
+Attachment DD prior to a transfer, then the seller under the contract also shall guarantee and 
+indemnify the Office of the Interconnection, PJMSettlement, and the Members for the buyer’s 
+obligation to pay any penalties or charges associated with the capacity and for which payment is 
+not made to PJMSettlement by the buyer as determined by the Office of the Interconnection.  All 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.4. GENERAL PROVISIONS 
+Effective Date: 2/19/2025 - Docket #: ER25-783-000 - Page 3 
+claims regarding a default of a buyer to a seller under a Section 4.6(a) Bilateral contract shall be 
+resolved solely between the buyer and the seller.   
+ 
+(vi) To the extent the capacity that is the subject of the Section 4.6(a) Bilateral 
+transaction already has cleared an auction under this Attachment DD, such bilateral capacity 
+transactions shall be subject to the prior consent of the Office of the Interconnection and its 
+determination that sufficient credit is in place for the buyer with respect to the credit exposure 
+associated with such obligations. 
+ 
+ (b) Bilateral Capacity Transaction Transferring Title to Capacity But Not 
+Transferring Performance Obligations (“Section 4.6(b) Bilateral”).   
+ 
+(i) Market Participants may enter into bilateral capacity transactions for the 
+purchase and sale of a specified megawatt quantity of capacity that has cleared an auction 
+pursuant to this Attachment DD.  The parties to a Section 4.6(b) Bilateral transaction shall 
+identify (1) each unit from which the transferred megawatts are being sold, and (2) the auction in 
+which the transferred megawatts cleared.  Such bilateral capacity transactions shall transfer title 
+and all rights with respect to capacity and shall be reported to the Office of the Interconnection 
+on an annual basis prior to each Delivery Year in accordance with this Attachment DD and 
+pursuant to the Office of the Interconnection’s rules related to its “capacity exchange” tool. 
+Reported transactions with respect to a unit will be accepted by the Office of the Interconnection 
+only to the extent that the total of all bilateral sales from the reported unit (including Section 
+4.6(a) Bilaterals, Section 4.6(b) Bilaterals, and Locational UCAP bilaterals) do not exceed the 
+unit’s cleared unforced capacity. 
+ 
+(ii) For purposes of clarity, with respect to all Section 4.6(b) Bilateral 
+transactions, the rights to the capacity shall pass to the buyer at the location of the unit(s) 
+specified in the reported transaction.  In no event shall the purchase and sale of the rights to 
+capacity pursuant to a Section 4.6(b) Bilateral constitute a transaction with PJMSettlement or the 
+Office of the Interconnection or a transaction in any auction under this Attachment DD.   
+ 
+(iii) With respect to a Section 4.6(b) Bilateral, the buyer of the cleared capacity 
+shall be considered in the Delivery Year the party to a transaction with PJMSettlement as 
+Coutnerparty for the cleared capacity at the Capacity Resource Clearing Price published for the 
+applicable auction; provided, however, with respect to all Section 4.6(b) Bilateral transactions, 
+such transactions do not effect a novation of the seller’s obligations to make RPM capacity 
+available to PJM pursuant to the terms and conditions originally agreed to by the seller; provided 
+further, however, the buyer shall indemnify PJMSettlement, the LLC, and the Members for any 
+failure by a seller under a Section 4.6(b) Bilateral to meet any resulting obligations, including the 
+obligation to pay deficiency penalties and charges owed to PJMSettlement, associated with the 
+capacity.   
+ 
+(iv) All payments and related charges associated with a Section 4.6(b) 
+Bilateral shall be arranged between the parties to the contract and shall not be billed or settled by 
+the Office of the Interconnection or PJMSettlement.  The Office of the Interconnection, 
+PJMSettlement, and the Members will not assume financial responsibility for the failure of a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.4. GENERAL PROVISIONS 
+Effective Date: 2/19/2025 - Docket #: ER25-783-000 - Page 4 
+party to perform obligations owed to the other party under a Section 4.6(b) Bilateral capacity 
+contract reported to the Office of the Interconnection under this Attachment DD.   
+ 
+(v) To the extent the capacity that is the subject of the Section 4.6(b) Bilateral 
+transaction already has cleared an auction under this Attachment DD, such bilateral capacity 
+transactions shall be subject to the prior consent of the Office of the Interconnection and its 
+determination that sufficient credit is in place for the buyer and seller with respect to the credit 
+exposure associated with such obligations.  Credit reviews of such transactions will be performed 
+in accordance with Section VI.B.8 of Tariff, Attachment Q.  The timing of the transacting 
+parties’ submission of the transaction to the Office of Interconnection for credit review is at their 
+discretion; however, they assume all risk for any delays and hold the Office of Interconnection 
+harmless from any resulting consequences. 
+ 
+(vi) All claims regarding a default of a buyer to a seller under a Section 4.6(b) 
+Bilateral shall be resolved solely between the buyer and the seller.   
+ 
+ (c) Locational UCAP Bilateral Transactions Between Capacity Sellers.  
+ 
+(i) Market Participants may enter into Locational UCAP bilateral transactions  
+which shall be reported to the Office of the Interconnection in accordance with this Attachment 
+DD and the LLC’s rules related to its “capacity exchange” tool.   
+ 
+(ii) For purposes of clarity, with respect to all Locational UCAP bilateral 
+transactions, the rights to the Locational UCAP that are the subject of the Locational UCAP 
+bilateral transaction shall pass to the buyer under the Locational UCAP bilateral contract subject 
+to the provisions of Tariff, Attachment DD, section 5.3A.  In no event, shall the purchase and 
+sale of Locational UCAP pursuant to a Locational UCAP bilateral transaction constitute a 
+transaction with the Office of the Interconnection or PJMSettlement, or a transaction in any 
+auction under this Attachment DD.   
+ 
+(iii) A Locational UCAP Seller shall have the obligation to make the capacity 
+available to PJM in the same manner as capacity that has cleared an auction under this 
+Attachment DD and the Locational UCAP Seller shall have all obligations for charges and 
+penalties associated with the capacity that is the subject of the Locational UCAP bilateral 
+contract; provided, however, the buyer shall indemnify PJMSettlement, the LLC, and the 
+Members for any failure by a seller to meet any resulting obligations, including the obligation to 
+pay deficiency penalties and charges owed to PJMSettlement, associated with the capacity.  All 
+claims regarding a default of a buyer to a seller under a Locational UCAP bilateral contract shall 
+be resolved solely between the buyer and the seller.   
+ 
+(iv) All payments and related charges for the Locational UCAP associated 
+with a Locational UCAP bilateral contract shall be arranged between the parties to such bilateral 
+contract and shall not be billed or settled by the Office of the Interconnection or PJMSettlement.  
+The LLC, PJMSettlement, and the Members will not assume financial responsibility for the 
+failure of a party to perform obligations owed to the other party under a Locational UCAP 
+bilateral contract reported to the Office of the Interconnection under this Attachment DD.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.4. GENERAL PROVISIONS 
+Effective Date: 2/19/2025 - Docket #: ER25-783-000 - Page 5 
+ 
+(v) To the extent the capacity that is the subject of Locational UCAP Bilateral 
+transaction already has cleared an auction under this Attachment DD, such bilateral capacity 
+transactions shall be subject to the prior consent of the Office of the Interconnection and its 
+determination that sufficient credit is in place for the buyer and seller with respect to the credit 
+exposure associated with such obligations.  Credit reviews of such transactions will be performed 
+in accordance with Section VI.B.8 of Tariff, Attachment Q.  The timing of the transacting 
+parties’ submission of the transaction to the Office of Interconnection for credit review is at their 
+discretion; however, they assume all risk for any delays and hold the Office of Interconnection 
+harmless from any resulting consequences. 
+ 
+ (d) The bilateral transactions provided for in this section 4.6 shall be for the physical 
+transfer of capacity to or from a Market Participant and shall be reported to and coordinated with 
+the Office of the Interconnection in accordance with this Attachment DD and pursuant to the 
+Office of the Interconnection’s rules relating to its “capacity exchange” tool.  Bilateral 
+transactions that do not contemplate the physical transfer of capacity to and from a Market 
+Participant are not subject to this Attachment DD and shall not be reported to and coordinated 
+with the Office of the Interconnection. 
+ 
+ (e) Effective with the 2022/2023 Delivery Year, any bilateral transaction provided for 
+in this section 4.6 for replacement capacity shall be given no effect in satisfying the buyer’s 
+obligations under this Attachment DD to the extent that the resource that is the subject of the 
+transaction is a Capacity Resource with State Subsidy for which the Capacity Market Seller has 
+not elected to forego receipt of any State Subsidy for the relevant Delivery Year and does not 
+qualify for one of the categorical exemptions described in Tariff, Attachment DD, sections 
+5.14(h-1)(5) through 5.14(h-1)(8) and the purchased capacity is then used to replace capacity 
+from a Capacity Resource that (1) is not a Capacity Resource with State Subsidy or (2) is a 
+Capacity Resource with State Subsidy for which the Capacity Market Seller elected the 
+competitive exemption pursuant Tariff, Attachment DD, section 5.14(h-1)(4) or reported that it 
+will forego receipt of any State Subsidy for the relevant Delivery Year, all as in accordance with 
+the PJM Manuals.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 

@@ -1,0 +1,778 @@
+[ATTACHMENT H-17A - Part 2 of 3]
+
+               -                   -                   -                   -                   -    
+76a 
+ 
+c  Transmission Amortization Expense 
+ 
+(Line a / Line b) p114.10.c (Acct. 407)                -                   -                   -                   -                   -    
+      
+     
+  
+Docket Number authorizing amount and period for recovery of Abandoned Transmission Project ERXX-XXXX  ERXX-XXXX  ERXX-XXXX  ERXX-XXXX   
+ 
+   
+ 
+Other Income Tax Adjustments    
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Total  
+ Amortization of Deficient Or (Excess) Accumulated Deferred Income Taxes Appendix A, Note S  Attachment 9.1, Column E, Line 5                      -         
+132a Total Other Income Tax Adjustments     
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 22 
+Cost of Long Term Debt     
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions             
+  
+Long Term 
+Interest  
+92  Long Term Interest 
+Total 
+Column F 
+below                          -          
+105  Long Term Debt Total Column E below                          -                            -     
+            
+   A 
+  Act 
+ List all Bonds in 
+Accounts 221 thru 224   Principle   Outstanding  
+ Months 
+Outstanding         
+  221  6.450% Series due 02/27/08                                      -    
+                      
+-                            -      
+  221  6.70% 1st Mort Bond due 4/15/12                                      -    
+                      
+-                            -            
+  221  6.70% 1st Mort Public Notes D due 4/30/32                                      -    
+                      
+-                            -            
+  221  5.70% 1st Mort Bond due 5/15/14                                      -    
+                      
+-                            -    E F       
+  222  None                                      -    
+                      
+-                            -    
+ Weighted 
+Outstanding 
+(C*D/12)   Interest        
+  223  Pledgor Note-DQU II Funding                                      -    
+                      
+-                            -                            -                         -          
+  223  Sub Debentures-Duquesne Capital                                      -    
+                      
+-                            -                            -                         -          
+  224  Allegheny County Industrial Development:                                      -    
+                      
+-                            -                            -                         -          
+  224  1990 Series D due 2013 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  1992 Series A due 2011 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  Beaver County Industrial Development:                                      -    
+                      
+-                            -                            -                         -          
+  224  1990 Series A due 2020 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  1990 Series B due 2009 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  1990 Series C due 2025 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  1993 Series A due 2030 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  1994 Series A due 2029 Variable Interest Rates                                      -    
+                      
+-                            -                            -                         -          
+  224  Ohio Air Quality and Ohio Water Development                                      -    
+                      
+-                            -                            -                         -          
+  224  Authorities Pollution Control Revenue Bonds:                                      -    
+                      
+-                            -                            -                         -          
+  224  1988 Series                                      -    
+                      
+-                            -                            -                         -          
+  224  1989 Series                                      -    
+                      
+-                            -                            -                         -          
+  224  1993 Series                                      -    
+                      
+-                            -                            -                         -          
+  224  1994 Series A                                      -    
+                      
+-                            -                            -                         -          
+  224  1994 Series B                                      -    
+                      
+-                            -                            -                         -          
+  xx  xxxxxx                                      -    
+                      
+-                            -                            -                         -          
+    Total                             -                         -          
+    
+Note:  the amount outstanding for debt retired during the 
+year is the outstanding amount as of the last month it was 
+outstanding                               -                         -          
+             
+             
+             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 23 
+             
+          
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 24 
+Exec 
+Summary                 
+Step 
+Mont
+h Year Action              
+1 April Year 2 TO populates the formula with Year 1 data from FERC Form 1.           
+2 April Year 2 TO estimates all transmission Cap Adds, Retirements, CWIP and associated depreciation for Year 2 based on Months expected to be in service and monthly CWIP balances in Year 2.      
+3 April Year 2 TO adds 13 month average Cap Adds and retirements (line 14), CWIP (line 36) and associated depreciation (lines 23 and 77) to the Formula.        
+4 May Year 2 Post results of Step 3 on PJM web site.             
+5 June Year 2 Results of Step 3 go into effect.             
+6 April Year 3 TO populates the formula with Year 2 data from FERC Form 1.           
+7 April Year 3 Reconciliation – TO calculates the true up amount by subtracting the results of Step 6 by Step 3.          
+8 April Year 3       
+   
+Reconciliation – TO calculates interest and amortization associated with the true up calculated in Step 7 and applies that amount to line 164 of the formula (if the difference results  
+in refund and a cash refund is made, then this step is not implemented).       
+9 April Year 3 TO estimates all transmission Cap Adds, Retirements, CWIP and associated depreciation for Year 3 based on Months expected to be in service and monthly CWIP balances in Year 3.      
+10 April Year 3 TO adds 13 month average Cap Adds and retirements (line 14), CWIP (line 36) and associated depreciation (lines 23 and 77) to the Formula.        
+11 May Year 3 Post results of Step 10 on PJM web site.             
+12 June Year 3 Results of Step 9 go into effect for the Rate Year 2.            
+Reconciliation details                
+1 April Year 2 TO populates the formula with Year 1 data from FERC Form 1.           
+   $38,019,689  Rev Req based on Year 1 data Must run Appendix A to get this number (without any cap adds in line 21) of Appendix A        
+                 
+2 April Year 2 TO estimates all transmission Cap Adds, Retirements, CWIP and associated depreciation for Year 2 based on Months expected to be in service and monthly CWIP balances in Year 2.      
+ 
+          
+           (I) (J) (K) (L) (M)  
+   (A) (B) (C) (D) (E) (F) (G) (H) Accumulated Balance        
+   
+Other Project 
+PIS other retirements Project X CWIP Project X PIS Project X PIS retirements Brady PIS Brady PIS retirements Brady CWIP Other Project PIS Project X CWIP Project X PIS Brady PIS 
+BRADY 
+CWIP Total 
+  Dec                               -                          -                        -                      -                         -     
+  Jan                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Feb                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Mar                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Apr                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  May                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Jun                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Jul                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Aug                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Sep                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Oct                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Nov                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -     
+  Dec                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -      
+  Total                        -                               -                          -                          -                                          -                            -                             -                          -                          -                          -                        -                      -                         -              -    
+                 
+      13 month avg of new plant additions = Col I + Col K + Col L                          -     goes to line 14 of the formula        
+      13 month avg of current year changes to CWIP = Col J + Col M                          -     goes to line 36 of the formula        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 25 
+   (N) = 1 (O) (P) = N * O (Q) (R) = K (S) (T) = R * S (U) (V) = L (W) (X) = V * W (Y)    
+   Total Other Composite Trans Depreciation Accum Deprec Total Project X Composite Trans Depreciation Accum Brady Composite Trans Depreciation Accum    
+   Project PIS Deprec Rate Expense  PIS Deprec Rate Expense Deprec PIS Deprec Rate Expense Deprec    
+  DEC 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Jan 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Feb 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Mar 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Apr 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  May 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Jun 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Jul 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Aug 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Sep 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Oct 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Nov 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Dec 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -       
+  Total                         -                          -                               -                          -                          -                       -       
+    13 mo. Avg accumulated depreciation = Col Q + Col U  +Col Y                                       -     goes to line 23 of the formula          
+    Depreciation Expense = Col P + Col T + Col X                                        -     goes to line 77 of the formula          
+ 
+3 April Year 2 TO adds 13 month average Cap Adds and retirements (line 14), CWIP (line 36) and associated depreciation (lines 23 and 77) to the Formula.         
+     Input to Formula Line 21            
+                  
+4 May Year 2 Post results of Step 3 on PJM web site.              
+    $                    -     Must run Appendix A to get this number (with results of step 2)           
+                  
+5 June Year 2 Results of Step 3 go into effect.              
+   12/1/06               
+                  
+6 April Year 3 TO populates the formula with Year 2 data from FERC Form 1.            
+                  
+    $                    -    Rev Req based on Prior Year data Must run Appendix A to get this number (without any adjustments for cap adds) of Appendix A        
+                  
+   Detail of actual Cap Adds, Retirements, CWIP and associated depreciation for Year 2 based on Months expected to be in service and monthly CWIP balances in Year 2.        
+                  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 26 
+           (I) (J) (K) (M)   
+   (A) (B) (C) (D) (E) (F) (G) (H) Accumulated Balance      
+   Other Project PIS other retirements Project X CWIP Project X PIS 
+Project X PIS 
+retirements Brady PIS Brady PIS retirements Brady CWIP Other Project PIS Project X CWIP Project X PIS Brady PIS BRADY CWIP Total  
+  Dec                               -                          -                        -                      -                         -      
+  Jan                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Feb                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Mar                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Apr                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  May                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Jun                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Jul                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Aug                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Sep                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Oct                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Nov                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -      
+  Dec                        -                              -                          -                          -                          -                          -                             -                          -                          -                          -                        -                      -                         -       
+  Total                        -                           -                          -                              -                          -                        -                         -             -     
+                 
+     13 month avg of new plant additions = Col I + Col K + Col L                         -            
+      End of year balance new plant additions Col A + Col C + Col H         
+     13 month avg of current year changes to CWIP = Col J + Col U                        -           
+ 
+              
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 27 
+                 
+   (N) = I (O) (P) = N*O (Q) ( R) = K (S) (T) = R + S (U) (V) (W) (X) = V + W (Y)   
+   Total Other Composite Trans Depreciation Accum Deprec Total Project X Composite Trans Depreciation Accum Brady Composite Trans Depreciation Accum   
+   Project PIS Deprec Rate Expense  PIS Deprec Rate Expense Deprec PIS Deprec Rate Expense Deprec   
+  DEC 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Jan 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Feb 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Mar 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Apr 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  May 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Jun 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Jul 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Aug 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Sep 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Oct 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Nov 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Dec 0 0.22%                       -                          -                                          -    0.22%                          -                          -                          -    0.22%                     -                       -      
+  Total                         -                          -                               -                          -                          -                       -      
+    13 mo. Avg accumulated depreciation = Col Q + Col U + Col Y                                       -     goes to line 23 of the formula         
+    Depreciation Expense = Col P + Col T + Col X                                        -     goes to line 77 of the formula         
+                 
+                 
+                 
+7 April Year 3      
+   Reconciliation - TO calculates the true up amount by subtracting the results of Step 6 by Step 3.      
+    Results of Step 6                       -               
+    Results of Step 3  $                   -               
+     True up w/o interest   $                   -    Note: for 1st year, divide this amt by 12 and multiply by the number of months the rate was in effect       
+    1st year  $                   -    Divide this number by the number of months the rate was in effect          
+       and place that number in the month that the rate went in effect in the interest calculation below      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 28 
+8 
+Apri
+l Year 3   
+   
+Reconciliation - TO calculates interest and amortization associated with the true up calculated in Step 7 and applies that amount to line 164 of the formula (if the difference 
+results in refund and a cash refund is made, then this step is not implemented).   
+   Interest on Amount of Refunds or Surcharges          
+   
+Interest 35.19a for 2nd quarter Current 
+Yr  0.0000%         
+  
+ 
+Month  Yr  1/12 of Step 7 
+ Interest 35.19a for and 
+35.19 b    Interest  Refunds Owed      
+      March Current Yr Months        
+  Jun Year 1                        -    0.0000% 11.5 
+                        
+-    
+                         
+-         
+  Jul Year 1                        -    0.0000% 10.5 
+                        
+-    
+                         
+-         
+  Aug Year 1                        -    0.0000% 9.5 
+                        
+-    
+                         
+-         
+  Sep Year 1                        -    0.0000% 8.5 
+                        
+-    
+                         
+-         
+  Oct Year 1                        -    0.0000% 7.5 
+                        
+-    
+                         
+-         
+  Nov Year 1                        -    0.0000% 6.5 
+                        
+-    
+                         
+-         
+  Dec Year 1                        -    0.0000% 5.5 
+                        
+-    
+                         
+-         
+  Jan Year 2                        -    0.0000% 4.5 
+                        
+-    
+                         
+-         
+  Feb Year 2                        -    0.0000% 3.5 
+                        
+-    
+                         
+-         
+  Mar Year 2                        -    0.0000% 2.5 
+                        
+-    
+                         
+-         
+  Apr Year 2                        -    0.0000% 1.5 
+                        
+-    
+                         
+-         
+  May Year 2                        -    0.0000% 0.5 
+                        
+-    
+                         
+-         
+  Total                         -       
+                         
+-         
+               
+      Balance  Interest Amort Balance       
+  Jun Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Jul Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Aug Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Sep Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Oct Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Nov Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Dec Year 2                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Jan Year 3                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Feb Year 3                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Mar Year 3                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Apr Year 3                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  May Year 3                        -    0.0000% 
+                                      
+-    
+                        
+-          
+  Total with interest    
+                                      
+-           
+               
+  The difference between the Reconciliation in Step 6 and the forecast in Prior Year with interest 
+                        
+-          
+    
+Place result in line 164 of the formula for Year 2 
+rate         
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 29 
+9 April Year 3       
+                 
+                 
+                 
+           (I) (J) (K) (L) (M)  
+   (A) (B) (C) (D) (E) (F) (G) (H) Accumulated Balance        
+   Other Project PIS other retirements Project X CWIP Project X PIS Project X PIS retirements Brady PIS 
+Brady PIS 
+retirements Brady CWIP Other Project PIS Project X CWIP Project X PIS Brady PIS 
+BRADY 
+CWIP Total 
+  Dec                               -                          -                        -                       -                         
+-     
+  Jan                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Feb                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Mar                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Apr                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  May                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -    
+                     
+-     
+  Jun                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Jul                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Aug                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Sep                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Oct                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Nov                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-     
+  Dec                        -                               -                          -                          -                                          -                           -                             -                       -                          -                          -                        -                       -                         
+-      
+  Total                        -                           -                          -                              -                          -                        -                       -                         
+-              -    
+                 
+     13 month avg of new plant additions = Col I + Col K + Col L                        -     goes to line 14 of the formula        
+     13 month avg of current year changes to CWIP = Col J + Col M                        -     goes to line 36 of the formula        
+              
+                 
+   (N = 1 (O) (P) = N*O (Q) ( R) = K (S) (T) = R*S (U) (V) = L (W) (X) = V*W (Y)   
+   Total Other Composite Trans Depreciation Accum Deprec Total Project X Composite 
+Trans Depreciation Accum Brady Composite Trans Depreciation Accum   
+   Project PIS Deprec Rate Expense  PIS Deprec Rate Expense Deprec PIS Deprec Rate Expense Deprec   
+  DEC 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Jan 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Feb 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Mar 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Apr 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  May 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Jun 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Jul 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Aug 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Sep 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Oct 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Nov 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Dec 0 0.22%                       -                          -                                          -    0.22%                          -                          
+-                          -    0.22%                     -                       -      
+  Total                         -                          -                               -                          
+-                          -                       -      
+    13 mo. Avg accumulated depreciation = Col Q + Col U + Col Y                                       -     goes to line 23 of the formula         
+  Depreciation Expense = Col P + Col T + Col X                                        -     goes to line 77 of the formula         
+10   Rev Req based on Year 2 data with estimated Cap Adds, Rets, CWIP and Deprec for Year 3  Cap Adds (Step 9) and True up of Year 1 data (Step 8)          
+   Must run App A to get this # (with 13 mo. avg cap adds, CWIP, depreciation for Year 3 cap adds)          
+11 May Year 3 Post results of Step 10 on PJM web site.             
+     Post results of Step 3 on PJM web site.          
+                 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 30 
+12 June Year 3 Results of Step 9 go into effect for the Rate Year 2.            
+    $                    -                 
+             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 31 
+ 
+ 
+                    
+ Details   Project X PIS Project X CWIP Brady PIS Brady CWIP                                               Project X Abandoned Plant       
+6 Schedule 12  -     -     -     -     -           
+7 Life   -     -     -      -     -           
+8 CIAC  -     -     -     -     -           
+9 Increased ROE (Basis 
+Points)  -     -     -     -     -           
+10 FCR W base ROE  -     -     -     -     -           
+11 FCR W increased ROE  -     -     -     -     -           
+12 Investment  -     -     -     -     -           
+13 Annual Depreciation 
+Exp  -     -     -     -     -           
+14 Annual Amortization 
+Exp.   -      -      -      -     -            
+15 13 monthly Avg   -       -       -       -       -               
+16   
+Invest 
+Yr Beginning Deprec Ending 
+ Revenue 
+[(Beginning + 
+Ending)/2* 
+Line 11]  Beginning Deprec Ending 
+ Revenue 
+[(Beginning + 
+Ending)/2* 
+Line 11]  Beginning Deprec Ending 
+ Revenue 
+[(Beginning + 
+Ending)/2* Line 
+11]  Beginning Deprec Ending 
+ Revenue 
+[(Beginning + 
+Ending)/2* 
+Line 11]  Beginning Deprec Ending Amort 
+Revenue 
+[(Beginning + 
+Ending)/2* Line 
+11] +_Amort Total Incentive Rev Credit 
+17 FCR W base ROE 2006                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+18 W Increased ROE 2006                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+19 FCR W base ROE 2007                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+20 W Increased ROE 2007                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+21 FCR W base ROE 2008                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+22 W Increased ROE 2008                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+23 FCR W base ROE 2009                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+24 W Increased ROE 2009                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+25 FCR W base ROE 2010                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+26 W Increased ROE 2010                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+27 FCR W base ROE 2011                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+28 W Increased ROE 2011                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+29 FCR W base ROE 2012                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+30 W Increased ROE 2012                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+31 FCR W base ROE 2013                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+32 W Increased ROE 2013                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+33 FCR W base ROE 2014                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+34 W Increased ROE 2014                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+35 FCR W base ROE 2015                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+36 W Increased ROE 2015                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+37 FCR W base ROE 2016                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+38 W Increased ROE 2016                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+39 FCR W base ROE 2017                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+40 W Increased ROE 2017                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+41 FCR W base ROE 2018                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+42 W Increased ROE 2018                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+43 FCR W base ROE 2019                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+44 W Increased ROE 2019                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+45 FCR W base ROE 2020                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+46 W Increased ROE 2020                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+47 FCR W base ROE 2021                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+48 W Increased ROE 2021                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+49 FCR W base ROE 2022                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+50 W Increased ROE 2022                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+51 FCR W base ROE 2023                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                         -    
+52 W Increased ROE 2023                       -                    -                  -                               -                          -                   -                  -                               -                          -                   -                  -                               -                          -                   -                  -                              -                          -                   -                  -                 -                                  -                         -                      -      
+line #  Formula Line           
+1  165 Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects                     $                          -       
+    =Incentive - Revenue Credit for the corresponding rate year      
+   Fixed Charge Rate (FCR) if not a CIAC      
+2  155 Net Plant Carrying Charge without Depreciation                                                    %      
+3  162 Net Plant Carrying Charge per 100 Basis Point increase in ROE without Depreciation                                                %      
+4   Line B less Line A                                                      %      
+            
+5  156 Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes                                                                %       
+              
+   Beginning = 13 month Plant CWIP or Incentive Plant balance  Total = Sum of Revenue for Projects  
+   Deprec = 13 month avg Accumulated Depreciation (specific for Incentive Plant)   Incentive = Total for "W Increased ROE" row  
+   Ending = Beginning - Deprec      Revenue Credit = Total for ''FCR W base ROE'' row 
+   Amort = Annual Amortization Expense (specific for Abandoned Plant).       
+   Revenue= FCR* (Beginning + Ending)/2 + Amort (specific for Abandoned Plant).      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 32 
+59    ….   ….   ….   …..   ….   ….   ….   …..   ….   ….   ….   …..   ….   ….   ….   …..   ….   ….   ….   …..   …..   ….                         -    
+60    ….   ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   …..   ….                      -                        -    
+ * For True-up use amounts in Step 6 of Attachment 6                       
+ 
+** For abandoned plant, line 14 (annual amortization expense) will be sourced from Attachment 5 - Abandoned Transmission Projects.  Lines 10 & 11 (carrying charge) and line 15 (13 month average plant) will remain zero until the Commission accepts or approves the future recovery of unamortized Abandoned Plant.  The 
+Company will be required to submit a Section 205 filing to recover these costs.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 33 
+     
+(A) (B) (C) (D)  
+ Account Number   Depreciation Plant Base   Depreciation Rate   Depreciation Expense    
+ Transmission Plant      
+ 352-Major Structures                         -    3.01                       -     
+ 352-Minor Structures                         -    2.53                       -     
+ 353                         -    3.42                       -     
+ 354                         -    1.6                       -     
+ 355                         -    2.47                       -     
+ 356                         -    2.09                       -     
+ 357                         -    1.82                       -     
+ 358                         -    1.88                       -     
+ 359                         -    1.87                       -     
+ Subtotal                         -    
+2.68 
+                       -     
+     
+General Plant     
+390                        -    3.33                       -     
+391                        -    20                       -     
+391.1                        -    5                       -     
+392                        -    9.1                       -     
+393                        -    3.33                       -     
+394                        -    4                       -     
+395                        -    5                       -     
+396                        -    6.1                       -     
+397                        -    6.67                       -     
+398                        -    5                       -     
+Subtotal                        -    3.73                       -     
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 34 
+Duquesne Light Company 
+Attachment H -17A 
+Attachment 9.1 - Amortization of Deficient or (Excess) Accumulated Deferred Income Taxes 
+          
+          
+ A  B  C  D  E 
+          
+     Deficient or (Excess)  Tax Gross-up  Impact on Income 
+ Impacts on Total Income Taxes  Source  ADIT Amortization   Percentage  Tax Allowance 
+1 TCJA 2017 Excess Deferred Income Taxes To Be Flowed Back To Transmission Customers   Attachment 9.2, Line 7  $                      -   x 140.63% = $                      -   
+2 TCJA 2017 Deficient Deferred Income Taxes To Be Recovered From Transmission Customers   Attachment 9.2, Line 9                          -    x 140.63%                          -   
+3 [Reserved for future tax rate changes]      x                            -    
+4 Total Adjustments to Tax Expense (without Tax Gross-up)    $                      -        
+          
+5 Total Impact on Tax Expense (with Tax Gross-up)        $                      -   
+          To Attach. 5  
+          
+ Notes         
+ 
+1 - Positive amounts in Column C are recorded in Account 410.1.  Corresponding amounts in Column E reduce Account 182.3 and increase the income tax allowance and ATRR.  The difference between the two amounts reduces 
+Account 283.  Negative amounts in Column C are recorded in Account 411.1.  Corresponding amounts in Column E reduce Account 254 and decrease the income tax allowance and ATRR.  The difference between the two amounts 
+reduces Account 190. 
+The total for Column E is reported on Attachment 5. 
+ 
+2. – Attachment No. 9.1 reflects the amortization of both (excess) and deficient deferred income taxes.  A negative amount in Column E reflects a net refund of (excess) deferred income taxes.  A positive amount in Column E reflects 
+a net collection of deficient deferred income taxes. 
+  
+ 3 - Tax gross-up calculation for TCJA 2017 amortization for the test period:          
+ Federal Income Tax Rate  21.00%       
+ State Income Tax Rate or Composite  9.99%       
+ Federal Income Tax Deductible for State Purposes  0.00%       
+ T  28.89%       
+ T / (1-T)  40.63%       
+ Tax Gross-up Percentage (1 / (1-T))  140.63%       
+          
+ 4 - [Reserved for future tax rate changes]          
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 35 
+Duquesne Light Company 
+Attachment H -17A 
+Attachment 9.2 - Unamortized Deficient or (Excess) Accumulated Deferred Income Taxes 
+    
+              
+ 
+A B C D E F G H I 
+    
+              
+ 
+Category of Deficient or (Excess)  
+Accumulated Deferred Income Taxes 
+Tax Law 
+Change 
+Amortization 
+Period  
+Deficient / 
+(Excess) ADIT  
+(Prior to 
+Amortization and 
+without Tax 
+Gross-up) 
+Cumulative 
+Excess / 
+(Deficient) ADIT 
+Amortization 
+through the 
+Beginning of the 
+Test Year 
+Deficient / 
+(Excess) ADIT  
+(without Tax 
+Gross-up) 
+As of Beginning of 
+Test Year 
+Amortization of 
+Excess / (Deficient) 
+ADIT during Test 
+Year 
+ 
+Debit / (Credit) 
+Deficient / 
+(Excess) ADIT  
+(without Tax 
+Gross-up) 
+As of End of Test 
+Year Reference  
+    
+ 
+ Note A   Note B   Note C   Note D   Note E   Note F   Note G   Note H  
+     
+              
+1 ACCOUNT 254: 
+            
+2 Protected Plant-related (Excess) ADIT   TCJA-2017   ARAM  
+$                      -   $                      -   $                      -   $                      -   $                      -   
+     
+3 Unprotected Plant-related (Excess) ADIT   TCJA-2017   ARAM  
+                        -                            -                            -                            -                            -    
+     
+4 Total Plant-related (Excess) ADIT   TCJA-2017   ARAM  
+$                      -   $                      -   $                      -   $                      -   $                      -   
+Col. F to 1-ADIT, Line 12C, Col H to 1-ADIT, Line 12B 
+5 Unprotected Non-plant-related (Excess) ADIT   TCJA-2017  3 Years 

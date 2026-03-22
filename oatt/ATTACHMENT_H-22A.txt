@@ -1,0 +1,1504 @@
+Attachment H-22A 
+Page 1 of 6 
+ 
+Formula Rate - Non-Levelized                         For the 12 months ended 12/31/_____ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+ 
+COMPANY NAME 
+ 
+Line 
+No. 
+     Allocated 
+Amount 
+1 GROSS REVENUE REQUIREMENT (page 3, line 31)      $              -  
+       
+ REVENUE CREDITS  (Note T)  Total Allocator  
+2 Account No. 454 (page 4, line 34) $            -   TP  0.00000  $              -  
+3 Account No. 456.1 (page 4, line 35) 0   TP  0.00000 0  
+4a Revenues from Grandfathered Interzonal Transactions  0   TP  0.00000 0  
+4b Revenues from service provided by ISO at a discount  0   TP  0.00000 0  
+5a Legacy MTEP Credit (Account 456.1) (page 4, line 36) 0   1.00000 0  
+       
+6 TOTAL REVENUE CREDITS (sum lines 2-5)         $              -  
+       
+7 NET REVENUE REQUIREMENT (line 1 minus line 6)        $              -  
+       
+ DIVISOR      
+8 1 CP   (Note A)     0  
+9 12 CP  (Note B)     0  
+       
+10 Reserved      
+11 Reserved      
+12 Reserved      
+13 Reserved      
+14 Reserved      
+       
+15 Annual Cost ($/kW/Yr) - 1 CP (line 7 / line 8) $0.000    
+       
+16 Annual Cost ($/kW/Yr) - 12 CP (line 7 / line 9) $0.000    
+       
+17 Network Rate ($/kW/Mo) (line 15 / 12) $0.000    
+       
+17a Point-To-Point Rate ($/kW/Mo) (line 16 / 12) $0.000    
+       
+   Peak Rate   Off-Peak Rate 
+       
+18 Point-To-Point Rate ($/kW/Wk) (line 16 / 52; line 16 
+/ 52) 
+$0.000    
+       
+19 Point-To-Point Rate ($/kW/Day) (line 16 / 260; line 
+16 / 365) 
+$0.000 Capped at 
+weekly rate 
+$0.000 
+      
+20 Point-To-Point Rate ($/MWh) (line 16 / 4,160; line 
+16 / 8,760 * 1000) 
+$0.000 Capped at 
+weekly and daily 
+rate 
+ $0.000 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 2 
+Attachment H-22A 
+Page 2 of 6 
+ 
+ 
+Formula Rate - Non-Levelized       For the 12 months ended 12/31/_____ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+ 
+COMPANY NAME 
+ 
+ (1) (2) (3)  (4) (5) 
+Line 
+No. 
+ 
+RATE BASE: 
+Form No. 1  
+Page, Line, Col. 
+Company 
+Total 
+  
+Allocator 
+Transmission  
+(Col. 3 times Col. 4) 
+       
+ GROSS PLANT IN SERVICE      
+1   Production 205.46.g  $           -  NA     
+2   Transmission 207.58.g 0  TP 0.00000  $                 -  
+3   Distribution 207.75.g 0  NA     
+4   General & Intangible 205.5.g & 
+207.99.g 
+0  W/S 0.00000 0  
+5   Common 356 0  CE 0.00000 0  
+6 TOTAL GROSS PLANT (sum lines 
+1-5) 
+   $          -  GP= 0.000%  $                 -  
+ ACCUMULATED 
+DEPRECIATION AND 
+AMORTIZATION 
+     
+7   Production 219.20.c-219.24.c  $          -  NA     
+8   Transmission 219.25.c 0  TP 0.00000  $                 -  
+9   Distribution 219.26.c 0  NA     
+10   General & Intangible 200.21.c & 
+219.28.c  
+0  W/S 0.00000 0  
+11   Common 356 0  CE 0.00000 0  
+12 TOTAL ACCUMULATED. 
+DEPRECIATION AND 
+AMORTIZATION (sum lines 7-11) 
+  $          -     $                 -  
+        
+ NET PLANT IN SERVICE      
+13   Production (line 1 - line 7)  $          -      
+14   Transmission (line 2 - line 8) 0     $                 -  
+15   Distribution (line 3 - line 9) 0      
+16   General & Intangible (line 4 - line 10) 0    0  
+17   Common (line 5 - line 11) 0    0  
+18 TOTAL NET PLANT (sum lines 13-
+17) 
+  $          -  NP= 0.000%  $                 -  
+       
+ ADJUSTMENTS TO RATE BASE 
+(Note F) 
+     
+19   Account No. 281 (enter negative) 273.8.k  $          -  NA zero  $                 -  
+20   Account No. 282 (enter negative) 275.2.k & 275.6.k 0  NP 0.00000 0  
+21   Account No. 283 (enter negative) 277.9.k & 
+277.18.k 
+0  NP 0.00000 0  
+22   Account No. 190  234.8.c & 
+234.17.c 
+0  NP 0.00000 0  
+23 Net (Excess) / Deficient Deferred 
+Tax Adj. (Account No. 182.3 and 
+254) 
+DIT Worksheet, 
+x.g  
+0  NP 0.00000 0  
+24   Account No. 255 (enter negative) 
+(Note K) 
+267.8.h 0  NP 0.00000 0  
+25 TOTAL ADJUSTMENTS (sum 
+lines 19- 24) 
+    $         -     $                 -  
+       
+26 LAND HELD FOR FUTURE USE 
+(Note G) 
+214.x.d      $         -  TP 0.00000  $                 -  
+       
+ WORKING CAPITAL (Note H)       
+27   CWC   calculated    $         -    0  
+28   Materials & Supplies (Note G) 227.5.c & 227.8.c 
+& 227.16.c 
+0  TE 0.00000 0  
+29   Prepayments (Account 165) 111.57.c 0  GP 0.00000 0  
+30 TOTAL WORKING CAPITAL 
+(sum lines 27 - 29) 
+    $         -     $                -  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 3 
+         
+31 RATE BASE (sum lines 18, 25, 26, 
+& 30) 
+    $         -     $                -  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 4 
+Attachment H-22A 
+Page 3 of 6 
+  
+Formula Rate - Non-Levelized       For the 12 months ended 12/31/_____ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+ 
+COMPANY NAME 
+ 
+ (1) (2) (3)  (4) (5) 
+Line 
+No. 
+ Form No. 1  
+Page, Line, Col. 
+Company 
+Total 
+  
+Allocator 
+Transmission  
+(Col. 3 times Col. 4) 
+ O&M      
+1   Transmission  321.112.b  $           -  TE 0.00000 $                     -  
+1a Less LSE Expenses included in Transmission O&M Accounts 
+(Note V) 
+321.88.b, 
+321.92.b;  
+0   1.00000 0  
+1b Less Midcontinent ISO Fees included in Transmission O&M (Note X) 0  TE 0.00000 0 
+1c Less EPRI Annual Membership Dues  (Note I) 0  TE 0.00000 0 
+2 Less Account 565 321.96.b 0  TE 0.00000 0 
+3   A&G 323.197.b 0  W/S 0.00000 0 
+3a PBOP Expense excluding Pension Expense included in line 3 
+for information only 
+(Note E) 0     
+3b Less PJM Integration Costs included in A&G and Internal 
+Integration Costs included in A&G 
+(Note Y) 0 W/S 0.00000 0 
+4 Less FERC Annual Fees 350.x.b 0  W/S 0.00000 0 
+5 Less EPRI & Reg. Comm. Exp. & Non-safety Advertising 
+(Note I) 
+ 0  W/S 0.00000 0 
+5a Plus Transmission Related Reg. Comm. Exp.  (Note I)  0  TE 0.00000 0 
+6   Common 356 0  CE 0.00000 0 
+7   Transmission Lease Payments  0   1.00000 0 
+8 TOTAL O&M (Sum lines 1, 3, 5a, 6, 7 less lines 1a, 1b, 1c, 2, 
+3b, 4, 5) 
+  $           -     $                     -  
+       
+ DEPRECIATION AND AMORTIZATION EXPENSE       
+9   Transmission  336.7.f  $           -  TP 0.00000  $                     -  
+10   General & Intangible 336.1.f & 
+336.10.f  
+0  W/S 0.00000 0  
+11   Common 336.11.f 0  CE 0.00000 0  
+12 TOTAL DEPRECIATION AND AMORTIZATION (Sum 
+lines 9 - 11) 
+  $           -     $                     -  
+       
+  TAXES OTHER THAN INCOME TAXES    (Note J)      
+   LABOR RELATED      
+13 Payroll 263.i  $           -  W/S 0.00000  $                     -  
+14   Highway and vehicle 263.i 0  W/S 0.00000 0  
+15   PLANT RELATED       
+16 Property 263.i 0  GP 0.00000 0  
+17   Gross Receipts 263.i 0  NA zero 0  
+18   Other 263.i 0  GP 0.00000 0  
+19   Payments in lieu of taxes  0  GP 0.00000 0  
+20 TOTAL OTHER TAXES (sum lines 13 - 19)   $           -     $                     -  
+         
+  INCOME TAXES (Note K)      
+21      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =  0.000000%    
+22      CIT=(T/1-T) * (1-(WCLTD/R)) =  0.000000%    
+ where WCLTD =(page 4, line 27) and R= (page 4, line 30)      
+        and FIT, SIT & p are as given in footnote K.      
+23       1 / (1 - T) = (from line 21)  0.0000    
+24   Amortized Investment Tax Credit 266.8.f (enter 
+negative) 
+0     
+25   Amortization of Excess/Deficient Deferred Income Taxes 
+(Note O) 
+DIT Worksheet, 
+x.d and x.e 
+0    
+25b   Tax Effect of Permanent Differences and AFUDC Equity (Note Z) 0    
+       
+26   Income Tax Calculation (line 22 * line 30)   $           -  NA   $                      -  
+27   ITC adjustment (line 23 * line 24)  0  NP 0.00000 0  
+28   Excess/Deficient DIT amortization (line 23 * line 25)  0 NP 0.00000 0 
+28b   Permanent Differences and AFUDC Equity Tax Adjustment 
+(line 23 * line 25b) 
+ 0 NP 0.00000 0 
+29 Total Income Taxes (sum lines 26 - 28b)    $          -       $                      -  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 5 
+        
+30 RETURN     $          -  NA     $                     -  
+ [Rate Base (page 2, line 31) * Rate of Return (page 4, line 30)]      
+       
+31 REV. REQUIREMENT (sum lines 8, 12, 20, 29, 30)   $           -     $                       -  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 6 
+Attachment H-22A 
+Page 4 of 6 
+ 
+Formula Rate - Non-Levelized             For the 12 months ended 12/31/_____ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+COMPANY NAME 
+SUPPORTING CALCULATIONS AND NOTES 
+ 
+Line 
+No. 
+ 
+TRANSMISSION PLANT INCLUDED IN ISO RATES 
+        
+          
+1 Total transmission plant (page 2, line 2, column 3)     $                          -    
+2 Less transmission plant excluded from ISO rates   (Note M)     0    
+3 Less transmission plant included in OATT Ancillary Services    (Note N)     0    
+4 Transmission plant included in ISO Rates (line 1 less lines 2 & 3)    $                          -    
+          
+5 Percentage of transmission plant included in ISO Rates (line 4 divided by line 1)   TP= 0.00000   
+          
+ TRANSMISSION EXPENSES          
+          
+6 Total transmission expenses    (page 3, line 1, column 3)    $                          -    
+7 Less transmission expenses included in OATT Ancillary Services   (Note L)     0    
+8 Included transmission expenses (line 6 less line 7)    $                          -    
+        
+9 Percentage of transmission expenses after adjustment (line 8 divided by line 6)    0.00000   
+10 Percentage of transmission plant included in ISO Rates (line 5)   TP 0.00000   
+11 Percentage of transmission expenses included in ISO Rates (line 9 times line 10)   TE= 0.00000   
+        
+          
+ WAGES & SALARY ALLOCATOR (WS)         
+  Form 1 Reference $ TP Allocation     
+12   Production 354.20.b 0  0.00 0      
+13   Transmission 354.21.b 0  0.00 0      
+14   Distribution 354.23.b 0  0.00 0   WS Allocator   
+15   Other 354.24,25,26.b 0  0.00 0   ($ / Allocation)   
+16   Total (sum lines 12-15)  0   0  = 0.00000 = WS 
+          
+ COMMON PLANT ALLOCATOR (CE)         
+   $  % Electric   WS Allocator   
+17   Electric 200.3.c 0   (line 17 / line 20)  (line 16)  CE 
+18   Gas 201.3.d 0   0.00000 * 0.00000 = 0.00000 
+19   Water 201.3.e 0         
+20   Total (sum lines 17 - 19)  0        
+          
+ RETURN (R)      $   
+21  Long Term Interest (117, sum of 62.c through 67.c)   0   
+22  Preferred Dividends (118.29c) (positive number)   0   
+          
+                                           Development of Common Stock:        
+23  Proprietary Capital (112.16.c)     0   
+24  Less Preferred Stock (line 28)     0   
+25  Less Account 216.1 (112.12.c)  (enter negative)   0   
+26  Common Stock (sum lines 23-25)    0   
+          
+          
+  (Note P) $ % Cost  Weighted   
+27   Long Term Debt (112, sum of 18.c through 21.c)  0  0% 0.0000  0.0000 = WCLTD 
+28   Preferred Stock (112.3.c)  0  0% 0.0000  0.0000   
+29   Common Stock (line 26)  0  0% 0.1138  0.0000   
+30 Total (sum lines 27-29)  0      0.0000 = R 
+          
+ REVENUE CREDITS         
+       Load   
+ ACCOUNT 447 (SALES FOR RESALE) (Note Q)  (310-311)        
+31   a. Bundled Non-RQ Sales for Resale (311.x.h)      0   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 7 
+32   b. Bundled Sales for Resale included in Divisor on page 1          0   
+33   Total of (a)-(b)      0   
+            
+34 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY) (Note R)     $                          -    
+          
+35 ACCOUNT 456.1 (OTHER ELECTRIC REVENUES) (Note U) (330.x.n)    $                          -    
+36 ACCOUNT 456.1 (OTHER ELECTRIC REVENUES) (Note W) (330.x.n)    $                          -    
+Attachment H-22A 
+Page 5 of 6 
+ 
+ 
+Formula Rate - Non-Levelized       For the 12 months ended 12/31/_____ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+ 
+COMPANY NAME 
+ 
+ General Note:   References to pages in this formulary rate are indicated as: (page#, line#, col.#)    
+                           References to data from FERC Form 1 are indicated as:   #.y.x  (page, line, column)    
+Notes:     
+         
+A DEOK 1 CP is Duke Energy Ohio ("DEO") Monthly Firm Transmission System Peak Load as reported on page 400, column b of Form 1 at the time of DEO's annual peak.  
+B DEOK 12 CP is DEO Monthly Firm Transmission System Peak Load as reported on page 400, column b of Form 1 at the time of DEO's monthly peaks.  
+C Reserved        
+D Reserved        
+E DEOK will provide, in connection with each Annual Update, a copy of the entire annual actuarial valuation report supporting the derivation of the annual Postretirement Benefits Other than Pensions 
+(“PBOP”) expense as charged to FERC account 926, and the amount of such expense included in Total Admin and General Expenses provided on Attachment H-22A, page 3 of 6, line 3 of the 
+Formula Rate.  DEOK will provide, in connection with each Annual Update, a worksheet that shows the actual PBOP expense components and calculation derivation (including, for each account to 
+which PBOP expense is recorded, the account number, expense amount, description, calculation derivation and source). 
+F The balances in Accounts 190, 281, 282 and 283, as adjusted by any amounts in contra accounts identified as regulatory assets or liabilities related to ASC 715 (f/k/a FAS 106) or ASC 740 (f/k/a FAS 
+109).  Account 254/182.3 includes Other Regulated Liabilities/Assets related to Excess/Deficient Accumulated Deferred Income Taxes that have been allocated to electric operations.  This line item is 
+necessary to maintain rate base neutrality in the event of a change in the Federal or State income tax rates. Balance of Account 255 is reduced by prior flow throughs and excluded if the utility chose to 
+utilize amortization of tax credits against taxable income as discussed in Note K.  Account 281 is not allocated. 
+G Identified in Form 1 as being only transmission related. The transmission portion of page 227, line 5 is specified in a footnote to the Form 1. 
+H Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 8, column 5. 
+ Prepayments are the electric related prepayments booked to Account No. 165 and reported on Page 111 line 57 in the Form 1. 
+I Line 5 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1.  Line 5a - 
+Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h. 
+J Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year.  Taxes related to income are excluded. Gross receipts taxes are not included 
+in transmission revenue requirement in the Rate Formula Template, since they are recovered elsewhere. 
+K The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes".  If 
+the utility is taxed in more than one state it must attach a work paper showing the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that elected to utilize 
+amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of the Amortized 
+Investment Tax Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, line 27). 
+   
+          Inputs Required: FIT = 0.00%      
+  SIT= 0.00% (State Income Tax Rate or Composite SIT) 
+  p = 0.00% (percent of federal income tax deductible for state purposes) 
+L Removes dollar amount of transmission expenses included in the OATT ancillary services rates, including Account Nos. 561.1, 561.2, and 561.3. 
+M Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test).   
+N Removes dollar amount of transmission plant included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed to be included in OATT ancillary 
+services.  For these purposes, generation step-up facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down. 
+O Includes the amortization of any excess/deficient deferred income taxes resulting from changes to income tax laws, income tax rates (including changes in apportionment) and other actions taken by a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 8 
+taxing authority.  Excess and deficient deferred income taxes will reduce or increase tax expense by the amount of the excess or deficiency multiplied by (1/(1-T)) (page 3, line 28). 
+P Debt cost rate = long-term interest (line 21) / long term debt (line 27).  Preferred cost rate = preferred dividends (line 22) / preferred outstanding (line 28).  ROE will be supported in the original filing 
+and no change in ROE may be made absent a filing with FERC.  Capitalization adjusted to exclude impacts of purchase accounting. 
+Q Line 33 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1 and all other uses are to be included in the divisor. 
+R Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+S Reserved        
+T The revenues credited on page 1 lines 2-5 shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for service under this tariff) reflecting the 
+Transmission Owner's integrated transmission facilities.  They do not include revenues associated with FERC annual charges, gross receipts taxes, ancillary services, or facilities not included in this 
+template (e.g., direct assignment facilities and GSUs) which are not recovered under this Rate Formula Template. 
+ 
+ 
+ 
+ 
+ 
+Attachment H-22A 
+Page 6 of 6 
+ 
+ 
+Formula Rate - Non-Levelized       For the 12 months ended 12/31/_____ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+ 
+ COMPANY NAME 
+ 
+ General Note:   References to pages in this formulary rate are indicated as: (page#, line#, col.#)    
+                           References to data from FERC Form 1 are indicated as:   #.y.x (page, line, column)    
+Notes:     
+U On Line 35, enter revenues from RTO settlements that are associated with NITS and firm Point-to-Point Service for which the load is not included in the divisor to derive 
+Duke Energy Ohio's and Duke Energy Kentucky's zonal rates.  Exclude, non-firm Point-to-Point revenues, revenues related to MTEP and RTEP projects, revenues from 
+grandfathered interzonal transactions and revenues from service provided by ISO at a discount. 
+V Account Nos. 561.4, and 561.8 consist of RTO expenses billed to load-serving entities and are not included in Transmission Owner revenue requirements. 
+W On Line 36, enter revenues from RTO settlements that are associated with MTEP projects.  Exclude NITS, firm Point-to-Point revenues, non-firm Point-to-Point 
+revenues, revenues related to RTEP projects, revenues from grandfathered interzonal transactions and revenues from service provided by ISO at a discount. 
+   
+X Midcontinent ISO Fees include (1) the charges that DEOK paid to the Midcontinent ISO pursuant to the Settlement Agreement filed on July 29, 2011 in Docket No. ER11-2059 
+and (2) the exit fees that DEOK paid to the Midcontinent ISO pursuant to the Exit Fee Agreement filed on October 5, 2011 in Docket No. ER12-33. 
+Y PJM Integration Costs are the fees that PJM assessed DEOK for the costs that PJM incurred in connection with DEOK's move into PJM.  Internal Integration Costs are the internal administrative costs incurred 
+by Duke Energy Ohio and Duke Energy Kentucky to accomplish their move from the Midcontinent ISO into PJM. 
+Z Includes the annual income tax cost or benefit due to permanent differences or differences between the amount of expenses or revenues recognized in one period for ratemaking purposes and the amounts 
+recognized for income tax purposes which do not reverse in one or more other periods, including the cost of income taxes on the Allowance for Other Funds Used During Construction. T multiplied by the 
+amount of permanent differences and depreciation expense associated with Allowance for Other Funds Used During Construction is included on page 3, line 25b and will increase or decrease tax expense by 
+the expense or benefit included on line 25b multiplied by (1/(1-T)) (page 3, line 28b). 
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 9 
+  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 10 
+Attachment H-22A 
+Appendix A 
+Page 1 of 1 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+Company Name 
+Transmission Formula Rate Revenue Requirement 
+Utilizing FERC Form 1 Data 
+ 
+Schedule 1A Rate Calculation 
+ 
+  Line 
+No. 
+  
+Source 
+Revenue 
+Requirement 
+ 
+      
+      
+A. Schedule 1A Annual Revenue Requirements 
+ 1 Total Load Dispatch & Scheduling (Account 561) Attachment H-22A, Page 4, 
+Line 7 
+ $                   -   
+      
+ 2 Revenue Credits for Schedule 1A - Note A   $                   -   
+      
+ 3 Net Schedule 1A Revenue Requirement for Zone    $                  -   
+      
+B. Schedule 1A Rate Calculations 
+ 4 Annual MWh - Note B (Company Records) -                               MWh 
+      
+ 5 Schedule 1A rate $/MWh (Line 3 / Line 4) (Line 3 / Line 4) $0.0000 $/MWh 
+      
+      
+ Notes:     
+ A Revenue received pursuant to PJM Schedule 1A revenue allocation procedures for transmission service outside of DEOK's 
+zone during the year used to calculate rates under Attachment H-22A. 
+ 
+       
+ B The annual MWh load used by all transmission customers per PJM MSRS reports.  
+  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 11 
+Attachment H-22A 
+Appendix B 
+Page 1 of 2 
+For the 12 months ended 12/31/_____ 
+Rate Formula Template 
+Utilizing Attachment H-22A Data 
+ 
+Company Name 
+RTEP - Transmission Enhancement Charges 
+ 
+To be completed in conjunction with Attachment H-22A 
+ 
+ (1) (2) (3) (4) 
+Line 
+No. 
+  
+Attachment H-22A Page, Line, Col. 
+ 
+Transmission 
+ 
+Allocator 
+  
+TRANSMISSION PLANT 
+   
+1 Gross Transmission Plant - Total Att. H-22A, p 2, line 2 col 5 (Note A) -  
+2 Net Transmission Plant - Total Att. H-22A, p 2, line 14 col 5 (Note B) -  
+     
+ O&M EXPENSE    
+3 Total O&M Allocated to Transmission Att. H-22A, p 3, line 8 col 5 -  
+4 Annual Allocation Factor for O&M (line 3 divided by line 1 col 3) 0.00% 0.00% 
+     
+ GENERAL AND COMMON (G&C) DEPRECIATION 
+AND AMORTIZATION EXPENSE 
+   
+5 Total G&C Depreciation and Amortization Expense  Att. H-22A, p 3, lines 10 & 11, col 5 
+(Note H) 
+-  
+6 Annual Allocation Factor for G&C Depreciation and 
+Amortization Expense 
+(line 5 divided by line 1 col 3) 0.00% 0.00% 
+     
+ TAXES OTHER THAN INCOME TAXES    
+7 Total Other Taxes Att. H-22A, p 3, line 20 col 5 -  
+8 Annual Allocation Factor for Other Taxes (line 7 divided by line 1 col 3) 0.00% 0.00% 
+     
+9 Annual Allocation Factor for Expense Sum of lines 4, 6 and 8  0.00% 
+     
+ INCOME TAXES    
+10 Total Income Taxes Att. H-22A, p 3, line 29 col 5 -  
+11 Annual Allocation Factor for Income Taxes (line 10 divided by line 2 col 3) 0.00% 0.00% 
+     
+ RETURN     
+12 Return on Rate Base Att. H-22A, p 3, line 30 col 5 -  
+13 Annual Allocation Factor for Return on Rate Base (line 12 divided by line 2 col 3) 0.00% 0.00% 
+     
+14 Annual Allocation Factor for Return Sum of lines 11 and 13  0.00% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 13 
+Attachment H-22A 
+Appendix B 
+Page 2 of 2 
+For the 12 months ended 12/31/_____ 
+Rate Formula Template 
+Utilizing Attachment H-22A Data 
+ 
+Company Name 
+RTEP - Transmission Enhancement Charges 
+ 
+Network Upgrade Charge Calculation By Project 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 
+Line 
+No. 
+Project 
+Name 
+RTEP 
+Project 
+Number 
+Project 
+Gross 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual Expense 
+Charge 
+Project Net 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual Revenue 
+Requirement 
+True-Up 
+Adjustment 
+Network 
+Upgrade 
+Charge 
+   (Note C) (Page 1 line 9) (Col. 3 * Col. 4) (Note D) (Page 1 line 14) (Col. 6 * 
+Col. 7) 
+(Note E) (Sum Col. 5, 8 
+& 9) 
+(Note F) Sum Col. 
+10 & 11 
+(Note G) 
+                  
+1b   $       - 0.00% $0.00 $          -    0.00% $0.00 $0 $0.00 $         -    $0.00 
+1c   $       - 0.00% $0.00 $          -    0.00% $0.00 $0 $0.00 $         -    $0.00 
+             
+2 Annual Totals        $0 $0 $0 
+3 RTEP Transmission Enhancement Charges for Attachment H-22A $0 
+ 
+Notes: 
+A. Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-22A. 
+B. Net Transmission Plant is that identified on page 2 line 14 of Attachment H-22A. 
+C. Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 and includes CWIP in rate base if applicable.  This value includes subsequent capital 
+investments required to maintain the facilities to their original capabilities. 
+D. Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E. Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-22A page 3 line 12. 
+F. True-Up Adjustment is included pursuant to a FERC approved methodology if applicable. 
+G. The Network Upgrade Charge is the value to be used in Schedule 12. 
+H. The Total General and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in page 2 column 9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 14 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 15 
+Attachment H-22A 
+Appendix C 
+Page 1 of 2 
+For the 12 months ended 12/31/_____ 
+Rate Formula Template 
+Utilizing Attachment H-22A Data 
+ 
+Company Name 
+MTEP - Transmission Enhancement Charges 
+ 
+To be completed in conjunction with Attachment H-22A 
+ 
+ (1) (2) (3) (4) 
+     
+Line 
+No. 
+  
+Attachment H-22A Page, Line, Col. 
+ 
+Transmission 
+ 
+Allocator 
+     
+ TRANSMISSION PLANT    
+1 Gross Transmission Plant - Total Att. H-22A, p 2, line 2 col 5 (Note A) -  
+2 Net Transmission Plant - Total Att. H-22A, p 2, line 14 col 5 (Note 
+B) 
+-  
+     
+ O&M EXPENSE    
+3 Total O&M Allocated to Transmission Att. H-22A, p 3, line 8 col 5 -  
+4 Annual Allocation Factor for O&M (line 3 divided by line 1 col 3) 0.00% 0.00% 
+     
+ GENERAL AND COMMON (G&C) DEPRECIATION 
+AND AMORTIZATION EXPENSE 
+   
+5 Total G&C Depreciation and Amortization Expense Att. H-22A, p 3, lines 10 & 11, col 5 
+(Note H) 
+-  
+6 Annual Allocation Factor for G&C Depreciation and 
+Amortization Expense 
+(line 5 divided by line 1 col 3) 0.00% 0.00% 
+     
+ TAXES OTHER THAN INCOME TAXES    
+7 Total Other Taxes Att. H-22A, p 3, line 20 col 5 -  
+8 Annual Allocation Factor for Other Taxes (line 7 divided by line 1 col 3) 0.00% 0.00% 
+     
+9 Annual Allocation Factor for Expense Sum of lines 4, 6 and 8  0.00% 
+     
+ INCOME TAXES    
+10 Total Income Taxes Att. H-22A, p 3, line 29 col 5 -  
+11 Annual Allocation Factor for Income Taxes (line 10 divided by line 2 col 3) 0.00% 0.00% 
+     
+ RETURN     
+12 Return on Rate Base Att. H-22A, p 3, line 30 col 5 -  
+13 Annual Allocation Factor for Return on Rate Base (line 12 divided by line 2 col 3) 0.00% 0.00% 
+     
+14 Annual Allocation Factor for Return Sum of lines 11 and 13  0.00% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 16 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-22A - DEOK Formula Rate 
+Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 17 
+Attachment H-22A 
+Appendix C 
+Page 2 of 2 
+For the 12 months ended 12/31/_____ 
+Rate Formula Template 
+Utilizing Attachment H-22A Data 
+ 
+Company Name 
+Legacy MTEP Credit 
+ 
+Network Upgrade Charge Calculation By Project 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 
+Line 
+No. 
+Project 
+Name 
+MTEP 
+Project 
+Number 
+Project 
+Gross Plant 
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual Expense 
+Charge 
+Project Net 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual 
+Revenue 
+Requirement 
+True-Up 
+Adjustme
+nt 
+Network 
+Upgrade 
+Charge 
+   (Note C) (Page 1 line 9) (Col. 3 * Col. 4) (Note D) (Page 1 line 14) (Col. 6 * 
+Col. 7) 
+(Note E) (Sum Col. 5, 8 
+& 9) 
+(Note F) Sum Col. 
+10 & 11 
+(Note G) 
+                 
+1b   $           - 0.00% $0.00 $           -    0.00% $0.00 $0 $0.00 $           -    $0.00 
+1c   $           - 0.00% $0.00 $           -    0.00% $0.00 $0 $0.00 $           -    $0.00 
+             
+2 Annual Totals        $0 $0 $0 
+3 MTEP Transmission Enhancement Charges $0 
+ 
+Notes: 
+A. Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-22A. 
+B. Net Transmission Plant is that identified on page 2 line 14 of Attachment H-22A. 
+C. Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 and includes CWIP in rate base if applicable.  This value includes subsequent capital 
+investments required to maintain the facilities to their original capabilities. 
+D. Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation.  
+E. Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-22A page 3 line 12. 
+F. True-Up Adjustment is included pursuant to a FERC approved methodology if applicable. 
+G. The Network Upgrade Charge is the value to be used in Schedule 26. 
+H. The Total General and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in page 2 column 9. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 18 
+Attachment H-22A 
+Appendix D 
+Page 1 of 2 
+DUKE ENERGY OHIO, INC. 
+DEPRECIATION RATES 
+ 
+FERC 
+Account 
+Number 
+Company 
+Account 
+Number 
+ 
+ 
+Description 
+ 
+Actual 
+Accrual Rates 
+(A) (B) (C) (D) 
+   % 
+  Transmission Plant  
+350 3501 Rights of Way 1.33 
+352 3520 Structures & Improvements 1.50 
+353 3530 Station Equipment 2.34 
+353 3532 Station Equipment – Major 2.34 
+353 3535 Station Equipment – Electronics 4.00 
+354 3540 Towers & Fixtures 1.46 
+355 3550 Poles & Fixtures 2.85 
+356 3560 Overhead Conductors & Devices 1.92 
+356 3561 Overhead Conductors & Devices – Clear Rights of Way 1.43 
+357 3570 Underground Conduit 1.62 
+358 3580 Underground Conductors & Devices 2.18 
+    
+    
+    
+    
+    
+    
+  General and Intangible Plant  
+303 
+303 
+3033 
+3030 
+Miscellaneous Intangible Plant – 3 year 
+Miscellaneous Intangible Plant – 5 year 
+33.33 
+20.00 
+303 3031 Miscellaneous Intangible Plant – 10 year 10.00 
+389 3890 Land and Land Rights N/A 
+390 3900 Structures and Improvements 2.47 
+391 3910 Office Furniture and Equipment 5.00 
+391 3911 Electronic Data Processing Equipment 20.00 
+392 3921 Trailers 4.50 
+392 3925 Heavy Trucks 8.64 
+393 3930 Stores Equipment 5.00 
+394 3940 Tools, Shop & Garage Equipment 4.00 
+    
+396 3960 Power Operated Equipment 5.29 
+397 3970 Communication Equipment 6.67 
+398 3980 Miscellaneous Equipment 5.00 
+    
+  Common Plant  
+ 1030 Miscellaneous Intangible Plant 20.00 
+ 1701 Common AMI Meters 6.67 
+ 1890 Land and Land Rights N/A 
+ 1900 Structures and Improvements 3.52 
+ 1910 Office Furniture and Equipment 5.00 
+ 1911 Electronic Data Processing Equipment 20.00 
+ 1920 Transportation Equipment 9.09 
+ 1921 Trailers 4.50 
+ 1930 Stores Equipment 5.00 
+ 1940 Tools, Shop & Garage Equipment 4.00 
+ 1960 Power Operated Equipment 5.29 
+ 1970 Communication Equipment 6.67 
+ 1980 Miscellaneous Equipment 5.00 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 19 
+Attachment H-22A 
+Appendix D 
+Page 2 of 2 
+DUKE ENERGY KENTUCKY, INC. 
+DEPRECIATION RATES 
+ 
+ 
+ 
+FERC Account 
+Number 
+Company Account 
+Number Description 
+Actual  
+Accrual Rates 
+(A) (B) (C) (D) 
+   % 
+  Transmission Plant  
+350 3501 Rights of Way 0.93 
+352 3520 Structures & Improvements 1.69 
+353 3530 Station Equipment 2.31 
+353 3532 Station Equipment - Major 1.78 
+    
+355 3550 Poles & Fixtures 2.57 
+356 3560 Overhead Conductors & Devices 2.09 
+356 3561 Overhead Conductors – Clear R/W 1.54 
+    
+  General and Intangible Plant  
+303 3033 Miscellaneous Intangible Plan – 3 Year 33.33 
+303 3030 Miscellaneous Intangible Plant – 5 Year 20.00 
+303 30310 Miscellaneous Intangible Plant – 10 Year 10.00 
+390 3900 Structures and Improvements 3.33 
+391 3910 Office Furniture and Equipment 5.00 
+391 3911 Electronic Data Processing 20.00 
+392 3920 Transportation Equipment 6.20 
+392 3921 Trailers 1.93 
+394 3940 Tools, Shop & Garage Equipment 4.00 
+396 3960 Powered Operated Equipment 4.18 
+397 3970 Communication Equipment 6.67 
+    
+  Common Plant  
+ 1030 Miscellaneous Intangible Plant 20.00 
+ 1900 Structures and Improvements 4.52 
+ 1910 Office Furniture and Equipment 5.00 
+ 1911 Electronic Data Processing Equipment 10.01 
+ 1940 Tools, Shop & Garage Equipment 4.00 
+ 1970 Communication Equipment 6.67 
+ 1980 Miscellaneous Equipment 6.67 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 20 
+   
+Attachment H-22A 
+Excess/Deficient DIT Permanent Worksheet 
+Page 1 of 5 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+DUKE ENERGY OHIO, INC. 
+PROTECTED FEDERAL EXCESS/DEFICIENT DEFERRED INCOME TAX WORKSHEET 
+ 
+ 
+Line Offset (Dr.)/Cr. Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) 
+No. Deferred Income Tax Remeasurement 190 282 283 Total 
+ (a) (b) (c) (d) (e) 
+1 Pre-Remeasurement ADIT $              - $              - $              - $              - 
+2 Post-Remeasurement ADIT                -                -                -                - 
+3 ADIT Remeasurement Total $              - $              - $              - $              - 
+      
+4 182.36 $              - $              - $              - $              - 
+5 254 (Gross-up only)               -               -               -               - 
+6 254 (Exclude Gross-up)                -                -                -                - 
+7 Balance Sheet Only $              - $              - $              - $              - 
+      
+8 Deferred Debits $              - $              - $              - $              - 
+9 Deferred Credits               -               -               -               - 
+10 182.3               -               -               -               - 
+11 Deferred Debits               -               -               -               - 
+12 Deferred Credits               -               -               -               - 
+13 254                 -                -                -                - 
+14 Excess / (Deficient) DIT Total $              - $              - $              - $              - 
+      
+15 Debits $              - $              - $              - $              - 
+16 Credits               -               -               -               - 
+17 411.2                -                -                -                - 
+18 Def. Income Tax Expense Total $              - $              - $              - $              - 
+      
+19 Total Change in Excess / (Deficient) DIT  
+(Line 7 + Line 14 + Line 18) 
+$              - $              - $              - $              - 
+      
+  
+(a) 
+ 
+(b) 1 
+ 
+(c) 
+(d)2/4 = (b) x 
+System Level 
+Balance 
+(e)2/4 = (b) x 
+System Level 
+Balance 
+ 
+(f)3  
+ 
+(g)5 = (c-d-e-f) 
+  Amortization Beginning Year Current Year Current Year DIT Reclass Remaining 
+ Year Rate Balance Amortization 411.1 Amortization 
+410.1 
+To Unprotected Balance 
+20 Calendar Year 1 0.00% $              - $              - $              - $              - $              - 
+21 Calendar Year 2 0.00% $              - $              - $              - $              - $              - 
+22 Add years as needed       
+        
+ 
+ Notes:     
+(1) Protected Excess Federal ADIT is amortized using ARAM, which will change over time.  DEO uses the best available ARAM 
+when setting 
+rates during the annual update process.  DEO incorporates updated ARAM into the following year’s annual updates. 
+    
+      
+(2) Excess / (Deficient) Deferred Income Tax for all years is amortized to accounts 410.1 or 411.1, as appropriate.  The ADIT 
+source account for amortization is determined based on the proportion of the ADIT balance that was transferred to Line 14, 
+Excess/(Deficient) DIT Total.  Current year amortization amounts may include true-up adjustments as necessary to reflect 
+actual annual DIT amortization. 
+ 
+    
+(3) DEO reclassified the OATT portion of the Protected Excess/(Deficient) DIT to Unprotected Excess/(Deficient) DIT.  This 
+amount is included in the Unprotected Excess/(Deficient) DIT balance to return to customers. 
+    
+      
+(4) To Page 3, Line 25     
+(5) To Page 2, Line 23 
+ 
+    
+(6) The combined gross-up of the protected and unprotected Excess/(Deficient) DIT regulatory liability/asset is presented on the     
+     
+    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 21 
+ 
+  
+ 
+ 
+ 
+Attachment H-22A 
+Excess/Deficient DIT Permanent Worksheet 
+Page 2 of 5 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+DUKE ENERGY OHIO, INC. 
+UNPROTECTED FEDERAL EXCESS/DEFICIENT DEFERRED INCOME TAX WORKSHEET 
+ 
+ 
+Line Offset (Dr.)/Cr. Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) 
+No. Deferred Income Tax Remeasurement 190 282 283 Total 
+ (a) (b) (c) (d) (e) 
+1 Pre-Remeasurement ADIT $              - $              - $              - $              - 
+2 Post-Remeasurement ADIT                -                -                -                - 
+3 ADIT Remeasurement Total $              - $              - $              - $              - 
+      
+4 182.36 $              - $              - $              - $              - 
+5 254 (Gross-up only)               -               -               -               - 
+6 254 (Exclude Gross-up)                -                -                -                - 
+7 Balance Sheet Only $              - $              - $              - $              - 
+      
+8 Deferred Debits $              - $              - $              - $              - 
+9 Deferred Credits               -               -               -               - 
+10 182.3               -               -               -               - 
+11 Deferred Debits               -               -               -               - 
+12 Deferred Credits               -               -               -               - 
+13 254                 -                -                -                - 
+14 Excess / (Deficient) DIT Total $              - $              - $              - $              - 
+      
+15 Debits $              - $              - $              - $              - 
+16 Credits               -               -               -               - 
+17 411.2                -                -                -                - 
+18 Def. Income Tax Expense Total $              - $              - $              - $              - 
+      
+19 Total Change in Excess / (Deficient) DIT  
+(Line 7 + Line 14 + Line 18) 
+$              - $              - $              - $              - 
+      
+ 
+  
+(a) 
+ 
+(b) 1 
+ 
+(c) 
+(d)2/4 = (b) x 
+System Level 
+Balance 
+(e)2/4 = (b) x 
+System Level 
+Balance 
+ 
+(f)3  
+ 
+(g)5 = (c-d-e-
+f) 
+  Amortization Beginning Year Current Year Current Year DIT Reclass Remaining 
+ Year Rate Balance Amortization 
+411.1 
+Amortization 
+410.1 
+To Unprotected Balance 
+20 Calendar Year 1 0.00% $              - $              - $              - $              - $              - 
+21 Calendar Year 2 0.00% $              - $              - $              - $              - $              - 
+22 Add years as needed       
+        
+ Notes: 
+ 
+    
+(1) Unprotected Excess/(Deficient) Federal ADIT is amortized over ten years.     
+      
+(2) Excess / (Deficient) Deferred Income Tax for all years is amortized to accounts 410.1 or 411.1, as appropriate.  The ADIT source 
+account for amortization is determined based on the proportion of the ADIT balance that was transferred to Line 14, 
+Excess/(Deficient) DIT Total.  Current year amortization amounts may include true-up adjustments as necessary to reflect actual 
+annual DIT amortization. 
+    
+     
+unprotected worksheet. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 22 
+ 
+(3) DEO reclassified the OATT portion of the Protected Excess/(Deficient) DIT to Unprotected Excess/(Deficient) DIT.  This amount 
+is included in the Unprotected Excess/(Deficient) DIT balance to return to customers. 
+    
+      
+(4) To Page 3, Line 25 
+ 
+    
+(5) To Page 2, Line 23 
+ 
+    
+(6) The combined gross-up of the protected and unprotected Excess/(Deficient) DIT regulatory liability/asset is presented on the unprotected 
+worksheet. 
+ 
+Attachment H-22A 
+Excess/Deficient DIT Permanent Worksheet 
+Page 3 of 5 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+DUKE ENERGY KENTUCKY, INC. 
+PROTECTED FEDERAL EXCESS/DEFICIENT DEFERRED INCOME TAX WORKSHEET 
+ 
+ 
+Line Offset (Dr.)/Cr. Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) 
+No. Deferred Income Tax Remeasurement 190 282 283 Total 
+ (a) (b) (c) (d) (e) 
+1 Pre-Remeasurement ADIT $              - $              - $              - $              - 
+2 Post-Remeasurement ADIT                -                -                -                - 
+3 ADIT Remeasurement Total $              - $              - $              - $              - 
+      
+4 182.36 $              - $              - $              - $              - 
+5 254 (Gross-up only)               -               -               -               - 
+6 254 (Exclude Gross-up)                -                -                -                - 
+7 Balance Sheet Only $              - $              - $              - $              - 
+      
+8 Deferred Debits $              - $              - $              - $              - 
+9 Deferred Credits               -               -               -               - 
+10 182.3               -               -               -               - 
+11 Deferred Debits               -               -               -               - 
+12 Deferred Credits               -               -               -               - 
+13 254                 -                -                -                - 
+14 Excess / (Deficient) DIT Total $              - $              - $              - $              - 
+      
+15 Debits $              - $              - $              - $              - 
+16 Credits               -               -               -               - 
+17 411.2                -                -                -                - 
+18 Def. Income Tax Expense Total $              - $              - $              - $              - 
+      
+19 Total Change in Excess / (Deficient) DIT  
+(Line 7 + Line 14 + Line 18) 
+$              - $              - $              - $              - 
+      
+  
+(a) 
+ 
+(b) 1 
+ 
+(c) 
+(d)2/4 = (b) x 
+System Level 
+Balance 
+(e)2/4 = (b) x 
+System Level 
+Balance 
+ 
+(f)3  
+ 
+(g)5 = (c-d-e-f) 
+  Amortization Beginning Year Current Year Current Year DIT Reclass Remaining 
+ Year Rate Balance Amortization 
+411.1 
+Amortization 
+410.1 
+To Unprotected Balance 
+20 Calendar Year 1 0.00% $              - $              - $              - $              - $              - 
+21 Calendar Year 2 0.00% $              - $              - $              - $              - $              - 
+22 Add years as needed       
+        
+ Notes:     
+(1) Protected Excess Federal ADIT is amortized using ARAM, which will change over time.  DEK uses the best available 
+ARAM when setting rates during the annual update process.  DEK incorporates updated ARAM into the following year’s 
+annual updates. 
+    
+      
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 23 
+(2) Excess / (Deficient) Deferred Income Tax for all years is amortized to accounts 410.1 or 411.1, as appropriate.  The ADIT 
+source account for amortization is determined based on the proportion of the ADIT balance that was transferred to Line 14, 
+Excess/(Deficient) DIT Total.  Current year amortization amounts may include true-up adjustments as necessary to reflect 
+actual annual DIT amortization. 
+ 
+    
+(3) DEK reclassified the OATT portion of the Protected Excess/(Deficient) DIT to Unprotected Excess/(Deficient) DIT.  This 
+amount is included in the Unprotected Excess/(Deficient) DIT balance to return to customers. 
+    
+      
+(4) To Page 3, Line 25     
+(5) To Page 2, Line 23 
+ 
+    
+(6) The combined gross-up of the protected and unprotected Excess/(Deficient) DIT regulatory liability/asset is presented on 
+the unprotected worksheet. 
+    
+      
+ 
+Attachment H-22A 
+Excess/Deficient DIT Permanent Worksheet 
+Page 4 of 5 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+DUKE ENERGY KENTUCKY, INC. 
+UNPROTECTED FEDERAL EXCESS/DEFICIENT DEFERRED INCOME TAX WORKSHEET 
+ 
+ 
+Line Offset (Dr.)/Cr. Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) 
+No. Deferred Income Tax Remeasurement 190 282 283 Total 
+ (a) (b) (c) (d) (e) 
+1 Pre-Remeasurement ADIT $              - $              - $              - $              - 
+2 Post-Remeasurement ADIT                -                -                -                - 
+3 ADIT Remeasurement Total $              - $              - $              - $              - 
+      
+4 182.36 $              - $              - $              - $              - 
+5 254 (Gross-up only)               -               -               -               - 
+6 254 (Exclude Gross-up)                -                -                -                - 
+7 Balance Sheet Only $              - $              - $              - $              - 
+      
+8 Deferred Debits $              - $              - $              - $              - 
+9 Deferred Credits               -               -               -               - 
+10 182.3               -               -               -               - 
+11 Deferred Debits               -               -               -               - 
+12 Deferred Credits               -               -               -               - 
+13 254                 -                -                -                - 
+14 Excess / (Deficient) DIT Total $              - $              - $              - $              - 
+      
+15 Debits $              - $              - $              - $              - 
+16 Credits               -               -               -               - 
+17 411.2                -                -                -                - 
+18 Def. Income Tax Expense Total $              - $              - $              - $              - 
+      
+19 Total Change in Excess / (Deficient) DIT  
+(Line 7 + Line 14 + Line 18) 
+$              - $              - $              - $              - 
+      
+  
+(a) 
+ 
+(b) 1 
+ 
+(c) 
+(d)2/4 = (b) x 
+System Level 
+Balance 
+(e)2/4 = (b) x 
+System Level 
+Balance 
+ 
+(f)3  
+ 
+(g)5 = (c-d-e-f) 
+  Amortization Beginning Year Current Year Current Year DIT Reclass Remaining 
+ Year Rate Balance Amortization 
+411.1 
+Amortization 
+410.1 
+To Unprotected Balance 
+20 Calendar Year 1 0.00% $              - $              - $              - $              - $              - 
+21 Calendar Year 2 0.00% $              - $              - $              - $              - $              - 
+22 Add years as needed       
+        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 24 
+ 
+ Notes: 
+ 
+    
+(1) Unprotected Excess/(Deficient) Federal ADIT is amortized over ten years.     
+      
+(2) Excess / (Deficient) Deferred Income Tax for all years is amortized to accounts 410.1 or 411.1, as appropriate.  The ADIT 
+source account for amortization is determined based on the proportion of the ADIT balance that was transferred to Line 14, 
+Excess/(Deficient) DIT Total.  Current year amortization amounts may include true-up adjustments as necessary to reflect 
+actual annual DIT amortization. 
+ 
+    
+(3) DEK reclassified the OATT portion of the Protected Excess/(Deficient) DIT to Unprotected Excess/(Deficient) DIT.  This 
+amount is included in the Unprotected Excess/(Deficient) DIT balance to return to customers. 
+    
+      
+(4) To Page 3, Line 25 
+ 
+    
+(5) To Page 2, Line 23 
+ 
+    
+(6) The combined gross-up of the protected and unprotected Excess/(Deficient) DIT regulatory liability/asset is presented on the 
+unprotected worksheet. 
+     
+      
+ 
+Attachment H-22A 
+Excess/Deficient DIT Permanent Worksheet 
+Page 5 of 5 
+ 
+For the 12 months ended 12/31/_____ 
+ 
+DUKE ENERGY KENTUCKY, INC. 
+UNPROTECTED STATE EXCESS/DEFICIENT DEFERRED INCOME TAX WORKSHEET 
+ 
+ 
+Line Offset (Dr.)/Cr. Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) Dr./(Cr.) 
+No. Deferred Income Tax Remeasurement 190 282 283 Total 
+ (a) (b) (c) (d) (e) 
+1 Pre-Remeasurement ADIT $              - $              - $              - $              - 
+2 Post-Remeasurement ADIT                -                -                -                - 
+3 ADIT Remeasurement Total $              - $              - $              - $              - 
+      
+4 182.3 $              - $              - $              - $              - 
+5 254 (Gross-up only)               -               -               -               - 
+6 254 (Exclude Gross-up)                -                -                -                - 
+7 Balance Sheet Only $              - $              - $              - $              - 
+      
+8 Deferred Debits $              - $              - $              - $              - 
+9 Deferred Credits               -               -               -               - 
+10 182.3               -               -               -               - 
+11 Deferred Debits               -               -               -               - 
+12 Deferred Credits               -               -               -               - 
+13 254                 -                -                -                - 
+14 Excess / (Deficient) DIT Total $              - $              - $              - $              - 
+      
+15 Debits $              - $              - $              - $              - 
+16 Credits               -               -               -               - 
+17 411.2                -                -                -                - 
+18 Def. Income Tax Expense Total $              - $              - $              - $              - 
+      
+19 Total Change in Excess / (Deficient) DIT  
+(Line 7 + Line 14 + Line 18) 
+$              - $              - $              - $              - 
+      
+  
+(a) 
+ 
+(b) 1 
+ 
+(c) 
+(d)2/4 = (b) x 
+System Level 
+Balance 
+(e)2/4 = (b) x 
+System Level 
+Balance 
+ 
+(f)3  
+ 
+(g)5 = (c-d-e) 
+  Amortization Beginning Year Current Year Current Year DIT Reclass Remaining 
+ Year Rate Balance Amortization Amortization To Unprotected Balance 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-22A - DEOK Formula Rate Template 
+Effective Date: 10/15/2023 - Docket #: ER24-853-000 - Page 25 
+411.1 410.1 
+20 Calendar Year 1 0.00% $              - $              - $              - $              - $              - 
+21 Calendar Year 2 0.00% $              - $              - $              - $              - $              - 
+22 Add years as needed       
+        
+ 
+        
+ Notes:     
+(1) Unprotected Excess/(Deficient) State ADIT is amortized over ten years.     
+      
+(2) Excess / (Deficient) Deferred Income Tax for all years is amortized to accounts 410.1 or 411.1, as appropriate.  The 
+ADIT source account for amortization is determined based on the proportion of the ADIT balance that was transferred 
+to Line 14, Excess/(Deficient) DIT Total.  Current year amortization amounts may include true-up adjustments as 
+necessary to reflect actual annual DIT amortization. 
+ 
+    
+(3) Excess/(Deficient) Deferred State Income Tax is applicable to unprotected assets only.     
+(4) To Page 3, Line 25     
+(5) To Page 2, Line 23 
+ 
+    
+      
+      
+     
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 1 

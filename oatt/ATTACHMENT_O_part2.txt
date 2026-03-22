@@ -1,0 +1,1091 @@
+[ATTACHMENT O - Part 2 of 4]
+
+For all new Generating Facilities to be interconnected pursuant to the Tariff, other than wind-
+powered and other non-synchronous generation facilities, the Generation Interconnection 
+Customer shall design its Customer Facility to maintain a composite power delivery at 
+continuous rated power output at a power factor of at least 0.95 leading to 0.90 lagging.  For all 
+new wind-powered and other non-synchronous generation facilities the Generation 
+Interconnection Customer shall design its Customer Facility with the ability to maintain a 
+composite power delivery at a power factor of at least 0.95 leading to 0.95 lagging across the full 
+range of continuous rated power output.  For all wind-powered and other non-synchronous 
+generation facilities entering the New Service Queue on or after November 1, 2016, the power 
+factor requirement shall be measured at the high-side of the facility substation transformers.  
+This power factor range standard shall be dynamic and can be met using, for example, power 
+electronics designed to supply this level of reactive capability (taking into account any 
+limitations due to voltage level, real power output, etc.) or fixed and switched capacitors, or a 
+combination of the two.  For all wind-powered and other non-synchronous generation facilities 
+entering the New Service Queue on or after May 1, 2015, and before November 1, 2016, the 
+power factor requirement shall be measured at the generator’s terminals.  For new generation 
+resources of more than 20 MW, other than wind-powered and other non-synchronous Generating 
+Facilities, the power factor requirement shall be measured at the generator’s terminals.  For new 
+generation resources of 20 MW or less, and all wind-powered and other non-synchronous 
+generation facilities entering the New Service Queue prior to May 1, 2015, the power factor 
+requirement shall be measured at the Point of Interconnection. Any different reactive power 
+design criteria that Transmission Provider determines to be appropriate for a wind-powered or 
+other non-synchronous generation facility shall be stated in the Interconnection Service 
+Agreement.  A Transmission Interconnection Customer interconnecting Merchant D.C. 
+Transmission Facilities and/ or Controllable A.C. Merchant Transmission Facilities shall design 
+its Customer Facility to maintain a power factor at the Point of Interconnection of at least 0.95 
+leading and 0.95 lagging, when the Customer Facility is operating at any level within its 
+approved operating range. 
+ 
+4.7.1.1.2 Increases in Generating Capacity or Energy Output:  
+ 
+All increases in the capacity or energy output of any generation facility interconnected with the 
+Transmission System, other than wind-powered and other non-synchronous Generating 
+Facilities, shall be designed with the ability to maintain a composite power delivery at 
+continuous rated power output at a power factor for all incremental MW of capacity or energy 
+output, of at least 1.0 (unity) to 0.90 lagging.  Wind-powered generation facilities and other non-
+synchronous generation facilities entering the New Service Queue on or after November 1, 2016, 
+shall be designed with the ability to maintain a composite power delivery at a power factor for all 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.7 Reactive Power 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 2 
+incremental MW of capacity or energy output of at least 0.95 leading to 0.95 lagging measured at 
+the high-side of the facility substation transformers across the full range of continuous rated 
+power output.  This power factor range standard shall be dynamic and can be met using, for 
+example, power electronics designed to supply this level of reactive capability (taking into 
+account any limitations due to voltage level, real power output, etc.) or fixed and switched 
+capacitors, or a combination of the two.  Wind-powered generation facilities and other non-
+synchronous generation facilities entering the New Service Queue on or after May 1, 2015, and 
+before November 1, 2016, shall be designed with the ability to maintain a composite power 
+delivery at a power factor for all incremental MW of capacity or energy output, of at least 0.95 
+leading to 0.95 lagging measured at the generator’s terminals under conditions in which a wind-
+powered generation facility’s real power output exceeds 25 percent of its continuous rated power 
+output and, for all other non-synchronous generation facilities, across the full range of 
+continuous rated power output.  Wind-powered generation facilities and other non-synchronous 
+generation facilities entering the New Service Queue prior to May 1, 2015 shall be designed with 
+the ability to maintain a composite power delivery at continuous rated power output at a power 
+factor for all incremental MW of capacity of energy output of at least 1.0 (unity) to 0.95 lagging 
+measured at the generator’s terminals. The power factor requirement associated with increases in 
+capacity or energy output of more than 20 MW to synchronous generation facilities 
+interconnected with the Transmission System shall be measured at the generator’s terminals. The 
+power factor requirement associated with increases in capacity or energy output of 20 MW or 
+less to synchronous generation facilities interconnected to the Transmission System shall be 
+measured at the Point of Interconnection. 
+ 
+4.7.1.2 Obligation to Supply Reactive Power:   
+ 
+Interconnection Customer agrees, as and when so directed by Transmission Provider or when so 
+directed by the Interconnected Transmission Owner acting on behalf or at the direction of 
+Transmission Provider, to operate the Customer Facility to produce reactive power within the 
+design limitations of the Customer Facility pursuant to voltage schedules, reactive power 
+schedules or power factor schedules established by Transmission Provider or, as appropriate, the 
+Interconnected Transmission Owner.  Transmission Provider shall maintain oversight over such 
+schedules to ensure that all sources of reactive power in the PJM Region, as applicable, are 
+treated in an equitable and not unduly discriminatory manner.  Interconnection Customer agrees 
+that Transmission Provider and the Interconnected Transmission Owner, acting on behalf or at 
+the direction of Transmission Provider, may make changes to the schedules that they respectively 
+establish as necessary to maintain the reliability of the Transmission System. 
+ 
+4.7.1.3 Deviations from Schedules:   
+ 
+In the event that operation of the Customer Facility of an Interconnection Customer causes the 
+Transmission System or the Interconnected Transmission Owner’s facilities to deviate from 
+appropriate voltage schedules and/or reactive power schedules as specified by Transmission 
+Provider or the Interconnected Transmission Owner’s operations control center (acting on behalf 
+or at the direction of Transmission Provider), or that otherwise is inconsistent with Good Utility 
+Practice and results in an unreasonable deterioration of the quality of electric service to other 
+customers of Transmission Provider or the Interconnected Transmission Owner, the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.7 Reactive Power 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 3 
+Interconnection Customer shall, upon discovery of the problem or upon notice from 
+Transmission Provider or the Interconnected Transmission Owner, acting on behalf or at the 
+direction of Transmission Provider, take whatever steps are reasonably necessary to alleviate the 
+situation at its expense, in accord with Good Utility Practice and within the reactive capability of 
+the Customer Facility.  In the event that the Interconnection Customer does not alleviate the 
+situation within a reasonable period of time following Transmission Provider’s or the 
+Interconnected Transmission Owner’s notice thereof, the Interconnected Transmission Owner, 
+with Transmission Provider’s approval, upon notice to the Interconnection Customer and at the 
+Interconnection Customer’s expense, may take appropriate action, including installation on the 
+Transmission System of power factor correction or other equipment, as is reasonably required, 
+consistent with Good Utility Practice, to remedy the situation cited in Transmission Provider’s or 
+the Interconnected Transmission Owner’s notice to the Interconnection Customer under this 
+section. 
+ 
+4.7.1.4 Payment for Reactive Power:   
+ 
+Any payments to the Interconnection Customer for reactive power shall be in accordance with 
+Schedule 2 of the Tariff.  
+ 
+4.7.2 Primary Frequency Response:   
+Section 4.7.2 of this ISA and its subsections apply to New Service Requests received on or after 
+October 1, 2018. 
+ 
+Generation Interconnection Customer shall ensure the primary frequency response capability of 
+its Customer Facility by installing, maintaining, and operating a functioning governor or 
+equivalent controls.  The term “functioning governor or equivalent controls” as used herein shall 
+mean the required hardware and/or software that provides frequency responsive real power 
+control with the ability to sense changes in system frequency and autonomously adjust the 
+Customer Facility’s real power output in accordance with the droop and deadband parameters 
+and in the direction needed to correct frequency deviations.  Generation Interconnection 
+Customer is required to install a governor or equivalent controls with the capability of operating: 
+(1) with a maximum 5 percent droop and ±0.036 Hz deadband; or (2) in accordance with the 
+relevant droop, deadband, and timely and sustained response settings from an approved NERC 
+Reliability Standard providing for equivalent or more stringent parameters.  The droop 
+characteristic shall be: (1) based on the nameplate capacity of the Customer Facility, and shall be 
+linear in the range of frequencies between 59 to 61 Hz that are outside of the deadband 
+parameter; or (2) based an approved NERC Reliability Standard providing for an equivalent or 
+more stringent parameter.  The deadband parameter shall be: the range of frequencies above and 
+below nominal (60 Hz) in which the governor or equivalent controls is not expected to adjust the 
+Customer Facility’s real power output in response to frequency deviations.  The deadband shall 
+be implemented: (1) without a step to the droop curve, that is, once the frequency deviation 
+exceeds the deadband parameter, the expected change in the Customer Facility’s real power 
+output in response to frequency deviations shall start from zero and then increase (for under-
+frequency deviations) or decrease (for over-frequency deviations) linearly in proportion to the 
+magnitude of the frequency deviation; or (2) in accordance with an approved NERC Reliability 
+Standard providing for an equivalent or more stringent parameter.  Generation Interconnection 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.7 Reactive Power 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 4 
+Customer shall notify Transmission Provider that the primary frequency response capability of 
+the Customer Facility has been tested and confirmed during commissioning.  Once Generation 
+Interconnection Customer has synchronized the Customer Facility with the Transmission 
+System, Generation Interconnection Customer shall operate the Customer Facility consistent 
+with the provisions specified in sections 4.7.2.1 and 4.7.2.2 of this agreement.  The primary 
+frequency response requirements contained herein shall apply to both synchronous and non-
+synchronous Customer Facilities. 
+ 
+4.7.2.1 Governor or Equivalent Controls:   
+ 
+Whenever the Customer Facility is operated in parallel with the Transmission System, 
+Generation Interconnection Customer shall operate the Customer Facility with its governor or 
+equivalent controls in service and responsive to frequency.  Generation Interconnection 
+Customer shall: (1) in coordination with Transmission Provider and/or the relevant balancing 
+authority, set the deadband parameter to: (1) a maximum of ±0.036 Hz and set the droop 
+parameter to a maximum of 5 percent; or (2) implement the relevant droop and deadband settings 
+from an approved NERC Reliability Standard that provides for equivalent or more stringent 
+parameters.  Generation Interconnection Customer shall be required to provide the status and 
+settings of the governor or equivalent controls to Transmission Provider and/or the relevant 
+balancing authority upon request.  If Generation Interconnection Customer needs to operate the 
+Customer Facility with its governor or equivalent controls not in service, Generation 
+Interconnection Customer shall immediately notify Transmission Provider and the relevant 
+balancing authority, and provide both with the following information: (1) the operating status of 
+the governor or equivalent controls (i.e., whether it is currently out of service or when it will be 
+taken out of service); (2) the reasons for removing the governor or equivalent controls from 
+service; and (3) a reasonable estimate of when the governor or equivalent controls will be 
+returned to service.  Generation Interconnection Customer shall make Reasonable Efforts to 
+return its governor or equivalent controls into service as soon as practicable.  Generation 
+Interconnection Customer shall make Reasonable Efforts to keep outages of the Customer 
+Facility’s governor or equivalent controls to a minimum whenever the Customer Facility is 
+operated in parallel with the Transmission System. 
+ 
+4.7.2.2 Timely and Sustained Response:   
+ 
+Generation Interconnection Customer shall ensure that the Customer Facility’s real power 
+response to sustained frequency deviations outside of the deadband setting is automatically 
+provided and shall begin immediately after frequency deviates outside of the deadband, and to 
+the extent the Customer Facility has operating capability in the direction needed to correct the 
+frequency deviation.  Generation Interconnection Customer shall not block or otherwise inhibit 
+the ability of the governor or equivalent controls to respond and shall ensure that the response is 
+not inhibited, except under certain operational constraints including, but not limited to, ambient 
+temperature limitations, physical energy limitations, outages of mechanical equipment, or 
+regulatory requirements.  The Customer Facility shall sustain the real power response at least 
+until system frequency returns to a value within the deadband setting of the governor or 
+equivalent controls.  A Commission-approved Reliability Standard with equivalent or more 
+stringent requirements shall supersede the above requirements. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.7 Reactive Power 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 5 
+ 
+4.7.2.3 Exemptions: 
+ 
+Customer Facilities that are regulated by the United States Nuclear Regulatory Commission shall 
+be exempt from sections 4.7.2, 4.7.2.1, and 4.7.2.2 of this agreement.  Customer Facilities that 
+are behind the meter generation that is sized-to-load (i.e., the thermal load and the generation are 
+near-balanced in real-time operation and the generation is primarily controlled to maintain the 
+unique thermal, chemical, or mechanical output necessary for the operating requirements of its 
+host facility) shall be required to install primary frequency response capability in accordance 
+with the droop and deadband capability requirements specified in section 4.7.2, but shall be 
+otherwise exempt from the operating requirements in sections 4.7.2, 4.7.2.1, 4.7.2.2, and 4.7.2.4 
+of this agreement. 
+ 
+4.7.2.4 Energy Storage Resources: 
+ 
+Generation Interconnection Customer interconnecting an Energy Storage Resource shall 
+establish an operating range in Schedule I of this ISA that specifies a minimum state of charge 
+and a maximum state of charge between which the Energy Storage Resource will be required to 
+provide primary frequency response consistent with the conditions set forth in sections 4.7.2, 
+4.7.2.1, 4.7.2.2, and 4.7.2.3 of this agreement.  Schedule I shall specify whether the operating 
+range is static or dynamic, and shall consider (1) the expected magnitude of frequency deviations 
+in the interconnection; (2) the expected duration that system frequency will remain outside of the 
+deadband parameter in the interconnection; (3) the expected incidence of frequency deviations 
+outside of the deadband parameter in the interconnection; (4) the physical capabilities of the 
+Energy Storage Resource; (5) operational limitations of the Energy Storage Resource due to 
+manufacturer specifications; and (6) any other relevant factors agreed to by Transmission 
+Provider and Generation Interconnection Customer, and in consultation with the relevant 
+transmission owner or balancing authority as appropriate.  If the operating range is dynamic, then 
+Schedule I must establish how frequently the operating range will be reevaluated and the factors 
+that may be considered during its reevaluation. 
+ 
+Generation Interconnection Customer’s Energy Storage Resource is required to provide timely 
+and sustained primary frequency response consistent with section 4.7.2.2 of this agreement when 
+it is online and dispatched to inject electricity to the Transmission System and/or receive 
+electricity from the Transmission System.  This excludes circumstances when the Energy 
+Storage Resource is not dispatched to inject electricity to the Transmission System and/or 
+dispatched to receive electricity from the Transmission System.  If Generation Interconnection 
+Customer’s Energy Storage Resource is charging at the time of a frequency deviation outside of 
+its deadband parameter, it is to increase (for over-frequency deviations) or decrease (for under-
+frequency deviations) the rate at which it is charging in accordance with its droop parameter.  
+Generation Interconnection Customer’s Energy Storage Resource is not required to change from 
+charging to discharging, or vice versa, unless the response necessitated by the droop and 
+deadband settings requires it to do so and it is technically capable of making such a transition. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.8 Under- and Over-Frequency Condition 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
+4.8 Under- and Over-Frequency and Under- and Over- Voltage Conditions:  
+ 
+The Generation Interconnection Customer shall ensure “frequency ride through” capability and 
+“voltage ride through” capability of its Customer Facility.  The Generation Interconnection 
+Customer shall enable these capabilities such that its Customer Facility shall not disconnect 
+automatically or instantaneously from the system or equipment of the Transmission Provider and 
+any Affected Systems for a defined under-frequency or over-frequency condition, or an under-
+voltage or over-voltage condition, as tested pursuant to Section 1.4.4 of Appendix 2 of this 
+Interconnection Service Agreement.  The defined conditions shall be in accordance with Good 
+Utility Practice and consistent with any standards and guidelines that are applied to other 
+Generating Facilities in the PJM Region on a comparable basis.  The Customer Facility’s 
+protective equipment settings shall comply with the Transmission Provider’s automatic load-
+shed program.  The Transmission Provider shall review the protective equipment settings to 
+confirm compliance with the automatic load-shed program.  The term “ride through” as used 
+herein shall mean the ability of a Customer Facility to stay connected to and synchronized with 
+the system or equipment of the Transmission Provider and any Affected Systems during system 
+disturbances within a range of conditions, in accordance with Good Utility Practice and 
+consistent with any standards and guidelines that are applied to other Generating Facilities in the 
+Balancing Authority on a comparable basis.  The term “frequency ride through” as used herein 
+shall mean the ability of a Generation Interconnection Customer’s Customer Facility Customer 
+Facility to stay connected to and synchronized with the Transmission System or equipment of the 
+Transmission Provider and any Affected Systems during system disturbances within a range of 
+under-frequency and over-frequency conditions, in accordance with Good Utility Practice and 
+consistent with any standards and guidelines that are applied to other Generating Facilities in the 
+PJM Region on a comparable basis.  The term “voltage ride through” as used herein shall mean 
+the ability of a Customer Facility to stay connected to and synchronized with the system or 
+equipment of the Transmission Provider and any Affected Systems during system disturbances 
+within a range of under-voltage and over-voltage conditions, in accordance with Good Utility 
+Practice and consistent with any standards and guidelines that are applied to other Generating 
+Facilities in the PJM Region on a comparable basis. 
+ 
+The Transmission System is designed to automatically activate a load-shed program as required 
+by NERC and each Applicable Regional Entity in the event of an under-frequency system 
+disturbance.  A Generation Interconnection Customer shall implement under-frequency and 
+over-frequency relay set points for the Customer Facility as required by NERC and each 
+Applicable Regional Entity to ensure “frequency ride through” capability of the Transmission 
+System.  The response of a Generation Interconnection Customer’s Customer Facility to 
+frequency deviations of predetermined magnitudes, both under-frequency and over-frequency 
+deviations shall be studied and coordinated with the Transmission Provider in accordance with 
+Good Utility Practice.   
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.9 System Protection and Power Quality 
+Effective Date: 4/23/2018 - Docket #: ER18-893-000 - Page 1 
+4.9 System Protection and Power Quality 
+ 
+4.9.1 System Protection:   
+ 
+Interconnection Customer shall, at its expense, install, operate and maintain such System 
+Protection Facilities as may be required in connection with operation of the Customer Facility 
+and the Customer Interconnection Facilities consistent with Applicable Technical Requirements 
+and Standards.  Interconnected Transmission Owner shall install any System Protection Facilities 
+that may be required, as determined by Transmission Provider, on the Transmission Owner 
+Interconnection Facilities or the Transmission System in connection with the operation of the 
+Customer Facility and the Customer Interconnection Facilities. Responsibility for the cost of any 
+System Protection Facilities required on the Transmission Owner Interconnection Facilities or 
+the Transmission System shall be allocated as provided in Section 217 of the Tariff.  
+ 
+4.9.2 Power Quality:   
+ 
+The Customer Facility and Customer Interconnection Facilities shall not cause excessive 
+deviations from the power quality criteria set forth in the Applicable Technical Requirements 
+and Standards.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.10 Access Rights: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+4.10 Access Rights:   
+ 
+Each Interconnected Entity shall provide the other Interconnected Entity access to areas under its 
+control as reasonably necessary to permit the other Interconnected Entity to perform its 
+obligations under this Appendix 2, including operation and maintenance obligations.  An 
+Interconnected Entity that obtains such access shall comply with all safety rules applicable to the 
+area to which access is obtained. Each Interconnected Entity agrees to inform the other 
+Interconnected Entity’s representatives of safety rules applicable to an area. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.11 Switching and Tagging Rules: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+4.11 Switching and Tagging Rules:   
+ 
+The Interconnected Entities shall comply with applicable Switching and Tagging Rules in 
+obtaining clearances for work or for switching operations on equipment.  Such Switching and 
+Tagging Rules shall be developed in accordance with OSHA standards codified at 29 C.F.R. Part 
+1910, or successor standards.  Each Interconnected Entity shall provide the other Interconnected 
+Entity a copy of its Switching and Tagging Rules that are applicable to the other Interconnected 
+Entity’s activities. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.12 Communications and Data Protocol: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+4.12 Communications and Data Protocol:   
+ 
+The Interconnected Entities shall comply with any communications and data protocol that the 
+Transmission Provider may establish. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.4 Operations 
+--> OATT ATTACHMENT O.A2.4.13 Nuclear Generating Facilities: 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
+4.13 Nuclear Generating Facilities: 
+ 
+In the event that the Customer Facility is a nuclear Generating Facility, the Interconnection 
+Parties shall agree to such non-standard terms and conditions as are reasonably necessary to 
+accommodate the Interconnection Customer’s satisfaction of Nuclear Regulatory Commission 
+requirements relating to the safety and reliability of operations of such facilities. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5 Maintenance 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.1 General: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.1 General:   
+ 
+Each Interconnected Entity shall maintain, or shall cause the maintenance of, its facilities in a 
+safe and reliable manner in accord with (i) the terms of this Appendix 2; (ii) Applicable 
+Standards; (iii) applicable rules, procedures and protocols set forth in the Tariff and the 
+Operating Agreement, as any or all may be amended from time to time; (iv) Applicable Laws 
+and Regulations, and (v) Good Utility Practice. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.2 Maintenance of Merchant Network Upg 
+Effective Date: 5/1/2016 - Docket #: ER16-757-001 - Page 1 
+5.2 [Reserved.] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.3 Outage Authority and Coordination 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.3 Outage Authority and Coordination 
+ 
+5.3.1 Coordination:   
+ 
+The Interconnection Parties agree to confer regularly to coordinate the planning, scheduling and 
+performance of preventive and corrective maintenance on the Customer Facility, the Customer 
+Interconnection Facilities and any Attachment Facilities owned by the Interconnected 
+Transmission Owner. 
+ 
+5.3.2 Authority:   
+ 
+Each Interconnected Entity may, in accordance with Good Utility Practice, remove from service 
+its facilities that may affect the other Interconnected Entity’s facilities in order to perform 
+maintenance or testing or to install or replace equipment. Except in the event of an Emergency 
+Condition, the Interconnection Customer proposing to remove such facilities from service shall 
+provide prior notice of such activities to the Transmission Provider and the Interconnected 
+Transmission Owner, and the Interconnected Entities shall coordinate all scheduling of planned 
+facility outages with Transmission Provider, in accordance with applicable sections of the 
+Operating Agreement, the PJM Manuals and any other applicable operating guidelines or 
+directives of the Transmission Provider. Subject to the foregoing, the Interconnected Entity 
+scheduling a facility outage shall use Reasonable Efforts to coordinate such outage with the other 
+Interconnected Entity’s scheduled outages. 
+ 
+5.3.3 Outages Required for Maintenance:   
+ 
+Subject to any necessary approval by Transmission Provider, each Interconnected Entity shall 
+provide necessary equipment outages to allow the other Interconnected Entity to perform 
+periodic maintenance, repair or replacement of its facilities and such outages shall be provided at 
+mutually agreeable times, unless conditions arise which an Interconnected Entity believes, in 
+accordance with Good Utility Practice, may endanger persons or property.  
+ 
+5.3.4 Rescheduling of Planned Outages:   
+ 
+To the extent so provided by the Tariff, the Operating Agreement, and the PJM Manuals, an 
+Interconnected Entity may seek compensation from Transmission Provider for any costs related 
+to rejection by Transmission Provider of a request of such Interconnected Entity for a planned 
+maintenance outage.  
+ 
+5.3.5 Outage Restoration:   
+ 
+If an outage on an Interconnected Entity’s facilities adversely affects the other Interconnected 
+Entity’s facilities, the Interconnected Entity that owns or controls the facility that is out of 
+service shall use Reasonable Efforts to restore the facility to service promptly.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.4 Inspections and Testing: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.4 Inspections and Testing:   
+ 
+Each Interconnected Entity shall perform routine inspection and testing of its facilities and 
+equipment in accordance with Good Utility Practice as may be necessary to ensure the continued 
+interconnection of the Customer Facility with the Transmission System in a safe and reliable 
+manner. Each Interconnected Entity shall have the right, upon advance written notice, to request 
+reasonable additional testing of an Interconnected Entity’s facilities for good cause, as may be in 
+accordance with Good Utility Practice. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.5 Right to Observe Testing: 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
+5.5 Right to Observe Testing:   
+ 
+Each Interconnected Entity shall notify the other Interconnected Entity in advance of its 
+performance of tests of its portion of the Interconnection Facilities. The other Interconnected 
+Entity shall, at its own expense, have the right, but not the obligation, to: 
+ 
+(a) Observe the other Party’s tests and/or inspection of any of its system protection facilities 
+and other protective equipment, including power system stabilizers; 
+ 
+(b) Review the settings of the other Party’s system protection facilities and other protective 
+equipment; 
+ 
+(c) Review the other Party’s maintenance record relative to the Interconnection Facilities, 
+system protection facilities and other protective equipment; and 
+ 
+(d) Exercise these rights from time to time as it deems necessary upon reasonable notice to 
+the other Party.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.6 Secondary Systems: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.6 Secondary Systems:  
+ 
+Each Interconnected Entity agrees to cooperate with the other in the inspection, maintenance, 
+and testing of those Secondary Systems directly affecting the operation of an Interconnected 
+Entity's facilities and equipment which may reasonably be expected to affect the other 
+Interconnected Entity’s facilities.  Each Interconnected Entity shall provide advance notice to the 
+other Interconnected Entity before undertaking any work on such equipment, especially in 
+electrical circuits involving circuit breaker trip and close contacts, current transformers, or 
+potential transformers. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.7 Access Rights: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.7 Access Rights:   
+ 
+Each Interconnected Entity shall provide the other Interconnected Entity access to areas under its 
+control as reasonably necessary to permit the other Interconnected Entity to perform its 
+obligations under this Appendix 2, including operation and maintenance obligations.  An 
+Interconnected Entity that obtains such access shall comply with all safety rules applicable to the 
+area to which access is obtained. Each Interconnected Entity agrees to inform the other 
+Interconnected Entity’s representatives of safety rules applicable to an area. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.5 
+Maintenance --> OATT ATTACHMENT O.A2.5.8 Observation of Deficiencies: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.8 Observation of Deficiencies:   
+ 
+If an Interconnection Party observes any Abnormal Condition on, or becomes aware of a lack of 
+scheduled maintenance and testing with respect to, an Interconnection Party’s facilities and 
+equipment that might reasonably be expected to adversely affect the observing Interconnection 
+Party's facilities and equipment, the observing Interconnection Party shall provide prompt notice 
+under the circumstances to the appropriate Interconnection Party, and such Interconnection Party 
+shall consider such notice in accordance with Good Utility Practice.  Any Interconnection Party’s 
+review, inspection, and approval related to the other Interconnection Party’s facilities and 
+equipment shall be limited to the purpose of assessing the safety, reliability, protection and 
+control of the Transmission System and shall not be construed as confirming or endorsing the 
+design of such facilities and equipment, or as a warranty of any type, including safety, durability 
+or reliability thereof.  Notwithstanding the foregoing, the observing Interconnection Party shall 
+have no liability whatsoever for failure to give a deficiency notice to the other Interconnection 
+Party and the Interconnected Entity that owns the relevant Interconnection Facilities shall remain 
+fully liable for its failure to determine and correct deficiencies and defects in its facilities and 
+equipment. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.6 
+Emergency Operations 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6 Emergency Operations 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.6 
+Emergency Operations --> OATT ATTACHMENT O.A2.6.1 Obligations: 
+Effective Date: 7/18/2012 - Docket #: ER12-1784-000 - Page 1 
+6.1 Obligations:   
+ 
+Subject to Applicable Laws and Regulations, each Interconnection Party shall comply with the 
+Emergency Condition procedures of NERC, the Applicable Regional Entity, Transmission 
+Provider, the Interconnected Transmission Owner and Interconnection Customer. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.6 
+Emergency Operations --> OATT ATTACHMENT O.A2.6.2 Notice: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.2 Notice:   
+ 
+Each Interconnection Party shall notify the other parties promptly when it becomes aware of an 
+Emergency Condition that may reasonably be expected to affect operation of the Customer 
+Facility, the Customer Interconnection Facilities, the Transmission Owner Interconnection 
+Facilities, or the Transmission System. To the extent information is known, the notification shall 
+describe the Emergency Condition, the extent of the damage or deficiency, the expected effect on 
+the facilities and/or operation thereof, its anticipated duration and the corrective action taken 
+and/or to be taken.  The initial notice shall be followed as soon as practicable with written notice. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.6 
+Emergency Operations --> OATT ATTACHMENT O.A2.6.3 Immediate Action: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.3 Immediate Action:   
+ 
+An Interconnection Party becoming aware of an Emergency Condition may take such action, 
+including disconnection of the Customer Facility from the Transmission System, as is reasonable 
+and necessary in accord with Good Utility Practice (i) to prevent, avoid, or mitigate injury or 
+danger to, or loss of, life or property; (ii) to preserve the reliability of, in the case of 
+Interconnection Customer, the Customer Facility, or, in the case of Transmission Provider or the 
+Interconnected Transmission Owner, the Transmission System and interconnected sub-
+transmission and distribution facilities; or (iii) to expedite restoration of service. Unless, in 
+Interconnection Customer's reasonable judgment, immediate action is required to prevent 
+imminent loss of life or property, Interconnection Customer shall obtain the consent of 
+Transmission Provider and the Interconnected Transmission Owner prior to performing any 
+manual switching operations at the Customer Facility or the Generation Interconnection 
+Facilities. Each Interconnection Party shall use Reasonable Efforts to minimize the effect of its 
+actions during an Emergency Condition on the facilities and operations of the other 
+Interconnection Parties.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.6 
+Emergency Operations --> OATT ATTACHMENT O.A2.6.4 Record-Keeping Obligations: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.4 Record-Keeping Obligations:   
+ 
+Each Interconnection Party shall keep and maintain records of actions taken during an 
+Emergency Condition that may reasonably be expected to affect the other parties’ facilities and 
+make such records available for audit in accordance with Section 19.3 of this Appendix 2. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.7 Safety 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+7 Safety 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.7 Safety --> 
+OATT ATTACHMENT O.A2.7.1 General: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+7.1 General:   
+ 
+Each Interconnected Entity shall perform all work under this Appendix 2 that may reasonably be 
+expected to affect the other Interconnected Entity in accordance with Good Utility Practice and 
+all Applicable Laws and Regulations pertaining to the safety of persons or property.  An 
+Interconnected Entity performing work within the boundaries of the other Interconnected 
+Entity’s facilities must abide by the safety rules applicable to the site. Each party agrees to 
+inform the other party’s representatives of applicable safety rules that must be obeyed on the 
+premises. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.7 Safety --> 
+OATT ATTACHMENT O.A2.7.2 Environmental Releases: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+7.2 Environmental Releases:   
+ 
+Each Interconnected Entity shall notify the other Interconnection Parties, first orally and 
+promptly thereafter in writing, of the release of any Hazardous Substances, any asbestos or lead 
+abatement activities, or any type of remediation activities, related to the Customer Facility or the 
+Interconnection Facilities, any of which may reasonably be expected to affect one or both of the 
+other parties.  The notifying party shall (i) provide the notice as soon as possible; (ii) make a 
+good faith effort to provide the notice within twenty-four (24) hours after the party becomes 
+aware of the occurrence; and (iii) promptly furnish to the other parties copies of any publicly 
+available reports filed with any governmental agencies addressing such events. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+8 Metering 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.1 General: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+8.1 General:   
+ 
+Interconnection Customer shall have the right to install, own, operate, test and maintain the 
+necessary Metering Equipment. In the event that Interconnection Customer exercises this option, 
+the Interconnected Transmission Owner shall have the right to install its own check meter(s), at 
+its own expense, at or near the location of the Metering Equipment.  If both Interconnection 
+Customer and Interconnected Transmission Owner install meters, the meter installed by the 
+Interconnection Customer shall control unless it is determined by testing to be inaccurate.  If the 
+Interconnection Customer does not exercise the option provided by the first sentence of this 
+section, the Interconnected Transmission Owner shall have the option to install, own, operate, 
+test and maintain all necessary Metering Equipment at Interconnection Customer’s expense.  If 
+the Interconnected Transmission Owner does not exercise this option, the Interconnection 
+Customer shall install, own, operate, test and maintain all necessary Metering Equipment. 
+Transmission Provider shall determine the location where the Metering Equipment shall be 
+installed, after consulting with Interconnection Customer and the Interconnected Transmission 
+Owner. All Metering Equipment shall be tested prior to any operation of the Customer Facility.  
+Power flows to and from the Customer Facility shall be compensated to the Point of 
+Interconnection, or, upon the mutual agreement of the Interconnected Transmission Owner and 
+the Interconnection Customer, to another location. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.2 Standards: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+8.2 Standards:   
+ 
+All Metering Equipment installed pursuant to this Appendix 2 to be used for billing and 
+payments shall be revenue quality Metering Equipment and shall satisfy applicable ANSI 
+standards and Transmission Provider’s metering standards and requirements.  Nothing in this 
+Appendix 2 precludes the use of Metering Equipment for any retail services of the 
+Interconnected Transmission Owner provided, however, that in such circumstances Applicable 
+Laws and Regulations shall control. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.3 Testing of Metering Equipment: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+8.3 Testing of Metering Equipment:   
+ 
+The Interconnected Entity that, pursuant to Section 8.1 of this Appendix 2, owns the Metering 
+Equipment shall operate, maintain, inspect and test all Metering Equipment upon installation and 
+at least once every two years thereafter.  Upon reasonable request by the other Interconnected 
+Entity, the owner of the Metering Equipment shall inspect or test the Metering Equipment more 
+frequently than every two years, but in no event more frequently than three times in any 24-
+month period.  The owner of the Metering Equipment shall give reasonable notice to the 
+Interconnection Parties of the time when any inspection or test of the owner’s Metering 
+Equipment shall take place, and the other parties may have representatives present at the test or 
+inspection.  If Metering Equipment is found to be inaccurate or defective, it shall be adjusted, 
+repaired or replaced in order to provide accurate metering.  Where the Interconnected 
+Transmission Owner owns the Metering Equipment, the expense of such adjustment, repair or 
+replacement shall be borne by the Interconnection Customer, except that the Interconnection 
+Customer shall not be responsible for such expenses where the inaccuracy or defect is caused by 
+the Interconnected Transmission Owner.  If Metering Equipment fails to register, or if the 
+measurement made by Metering Equipment during a test varies by more than one percent from 
+the measurement made by the standard meter used in the test, the owner of the Metering 
+Equipment shall inform Transmission Provider, and the Transmission Provider shall inform the 
+other Interconnected Entity, of the need to correct all measurements made by the inaccurate 
+meter for the period during which the inaccurate measurements were made, if the period can be 
+determined.  If the period of inaccurate measurement cannot be determined, the correction shall 
+be for the period immediately preceding the test of the Metering Equipment that is equal to one-
+half of the time from the date of the last previous test of the Metering Equipment, provided that 
+the period subject to correction shall not exceed nine (9) months. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.4 Metering Data: 
+Effective Date: 9/23/2020 - Docket #: ER21-460-000 - Page 1 
+8.4 Metering Data:   
+ 
+At Interconnection Customer's expense, the metered data shall be telemetered (a) to a location 
+designated by Transmission Provider; (b) to a location designated by the Interconnected 
+Transmission Owner, unless the Interconnected Transmission Owner agrees otherwise; and (c) to 
+a location designated by Interconnection Customer. Data from the Metering Equipment at the 
+Point of Interconnection shall be used, under normal operating conditions, as the official 
+measurement of the amount of energy delivered from or to the Customer Facility to the Point of 
+Interconnection, provided that the Transmission Provider’s rules applicable to Station Power as 
+set forth at Tariff, Attachment K-Appendix, section 1.7.10(d) shall control with respect to a 
+Generation Interconnection Customer’s consumption of Station Power. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.5 Communications 
+Effective Date: 12/28/2013 - Docket #: ER14-207-001 - Page 1 
+8.5 Communications 
+ 
+8.5.1 Interconnection Customer Obligations:   
+ 
+Interconnection Customer shall install and maintain satisfactory operating communications with 
+Transmission Provider’s system dispatcher or its other designated representative and with the 
+Interconnected Transmission Owner.  Interconnection Customer shall provide standard voice 
+line, dedicated voice line and facsimile communications at its Customer Facility control room 
+through use of the public telephone system. Interconnection Customer also shall provide and 
+maintain backup communication links with both Transmission Provider and Interconnected 
+Transmission Owner for use during abnormal conditions as specified by Transmission Provider 
+and Interconnected Transmission Owner, respectively.  Interconnection Customer further shall 
+provide the dedicated data circuit(s) necessary to provide Interconnection Customer data to the 
+Transmission Provider and Interconnected Transmission Owner as necessary to conform with 
+Applicable Technical Requirements and Standards. 
+ 
+8.5.2 Remote Terminal Unit:   
+ 
+Unless otherwise deemed unnecessary by Transmission Provider and Interconnected 
+Transmission Owner, as indicated in the Interconnection Service Agreement, prior to any 
+operation of the Customer Facility, a remote terminal unit, or equivalent data collection and 
+transfer equipment acceptable to the Interconnection Parties, shall be installed by Interconnection 
+Customer, or by the Interconnected Transmission Owner at Interconnection Customer's expense, 
+to gather accumulated and instantaneous data to be telemetered to the location(s) designated by 
+Transmission Provider and Interconnected Transmission Owner through use of a dedicated 
+point-to-point data circuit(s) as indicated in Section 8.5.1 of this Appendix 2. Instantaneous, bi-
+directional real power and, with respect to a Generation Interconnection Customer’s Customer 
+Facility, reactive power flow information, must be telemetered directly to the location(s) 
+specified by Transmission Provider and the Interconnected Transmission Owner. 
+ 
+8.5.3.  Phasor Measurement Units (PMUs): 
+ 
+An Interconnection Customer entering the New Services Queue on or after October 1, 2012 with 
+a proposed new Customer Facility that has a Maximum Facility Output equal to or greater than 
+100 MW shall install and maintain, at its expense, phasor measurement units (PMUs). PMUs 
+shall be installed on the Customer Facility low side of the generator step-up transformer, unless it 
+is a non-synchronous generation facility, in which case the PMUs shall be installed on the 
+Customer Facility side of the Point of Interconnection.  The PMUs must be capable of 
+performing phasor measurements at a minimum of 30 samples per second which are 
+synchronized via a high-accuracy satellite clock.  To the extent Interconnection Customer installs 
+similar quality equipment, such as relays or digital fault recorders, that can collect data at least at 
+the same rate as PMUs and which data is synchronized via a high-accuracy satellite clock, such 
+equipment would satisfy this requirement.  As provided for in the PJM Manuals, an 
+Interconnection Customer shall be required to install and maintain, at its expense, PMU 
+equipment which includes the communication circuit capable of carrying the PMU data to a local 
+data concentrator, and then transporting the information continuously to the Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.8 Metering --
+> OATT ATTACHMENT O.A2.8.5 Communications 
+Effective Date: 12/28/2013 - Docket #: ER14-207-001 - Page 2 
+Provider; as well as store the PMU data locally for thirty days.  Interconnection Customer shall 
+provide to Transmission Provider all necessary and requested information through the 
+Transmission Provider synchrophasor system, including the following: (a) gross MW and 
+MVAR measured at the Customer Facility side of the generator step-up transformer (or, for a 
+non-synchronous generation facility, to be measured at the Customer Facility side of the Point of 
+Interconnection); (b) generator terminal voltage; (c) generator terminal frequency; and (d) 
+generator field voltage and current, where available.  The Transmission Provider will install and 
+provide for the ongoing support and maintenance of the network communications linking the 
+data concentrator to the Transmission Provider.  Additional details regarding the requirements 
+and guidelines of PMU data and telecommunication of such data are contained in the PJM 
+Manuals. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.9 Force 
+Majeure 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+9 Force Majeure 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.9 Force 
+Majeure --> OATT ATTACHMENT O.A2.9.1 Notice: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+9.1 Notice:   
+ 
+An Interconnection Party that is unable to carry out an obligation imposed on it by this Appendix 
+2 due to Force Majeure shall notify the other parties in writing or by telephone within a 
+reasonable time after the occurrence of the cause relied on. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.9 Force 
+Majeure --> OATT ATTACHMENT O.A2.9.2 Duration of Force Majeure: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+9.2 Duration of Force Majeure:   
+ 
+An Interconnection Party shall not be responsible, or considered to be in Breach or Default under 
+this Interconnection Service Agreement, for any non-performance, any interruption or failure of 
+service, deficiency in the quality or quantity of service, or any other failure to perform any 
+obligation hereunder to the extent that such failure or deficiency is due to Force Majeure.  An 
+Interconnection Party shall be excused from whatever performance is affected only for the 
+duration of the Force Majeure and while the Interconnection Party exercises Reasonable Efforts 
+to alleviate such situation. As soon as the non-performing Interconnection Party is able to resume 
+performance of its obligations excused because of the occurrence of Force Majeure, such 
+Interconnection Party shall resume performance and give prompt notice thereof to the other 
+parties. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.9 Force 
+Majeure --> OATT ATTACHMENT O.A2.9.3 Obligation to Make Payments: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+9.3 Obligation to Make Payments:   
+ 
+Any Interconnection Party's obligation to make payments for services shall not be suspended by 
+Force Majeure. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.9 Force 
+Majeure --> OATT ATTACHMENT O.A2.9.4 Definition of Force Majeure 
+Effective Date: 4/1/2015 - Docket #: EL15-29-000 - Page 1 
+9.4 Definition of Force Majeure: 
+ 
+For the purposes of this section, an event of force majeure shall mean any cause beyond the 
+control of the affected Interconnection Party or Construction Party, including but not restricted 
+to, acts of God, flood, drought, earthquake, storm, fire, lightning, epidemic, war, riot, civil 
+disturbance or disobedience, labor dispute, labor or material shortage, sabotage, acts of public 
+enemy, explosions, orders, regulations or restrictions imposed by governmental, military, or 
+lawfully established civilian authorities, which, in any of the foregoing cases, by exercise of due 
+diligence such party could not reasonably have been expected to avoid, and which, by the 
+exercise of due diligence, it has been unable to overcome. Force majeure does not include (i) a 
+failure of performance that is due to an affected party’s own negligence or intentional 
+wrongdoing; (ii) any removable or remediable causes (other than settlement of a strike or labor 
+dispute) which an affected party fails to remove or remedy within a reasonable time; or (iii) 
+economic hardship of an affected party. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.10 Charges 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+10 Charges 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.10 Charges -
+-> OATT ATTACHMENT O.A2.10.1 Specified Charges: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+10.1 Specified Charges:   
+ 
+If and to the extent required by the Interconnected Transmission Owner, after the Initial 
+Operation of the Customer Facility, Interconnection Customer shall pay one or more of the types 
+of recurring charges described in this section to compensate the Interconnected Transmission 
+Owner for costs incurred in performing certain of its obligations under this Appendix 2. All such 
+charges shall be stated in Schedule E of the Interconnection Service Agreement. Interconnected 
+Transmission Owner shall provide Transmission Provider and Interconnection Customer with 
+appropriate cost data, schedules and/or written testimony in support of any charges under this 
+section in such manner and at such time as to allow Transmission Provider to include such 
+materials in its filing of the Interconnection Service Agreement with the FERC. Transmission 
+Provider will deliver a copy of such filing to Interconnection Customer. Permissible charges 
+under this section may include: 
+ 
+ (a) Administration Charge — Any such charge may recover only the costs and 
+expenses incurred by the Interconnected Transmission Owner in connection with administrative 
+obligations such as the preparation of bills, the processing of Customer Facility-specific data on 
+energy delivered at the Point of Interconnection and costs incurred in similar types of 
+administrative processes related to Interconnection Customer’s Interconnection Service. An 
+Administration Charge shall not be permitted to the extent that the Interconnected Transmission 
+Owner’s other charges to the Interconnection Customer under the same Interconnection Service 
+Agreement include an allocation of Interconnected Transmission Owner’s administrative and 
+general expenses and/or other corporate overhead costs.  
+ 
+ (b) Metering Charge — Any such charge may recover only the Interconnected 
+Transmission Owner’s costs and expenses associated with operation, maintenance, inspection, 
+testing, and carrying or capital replacement charges for any Metering Equipment that is owned 
+by the Interconnected Transmission Owner. 
+ 
+ (c) Telemetering Charge — Any such charge may recover only the Interconnected 
+Transmission Owner’s costs and expenses associated with operation, maintenance, inspection, 
+testing, and carrying or capital replacement charges for any telemetering equipment that is 
+owned by the Interconnected Transmission Owner and that is used exclusively in conjunction 
+with Interconnection Service for the Interconnection Customer. 
+ 
+ (d) Customer Facility Operations and Maintenance Charge — Any such charge may 
+recover only the Interconnected Transmission Owner’s costs and expenses associated with 
+operation, maintenance, inspection, testing, modifications, taxes and carrying or capital 
+replacement charges for Attachment Facilities related to the Interconnection Customer’s 
+Interconnection Service and that are owned by the Interconnected Transmission Owner, provided 
+that  
+ 
+  (i) any such charge shall exclude costs and expenses associated with 
+Transmission Owner Interconnection Facilities owned by the Interconnected Transmission 
+Owner that are radial line facilities that serve load in addition to an Interconnection Customer; 
+and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.10 Charges -
+-> OATT ATTACHMENT O.A2.10.1 Specified Charges: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 2 
+ 
+  (ii) except as otherwise provided by Applicable Laws and Regulations, any 
+such charge may include only an allocated share, derived in accordance with the allocations 
+contained in the Facilities Study, of costs and expenses associated with Transmission Owner 
+Interconnection Facilities owned by the Interconnected Transmission Owner that are radial line 
+facilities that serve more than one Interconnection Customer.  At the discretion of the affected 
+Interconnected Entities, a Customer Facility Operations and Maintenance Charge authorized 
+under this section may apply on a per-incident basis or on a monthly or other periodic basis. 
+ 
+ (e) Other Charges — Any other charges applicable to the Interconnection Customer, 
+as mutually agreed upon by the Interconnection Customer and the Interconnected Transmission 
+Owner and as accepted by the FERC as part of an Interconnection Service Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.10 Charges -
+-> OATT ATTACHMENT O.A2.10.2 FERC Filings: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+10.2 FERC Filings: 
+ 
+To the extent required by law or regulation, each Interconnection Party shall seek FERC 
+acceptance or approval of its respective charges or the methodology for the calculation of such 
+charges. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+11 Security, Billing And Payments 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments --> OATT ATTACHMENT O.A2.11.1 Recurring Charges Pursuant to Sect 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+11.1 Recurring Charges Pursuant to Section 10:   
+ 
+The following provisions shall apply with respect to recurring charges applicable to 
+Interconnection Service after Initial Operation of the Customer Facility pursuant to Section 10 of 
+this Appendix 2.   
+ 
+11.1.1 General:   
+ 
+Except as, and to the extent, otherwise provided in the Interconnection Service Agreement, 
+billing and payment of any recurring charges applicable to Interconnection Service after Initial 
+Operation of the Customer Facility pursuant to Section 10 of this Appendix 2 shall be in 
+accordance with Section 7 of the Tariff. The Interconnected Transmission Owner shall provide 
+Transmission Provider with all necessary information and supporting data that Transmission 
+Provider may reasonably require to administer billing for and payment of applicable charges 
+under this Appendix 2. Transmission Provider shall remit to the Interconnected Transmission 
+Owner revenues received in payment of Interconnected Transmission Owner’s charges to 
+Interconnection Customer under this Appendix 2 upon Transmission Provider’s receipt of such 
+revenues. At Transmission Provider’s reasonable discretion, charges to Interconnection 
+Customer and remittances to Interconnected Transmission Owner under this Appendix 2 may be 
+netted against other amounts owed by or to such parties under the Tariff. 
+ 
+11.1.2 Billing Disputes:   
+ 
+In the event of a billing dispute between Transmission Provider and Interconnection Customer, 
+Transmission Provider shall continue to provide interconnection service under this Appendix 2 
+as long as Interconnection Customer (i) continues to make all payments not in dispute, and (ii) 
+pays to Transmission Provider or into an independent escrow account the portion of the invoice 
+in dispute, pending resolution of such dispute.  If Interconnection Customer fails to meet these 
+two requirements for continuation of service, then Transmission Provider shall so inform the 
+Interconnection Parties and may provide notice to Interconnection Customer of a Breach 
+pursuant to Section 15 of this Appendix 2.  Within thirty days after the resolution of the dispute, 
+the Interconnection Party that owes money to the other Interconnection Party shall pay the 
+amount due with interest calculated in accord with Section 11.4. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments --> OATT ATTACHMENT O.A2.11.2 Costs for Transmission Owner Inter 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
+11.2 Costs for Transmission Owner Interconnection Facilities:   
+ 
+The following provisions shall apply with respect to charges for the Costs of the Interconnected 
+Transmission Owner for which the Interconnection Customer is responsible.   
+ 
+11.2.1 Adjustments to Security:   
+ 
+The Security provided by Interconnection Customer at or before execution of the Interconnection 
+Service Agreement (a) shall be reduced as portions of the work are completed, and/or (b) shall be 
+increased or decreased as required to reflect adjustments to Interconnection Customer’s cost 
+responsibility, as determined in accordance with Section 217, to correspond with changes in the 
+Scope of Work developed in accordance with Transmission Provider’s scope change process for 
+interconnection projects set forth in the PJM Manuals. 
+ 
+11.2.2 Invoice:   
+ 
+The Interconnected Transmission Owner shall provide Transmission Provider a quarterly 
+statement of the Interconnected Transmission Owner’s scheduled expenditures during the next 
+three months for, as applicable (a) the design, engineering and construction of, and/or for other 
+charges related to, construction of the Interconnection Facilities for which the Interconnected 
+Transmission Owner is responsible under the Interconnection Service Agreement and the 
+Interconnection Construction Service Agreement, or (b) in the event that the Interconnection 
+Customer exercises the Option to Build pursuant to Tariff, Attachment P, Appendix 2, section 
+3.2.3.1, for the Interconnected Transmission Owner’s oversight costs (i.e. costs incurred by the 
+Transmission Owner when engaging in oversight activities to satisfy itself that the 
+Interconnection Customer is complying with the Transmission Owner’s standards and 
+specifications for the construction of facilities) associated with Interconnection Customer’s 
+building Transmission Owner Attachment Facilities and Direct Connection Network Upgrades, 
+including but not limited to Costs for tie-in work and Cancellation Costs.  Interconnected 
+Transmission Owner oversight costs shall be consistent with Tariff, Attachment P, Appendix 2, 
+section 3.2.3.2(a)(12).  Transmission Provider shall bill Interconnection Customer on behalf of 
+the Interconnected Transmission Owner, for the Interconnected Transmission Owner’s expected 
+Costs during the subsequent three months.  Interconnection Customer shall pay each bill within 
+twenty (20) days after receipt thereof.  Upon receipt of each of Interconnection Customer’s 
+payments of such bills, Transmission Provider shall reimburse the Interconnected Transmission 
+Owner.  Interconnection Customer may request that the Transmission Provider provide a 
+quarterly cost reconciliation.  Such a quarterly cost reconciliation will have a one-quarter lag, 
+e.g., reconciliation of Costs for the first calendar quarter of work will be provided at the start of 
+the third calendar quarter of work, provided, however, that Section 11.2.3 of this Appendix 2 
+shall govern the timing of the final cost reconciliation upon completion of the work. 
+ 
+11.2.3 Final Invoice:   
+ 
+Within 120 days after the Interconnected Transmission Owner completes construction and 
+installation of the Interconnection Facilities for which the Interconnected Transmission Owner is 
+responsible under the Interconnection Service Agreement and the Interconnection Construction 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments --> OATT ATTACHMENT O.A2.11.2 Costs for Transmission Owner Inter 
+Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 2 
+Service Agreement, Transmission Provider shall provide Interconnection Customer with an 
+accounting of, and the appropriate Construction Party shall make any payment to the other that is 
+necessary to resolve, any difference between (a) Interconnection Customer's responsibility under 
+the Tariff for the actual Cost of such facilities, and (b) Interconnection Customer's previous 
+aggregate payments to Transmission Provider for the Costs of such facilities. Notwithstanding 
+the foregoing, however, Transmission Provider shall not be obligated to make any payment to 
+either the Interconnection Customer or the Interconnected Transmission Owner that the 
+preceding sentence requires it to make unless and until the Transmission Provider has received 
+the payment that it is required to refund from the Construction Party owing the payment. 
+ 
+11.2.4 Disputes:   
+ 
+In the event of a billing dispute between any of the Construction Parties, Transmission Provider 
+and the Interconnected Transmission Owner shall continue to perform their respective 
+obligations pursuant to this Interconnection Service Agreement and any related Interconnection 
+Construction Service Agreements so long as (a) Interconnection Customer continues to make all 
+payments not in dispute, and (b) the Security held by the Transmission Provider while the 
+dispute is pending exceeds the amount in dispute, or (c) Interconnection Customer pays to 
+Transmission Provider or into an independent escrow account the portion of the invoice in 
+dispute, pending resolution of such dispute.  If Interconnection Customer fails to meet any of 
+these requirements, then Transmission Provider shall so inform the other Construction Parties 
+and Transmission Provider or the Interconnected Transmission Owner may provide notice to 
+Interconnection Customer of a Breach pursuant to Section 15 of this Appendix 2. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments --> OATT ATTACHMENT O.A2.11.3 No Waiver: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+11.3 No Waiver:   
+ 
+Payment of an invoice shall not relieve Interconnection Customer from any other responsibilities 
+or obligations it has under this Appendix 2, nor shall such payment constitute a waiver of any 
+claims arising hereunder. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.11 Security, 
+Billing And Payments --> OATT ATTACHMENT O.A2.11.4 Interest: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+11.4 Interest:   
+ 
+Interest on any unpaid amounts shall be calculated in accordance with the methodology specified 
+for interest on refunds in the FERC's regulations at 18 C.F.R. § 35.19a(a)(2)(iii).  Interest on 
+delinquent amounts shall be calculated from the due date of the bill to the date of payment. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.12.0 
+Assignment 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+12.0 Assignment 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT O --> OATT ATTACHMENT O APPENDIX 2 --> OATT ATTACHMENT O.A2.12.0 
+Assignment --> OATT ATTACHMENT O.A2.12.1 Assignment with Prior Consent: 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+12.1 Assignment with Prior Consent:   
+ 
+Except as provided in Section 12.2 to this Appendix 2, no Interconnection Party shall assign its 
+rights or delegate its duties, or any part of such rights or duties, under the Interconnection 
+Service Agreement without the written consent of the other Interconnection Parties, which 
+consent shall not be unreasonably withheld, conditioned, or delayed.  Any such assignment or 
+delegation made without such written consent shall be null and void.  An Interconnection Party 

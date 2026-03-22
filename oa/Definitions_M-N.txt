@@ -1,0 +1,354 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 1 
+Definitions M - N 
+ 
+M2M Flowgate: 
+ 
+“M2M Flowgate” shall have the meaning provided in the Joint Operating Agreement between 
+the Midcontinent Independent Transmission System Operator, Inc. and PJM Interconnection, 
+L.L.C. 
+ 
+Maintenance Adder:   
+ 
+“Maintenance Adder” shall mean an adder that may be included to account for variable operation 
+and maintenance expenses in a Market Seller’s Fuel Cost Policy.  The Maintenance Adder is 
+calculated in accordance with the applicable provisions of PJM Manual 15, and may only include 
+expenses incurred as a result of electric production. 
+ 
+Market Buyer:  
+ 
+“Market Buyer” shall mean a Member that has met reasonable creditworthiness standards 
+established by the Office of the Interconnection and/or PJMSettlement in Tariff, Attachment Q, 
+and that is otherwise able to make purchases in the PJM Interchange Energy Market. 
+ 
+Market Monitoring Unit or MMU: 
+ 
+“Market Monitoring Unit” or “MMU” shall mean the independent Market Monitoring Unit 
+defined in 18 CFR § 35.28(a)(7) and established under the PJM Market Monitoring Plan 
+(Attachment M) to the PJM Tariff that is responsible for implementing the Market Monitoring 
+Plan, including the Market Monitor.  The Market Monitoring Unit may also be referred to as the 
+IMM or Independent Market Monitor for PJM. 
+ 
+Market Operations Center: 
+ 
+“Market Operations Center” shall mean the equipment, facilities and personnel used by or on 
+behalf of a Market Participant to communicate and coordinate with the Office of the 
+Interconnection in connection with transactions in the PJM Interchange Energy Market or the 
+operation of the PJM Region. 
+ 
+Market Participant: 
+ 
+“Market Participant” shall mean a Market Buyer, a Market Seller, and/or an Economic Load 
+Response Participant, except when that term is used in or pertaining to Tariff, Attachment M, 
+Tariff, Attachment Q, Operating Agreement, section 15, Tariff, Attachment K-Appendix, section 
+1.4 and Operating Agreement, Schedule 1, section 1.4.  “Market Participant,” when such term is 
+used in Tariff, Attachment M, shall mean an entity that generates, transmits, distributes, 
+purchases, or sells electricity, ancillary services, or any other product or service provided under 
+the PJM Tariff or Operating Agreement within, into, out of, or through the PJM Region, but it 
+shall not include an Authorized Government Agency that consumes energy for its own use but 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 2 
+does not purchase or sell energy at wholesale. “Market Participant,” when such term is used in or 
+pertaining to Tariff, Attachment Q, Operating Agreement, section 15, Tariff, Attachment K-
+Appendix, section 1.4 and Operating Agreement, Schedule 1, section 1.4, shall mean a Market 
+Buyer, a Market Seller, an Economic Load Response Participant, an FTR Participant, a Capacity 
+Market Buyer, or a Capacity Market Seller. 
+ 
+Market Participant Energy Injection: 
+ 
+“Market Participant Energy Injection” shall mean transactions in the Day-ahead Energy Market 
+and Real-time Energy Market, including but not limited to Day-ahead generation schedules, real-
+time generation output, Increment Offers, internal bilateral transactions and import transactions, 
+as further described in the PJM Manuals.  
+ 
+Market Participant Energy Withdrawal: 
+ 
+“Market Participant Energy Withdrawal” shall mean transactions in the Day-ahead Energy 
+Market and Real-time Energy Market, including but not limited to Demand Bids, Decrement 
+Bids, real-time load (net of Behind The Meter Generation expected to be operating, but not to be 
+less than zero), internal bilateral transactions and Export Transactions, as further described in the 
+PJM Manuals.  
+ 
+Market Revenue Neutrality Offset:  
+ 
+“Market Revenue Neutrality Offset” shall mean the revenue in excess of the cost for a resource 
+from the energy, Synchronized Reserve, Non-Synchronized Reserve, and Secondary Reserve 
+markets realized from an increase in real-time market megawatt assignment from a day-ahead 
+market megawatt assignment in any of these markets due to the decrease in the real-time reserve 
+market megawatt assignment from a day-ahead reserve market megawatt assignment in any of 
+the reserve markets. 
+ 
+Market Seller: 
+ 
+“Market Seller” shall mean a Member that has met reasonable creditworthiness standards 
+established by the Office of the Interconnection and/or PJMSettlement in Tariff, Attachment Q, 
+and that is otherwise able to make sales in the PJM Interchange Energy Market. 
+ 
+Market Suspension:  
+ 
+“Market Suspension” shall mean the inability of the Office of the Interconnection to clear the 
+Day-ahead Energy Market prior to 11:59 p.m. on the day before the affected Operating Day due 
+to extraordinary circumstances, as further described in Operating Agreement, Schedule 1, section 
+1.10.8(d) and the parallel provisions of Tariff, Attachment K-Appendix, section 1.10.8(d), or the 
+inability of the Office of the Interconnection to produce Zonal Dispatch Rates for a total of seven 
+(7) or more Real-time Settlement Intervals within a clock hour, for the purposes of the Real-time 
+Energy Market, as further described in Operating Agreement, Schedule 1, section 1.11.6 and the 
+parallel provisions of Tariff, Attachment K-Appendix, section 1.11.6. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 3 
+ 
+Maximum Emergency: 
+ 
+“Maximum Emergency” shall mean the designation of all or part of the output of a generating 
+unit for which the designated output levels may require extraordinary procedures and therefore 
+are available to the Office of the Interconnection only when the Office of the Interconnection 
+declares a Maximum Generation Emergency and requests generation designated as Maximum 
+Emergency to run.  The Office of the Interconnection shall post on the PJM website the 
+aggregate amount of megawatts that are classified as Maximum Emergency. 
+ 
+Maximum Generation Emergency:  
+ 
+“Maximum Generation Emergency” shall mean an Emergency declared by the Office of the 
+Interconnection to address either a generation or transmission emergency in which the Office of 
+the Interconnection anticipates requesting one or more Generation Capacity Resources, or Non-
+Retail Behind The Meter Generation resources to operate at its maximum net or gross electrical 
+power output, subject to the equipment stress limits for such Generation Capacity Resource or 
+Non-Retail Behind The Meter resource in order to manage, alleviate, or end the Emergency. 
+ 
+Maximum Daily Starts: 
+ 
+“Maximum Daily Starts” shall mean the maximum number of times that a generating unit can be 
+started in an Operating Day under normal operating conditions. 
+ 
+Maximum Generation Emergency Alert:  
+ 
+“Maximum Generation Emergency Alert” shall mean an alert issued by the Office of the 
+Interconnection to notify PJM Members, Transmission Owners, resource owners and operators, 
+customers, and regulators that a Maximum Generation Emergency may be declared, for any 
+Operating Day in either, as applicable, the Day-ahead Energy Market or the Real-time Energy 
+Market, for all or any part of such Operating Day. 
+ 
+Maximum Run Time: 
+ 
+“Maximum Run Time” shall mean the maximum number of hours a generating unit can run over 
+the course of an Operating Day, as measured by PJM’s State Estimator. 
+ 
+Maximum Weekly Starts: 
+ 
+“Maximum Weekly Starts” shall mean the maximum number of times that a generating unit can 
+be started in one week, defined as the 168 hour period starting Monday 0001 hour, under normal 
+operating conditions. 
+ 
+Member: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 4 
+“Member” shall mean an entity that satisfies the requirements of Operating Agreement, section 
+11.6 and that (i) is a member of the LLC immediately prior to the Effective Date, or (ii) has 
+executed an Additional Member Agreement in the form set forth in Operating Agreement, 
+Schedule 4. 
+ 
+Members Committee: 
+ 
+“Members Committee” shall mean the committee specified in Operating Agreement, section 8, 
+composed of representatives of all the Members. 
+ 
+Minimum Generation Emergency:  
+ 
+“Minimum Generation Emergency” shall mean an Emergency declared by the Office of the 
+Interconnection in which the Office of the Interconnection anticipates requesting one or more 
+generating resources to operate at or below Normal Minimum Generation, in order to manage, 
+alleviate, or end the Emergency. 
+ 
+Minimum Down Time: 
+ 
+For all generating units that are not combined cycle units, “Minimum Down Time” shall mean 
+the minimum number of hours under normal operating conditions between unit shutdown and 
+unit startup, calculated as the shortest time difference between the unit’s generator breaker 
+opening and after the unit’s generator breaker closure, which is typically indicated by 
+telemetered or aggregated State Estimator megawatts greater than zero. For combined cycle 
+units, “Minimum Down Time” shall mean the minimum number of hours between the last 
+generator breaker opening and after first combustion turbine generator breaker closure, which is 
+typically indicated by telemetered or aggregated State Estimator megawatts greater than zero. 
+ 
+Minimum Run Time: 
+ 
+For all generating units that are not combined cycle units, “Minimum Run Time” shall mean the 
+minimum number of hours a unit must run, in real-time operations, from the time after generator 
+breaker closure, which is typically indicated by telemetered or aggregated State Estimator 
+megawatts greater than zero, to the time of generator breaker opening, as measured by PJM's 
+State Estimator. For combined cycle units, “Minimum Run Time” shall mean the time period 
+after the first combustion turbine generator breaker closure, which is typically indicated by 
+telemetered or aggregated State Estimator megawatts greater than zero, and the last generator 
+breaker opening as measured by PJM’s State Estimator. 
+ 
+MISO: 
+ 
+“MISO” shall mean the Midcontinent Independent System Operator, Inc. or any successor 
+thereto. 
+ 
+Mixed Technology Facility: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 5 
+“Mixed Technology Facility” shall mean a facility composed of distinct generation and/or 
+electric storage technology types behind the same Point of Interconnection.  Co-Located 
+Resources and Hybrid Resources form all or part of Mixed Technology Facilities. 
+ 
+Multi-Driver Project: 
+ 
+“Multi-Driver Project” shall mean a transmission enhancement or expansion that addresses more 
+than one of the following:  reliability violations, economic constraints or State Agreement 
+Approach initiatives. 
+ 
+NERC: 
+ 
+“NERC” shall mean the North American Electric Reliability Corporation, or any successor 
+thereto. 
+ 
+NERC Functional Model: 
+ 
+“NERC Functional Model” shall be the set of functions that must be performed to ensure the 
+reliability of the electric bulk power system.  The NERC Reliability Standards establish the 
+requirements of the responsible entities that perform the functions defined in the Functional 
+Model.   
+ 
+NERC Interchange Distribution Calculator: 
+ 
+“NERC Interchange Distribution Calculator” shall mean the NERC mechanism that is in effect 
+and being used to calculate the distribution of energy, over specific transmission interfaces, from 
+energy transactions. 
+ 
+NERC Reliability Standards: 
+ 
+“NERC Reliability Standards” shall mean those standards that have been developed by NERC 
+and approved by FERC to ensure the reliability of the electric bulk power system. 
+ 
+NERC Rules of Procedure:  
+ 
+“NERC Rules of Procedure” shall be the rules and procedures developed by NERC and approved 
+by the FERC.  These rules include the process by which a responsible entity, who is to perform a 
+set of functions to ensure the reliability of the electric bulk power system, must register as the 
+Registered Entity. 
+ 
+Net Benefits Test: 
+ 
+“Net Benefits Test” shall mean a calculation to determine whether the benefits of a reduction in 
+price resulting from the dispatch of Economic Load Response exceeds the cost to other loads 
+resulting from the billing unit effects of the load reduction, as specified in Operating Agreement, 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 6 
+Schedule 1, section 3.3A.4 and the parallel provisions of Tariff, Attachment K-Appendix, section 
+3.3A.4.  
+ 
+Network Resource: 
+ 
+“Network Resource” shall have the meaning specified in the PJM Tariff. 
+ 
+Network Service User: 
+ 
+“Network Service User” shall mean an entity using Network Transmission Service. 
+ 
+Network Transmission Service:  
+ 
+“Network Transmission Service” shall mean transmission service provided pursuant to the rates, 
+terms and conditions set forth in Tariff, Part III, or transmission service comparable to such 
+service that is provided to a Load Serving Entity that is also a Transmission Owner. 
+ 
+New York ISO or NYISO: 
+ 
+“New York ISO” or “NYISO” shall mean the New York Independent System Operator, Inc. or 
+any successor thereto. 
+ 
+No-load Cost:  
+ 
+“No-load Cost” shall mean the hourly cost required to theoretically operate a synchronized unit 
+at zero MW. It consists primarily of the cost of fuel, as determined by the unit’s no load heat 
+(adjusted by the performance factor) times the fuel cost. It also includes operating costs, 
+Maintenance Adders, and emissions allowances. 
+ 
+Non-Disclosure Agreement: 
+ 
+“Non-Disclosure Agreement” shall mean an agreement between an Authorized Person and the 
+Office of the Interconnection, pursuant to Operating Agreement, section, the form of which is 
+appended to this Agreement as Operating Agreement, Schedule 10, wherein the Authorized 
+Person is given access to otherwise restricted confidential information, for the benefit of their 
+respective Authorized Commission. 
+ 
+Non-Dispatched Charging Energy:  
+ 
+“Non-Dispatched Charging Energy” shall mean all Direct Charging Energy that an Energy 
+Storage Resource Model Participant or Open-Loop Hybrid Resource receives from the electric 
+grid that is not otherwise Dispatched Charging Energy. 
+ 
+Nonincumbent Developer: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 7 
+“Nonincumbent Developer” shall mean:  (1) a transmission developer that does not have an 
+existing Zone in the PJM Region as set forth in Tariff, Attachment J; or (2) a Transmission 
+Owner that proposes a transmission project outside of its existing Zone in the PJM Region as set 
+forth in Tariff, Attachment J. 
+ 
+Non-Regulatory Opportunity Cost: 
+ 
+ “Non-Regulatory Opportunity Cost” shall mean the difference between (a) the forecasted cost to 
+operate a specific generating unit when the unit only has a limited number of starts or available 
+run hours resulting from (i) the physical equipment limitations of the unit, for up to one year, due 
+to original equipment manufacturer recommendations or insurance carrier restrictions, (ii) a fuel 
+supply limitation, for up to one year, resulting from an event of Catastrophic Force Majeure; and,  
+(b) the forecasted future Locational Marginal Price at which the generating unit could run while 
+not violating such limitations.  Non-Regulatory Opportunity Cost therefore is the value 
+associated with a specific generating unit’s lost opportunity to produce energy during a higher 
+valued period of time occurring within the same period of time in which the unit is bound by the 
+referenced restrictions, and is reflected in the rules set forth in PJM Manual 15.  Non-Regulatory 
+Opportunity Costs shall be limited to those resources which are specifically delineated in 
+Operating Agreement, Schedule 2.  
+ 
+Non-Retail Behind The Meter Generation: 
+ 
+“Non-Retail Behind The Meter Generation” shall mean Behind the Meter Generation that is used 
+by municipal electric systems, electric cooperatives, and electric distribution companies to serve 
+load.  
+ 
+Non-Synchronized Reserve: 
+ 
+“Non-Synchronized Reserve” shall mean the reserve capability of non-emergency generation 
+resources that can be converted fully into energy within ten minutes of a request from the Office of 
+the Interconnection dispatcher, and is provided by equipment that is not electrically synchronized to 
+the Transmission System. 
+ 
+Non-Synchronized Reserve Event: 
+ 
+“Non-Synchronized Reserve Event” shall mean a request from the Office of the Interconnection to 
+generation resources able and assigned to provide Non-Synchronized Reserve in one or more 
+specified Reserve Zones or Reserve Sub-zones, within ten minutes to increase the energy output by 
+the amount of assigned Non-Synchronized Reserve capability. 
+ 
+Non-Variable Loads: 
+ 
+“Non-Variable Loads” shall have the meaning specified in Operating Agreement, Schedule 1, 
+section 1.5A.6, and the parallel provisions of Tariff, Attachment K-Appendix, 1.5A.6. 
+ 
+Normal Maximum Generation: 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions M - N 
+Effective Date: 3/31/2024 - Docket #: ER24-1743-000 - Page 8 
+ 
+“Normal Maximum Generation” shall mean the highest output level of a generating resource 
+under normal operating conditions. 
+ 
+Normal Minimum Generation: 
+ 
+“Normal Minimum Generation” shall mean the lowest output level of a generating resource 
+under normal operating conditions. 
+ 
+ 
+ 
+

@@ -1,0 +1,1078 @@
+[SCHEDULE 1 SECTION 1-MARKET OPERATIONS - Part 2 of 4]
+
+established in this Agreement, and as specified in the Schedules to this Agreement and the PJM 
+Manuals.  Failure to comply with the foregoing operational requirements shall subject a Market 
+Participant to such reasonable charges or other remedies or sanctions for non-compliance as may 
+be established by the PJM Board, including legal or regulatory proceedings as authorized by the 
+PJM Board to enforce the obligations of this Agreement. 
+ 
+(c) The Office of the Interconnection may establish such committees with a representative of 
+each Market Participant, and the Market Participants agree to provide appropriately qualified 
+personnel for such committees, as may be necessary for the Office of the Interconnection and 
+PJMSettlement to perform its obligations hereunder. 
+ 
+(d) All Market Participants shall provide to the Office of the Interconnection the scheduling 
+and other information specified in the Schedules to this Agreement, and such other information 
+as the Office of the Interconnection may reasonably require for the reliable and efficient 
+operation of the PJM Region and PJM Interchange Energy Market, and for compliance with 
+applicable regulatory requirements for posting market and related information.  Such information 
+shall be provided as much in advance as possible, but in no event later than the deadlines 
+established by the Schedules to this Agreement, or by the Office of the Interconnection in 
+conformance with such Schedules.  Such information shall include, but not be limited to, 
+maintenance and other anticipated outages of generation or transmission facilities, scheduling 
+and related information on bilateral transactions and self-scheduled resources, and 
+implementation of interruption of load, Price Responsive Demand, Economic Load Response 
+Participant resources, and other load reduction measures.  The Office of the Interconnection shall 
+abide by appropriate requirements for the non-disclosure and protection of any confidential or 
+proprietary information given to the Office of the Interconnection by a Market Participant.  Each 
+Market Participant shall maintain or cause to be maintained compatible information and 
+communications systems, as specified by the Office of the Interconnection, required to transmit 
+scheduling, dispatch, or other time-sensitive information to the Office of the Interconnection in a 
+timely manner.  Market Participants that request additional information or communications 
+system access or connections beyond those which are required by the Office of the 
+Interconnection for reliability in the operation of the LLC or the Office of the Interconnection, 
+including but not limited to PJMnet or Internet SCADA connections, shall be solely responsible 
+for the cost of such additional access and connections and for purchasing, leasing, installing and 
+maintaining any associated facilities and equipment, which shall remain the property of the 
+Market Participant. 
+ 
+(e) Subject to the requirements for Economic Load Response Participants in section 1.5A 
+above, each Market Participant shall install and operate, or shall otherwise arrange for, metering 
+and related equipment capable of recording and transmitting all voice and data communications 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 3 
+reasonably necessary for the Office of the Interconnection and PJMSettlement to perform the 
+services specified in this Agreement.  A Market Participant that elects to be separately billed for 
+its PJM Interchange shall, to the extent necessary, be individually metered in accordance with 
+Operating Agreement, section 14, or shall agree upon an allocation of PJM Interchange between 
+it and the Market Participant through whose meters the unmetered Market Participant’s PJM 
+Interchange is delivered.  The Office of the Interconnection shall be notified of the allocation by 
+the foregoing Market Participants. 
+ 
+(f) Each Market Participant shall operate, or shall cause to be operated, any generating 
+resources owned or controlled by such Market Participant that are within the PJM Region or 
+otherwise supplying energy to or through the PJM Region in a manner that is consistent with the 
+standards, requirements or directions of the Office of the Interconnection and that will permit the 
+Office of the Interconnection to perform its obligations under this Agreement; provided, 
+however, no Market Participant shall be required to take any action that is inconsistent with 
+Good Utility Practice or applicable law. 
+ 
+(g) Each Market Participant shall follow the directions of the Office of the Interconnection to 
+take actions to prevent, manage, alleviate or end an Emergency in a manner consistent with this 
+Agreement and the procedures of the PJM Region as specified in the PJM Manuals. 
+ 
+ (h) Each Market Participant shall obtain and maintain all permits, licenses or approvals 
+required for the Market Participant to participate in the PJM Interchange Energy Market in the 
+manner contemplated by this Agreement. 
+ 
+(i) Consistent with Tariff, section 36.1.1, to the extent its generating facility is dispatchable, 
+a Market Participant shall submit an Economic Minimum in the Real-time Energy Market that is 
+no greater than the higher of its physical operating minimum or its Capacity Interconnection 
+Rights, as that term is defined in the PJM Tariff, associated with such generating facility under 
+its Interconnection Service Agreement under Attachment O of the PJM Tariff, Generation 
+Interconnection Agreement under Part IX of the PJM Tariff, or Wholesale Market Participation 
+Agreement under Part IX of the  PJM Tariff, or functionally equivalent agreement. 
+ 
+1.7.5 Market Operations Center. 
+ 
+Each Market Participant shall maintain a Market Operations Center, or shall make appropriate 
+arrangements for the performance of such services on its behalf.  A Market Operations Center 
+shall meet the performance, equipment, communications, staffing and training standards and 
+requirements specified in this Agreement, and as may be further described in the PJM Manuals, 
+for the scheduling and completion of transactions in the PJM Interchange Energy Market and the 
+maintenance of the reliable operation of the PJM Region, and shall be sufficient to enable (i) a 
+Market Seller or an Economic Load Response Participant to perform all terms and conditions of 
+its offers to the PJM Interchange Energy Market, and (ii) a Market Buyer or an Economic Load 
+Response Participant to conform to the requirements for purchasing from the PJM Interchange 
+Energy Market. 
+ 
+1.7.6 Scheduling and Dispatching.  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 4 
+ 
+(a) The Office of the Interconnection shall schedule and dispatch in real-time generation 
+resources and/or Economic Load Response Participant resources economically on the basis of 
+least-cost, security-constrained dispatch and the prices and operating characteristics offered by 
+Market Sellers, continuing until sufficient generation resources and/or Economic Load Response 
+Participant resources are dispatched to serve the PJM Interchange Energy Market energy 
+purchase requirements under normal system conditions of the Market Buyers (taking into 
+account any reductions to such requirements in accordance with PRD Curves properly submitted 
+by PRD Providers), as well as the requirements of the PJM Region for ancillary services 
+provided by generation resources and/or Economic Load Response Participant resources, in 
+accordance with this Agreement.  Such scheduling and dispatch shall recognize transmission 
+constraints on coordinated flowgates external to the Transmission System in accordance with 
+Appendix A to the Joint Operating Agreement between the Midwest Independent Transmission 
+System Operator, Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC No. 38), the 
+Joint Operating Agreement Among and Between New York Independent System Operator Inc. 
+and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC No. 45), and on other such 
+flowgates that are coordinated in accordance with agreements between the LLC and other 
+entities.  Scheduling and dispatch shall be conducted in accordance with this Agreement. 
+ 
+(b) The Office of the Interconnection shall undertake to identify any conflict or 
+incompatibility between the scheduling or other deadlines or specifications applicable to the PJM 
+Interchange Energy Market, and any relevant procedures of another Control Area, or any tariff 
+(including the PJM Tariff).   Upon determining that any such conflict or incompatibility exists, 
+the Office of the Interconnection shall propose tariff or procedural changes, and undertake such 
+other efforts as may be appropriate, to resolve any such conflict or incompatibility. 
+ 
+(c) To protect its generation or distribution facilities, or local Transmission Facilities not 
+under the monitoring responsibility and dispatch control of the Office of the Interconnection, an 
+entity may request that the Office of the Interconnection schedule and dispatch generation or 
+reductions in demand to meet a limit on Transmission Facilities different from that which the 
+Office of the Interconnection has determined to be required for reliable operation of the 
+Transmission System.  To the extent consistent with its other obligations under this Agreement, 
+the Office of the Interconnection shall schedule and dispatch generation and reductions in 
+demand in accordance with such request.  An entity that makes a request pursuant to this section 
+1.7.6(c) shall be responsible for all generation and other costs resulting from its request that 
+would not have been incurred by operating the Transmission System and scheduling and 
+dispatching generation in the manner that the Office of the Interconnection otherwise has 
+determined to be required for reliable operation of the Transmission System.  
+ 
+1.7.7 Pricing. 
+ 
+The price paid for energy bought and sold in the PJM Interchange Energy Market and for 
+demand reductions will reflect the applicable interval Locational Marginal Price at each load and 
+generation bus, determined by the Office of the Interconnection in accordance with this 
+Agreement.  Transmission Congestion Charges and Transmission Loss Charges, which shall be 
+determined by differences in Congestion Prices and Loss Prices in the applicable interval, shall 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 5 
+be calculated by the Office of the Interconnection, and collected by PJMSettlement, and the 
+revenues from there shall be disbursed by PJMSettlement in accordance with this Schedule. 
+ 
+1.7.8 Generating Market Buyer Resources.  
+ 
+A Generating Market Buyer may elect to self-schedule its generation resources up to that 
+Generating Market Buyer’s Equivalent Load, in accordance with and subject to the procedures 
+specified in this Schedule, and the accounting and billing requirements specified in Operating 
+Agreement, Schedule 1, section 3.  PJMSettlement shall not be a contracting party with respect 
+to such self-scheduled or self-supplied transactions. 
+ 
+1.7.9 Delivery to an External Market Buyer. 
+ 
+A purchase of Spot Market Energy by an External Market Buyer shall be delivered to a bus or 
+buses at the electrical boundaries of the PJM Region specified by the Office of the 
+Interconnection, or to load in such area that is not served by Network Transmission Service, 
+using Point-to-Point Transmission Service paid for by the External Market Buyer.  Further 
+delivery of such energy shall be the responsibility of the External Market Buyer. 
+ 
+1.7.10 Other Transactions. 
+ 
+(a) Bilateral Transactions. 
+ 
+(i) In addition to transactions in the PJM Interchange Energy Market, Market 
+Participants may enter into bilateral contracts for the purchase or sale of 
+electric energy to or from each other or any other entity, subject to the 
+obligations of Market Participants to make Generation Capacity Resources 
+available for dispatch by the Office of the Interconnection.  Such bilateral 
+contracts shall be for the physical transfer of energy to or from a Market 
+Participant and shall be reported to and coordinated with the Office of the 
+Interconnection in accordance with this Schedule and pursuant to the 
+LLC’s rules relating to its InSchedule and ExSchedule tools.   
+ 
+(ii) For purposes of clarity, with respect to all bilateral contracts for the 
+physical transfer of energy to a Market Participant inside the PJM Region, 
+title to the energy that is the subject of the bilateral contract shall pass to 
+the buyer at the source specified for the bilateral contract, and the further 
+transmission of the energy or further sale of the energy into the PJM 
+Interchange Energy Market shall be transacted by the buyer under the 
+bilateral contract.  With respect to all bilateral contracts for the physical 
+transfer of energy to an entity outside the PJM Region, title to the energy 
+shall pass to the buyer at the border of the PJM Region and shall be 
+delivered to the border using transmission service.  In no event shall the 
+purchase and sale of energy between Market Participants under a bilateral 
+contract constitute a transaction in the PJM Interchange Energy Market or 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 6 
+be construed to define PJMSettlement as a contracting party to any 
+bilateral transactions between Market Participants. 
+ 
+(iii)  Market Participants that are parties to bilateral contracts for the purchase 
+and sale and physical transfer of energy reported to and coordinated with 
+the Office of the Interconnection under this Schedule shall use all 
+reasonable efforts, consistent with Good Utility Practice, to limit the 
+megawatt hours of such reported transactions to amounts reflecting the 
+expected load and other physical delivery obligations of the buyer under 
+the bilateral contract. 
+ 
+(iv)  All payments and related charges for the energy associated with a bilateral 
+contract shall be arranged between the parties to the bilateral contract and 
+shall not be billed or settled by the Office of the Interconnection or 
+PJMSettlement.   The LLC, PJMSettlement, and the Members will not 
+assume financial responsibility for the failure of a party to perform 
+obligations owed to the other party under a bilateral contract reported and 
+coordinated with the Office of the Interconnection under this Schedule. 
+ 
+(v) A buyer under a bilateral contract shall guarantee and indemnify the LLC, 
+PJMSettlement, and the Members for the costs of any Spot Market Backup 
+used to meet the bilateral contract seller’s obligation to deliver energy 
+under the bilateral contract and for which payment is not made to 
+PJMSettlement by the seller under the bilateral contract, as determined by 
+the Office of the Interconnection. Upon any default in obligations to the 
+LLC or PJMSettlement by a Market Participant, the Office of the 
+Interconnection shall (i) not accept any new InSchedule or ExSchedule 
+reporting by the Market Participant and (ii) terminate all of the Market 
+Participant’s InSchedules and ExSchedules associated with its bilateral 
+contracts previously reported to the Office of the Interconnection for all 
+days where delivery has not yet occurred.  All claims regarding a buyer’s 
+default to a seller under a bilateral contract shall be resolved solely 
+between the buyer and the seller.  In such circumstances, the seller may 
+instruct the Office of the Interconnection to terminate all of the 
+InSchedules and ExSchedules associated with bilateral contracts between 
+buyer and seller previously reported to the Office of the Interconnection.  
+PJMSettlement shall assign its claims against a seller with respect to a 
+seller’s nonpayment for Spot Market Backup to a buyer to the extent that 
+the buyer has made an indemnification payment to PJMSettlement with 
+respect to the seller’s nonpayment.   
+ 
+(vi) Bilateral contracts that do not contemplate the physical transfer of energy 
+to or from a Market Participant are not subject to this Schedule, shall not 
+be reported to and coordinated with the Office of the Interconnection, and 
+shall not in any way constitute a transaction in the PJM Interchange 
+Energy Market. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 7 
+ 
+(b) Market Participants shall have Spot Market Backup with respect to all bilateral 
+transactions that contemplate the physical transfer of energy to or from a Market Participant, that 
+are not Dynamic Transfers pursuant to Operating Agreement, Schedule 1, section 1.12 and that 
+are curtailed or interrupted for any reason (except for curtailments or interruptions through Load 
+Management for load located within the PJM Region).   
+ 
+(c) To the extent the Office of the Interconnection dispatches a Generating Market Buyer’s 
+generation resources, such Generating Market Buyer may elect to net the output of such 
+resources against its hourly Equivalent Load.  Such a Generating Market Buyer shall be deemed 
+a buyer from the PJM Interchange Energy Market to the extent of its PJM Interchange Imports, 
+and shall be deemed a seller to the PJM Interchange Energy Market to the extent of its PJM 
+Interchange Exports. 
+ 
+(d) A Market Seller may self-supply Station Power for its generation facility in accordance 
+with the following provisions: 
+ 
+(i) A Market Seller may self-supply Station Power for its generation facility 
+during any month (1) when the net output of such facility is positive, or 
+(2) when the net output of such facility is negative and the Market Seller 
+during the same month has available at other of its generation facilities 
+positive net output in an amount at least sufficient to offset fully such 
+negative net output.  For purposes of this subsection (d), “net output” of a 
+generation facility during any month means the facility’s gross energy 
+output, less the Station Power requirements of such facility, during that 
+month.  The determination of a generation facility’s or a Market Seller’s 
+monthly net output under this subsection (d) will apply only to determine 
+whether the Market Seller self-supplied Station Power during the month 
+and will not affect the price of energy sold or consumed by the Market 
+Seller at any bus during any Real-time Settlement Interval during the 
+month.  For each Real-time Settlement Interval when a Market Seller has 
+positive net output and delivers energy into the Transmission System, it 
+will be paid the LMP at its bus for that Real-time Settlement Interval for 
+all of the energy delivered.  Conversely, for each Real-time Settlement 
+Interval when a Market Seller has negative net output and has received 
+Station Power from the Transmission System, it will pay the LMP at its 
+bus for that Real-time Settlement Interval for all of the energy consumed. 
+ 
+(ii) Transmission Provider will determine the extent to which each affected 
+Market Seller during the month self-supplied its Station Power 
+requirements or obtained Station Power from third-party providers 
+(including affiliates) and will incorporate that determination in its 
+accounting and billing for the month.  In the event that a Market Seller 
+self-supplies Station Power during any month in the manner described in 
+subsection (1) of subsection (d)(i) above, Market Seller will not use, and 
+will not incur any charges for, transmission service.  In the event, and to 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 8 
+the extent, that a Market Seller self-supplies Station Power during any 
+month in the manner described in subsection (2) of subsection (d)(i) above 
+(hereafter referred to as “remote self-supply of Station Power”), Market 
+Seller shall use and pay for transmission service for the transmission of 
+energy in an amount equal to the facility’s negative net output from 
+Market Seller’s generation facility(ies) having positive net output.  Unless 
+the Market Seller makes other arrangements with Transmission Provider 
+in advance, such transmission service shall be provided under Tariff, Part 
+II and shall be charged the hourly rate under Tariff, Schedule 8 for Non-
+Firm Point-to-Point Transmission Service with an election to pay 
+congestion charges, provided, however, that no reservation shall be 
+necessary for such transmission service and the terms and charges under 
+Tariff, Schedule 1; Tariff, Schedule 1A;Tariff, Schedule 2; Tariff, 
+Schedule 3; Tariff, Schedule 4; Tariff, Schedule 5; Tariff, Schedule 6; 
+Tariff, Schedule 9; and Tariff, Schedule 10 shall not apply to such service.  
+The amount of energy that a Market Seller transmits in conjunction with 
+remote self-supply of Station Power will not be affected by any other 
+sales, purchases, or transmission of capacity or energy by or for such 
+Market Seller under any other provisions of the PJM Tariff. 
+ 
+(iii) A Market Seller may self-supply Station Power from its generation 
+facilities located outside of the PJM Region during any month only if such 
+generation facilities in fact run during such month and Market Seller 
+separately has reserved transmission service and scheduled delivery of the 
+energy from such resource in advance into the PJM Region.  
+ 
+(iv)  The Office of the Interconnection is not responsible for determining 
+Relevant Electric Retail Regulatory Authority-jurisdictional retail rates, 
+and the monthly netting provision in section 1.7.10(d)(i) above does not 
+determine whether a retail sale of station power has occurred in a month.  
+Furthermore, notwithstanding any provision of subsection (d)(i) or (d)(ii) 
+to the contrary, any net output determined for a Market Seller for Station 
+Power purposes shall, as more fully set forth in the PJM manuals, take 
+account of MWh values submitted to the Office of the Interconnection via 
+its metering reporting systems by the Market Seller or the applicable 
+Electric Distribution Company designated to make such submission, that 
+reflect the Market Seller’s purchase of energy at retail to meet its Station 
+Power needs. 
+ 
+1.7.11 Emergencies. 
+ 
+(a)  The Office of the Interconnection, with the assistance of the Members’ dispatchers as it 
+may request, shall be responsible for monitoring the operation of the PJM Region, for declaring 
+the existence of an Emergency, and for directing the operations of Market Participants as 
+necessary to manage, alleviate or end an Emergency.  The standards, policies and procedures of 
+the Office of the Interconnection for declaring the existence of an Emergency, including but not 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 9 
+limited to a Minimum Generation Emergency, and for managing, alleviating or ending an 
+Emergency, shall apply to all Members on a non-discriminatory basis.  Actions by the Office of 
+the Interconnection and the Market Participants shall be carried out in accordance with this 
+Agreement, the NERC Operating Policies, Applicable Regional Entity reliability principles and 
+standards, Good Utility Practice, and the PJM Manuals.  A declaration that an Emergency exists 
+or is likely to exist by the Office of the Interconnection shall be binding on all Market 
+Participants until the Office of the Interconnection announces that the actual or threatened 
+Emergency no longer exists.  Consistent with existing contracts, all Market Participants shall 
+comply with all directions from the Office of the Interconnection for the purpose of managing, 
+alleviating or ending an Emergency.  The Market Participants shall authorize the Office of the 
+Interconnection and PJMSettlement to purchase or sell energy on their behalf to meet an 
+Emergency, and otherwise to implement agreements with other Control Areas interconnected 
+with the PJM Region for the mutual provision of service to meet an Emergency, in accordance 
+with this Agreement.   
+ 
+(b)  To the extent load must be shed to alleviate an Emergency in a Control Zone, the Office 
+of the Interconnection shall, to the maximum extent practicable, direct the shedding of load 
+within such Control Zone.  The Office of the Interconnection may shed load in one Control Zone 
+to alleviate an Emergency in another Control Zone under its control only as necessary after 
+having first shed load to the maximum extent practicable in the Control Zone experiencing the 
+Emergency and only to the extent that PJM supports other control areas (not under its control) in 
+those situations where load shedding would be necessary, such as to prevent isolation of facilities 
+within the Eastern Interconnection, to prevent voltage collapse, or to restore system frequency 
+following a system collapse; provided, however, that the Office of the Interconnection may not 
+order a manual load dump in a Control Zone solely to address capacity deficiencies in another 
+Control Zone.  This subsection shall be implemented consistent with the North American 
+Electric Reliability Council and applicable reliability council standards. 
+ 
+1.7.12 Fees and Charges. 
+ 
+Each Market Participant, except for Special Members, shall pay all fees and charges of the 
+Office of the Interconnection for operation of the PJM Interchange Energy Market as determined 
+by and allocated to the Market Participant by the Office of the Interconnection, and for additional 
+services they request from the LLC, PJMSettlement or the Office of the Interconnection that are 
+not required for the operation of the LLC or the Office of the Interconnection, in accordance with 
+Schedule 3. 
+ 
+1.7.13 Relationship to the PJM Region.   
+ 
+The PJM Interchange Energy Market operates within and subject to the requirements for the 
+operation of the PJM Region.  
+ 
+1.7.14 PJM Manuals. 
+ 
+The Office of the Interconnection shall be responsible for maintaining, updating, and 
+promulgating the PJM Manuals as they relate to the operation of the PJM Interchange Energy 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 10 
+Market.  The PJM Manuals, as they relate to the operation of the PJM Interchange Energy 
+Market, shall conform and comply with this Agreement, NERC operating policies, and 
+Applicable Regional Entity reliability principles, guidelines and standards, and shall be designed 
+to facilitate administration of an efficient energy market within industry reliability standards and 
+the physical capabilities of the PJM Region. 
+ 
+1.7.15 Corrective Action. 
+ 
+Consistent with Good Utility Practice, the Office of the Interconnection shall be authorized to 
+direct or coordinate corrective action, whether or not specified in the PJM Manuals, as necessary 
+to alleviate unusual conditions that threaten the integrity or reliability of the PJM Region, or the 
+regional power system. 
+ 
+1.7.16 Recording. 
+ 
+Subject to the requirements of applicable State or federal law, all voice communications with the 
+Office of the Interconnection Control Center may be recorded by the Office of the 
+Interconnection and any Market Participant communicating with the Office of the 
+Interconnection Control Center, and each Market Participant hereby consents to such recording. 
+ 
+1.7.17 [Reserved.] 
+ 
+1.7.18 Regulation. 
+ 
+(a) Regulation to meet the Regulation objective of each Regulation Zone shall be supplied 
+from generation resources and/or Economic Load Response Participant resources located within 
+the metered electrical boundaries of such Regulation Zone. Generating Market Buyers, and 
+Market Sellers offering Regulation, shall comply with applicable standards and requirements for 
+Regulation capability and dispatch specified in the PJM Manuals.  
+ 
+(b) The Office of the Interconnection shall obtain and maintain for each Regulation Zone an 
+amount of Regulation equal to the Regulation objective for such Regulation Zone as specified in 
+the PJM Manuals.  
+ 
+(c) The Regulation range of a generation unit or Economic Load Response Participant 
+resource shall be at least twice the amount of Regulation assigned as described in the PJM 
+Manuals. 
+ 
+(d) A resource capable of automatic energy dispatch that is also providing Regulation shall 
+have its energy dispatch range reduced by at least twice the amount of the Regulation provided 
+with consideration of the Regulation limits of that resource, as specified in the PJM Manuals. 
+ 
+(e) Qualified Regulation must satisfy the measurement and verification tests described in the 
+PJM Manuals. 
+ 
+1.7.19 Ramping. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 11 
+ 
+A generator dispatched by the Office of the Interconnection pursuant to a control signal 
+appropriate to increase or decrease the generator’s megawatt output level shall be able to change 
+output at the ramping rate specified in the Offer Data submitted to the Office of the 
+Interconnection for that generator.  Market Sellers must specify a ramping rate in the Offer Data 
+that is an accurate representation of the resource’s capabilities given the confines of the PJM 
+software. 
+ 
+1.7.19A Synchronized Reserve. 
+ 
+(a) Synchronized Reserve can be supplied from generation resources and/or Economic Load 
+Response Participant resources located within the metered boundaries of the PJM Region.  A 
+resource is not eligible to provide Synchronized Reserve if its entire output has been designated 
+as emergency energy or if the resource is a nuclear, wind, or solar unit, or a Hybrid Resource 
+comprised exclusively of wind and solar components, unless the Market Seller of such a resource 
+has obtained written approval from the Office of the Interconnection to provide Synchronized 
+Reserves.  To obtain such approval, the Market Seller must submit to the Office of the 
+Interconnection and the Market Monitoring Unit a written request for exemption and provide 
+documentation to support the resource’s ability to follow dispatch at the direction of the Office 
+of the Interconnection, such as historical operating data showing voluntary response to reserve 
+events and/or technical information about the physical operation of the resource.  The Office of 
+the Interconnection and the Market Monitoring Unit shall review, in an open and transparent 
+manner as between the Market Seller, the Market Monitoring Unit, and the Office of the 
+Interconnection, the information and documentation in support of the request for approval to 
+provide reserves.  No later than 30 Business Days from the date of data submittal supporting the 
+request, the Office of the Interconnection shall determine, with the advice and input of the 
+Marketing Monitoring Unit, whether the resource will be permitted to provide reserves and 
+provide written notification to the Market Seller of such determination.  If the request is denied, 
+the Office of the Interconnection shall include in the notice a written explanation for the denial.  
+Generating Market Buyers, and Market Sellers offering Synchronized Reserve shall comply with 
+applicable standards and requirements for Synchronized Reserve capability and dispatch 
+specified in the PJM Manuals, the Operating Agreement and the PJM Tariff. 
+ 
+(b) The Office of the Interconnection shall obtain and maintain for each Reserve Zone and 
+Reserve Sub-zone an amount of Primary and Synchronized Reserve equal to the respective 
+Primary Reserve Requirement and Synchronized Reserve Requirement objectives for such 
+Reserve Zone and Reserve Sub-zone, as specified in the PJM Manuals.  The Office of the 
+Interconnection shall create additional Reserve Zones or Reserve Sub-zones to maintain the 
+required amount of reserves in a specific geographic area of the PJM Region as needed for 
+system reliability.  Such needs may arise due to planned and unplanned system events that limit 
+the Office of the Interconnection’s ability to deliver reserves to specific geographic area of the 
+PJM Region where reserves are required.   
+ 
+(c) The Synchronized Reserve capability of a generation resource and Economic Load 
+Response Participant resource shall be the increase in energy output or load reduction achievable 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 12 
+by the generation resource and Economic Load Response Participant resource within a 
+continuous 10-minute period. 
+ 
+1.7.19A.01 Non-Synchronized Reserve. 
+ 
+(a) Non-Synchronized Reserve shall be supplied from generation resources located within 
+the metered boundaries of the PJM Region.  A resource is not eligible to provide Non-
+Synchronized Reserve if (i) its entire output has been designated as emergency energy, (ii) it is 
+not available to provide energy, or (iii) it is a nuclear, wind, or solar unit, an ESR Model 
+Participant, or a Hybrid Resource, unless the Market Seller of such a resource has obtained 
+written approval from the Office of the Interconnection to provide Non-Synchronized Reserves.  
+To obtain such approval, the Market Seller must submit to the Office of the Interconnection and 
+the Market Monitoring Unit a written request for exemption and provide documentation to 
+support the resource’s ability to follow dispatch at the direction of the Office of the 
+Interconnection, such as historical operating data showing voluntary response to reserve events 
+and/or technical information about the physical operation of the resource.  The Office of the 
+Interconnection and the Market Monitoring Unit shall review, in an open and transparent manner 
+as between the Market Seller, the Market Monitoring Unit, and the Office of the Interconnection, 
+the information and documentation in support of the request for approval to provide reserves.  
+No later than 30 Business Days from the date of data submittal supporting the request, the Office 
+of the Interconnection shall determine, with the advice and input of the Marketing Monitoring 
+Unit, whether the resource will be permitted to provide reserves and provide written notification 
+to the Market Seller of such determination.  If the request is denied, the Office of the 
+Interconnection shall include in the notice a written explanation for the denial.  All other non-
+emergency generation capacity resources available to provide energy shall also be available to 
+provide Non-Synchronized Reserve, as applicable to the capacity resource’s capability to provide 
+these services.  Generating Market Buyers and Market Sellers offering Non-Synchronized 
+Reserve shall comply with applicable standards and requirements for Non-Synchronized Reserve 
+capability and dispatch specified in the PJM Manuals, the Operating Agreement and the PJM 
+Tariff. 
+ 
+(b) The Office of the Interconnection shall obtain and maintain for each Reserve Zone and 
+Reserve Sub-zone an amount of Non-Synchronized Reserve such that the sum of the 
+Synchronized Reserve and Non-Synchronized Reserve meets the Primary Reserve Requirement 
+for such Reserve Zone and Reserve Sub-zone, as specified in the PJM Manuals.  The Office of 
+the Interconnection shall create additional Reserve Zones or Reserve Sub-zones to maintain the 
+required amount of reserves in a specific geographic area of the PJM Region as needed for 
+system reliability.  Such needs may arise due to planned and unplanned system events that limit 
+the Office of the Interconnection’s ability to deliver reserves to specific geographic area of the 
+PJM Region where reserves are required.   
+ 
+(c) The Non-Synchronized Reserve capability of a generation resource shall be the increase 
+in energy output achievable by the generation resource within a continuous 10-minute period 
+provided that the resource is not synchronized to the system at the initiation of the response. 
+ 
+1.7.19A.02 Secondary Reserve.  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 13 
+ 
+(a)  Secondary Reserve can be supplied from synchronized and non-synchronized generation 
+resources and/or Economic Load Response Participant resources located within the metered 
+boundaries of the PJM Region, as specified in the PJM Manuals. A resource is not eligible to 
+provide Secondary Reserve if (i) its entire output has been designated as emergency energy, (ii) 
+it is not available to provide energy, or (iii) it is a nuclear, wind, or solar unit, or a Hybrid 
+Resource comprised exclusively of wind and solar components, unless the Market Seller of such 
+a resource has obtained written approval from the Office of the Interconnection to provide 
+Secondary Reserves.  To obtain such approval, the Market Seller must submit to the Office of the 
+Interconnection and the Market Monitoring Unit a written request for exemption and provide 
+documentation to support the resource’s ability to follow dispatch at the direction of the Office 
+of the Interconnection, such as historical operating data showing voluntary response to reserve 
+events and/or technical information about the physical operation of the resource.  The Office of 
+the Interconnection and the Market Monitoring Unit shall review, in an open and transparent 
+manner as between the Market Seller, the Market Monitoring Unit, and the Office of the 
+Interconnection, the information and documentation in support of the request for approval to 
+provide reserves.  No later than 30 Business Days from the date of data submittal supporting the 
+request, the Office of the Interconnection shall determine, with the advice and input of the 
+Marketing Monitoring Unit, whether the resource will be permitted to provide reserves and 
+provide written notification to the Market Seller of such determination.  If the request is denied, 
+the Office of the Interconnection shall include in the notice a written explanation for the denial.  
+Generating Market Buyers and Market Sellers offering Secondary Reserve shall comply with 
+applicable standards and requirements for Secondary Reserve capability and dispatch specified 
+in the PJM Manuals, the Operating Agreement and the PJM Tariff.  
+ 
+(b)  The Office of the Interconnection shall obtain and maintain for each Reserve Zone and 
+Reserve Sub-zone, as applicable, an amount of Secondary Reserve such that the sum of the 
+Synchronized Reserve, Non-Synchronized Reserve and Secondary Reserve meets the respective 
+30-minute Reserve Requirement for each such Reserve Zone and Reserve Sub-zone, as 
+applicable, and as specified in the PJM Manuals. In accordance with the PJM Manuals, the 
+Office of the Interconnection shall create additional Reserve Zones or Reserve Sub-zones to 
+maintain the 30-minute Reserve Requirement in a specific geographic area of the PJM Region as 
+needed for system reliability. Such needs may arise due to planned and unplanned system events 
+that limit the Office of the Interconnection’s ability to deliver reserves to specific geographic 
+area of the PJM Region where reserves are required.  
+ 
+(c)  The Secondary Reserve capability of a generation resource and Economic Load Response 
+Participant resource shall be the increase in energy output or load reduction achievable by the 
+generation resource and Economic Load Response Participant resource within a continuous 30-
+minute period, minus the increase in energy output or load reduction achievable within a 
+continuous 10-minute period. 
+ 
+1.7.19B Bilateral Transactions Regarding Regulation, Synchronized Reserve, Non-
+Synchronized Reserve, and Secondary Reserve. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 14 
+(a) In addition to transactions in the Regulation market, Synchronized Reserve market, Non- 
+Synchronized Reserve market and Secondary Reserve market, Market Participants may enter 
+into bilateral contracts for the purchase or sale of Regulation, Synchronized Reserve, Non-
+Synchronized Reserve or Secondary Reserve to or from each other or any other entity.  Such 
+bilateral contracts shall be for the physical transfer of Regulation, Synchronized Reserve, Non-
+Synchronized Reserve, or Secondary Reserve to or from a Market Participant and shall be 
+reported to and coordinated with the Office of the Interconnection in accordance with this 
+Schedule and pursuant to the LLC’s rules relating to its Markets Gateway tools. 
+ 
+(b) For purposes of clarity, with respect to all bilateral contracts for the physical transfer of 
+Regulation, Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve to a 
+Market Participant in the PJM Region, title to the product that is the subject of the bilateral 
+contract shall pass to the buyer at the source specified for the bilateral contract, and any further 
+transactions associated with such products or further sale of such Regulation, Synchronized 
+Reserve, Non-Synchronized Reserve, or Secondary Reserve in the markets for Regulation, 
+Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve, respectively, shall be 
+transacted by the buyer under the bilateral contract.  In no event shall the purchase and sale of 
+Regulation, Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve between 
+Market Participants under a bilateral contract constitute a transaction in PJM’s markets for 
+Regulation, Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve, or 
+otherwise be construed to define PJMSettlement as a contracting party to any bilateral 
+transactions between Market Participants. 
+ 
+(c) Market Participants that are parties to bilateral contracts for the purchase and sale and 
+physical transfer of Regulation, Synchronized Reserve, Non-Synchronized Reserve, or 
+Secondary Reserve reported to and coordinated with the Office of the Interconnection under this 
+Schedule shall use all reasonable efforts, consistent with Good Utility Practice, to limit the 
+amounts of such reported transactions to amounts reflecting the expected requirements for 
+Regulation, Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve of the 
+buyer pursuant to such bilateral contracts.   
+ 
+(d) All payments and related charges for the Regulation, Synchronized Reserve, Non-
+Synchronized Reserve, or Secondary Reserve associated with a bilateral contract shall be 
+arranged between the parties to the bilateral contract and shall not be billed or settled by the 
+Office of the Interconnection.  The LLC, PJMSettlement, and the Members will not assume 
+financial responsibility for the failure of a party to perform obligations owed to the other party 
+under a bilateral contract reported and coordinated with the Office of the Interconnection under 
+this Schedule. 
+ 
+(e) A buyer under a bilateral contract shall guarantee and indemnify the LLC, 
+PJMSettlement, and the Members for the costs of any purchases by the seller under the bilateral 
+contract in the markets for Regulation, Synchronized Reserve, Non-Synchronized Reserve, or 
+Secondary Reserve used to meet the bilateral contract seller’s obligation to deliver Regulation, 
+Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve under the bilateral 
+contract and for which payment is not made to PJMSettlement by the seller under the bilateral 
+contract, as determined by the Office of the Interconnection.  Upon any default in obligations to 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 15 
+the LLC or PJMSettlement by a Market Participant, the Office of the Interconnection shall (i) not 
+accept any new Markets Gateway reporting by the Market Participant and (ii) terminate all of the 
+Market Participant’s reporting of Markets Gateway schedules associated with its bilateral 
+contracts previously reported to the Office of the Interconnection for all days where delivery has 
+not yet occurred.  All claims regarding a buyer’s default to a seller under a bilateral contract shall 
+be resolved solely between the buyer and the seller.  In such circumstances, the seller may 
+instruct the Office of the Interconnection to terminate all of the reported Markets Gateway 
+schedules associated with bilateral contracts between buyer and seller previously reported to the 
+Office of the Interconnection. 
+ 
+(f) Market Participants shall purchase Regulation, Synchronized Reserve, Non-Synchronized 
+Reserve, or Secondary Reserve from PJM’s markets for Regulation, Synchronized Reserve, Non-
+Synchronized Reserve, or Secondary Reserve, in quantities sufficient to complete the delivery or 
+receipt obligations of a bilateral contract that has been curtailed or interrupted for any reason, 
+with respect to all bilateral transactions that contemplate the physical transfer of Regulation, 
+Synchronized Reserve, Non-Synchronized Reserve, or Secondary Reserve to or from a Market 
+Participant.  
+ 
+1.7.20 Communication and Operating Requirements. 
+ 
+(a) Market Participants.  Each Market Participant shall have, or shall arrange to have, its 
+transactions in the PJM Interchange Energy Market subject to control by a Market Operations 
+Center, with staffing and communications systems capable of real-time communication with the 
+Office of the Interconnection during normal and Emergency conditions and of control of the 
+Market Participant’s relevant load or facilities sufficient to meet the requirements of the Market 
+Participant’s transactions with the PJM Interchange Energy Market, including but not limited to 
+the following requirements as applicable, and as may be further described in the PJM Manuals. 
+ 
+(b) Market Sellers selling from generation resources and/or Economic Load Response 
+Participant resources within the PJM Region shall:  report to the Office of the Interconnection 
+sources of energy and Economic Load Response Participant resources available for operation; 
+supply to the Office of the Interconnection all applicable Offer Data; report to the Office of the 
+Interconnection generation resources and Economic Load Response Participant resources that are 
+self-scheduled; with respect to generation resources, report to the Office of the Interconnection 
+bilateral sales transactions to buyers not within the PJM Region; confirm to the Office of the 
+Interconnection bilateral sales to Market Buyers within the PJM Region; respond to the Office of 
+the Interconnection’s directives to start, shutdown or change output levels of generation units, or 
+change scheduled voltages or reactive output levels of generation units, or reduce load from 
+Economic Load Response Participant resources; continuously maintain all Offer Data concurrent 
+with on-line operating information; and ensure that, where so equipped, generating equipment 
+and Economic Load Response Participant resources are operated with control equipment 
+functioning as specified in the PJM Manuals.  
+ 
+(c) Market Sellers selling from generation resources outside the PJM Region shall:  provide 
+to the Office of the Interconnection all applicable Offer Data, including offers specifying 
+amounts of energy available, hours of availability and prices of energy and other services; 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 16 
+respond to Office of the Interconnection directives to schedule delivery or change delivery 
+schedules; and communicate delivery schedules to the Market Seller’s Control Area. 
+ 
+(d) Market Participants that are Load Serving Entities or purchasing on behalf of Load 
+Serving Entities shall:  respond to Office of the Interconnection directives for load management 
+steps; report to the Office of the Interconnection Generation Capacity Resources to satisfy 
+capacity obligations that are available for pool operation; report to the Office of the 
+Interconnection all bilateral purchase transactions; respond to other Office of the Interconnection 
+directives such as those required during Emergency operation. 
+ 
+(e) Market Participants that are not Load Serving Entities or purchasing on behalf of Load 
+Serving Entities shall:  provide to the Office of the Interconnection requests to purchase specified 
+amounts of energy for each hour of the Operating Day during which it intends to purchase from 
+the PJM Interchange Energy Market, along with Dispatch Rate levels above which it does not 
+desire to purchase; respond to other Office of the Interconnection directives such as those 
+required during Emergency operation. 
+ 
+(f) Economic Load Response Participants are responsible for maintaining demand reduction 
+information, including the amount and price at which demand may be reduced.  The Economic 
+Load Response Participant shall provide this information to the Office of the Interconnection by 
+posting it on the Load Response Program Registration link of the PJM website as required by the 
+PJM Manuals.  The Economic Load Response Participant shall notify the Office of the 
+Interconnection of a demand reduction concurrent with, or prior to, the beginning of such 
+demand reduction in accordance with the PJM Manuals.  In the event that an Economic Load 
+Response Participant chooses to measure load reductions using a Customer Baseline Load, the 
+Economic Load Response Participant shall inform the Office of the Interconnection of a change 
+in its operations or the operations of the end-use customer that would affect a relevant Customer 
+Baseline Load as required by the PJM Manuals. 
+ 
+(g) PRD Providers shall be responsible for automation and supervisory control equipment 
+that satisfy the criteria set forth in the RAA to ensure automated reductions to their Price 
+Responsive Demand in response to price in accordance with their PRD Curves submitted to the 
+Office of the Interconnection. 
+ 
+(h) Market Participants engaging in Coordinated External Transactions shall provide to the 
+Office of the Interconnection the information required to be specified in a CTS Interface Bid, in 
+accordance with the procedures of Tariff, Attachment K-Appendix, section 1.13 and the parallel 
+provisions of Operating Agreement, Schedule 1, section 1.13. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.8 Selection, Scheduling and Dispatch 
+Effective Date: 6/1/2017 - Docket #: ER17-1372-000 - Page 1 
+1.8 Selection, Scheduling and Dispatch Procedure Adjustment Process. 
+ 
+1.8.1 PJM Dispute Resolution Agreement. 
+ 
+Subject to the condition specified below, any Member adversely affected by a decision of the 
+Office of the Interconnection with respect to the operation of the PJM Interchange Energy 
+Market, including the qualification of an entity to participate in that market as a buyer or seller, 
+may seek such relief as may be appropriate under the PJM Dispute Resolution Procedures on the 
+grounds that such decision does not have an adequate basis in fact or does not conform to the 
+requirements of this Agreement. 
+ 
+1.8.2 Market or Control Area Hourly Operational Disputes. 
+ 
+(a) Market Participants shall comply with all determinations of the Office of the 
+Interconnection on the selection, scheduling or dispatch of resources in the PJM Interchange 
+Energy Market, or to meet the operational requirements of the PJM Region.  Complaints arising 
+from or relating to such determinations shall be brought to the attention of the Office of the 
+Interconnection not later than the end of the fifth Business Day after the end of the Operating 
+Day to which the selection or scheduling relates, or in which the scheduling or dispatch took 
+place, and shall include, if practicable, a proposed resolution of the complaint.  Upon receiving 
+notification of the dispute, the Office of the Interconnection and the Market Participant raising 
+the dispute shall exert their best efforts to obtain and retain all data and other information relating 
+to the matter in dispute, and to notify other Market Participants that are likely to be affected by 
+the proposed resolution.  Subject to confidentiality or other non-disclosure requirements, 
+representatives of the Office of the Interconnection, the Market Participant raising the dispute, 
+and other interested Market Participants, shall meet within three Business Days of the foregoing 
+notification, or at such other or further times as the Office of the Interconnection and the Market 
+Participants may agree, to review the relevant facts, and to seek agreement on a resolution of the 
+dispute. 
+ 
+(b) If the Office of the Interconnection determines that the matter in dispute discloses a 
+defect in operating policies, practices or procedures subject to the discretion of the Office of the 
+Interconnection, the Office of the Interconnection shall implement such changes as it deems 
+appropriate and shall so notify the Members Committee.  Alternatively, the Office of the 
+Interconnection may notify the Members Committee of a proposed change and solicit the 
+comments or other input of the Members. 
+ 
+(c) If  either  the  Office of  the Interconnection, the Market Participant raising the dispute, or 
+another affected Market Participant believes that the matter in dispute has not been adequately 
+resolved, or discloses a need for changes in standards or policies established in or pursuant to the 
+Operating Agreement, any of the foregoing parties may make a written request for review of the 
+matter by the Members Committee, and shall include with the request the forwarding party’s 
+recommendation and such data or information (subject to confidentiality or other non-disclosure 
+requirements) as would enable the Members Committee to assess the matter and the 
+recommendation.  The Members Committee shall take such action on the recommendation as it 
+shall deem appropriate. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.8 Selection, Scheduling and Dispatch 
+Effective Date: 6/1/2017 - Docket #: ER17-1372-000 - Page 2 
+ 
+(d) Subject to the right of a Market Participant to obtain correction of accounting or billing 
+errors, the LLC or a Market Participant shall not be entitled to actual, compensatory, 
+consequential or punitive damages, opportunity costs, or other form of reimbursement from the 
+LLC or any other Market Participant for any loss, liability or claim, including any claim for lost 
+profits, incurred as a result of a mistake, error or other fault by the Office of the Interconnection 
+in the selection, scheduling or dispatch of resources. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 1 
+1.9 Prescheduling.   
+ 
+The following procedures and principles shall govern the prescheduling activities necessary to 
+plan for the reliable operation of the PJM Region and for the efficient operation of the PJM 
+Interchange Energy Market. 
+ 
+1.9.1 Outage Scheduling.  
+ 
+The Office of the Interconnection shall be responsible for coordinating and approving requests 
+for outages of generation and transmission facilities as necessary for the reliable operation of the 
+PJM Region, in accordance with the PJM Manuals.  The Office of the Interconnection shall 
+maintain records of outages and outage requests of these facilities. 
+ 
+1.9.2  Planned Outages. 
+ 
+(a) A Generator Planned Outage shall be included in Generator Planned Outage schedules 
+established prior to the scheduled start date for the outage, in accordance with standards and 
+procedures specified in the PJM Manuals. 
+ 
+(b) The Office of the Interconnection shall conduct Generator Planned Outage scheduling for 
+Generation Capacity Resources in accordance with the Reliability Assurance Agreement and the 
+PJM Manuals and in consultation with the Market Sellers owning or controlling the output of 
+such resources.  A Market Seller shall not be expected to submit offers for the sale of energy or 
+other services, or to satisfy delivery obligations, from all or part of a generation resource 
+undergoing an approved Generator Planned Outage.  If the Office of the Interconnection 
+determines that approval of a Generator Planned Outage would significantly affect the reliable 
+operation of the PJM Region, the Office of the Interconnection may withhold approval or 
+withdraw a prior approval.  Approval of a Generator Planned Outage of a Generation Capacity 
+Resource shall be withheld or withdrawn only as necessary to ensure the adequacy of reserves or 
+the reliability of the PJM Region in connection with anticipated implementation or avoidance of 
+Emergency procedures.  The Market Seller shall provide the Office of the Interconnection with 
+an estimate of the amount of time it needs to return to service any Generation Capacity Resource 
+on Generator Planned Outage that is already underway.  If the Office of the Interconnection 
+withholds or withdraws its approval of a Generator Planned Outage, it shall coordinate with the 
+Market Seller owning or controlling the resource to reschedule the Generator Planned Outage at 
+the earliest practical time.  The Office of the Interconnection shall if possible propose alternative 
+schedules with the intent of minimizing the economic impact on the Market Seller of a Generator 
+Planned Outage.  
+ 
+(c) The Office of the Interconnection shall conduct Transmission Planned Outage scheduling 
+in accordance with procedures specified in the Consolidated Transmission Owners Agreement 
+and the PJM Manuals, and in accordance with the following procedures:  
+ 
+(i) Transmission Owners shall use reasonable efforts to submit Transmission Planned 
+Outage schedules one year in advance but by no later than the first of the month 
+six months in advance of the requested start date for all outages that are expected 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 2 
+to exceed five working days duration, with regular (at least monthly) updates as 
+new information becomes available. 
+ 
+(ii) If notice of a Transmission Planned Outage is not provided in accordance with the 
+requirements in subsection (i) above, and if such outage is determined by the 
+Office of the Interconnection to have the potential to cause significant system 
+impacts, including but not limited to reliability impacts and transmission system 
+congestion, then the Office of the Interconnection may require the Transmission 
+Owner to implement an alternative outage schedule to reduce or avoid such 
+impacts.  The Office of the Interconnection may, however, if requested by the 
+Transmission Owner, dispatch generation or reductions in demand in order to 
+avoid implementing an alternative outage schedule for its Transmission Facilities 
+to extent consistent with its obligations under the Operating Agreement or PJM 
+Tariff and provided the Office of the Interconnection determines that such 
+dispatch would not adversely affect reliability in the PJM Region or otherwise not 
+be in accordance with Good Utility Practices.  A Transmission Owner that makes 
+such a dispatch request pursuant to this section shall be responsible for all 
+generation and other costs resulting from its request that would not have been 
+incurred had the Office of the Interconnection implemented an alternative outage 
+schedule to reduce or avoid reliability and congestion impacts.  The Office of the 
+Interconnection may, at the Transmission Owner’s consent, directly assign to the 
+Transmission Owner all generation and other costs resulting from the Office of 
+the Interconnection’s dispatch of generation or reductions in demand arising from 
+outages associated with RTEP upgrades not submitted consistent with the 
+timelines set forth in the Tariff and the PJM Operating Agreement and where such 
+outage is required to meet the reliability-based in-service date of the RTEP 
+upgrade project.   
+ 
+(iii) Transmission Owners shall submit notice of all Transmission Planned Outages to 
+the Office of the Interconnection by the first day of the month preceding the 
+month the outage will commence, with updates as new information becomes 
+available. 
+ 
+(iv) If notice of a Transmission Planned Outage is not provided by the first day of the 
+month preceding the month the outage will commence, and if such outage is 
+determined by the Office of the Interconnection to have the potential to cause 
+significant system impacts, including but not limited to reliability impacts and 
+transmission system congestion, then the Office of the Interconnection may 
+require the Transmission Owner to implement an alternative outage schedule to 
+reduce or avoid such impacts.  The Office of the Interconnection shall perform 
+this analysis and notify the Transmission Owner in a timely manner if it will 
+require rescheduling of the outage.  The Office of the Interconnection may, 
+however, if requested by the Transmission Owner, dispatch generation or 
+reductions in demand in order to avoid implementing an alternative outage 
+schedule for its Transmission Facilities to extent consistent with its obligations 
+under the Operating Agreement or PJM Tariff and provided the Office of the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 3 
+Interconnection determines that such dispatch would not adversely affect 
+reliability in the PJM Region or otherwise not be in accordance with Good Utility 
+Practices.  A Transmission Owner that makes such a dispatch request pursuant to 
+this section shall be responsible for all generation and other costs resulting from 
+its request that would not have been incurred had the Office of the 
+Interconnection implemented an alternative outage schedule to reduce or avoid 
+reliability and congestion impacts.  The Office of the Interconnection may, at the 
+Transmission Owner’s consent, directly assign to the Transmission Owner all 
+generation and other costs resulting from the Office of the Interconnection’s 
+dispatch of generation or reductions in demand arising from outages associated 
+with RTEP upgrades not submitted consistent with the timelines set forth in the 
+Tariff and the PJM Operating Agreement and where such outage is required to 
+meet the reliability-based in-service date of the RTEP upgrade project.  
+ 
+(v) The Office of the Interconnection reserves the right to approve, deny, or 
+reschedule any outage deemed necessary to ensure reliable system operations on a 
+case by case basis regardless of duration or date of submission. 
+ 
+(vi) The Office of the Interconnection shall post notice of Transmission Planned 
+Outages on OASIS upon receipt of such notice from the Transmission Owner; 
+provided, however, that the Office of the Interconnection shall not post on OASIS 
+notice of any component of a  Transmission Planned Outage to the extent such 
+component shall directly reveal a generator outage.  In such cases, the 
+Transmission Owner, in addition to providing notice to the Office of the 
+Interconnection as required above, concurrently shall inform the affected 
+Generation Owner of such outage, limiting such communication to that necessary 
+to describe the outage and to coordinate with the Generation Owner on matters of 
+safety to persons, facilities, and equipment.  The Transmission Owner shall not 
+notify any other Market Participant of such outage and shall arrange any other 
+necessary coordination through the Office of the Interconnection. 
+ 
+ In addition, if the Office of the Interconnection determines that transmission maintenance 
+schedules proposed by one or more Members would significantly affect the efficient and reliable 
+operation of the PJM Region, the Office of the Interconnection may establish alternative 
+schedules, but such alternative shall minimize the economic impact on the Member or Members 
+whose maintenance schedules the Office of the Interconnection proposes to modify. 
+ 
+(d) The Office of the Interconnection shall coordinate resolution of outage or other planning 
+conflicts that may give rise to unreliable system conditions. The Members shall comply with all 
+maintenance schedules established by the Office of the Interconnection. 
+ 
+1.9.3 Generator Maintenance Outages. 
+ 
+(a)  A Generator Maintenance Outage may only be scheduled if approved by the Office of the 
+Interconnection prior to the requested start date for the outage, in accordance with subsection (b) 
+hereof and the standards and procedures specified in the PJM Manuals. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 4 
+(b) The Office of the Interconnection shall schedule Generator Maintenance Outages for 
+Generation Capacity Resources in accordance with the procedures specified in the PJM Manuals 
+and in consultation with the Market Seller owning or controlling the output of such resources.  
+The Office of the Interconnection shall approve requests for Generator Maintenance Outages for 
+such a Generation Capacity Resource unless the outage would threaten the adequacy of reserves 
+in, or the reliability of, the PJM Region.  A Market Participant shall not be expected to submit 
+offers for the sale of energy or other services, or to satisfy delivery obligations, from a generation 
+resource undergoing an approved full or partial Generator Maintenance Outage.  If the Office of 
+the Interconnection determines that approval of a Generator Maintenance Outage would 
+significantly affect the reliable operation of the PJM Region, the Office of the Interconnection 
+may withhold approval,  withdraw a prior approval, or rescind a prior approval of a Generator 
+Maintenance Outage that is already underway.  Approval of a Generator Maintenance Outage of 
+a Generation Capacity Resource shall be withheld or withdrawn only as necessary to ensure the 
+adequacy of reserves or the reliability of the PJM Region in connection with anticipated 
+implementation or avoidance of Emergency procedures. In addition, if the Office of the 
+Interconnection determines that it must rescind its approval of a Generator Maintenance Outage 
+that is already underway in order to preserve the reliable operation of the PJM Region, the Office 
+of the Interconnection will provide the Market Seller of the Generation Capacity Resource at 
+least 72 hours’ notice thereof. The Market Seller shall be required to make the Generation 
+Capacity Resource available for normal operation within 72 hours of such notice.  If the 
+generator is not made available for normal operation by 72 hours after the notice of the rescission 
+of the approval of the Generator Maintenance Outage, for the remaining time the resource 
+continues on the outage it shall be deemed to have experienced a Generator Forced Outage.  If 
+the Office of the Interconnection withholds, withdraws or rescinds approval of a Generator 
+Maintenance Outage, it shall coordinate with the Market Seller owning or controlling the 
+resource to reschedule the Generator Maintenance Outage at the earliest practical time. The 
+Office of the Interconnection shall, if possible, propose alternative schedules with the intent of 
+minimizing the economic impact on the Market Seller of a Generator Maintenance Outage. 
+ 
+1.9.4 Forced Outages. 
+ 
+(a) Each Market Seller that owns or controls a pool-scheduled resource, or Generation 
+Capacity Resource whether or not pool-scheduled, shall:  (i) advise the Office of the 
+Interconnection of a Generator Forced Outage suffered or anticipated to be suffered by any such 
+resource as promptly as possible; (ii) provide the Office of the Interconnection with the expected 
+date and time that the resource will be made available; and (iii) make a record of the events and 
+circumstances giving rise to the Generator Forced Outage.  A Market Seller shall not be expected 
+to submit offers for the sale of energy or other services, or satisfy delivery obligations, from a 
+generation resource undergoing a Generator Forced Outage.  A Generation Capacity Resource 
+committed to PJM loads through an RPM Auction, FRR Capacity Plan, or by designation as a 
+replacement resource under Attachment DD of the PJM Tariff, that does not deliver all or part of 
+its scheduled energy shall be deemed to have experienced a Generator Forced Outage with 
+respect to such undelivered energy, in accordance with standards and procedures for full and 
+partial Generator Forced Outages specified in the Reliability Assurance Agreement, and the PJM 
+Manuals. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 5 
+(b) The Office of the Interconnection shall receive notification of Forced Transmission 
+Outages, and information on the return to service, of Transmission Facilities in the PJM Region 
+in accordance with standards and procedures specified in, as applicable, the Consolidated 
+Transmission Owners Agreement and the PJM Manuals.  
+ 
+1.9.4A Transmission Outage Acceleration. 
+ 
+(a) Planned Transmission Outages and Forced Transmission Outages otherwise scheduled 
+pursuant to sections 1.9.2 and 1.9.4 respectively of this Schedule may be accelerated or 
+rescheduled at the request of a Generation Owner or other Market Participant in accordance with 
+the terms and conditions of this section 1.9.4A and the PJM Manuals. 
+ 
+(b) Transmission Outages Requiring Coordination With A Specific Generation Owner. 
+ 
+(i) Receipt of Acceleration Request.  Prior to a scheduled Planned 
+Transmission Outage associated with the interconnection of a generating 
+unit to the Transmission System, the affected Generation Owner may 
+request that the outage be accelerated or rescheduled.  Such Acceleration 
+Request shall be submitted to the Office of the Interconnection in 
+accordance with the procedures set forth in the PJM Manuals. 
+ 
+(ii) Determination to Accommodate Acceleration Request.  Upon receipt of an 
+Acceleration Request, the Office of the Interconnection shall notify the 
+affected Transmission Owner of such Acceleration Request.  The affected 
+Transmission Owner shall determine, in its sole discretion, whether to 
+accelerate or reschedule a transmission outage.  In making this 
+determination, the affected Transmission Owner shall follow Good Utility 
+Practice, applicable Occupational Safety and Health Administration 
+standards, and applicable company safety standards, and shall consider 
+any requirements contained in pertinent collective bargaining agreements.  
+In the event that the affected Transmission Owner determines to accelerate 
+or reschedule a transmission outage, it shall provide the Office of the 
+Interconnection, within the time set forth in the PJM Manuals, an estimate 
+of the cost to accelerate or reschedule the transmission outage and the 
+revised schedule for the transmission outage (“Acceleration Estimate”).  
+ 
+(iii) Provision of Acceleration Estimate.  Upon receipt of the Acceleration 
+Estimate and verification that the Generation Owner has met reasonable 
+creditworthiness standards established by the Office of the 
+Interconnection, the Office of the Interconnection shall provide the 
+Generation Owner with the Acceleration Estimate.  In the event that the 
+Generation Owner does not meet the creditworthiness standard, the Office 
+of the Interconnection shall not provide the Acceleration Estimate and the 
+transmission outage shall not be accelerated or rescheduled.  Upon receipt 
+of the Acceleration Estimate, the Generation Owner, within the time 
+period specified in the PJM Manuals, shall notify the Office of the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.9 Prescheduling 
+Effective Date: 11/1/2017 - Docket #: ER16-372-002 - Page 6 
+Interconnection as to whether it desires to accelerate or reschedule the 
+transmission outage pursuant to the terms of the Acceleration Estimate.   
+ 
+(iv) Cost Responsibility.  In the event the Generation Owner notifies the Office 
+of the Interconnection that it desires to proceed with the acceleration or 
+rescheduling of the transmission outage pursuant to section 1.9.4A(a)(iii), 
+the Generation Owner shall be solely responsible for actual costs incurred 
+by the affected Transmission Owner for the acceleration or rescheduling 
+of the transmission outage.  The Generation Owner’s cost responsibility is 
+not relieved, if, despite the good faith efforts of the Transmission Owner, 
+the amount of costs set forth in the Acceleration Estimate is exceeded by 
+less than 20 percent, or the Transmission Owner is unable successfully to 
+complete the outage pursuant to the revised schedule set forth in the 
+Acceleration Estimate.  Prior to incurring costs exceeding 120 percent of 
+the cost estimate set forth in the Acceleration Estimate, the affected 
+Transmission Owner shall advise the Office of the Interconnection of such 
+increase, and the Office of the Interconnection then shall notify the 
+Generation Owner. After receipt of such notification, within the time 
+period set forth in the PJM Manuals, the Generation Owner shall inform 
+the Office of the Interconnection whether it desires to continue with the 
+revised transmission outage schedule and pay the additional costs.  The 
+Office of the Interconnection shall notify the affected Transmission Owner 
+of the Generation Owner’s decision.  In the event the Generation Owner 
+desires not to proceed, the transmission outage shall occur according to 
+normal work practices and the Generation Owner shall be responsible for 
+all incurred costs and committed costs and obligations of the affected 
+Transmission Owner for the acceleration or rescheduling of the 
+transmission outage as of the date that the affected Transmission Owner 

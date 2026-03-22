@@ -1,0 +1,145 @@
+ATTACHMENT C-4 
+ 
+Conversion of Service in the OVEC Zone 
+ 
+The Office of the Interconnection is scheduled to become the Transmission Provider for the 
+OVEC Zone under the terms of this Tariff on March 1, 2018 and the OVEC tariff shall be 
+superseded with respect to the OVEC Zone.  Except for certain Grandfathered Arrangements, 1 
+reservations purchased on the OVEC OASIS nodes prior to the integration of the OVEC Zone 
+which remain in place following the integration date shall be converted to the appropriate service 
+under this Tariff and subject to the rates, terms and conditions of this Tariff.  In addition, 
+requests for interconnection under the OVEC tariff pending prior to the integration of the OVEC 
+Zone shall be converted to Interconnection Requests under this Tariff.  This Attachment sets 
+forth the principles that shall govern such conversions of service. 
+ 
+Customers who have reservations that need to be converted will be contacted directly by the 
+Office of the Interconnection.  Not all transmission service provided under the OVEC tariff 
+exactly matches a service under this Tariff.  Differences include variations in product definitions 
+and PJM Region locational marginal prices (“LMP”) pricing points.  PJM will convert 
+transmission service and requests for service into the defined product types explained below.  
+The guidelines for the conversion of service are as follows: 
+ 
+1. Existing reservations will retain the same capacity (in whole megawatts) and will be 
+converted to a comparable PJM product and duration with the applicable point of receipt, 
+point of delivery and path.  Firm Point-to-Point Transmission Service redirected on a 
+non-firm basis to Secondary Receipt or Delivery Points under the OVEC tariff prior to 
+the OVEC integration date will be converted to service under this Tariff on the basis of 
+the original firm points of receipt and delivery.  Firm Point-to-Point Transmission 
+Service redirected on a firm basis under Tariff, Part II, section 22.2 (Modification on a 
+Firm Basis) (or equivalent) of the OVEC tariff prior to the OVEC integration date will be 
+converted to service under this Tariff on the basis of the modified firm points of receipt 
+and delivery. 
+ 
+2. OVEC reservations extending past the integration date must: (1) select Source and Sink 
+LMP pricing points corresponding to the appropriate interface, where applicable; and (2) 
+willing to pay through (or not).  Willing to pay congestion (or not) must be determined no 
+later than 12:00 noon EPT, 30 days prior to the OVEC integration start date.  In the event 
+the customer does not choose within the allotted deadline above, PJM will convert the 
+service to the most closely analogous service under the PJM Tariff, in PJM’s judgment. 
+ 
+1  Under the Inter-Company Power Agreement dated July 10, 1953 and as subsequently amended 
+(“ICPA”), OVEC has reservations to export power and energy to the LG&E-KU control area boundary 
+equal to 9.63% of output from the Kyger Creek and Clifty Creek generating facilities, representing the 
+share held under the ICPA by Sponsoring Companies that do not currently participate in the PJM market 
+as members (namely, LG&E/KU and SIGECO).  The maximum delivery amount under the ICPA to these 
+non-PJM Sponsoring Companies is 222 MW, exclusive of losses.  As pre-Order No. 888 service, these 
+deliveries will be maintained as “Grandfathered Arrangements.”   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C-4 - Conversion of Service in the OVEC Zone 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 2 
+Willing to pay congestion is optional for non-firm and non-designated transmission 
+service; Firm service, by definition, is willing to pay congestion.  All converted service 
+(as they exist) will be placed on the PJM OASIS no later than 30 days prior to the OVEC 
+integration start date. 
+ 
+3. PJM will, in collaboration with OVEC, convert OVEC import reservations to one of the 
+following service types as defined by this Tariff or on the PJM OASIS.  Spot market, 
+Non-Firm Point-to-Point, Network Designated or Network Non-Designated.  This choice 
+will be made on an individual reservation basis, based on the scheduling intent of the 
+reservation. 
+ 
+Transmission service reservations with an export from the OVEC Zone will be 
+represented with new PJM reservations with one of the following service types as defined 
+by this Tariff or on the PJM OASIS: Non-Firm Point-to-Point, or Firm Point-to-Point.  
+This choice will be made on an individual reservation basis, based on the scheduling 
+intent of the reservation. 
+ 
+4. Existing OVEC Zone extended transmission requests (i.e. monthly, weekly, daily) that 
+span multiple months will be converted to their largest individual components as defined 
+on the PJM OASIS.  For example, a monthly request from October 1 to December 1 will 
+be converted to two individual monthly requests, October 1 to November 1, and 
+November 1 to December 1; and daily request from January 1 of one year to January 1 of 
+the next year will be converted to yearly service. 
+ 
+5. Sliding monthly service (i.e., monthly service that does not run from the first day of the 
+given month to the last day of the given month) will be converted to weekly and daily 
+service. 
+ 
+6. Sliding weekly service (i.e., weekly service that does not run from Monday at 00:00 to 
+Sunday at 23:59) will be converted to daily service. 
+ 
+7. Transmission service that is not currently confirmed on the OVEC OASIS nodes and is in 
+active status such as “Received,” “Queued” or “Study” will be transferred to the 
+integrated PJM OASIS node and will maintain its initial queued date. 
+ 
+8. “Grandfathered” reservations that exist on the OVEC OASIS nodes will require a 
+reservation on the PJM OASIS node.  OVEC or the transmission customer must provide 
+PJM with a copy of the grandfathered agreement.  Absent the grandfathered agreement, 
+PJM will convert grandfathered service to service under the Tariff and a new service 
+agreement will be required per the terms of the Tariff.  With respect to the Grandfathered 
+Arrangements, these reservations will not be converted to service under the PJM Tariff, 
+and throughout the term of the ICPA, PJM will not assess any charge for these 
+grandfathered transmission deliveries under the ICPA from the OVEC Zone to the 
+LG&E/KU boundary, including any rates or charges that are otherwise assessed to 
+transmission service reservations and scheduled export transaction from PJM pursuant to 
+the PJM Tariff, including, but not limited to Ancillary Service charges, Regional 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C-4 - Conversion of Service in the OVEC Zone 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 3 
+Transmission Expansion Plan (“RTEP”), LMP, congestion, and other administrative 
+costs.   
+ 
+9. The customer for each converted transmission service reservation and request must 
+secure a transmission service agreement with PJM per the terms of the Tariff. 
+ 
+10. To facilitate the OASIS transition, from one month prior to the respective integration start 
+date until such integration start date, requests for service that are active on or after such 
+date one month prior to the integration start date should be made on both the pre-
+integration transmission owner or OASIS nodes and the PJM OASIS nodes. 
+ 
+11. Reservations will be converted based on the priority of the product. 
+ 
+12. Although the Office of the Interconnection will attempt to convert existing transmission 
+reservations into comparable reservations on the PJM OASIS, there will be unique 
+instances where this will not be possible (e.g., reliability issues, etc.).  In this case, 
+reservations will be reviewed on a case-by-case basis.  Transmission service that is not 
+currently accepted on the OVEC Zone OASIS nodes and is in active state such as 
+“Received,” “Queued” or “Study” will be assigned the same status and queue position on 
+the PJM OASIS as it had on the OVEC OASIS prior to conversion. 
+ 
+13. A list of converted Point-to-Point and Network transmission service reservations that 
+extend beyond or begin after the integration commencement date will be posted to the 
+PJM OASIS web page on an as-needed basis.  The list will identify the original OVEC 
+Zone reservation and the new PJM OASIS reservation. 
+ 
+14. An Interconnection Request pending under the OVEC tariff at the time of the integration 
+of the OVEC Zone shall be assigned the same priority date under this Tariff as such 
+request had under the OVEC tariff immediately prior to such integration. The 
+Interconnection Request will be assigned a PJM queue identifier such that the 
+Interconnection Customer’s priority date relative to existing PJM queued Interconnection 
+Requests can be easily determined.  All such Interconnection Requests will be integrated 
+into PJM’s existing Interconnection Queue(s), effective on the OVEC integration start 
+date, and will be subject to the generation interconnection procedures under Tariff, Part 
+IV and Tariff, Part VI.  On the OVEC integration date, PJM will assume the technical 
+studies that have been started under the OVEC tariff.  After the studies are complete, the 
+Interconnection Customer will be required to pay for any Network Upgrades and/or Local 
+Upgrades that are needed for the generating unit to qualify for Capacity Interconnection 
+Rights under this Tariff. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT D 
+Effective Date: 7/18/2012 - Docket #: ER12-1784-000 - Page 1 

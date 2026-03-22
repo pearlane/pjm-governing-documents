@@ -1,0 +1,192 @@
+[ARTICLE 1 -- DEFINITIONS - Part 2 of 2]
+
+“Reliability Principles and Standards” shall mean the principles and standards established by  the 
+Office of the Interconnection that define, among other things, an acceptable probabilistic of loss 
+of load criteria due to inadequate generation or transmission capability, as amended from time to 
+time. 
+  
+Required Approvals: 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA ARTICLE 1 -- DEFINITIONS 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 28 
+“Required Approvals” shall mean all of the approvals required for the Operating Agreement to 
+be modified or to be terminated, in whole or in part, including the acceptance for filing by FERC 
+and every other regulatory authority with jurisdiction over all or any part of the Operating 
+Agreement. 
+  
+Self-Supply: 
+  
+“Self-Supply” shall have the meaning provided in Tariff, Attachment DD. 
+ 
+Small Commercial Customer: 
+ 
+“Small Commercial Customer” shall have the same meaning as in the PJM Tariff. 
+  
+State Consumer Advocate: 
+  
+“State Consumer Advocate” shall mean a legislatively created office from any State, all or any 
+part of the territory of which is within the PJM Region, and the District of Columbia established, 
+inter alia, for the purpose of representing the interests of energy consumers before the utility 
+regulatory commissions of such states and the District of Columbia and the FERC.  
+  
+State Regulatory Structural Change: 
+  
+“State Regulatory Structural Change” shall mean as to any Party, a state law, rule, or order that, 
+after September 30, 2006, initiates a program that allows retail electric consumers served by such 
+Party to choose from among alternative suppliers on a competitive basis, terminates such a 
+program, expands such a program to include classes of customers or localities served by such 
+Party that were not previously permitted to participate in such a program, or that modifies retail 
+electric market structure or market design rules in a manner that materially increases the 
+likelihood that a substantial proportion of the customers of such Party that are eligible for retail 
+choice under such a program (a) that have not exercised such choice will exercise such choice; or 
+(b) that have exercised such choice will no longer exercise such choice, including for example, 
+without limitation, mandating divestiture of utility-owned generation or structural changes to 
+such Party’s default service rules that materially affect whether retail choice is economically 
+viable. 
+ 
+Steam Class: 
+ 
+“Steam Class” shall mean an ELCC Class consisting of Unlimited Resources of the steam 
+technology type and the primary fuel is not coal or nuclear. 
+ 
+Summer-Period Demand Resource: 
+ 
+Summer-Period Demand Resource shall mean, for the 2020/2021 Delivery Year and subsequent 
+Delivery Years, a resource that is placed under the direction of the Office of the Interconnection, 
+and will be available June through October and the following May of the Delivery Year, and will 
+be available for an unlimited number of interruptions during such months by the Office of the 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA ARTICLE 1 -- DEFINITIONS 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 29 
+Interconnection, and will be capable of maintaining each such interruption between the hours of 
+10:00AM to 10:00PM Eastern Prevailing Time.  The Summer-Period Demand Resource must be 
+available June through October and the following May in the corresponding Delivery Year to be 
+offered for sale in an RPM Auction, or included as a Summer-Period Demand Resource in an 
+FRR Capacity Plan for the corresponding Delivery Year. 
+ 
+Summer-Period Energy Efficiency Resource:  
+ 
+Summer-Period Energy Efficiency Resource shall mean, for the 2020/2021 Delivery Year and 
+subsequent Delivery Years, a project, including installation of more efficient devices or 
+equipment or implementation of more efficient processes or systems, meeting the requirements 
+of Reliability Assurance Agreement, Schedule 6 and exceeding then-current building codes, 
+appliance standards, or other relevant standards, designed to achieve a continuous (during the 
+summer peak periods as described in Reliability Assurance Agreement, Schedule 6 and the PJM 
+Manuals) reduction in electric energy consumption that is not reflected in the peak load forecast 
+prepared for the Delivery Year for which the Summer-Period Energy Efficiency Resource is 
+proposed, and that is fully implemented at all times during such Delivery Year, without any 
+requirement of notice, dispatch, or operator intervention. 
+ 
+Supervisory Control: 
+ 
+“Supervisory Control” shall mean the capability to curtail, in accordance with applicable 
+RERRA requirements, load registered as Price Responsive Demand at each PRD Substation 
+identified in the relevant PRD Plan or PRD registration in response to a Maximum Generation 
+Emergency declared by the Office of the Interconnection.  Except to the extent automation is not 
+required by the provisions of the Operating Agreement, the curtailment shall be automated, 
+meaning that load shall be reduced automatically in response to control signals sent by the PRD 
+Provider or its designated agent directly to the control equipment where the load is located 
+without the requirement for any action by the end-use customer. 
+  
+Threshold Quantity: 
+  
+“Threshold Quantity” shall mean, as to any FRR Entity for any Delivery Year, the sum of (a) the 
+Unforced Capacity equivalent (determined using the Pool-Wide Average EFORD through the 
+2024/2025 Delivery Year, or pool-wide average Accredited UCAP Factor effective with the 
+2025/2026 Delivery Year) of the Installed Reserve Margin for such Delivery Year multiplied by 
+the Preliminary Forecast Peak Load for which such FRR Entity is responsible under its FRR 
+Capacity Plan for such Delivery Year, plus (b) the lesser of (i) 3% of the Unforced Capacity 
+amount determined in (a) above or (ii) 450 MW.  If the FRR Entity is not responsible for all load 
+within a Zone, the Preliminary Forecast Peak Load for such entity shall be determined in 
+accordance with Reliability Assurance Agreement, Schedule 8.1, section D.2. 
+  
+Tracking Solar Class: 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA ARTICLE 1 -- DEFINITIONS 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 30 
+“Tracking Solar Class” shall mean an ELCC Class consisting of Variable Resources that produce 
+electrical energy with solar panels that are primarily mounted on trackers that align the panels 
+with incoming sunlight over the course of the day. 
+ 
+Transmission Facilities: 
+  
+“Transmission Facilities” shall mean facilities that:  (i) are within the PJM Region; (ii) meet the 
+definition of transmission facilities pursuant to FERC’s Uniform System of Accounts or have 
+been classified as transmission facilities in a ruling by FERC addressing such facilities; and (iii) 
+have been demonstrated to the satisfaction of the Office of the Interconnection to be integrated 
+with the PJM Region transmission system and integrated into the planning and operation of the 
+PJM Region to serve all of the power and transmission customers within the PJM Region. 
+  
+Transmission Owner: 
+  
+“Transmission Owner” shall mean a Member that owns or leases with rights equivalent to 
+ownership Transmission Facilities and is a signatory to the PJM Transmission Owners 
+Agreement.  Taking transmission service shall not be sufficient to qualify a Member as a 
+Transmission Owner. 
+  
+Unforced Capacity: 
+  
+“Unforced Capacity” shall mean installed capacity rated at summer conditions that is not on 
+average experiencing a forced outage or forced derating, calculated for each Capacity Resource 
+on the 12-month period from October to September without regard to the ownership of or the 
+contractual rights to the capacity of the unit. 
+ 
+Unlimited Resource: 
+ 
+“Unlimited Resource” shall mean a generating unit having the ability to maintain output at a 
+stated capability continuously on a daily basis without interruption.  Through the 2024/2025 
+Delivery Year, an Unlimited Resource is a Generation Capacity Resource that is not an ELCC 
+Resource. 
+ 
+Variable Resource: 
+ 
+“Variable Resource” shall mean a Generation Capacity Resource or a generation Component 
+DER within a DER Aggregation Resource that is linked to a DER Capacity Aggregation 
+Resource, with output that can vary as a function of its energy source, such as wind, solar, run of 
+river hydroelectric power without storage, and landfill gas units without an alternate fuel source.  
+All Intermittent Resources are Variable Resources, with the exception of Hydropower with Non-
+Pumped Storage. 
+  
+Winter Peak Load (or WPL): 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA ARTICLE 1 -- DEFINITIONS 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 31 
+“Winter Peak Load” or “WPL” shall mean the average of the Demand Resource customer’s 
+specific peak hourly load between hours ending 7:00 EPT through 21:00 EPT on the PJM 
+defined 5 coincident peak days from December through February two Delivery Years prior the 
+Delivery Year for which the registration is submitted.  Notwithstanding, if the average use 
+between hours ending 7:00 EPT through 21:00 EPT on a winter 5 coincident peak day is below 
+35% of the average hours ending 7:00 EPT through 21:00 EPT over all five of such peak days, 
+then up to two such days and corresponding peak demand values may be excluded from the 
+calculation.  Upon approval by the Office of the Interconnection, a Curtailment Service Provider 
+may provide alternative data to calculate Winter Peak Load, as outlined in the PJM Manuals, 
+when there is insufficient hourly load data for the two Delivery Years prior to the relevant 
+Delivery Year or if more than two days meet the exclusion criteria described above. 
+ 
+Zonal Capacity Price: 
+  
+“Zonal Capacity Price” shall mean the clearing price required in each Zone to meet the demand 
+for Unforced Capacity and satisfy Locational Deliverability Requirements for the LDA or LDAs 
+associated with such Zone.  If the Zone contains multiple LDAs with different Capacity 
+Resource Clearing Prices, the Zonal Capacity Price shall be a weighted average of the Capacity 
+Resource Clearing Prices for such LDAs, weighted by the Unforced Capacity of Capacity 
+Resources cleared in each such LDA.   
+  
+Zone or Zonal: 
+  
+“Zone” or “Zonal” shall refer to an area within the PJM Region, as set forth in Tariff, 
+Attachment J and RAA, Schedule 15, or as such areas may be (i) combined as a result of mergers 
+or acquisitions or (ii) added as a result of the expansion of the boundaries of the PJM Region.  A 
+Zone shall include any Non-Zone Network Load located outside the PJM Region that is served 
+from such Zone under Tariff, Attachment H-A. 
+ 
+Zonal Winter Weather Adjustment Factor (ZWWAF): 
+ 
+“Zonal Winter Weather Adjustment Factor” or “ZWWAF” shall mean the PJM zonal winter 
+weather normalized  coincident peak  divided by PJM zonal average of 5 coincident peak loads in 
+December through February. 
+ 
+

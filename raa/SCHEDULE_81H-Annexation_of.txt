@@ -1,0 +1,38 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.H-Annexation of 
+service territory by Public 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+H. Annexation of service territory by Public Power Entity 
+ 
+1. In the event a Public Power Entity that is an FRR Entity annexes service territory to include 
+new customers on sites where no load had previously existed, then the incremental load on such a 
+site shall be treated as unanticipated load growth, and such FRR Entity shall be required to commit 
+sufficient resources to cover such obligation in the relevant Delivery Year.   
+ 
+2. In the event a Public Power Entity that is an FRR Entity annexes service territory to include 
+load from a Party that has not elected the FRR Alternative, then: 
+ 
+a. For any Delivery Year for which a Base Residual Auction already has been conducted, 
+such acquiring FRR Entity shall pay a Locational Reliability Charge for the acquired load. 
+ 
+b. For any Delivery Year for which a Base Residual Auction has not been conducted, such 
+acquiring FRR Entity shall include such incremental load in its FRR Capacity Plan. 
+ 
+3. Annexation whereby a Party that has not elected the FRR Alternative acquires load from 
+an FRR Entity: 
+ 
+a. For any Delivery Year for which a Base Residual Auction already has been conducted, 
+PJM would consider shifted load as unanticipated load growth for purposes of determining 
+the RTO/LDA Reliability Requirements, and such shifted load shall pay a Locational 
+Reliability Charge. For the next Incremental Auction, the FRR Entity would have an RPM 
+must offer requirement for a fixed amount of unforced capacity equal to the shifted load 
+times the updated Forecast Pool Requirement applicable to the next Incremental Auction.  
+The FRR Entity would continue to have an RPM must offer requirement for all future 
+Incremental Auctions for such Delivery Year; however, the RPM must offer requirement 
+would terminate once the FRR Entity cleared the required fixed amount of Unforced 
+Capacity in Incremental Auction(s) for such Delivery Year. 
+ 
+b. For any Delivery Year for which a Base Residual Auction has not been conducted, the FRR 
+Entity that lost such load would no longer include such load in its FRR Capacity Plan, and 
+PJM would include such shifted load in future BRAs. 
+ 
+

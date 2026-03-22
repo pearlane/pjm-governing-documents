@@ -1,0 +1,63 @@
+SCHEDULE 9-MMU 
+MMU Funding 
+ 
+a) This Schedule 9-MMU shall recover the costs of providing the market monitoring 
+functions to the PJM region as specified in Tariff, Attachment M.  This Schedule 9-MMU 
+recovers PJM’s payments to MMU as set forth below.  PJM provides this service to all 
+customers using Point-to-Point or Network Integration Transmission Service under this Tariff, to 
+all Generation Providers, and to all entities that submit offers to sell or bids to buy energy in the 
+PJM Interchange Energy Market. 
+ 
+b) PJM will charge each user of this Schedule 9-MMU service each month a charge equal to 
+the sum of:  (i) the MMU Service Rate, Component 1, as stated below, times (1) the total 
+quantity in MWhs of energy delivered to load (including losses and net of operating Behind The 
+Meter Generation, but not to be less than zero) in the PJM Region or for export from such region 
+during such month by such user as a customer under Point-to-Point Transmission Service (other 
+than Wheeling-Through Service) or Network Integration Transmission Service, plus (2) the total 
+quantity in MWhs of energy input into the Transmission System during such month by such user 
+as a Generation Provider, plus (3) the total quantity in MWhs of all accepted Increment Offers 
+and accepted Decrement Bids, and all accepted Up-to Congestion Transactions submitted 
+pursuant to Tariff, Attachment K-Appendix, section 1.10.1A(c), submitted by such user during 
+such month; plus (ii) the MMU Service Rate, Component 2, as stated below, times the number of 
+Bid/Offer Segments submitted by such user during such month.   
+ 
+c) For purposes of this Schedule 9-MMU, Wheeling-Through Service, Generation Provider, 
+and Bid/Offer Segments shall have the same meanings set forth in Tariff, Schedule 9-3.  
+ 
+d) The MMU Services Rate, Component 1 = [0.987 times CYMC]/VOL1; and the MMU 
+Services Rate, Component 2 = [0.013 times CYMC]/VOL2, 
+ 
+where 
+ 
+ Current Year MMU Charges (“CYMC”) are the expenses on an accrual basis in 
+accordance with generally accepted accounting principles for MMU funding determined in 
+accordance with the initial budget amount and thereafter the annual budget approval process set 
+forth in Attachment M, for the year for which the charge under this Schedule 9-MMU is being 
+calculated, with said annual budget adjusted to take into account the MMU’s prior year deferred 
+regulatory liability or deferred regulatory asset balance; provided that, such adjustment shall not 
+take account of any actual expenses for the prior year that exceed MMU’s approved annual 
+budget for such year, unless the MMU shall have received approval from FERC of an 
+amendment to the MMU’s approved annual budget. 
+ 
+ VOL1 is PJM’s estimate of (1) the total quantity in MWhs of energy to be delivered to 
+load (including losses and net of operating Behind The Meter Generation, but not to be less than 
+zero) in the PJM Region or to be exported from such region under Point-to-Point Transmission 
+Service (other than Wheeling-Through Service) or Network Integration Transmission Service 
+during the year for which the charge under this Schedule 9-MMU is being calculated, plus (2) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-MMU 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
+the total quantity in MWhs of energy to be input into the Transmission System by Generation 
+Providers during the year for which the charge under this Schedule 9-MMU is being calculated 
+plus (3) the total quantity in MWhs of all accepted Increment Offers and accepted Decrement 
+Bids, and all accepted Up-to Congestion Transactions submitted pursuant to Tariff, Attachment 
+K-Appendix, section 1.10.1A(c), to be submitted during the year for which the charge under this 
+Schedule 9-MMU is being calculated. 
+ 
+ VOL2 is PJM’s estimate of the number of Bid/Offer Segments to be submitted during the 
+year for which the charge under this Schedule 9-MMU is being calculated. 
+ 
+e) MMU shall document, and advise PJM of, MMU’s actual expenses for the prior year no 
+later than March 15, and provide a copy of such documentation to the Finance Committee.  Such 
+documentation shall be in a level of supporting detail consistent with that required under Tariff, 

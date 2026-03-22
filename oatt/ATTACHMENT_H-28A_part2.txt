@@ -1,0 +1,648 @@
+[ATTACHMENT H-28A - Part 2 of 2]
+
+Tax Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference occurred).  The difference in the two results is reclassified from ADIT to regulatory assets/liabilities for deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and Account 254, respectively are presented grossed-up for tax purposes.  For ratemaking purposes, these grossed-up balances are treated as FAS109 and subsequently removed from rate 
+base, thereby ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to remeasure ADIT balances (increase or decrease) due to any future federal or state income tax rate change. 
+C Beginning balance of year is the end of the prior year balance as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+    
+   
+D In the event the Company populates the data enterable fields, it will support the data entered as just and reasonable in its annual update 
+     
+   
+E The amortization periods shall be consistent with the following: 
+        
+    
+Protected Property & Non-Protected Property: 
+ 
+ARAM, or directly assigned based on average remaining life of assets for property items not in PowerTax 
+  
+    
+Protected Non-Property & Non-Protected Non-Property will be directly assigned and presented in the table above 
+      
+   
+F The amortization will occur through FERC income statement Accounts 410.1. and 411.1. 
+       
+   
+G Ending balance of year is the end of current year balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+     
+   
+H Reflects the net amount of amortization, including gross-up for taxes, from prior period(s) that was booked for GAAP, but deferred for FERC purposes because a mechanism did not exist to pass back/collect excess/deficient ADITs to/from customers.  The net amortized deferral amount, including the gross-up for taxes, is in Account 254, as reflected on FERC Form No. 1, page 278 or Account 182.3, as reflected on FERC Form No. 1, page 232. 
+I The amortization gross-up for taxes occurs on Attachment H-28A, page 3, line 38.            
+J Included to demonstrate rate base neutrality. Ties back to FERC Form No. 1 page 232 (Account 182.3) plus page 278 (Account 254).         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Attachment H-28A, Attachment 15b 
+              page 1 of 3 
+              For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+  
+   Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L (Note B) (Excess) Deficient Deferred Income 
+Taxes (Notes B & C) (Excess) Deficient Deferred Income Tax Activity post tax remeasurement     
+Line 
+No. 
+Vintage 
+(Note A)   
+M Item 12/31/2017 ADIT Balance 
+(Prior to 2017 TCJA) 
+12/31/2017 ADIT Balance 
+(After 2017 TCJA) 
+Change in ADIT due to 2017 
+TCJA Tax Expense (Benefit) ADIT Offset to Regulatory Asset 
+(Liability) (= -(Col. E + Col F)) 
+Other Adjustments Including 
+Gross-up True-ups 
+2017 Return-to-Accrual 
+Adjustment (Recorded in 
+2018) 
+(Excess)/Deficient ADIT Transmission 
+Remeasured Balance (= Col. G + Col. H + 
+Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset (Account 182.3) or Regulatory 
+Liability (Account 254) as of 12/31/17 
+  Non-Property Related Items:           
+1  190 Accounts           
+1a 2017 TCJA                                                          -                                                       -        
+2   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+3  282 Accounts           
+3a 2017 TCJA                                                          -                                                       -        
+4   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+5  283 Accounts           
+5a 2017 TCJA                                                          -                                                       -        
+6   Total For 283 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Non-Property Related Items:           
+7 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+8 2017 TCJA   Net Tax Gross-up                                                          -      
+9 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+  Property Related Items:           
+10  190 Accounts           
+10a 2017 TCJA                                                          -                                                       -        
+11   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+12  282 Accounts           
+12a 2017 TCJA                                                          -                                                       -        
+13   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Property Related Items:           
+14 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+15 2017 TCJA   Net Tax Gross-up                                                          -      
+16 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+  Total Property and Non-property Related Items:           
+17 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+18 2017 TCJA   Net Tax Gross-up                                                  -                                       -                                       -                                                   -      
+19 2017 TCJA   Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Attachment H-28A, Attachment 15b 
+              page 2 of 3 
+              For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+  
+   Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L (Note B) (Excess) Deficient Deferred Income 
+Taxes (Notes B & C) (Excess) Deficient Deferred Income Tax Activity post tax remeasurement     
+Line 
+No. 
+Vintage 
+(Note A)   
+M Item 12/31/20XX ADIT Balance 
+(Prior to Vintage) 
+12/31/20XX ADIT Balance 
+(After Vintage) 
+Change in ADIT due to 
+Vintage Tax Expense (Benefit) ADIT Offset to Regulatory Asset 
+(Liability) (= -(Col. E + Col F)) 
+Other Adjustments Including 
+Gross-up True-ups 
+20XX Return-to-Accrual 
+Adjustment (Recorded in 
+20XX) 
+(Excess)/Deficient ADIT Transmission 
+Remeasured Balance (= Col. G + Col. H + 
+Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset (Account 182.3) or Regulatory 
+Liability (Account 254) as of 12/31/XX 
+  Non-Property Related Items:           
+20  190 Accounts           
+20a                                                            -                                                       -        
+21   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+22  282 Accounts           
+22a                                                            -                                                       -        
+23   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+24  283 Accounts           
+24a                                                            -                                                       -        
+25   Total For 283 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Non-Property Related Items:           
+26     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+27     Net Tax Gross-up                                                          -      
+28     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+  Property Related Items:           
+29  190 Accounts           
+29a                                                            -                                                       -        
+30   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+31  282 Accounts           
+31a                                                            -                                                       -        
+32   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Property Related Items:           
+33     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+34     Net Tax Gross-up                                                          -      
+35     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+  Total Property and Non-property Related Items:           
+36     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+37     Net Tax Gross-up                                                  -                                       -                                       -                                                   -      
+38     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Attachment H-28A, 
+Attachment 15b 
+              page 3 of 3 
+              
+For the 12 months ended 
+12/31/ 
+                             
+Notes:              
+A Excess/deficient ADIT will be tracked separately for each federal or state tax rate change, to be identified by the appropriate vintage in column A.  MAIT will modify Attachment 15a to add an additional page for each additional vintage without pursuing a 
+Federal Power Act Section 205 filing.  
+B Upon a tax rate change (federal or state), the Company remeasures its deferred tax assets and liabilities to the new applicable corporate tax rate.  For schedule M items not directly taken to the P&L, the result of this remeasurement is a change to the net deferred tax assets/liabilities 
+recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from customers.  The remeasurement is effectuated within PowerTax 
+and Tax Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference occurred).  The difference in the two results is reclassified from ADIT to regulatory 
+assets/liabilities for deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and Account 254, respectively are presented grossed-up for tax purposes.  For ratemaking purposes, these grossed-up balances are treated as FAS109 and subsequently 
+removed from rate base, thereby ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to remeasure ADIT balances (increase or decrease) due to any future federal or state income tax rate change. 
+C Reflects the end of vintage year balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 
+(Account 254). 
+  
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment H-28A, Attachment 16a 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+  Regulatory Asset–Deferred Storms    
+ [1] [2] [3] [4] [5] [6] [7] 
+1 Monthly Balance  Source 
+Months 
+Remaining 
+In 
+Amortization 
+Period Beginning Balance  
+Amortization Expense 
+(Company records) 
+Additions 
+(Deductions) Ending Balance  
+2 December 2016 p 232 (and Notes) 37     
+3 January FERC Account 182.3 36     
+4 February FERC Account 182.3 35     
+5 March FERC Account 182.3 34     
+6 April FERC Account 182.3 33     
+7 May FERC Account 182.3 32     
+8 June FERC Account 182.3 31     
+9 July FERC Account 182.3 30     
+10 August FERC Account 182.3 29     
+11 September FERC Account 182.3 28     
+12 October FERC Account 182.3 27     
+13 November FERC Account 182.3 26     
+14 December 2017 p 232 (and Notes) 25     
+15 
+Ending Balance 13-Month 
+Average (sum lines 2-14)/13   $  $ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 37 
+    Attachment H-28A, page 3, line 11 Attachment H-28A, page 2, Line 27 
+        
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 38 
+ 
+Attachment H-28A, Attachment 16b 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+   Regulatory Asset–Vegetation Management 
+ [1] [2] [3] [4] [5] [6] [7] 
+1 Monthly Balance  Source 
+Months 
+Remaining In 
+Amortization 
+Period Beginning Balance  
+Amortization Expense 
+(Company records) 
+Additions 
+(Deductions) Ending Balance  
+2 December 2016 p 232 (and Notes) 85     
+3 January FERC Account 182.3 84     
+4 February FERC Account 182.3 83     
+5 March FERC Account 182.3 82     
+6 April FERC Account 182.3 81     
+7 May FERC Account 182.3 80     
+8 June FERC Account 182.3 79     
+9 July FERC Account 182.3 78     
+10 August FERC Account 182.3 77     
+11 September FERC Account 182.3 76     
+12 October FERC Account 182.3 75     
+13 November FERC Account 182.3 74     
+14 December 2017 p 232 (and Notes) 73     
+15 
+Ending Balance 13-Month 
+Average (sum lines 2-14)/13   $  $ 
+    Attachment H-28A, page 3, line 11 Attachment H-28A, page 2, Line 27 
+        
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 39 
+Attachment H-28A, Attachment 16c 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+   Regulatory Asset–Start-up Costs  
+ [1] [2] [3] [4] [5] [6] [7] 
+1 Monthly Balance  Source 
+Months 
+Remaining In 
+Amortization 
+Period Beginning Balance  
+Amortization Expense 
+(Company Records) 
+Additions 
+(Deductions) Ending Balance  
+2 December 2016 p 232 (and Notes) 13     
+3 January FERC Account 182.3 12     
+4 February FERC Account 182.3 11     
+5 March FERC Account 182.3 10     
+6 April FERC Account 182.3 9     
+7 May FERC Account 182.3 8     
+8 June FERC Account 182.3 7     
+9 July FERC Account 182.3 6     
+10 August FERC Account 182.3 5     
+11 September FERC Account 182.3 4     
+12 October FERC Account 182.3 3     
+13 November FERC Account 182.3 2     
+14 December 2017 p 232 (and Notes) 1     
+15 Ending Balance 13-Month Average (sum lines 2-14)/13   $  $ 
+    Attachment H-28A, page 3, line 11 Attachment H-28A, page 2, Line 27 
+        
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 40 
+ 
+Attachment H-28A, Attachment 17 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+  Abandoned Plant    
+ [1] [2] [3] [4] [5] [6] [7] 
+1 Monthly Balance  Source 
+Months 
+Remaining In 
+Amortization 
+Period Beginning Balance  
+Amortization Expense 
+(p114.10.c) 
+Additions 
+(Deductions) Ending Balance  
+2 December 2016 p111.71.d (and Notes) 13     
+3 January FERC Account 182.2s 12     
+4 February FERC Account 182.2 11     
+5 March FERC Account 182.2 10     
+6 April FERC Account 182.2 9     
+7 May FERC Account 182.2 8     
+8 June FERC Account 182.2 7     
+9 July FERC Account 182.2 6     
+10 August FERC Account 182.2 5     
+11 September FERC Account 182.2 4     
+12 October FERC Account 182.2 3     
+13 November 
+FERC Account 182.2 
+p111.71.c (and Notes) 
+2 
+    
+14 December 2017 Detail on p 230b 1     
+15 
+Ending Balance 13-Month 
+Average (sum lines 2-14)/13   $  $ 
+    Attachment H-28A, page 3, Line 19 Attachment H-28A, page 2, Line 28 
+        
+ 
+Note: 
+Recovery of Abandoned plant is limited to any Abandoned plant recovery authorized by FERC and will be zero until the Commission accepts or approves recovery of the cost of  
+Abandoned plant
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 41 
+Attachment H-28A, Attachment 18 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+     
+    CWIP 
+    [A] 
+    216.b 
+     
+1 December 2016   
+2 January 2017   
+3 February 2017   
+4 March 2017   
+5 April 2017   
+6 May 2017   
+7 June 2017   
+8 July 2017   
+9 August 2017   
+10 September 2017   
+11 October 2017   
+12 November 2017   
+13 December 2017   
+     
+14 13-month Average    
+     
+     
+Notes:     
+[A] Includes only CWIP authorized by the Commission for inclusion in rate base. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 42 
+Attachment H-28A, Attachment 19 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+ 
+Federal Income Tax Rate   
+   
+% Nominal Federal Income Tax Rate 
+(entered on Attachment H-28A,  
+page 5 of 5, Note K)  
+ 
+   
+State Income Tax Rate   
+    
+ Pennsylvania Combined Rate 
+(entered on Attachment H-28A,  
+page 5 of 5, Note K) 
+ 
+   
+Nominal State Income Tax Rate %   
+Times Apportionment Percentage %   
+Combined State Income Tax Rate % %  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 43 
+Attachment H-28A, Attachment 20 
+Page 1 of 2 
+For the 12 months ended 12/31/2017 
+ Operation and Maintenance Expenses  
+Line No. 
+[a] 
+Account 
+Reference Description Account 
+Balance [b] 
+   
+82  Operation  
+83 560 Operation Supervision and Engineering  
+84    
+85 561.1 Load Dispatch-Reliability  
+86 561.2 Load Dispatch-Monitor and Operate Transmission System  
+87 561.3 Load-Dispatch-Transmission Service and Scheduling  
+88 561.4 Scheduling, System Control and Dispatch Services  
+89 561.5 Reliability, Planning and Standards Development  
+90 561.6 Transmission Service Studies  
+91 561.7 Generation Interconnection Studies  
+92 561.8 Reliability, Planning and Standards Development Services  
+93 562 Station Expenses  
+94 563 Overhead Lines Expense  
+95 564 Underground Lines Expense  
+96 565 Transmission of Electricity by Others  
+97 566 Miscellaneous Transmission Expense  
+98 567 Rents  
+99  TOTAL Operation (Enter Total of Lines 83 thru 98) $ 
+100  Maintenance  
+101 568 Maintenance Supervision and Engineering  
+102 569 Maintenance of Structures  
+103 569.1 Maintenance of Computer Hardware  
+104 569.2 Maintenance of Computer Software  
+105 569.3 Maintenance of Communication Equipment  
+106 569.4 Maintenance of Miscellaneous Regional Transmission Plant  
+107 570 Maintenance of Station Equipment  
+108 571 Maintenance of Overhead Lines  
+109 572 Maintenance of Underground Lines  
+110 573 Maintenance of Miscellaneous Transmission Plant  
+111  TOTAL Maintenance (Total of lines 101 thru 110) $ 
+112  TOTAL Transmission Expenses (Total of lines 99 and 111) [c] $ 
+   
+Notes: 
+[a] Line No. as would be reported in FERC Form 1, page 321 
+[b] December balances as would be reported in FERC Form 1 
+[c] Ties to Attachment H-28A, page 3, line 1, column 3 
+Above expenses do not include amounts for Met-Ed's 34.5 kV transmission lines 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 44 
+ 
+Attachment H-28A, Attachment 20 
+Page 2 of 2 
+For the 12 months ended 12/31/2017 
+ Administrative and General (A&G) Expenses   
+      
+Line 
+No.[d] 
+Account 
+Reference  Description  Account Balance [e] 
+      
+180   Operation   
+181 920  Administrative and General Salaries   
+182 921  Office Supplies and Expenses   
+183 Less 922  Administrative Expenses Transferred - Credit   
+184 923  Outside Services Employed   
+185 924  Property Insurance   
+186 925  Injuries and Damages   
+187 926  Employee Pensions and Benefits   
+188 927  Franchise Requirements   
+189 928  Regulatory Commission Expense   
+190 Less 929  (Less) Duplicate Charges-Cr.   
+191 930.1  General Advertising Expenses   
+192 930.2  Miscellaneous General Expenses   
+193 931  Rents   
+194   Total Operation (Enter Total of lines 181 thru 193)  $ 
+195   Maintenance   
+196 935  Maintenance of General Plant   
+197   TOTAL A&G Expenses (Total of lines 194 and 196) [f]  $ 
+      
+Notes:      
+[d] Line No. as would be reported in FERC Form 1, page 323   
+[e] December balances as would be reported in FERC Form 1   
+[f] Ties to Attachment H-28A, page 3, line 5, column 3   
+ 
+Above expenses do not include amounts for Met-Ed's 34.5 kV transmission 
+lines   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 45 
+Attachment H-28A, Attachment 21 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+     Revenue Credit Worksheet    
+     (See Footnote T on Attachment H-28A, page 5)    
+                   
+December 31, 2017 
+ 
+ 
+1 Account 451 -- Miscellaneous Service Revenues FERC Form 1, page 300 and footnote data Amount   Note S, page 5 
+           
+1a                  
+1b                  
+1z  Account 451 Total     $   
+           
+2 Account 454 -- Rent from Electric Property FERC Form 1, pages 300 and 429   Note R, page 5 
+           
+2a                  
+2b                  
+2c                  
+2z  Account 454 Total     $   
+           
+3 Account 456 -- Other Electric Revenues FERC Form 1, page 330 and footnote data   Note V, page 5 
+           
+3a                  
+3b                  
+3c                   
+3d                  
+3e                  
+3z  Account 456 Total     $   
+           
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28B - MAIT Implementation Protocols 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 1 

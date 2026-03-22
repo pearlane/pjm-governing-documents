@@ -1,0 +1,370 @@
+ATTACHMENT H-22B 
+DEOK FORMULA RATE IMPLEMENTATION PROTOCOLS 
+ 
+Definitions 
+ 
+“Annual Transmission Revenue Requirements” means the result produced by populating the 
+Formula Rate Template with data as provided by the Formula Rate.  
+ 
+“Annual Update” means the posting and informational filing submitted by DEOK on or before 
+May 15 of each year that sets forth the DEOK Cost of Service (“COS”) for the subsequent Rate 
+Year. 
+ 
+“Discovery Period” means the period after each annual Publication Date to serve information 
+requests on DEOK as provided in Section 2.b below. 
+ 
+“DEOK” means Duke Energy Kentucky, Inc., and Duke Energy Ohio, Inc. 
+ 
+“First Rate Year” means the period that begins on January 1, 2012, and ends on May 31, 2012.  
+ 
+“Formal Challenge” means a challenge to an Annual Update submitted to the Federal Energy 
+Regulatory Commission (“FERC”) as provided in Section 3.a below. 
+ 
+“Formula Rate” means these Formula Rate Implementation Protocols (to be included as 
+Attachment H-22B of the PJM Interconnection, L.L.C. (“PJM”), FERC Electric Tariff 
+(“PJM Tariff”)) and the Formula Rate Template. 
+ 
+“Formula Rate Template” means the collection of formulae, and worksheets, unpopulated with 
+any data, to be included as Attachment H-22A of the PJM Tariff. 
+ 
+“Interested Party” means any person or entity having standing under Section 206 of the Federal 
+Power Act (“FPA”) with respect to the Annual Update. 
+ 
+“Material Changes” means (i) material changes in DEOK’s accounting policies and practices, (ii) 
+changes in FERC’s Uniform System of Accounts (“USofA”), (iii) changes in FERC Form No. 1 
+reporting requirements as applicable, or (iv) changes in the FERC’s accounting policies and 
+practices, which change causes a result under the Formula Rate different from the result under the 
+Formula Rate as calculated without such change. 
+ 
+“Preliminary Challenge” means a written challenge to the Annual Update submitted to DEOK as 
+provided in Section 2.a below. 
+ 
+“Protocols” means these Formula Rate Implementation Protocols (to be included as Attachment 
+H-22B of the PJM Tariff). 
+ 
+“Publication Date” means the date on which the Annual Update is posted under the provisions of 
+Section 1.b below. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 2 
+“Rate Year” means the twelve consecutive month period that begins on June 1 and continues 
+through May 31 of the subsequent calendar year except for the First Rate Year. 
+ 
+“Review Period” means the period during which Interested Parties may review the calculations 
+in the Annual Update as provided in Section 2.a below. 
+ 
+Section 1  Annual Updates 
+ 
+a. Beginning with the Rate Year that commences on June 1, 2012, and during each Rate 
+Year thereafter, the Annual Transmission Revenue Requirement calculated in accordance 
+with Attachment H-22A and the Network Integration Transmission Service and 
+Point-to-Point rates derived therefrom shall be applicable to transmission services 
+provided by PJM for the DEOK zone during the Rate Year. 
+ 
+b. On or before May 15, 2012, and on or before May 15 of each succeeding Rate Year, 
+DEOK shall recalculate its Annual Transmission Revenue Requirement, producing the 
+“Annual Update” for the upcoming Rate Year, and: 
+(i) post such Annual Update on PJM’s Internet website (via a link to the 
+Transmission Services page or a similar successor page) as both a .pdf (Portable 
+Document Format) document and a fully-functioning Excel file; 
+(ii) submit such Annual Update as an informational filing with the FERC; 
+(iii) provide contact information for inquiries concerning the Annual Update; 
+(iv) send an email or other similar electronic communication to all Interested Parties 
+that have previously requested such notification through procedures to be 
+established by DEOK that informs the recipient that the Annual Update is 
+available and that provides the Uniform Resource Locator or other similar 
+identifying location information from which the Annual Update can be obtained. 
+ 
+c. If the date for making the Annual Update posting/filing should fall on a weekend or a 
+holiday recognized by the FERC, then the posting/filing shall be due on the next business 
+day. 
+ 
+d. The date on which the last of the events listed in Section 1.b or 1.c occurs shall be that 
+year’s “Publication Date.” 
+ 
+e. Within two business days of the Publication Date, DEOK shall also provide notice on 
+PJM’s Internet website (via a link to the Transmission Services page or a similar 
+successor page) of the time, date and location of an open meeting among interested 
+parties (“Annual Meeting”).  This Annual Meeting shall (i) permit DEOK to explain and 
+clarify its Annual Update and (ii) provide interested parties an opportunity to seek 
+information and clarifications from DEOK about the Annual Update. The Annual 
+Meeting shall take place no sooner than ten (10) days after posting of the notice and no 
+later than thirty (30) days after the Publication Date. 
+ 
+f. Inputs to the Formula Rate are based on DEOK’s books, which reflect: 
+(i) the FERC’s Uniform System of Accounts, and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 3 
+(ii) applicable FERC Form No. 1 1 as each exists as of the later of the date of DEOK’s 
+initial filing of the Formula Rate or the last day of the calendar year immediately 
+preceding the effective date of the most recent revision to the Formula Rate. 
+ 
+g.  The Annual Update for the Rate Year: 
+(i) shall, to the extent specified in the Formula Rate, be based upon DEOK’s  FERC 
+Form No. 1 data for the most recent calendar year, and to the extent specified in 
+the Formula Rate, be based upon the books and records of DEOK consistent with 
+Section 1.f above; 
+(ii) shall, as and to the extent specified in the Formula Rate, provide the formula rate 
+calculations and all inputs thereto, as well as supporting documentation for data 
+not otherwise available in the FERC Form No. 1 that are used in the Formula 
+Rate;2 
+(iii) shall provide sufficient information 3 to enable customers to replicate the 
+calculation of the formula results from FERC Form No. 1 and other applicable 
+accounting inputs and to compare that calculation to that of prior years, including 
+all workpapers necessary to explain any changes made since the last update, and 
+to include as applicable: 
+ 
+(1) a copy of the FERC Form No. 1 used for the update if it is not otherwise 
+publicly available; 
+(2) identification of any changes in the formula references to the FERC Form 
+No. 1; 
+(3) identification of all adjustments made to the FERC Form No. 1 data in 
+determining formula inputs, including relevant footnotes to the FERC 
+Form No. 1 and any adjustments not shown in a FERC Form No. 1 
+footnote; 
+ 
+ 
+1. If the referenced form is superseded, the successor form(s) shall be utilized and supplemented as 
+necessary to provide equivalent information as that provided in the superseded form.  If the 
+referenced form(s) is (are) discontinued, equivalent information as that provided in the 
+discontinued form(s) shall be utilized. 
+ 
+2. It is the intent of the Formula Rate, including the supporting explanations and allocations 
+described therein, that each input to the Formula Rate will be either taken directly from the FERC 
+Form No. 1 for the most recent calendar year or reconcilable to the FERC Form No. 1 by the 
+application of clearly identified and supported information provided by DEOK with the Annual 
+Update.  Where the reconciliation is provided through a worksheet included in the filed Formula 
+Rate Template, the inputs to the worksheet must meet this transparency standard, and doing so 
+will satisfy this transparency requirement for the amounts that are output from the worksheet and 
+input to the main body of the Formula Rate. 
+ 
+3. As appropriate, competitively sensitive information may be provided only to those persons bound 
+by the terms of a suitable confidentiality agreement or protective order. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 4 
+(4) a reconciliation of annual and monthly peak demands shown on the FERC 
+Form 1 and annual and monthly peak demands used in the formula in 
+sufficient detail to enable transparent reconciliation of these two measures; 
+(5) a description of those factors influencing any change in the annual revenue 
+requirement, including an identification of any respects in which charges 
+under the formula rate materially differ from the preceding Annual Update 
+(e.g., due to changes in accounting procedures, the purchase or sale of 
+major assets, or other such significant changes) and identification of the 
+major reason(s) for the differences, if any, between the Annual Update and 
+the prior year’s Annual Update; and 
+(6) any changes to the data inputs made as a result of a reconciliation made 
+under Section 4 below. 
+(iv) shall describe material changes, if any, in DEOK’s accounting policies, practices 
+and procedures from those in effect for the calendar year upon which the 
+immediately preceding Annual Update was based that could or did affect the 
+charges under the Formula Rate (“Material Accounting Changes”);4 
+(v) shall be subject to challenge and review only in accordance with the procedures 
+set forth in this Attachment H-22B, as to the appropriateness of the input data, the 
+prudence of the costs and expenditures included for recovery in the Annual 
+Update, and the application of the Formula Rate according to its terms and the 
+procedures in this Attachment H-22B (including terms and procedures related to 
+challenges concerning Material Accounting Changes); 
+(vi) except as provided for in Section 1.j below, shall not seek to modify the Formula 
+Rate and shall not be subject to challenge by anyone for the purpose of modifying 
+the Formula Rate (i.e., all such modifications to the Formula Rate will require, as 
+applicable, a Federal Power Act (“FPA”) Section 205 or Section 206 filing). 
+ 
+h. Formula Rate inputs for rate of return on common equity and depreciation rates shall be 
+stated values until changed pursuant to an FPA Section 205 or 206 filing made effective 
+by the Commission. An application under Section 205 or Section 206 to modify stated 
+values for depreciation rates or PBOP expense under the Formula Rate or Protocols shall 
+not open review of other components of the Formula Rate or Protocols. 
+ 
+i. Extraordinary property losses recorded in FERC Account 182.1 shall be amortized for 
+Formula Rate purposes pursuant to a Section 205 or 206 filing made effective by the 
+Commission. 
+ 
+ 
+ 
+ 
+4  Such notice may incorporate by reference applicable disclosure statements filed with the Securities 
+and Exchange Commission (“SEC”). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 5 
+j. Any change to the underlying Uniform System of Accounts or FERC Form No. 1 as 
+described in Section 1.f above shall be grounds for a presumption that the application of 
+the Formula Rate shall be modified to restore the balance of the Formula Rate as 
+accepted by the FERC (the intent being to prevent such changes in these underlying 
+Uniform System of Accounts or FERC Form No. 1 from causing an automatic shift in the 
+charges calculated under the Formula Rate without input from other interested parties).  
+Any interested party seeking changes to the application of the Formula Rate due to a 
+change in the Uniform System of Accounts or FERC Form No. 1 as described in 
+Section 1.f, shall first raise the matter with DEOK. 
+ 
+Section 2  Annual Review Procedures 
+ 
+Each Annual Update shall be subject to the following review procedures (“Annual 
+Review Procedures”): 
+ 
+a. Interested parties shall have up to one hundred eighty (180) days after the Publication 
+Date (unless such period is extended with the written consent of DEOK or by FERC 
+Order) to review the inputs, supporting explanations, allocations and calculations 
+(“Review Period”) and to notify DEOK in writing, which may be made electronically, of 
+any specific challenges, including challenges related to the rate treatment of Material 
+Accounting Changes, to the application of the Formula Rate and to changes to the 
+Uniform System of Accounts or FERC Form No. 1 as described in Section 1.f, above, 
+(“Preliminary Challenge”).  Failure to make a Preliminary Challenge or Formal 
+Challenge with respect to an Annual Update shall preclude use of these procedures with 
+respect to that Annual Update but shall not bar a subsequent Preliminary Challenge or 
+Formal Challenge related to a subsequent Annual Update to the extent such Challenge 
+affects the subsequent Annual Update. 
+ 
+b. Interested Parties shall have up to one hundred fifty (150) days after each annual 
+Publication Date (unless such period is extended with the written consent of DEOK or by 
+FERC Order) to serve reasonable information requests on DEOK.  Such information 
+requests shall be limited to what is necessary to determine if DEOK has properly applied 
+the Formula Rate, the requirements and procedures of this Attachment H-22B, and the 
+prudence of the costs and expenditures included for recovery in the Annual Update, and 
+shall not otherwise be directed to ascertaining whether the Formula Rate is just and 
+reasonable. 
+ 
+c. DEOK shall make a good faith effort to respond to information requests pertaining to the 
+Annual Update within fifteen (15) business days of receipt of such requests.  
+Notwithstanding anything to the contrary contained in these Protocols, with respect to 
+any information requests received by DEOK within the Discovery Period and for which 
+DEOK is unable to provide a response within fifteen (15) business days after the end of 
+the Discovery Period, the Review Period shall be extended day-for-day until DEOK’s 
+response is provided. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 6 
+d. To the extent DEOK and any interested party(ies) are unable to resolve disputes related to 
+information requests submitted in accordance with these Annual Review Procedures, 
+DEOK or any interested party may petition the FERC to appoint an Administrative Law 
+Judge as a discovery master.  The discovery master shall have the power to issue binding 
+orders to resolve discovery disputes and compel the production of discovery, as 
+appropriate, in accordance with the Annual Review Procedures and consistent with the 
+FERC’s discovery rules. 
+ 
+e. Preliminary Challenges shall be subject to the resolution procedures and limitations in 
+Section 3.  Formal Challenges shall be filed pursuant to these Protocols and shall include 
+the information required under 18 C.F.R. § 385.206 (b) (1), (2), (3), (4), and (7). 
+ 
+f. Preliminary or Formal Challenges related to Material Changes are not intended to serve 
+as a means of pursuing other objections to the Formula Rate.  Failure to make a 
+Preliminary Challenge or Formal Challenge with respect to an Annual Update shall 
+preclude use of these procedures with respect to that Annual Update but shall not 
+preclude a subsequent Preliminary Challenge or Formal Challenge related to a 
+subsequent Annual Update to the extent such Challenge affects the subsequent Annual 
+Update. 
+ 
+g. In any proceeding initiated to address a Preliminary or Formal Challenge or sua sponte 
+by the FERC, a party or parties seeking to modify the Formula Rate in any respect shall 
+bear the applicable burden under the FPA. 
+ 
+Section 3  Resolution of Challenges 
+ 
+a. If DEOK and any interested party(ies) have not resolved any Preliminary Challenge to 
+the Annual Update within twenty-one (21) days after the Review Period, an interested 
+party shall have an additional twenty-one (21) days (unless such period is extended with 
+the written consent of DEOK to continue efforts to resolve the Preliminary Challenge) to 
+make a Formal Challenge with the FERC, which shall be served on DEOK by electronic 
+service on the date of such filing.  However, there shall be no need to make a Formal 
+Challenge or to await conclusion of the time periods in Section 2 if the FERC already has 
+initiated a proceeding to consider the Annual Update.   Parties shall make a good faith 
+effort to raise all issues in a Preliminary Challenge prior to filing a Formal Challenge; 
+provided, however, that a Preliminary Challenge shall not be a prerequisite for bringing a 
+Formal Challenge.  Failure to notify DEOK of an issue with respect to an Annual Update 
+shall not preclude an Interested Party from pursuing such issues in a Preliminary 
+Challenge or Formal Challenge. 
+ 
+b. Any response by DEOK to a Formal Challenge must be submitted to the FERC within 
+twenty (20) days of the date of the filing of the Formal Challenge, and shall be served on 
+the filing party(ies) by electronic service on the date of such filing. 
+ 
+c. In any proceeding initiated by the FERC concerning the Annual Update or in response to 
+a Formal Challenge, DEOK shall bear the burden, consistent with Section 205 of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 7 
+Federal Power Act, of proving that it has correctly applied the terms of the Formula Rate, 
+consistent with Section 1.g(v), and that it followed the applicable requirements and 
+procedures in this Attachment H-22B, in that year's Annual Update.  Nothing herein is 
+intended to alter the burdens applied by the Commission with respect to prudence 
+challenges. 
+ 
+d. Subject to judicial review of FERC orders, each Annual Update shall become final as to 
+the Annual Transmission Revenue Requirement calculated for the Rate Year for which 
+the Annual Update was calculated and no longer subject to challenge pursuant to these 
+Protocols or by any other means by the FERC or any other entity on the later to occur of 
+(i) passage of the twenty-one (21) day period (or extended period, if applicable) for 
+making a Formal Challenge if no such challenge has been made and the FERC has not 
+initiated a proceeding to consider the Annual Update, or (ii) a final FERC order issued in 
+response to a Formal Challenge or a proceeding initiated by the FERC to consider the 
+Annual Update. 
+ 
+e. Nothing herein shall be deemed to limit in any way the right of DEOK to file unilaterally, 
+pursuant to FPA Section 205 and the regulations thereunder, to change the Formula Rate 
+or any of its inputs (including, but not limited to, rate of return and transmission incentive 
+rate treatment), or to replace the Formula Rate with a stated rate, or the right of any other 
+party to request such changes pursuant to Section 206 of the Federal Power Act and the 
+regulations thereunder.  These Protocols in no way limit the rights of DEOK or any 
+Interested Party to initiate a proceeding at the FERC at any time with respect to the 
+Formula Rate or any Annual Update consistent with the party’s full rights under the FPA, 
+including Sections 205, 206 and 306, and the FERC’s regulations. 
+ 
+f. Subject to Section 2.e above, it is recognized that resolution of Formal Challenges 
+concerning Material Accounting Changes or related to the Uniform System of Accounts 
+or FERC Form No. 1 as described above may necessitate adjustments to the Formula 
+Rate input data for the applicable Annual Update or changes to the Formula Rate to 
+achieve a just and reasonable end result consistent with the intent of the Formula Rate. 
+ 
+g. In making or resolving any Preliminary or Formal Challenge under this Section, a party 
+may rely on all information provided by DEOK, including information provided under 
+the terms of a confidentiality agreement or protective order; provided, however, that 
+parties receiving such information pursuant to a confidentiality agreement or protective 
+order shall be bound by the restrictions placed by such agreement or order on disclosure 
+or use of confidential information. 
+ 
+Section 4  Changes to Annual Informational Filings 
+ 
+ 
+ 
+a. Notice.  If any changes are required to be made to the Annual Update, whether 
+because of changes made under these Protocols, due to revisions made to a prior year’s 
+FERC Form No. 1 report of Duke Energy Kentucky, Inc., or Duke Energy Ohio, Inc., or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-22B-DEOK Formula Rate Implem. Protocol 
+Effective Date: 6/1/2018 - Docket #: ER18-1274-000 - Page 8 
+input data used for a Rate Year or calendar year that would have affected the Annual 
+Update for that Rate Year or calendar year, or as the result of any FERC proceeding to 
+consider a prior year’s Annual Update, DEOK shall promptly notify the Interested 
+Parties, file a correction to the Annual Update with the FERC as an amended 
+informational filing describing the change(s) and the cost impact, and provide a copy of 
+the amended informational filing to PJM for prompt posting by PJM. 
+ 
+b. Necessary Changes When Made.  Except as provided for below in Section 4.c, 
+any corrections or revisions to the inputs and resulting rates that are required as a result of 
+a change reported in Section 4.a shall be reflected in the next Annual Update, including 
+any resulting refunds or surcharges for corrected past charges which shall be made with 
+interest as per section 35.19a of the Commission’s regulations. 
+ 
+c. Changes Made During the Review Period.  Unless otherwise agreed by DEOK 
+and the Interested Parties, a correction made under Section 4.a prior to the time 
+determined for filing of a Formal Complaint shall reset the performance dates under 
+Sections 2 and 3 of these Protocols for Interested Party Annual Review, and the revised 
+dates shall run from the posting date(s) for each of the corrections.  The scope of the 
+Annual Review shall then be limited to the aspects of the Formula Rate affected by the 
+corrections. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-23-EP Rock Springs Annual Transmission Rat 
+Effective Date: 2/8/2019 - Docket #: ER19-523-000 - Page 1 

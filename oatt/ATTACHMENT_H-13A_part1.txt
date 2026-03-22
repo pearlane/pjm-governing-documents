@@ -1,0 +1,3113 @@
+[ATTACHMENT H-13A - Part 1 of 3]
+
+Attachment H-13A 
+Commonwealth Edison Company     
+Formula Rate -- Appendix A   Notes FERC Form 1  Page # or Instruction   Year  
+Shaded cells are input cells      
+Allocators           
+        
+ Wages & Salary Allocation Factor      
+1  Transmission Wages Expense   p354-355.21.b    
+        
+2  Total Wages Expense   p354-355.28.b    
+3  Less A&G Wages Expense   p354-355.27.b    
+4  Total Wages Less A&G Wages Expense     (Line 2 - Line 3)    
+        
+5 Wages & Salary Allocator     (Line 1 / Line 4)   % 
+        
+ Plant Allocation Factors      
+6  Electric Plant in Service  (Note B) p204-207.104.g    
+        
+7  Accumulated Depreciation (Total Electric Plant)  (Note J) p219.29.c    
+8  Accumulated Amortization  (Note A) p200-201.21.c    
+9  Total Accumulated Depreciation    (Line 7 + 8)    
+        
+10  Net Plant     (Line 6 - Line 9)    
+        
+11  Transmission Gross Plant   (Line 29 - Line 28)   
+12 Gross Plant Allocator     (Line 11 / Line 6)   % 
+        
+13  Transmission Net Plant   (Line 41 - Line 28)   
+14 Net Plant Allocator     (Line 13 / Line 10)   % 
+        
+Plant Calculations           
+        
+ Plant In Service  (Note X)    
+15  Transmission Plant In Service  (Note B)  p204-207.58.g   
+16 
+ For Reconciliation only - remove New Transmission Plant Additions for Current Calendar Year   For Reconciliation Only Attachment 6a    
+17 
+ New Transmission Plant Additions for Current Calendar Year  (weighted by months in service) (Note B) Attachment 6a    
+18  Total Transmission Plant   (Line 15 - Line 16 + Line 17)   
+        
+19  General   p204-207.99.g   
+20  Intangible   p204-207.5.g   
+21  Total General and Intangible Plant     (Line 19 + Line 20)    
+22     Less:  General Plant Account 397 -- Communications   p204-207.94.g    
+23  General and Intangible Excluding Acct. 397   (Line 21 - Line 22)   
+24  Wage & Salary Allocator   (Line 5)  % 
+25  General and Intangible Plant Allocated to Transmission   (Line 23 * Line 24)    
+26  Account No. 397 Directly Assigned to Transmission     Attachment 5    
+27  Total General and Intangible Functionalized to Transmission  (Line 25 + Line 26)   
+         
+28  Plant Held for Future Use (Including Land)   (Note C) Attachment 5    
+        
+29 Total Plant In Rate Base     (Line 18 + Line 27 + Line 28)    
+        
+ Accumulated Depreciation  (Note X)    
+        
+30  Transmission Accumulated Depreciation  (Note J)  p219.25.c   
+        
+31  Accumulated General Depreciation  (Note J) p219.28.c     
+32  Less: Amount of General Depreciation Associated with Acct. 397 (Note J) Attachment 5    
+33  Balance of Accumulated General Depreciation   (Line 31 - Line 32)   
+34  Accumulated Amortization     (Line 8)    
+35  Accumulated General and Intangible Depreciation Ex. Acct. 397  (Line 33 + 34)   
+36  Wage & Salary Allocator   (Line 5)  % 
+37  Subtotal General and Intangible Accum. Depreciation Allocated to Transmission   (Line 35 * Line 36)    
+38  Percent of Acct. 397 Directly Assigned to Transmission  (Line 26 / Line 22)  % 
+39  Amount of Gen. Depr. Associated with Acct. 397 Directly Assigned to Trans.  (Line 38 * Line 32)   
+        
+40 Total Accumulated Depreciation     (Sum Lines 30,  37 & 39)    
+        
+41 Total Net Property, Plant & Equipment     (Line 29 - Line 40)    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 2 
+Adjustment To Rate Base           
+        
+ Accumulated Deferred Income Taxes      
+42a  Account No. 190 (ADIT)  (Note V) Attachment 1A - ADIT, Line 1   
+42b  Account No. 281 (ADIT - Accel. Amort)  (Note V) Attachment 1A - ADIT, Line 2   
+42c  Account No. 282 (ADIT - Other Property)  (Note V) Attachment 1A - ADIT, Line 3   
+42d  Account No. 283 (ADIT - Other)  (Note V) Attachment 1A - ADIT, Line 4   
+42e  Account No. 255 (Accum. Deferred Investment Tax Credits)  (Note U) Attachment 1A - ADIT   
+42f  Accumulated Deferred Income Taxes Allocated To Transmission   Line 42a + 42b + 42c + 42d + 42e   
+        
+ Unamortized Deficient / (Excess) ADIT      
+42g  Unamortized Deficient / (Excess) ADIT (Federal)  (Note W) Attachment 1B - ADIT Amortization   
+42h  Unamortized Deficient / (Excess) ADIT (State)  (Note W) Attachment 1B - ADIT Amortization   
+42i  Unamortized Deficient / (Excess) ADIT Allocated to Transmission   Line 42g + 42h   
+        
+42j  Adjusted Accumulated Deferred Income Taxes Allocated To Transmission   Line 42f + 42i   
+        
+ CWIP for Incentive Transmission Projects       
+43  CWIP Balances for Current Rate Year    (Note H) Attachment 6a   
+        
+ Prepayments      
+44  Prepayments (excluding Prepaid Pension Asset)  (Note A) Attachment 5   
+        
+ Materials and Supplies      
+45  Stores Expense Undistributed (Account 163)  (Note A) p227.16.c   
+46  Wage & Salary Allocator     (Line 5)   % 
+47  Total Undistributed Stores Expense Allocated to Transmission  (Line 45 * Line 46)   
+48  Transmission Materials & Supplies  (Note T) 
+(p227.8.c + p227.5.c) footnote  
+(Transmission Plant)    
+49  Total Materials & Supplies Allocated to Transmission   (Line 47 + Line 48)    
+        
+ Cash Working Capital      
+50  Operation & Maintenance Expense (excluding Interest Only Return on Prepaid Pension Asset)  (Line 85 - Line 84)   
+51  1/8th Rule     1/8  12.5% 
+52  Total Cash Working Capital Allocated to Transmission   (Line 50 * Line 51)    
+        
+ Network Credits      
+53  Outstanding Network Credits  (Note N) Attachment 5   
+        
+54 Total Adjustment to Rate Base     (Lines 42j + 43 + 44 + 49 + 52 - 53)    
+        
+55 Rate Base    (Line 41 + Line 54)    
+        
+Operations & Maintenance Expense           
+        
+ Transmission O&M      
+56  Transmission O&M   Attachment 5   
+57       Less Account 565   Attachment 5   
+58       Plus Transmission Revenue Requirement of Commonwealth Edison of Indiana booked to Account 565 Attachment 5   
+59       Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 565 (Note O) PJM Data   
+60       Plus Transmission Lease Payments  (Note A) p200-201.4.c   
+61  Transmission O&M     (Lines 56  - 57 + 58 + 59 + 60)    
+        
+ Allocated Administrative & General Expenses      
+62  Total A&G   Attachment 5   
+63      Plus:  Fixed PBOP expense  (Note J)  fixed  
+ 
+7,818,071 
+ 
+64      Less:  Actual PBOP expense   Attachment 5   
+65      Less:  Salaries and Benefits of specified Exelon Corp top executives  Attachment 5   
+66      Less:  Power Procurement Expense   Attachment 5   
+67      Less Property Insurance Account 924   p320-323.185.b   
+68      Less Regulatory Commission Exp Account 928  (Note E) p320-323.189.b    
+69      Less General Advertising Exp Account 930.1   p320-323.191.b    
+70      Less EPRI Dues  (Note D) p352-353    
+71  Administrative & General Expenses     Sum (Lines 62 to 63) -  Sum (Lines 64 to 70)    
+72  Wage & Salary Allocator   (Line 5)  % 
+73  Administrative & General Expenses Allocated to Transmission   (Line 71 * Line 72)    
+ Directly Assigned A&G      
+74  Regulatory Commission Exp Account 928  (Note G) Attachment 5   
+75  General Advertising Exp Account 930.1   (Note K) Attachment 5    
+76  Subtotal - Accounts 928 and 930.1 - Transmission Related  (Line 74 + Line 75)   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 3 
+        
+77  Property Insurance Account 924   (Line 67)   
+78  General Advertising Exp Account 930.1  (Note F) Attachment 5   
+79  Total Accounts 928 and 930.1 - General     (Line 77 + Line 78)    
+80  Net Plant Allocator   (Line 14)  % 
+81  A&G Directly Assigned to Transmission     (Line 79 * Line 80)    
+        
+ Interest on Prepaid Pension Asset      
+82  Prepaid Pension Asset (net of associated ADIT)   Attachment 5   
+83  LTD Cost Rate     (Line 120)   % 
+84  Interest on Prepaid Pension Asset   (Line 82 * Line 83)   
+        
+85  Total Transmission O&M and Interest on Prepaid Pension Asset   (Lines 61 + 73 + 76 + 81 + 84)    
+ 
+Depreciation & Amortization Expense           
+        
+ Depreciation Expense  (Note X)    
+86  Transmission Depreciation Expense Including Amortization of Limited Term Plant (Note J) p336-337.7.b&.c&.d    
+        
+87  General Depreciation Expense Including Amortization of Limited Term Plant (Note J) p336-337.10.b&.c&.d    
+88  Amount of General Depreciation Expense Associated with Acct. 397 (Note J) Attachment 5    
+89  Balance of General Depreciation Expense   (Line 87 - Line 88)   
+90  Intangible Amortization   (Note A) p336-337.1.f    
+91  Total   (Line 89 + Line 90)   
+92  Wage & Salary Allocator     (Line 5)   % 
+93  General Depreciation & Intangible Amortization Allocated to Transmission  (Line 91 * Line 92)   
+94  General Depreciation Expense for Acct. 397 Directly Assigned to Transmission   (Line 88 * Line 38)    
+95  General Depreciation and Intangible Amortization Functionalized to Transmission  (Line 93 + Line 94)   
+        
+        
+96 Total Transmission Depreciation & Amortization    (Lines 86 + 95)    
+        
+Taxes Other than Income Taxes                                                              
+        
+97 Taxes Other than Income Taxes   Attachment 2   
+        
+98 Total Taxes Other than Income Taxes     (Line 97)    
+        
+Return \ Capitalization Calculations           
+        
+ Long Term Interest      
+99  Long Term Interest   Attachment 5   
+100      Less LTD Interest on Securitization Bonds   (Note P) Attachment 8    
+101  Long Term Interest   (Line 99 - Line 100)   
+        
+102 Preferred Dividends   enter positive p118-119.29.c   
+        
+ Common Stock      
+103  Proprietary Capital   p112-113.16.c   
+104      Less Accumulated Other Comprehensive Income Account 219  p112-113.15.c   
+105      Less Preferred Stock   (Line 114)   
+106      Less Account 216.1     p112-113.12.c    
+107  Common Stock   (Line 103 - 104 - 105 - 106)   
+        
+ Capitalization      
+108  Long Term Debt   p112-113.18-21.c   
+109        Less Loss on Reacquired Debt    p110-111.81.c   
+110        Plus Gain on Reacquired Debt   p112-113.61.c   
+111        Less ADIT associated with Gain or Loss   Attachment 1A - ADIT, Line 6   
+112        Less LTD on Securitization Bonds  (Note P) Attachment 8   
+113  Total Long Term Debt     (Line 108 - 109 + 110 - 111 - 112)    
+114  Preferred Stock   p112-113.3.c   
+115  Common Stock   (Line 107)   
+116  Total  Capitalization     (Sum Lines 113 to 115)    
+        
+117  Debt % Total Long Term Debt (Note Q) (Line 113 / Line 116)  % 
+118  Preferred % Preferred Stock  (Line 114 / Line 116)  % 
+119  Common % Common Stock (Note Q) (Line 115 / Line 116)  % 
+        
+120  Debt Cost Total Long Term Debt  (Line 101 / Line 113)   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 4 
+121  Preferred Cost Preferred Stock  (Line 102 / Line 114)   
+122  Common Cost Common Stock (Note J) Fixed  11.50% 
+        
+123  Weighted Cost of Debt Total Long Term Debt (WCLTD)  (Line 117 * Line 120)   
+124  Weighted Cost of Preferred Preferred Stock  (Line 118 * Line 121)   
+125   Weighted Cost of Common Common Stock   (Line 119 * Line 122)    
+126 Rate of Return on Rate Base ( ROR )   (Sum Lines 123 to 125)   
+        
+127 Investment Return = Rate Base * Rate of Return     (Line 55 * Line 126)    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 5 
+Composite Income Taxes                                                                                                                
+  Income Tax Rates      
+128  FIT=Federal Income Tax Rate  (Note I)     
+129  SIT=State Income Tax Rate or Composite  (Note I)     
+130  p (percent of federal income tax deductible for state purposes) Per State Tax Code  % 
+131  T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = 
+1-((1-Line 129)*(1-Line 128)/(1-
+Line 129*Line 225*Line 130))  % 
+132a  T / (1-T)     % 
+132b  Tax Gross-Up Factor 1*1/(1-T)     
+        
+ ITC Adjustment  (Note U)    
+133  Investment Tax Credit Amortization  enter negative Attachment 1A - ADIT    
+        
+134  Tax Gross-Up Factor    (Line 132b)  % 
+135  Net Plant Allocation Factor     (Line 14)  % 
+136  
+ITC Adjustment Allocated to 
+Transmission    (Line 133 * Line 134 * Line 135)    
+        
+ Other Income Tax Adjustment      
+136a  
+Tax Adjustment for AFUDC Equity 
+Component of Transmission Depreciation 
+Expense  (Note R) Attachment 5, Line 136a   
+136b  
+Amortization Deficient / (Excess) 
+Deferred Taxes (Federal) - Transmission 
+Component  (Note R) Attachment 5, Line 136b  % 
+136c  
+Amortization Deficient / (Excess) 
+Deferred Taxes (State) - Transmission 
+Component  (Note R) Attachment 5, Line 136c   
+136d  
+Amortization of Other Flow-Through 
+Items - Transmission Component  (Note R) Attachment 5, Line 136d   
+136e  
+Other Income Tax Adjustments - Expense 
+/ (Benefit)   Line 136a + 136b + 136c + 136d   
+136f  Tax Gross-Up Factor   –(Line 132b)   
+136g  Other Income Tax Adjustment   Line 136e*136f   
+        
+137 Income Tax Component =       (T/1-T) * Investment Return * (1-(WCLTD/ROR)) = [Line 132a * Line 127 * (1- (Line 123 / Line 126))]  
+        
+138 Total Income Taxes     (Line 136 + Line 136g + Line 137)    
+        
+Revenue Requirement          
+ Summary      
+139  Net Property, Plant & Equipment   (Line 41)   
+140  Total Adjustment to Rate Base   (Line 54)   
+141  Rate Base     (Line 55)    
+        
+142  Total Transmission O&M   (Line 85)   
+143  
+Total Transmission Depreciation & 
+Amortization   (Line 96)   
+143A  
+Abandoned Plant Recovery Associated 
+with Superconductor Cable Development 
+Project  (Note S)    
+144  Taxes Other than Income   (Line 98)   
+145  Investment Return   (Line 127)   
+146  Income Taxes   (Line 138)   
+        
+147   Gross Revenue Requirement     (Sum Lines 142 to 146)    
+        
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities    
+148  Transmission Plant In Service   (Line 15)   
+149  Excluded Transmission Facilities   (Note M) Attachment 5    
+150  Included Transmission Facilities   (Line 148 - Line 149)   
+151  Inclusion Ratio   (Line 150 / Line 148)   
+152  Gross Revenue Requirement     (Line 147)    
+153  Adjusted Gross Revenue Requirement   (Line 151 * Line 152)   
+        
+ Revenue Credits & Interest on Network Credits      
+154  Revenue Credits   Attachment 3   
+155  Interest on Network Credits  (Note N) Attachment 5   
+        
+156   Net Revenue Requirement     (Line 153 - Line 154 + Line 155)    
+        
+ Net Plant Carrying Charge      
+157  Gross Revenue Requirement   (Line 152)   
+158  Net Transmission Plant    (Line 15 - Line 30)   
+159  Net Plant Carrying Charge    (Line 157 / Line 158)   
+160  
+Net Plant Carrying Charge without 
+Depreciation   (Line 157 - Line 86) / Line 158   
+161  
+Net Plant Carrying Charge without Depreciation, Return, nor Income 
+Taxes  (Line 157 - Line 86 - Line 127 - Line 138) / Line 158  
+        
+ Net Plant Carrying Charge Calculation per 100 Basis Point increase in ROE    
+162  
+Gross Revenue Requirement Less Return 
+and Taxes   (Line 152 - Line 145 - Line 146)   
+163  Increased Return and Taxes   Attachment 4   
+164  Net Revenue Requirement per 100 Basis Point increase in ROE  (Line 162 + Line 163)   
+165  Net Transmission Plant    (Line 15 - Line 30)   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 6 
+166  Net Plant Carrying Charge per 100 Basis Point increase in ROE  (Line 164 / Line 165)   
+167  
+Net Plant Carrying Charge per 100 Basis Point in ROE without 
+Depreciation  (Line 164 - Line 86) /  Line 165   
+        
+168  Net Revenue Requirement   (Line 156)   
+169  True-up amount   Attachment 6   
+170  
+Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects not paid by other PJM 
+transmission  Attachment 7   
+171  Facility Credits under Section 30.9 of the PJM OATT   Attachment 5    
+172  Net Zonal Revenue Requirement   (Line 168 + 169 + 170 + 171)   
+        
+ Network Zonal Service Rate      
+173  1 CP Peak  (Note L) PJM Data   
+174  Rate ($/MW-Year)   (Line 172 / 173)   
+175   Network Service Rate ($/MW/Year)    (Line 174)    $                                
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - 
+Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 7 
+Notes    
+A Electric portion only    
+B Line 16, for the Reconciliation, includes New Transmission Plant that was actually placed in service as shown on Attachment 6a. 
+ Line 17 includes New Transmission Plant to be placed in service in the current calendar year that is not included in the PJM regional Transmission Plan (RTEP) 
+ 
+(time-weighted) as shown on Attachment 6a.  Transmission plant includes any in-service portion 
+of the plant associated with Phase 1 and 2 of the Superconductor Cable Development Project.    
+C Includes Transmission portion only.  At each annual informational filing, Company will identify for each parcel of land an intended use within a 15 year period. 
+D Includes all EPRI Annual Membership Dues   
+E Includes all Regulatory Commission Expenses    
+F Includes Safety related advertising included in Account 930.1     
+G Includes Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at Page 350-351.h.  
+H CWIP can only be included if authorized by the Commission.  In Docket No. ER14-1708, ComEd requested permission to recover in rate base up to 100% of CWIP associated with the 
+Grand Prairie Project.  All such amounts to be included in rate base will be recorded in Attachment 6.  As directed by the Order granting ComEd's request, 147 FERC ¶ 61,141, P 26 
+(2014), and as documented in ComEd's June 27, 2014 compliance filing, for CWIP amounts that ComEd places in rate base through Attachment 6, ComEd will perform manual 
+adjustments to the account balances in Account 107 to manually exclude non-invoiced expenditures, suspended or disputed invoices, and contract retentions and will impose a 60 day 
+delay so that the amounts are added to rate base after they are to be paid.   
+I The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income 
+taxes”.  If the utility includes taxes in more than one state, it must explain in Attachment 5 the name of each state and how the blended or composite SIT was developed.  
+J ROE will be supported in the original filing and no change in ROE will be made absent a filing at FERC.   
+ PBOP expense is fixed until changed as the result of a filing at FERC.   
+ Depreciation rates shown in Attachment 9 are fixed until changed as the result of a filing at FERC.  
+ If book depreciation rates are different than the Attachment 9 rates, ComEd will provide workpapers at the annual update to reconcile formula 
+ depreciation expense and depreciation accruals to Form No. 1 amounts.   
+K Education and outreach expenses relating to transmission, for example siting or billing   
+L As provided for in Section 34.1 of the PJM OATT; the PJM established billing determinants will not be revised or updated in the annual rate reconciliations. 
+M Amount of transmission plant excluded from rates per Attachment 5.   
+N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments  
+   towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A.  
+   Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmission Owner whole on Line 155. 
+O Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included 
+ in Transmission O&M on Line 56.    If they are booked to Acct 565, they are included on Line 59.  
+P Securitization bonds may be included in the capital structure.   
+  
+Q Equity and debt ratios will be the ratios determined by the actual capital structure and the specified calculation processes of the formula, except that if during the 
+ period May 1, 2007 through May 31, 2009 the formula produces an equity ratio exceeding 58.0%, the formulaic value at Line 119 shall be manually set to 58.0% 
+ and the formulaic value at Line 117 shall be manually set to 42.0% less the percentage shown at Line 118. 
+ If, during the period June 1, 2009 through May 31, 2010, the formula produces an equity ratio exceeding 57.0%, the formulaic value at Line 119 shall be manually 
+ set to 57% and the value at Line 117 shall be manually set to 43.0% less the percentage shown at Line 118. 
+ If, during the period June 1, 2010 through May 31, 2011, the formula produces an equity ratio exceeding 56.0%, the formulaic value at Line 119 shall be manually  
+ set to 56% and the value at Line 117 shall be manually set to 44.0% less the percentage shown at Line 118. 
+ 
+If, during any period following May 31, 2011, the formula produces an equity ratio exceeding 55.0%, the formulaic value at Line 119 shall be manually set to 55.0% 
+and the formulaic value at Line 117 shall be manually set to 45.0% less the percentage shown at Line 118.  
+R See Attachment 5 - Cost Support, section entitled "Other Income Tax Adjustment" for additional information. 
+S 
+ 
+ComEd is authorized to track costs associated with the Phase 1 and 2 of the  Superconductor Cable Development Project, but will recover such costs only after a future Section 205 filing in the 
+event all or a portion of the project is abandoned, at no fault of ComEd, either before or after the Project goes into service. 
+T Only the transmission portion of amounts reported at Form 1, page 227, line 5 is used.  The transmission portion of line 5 is specified in a footnote to the Form 1, page 227. 
+U 
+ 
+Commonwealth Edison Company elected to amortize investment tax credits against recoverable income tax expense, rather than to reduce rate base by unamortized investment tax credit.  
+Amortization reduces income tax expense and reduces the revenue requirement by the amount of the Investment Tax Credit Amortization multiplied by (1/(1-T)). 
+V 
+ 
+The Accumulated Deferred Income Tax (ADIT) balances in Accounts 190, 281, 282, and 283 are measured using the enacted tax rate that is expected to apply when the underlying temporary 
+differences are expected to be settled or realized. See Attachment 1A - ADIT for additional information. 
+W These balances represent the unamortized federal and state deficient / (excess) deferred income taxes.  See Attachment 1B - ADIT Amortization for additional information. 
+X Plant and depreciation values include ARO amounts and associated depreciation consistent with ComEd Form 1.  ComEd has submitted the requisite support for such recovery as provided in 18 
+C.F.R. § 35.18. 
+  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 1 
+ 
+Commonwealth Edison Company 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1A - Accumulated Deferred Income Taxes (ADIT) Worksheet 
+          
+          
+     
+Gas, 
+Production, Only    
+     Distribution, or Transmission Plant  Labor  
+ Line  ADIT   Total  Other Related  Related Related Related            
+ 1 ADIT-190       
+Total entered in Appendix 
+A, Line 42a 
+ 2 ADIT-281       
+Total entered in Appendix 
+A, Line 42b 
+ 3 ADIT-282       
+Total entered in Appendix 
+A, Line 42c  
+ 4 ADIT-283       
+Total entered in Appendix 
+A Line 42d  
+          
+ 5 Subtotal - Transmission ADIT        
+          
+          
+ Line Description   Total      
+          
+ 6 ADIT (Reacquired Debt)        
+          
+  
+  
+ 
+Note: ADIT associated with Gain or Loss on Reacquired Debt included in ADIT-283, Column A is excluded from rate base and instead included in Cost of Debt on Attachment H-13A, Line 111.   A deferred tax 
+(liability) should be reported as a positive balance and a deferred tax asset should be reported as a negative balance on Attachment H-13A, Line 111.  
+ 
+          
+          
+ 
+ 
+ 
+ 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns B - F and each separate ADIT item will be listed, dissimilar items with amounts exceeding 
+$100,000 will be listed separately.  
+          
+  (A)     (B)   (C)   (D)  (E)    (F)  (G) 
+ ADIT-190    Total  
+Gas, 
+Production,  Only     
+     Distribution, or  Transmission   Plant    Labor   
+      Other Related   Related   Related   Related  Justification 
+ 
+        
+ 
+        
+ 
+        
+ 
+         
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 2 
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+         
+ 
+        
+         
+ 
+         
+ 
+         
+ 
+         
+ 
+        
+ 
+        
+ 
+         
+         
+         
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+          
+ 
+        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 3 
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+         
+ 
+         
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+         
+ Subtotal: ADIT-190 (FERC Form)          
+                   
+ Less: ASC 740 ADIT Adjustments excluded from rate base     
+                                     
+-  
+                                     
+-  
+                                      
+-  
+                                      
+-  
+                                      
+-    
+ 
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC     
+                                     
+-  
+                                     
+-  
+                                      
+-  
+                                      
+-      
+ 
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities)     
+                                     
+-  
+                                     
+-  
+                                      
+-  
+                                      
+-  
+                                      
+-    
+ Less: OPEB related ADIT, Above if not separately removed     
+                                     
+-  
+                                     
+-  
+                                      
+-  
+                                      
+-  
+                                      
+-    
+                   
+ Total: ADIT-190            
+              
+ Wages & Salary Allocator          
+ Net Plant Allocator            
+ Transmission Allocator          
+ Other Allocator            
+ ADIT  - Transmission            
+          
+ Instructions for Account 190:        
+ 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer), Production or Distribution Only are directly assigned to Column C  
+ 2.  ADIT items related only to Transmission are directly assigned to Column D        
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E       
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F       
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 4 
+ 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in the 
+formula, the associated ADIT amount shall be excluded.  
+          
+ Attachment 1A - Accumulated Deferred Income Taxes (ADIT) Worksheet        
+          
+          
+  (A)     (B)   (C)   (D)  (E)    (F)  (G) 
+ ADIT- 282    Total  
+Gas, 
+Production,  Only     
+     Distribution, or  Transmission   Plant    Labor   Justification  
+      Other Related      
+ 
+        
+         
+         
+ 
+        
+         
+ 
+         
+ 
+         
+ 
+        
+ 
+        
+ Subtotal: ADIT-282 (FERC Form)          
+              
+ Less: ASC 740 ADIT Adjustments excluded from rate base            
+ Less: ASC 740 ADIT Adjustments related to AFUDC Equity            
+ 
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities)            
+ Less: OPEB related ADIT, Above if not separately removed            
+              
+ Total: ADIT-282            
+              
+ Wages & Salary Allocator          
+ Net Plant Allocator            
+ Transmission Allocator          
+ Other Allocator            
+ ADIT  - Transmission            
+          
+ Instructions for Account 282:        
+ 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer), Production or Distribution Only are directly assigned to Column C  
+ 2.  ADIT items related only to Transmission are directly assigned to Column D        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 5 
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E       
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F       
+  
+ 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in the 
+formula, the associated ADIT amount shall be excluded. 
+ 
+          
+ Attachment 1A - Accumulated Deferred Income Taxes (ADIT) Worksheet        
+          
+          
+  (A)     (B)   (C)   (D)  (E)    (F)  (G) 
+ ADIT-283    Total  
+Gas, 
+Production,  Only     
+     Distribution, or  Transmission   Plant    Labor   
+      Other Related   Related   Related   Related   Justification  
+         
+ 
+  
+       
+         
+ 
+ 
+       
+ 
+  
+       
+          
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+       
+ 
+  
+       
+ 
+ 
+        
+ 
+        
+ 
+        
+ 
+        
+        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 6 
+ 
+ 
+       
+         
+         
+ 
+ 
+       
+ 
+ 
+       
+         
+ 
+ 
+       
+         
+         
+         
+         
+         
+ 
+ 
+       
+         
+         
+ 
+ 
+       
+         
+ 
+  
+       
+         
+ 
+ 
+       
+         
+ Subtotal: ADIT-283 (FERC Form)          
+              
+ Less: ASC 740 ADIT Adjustments excluded from rate base            
+ 
+Less: ASC 740 ADIT Adjustments related to unamortized 
+ITC            
+ 
+Less: ASC 740 ADIT balances related to income tax 
+regulatory assets / (liabilities)            
+ Less: OPEB related ADIT, Above if not separately removed            
+              
+ Total: ADIT-283            
+              
+ Wages & Salary Allocator          
+ Net Plant Allocator            
+ Transmission Allocator          
+ Other Allocator            
+ ADIT  - Transmission            
+          
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 7 
+ Instructions for Account 283:        
+ 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer), Production or Distribution Only are directly assigned to Column C  
+ 2.  ADIT items related only to Transmission are directly assigned to Column D        
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E       
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F       
+  
+ 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in the 
+formula, the associated ADIT amount shall be excluded. 
+ 
+          
+ Attachment 1A - Accumulated Deferred Income Taxes (ADIT) Worksheet        
+          
+          
+ ADITC-255    
+ Unamortized  
+ITC Balance  
+ Current Year  
+Amortization     
+               
+ 1 Rate Base Treatment           
+ 2 
+Account No. 255 (Accum. Deferred 
+Investment Tax Credits)   
+To Appendix A, 
+Line 42e       
+               
+ 3 Amortization         
+  
+ 4 Investment Tax Credit Amortization   
+To Appendix A, 
+Line 133       
+               
+ 5 Total           
+               
+ 6 
+Form No. 1 balance (p.266-267) for 
+amortization           
+               
+ 7 Difference  /1           
+          
+ /1 Difference must be zero        
+          
+END                 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 8 
+ 
+Commonwealth Edison Company 
+Deficient / Excess Deferred Income Taxes 
+Attachment 1B - Deficient / Excess Deferred Income Tax Amortization Worksheet 
+                   
+                   
+  Federal Deficient / (Excess) Deferred Income Taxes 
+                   
+  Tax Cuts and Jobs Act of 2017 
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+  
+ 
+    
+December 31, 
+2017        
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes 
+ 
+Notes 
+ 
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+ 
+Amortization  
+ Fixed 
+Period  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  1   Unprotected Non-Property                                   
+  2  ADIT - 190    (Note A)   410.1   4 Years    $                      $                      -    
+  3  ADIT - 281   (Note A)   411.1   4 Years                              -                                    -    
+  4  ADIT - 282   (Note A)   411.1   4 Years                              -                                    -    
+  5  ADIT - 283   (Note A)   411.1   4 Years                                                 -    
+                       
+  6  Subtotal  - Deficient / (Excess) ADIT         $             $                         -      $                      -      $                      -    
+                   
+  7   Unprotected Property                                   
+  8  ADIT - 190    (Note A)   410.1  
+ Average 
+Life    $                        -            $                      -    
+  9  ADIT - 281   (Note A)   411.1  
+ Average 
+Life                              -                                    -    
+  10  ADIT - 282   (Note A)   411.1  
+ Average 
+Life                                                 -    
+  11  ADIT - 283   (Note A)   411.1  
+ Average 
+Life                              -                                    -    
+                       
+  12  Subtotal  - Deficient / (Excess) ADIT         $             $                         -      $                      -      $                      -    
+                   
+  13   Protected Property                                   
+  14  ADIT - 190    (Note A)   410.1   ARAM    $                                              -    
+  15  ADIT - 281   (Note A)   411.1   ARAM                              -                                    -    
+  16  ADIT - 282   (Note A)   411.1   ARAM                                     -    
+  17  ADIT - 283   (Note A)   411.1   ARAM                              -                                    -    
+                       
+  18  Subtotal  - Deficient / (Excess) ADIT         $           $                         -      $                      -      $                      -    
+                   
+  19  Total  - Deficient / (Excess) ADIT         $           $                         -      $                      -      $                      -    
+                   
+                   
+  Tax Reform Act of 1986  
+                   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 9 
+     (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+       
+September 30, 
+2018        
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes 
+ 
+Notes 
+ 
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+ 
+Amortization  
+ Fixed 
+Period  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  20   Protected Property                                   
+  21  ADIT - 190    (Note B)   410.1   ARAM    $                        -            $                      -    
+  22  ADIT - 281   (Note B)   411.1   ARAM                              -                                    -    
+  23  ADIT - 282   (Note B)   411.1   ARAM                                                   -    
+  24  ADIT - 283   (Note B)   411.1   ARAM                              -                                    -    
+                       
+  25  Subtotal  - Deficient / (Excess) ADIT         $               $                         -      $                      -      $                      -    
+                   
+  26  Total  - Deficient / (Excess) ADIT         $               $                         -      $                      -      $                      -    
+                   
+                   
+  Total Federal Deficient / (Excess) Deferred Income Taxes 
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+               
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes  Notes  
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+   ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  27  ADIT - 190     410.1     $                    $                      -    
+  28  ADIT - 281    411.1                               -                                    -    
+  29  ADIT - 282    411.1                                      -    
+  30  ADIT - 283    411.1                                                 -    
+                    
+  31  Total  - Deficient / (Excess) ADIT  Col. H entered in Appendix A, Line 42g     $           $                         -      $                      -      $                      -                       
+  32  Tax Gross-Up Factor  
+Appendix A, Line 
+132b                         1.0000   
+                     
+1.0000   
+                  
+1.0000                     1.0000                     
+  33  Regulatory Asset / (Liability)         $           $                         -      $                      -      $                      -    
+                   
+                   
+  Federal Income Tax Regulatory Asset / (Liability)  
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+       Blended Dates    
+December 31, 
+2018 
+  
+Line  
+ 
+Regulatory Assets / (Liabilities) 
+ 
+Notes 
+ ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  34  Account 182.3 (Other Regulatory Assets)         $                        -      $                         -      $                      -      $                      -    
+  35  Account 254 (Other Regulatory Liabilities)                                                 -                              -                              -    
+                       
+  36  
+Total  - Transmission Regulatory Asset / 
+(Liability)         $           $                         -      $                      -      $                      -    
+                   
+                   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 10 
+                   
+  State Deficient / (Excess) Deferred Income Taxes 
+                   
+  Illinois (2017 Corporate Rate Change) 
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+         
+September 30, 
+2018   
+December 31, 
+2018 
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes 
+ 
+Notes 
+ 
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+ 
+Amortization  
+ Fixed 
+Period  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  37   Unprotected Non-Property                                   
+  38  ADIT - 190    (Note C)   410.1   4 Years    $                        $                      -    
+  39  ADIT - 281   (Note C)   411.1   4 Years                              -                                    -    
+  40  ADIT - 282   (Note C)   411.1   4 Years                              -                                    -    
+  41  ADIT - 283   (Note C)   411.1   4 Years                                                    -    
+                       
+  42  Subtotal  - Deficient / (Excess) ADIT         $                $                         -      $                      -      $                      -    
+                   
+  43   Unprotected Property                                   
+  44  ADIT - 190    (Note C)   410.1  
+ Average 
+Life    $                        -            $                      -    
+  45  ADIT - 281   (Note C)   411.1  
+ Average 
+Life                              -                                    -    
+  46  ADIT - 282   (Note C)   411.1  
+ Average 
+Life                                                  -    
+  47  ADIT - 283   (Note C)   411.1  
+ Average 
+Life                              -                                    -    
+                       
+  48  Subtotal  - Deficient / (Excess) ADIT         $              $                         -      $                      -      $                      -    
+                   
+  49   Protected Property                                   
+  50  ADIT - 190    (Note C)   410.1   NA    $                        -                                    -    
+  51  ADIT - 281   (Note C)   411.1   NA                              -                                    -    
+  52  ADIT - 282   (Note C)   411.1   NA                              -                                    -    
+  53  ADIT - 283   (Note C)   411.1   NA                              -                                    -    
+                       
+  54  Subtotal  - Deficient / (Excess) ADIT         $                        -      $                         -      $                      -      $                      -    
+                   
+  55  Total  - Deficient / (Excess) ADIT         $              $                         -      $                      -      $                      -    
+                   
+                   
+  Illinois (2011 Corporate Rate Change) 
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+               
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes  Notes  
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+ 
+Amortization  
+ Fixed 
+Period  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  56   Unprotected Non-Property                
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 11 
+                   
+  57  ADIT - 190    (Note D)   410.1   4 Years    $                        $                      -    
+  58  ADIT - 281   (Note D)   411.1   4 Years                              -                                    -    
+  59  ADIT - 282   (Note D)   411.1   4 Years                              -                                    -    
+  60  ADIT - 283   (Note D)   411.1   4 Years                                                 -    
+                       
+  61  Subtotal  - Deficient / (Excess) ADIT         $                   $                         -      $                      -      $                      -    
+                   
+  62   Unprotected Property                                   
+  63  ADIT - 190    (Note D)   410.1  
+ Average 
+Life    $                        -            $                      -    
+  64  ADIT - 281   (Note D)   411.1  
+ Average 
+Life                              -                                    -    
+  65  ADIT - 282   (Note D)   411.1  
+ Average 
+Life                                              -    
+  66  ADIT - 283   (Note D)   411.1  
+ Average 
+Life                              -                                    -    
+                       
+  67  Subtotal  - Deficient / (Excess) ADIT         $                $                         -      $                      -      $                      -    
+                   
+  68   Protected Property                                   
+  69  ADIT - 190    (Note D)   410.1   NA    $                        -                                 -                              -                              -    
+  70  ADIT - 281   (Note D)   411.1   NA                              -                                 -                              -                              -    
+  71  ADIT - 282   (Note D)   411.1   NA                              -                                 -                              -                              -    
+  72  ADIT - 283   (Note D)   411.1   NA                              -                                 -                              -                              -    
+                       
+  73  Subtotal  - Deficient / (Excess) ADIT         $                        -      $                         -      $                      -      $                      -    
+                   
+  74  Total  - Deficient / (Excess) ADIT         $                 $                         -      $                      -      $                      -    
+                   
+                   
+  Total State Deficient / (Excess) Deferred Income Taxes 
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+               
+  
+Line  
+ 
+Deficient / (Excess) Deferred Income Taxes  Notes  
+FERC Account 
+ADIT Deficient / 
+(Excess)  
+Amortization 
+   ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  75  ADIT - 190          $                  $                         -      $                      -      $                      -    
+  76  ADIT - 281    410.1                               -                                 -                              -                              -    
+  77  ADIT - 282    411.1                                               -                              -                              -    
+  78  ADIT - 283    411.1                                                  -                              -                              -    
+                    
+  79  Total  - Deficient / (Excess) ADIT  Col. H entered in Appendix A, Line 42h     $              $                         -      $                      -      $                      -                       
+  80  Tax Gross-Up Factor  
+Appendix A, Line 
+132b                         1.0000   
+                     
+1.0000   
+                  
+1.0000                     1.0000                     
+  81  Regulatory Asset / (Liability)         $              $                         -      $                      -      $                      -    
+                   
+                   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 12 
+  State Income Tax Regulatory Asset / (Liability)  
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+              
+  
+Line  
+ 
+Regulatory Assets / (Liabilities) 
+ 
+Notes  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  82  Account 182.3 (Other Regulatory Assets)         $                        -      $                         -      $                      -      $                      -    
+  83  Account 254 (Other Regulatory Liabilities)                                                  -                              -                              -    
+                       
+  84  
+Total  - Transmission Regulatory Asset / 
+(Liability)         $              $                         -      $                      -      $                      -    
+                   
+                   
+  Federal and State Income Tax Regulatory Asset / (Liability)  
+                   
+  Federal and State Income Tax Regulatory Asset / (Liability) related to Deficient / (Excess) Deferred Income Taxes  
+                   
+    (A)  (B)  (C)  (D)  (E)  (F)  (G)  (H) 
+              
+  
+Line  
+ 
+Regulatory Assets / (Liabilities) 
+ 
+Notes  ADIT 
+Deficient / (Excess)  
+BOY  
+Balance  
+Current Year 
+Amortization  
+EOY  
+Balance                    
+  85  Account 182.3 (Other Regulatory Assets)         $                        -      $                         -      $                      -      $                      -    
+  86  Account 254 (Other Regulatory Liabilities)                                                 -                              -                              -    
+                       
+  87  
+Total  - Transmission Regulatory Asset / 
+(Liability)         $          $                         -      $                      -      $                      -    
+                   
+                   
+                   
+  
+Instruction
+s                                
+                   
+ 
+ 
+ 
+1. For transmission allocated deficient / (excess) accumulated deferred income taxes (ADIT) related to rate change(s) to income tax rates occurring after September 30, 2018, insert new amortization table(s) that delineates the deficient 
+and (excess) ADIT by category (i.e., protected property, unprotected property, and unprotected non-property).  
+ 
+ 
+ 
+2.  Set the amortization period for unprotected property to the average remaining book life and unprotected non-property to 4 years.  The amortization of deficient and excess ADIT designated as protected will be calculated using the 
+Average Rate Assumption Method (ARAM) or a manner that complies with the normalization requirements.  
+ 
+ 
+ 
+3.  Update applicable formulas in the "Total Federal Deficient / (Excess) Deferred Income Taxes" and "Total State Deficient / (Excess) Deferred Income Taxes" sections to ensure appropriate inclusion of deficient / (excess)  ADIT balances 
+related to rate changes occurring after September 30, 2018.  
+ 
+ 
+4.  Insert note explaining the event giving rise to the deficient  / (excess) ADIT including the start and end date for the amortization.  The amortization ceases after the related regulatory asset / liability is drawn down to zero.  
+ 
+                  
+  Notes                                  
+                      
+ A 
+  
+Deficient and (excess) ADIT related to the Tax Cuts and Jobs Act of 2017 (TCJA) will be amortized beginning January 1, 2018 based on the prescribed amortization periods as provided in the Settlement in Docket No. ER19-5 et al.  
+The amortization periods for unprotected property and unprotected non-property related deficient and (excess) ADIT are fixed and cannot be changed without the Commission's express approval except, balances and categorizations 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 13 
+  
+  
+  
+  
+  
+  
+may be changed if required by audit adjustments, amendments to income tax returns, or new IRS guidance.  The amortization of protected property related deficient and (excess) ADIT will be calculated using the Average Rate 
+Assumption Method (ARAM) or a manner that complies with the normalization requirements and may vary by year depending on where each underlying asset resides in its individual life cycle.  The amortization of the unprotected 
+property related deficient and (excess) ADIT will be calculated using the average remaining book life of the underlying assets giving rise to the balances  and may vary by year depending on where each underyling asset resides in its 
+individual life cycle.  The unprotected non-property related deficient and (excess) ADIT will be fully amortized by December 31, 2021. Note - The amortization formula in Column F will change based on where ComEd resides in the 
+amortization cycle. The current year amortization of deficient and (excess) ADIT is recorded in FERC Accounts 410.1 and 411.1. 
+ B 
+  
+  
+The remaining unamortized deficient and (excess) ADIT related to the Tax Reform Act of 1986 will be amortized using the Average Rate Assumption Method (ARAM) as provided in the Settlement in Docket No. ER19-5 et al.  The 
+current year amortization of deficient and (excess) ADIT is recorded in FERC Accounts 410.1 and 411.1. 
+ C 
+  
+  
+  
+  
+  
+  
+  
+The remaining unamortized deficient and (excess) ADIT related to the Illinois "Corporate Rate Increase of 2017" as of September 30, 2018 will be amortized beginning October 1, 2018 based on the prescribed amortization periods as 
+provided in the Settlement in Docket No. ER19-5 et al. The amortization periods for unprotected property and unprotected non-property related deficient and (excess) ADIT are fixed and cannot be changed without the Commission's 
+express approval except, balances and categorizations may be changed if required by audit adjustments or tax return amendments.  The amortization of the unprotected property related deficient and (excess) ADIT will be calculated 
+using the average remaining book life of the underlying assets giving rise to the balances and may vary by year depending on where each underlying asset resides in its individual life cycle.  The unprotected non-property related 
+excess and deficient ADIT will be fully amortized by September 30, 2022.   The unamortized deficient and (excess) state related ADIT including related amortization is reported net of federal taxes.  Note - The amortization formula in 
+Column G will change based on where ComEd resides in the amortization cycle.  The current year amortization of excess and deficient deferred income taxes is recorded in FERC Accounts 410.1 and 411.1.  
+ D 
+The remaining unamortized deficient and (excess) ADIT related to the Illinois "Corporate Rate Increase of 2011" as of September 30, 2018 will be amortized beginning October 1, 2018 based on the prescribed amortization periods as 
+provided in the Settlement in Docket No. ER19-5 et al. The amortization periods for unprotected property and unprotected non-property related deficient and (excess) ADIT are fixed and cannot be changed without the Commission's 
+express approval except, balances and categorizations may be changed if required by audit adjustments or tax return amendments.  The amortization of the unprotected property related deficient and (excess) ADIT will be calculated 
+using the average remaining book life of the underlying assets giving rise to the balances and may vary by year depending on where each underlying asset resides in its individual life cycle.  The unprotected non-property related 
+excess and deficient ADIT will be fully amortized by September 30, 2022.   The unamortized deficient and (excess) state related ADIT including related amortization is reported net of federal taxes.  Note - The amortization formula in 
+Column G will change based on where ComEd resides in the amortization cycle.  The current year amortization of excess and deficient deferred income taxes is recorded in FERC Accounts 410.1 and 411.1.  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 14 
+Commonwealt
+h Edison 
+Company                                
+Accumulated 
+Deferred 
+Income Taxes 
+Remeasureme
+nt                                
+Attachment 
+1C - Deficient 
+/ Excess 
+Deferred 
+Income Taxes 
+Worksheet                                
+                                  
+ Tax Cuts and Jobs Act of 2017 
+                                  
+     
+ADIT - Pre Rate Change 
+(December 31, 2017)  
+ADIT - Post Rate Change 
+(December 31, 2017)  Deficient / (Excess) Deferred Income Taxes (December 31, 2017)   
+ 
+Li
+ne 
+Detailed 
+Descripti
+on 
+Descripti
+on 
+Catego
+ry 
+Federa
+l 
+Gross 
+Timing 
+Differe
+nce 
+Fede
+ral 
+ADIT 
+@ 
+35% 
+Sta
+te  
+AD
+IT 
+FI
+T 
+on 
+SI
+T 
+Tot
+al  
+AD
+IT   
+Federa
+l 
+Gross 
+Timing 
+Differe
+nce 
+Fede
+ral 
+ADIT 
+@ 
+21% 
+Sta
+te  
+AD
+IT 
+FI
+T 
+on 
+SI
+T 
+Tot
+al  
+AD
+IT   
+Rate 
+Chan
+ge  
+Defer
+red 
+Tax 
+Impa
+ct   
+Non-
+Recover
+able   
+Income 
+Tax  
+Regulat
+ory  
+Asset / 
+Liabilit
+y  
+Deferre
+d 
+Taxes   
+Defici
+ent / 
+(Exce
+ss) 
+ADIT 
+Balan
+ce   
+Jurisdicti
+on  
+Allocator   
+Electric 
+Transmis
+sion   
+Alloc
+ator 
+(Note 
+B)   
+Transmis
+sion 
+Allocate
+d   
+FERC 
+Acco
+unt 
+  (A) (B) (C) (D) 
+(E) = 
+(D) * 
+35% (F) 
+(G
+) = 
+(F) 
+* 
+35
+% 
+(H) 
+= 
+(E) 
++ 
+(F) 
++ 
+(G)  (I) 
+(J) = 
+(I) * 
+21% (K) 
+(L) 
+= 
+(K
+) * 
+21
+% 
+(M) 
+= 
+(J) 
++ 
+(K) 
++ 
+(L)  
+(N) = 
+(H) - 
+(M)  (O)  (P)  
+(Q) = 
+(N) - 
+(O) - 
+(P)  (R)  (S)  (T)  
+(U) = (Q) 
+* (T)  (V) 
+                                  
+  
+FERC 
+Account 
+190 - 
+Non-
+Current 
+(Note A)                                
+ 1 
+ Accrued 
+Holiday  
+ Accrued 
+Holiday  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 15 
+ 2 
+ Accrued 
+Legal  
+ Accrued 
+Legal  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    No   0.00%    190 
+ 3 
+ Accrued 
+Vacation  
+ Accrued 
+Vacation  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 4 
+ 
+Charitabl
+e 
+Contributi
+ons  
+ 
+Charitabl
+e 
+Contributi
+ons  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 5 
+ CPS 
+Energy 
+Efficiency 
+Fund  
+ CPS 
+Energy 
+Efficiency 
+Fund  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 6 
+ Damage 
+to 
+Company 
+Property  
+ Damage 
+to 
+Company 
+Property  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 7 
+ Deferred 
+Gain - 
+Like Kind 
+Exchang
+e  
+ Deferred 
+Gain - 
+Like Kind 
+Exchang
+e  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 8 
+ Deferred 
+Gain - 
+Like Kind 
+Exchang
+e  
+ Deferred 
+Gain - 
+Like Kind 
+Exchang
+e  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 9 
+ Deferred 
+Rental 
+Expense  
+ Deferred 
+Rental 
+Expense  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 10 
+ Deferred 
+Rental 
+Expense  
+ Deferred 
+Rental 
+Expense  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 16 
+ 11 
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    190 
+ 12 
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    190 
+ 13 
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Environm
+ental 
+Cleanup 
+Costs - 
+Non-
+MGP 
+(Mfg Gas 
+Plants)  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    190 
+ 14 
+ 
+Executive 
+Uninsure
+d Death 
+Benefits 
+after 
+Retireme
+nt  
+ 
+Executive 
+Uninsure
+d Death 
+Benefits 
+after 
+Retireme
+nt  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 15 
+ Incentive 
+Compens
+ation 
+Deferred 
+Stock 
+Bonus 
+Plan  
+ Incentive 
+Compens
+ation 
+Deferred 
+Stock 
+Bonus 
+Plan  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 16 
+ Incentive 
+Compens
+ation 
+Plan  
+ Incentive 
+Compens
+ation 
+Plan  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 17 
+ Interest 
+on 
+Projected 
+Tax 
+Settleme
+nts  
+ Interest 
+on 
+Projected 
+Tax 
+Settleme
+nts  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 18 
+ Interest 
+on 
+ Interest 
+on 
+ 
+Unprote                      Excluded    No   0.00%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 17 
+Projected 
+Tax 
+Settleme
+nts  
+Projected 
+Tax 
+Settleme
+nts  
+cted 
+Non-
+Propert
+y  
+ 19 
+ Liability 
+for 
+Severanc
+e Plans  
+ Liability 
+for 
+Severanc
+e Plans  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 20 
+ Long-
+Term 
+Debt - 
+Revaluati
+on of 
+Discount  
+ Long-
+Term 
+Debt - 
+Revaluati
+on of 
+Discount  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 21 
+ Long-
+Term 
+Incentive 
+- Cash  
+ Long-
+Term 
+Incentive 
+- Cash  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 22 
+ Long-
+Term 
+Incentive 
+- Cash  
+ Long-
+Term 
+Incentive 
+- Cash  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 23 
+ Long-
+Term 
+Incentive 
+- Cash  
+ Long-
+Term 
+Incentive 
+- Cash  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 24 
+ 
+Manage
+ment 
+Deferred 
+Compens
+ation 
+Plan  
+ 
+Manage
+ment 
+Deferred 
+Compens
+ation 
+Plan  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 25 
+ 
+Manufact
+ured Gas 
+Plants - 
+Provision  
+ 
+Manufact
+ured Gas 
+Plants - 
+Provision  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 26 
+ Merger 
+Costs  
+ Merger 
+Costs  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 27 
+ Midwest 
+Generatio
+n 
+ Midwest 
+Generatio
+n 
+ 
+Unprote
+cted                      Excluded    No   0.00%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 18 
+Settleme
+nt Asset  
+Settleme
+nt Asset  
+Non-
+Propert
+y  
+ 28 
+ Obsolete 
+Materials  
+ Obsolete 
+Materials  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 29 
+ Other 
+Accrued 
+Expenses  
+ Other 
+Accrued 
+Expenses  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 30 
+ Other 
+Current  
+ Other 
+Current  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 31 
+ Other 
+Current  
+ Other 
+Non 
+Current  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 32 
+ 
+Partnersh
+ips  
+ 
+Partnersh
+ips  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 33 
+ 
+Partnersh
+ips  
+ 
+Partnersh
+ips  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 34 
+ 
+Partnersh
+ips  
+ 
+Partnersh
+ips  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 35 
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    No   0.00%    190 
+ 36 
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ 
+Unprote
+cted 
+Non-                      Labor    No   0.00%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 19 
+Propert
+y  
+ 37 
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ Post 
+Retireme
+nt Health 
+Care 
+Liability  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    No   0.00%    190 
+ 38 
+ Provision 
+for Bad 
+Debt  
+ Provision 
+for Bad 
+Debt  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Revenue    Yes   0.00%    190 
+ 39 
+ Public 
+Utility 
+Fund 
+Contributi
+on  
+ Public 
+Utility 
+Fund 
+Contributi
+on  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 40 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Transmis
+sion  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Transmis
+sion  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 41 
+ Revenue 
+Subject 
+to Refund  
+ Revenue 
+Subject 
+to Refund  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    190 
+ 42 
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 43 
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 44 
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ Stock 
+Options; 
+Other 
+Equity 
+Based 
+Compens
+ation  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 45 
+ 
+Supplem
+ 
+Supplem
+ 
+Unprote                      Labor    Yes   
+13.61
+%    190 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 20 
+ental 
+Employe
+e 
+Retireme
+nt Plan  
+ental 
+Employe
+e 
+Retireme
+nt Plan  
+cted 
+Non-
+Propert
+y  
+ 46 
+ Taxes 
+Other 
+Than 
+Income 
+Taxes  
+ Taxes 
+Other 
+Than 
+Income 
+Taxes  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 47 
+ Use Tax 
+Adjustme
+nt  
+ Use Tax 
+Adjustme
+nt  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 48 
+ Use Tax 
+Adjustme
+nt  
+ Use Tax 
+Adjustme
+nt  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 49 
+ Workers 
+Compens
+ation and 
+Public 
+Claims 
+Reserve  
+ Workers 
+Compens
+ation and 
+Public 
+Claims 
+Reserve  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    190 
+ 50 
+ Federal 
+NOL  
+ Federal 
+NOL  
+ 
+Protecte
+d 
+Propert
+y                       Plant    Yes   
+23.34
+%    190 
+ 51 
+ Federal 
+NOL  
+ Federal 
+NOL  
+ 
+Protecte
+d 
+Propert
+y                       Excluded    No   0.00%    190 
+ 52 
+ Gross 
+Up 
+Reclass  
+ Gross 
+Up 
+Reclass   N/A                       N/A    No   0.00%    190 
+ 53 
+ FAS 109 
+- TCJA  
+ FAS 109 
+- TCJA   N/A                       N/A    No   0.00%    190 
+  
+ Total 
+FERC 
+Account 
+190                                 
+                                  
+  
+FERC 
+Account 
+282 - 
+Property 
+(Note A)                                
+ 54 
+ 
+Protected 
+ 
+Protected 
+ 
+Protecte                      Plant    Yes   
+23.34
+%    282 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 21 
+Property 
+(PowerTa
+x)  
+Property 
+(PowerTa
+x)  
+d 
+Propert
+y  
+ 55 
+ Non-
+Protected 
+Property 
+(PowerTa
+x) - Plant  
+ Non-
+Protected 
+Property 
+(PowerTa
+x)  
+ 
+Unprote
+cted 
+Propert
+y                       Plant    Yes   
+23.34
+%    282 
+ 56 
+ Non-
+Protected 
+Property 
+(PowerTa
+x) - 
+Transmis
+sion  
+ Non-
+Protected 
+Property 
+(PowerTa
+x)  
+ 
+Unprote
+cted 
+Propert
+y                      
+ 100% 
+Transmiss
+ion    Yes   
+100.0
+0%    282 
+ 57 
+ Non-
+Protected 
+Property 
+(PowerTa
+x) - 
+Distributi
+on  
+ Non-
+Protected 
+Property 
+(PowerTa
+x)  
+ 
+Unprote
+cted 
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    282 
+ 58 
+ Gross 
+Up 
+Reclass  
+ Gross 
+Up 
+Reclass   N/A                       N/A    No   0.00%    282 
+ 59 
+ FAS 109 
+- TCJA  
+ FAS 109 
+- TCJA   N/A                       N/A    No   0.00%    282 
+ 60 
+ FIN 48 & 
+Other 
+Adjustme
+nt  
+ FIN 48 & 
+Other 
+Adjustme
+nt   N/A                       N/A    No   0.00%    282 
+  
+ Total 
+FERC 
+Account 
+282                                 
+                                  
+  
+FERC 
+Account 
+283 - 
+Non-
+Current 
+(Note A)                                
+ 61 
+ 
+Accelerat
+ed Depr 
+AMI - 
+Related 
+to Reg 
+Assets  
+ 
+Accelerat
+ed Depr 
+AMI - 
+Related 
+to Reg 
+Assets  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    283 
+ 62 
+ Accrued 
+Benefits  
+ Accrued 
+Benefits  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    283 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 22 
+ 63 
+ Loss on 
+Reacquir
+ed Debt  
+ Loss on 
+Reacquir
+ed Debt  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    No   0.00%    283 
+ 64 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: AMP 
+- Other 
+Costs  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: AMP 
+- Other 
+Costs  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 65 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: AMP 
+- retired 
+meters 
+and AMI 
+costs  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: AMP 
+- retired 
+meters 
+and AMI 
+costs  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    283 
+ 66 
+ Deferred 
+Gain - 
+Sale of 
+Easemen
+t  
+ Deferred 
+Gain - 
+Sale of 
+Easemen
+t  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Plant    Yes   
+23.34
+%    283 
+ 67 
+ Deferred 
+Revenue 
+- Fiber 
+Optics 
+Lease  
+ Deferred 
+Revenue 
+- Fiber 
+Optics 
+Lease  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 
+Communi
+cation    No   0.00%    283 
+ 68 
+ Equity 
+Earnings 
+in Uncon 
+Sub  
+ Equity 
+Earnings 
+in Uncon 
+Sub  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 69 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Energy 
+Efficiency  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Energy 
+Efficiency  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 70 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: MGP-
+Environm
+ental 
+Remediat
+ion  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: MGP-
+Environm
+ental 
+Remediat
+ion  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 23 
+ 71 
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    283 
+ 72 
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    283 
+ 73 
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    283 
+ 74 
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ Pension 
+Contributi
+on - Net 
+of Book 
+Provision 
+9.5%  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Labor    Yes   
+13.61
+%    283 
+ 75 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 76 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: MGP-
+Environm
+ental 
+Remediat
+ion  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: MGP-
+Environm
+ental 
+Remediat
+ion  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 77 
+ Reg 
+Asset - 
+Capital 
+Leases  
+ Reg 
+Asset - 
+Capital 
+Leases  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 78 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    283 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 24 
+Deferred 
+(A-Base)  
+Deferred 
+(A-Base)  
+ 79 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+Deferred 
+(Merger)  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+Deferred 
+(Merger)  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    283 
+ 80 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+Deferred 
+(Storm)  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on: Other 
+Deferred 
+(Storm)  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                      
+ 100% 
+Distributio
+n    No   0.00%    283 
+ 81 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on 
+Formula 
+Rate  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on 
+Formula 
+Rate  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 82 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on 
+Formula 
+Rate  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on 
+Formula 
+Rate  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 83 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 84 
+ 
+Regulator
+y 
+(Asset)/Li
+ab: Rider 
+UF  
+ 
+Regulator
+y 
+(Asset)/Li
+ab: Rider 
+UF  
+ 
+Unprote
+cted 
+Non-
+Propert
+y                       Excluded    No   0.00%    283 
+ 85 
+ 
+Regulator
+y 
+ 
+Regulator
+y 
+ 
+Unprote
+cted                      Excluded    No   0.00%    283 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-13A - Commonwealth Edison Company 
+Effective Date: 1/1/2026 - Docket #: ER25-3428-000 - Page 25 
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+(Asset)/Li
+ab: 
+Distributi
+on Rate 
+Case 
+Matters  
+Non-
+Propert
+y  
+ 86 
+ Chicago 
+Arbitratio
+n 
+Settleme
+nt  
+ Chicago 
+Arbitratio
+n 
+Settleme
+nt  
+ 
+Unprote
+cted 

@@ -1,0 +1,271 @@
+ATTACHMENT M-1 (FirstEnergy Zones) 
+  FirstEnergy Procedure for Determining a 
+Load Serving Entity’s Hourly Energy Obligations 
+ 
+Purpose 
+ 
+The purpose of this Attachment M-1 is to give PJM members serving load in a FirstEnergy 
+Zone(s) the understanding of how each hour of an operating day’s Total Hourly Energy 
+Obligation (“THEO”) is developed, in accordance with the PJM Open Access Transmission 
+Tariff, the PJM Operating Agreement, Reliability Assurance Agreement or other relevant PJM 
+documents (the “PJM Documents”) and submitted to PJM.  Attachment M-1 pertains to both 
+wholesale and retail Load Serving Entities (“LSEs”) serving load in the following FirstEnergy 
+Electric Distribution Companies (“EDC”) Zones (the “FirstEnergy Zones”):  Ohio Edison 
+Company, The Toledo Edison Company, The Cleveland Electric Illuminating Company 
+(together “ATSI Ohio”), FirstEnergy Pennsylvania Electric Company (“FE PA”) operating in the 
+separate ATSI, Penelec, MetEd, and Allegheny Power PJM transmission zones, Jersey Central 
+Power & Light Company (“JCP&L”), Monongahela Power Company (“Mon Power”) and The 
+Potomac Edison Company (“Potomac Edison MD” and “Potomac Edison WV”).  Attachment 
+M-1 is not intended to supersede or replace any contractual arrangement(s) between FirstEnergy 
+(or its affiliated FirstEnergy EDC) and the applicable LSE that otherwise governs the 
+calculations.  Such contractual arrangement(s) shall prevail unless silent on a particular issue or 
+calculation. 
+ 
+Attachment M-1 is divided into three main sections.  The first section titled “Terms” defines 
+terms specific to this Attachment M-1 that are not found in the PJM Documents.  The second 
+section titled “Wholesale” describes processes for determining the THEO for wholesale LSEs 
+such as municipal electric utilities or electric cooperatives.  The final section titled “Retail” 
+describes processes for determining the THEO for retail LSEs such as retail generation service 
+providers serving retail customers or retail suppliers providing provider of last resort services. 
+ 
+FirstEnergy performs the THEO calculation and subsequently uploads this data to PJM systems 
+(such as PJM’s InSchedule eSuite application or its successor) on behalf of retail LSEs and 
+wholesale LSEs serving load in each FirstEnergy Zone, unless otherwise agreed.  
+ 
+Questions concerning the methodologies described in this Attachment M-1 may be submitted by 
+visiting the Supplier Support section of the FirstEnergy corporate website located here: 
+https://www.firstenergycorp.com/supplierservices.   
+ 
+Section I:  Terms 
+ 
+Unaccounted for Energy – Energy that is remaining after comparing:  (a) the FirstEnergy Zone 
+load determined by summing physical generation delivered to a FirstEnergy Zone plus net 
+imports/exports of energy into/out of a FirstEnergy Zone to:  (b) the sum of all wholesale and 
+retail customers’ metered load, whether interval metered or estimated, including contractual or 
+otherwise mutually agreed upon losses, as specified herein or as otherwise filed with FERC, in 
+any given hour.  Unaccounted for Energy is not allocated to wholesale LSEs unless otherwise 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-1 (FirstEnergy Zones) 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 2 
+specified in their contracts/agreements with FirstEnergy.  The methodology for determining 
+Unaccounted for Energy for an LSE providing service to retail customers receiving distribution 
+service from a FirstEnergy EDC shall be set forth in state-approved retail tariffs. 
+ 
+Losses – The following loss factors shall apply for each FirstEnergy Zone.  Loss factors will be 
+applied according to location (FirstEnergy Zone) and service voltage of each meter point.  For 
+wholesale LSEs, all of the loss factors specified herein shall apply, unless otherwise established 
+by contract and filed with FERC.  For retail LSEs, the Transmission Load loss factors specified 
+herein shall apply, however for lower service voltages, the loss factors specified in state-
+approved retail tariffs shall apply.     
+ 
+Service Voltage ATSI Ohio  FE PA 
+(Penn 
+Power, 
+ATSI Zone) 
+ 
+FE PA 
+(MetEd 
+Zone) 
+FE PA 
+(Penelec 
+Zone) 
+JCP&L 
+Transmission Load 1.01486 1.01486 1.02100 1.04070 1.03900 
+Subtransmission Source 1.02786 1.02786    
+Subtransmission Load 1.02886 1.02886    
+Primary Load 1.05786 1.05786 1.03740 1.06060 1.06100 
+Secondary Load 1.09486 1.08960 1.07180 1.09450 1.11800 
+ 
+Service Voltage FE PA (West Penn 
+Power, Allegheny 
+Power Zone) 
+Potomac Edison 
+MD 
+Potomac Edison 
+WV 
+Mon Power 
+Transmission Load 1.02184 1.02245 1.02245 1.02233 
+Subtransmission Source   1.02646  
+Subtransmission 
+w/Tran Charge 
+1.04282    
+Subtransmission Load 1.03578 1.03742 1.03807 1.03390 
+Primary Source   1.03070 1.03378 
+Primary Load 1.06383 1.07542 1.07691 1.06071 
+Secondary Load 1.09434 1.09513 1.09705 1.09033 
+ 
+Transmission Load - For Mon Power, Potomac Edison MD, Potomac Edison WV and FE PA 
+(West Penn Power, Allegheny Power Zone), 138 kV and above.  For JCP&L and FE PA 
+(Penelec and MetEd Zones), 34.5 kV and above.  For ATSI Ohio and FE PA (Penn Power, ATSI 
+Zone), 69 kV and above. 
+ 
+Substransmission Source - For Potomac Edison WV, ATSI Ohio and FE PA (Penn Power, ATSI 
+Zone), service at source of subtransmission bus. 
+ 
+Subtransmission w/Tran Charge - For FE PA (West Penn Power, Allegheny Power Zone), 
+service on low side of subtransmission to primary transformer.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-1 (FirstEnergy Zones) 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 3 
+Subtransmission Load - For Mon Power, Potomac Edison MD, Potomac Edison WV, and FE PA 
+(West Penn Power, Allegheny Power Zone), 23 kV to 69 kV.  For ATSI Ohio and FE PA (Penn 
+Power, ATSI Zone), 23 kV to 34.5 kV. 
+ 
+Primary Source - For Mon Power and Potomac Edison WV, service at source of primary bus. 
+ 
+Primary Load - For Mon Power, Potomac Edison MD, Potomac Edison WV, FE PA (West Penn 
+Power, Allegheny Power Zone; and Penn Power, ATSI Zone), and ATSI Ohio, 1 kV to 15 kV.  
+For FE PA (Penelec and MetEd Zones) and JCP&L, 1 kV to 34.5 KV. 
+ 
+Secondary Load - For all FirstEnergy EDC Zones, below 1 kV. 
+ 
+Section II:  Wholesale  
+ 
+The FirstEnergy EDCs are required to determine the THEO for each wholesale LSE operating in 
+their respective FirstEnergy Zones and submit this information to PJM per practices under the 
+PJM Documents.  The following procedures and methodologies describe how THEO is 
+determined. 
+ 
+Note:  A wholesale LSE’s THEO is determined in accordance with current and approved 
+contractual obligations between FirstEnergy EDCs and the respective wholesale LSE.  Should 
+the current and approved agreements be silent on procedural matters regarding the determination 
+and submittal of a wholesale LSE’s THEO, the PJM Documents shall be used to establish such 
+procedures including those outlined below. 
+ 
+FirstEnergy uses the following equation to determine a wholesale LSE’s THEO in a FirstEnergy 
+Zone.  If the wholesale LSE serves load in more than one FirstEnergy Zone, the THEO is 
+determined separately for each FirstEnergy Zone. 
+ 
+       n 
+  THEO = ∑ (Wholesale LSE’s Interconnection Hourly Meter Reading  * (1.0 + Applicable Loss Factor)) 
+              x=1 
+where: 
+ 
+ THEO = The wholesale LSE’s hourly energy consumption in any given hour of the 
+previous operating day in a FirstEnergy Zone 
+ 
+ x = A specific Meter* included in the determination of the wholesale LSE’s hourly 
+energy consumption in a FirstEnergy Zone 
+ 
+ n = The total number of Meters aggregated to determine the wholesale LSE’s THEO 
+  
+*  For purposes of this document, the term “Meter” refers to the billing quality metering devices 
+and related equipment owned by FirstEnergy and/or the wholesale LSE, located at or near the 
+interconnection point (the “Interconnection”) between the FirstEnergy distribution or 
+transmission system and the wholesale LSE system, and used to measure the wholesale LSE’s 
+THEO. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-1 (FirstEnergy Zones) 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 4 
+ 
+Wholesale LSE’s Interconnection Hourly Meter Reading (WIMR) = The quantity of 
+energy consumed by the wholesale LSE at an individual wholesale LSE’s Interconnection as 
+shown on the Meter in a given hour, with an adjustment for certain behind-the-meter generation 
+if applicable.  Specifically, WIMR shall equal the actual interconnection point meter readings of 
+the wholesale LSE plus the metered output of any generation resources that met all of the 
+following three criteria during the given hour: (1) the resource was operating behind the 
+interconnection meter, (2) the resource was participating in PJM markets or other wholesale 
+markets, and (3) the output of the resource was wheeled across the wholesale LSE’s system to 
+the FirstEnergy distribution or transmission system. 
+ 
+Applicable Loss Factor (ALF) = The contractually or otherwise mutually determined loss 
+factor as specified herein or as otherwise filed with FERC in effect to account for losses across 
+the applicable distribution and transmission system to the LSE’s system.   
+ 
+In the case where the actual WIMR is not obtained by FirstEnergy from one or more of the 
+Meters in time to use in the calculation of the wholesale LSE’s THEO, FirstEnergy will use an 
+estimated WIMR in place of an actual WIMR for any missing hour(s) of Meter data. 
+ 
+The derivation of an estimated WIMR will be determined on a case-by-case basis and be 
+dependent on the reason for and the duration of the event triggering the need for an estimated 
+WIMR.  FirstEnergy’s WIMR methodology will take into account appropriate variables such as 
+the history of the Interconnection Meter readings; load growth; the season of the year; 
+temperature and any other variable(s) that could significantly affect the accuracy of the WIMR. 
+ 
+The following chart illustrates possible cases and outcomes of using this methodology to 
+estimate the WIMR to be provided to PJM.  The methodology used to generate a WIMR in a 
+particular case is dependent on the reason the actual WIMR was not received. 
+ 
+Case Reason Primary (Day After) 
+Reconciliation Estimate 
+Secondary (60-Day) 
+Reconciliation Estimate 
+1 Short-term communication outage 
+(<59 days) 
+Profile generated in FE 
+Settlement System* 
+Not applicable if actual 
+Meter data received 
+2 Long-term communication error 
+(>=59 days) 
+Profile generated in FE 
+Settlement System* 
+Not applicable if actual 
+Meter data received via 
+handheld device or 
+manual entry 
+3 Short-term Meter/metering 
+equipment malfunction (< 59 days) 
+Profile generated in FE 
+Settlement System* 
+Estimate in Meter Data 
+Management System* 
+4 Long-term Meter/metering equipment 
+malfunction (>= 59 days) 
+Estimate in Meter Data 
+Management System* 
+Estimate in Meter Data 
+Management System* 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-1 (FirstEnergy Zones) 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 5 
+*  If the FE Settlement or Data Management System(s) data are not available or may not be 
+accurate, data obtained from the wholesale LSE’s Meter, SCADA or other accurate source will 
+be used.  Regardless of estimating methodology or data source, FirstEnergy will coordinate the 
+estimate(s) of the wholesale LSE’s THEO with the affected wholesale LSE. 
+ 
+ 
+Section III: Retail  
+ 
+The THEO for an LSE providing service to retail customers receiving distribution service from a 
+FirstEnergy EDC shall adhere to the following: 
+ 
+A. Where retail customers are interval metered and interval meter data is used for retail 
+billing, interval meter data will be utilized for the THEO calculations. 
+ 
+B. Where interval meter readings are not received in time for PJM settlement deadlines, 
+estimates will be developed using customer specific profiles. 
+ 
+C. Where retail customers do not have installed interval metering or use interval metering 
+for billing, profiles will be utilized to distribute load into hourly values spanning the retail 
+customer’s billing period. 
+ 
+D. All retail customer load will be grossed up for applicable transmission and distribution 
+losses. 
+ 
+E. Unaccounted For Energy for each hour will be allocated to LSEs based on their load ratio 
+share of metered load, unless such approach is prohibited by the applicable regulatory 
+body.  The FirstEnergy EDC will provide monthly, on an informational basis, the 
+Unaccounted For Energy hourly percentages that were applied to LSEs’ hourly loads.  
+ 
+FirstEnergy does not determine the THEO for retail consumers of wholesale LSEs like municipal 
+electric utilities and electric cooperatives.   
+ 
+Additional implementation details related to the determination of the THEO for retail LSEs and 
+the process for submitting data for sub-account customers will be provided in the manual titled 
+"Supplier Energy Obligation" posted under the "Supplier Registration" tab of the Supplier 
+Support section of the FirstEnergy corporate website located here: 
+https://www.firstenergycorp.com/supplierservices.  The Manual may reflect differences based on 
+the state utility commission requirements applicable to each FirstEnergy EDC, to the extent such 
+requirements are not inconsistent with the requirements stated in this Attachment M-1. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (FirstEnergy Zones) 
+Effective Date: 1/1/2024 - Docket #: ER24-284-000 - Page 1 

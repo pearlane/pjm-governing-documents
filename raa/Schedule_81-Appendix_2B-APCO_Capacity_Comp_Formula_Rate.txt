@@ -1,0 +1,502 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 6 
+  
+GSU DETAILS (Lns 2 and 9 above)     PRODUCTION   
+  Reference Amounts (1) Reference Amount (2) Demand(3) Energy (4) 
+13. GROSS PLANT IN SERVICE       
+14. Plant in Service (Note C) WP6a. L.11 $ WP6a. L.11 $ $ $ 
+15. GUS Plant in Service (Note C) P.3 L.1, Col (2)   $ $ $ 
+16. Total Plant in Service (Note C_ L.14 + L.15   $ $ $ 
+17. ACCUMULATED PROVISION FOR DEPRECIATION     
+18. Accumulated Prov. For 
+Depreciations (Note D) 
+WP6b, L.7 $ WP6b $ $ $ 
+19. GSU Accumulated Prov. 
+Depreciation (Note D) 
+WP16    $ $ $ 
+20 Total Accumulated Depreciation 
+(Note D) 
+L.18 + L.19   $ $ $ 
+    Appendix 2 
+     Page 6 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+PLANT IN SERVICE, ACCUMULATED DEPRECIATION AND ADIT 
+12 Months Ending 12/31/#### 
+     
+  System  PRODUCTION 
+  Reference Amount Reference Amount Demand Energy 
+    (1)  (2) (3) (4) 
+ 1. GROSS PLANT IN SERVICE (Note A)           
+ 2. Plant in Service (Note C)          
+  Line 16 $ Line 16 $ $ $ 
+ 3. Allocated General & Intangible Plant     
+P.7, Col(3)-(5), 
+L.25      
+       $ $ $ 
+ 4. Total L.2 + L.3 $  $ $ $ 
+  Note A      % % 
+ 5.      Col.(2), L.4 $ $ $ 
+ 6.      Col.(1), L.4 $ $ $ 
+ 7. General & Intangible Plant Allocator   % L.5/L.6 % % % 
+ 8. 
+ACCUMULATED PROVISION FOR 
+DEPRECIATION           
+         (Note A)           
+ 9. Plant in Service (Note D)  Line 20 $ Line 20 $ $ $ 
+10. Allocated General Plant   $ Note B $ $ $ 
+11. Total L.9 + L.10    $ $ $ 
+12. ACCUMULATED DEFERRED TAXES (Note A) (Note E) $ P.6a, L.52 $ $ $ 
+Note A: Excludes ARO amounts.      
+Note B: (% From P.7, Col.(3), L.29)       
+Note C: Includes Generator Step-Up Transformers and Other Generation related investments previously included in the transmission accounts 
+Note D: Includes Accumulated Depreciation associated with the Generator Step-Up Transformers and Other Generation investments. 
+Note E: WP8a, WP8ai       
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 7 
+  
+       Appendix 2 
+       Page 6a 
+APPALACHIAN POWER COMPANY 
+BLANK FORMUAL RATE TEMPLATE 
+PRODUCTION RELATED ADIT 
+12 Months Ending 12/31/#### 
+     
+100% 
+Production 
+100% 
+Production  
+ 
+Acc
+ount Description 
+Year End 
+Balance Exclusions 
+(Energy 
+Related) 
+(Demand 
+Related) Labor 
+1.  190   Excluded Items   $   $     
+2.  190   100% Production (Energy)   $    $    
+3.  190   100% Production (Demand)   $     $   
+4.  190   Labor Related   $      $  
+5.  190   Total   $   $   $   $   $  
+6.    Production Allocation   % % % % 
+7.    (Gross Plant or Wages/Salaries)    $   $   $   $  
+8.    Demand Related     $   $   $  
+9.   Energy Related     $   $   $  
+10.    Note A     Direct   Direct  P.7, Note B  
+11.  281   Excluded Items   $   $     
+12.  281   100% Production (Energy)   $    $    
+13.  281   100% Production (Demand)   $     $   
+14.  281   Labor Related   $      $  
+15.  281   Total   $   $   $   $   $  
+16.    Production Allocation   % % % % 
+17.    (Gross Plant or Wages/Salaries)    $   $   $   $  
+18.    Demand Related     $   $   $  
+19.    Energy Related     $   $   $  
+20.    Allocation Basis     Direct   Direct  P.7, Note B  
+21.  282   Excluded Items   $   $     
+22.  282   100% Production (Energy)   $    $    
+23.  282   100% Production (Demand)   $     $   
+24.  282   Labor Related   $      $  
+25.  282   Total   $   $   $   $   $  
+26.    Production Allocation   % % % % 
+27.    (Gross Plant or Wages/Salaries)    $   $   $   $  
+28.    Demand Related     $   $   $  
+29.    Energy Related     $   $   $  
+30.    Allocation Basis     Direct  Direct P.7, Note B  
+31.  283   Excluded Items   $   $     
+32.  283   100% Production (Energy)   $    $    
+33.  283   100% Production (Demand)   $     $   
+34. 283   Labor Related   $      $  
+35.  283   Total   $   $   $   $   $  
+36.  283   Production Allocation   % % % % 
+37.    (Gross Plant or Wages/Salaries)    $   $   $   $  
+38.    Demand Related     $   $   $  
+39.    Energy Related     $   $   $  
+40.    Allocation Basis     Direct   Direct  P.7, Note B  
+41.  255   Excluded Items   $   $     
+42.  255   100% Production (Energy)  $   $    
+43.  255   100% Production (Demand)   $     $   
+44.  255   Labor Related   $      $  
+45.  255   Total   $   $   $   $   $  
+46.  255   Production Allocation   % % % % 
+47.    (Gross Plant or Wages/Salaries)    $   $   $   $  
+        
+48.   Summary Production Related ADIT Total Demand Energy    
+49.   P Plant (Energy Related) $  $  $    
+50.   P Plant (Demand Related) $ $ $    
+51.   Labor Related $ $ $    
+52   Total $ $ $    
+ Source: Functionalized balances for Accounts 190, 281, 282, 283 and 255 from WP-8a and 8ai.   
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 8 
+     Appendix 2 
+APPALACHIAN POWER COMPANY Page 7 
+BLANK FORMULA RATE TEMPLATE ---------- 
+PRODUCTION-RELATED GENERAL PLANT ALLOCATION 1 of 2 
+12 Months Ending 12/31/####  
+      
+ General Plant Accounts 101 and 106 
+ Total  Related to    
+ System Allocation Production    
+ (Note A) Factor (1) x (2) Demand Energy 
+FERC Form 1 
+Reference 
+1.  GENERAL PLANT (1) (2) (3) (4) (5)  
+2        
+3.  Land $ Note B $ $ $  
+4.  General Offices $  $ $ $  
+5.  Total Land $  $ $ $ P207 L86 Col (g) 
+6   %     
+7.  Structures $ Note B $ $ $  
+8.  General Offices $  $ $ $  
+9.  Total Structures $  $ $ $ P207 L87 Col (g) 
+10   %     
+11.  Office Equipment $ Note B $ $ $  
+12.  General Offices    $ $ $  
+13.  Total Office Equipment $  $ $ $ P207 L88 Col (g) 
+14.  Transportation Equipment $ Note B $ $ $ P207 L89 Col (g) 
+15.  Stores Equipment $ Note B $ $ $ P207 L90 Col (g) 
+16.  Tools, Shop & Garage Equipment $ Note B $ $ $ 
+P207 L91& L93 
+Col (g) 
+17.  Lab Equipment $ Note B $ $ $ P207 L92 Col (g) 
+18.  Communications Equipment $ Note B $ $ $ P207 L94 Col (g) 
+19.  Miscellaneous Equipment $ Note B $ $ $ P207 L95 Col (g) 
+20.  Subtotal General Plant $  $ $ $ P207 L96 Col (g) 
+21.  PERCENT  Note C % % %  
+22.  Other Tangible Property  Note D $ $ $ P207 L97 Col (g) 
+23.  TOTAL GENERAL PLANT $  $ $ $  
+       
+24.  INTANGIBLE PLANT $ Note B $ $ $ P205 L5 Col (g) 
+25. TOTAL GENERAL AND INTANGIBLE $  $ $ $ L23 + L.24  
+26.  PERCENT  Note E % % %  
+ 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 9 
+     
+Appendix 2 
+Page 7 (con’t) 
+     2 of 2 
+NOTE A:  See Workpaper 6c.    
+NOTE B:  Allocation factors based on wages and salaries in electric operations and maintenance  
+expenses excluding administrative and general expenses:    
+a.  Total wages and salaries in electric operation and maintenance expenses excluding   
+    administrative and general expense, FF1, P.354, Col.(b), Ln.28 - L.27 (see workpaper 9a). $ 
+b.  Production wages and salaries in electric operation and maintenance expense,    
+    FF1, P.354, Col.(b), L.20. (see WP-9a)    $ 
+c.  Ratio (b / a)         % 
+NOTE C:  L.20, Col.(3) / L.20, Col.(1)      
+NOTE D:  Directly assigned to Production     
+NOTE E:  L.28, Col.(3) / L.28, Col.(1)      
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 10 
+    Appendix 2 
+    Page 8 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+PRODUCTION-RELATED CASH REQUIREMENT 
+12 Months Ending 12/31/#### 
+  PRODUCTION 
+ Reference Amount Demand Energy 
+  (1) (2) (3) 
+     
+1.  Total Production Expense Excluding     
+        Fuel Used In Electric Generation P.14, L.12 Col.(1)-(3) $ $ $ 
+     
+2.  Less Fuel Handling / Sale of Fly Ash P.14, L.1 thru L.3,Col. (1)-(3) $ $ $ 
+3.  Less Purchased Power P.14, L.11, Col.(1)-(3) $ $ $ 
+     
+4. Other Production O&M Sum (L.1 thru L.3) $ $ $ 
+     
+5.  Allocated A&G P.10, L.17, Col.(3)-(5) $ $ $ 
+     
+6. Total O&M for Cash Working Capital Calculation L.4 + L.5 $ $ $ 
+     
+7. O&M Cash Requirements =45 / 360 x L.6 $ $ $ 
+ 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 11 
+ 
+      Appendix 2 
+     Page 9 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+PRODUCTION-RELATED MATERIALS & SUPPLIES 
+12 Months Ending 12/31/#### 
+ SYSTEM  PRODUCTION 
+       
+ Reference        Amount Reference Amount Demand Energy 
+1.  Material & Supplies (Note A)          (1)  (2) (3) (4) 
+       
+2.  Fuel  (Note C) FF1, P.110, L.,45,46 $   $ $ $ 
+ Workpapers WP-5b      
+3.  Non-Fuel       
+       
+4.    Production Note D $ 100% Col. 1 $ $ $ 
+5.    Transmission  $ 0  $ $ $ 
+6.    Distribution  $ 0  $ $ $ 
+7.    General  $ Note B $ $ $ 
+       
+8.    Total L.4 + L.5 + L.6 + L.7 $  $ $ $ 
+       
+9.     Account 158 Allowances Note D $  $ $ $ 
+       
+Note A:  Year end balance       
+Note B:  Column (1) times % from P.7, Col.(3), L.26.      
+Note C:  See Workpaper 5b.      
+Note D:  See Workpaper 5a.      
+ 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 12 
+ 
+APPALACHIAN POWER COMPANY Appendix 2 
+BLANK FORMULA RATE TEMPLATE Page 10 
+PRODUCTION-RELATED ADMINISTRATIVE & GENERAL EXPENSE ALLOCATION  
+12 Months Ending 12/31/####  
+   System Production  
+  Account Reference Amount 
+Alllocation 
+Factor % Amount Demand Energy 
+FERC Form 1 
+Reference 
+    (1) (2) (3) (4) (5)  
+ 1. ADMINISTRATIVE & GENERAL EXPENSE       
+ 2. RELATED TO WAGES AND SALARIES       
+ 3.   A&G Salaries 920 WP 10a  $     P323 L181 Col (b) 
+ 4.   Outside Services 923 WP 10a  $     P323 L 184 Col (b) 
+ 5.   Employee Pensions & Benefits 926 WP 10a  $ Note F     P323 L187 Col (b) 
+ 6.   Office Supplies 921 WP 10a  $     P323 L182 Col (b) 
+ 7.   Injuries & Damages 925 WP 10a  $     P323 L186 Col (b) 
+ 8.   Franchise Requirements 927 WP 10a  $     P323 L188 Col (b) 
+ 9.   Duplicate Charges - Cr. 929 WP 10a  $     P323 L190 Col (b) 
+10.   Total  Ls. 3 thru 9 $ Note A $ $ $  
+11. Miscellaneous General Expense 930 WP 10a  $ 
+Note A, C 
+& D $ $ $ P323 L192 Col (b) 
+12. Adm. Expense Transfer – CR 922 WP 10a  $ Note B $ $ $ P323 L183 Col (b) 
+13. Property  Insurance 924 WP 10a  $ Note E $ $ $ P323 L185 Col (b) 
+14. Regulatory Comm. Expenses 928 WP 10a  $ Note C $ $ $ P323 L189 Col (b) 
+15. Rents 931 WP 10a  $ Note B $ $ $ P323 L193 Col (b) 
+16. Maintenance of General Plant  935 WP 10a  $ Note B $ $ $ P323 L196 Col (b) 
+17. TOTAL A & G EXPENSE  L.10 thru 16 $  $ $ $  
+Note A: % from Note B, P.7        
+Note B: General Plant % from P.7, Col.(3), L.26       
+Note C: See Workpaper 11. Excludes all items not related to wholesale service and also excludes FERC assessment of annual charges. 
+Note D: Excludes general advertising and company dues and memberships.     
+Note E: % Plant from P.6, L.7.        
+Note F: PBOP expense is fixed at $6,222,780.  This amount cannot be changed absent a Section 205/206 filing with the Commission. 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 13 
+ 
+       Appendix 2 
+       Page 11 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+COMPOSITE COST OF CAPITAL 
+12 Months Ending 12/31/#### 
+    Weighted    
+   Total Company Cost  Cost of Weighted 
+   Capitalization Ratios  Capital Cost of Capital 
+  Reference $ % Reference % (2 x 3) 
+   (1) (2)  (3) (4) 
+        
+1. Long Term Debt Note A $ % Note D % % 
+            
+2. Preferred Stock Note B $ % Note E % % 
+            
+3. Common Stock Note C $ % Note F 10.4% % 
+          
+4. Total L1 + L2 + L3 $ %   % 
+        
+Note A: P.12, L.5, Col.1.       
+        
+Note B: P.13a, L.4 Col. (2).       
+        
+Note C: P.13b, L.5.Col (2)       
+        
+Note D: P.12, L.16, Col. (2).       
+        
+Note E: P.13a. L.4, Col (2)       
+        
+Note F: Return on equity cannot be changed absent a Section 205/206 filing with the Commission. 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 14 
+    Appendix 2 
+APPALACHIAN POWER COMPANY  Page 12 
+BLANK FORMULA RATE TEMPLATE   
+LONG TERM DEBT   
+12 Months Ending 12/31/####  Interest 
+   Debt & Cost 
+  Reference Balance Booked 
+   (1) (2) 
+ 12 Months Ending 12/31/2009 (Actual)    
+1. Bonds (Acc 221) FF1, 112.18.c. $  
+2. Less:  Reacquired Bonds (Acc 222) FF1, 112.19.c. $  
+3. Advances from Assoc Companies (Acc 223) FF1, 112.20.c. $  
+4. Other Long Term Debt (Acc 224) FF1, 112.21.c. $  
+5. Total Long Term Debt Balance  $  
+     
+     
+     
+ Costs and Expenses (actual)    
+6. Interest Expense (Acc 427) FF1, 117.62.c. Note A $ 
+7. Amortization Debt Discount and Expense (Acc 428) FF1, 117.63.c.  $ 
+8. Amortization Loss on Reacquired Debt (Acc 428.1) FF1, 117.64.c.  $ 
+9. Less:  Amortiz Premium on Reacquired Debt (Acc 429) FF1, 117.65.c.  $ 
+10. Less:  Amortiz Gain on Reacquired Debt (Acc 429.1) FF1, 117.66.c.  $ 
+11. Interest on LTD Assoc Companies (portion Acc 430) Workpaper-13, L.7 Note A $ 
+12. Sub-total Costs and Expense   $ 
+     
+13. Less:  Total Hedge (Gain) / Loss P. 12a, L. 11, Col. (6) $ 
+14. Plus: Allowed Hedge Recovery P. 12a, L. 15, Col. (6) $ 
+      
+15. Total LTD Cost Amount L. 12 - L. 13 + L. 14 $ 
+     
+16. Embedded Cost of Long Term Debt = L.15, Col.(2) / L. 5, Col.(1)   % 
+ 
+Note A: Reconciliation of Interest Expense to FF1, pg 257, Ln 33 Col (1) 
+ 
+Ln 6   Interest Expense (Acc 427)               $                             
+Ln 11 Interest on LTD Assoc Companies (portion Acc 430)     $ 
+                                                              FF1, pg 257, Ln 33 Col (i)  $ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 15 
+       Appendix 2 
+      Page 12a 
+APPALACHIAN POWER COMPANY  
+BLANK FORMULA RATE TEMPLATE  
+LONG TERM DEBT Limit on Hedging (Gain)/Loss on Interest Rate Derivatives of LTD  
+12 Months Ending 12/31/####  
+  (1) (2) (3) (4) (5) (6) 
+     Net Includable      
+ HEDGE AMT BY ISSUANCE  Total Hedge   Excludable   Hedge Amount   Unamortized  Amortization Period  
+ FERC Form 1, p. 256-257 (i) (Gain) / Loss Amounts (Note A)  Subject to Limit   Balance   Beginning   Ending  
+1. Debt Issuance #1 $ $ $ $     
+2. Debt Issuance #2 $ $ $ $     
+3. Debt Issuance #3 $ $ $ $     
+4. Total Hedge Amortization $ $ $    
+ Limit on Hedging (G)/L on Interest Rate Derivatives of LTD     
+5. Hedge (Gain) / Loss prior to Application of Recovery Limit    % 
+        Enter a hedge Gain as a negative value and a hedge Loss as a positive value   
+6. Total Capitalization   Page11, L.4, col.(1) $  
+7. 5 basis point Limit on (G)/L Recovery      #  
+8. Amount of (G)/L Recovery Limit   L. 12 * L.13   $ 
+9. Hedge (Gain) / Loss Recovery (Lesser of Line 5 or Line 8)    $ 
+        To be subtracted or added to actual Interest Expenses on Page 12, Line 14   
+Note A:  Annual amortization of net gains or net loss on interest rate derivative hedges on long term debt shall not cause the composite 
+ after-tax weighted average cost of capital to increase/decrease by more than 5 basis points. Hedge gains/losses shall be amortized 
+  over the life of the related debt issuance.  The unamortized balance of the g/l shall remain in Acc 219 Other Comprehensive Income  
+ and shall not flow through the rate calculation.  Hedge-related ADIT shall not flow through rate base.  Amounts related to the ineffective 
+ portion of pre-issuance hedges, cash settlements of fair value hedges issued on Long Term Debt, post-issuance cash flow hedges,  
+ and cash flow hedges of variable rate debt issuances are not recoverable in this calculation and are to be recorded above. 
+         
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 16 
+ 
+    Appendix 2 
+   Page 13a 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+PREFERRED STOCK 
+12 Months Ending 12/31/#### 
+   (1) (2) 
+   Reference Amount 
+     
+1. Preferred Stock Dividends  FF1, P.118, L.29 $ 
+      
+2. Preferred Stock Outstanding Note A & B FF1, P.251, L. 9 (f) $ 
+      
+3. Plus:  Premium on Preferred Stock Note A FF1, P.112, L.6 $ 
+     
+ 4. Total Preferred Stock  L.2 + L.3 $ 
+     
+5. Average Cost Rate  L.1  / L.4 % 
+     
+Note A: Workpaper -12b.    
+     
+Note B:   Preferred stock outstanding excludes pledged and Reacquired (Treasury) preferred stock.  
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 17 
+ 
+   Appendix 2 
+  Page 13b 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+COMMON EQUITY 
+12 Months Ending 12/31/#### 
+  (1) (2) 
+  Source Balances 
+    
+1. Total Proprietary Capital WP-12a,L. 1 col. a  $ 
+     
+     
+ Less:    
+2. Preferred Stock (Acc 204, pfd portion of Acc 207-213) WP-12a, L 1 col.b+c+d $ 
+3. Unappropriated Undistributed Subsidiary Earnings (Acc 216.1) WP-12a, L.1, col.e $ 
+4. Accumulated Comprehensive Other Income (Acc 219) WP-12a, L.1, col.f $ 
+     
+5. Total Balance of Common Equity L.1-2-3-4 $ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 18 
+APPALACHIAN POWER COMPANY  Appendix 2 
+BLANK FORMULA RATE TEMPLATE  Page 14 
+  
+  
+  
+ANNUAL FIXED COSTS 
+PRODUCTION O & M EXPENSE 
+EXCLUDING FUEL USED IN ELECTRIC GENERATION 
+12 Months Ending 12/31/####   
+  Total (Demand) (Energy) FERC Form 1 Reference 
+ Account No. Company Fixed Variable  
+  (1) (2) (3)  
+1.  Coal Handling 501.xx $ $ $ P320 L5 Col (b) [Note D] 
+2.  Lignite Handling 501.xx $ $ $ P320 L5 Col (b) [Note D] 
+3.  Sale of Fly Ash (Revenue & Expense) 501.xx $ $ $ P320 L5 Col (b) [Note D] 
+4.  Rents 507    $ $ $ P320 L11 Col (b) 
+5.  Hydro O & M Expenses  535-545 $ $ $ 
+P320 L.44-L.49 Col (b) 
+P320 L.53-L.57 Col (b) 
+6.  Other Production Expenses 557    $ $ $ P321, L.78 Col (b) 
+7.  System Control of Load Dispatching Note C $ $ $ 
+P321, L77., L88., L92., 
+P322, L.121, Col (b) 
+8.  Other Steam Expenses Note A $ $ $  
+9.  Combustion Turbine Note A $ $ $  
+10.  Nuclear Power Expense-Other Note A $ $ $  
+11.  Purchased Power 555    $ $ $ P321 L76 Col (b) 
+12.  Total Production Expense Excluding     
+        Fuel Used In Electric Generation above                     Sum of L.1 – L.11 $ $ $  
+13.  A & G Expense P.10, L.17  $ $ $  
+14.  Generator Step Up related O&M Note B $ $ $  
+15.  Total O & M  $ $ $  
+NOTE A:  Amounts recorded in O&M Expense Accounts classified into Fixed   
+                 and Variable Components in accordance with P.15 and WP-14   
+NOTE B:  FF1, P.321, L.93 & L.107 (ACCTS. 562 & 570) times GSU Investment to Account 353 ratio (See P.3, L.9)  
+NOTE C:  Pursuant to FERC Order 668, expenses were booked in Account 556 are now being recorded in  the following accounts: 561.4, 561.8, and 575.7. 
+NOTE D: Subaccount details of FF1 Accounts from Company’s books and records 
+Reconciliation of System Control of Load Dispatching 
+System Control and Load Dispatching   $ 
+Scheduling, System Control    $ 
+Reliability Planning and Standards Dev   $ 
+Market Facilitation, Monitoring and Compliance  $ 
+Ln 7, Pg 14     $ 
+

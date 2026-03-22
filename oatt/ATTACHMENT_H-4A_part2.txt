@@ -1,0 +1,1332 @@
+[ATTACHMENT H-4A - Part 2 of 2]
+
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 31 
+Attachment H-4A, Attachment 15 
+page 1 of 1 
+For the 12 months ended 12/31/XXXX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Line  Item           
+1  State   New Jersey         
+ Combined 
+Tax Rate    
+2  Nominal Federal Tax Rate (FIT)  0.00%  0.00%  0.00%  0.00% =  FIT  
+3  Apportionment Percentage (p)  0.00% +   +   = 0.00%   
+4  Nominal State Tax Rate   0.00%           
+5  Percent of Federal Deducted for State  0.00%           
+6  Line 3 × Line 4  0.00% +  +  = 0.00% =  SIT  
+7  Line 3 × Line 5  0.00% +  +  = 0.00% =  p  
+             
+8  T = 0.00% = 1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)}    
+9  Composite Tax Factor (CTF) = #DIV/0! = (T / (1 - T)) * (1 - (WCLTD / ROR))      
+10      where WCLTD = Attachment H4-A, page 4, line 12, and   
+11       R= (page 4, line 15)      
+12  Tax Gross-up Factor (TGUF) = 0.00% = (T / (1 - T))       
+             
+13  Return on Rate Base  #DIV/0!   Attachment H-4A, Page 3, Line 15, Col. 5     
+14  Composite Tax Factor × #DIV/0!         
+15  Preliminary Income Taxes Allowable  #DIV/0!         
+             
+16  AFUDC Equity (b)                     -            
+17  Amortization of ITC Tax Credit (a)                     -    =                   -    ×  GP      
+18  Amortization of (Excess)/Deficient Deferred Income Tax (c) +                    -    =  Attachment 15a, Line 21, Col. (M)       
+19  Income Tax Adjustments                     -            
+20  Gross-up on Income Tax Adjustments +                    -    = Line 19 × TGUF       
+21  Grossed-Up Income Tax Adjustments                     -            
+             
+22  Income Taxes Allowable  #DIV/0! =  Line 15 + Line 21        
+             
+             
+  Notes           
+  (a) FERC Form No. 1, page 266.8.f.           
+        
+        
+  
+(b) The source shall be company records for current-year AFUDC Equity Depreciation.  No additional permanent tax 
+differences may be included without JCP&L making a Section 205 filing.       
+  (c) JCP&L to provide additional attachments for each tax rate change and aggregate related amortization.       
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-4A - JCPL Annual Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 32 
+ 
+ 
+ 
+ 
+ 
+                          
+                           
+                          
+                           
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+    
+                              
+  
+ 
+   
+ 
+       
+ 
+      
+                           
+                           
+                           
+                           
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                           
+ 
+                     
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+                     
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                           
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+                     
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+                           
+                           
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+ 
+    
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+ 
+    
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                           
+          
+        
+ 
+      
+      
+  
+ 
+   
+ 
+ 
+ 
+  
+      
+                           
+                           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-4A - JCPL 
+Annual Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 33 
+ 
+ 
+ Attachment H-4A, Attachment 16 
+page 1 of 1 
+For the 12 months ended 12/31/XXXX 
+ 
+Abandoned Plant 
+ 
+ [1] [2] [3] [4] [5] [6] [7] 
+1 Monthly Balance Source 
+Months 
+Remaining In 
+Amortization 
+Period Beginning Balance 
+Amortization Expense 
+(p114.10.c) 
+Additions 
+(Deductions) Ending Balance 
+2 December 20XX p111.71.d (and Notes) 13     
+3 January   FERC Account 182.2 12     
+4 February FERC Account 182.2 11     
+5 March FERC Account 182.2 10     
+6 April FERC Account 182.2 9     
+7 May FERC Account 182.2 8     
+8 June  FERC Account 182.2 7     
+9 July FERC Account 182.2 6     
+10 August FERC Account 182.2 5     
+11 September FERC Account 182.2 4     
+12 October  FERC Account 182.2 3     
+13 November FERC Account 182.2 2     
+14 December 20XX 
+p111.71.c (and Notes) 
+Detail on p230b 1 
+    
+15 Ending Balance 13-Month Average  (sum lines 2-14) /13      
+    Attachment H-4A, page 3, Line 10 Attachment H-4A, page 2, Line 23 
+ 
+Note: 
+Recovery of abandoned plant is limited to any abandoned plant recovery authorized by FERC and will be zero until the Commission accepts or approves recovery of the 
+cost of abandoned plant 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-4A - JCPL Annual 
+Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 34 
+ 
+Attachment H-4A, Attachment 17 
+page 1 of 1 
+For the 12 months ended 12/31/XXXX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                              
+                                              
+                                              
+                                                
+                                              
+                                            
+                                              
+                                                                
+                                                             
+ 
+ 
+   
+                                            
+                                              
+                                              
+              
+     
+                       
+           
+     
+                       
+            
+     
+                       
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-4A - JCPL Annual 
+Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 35 
+ 
+Attachment H-4A, Attachment 18 
+page 1 of 1 
+For the 12 months ended 12/31/XXXX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   (A)   (B)   (C)    (D)    (E)    
+Ln.  Text Description Allocator Amount x  Allocator Output   =   To Transmission                          
+1  FERC Account No. 451                     
+    1.01                        -                            -      
+    1.XX                        -                            -      
+2   Sum of Lines 1.01 through 1.XX                   -                              -                 
+3  FERC Account No. 454 (d)                     
+    3.01                        -                   -                            -      
+    3.XX                        -                            -      
+4   Sum of Lines 3.01 through 3.XX                   -                              -                 
+5  FERC Account No. 456 (e)                     
+    5.01                         -                   -                            -      
+    5.XX                        -                            -      
+6   Sum of Lines 5.01 through 5.XX                   -                              -                 
+7  Other                     
+    7.01                        -                            -      
+    7.XX                        -                            -      
+8   Sum of Lines 7.01 through 7.XX                   -                              -                 
+9  Sum of Lines 2, 4, 6, and 8                             -      
+  Notes         
+  (a) Allocator must be DA, TE, TP, GP, WS, CE, or EXCL. 
+  (b) JCP&L may add or remove sublines without a FPA Section 205 filing.  
+ 
+ 
+  (c) JCP&L to populate column C if item is partially or wholly allocated to the transmission revenue requirement. 
+ 
+       (d) Includes income related only to transmission facilities, such as pole attachments, rentals and special use.           
+  
+(e) Enter revenues from RTO settlements that are associated with NITS and firm Point-to-Point Service for which the load is not included in the divisor to derive JCP&L's zonal rates.  Exclude non-firm Point-to-Point 
+revenues and revenues related to RTEP projects.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-4A - JCPL Annual 
+Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 36 
+ 
+ 
+ 
+ 
+ 
+Attachment H-4A, Attachment 19 
+page 1 of 1 
+For the 12 months ended 12/31/XXXX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                           
+                                                              
+                                                     
+                                                       
+                                                     
+                                                     
+                                                   
+                                                     
+                                                             
+                                                              
+                                                     
+                                                       
+                                                     
+                        
+     
+                        
+              
+ 
+         
+     
+                        
+              
+ 
+         
+     
+                        
+            
+     
+           
+            
+     
+            
+  
+ 
+ 
+         
+     
+                        
+            
+     
+                        
+            
+     
+                        
+  
+ 
+          
+     
+                        
+  
+          
+                                       
+  
+  
+                                       
+                                           
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-4A - JCPL Annual 
+Transmission Rates 
+Effective Date: 1/1/2020 - Docket #: ER20-227-003 - Page 37 
+                     Attachment H-4A, Attachment 20  
+                     page 1 of 1  
+                     For the 12 months ended 12/31/2020                         
+     (A)    (B)    (C)    (D)    (E)    (F)    (G)    (H)    (I)    (J)  
+Line  
+FERC 
+A/C   Title   
+ FERC Form 
+No. 1 Citation   
+ FERC 
+Form No. 1 
+Balance  x 
+ TE 
+Allocator  = 
+ Total 
+Transmission   
+ 
+-  
+ Transmission 
+Exclusions (a)  = 
+ To Revenue 
+Req.         
+1  560  Operation Supervision and Engineering  Page 321.83.b                         -                         -                            -          
+2  561.1  Load Dispatch-Reliability  Page 321.85.b                         -                         -                            -         
+ 
+3  561.2  Load Dispatch-Monitor and Operate Transmission System  Page 321.86.b                         -                         -                            -         
+ 
+4  561.3  Load-Dispatch-Transmission Service and Scheduling  Page 321.87.b                         -                         -                            -         
+ 
+5  561.4  Scheduling, System Control and Dispatch Services  Page 321.88.b                         -                         -                            -         
+ 
+6  561.5  Reliability, Planning and Standards Development  Page 321.89.b                         -                         -                            -         
+ 
+7  561.6  Transmission Service Studies  Page 321.90.b                         -                         -                            -         
+ 
+8  561.7  Generation Interconnection Studies  Page 321.91.b                         -                         -                            -         
+ 
+9  561.8  Reliability, Planning and Standards Development Services  Page 321.92.b                         -                         -                            -         
+ 
+10  562  Station Expenses  Page 321.93.b                         -                         -                            -         
+ 
+11  563  Overhead Lines Expense  Page 321.94.b                         -                         -                            -         
+ 
+12  564  Underground Lines Expense  Page 321.95.b                         -                         -                            -         
+ 
+13  565  Transmission of Electricity by Others  Page 321.96.b                         -                         -                            -         
+ 
+14  566  Miscellaneous Transmission Expense  Page 321.97.b                         -                         -                            -          
+15  567  Rents  Page 321.98.b                         -                         -                            -          
+16  568  Maintenance Supervision and Engineering  Page 321.101.b                         -                         -                            -          
+17  569  Maintenance of Structures  Page 321.102.b                         -                         -                            -          
+18  569.1  Maintenance of Computer Hardware  Page 321.103.b                         -                         -                            -          
+19  569.2  Maintenance of Computer Software  Page 321.104.b                         -                         -                            -          
+20  569.3  Maintenance of Communication Equipment  Page 321.105.b                         -                         -                            -          
+21  569.4  Maintenance of Miscellaneous Regional Transmission Plant  Page 321.106.b                         -                         -                            -          
+22  570  Maintenance of Station Equipment  Page 321.107.b                         -                         -                            -          
+23  571  Maintenance of Overhead Lines  Page 321.108.b                         -                         -                            -          
+24  572  Maintenance of Underground Lines  Page 321.109.b                         -                         -                            -          
+25  573  Maintenance of Miscellaneous Transmission Plant  Page 321.110.b                         -                         -                            -          
+26    Sum of Lines 1 through 25                        -                           -                          -                         -          
+                       
+                                              
+                       
+Line  
+FERC 
+A/C   Title   
+ FERC Form 
+No. 1 Citation   
+ FERC 
+Form No. 1 
+Balance  - 
+Production 
+Exclusion 
+(b) = 
+Total 
+Excluding 
+Production x  Allocator  = 
+ Total 
+Transmission   
+ 
+-  
+ 
+Transmission 
+Exclusions 
+(a)  =  To Revenue Req.     
+27  920  Administrative and General Salaries  Page 323.181.b                            -                  1.0000                       -                              -      
+28  921  Office Supplies and Expenses  Page 323.182.b                            -                  1.0000                       -                              -      
+29  922  Administrative Expenses Transferred - Credit  Page 323.183.b                            -                  1.0000                       -                              -      
+30  923  Outside Services Employed  Page 323.184.b                            -                  1.0000                       -                              -      
+31  924  Property Insurance  Page 323.185.b                            -                  1.0000                       -                              -      
+32  925  Injuries and Damages  Page 323.186.b                            -                  1.0000                       -                              -      
+33  926  Employee Pensions and Benefits  Page 323.187.b                            -                  1.0000                       -                              -      
+34  927  Franchise Requirements  Page 323.188.b                            -                  1.0000                       -                              -      
+35  928  Regulatory Commission Expense  Page 323.189.b                            -                  1.0000                       -                              -      
+36  929  (Less) Duplicate Charges-Cr.  Page 323.190.b                            -                  1.0000                       -                              -      
+37  930.1  General Advertising Expenses  Page 323.191.b                            -                  1.0000                       -                              -      
+38  930.2  Miscellaneous General Expenses  Page 323.192.b                            -                  1.0000                       -                              -      
+39  931  Rents  Page 323.193.b                            -                  1.0000                       -                              -      
+40  935  Maintenance of General Plant  Page 323.196.b                            -                  1.0000                       -                              -      
+41    Sum of Lines 27 through 40                        -                         -                         -                              -                          -                           -      
+                       
+42                    Total OpEx (Line 26 + Line 41)  $0 
+                       
+ Notes:                     
+ (a) 
+          
+            
+  
+Excluded costs specifically include, but are not limited to any amortization related to Regulatory Assets for which FERC approval has not been granted, EPRI dues and non-safety advertising 
+included within 930.1. Regulatory commission expenses within 928 that are directly assigned in total or portions allocated to distribution; accounts 561.4, 561.8, and 575.7 that consist of RTO 
+expenses billed to load-serving entities and account 565 transmission of electricity by others.  
+          
+ (b) 
+ 
+All production labor or expenses to be excluded from A&G accounts. 
+    
+ (c) JCP&L to include only balances attributable to transmission. 
+   
+   
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-4B - Formula Rate Implementation Protocols 
+Effective Date: 1/1/2020 - Docket #: ER20-227-004 - Page 1 

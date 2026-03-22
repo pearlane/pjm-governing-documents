@@ -1,0 +1,602 @@
+ATTACHMENT H-27B 
+ 
+SILVER RUN ELECTRIC, LLC 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+ 
+ 
+The formula rate template (“Template”) and these formula rate implementation protocols 
+(“Protocols”) together comprise the filed rate (“Formula Rate”) of Silver Run Electric, LLC 
+(“SRE”) for transmission revenue requirement determinations under the PJM Interconnection, 
+LLC (“PJM”) Open Access Transmission Tariff (“PJM Tariff”). SRE shall follow the 
+instructions specified in the Formula Rate to calculate annually its net revenue requirement, as 
+set forth at page 1, line 9 of the Template (“Net Revenue Requirement”).  The Net Revenue 
+Requirement shall be determined for January 1 to December 31 of a given calendar year (the 
+“Rate Year”).  The Formula Rate shall become effective for recovery of SRE’s Net Revenue 
+Requirement upon the effective date for incorporation into the PJM Tariff through an appropriate 
+filing with the Federal Energy Regulatory Commission (“FERC” or “Commission”) under 
+Section 205 of the Federal Power Act (“FPA”), 16 U.S.C. § 824d. 
+Section 1. Annual Projection  
+a. No later than October 1 preceding the first Rate Year, and each subsequent Rate 
+Year, SRE shall determine its projected Net Revenue Requirement for the 
+upcoming Rate Year in accordance with SRE’s Formula Rate (“Annual 
+Projection”).  The Annual Projection shall include the True-up Adjustment 
+described and defined in Section 2 below, if applicable.   
+b. Posting, Format, and Notice of Annual Projection.  No later than October 1 
+preceding the first Rate Year, and each subsequent Rate Year, SRE shall cause an 
+electronic version of the Annual Projection to be posted in both a Portable 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 2 
+Document Format (“PDF”) and fully-functioning Excel file at a publicly 
+accessible location on PJM’s internet website.  Such posting shall include all 
+inputs in sufficient detail to identify the components of SRE’s projected Net 
+Revenue Requirement, explanations of the bases for the projections and input 
+data, and sufficient detail and explanation to enable Interested Parties1 to replicate 
+the calculation of the projected Net Revenue Requirement.  If the date for making 
+such posting of the Annual Projection should fall on a weekend or a holiday 
+recognized by FERC, then the posting shall be made no later than the next 
+business day.  Within ten (10) days of such posting, PJM shall provide notice of 
+such posting via the PJM Members Committee email subscription (“PJM 
+Exploder List”).  Interested Parties can subscribe to the PJM Exploder List on the 
+PJM website. 
+c. Accounting Changes.  With respect to any Accounting Change (as that term is 
+defined in Section 3.d.iii), SRE shall (i) identify any Accounting Changes, 
+including the initial implementation of an accounting standard or policy, the 
+initial implementation of accounting practices for unusual or unconventional 
+items where FERC has not provided specific accounting direction, correction of 
+errors and prior period adjustments that impact the projected Net Revenue 
+Requirement calculation, the implementation of new estimation methods or 
+policies that change prior estimates, and changes to income tax elections; (ii) 
+identify items included in the projected Net Revenue Requirement at an amount 
+ 
+1  As used in these Protocols, “Interested Parties” shall include but not be limited to: (i) any Eligible 
+Customer under the PJM Tariff; (ii) any regulatory agency with rate jurisdiction over a public utility located within 
+the PJM footprint; (iii) any consumer advocate authorized by state law to review and contest the rates for any such 
+public utility; and (iv) any party with standing under FPA Section 205 or Section 206. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 3 
+other than on a historic cost basis (e.g., fair value adjustments); (iii) identify any 
+reorganization or merger transaction during the previous year and explain the 
+effect of the accounting for such transaction(s) on inputs to the projected Net 
+Revenue Requirement; and (iv) provide, for each item identified pursuant to 
+Section 1.c.i – iii of these Protocols, a narrative explanation of the individual 
+impact of such changes on the projected Net Revenue Requirement. 
+d. Annual Projection Meeting.  No less than twenty (20) business days and no more 
+than thirty (30) business days after October 1, SRE shall hold a stakeholder 
+meeting with Interested Parties in order for SRE to explain its Annual Projection 
+and to provide Interested Parties an opportunity to seek information and 
+clarifications regarding the Annual Update (“Annual Projection Meeting”).  SRE 
+shall cause to be posted on the PJM internet website and distributed to the PJM 
+Exploder List, the time, date and location of the Annual Projection Meeting no 
+fewer than seven (7) days prior to the Annual Projection Meeting, and SRE shall 
+provide remote access to the Annual Projection Meeting to allow all Interested 
+Parties the opportunity to remotely participate in such meetings.  If a certain 
+deadline for Interested Parties falls on a weekend or holiday recognized by the 
+Commission, then the deadline will be extended to the next business day. 
+e. Revisions to the Annual Projection.  To the extent SRE agrees to make changes in 
+the Annual Projection for a given Rate Year, such revised Annual Projection shall 
+be promptly posted at a publicly accessible location on PJM’s internet website 
+and distributed to the PJM Exploder List.  Changes posted prior to December 1 of 
+the preceding Rate Year, or the next business day if December 1 is not a business 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 4 
+day (or such later date as can be accommodated under PJM’s billing practices), 
+shall be reflected in the Annual Projection collected during the Rate Year; 
+changes posted after that date will be reflected, as appropriate, in the True-up 
+Adjustment for the Rate Year. 
+f. Review and Challenge of the Annual Projection.  The Annual Projection, 
+including the True-Up Adjustment, for each Rate Year shall be subject to review, 
+challenge, true-up and refunds or surcharges with interest pursuant to Sections 4, 
+5, and 6 of these Protocols. 
+Section 2. True-Up Adjustment and Actual Net Revenue Requirement  
+a. SRE will calculate the amount of under- or over-collection of its actual Net 
+Revenue Requirement during the preceding Rate Year (“True-Up Adjustment”) 
+after the FERC Form No. 1 data for that Rate Year has been filed with the 
+Commission.  The True-Up Adjustment shall be the sum of the True-Up 
+Adjustment Over/Under Recovery as determined in Section 2(b) and the Interest 
+on the True-Up Adjustment Over/Under Recovery as determined in Section 2(c). 
+b. Calculation of the True-Up Adjustment.  To determine any over- or under-
+recovery (“True-Up Adjustment Over/Under Recovery”), SRE’s projected Net 
+Revenue Requirement collected during the previous Rate Year2 will be compared 
+to SRE’s actual Net Revenue Requirement for the previous Rate Year.  SRE shall 
+calculate its actual Net Revenue Requirement in accordance with SRE’s Formula 
+ 
+2  If the initial use of the Formula Rate covers only part of a calendar year, the initial projected Net Revenue 
+Requirement will be divided by the number of months the Formula Rate is in effect to calculate the monthly 
+projected cost of service to be collected each month of the first year. Similarly, the actual Net Revenue Requirement 
+will be divided by the number of months the rate is in effect to calculate the actual cost of service to be collected 
+each month of the first year. The first True-up Adjustment will compare the projected Net Revenue Requirement 
+billed and the actual Net Revenue Requirement for that initial Rate Year. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 5 
+Rate and based upon: (i) SRE’s FERC Form No. 1 for that same Rate Year; (ii) 
+any FERC orders specifically applicable to SRE’s calculation of its annual 
+revenue requirement; (iii) the books and records of SRE (which shall be 
+maintained consistent with the FERC Uniform System of Accounts (“USofA”)); 
+(iv) FERC accounting policies and practices applicable to the calculation of 
+annual revenue requirements under formula rates; and (v) any aspects of the PJM 
+OATT Governing Documents3 that apply to the calculation of annual revenue 
+requirements under individual transmission owner formula rates.   
+c. Calculation of Interest.  Interest on any True-up Adjustment Over/Under 
+Recovery of the actual Net Revenue Requirement shall be calculated in 
+accordance with Attachment 6 of the Formula Rate. 
+d. Variance Analysis.  SRE will include a variance analysis of, at minimum, actual 
+Net Revenue Requirement components of rate base, operating and maintenance 
+expenses, depreciation expense, taxes, return on rate base, and revenue credits as 
+compared to the corresponding components in the projected Net Revenue 
+Requirement that was calculated for the prior Rate Year with an explanation of 
+material changes. 
+Section 3. Annual Update  
+a. No later than July 1 following each Rate Year, SRE shall calculate its actual Net 
+Revenue Requirement and the True-up Adjustment as described in Section 2 
+(“Annual Update”) for such Rate Year. 
+b. Posting and Notice of the Annual Update; Publication Date.  No later than July 1 
+ 
+3  PJM OATT Governing Documents include the PJM OATT, Bylaws, Criteria, and Membership 
+Agreements. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 6 
+following each Rate Year, SRE shall cause such Annual Update, together with 
+such other information described in this Section 3, to be posted in both a PDF and 
+fully-functioning Excel format at a publicly accessible location on PJM’s internet 
+website and distributed to the PJM Exploder List.  The date on which  
+the last of the events listed in this Section 3.b occurs shall be that year’s 
+“Publication Date,” which shall occur within ten (10) days of SRE posting the 
+Annual Update.  If the date for making the Annual Update posting should fall on a 
+weekend or a holiday recognized by the FERC, then the posting shall be due on 
+the next business day. 
+c. Annual Update Meeting.  No less than twenty (20) business days and no more 
+than thirty (30) business days after July 1, SRE shall hold a stakeholder meeting 
+with Interested Parties in order for SRE to explain its Annual Update and to 
+provide Interested Parties an opportunity to seek information and clarifications 
+regarding the Annual Update (“Annual Update Meeting”).  SRE shall cause to be 
+posted on the PJM website and distributed to the PJM Exploder List, the time, 
+date and location for the Annual Update Meeting no fewer than seven (7) days 
+prior to the Annual Update Meeting, and shall provide remote access to Annual 
+Update Meetings to allow all Interested Parties the opportunity to remotely 
+participate in such meetings.  If a certain deadline for Interested Parties falls on a 
+weekend or holiday recognized by the Commission, then the deadline will be 
+extended to the next business day. 
+d. The Annual Update for the Rate Year: 
+(i) Shall provide, via the Formula Rate worksheets, sufficiently detailed 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 7 
+supporting documentation for data (and all adjustments thereto or 
+allocations thereof) used in the Formula Rate that are not stated in the 
+FERC Form No. 1;4 
+ (ii) Shall provide sufficient detail and sufficient explanation to enable 
+Interested Parties to replicate the calculation of the Annual True-Up  
+results from the FERC Form No. 1 and verify that each input to the 
+Template is consistent with the requirements of the Formula Rate; 
+(iii) Shall identify: 
+A. any change in accounting that affects inputs to the Template or the 
+resulting charges billed under the Formula Rate (“Accounting 
+Change”), including: 
+I. the initial implementation of an accounting standard or 
+policy; 
+II. the initial implementation of accounting practices for 
+unusual or unconventional items where FERC has not 
+provided specific accounting direction; 
+ 
+III. correction of errors and prior period adjustments that 
+impact the True-Up Adjustment calculation; 
+IV. the implementation of new estimation methods or policies 
+ 
+4  It is the intent of the Formula Rate, including the supporting explanations and allocations described therein, 
+that each input to the Formula Rate for purposes of determining the actual Net Revenue Requirement for a given 
+Rate Year will be either taken directly from the FERC Form No. 1 or reconcilable to the FERC Form No. 1 by the 
+application of clearly identified and supported information.  If the referenced form is superseded, the successor 
+form(s) shall be utilized and supplemented as necessary to provide equivalent information as that provided in the 
+superseded form. If the referenced form is discontinued, equivalent information as that provided in the discontinued 
+form shall be utilized. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 8 
+that change prior estimates; and 
+V. changes to income tax elections; 
+B. any items included in the Annual True-Up at an amount other than 
+on a historic cost basis (e.g., fair value adjustments); 
+C. any reorganization or merger transaction during the previous year 
+and an explanation of the effect of the accounting for such 
+transaction(s) on inputs to the True-Up Adjustment; 
+D. for each item identified pursuant to Sections 3.d.iii.A – C of these 
+Protocols, the individual impact (in narrative format) of such 
+changes on the True-Up Adjustment; 
+(iv) Shall not seek to modify the Formula Rate and shall not be subject to 
+challenge by any Interested Party seeking to modify the Formula Rate 
+(i.e., any modifications to the Formula Rate will require, as applicable, an 
+FPA Section 205 or Section 206 filing or initiation of a Section 206 
+investigation); and 
+(v) Shall include for the applicable Rate Year the following information 
+related to affiliate cost allocation: (A) a detailed description of the 
+methodologies used to allocate and directly assign costs between SRE and 
+its affiliates by service category and function, including any changes to 
+such cost allocation methodologies from the prior year, and the reasons 
+and justification for those changes; and (B) the magnitude of such costs 
+that have been allocated or directly assigned between SRE and each 
+affiliate by service category or function. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 9 
+e. Stated Value Inputs.  The following Formula Rate inputs shall be stated values to 
+be used in the Formula Rate until changed pursuant to an FPA Section 205 or 
+Section 206 proceeding: (i) rate of return on common equity (“ROE”); and (ii) the 
+depreciation and/or amortization rates as set forth in Attachment 10 to the 
+Formula Rate template. 
+f. Review and Challenge of the Annual Update.  The Annual Update shall be subject 
+to review, challenge, true-up and refunds or surcharges in accordance with the 
+procedures set forth in Sections 4, 5, and 6 of these Protocols, including the 
+prudence of any costs and expenditures included for recovery in the Annual 
+Update; provided, however, that nothing in these Protocols is intended to modify 
+the Commission’s applicable precedent with respect to the burden of going 
+forward or burden of proof under formula rates in such prudence challenges. 
+g. Example – Timeline for 2019 Annual Update: 
+On or before October 1, 2018, SRE will determine the projected Net Revenue 
+Requirement for the 2019 Rate Year.  SRE will post the Annual Projection for the 
+2019 Rate Year in accordance with Section 1 above.  SRE will not determine a 
+True-up Adjustment or post an Annual Update on July 1, 2019 if no costs have 
+been recovered under the Formula Rate during 2018.  On or before October 1, 
+2019, SRE will post the Annual Projection for the 2020 Rate Year.  On or before 
+July 1, 2020, SRE will post its first Annual Update, consisting of the actual Net 
+Revenue Requirement and True-Up Adjustment for the 2019 Rate Year 
+determined pursuant to Section 2 above.  Such True-Up Adjustment will be 
+reflected in the Annual Projection of the Net Revenue Requirement for the 2021 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 10 
+Rate Year posted on or before October 1, 2020.  The Annual Update posted July 
+1, 2020 will be subject to the customer review and challenge procedures described 
+in Sections 4, 5, and 6 of these Protocols. 
+Section 4. Annual Review Procedures  
+The Annual Update and Annual Projection for each Rate Year shall be subject to the following 
+review procedures (“Annual Review Procedures”): 
+a. Information Requests and Responses 
+(i) Deadlines.  Interested Parties shall have until January 1 following each 
+annual Publication Date (unless such period is extended with the written 
+consent of SRE or by FERC order) to serve reasonable information and 
+document requests on SRE.  SRE shall make a good faith effort to respond 
+to information and document requests pertaining to the Annual Update and 
+Annual Projection within fifteen (15) business days of receipt of such 
+requests.  SRE shall respond to all timely information and document 
+requests by February 1 following each annual Publication Date; provided, 
+however, that SRE may reasonably extend the deadline for its own 
+responses in the event that it extends the deadline for submission of 
+information and document requests.  If the date for submitting or 
+responding to information and document requests should fall on a 
+weekend or a holiday recognized by the FERC, then the submissions or 
+responses shall be due on the next business day. 
+(ii) Scope.  Information requests shall be limited to what is necessary to 
+determine: (A) the extent, effect, or impact of an Accounting Change; (B) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 11 
+whether the True-Up Adjustment fails to include data properly recorded in 
+accordance with the Protocols; (C) the proper application of the Template 
+and procedures in the Protocols; (D) the accuracy of data and consistency 
+with the Formula Rate of the charges shown in the Annual Update or 
+Annual Projection; (E) the prudence of the actual costs and expenditures; 
+(F) the effect of any change to the underlying USofA or applicable form; 
+and (G) any other information that may reasonably have substantive effect 
+on the calculation of the charge pursuant to the Formula Rate. 
+(iii) Limitation on Scope.  Information requests shall not solicit information 
+concerning costs or allocations where the costs or allocation methods have 
+been determined to be appropriate by FERC in the context of prior SRE 
+Annual Updates, except that such information requests shall be permitted 
+if they (A) seek to determine if there has been a change in circumstances, 
+(B) are in connection with corrections pursuant to Section 6 of these 
+Protocols, or (C) relate to costs or allocations that have not previously 
+been challenged and adjudicated by FERC. 
+(iv) Public Availability of Information Requests and Responses.  Information 
+requests received by SRE and SRE’s responses thereto will be posted at a 
+publicly accessible location on PJM’s internet website and a link to the 
+website will be distributed to the PJM Exploder List; provided, however, 
+that if responses to information and document requests include material 
+deemed by SRE to be confidential information, such information will not 
+be publicly posted but will be made available to requesting parties 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 12 
+pursuant to a confidentiality agreement to be executed by SRE and the 
+requesting party.   
+(v) Privilege.  SRE shall not claim that responses to information and 
+document requests provided pursuant to these protocols are subject to any 
+settlement privilege in any subsequent proceeding addressing SRE’s 
+Annual Update or Annual Projection. 
+(vi) Disputes.  To the extent SRE and any Interested Person(s) are unable to 
+resolve disputes related to information requests submitted in accordance 
+with these Annual Review Procedures, SRE or the Interested Person(s) 
+may petition the FERC to appoint an Administrative Law Judge as a 
+discovery master to resolve the discovery dispute(s) in accordance with 
+these Protocols and consistent with FERC’s discovery rules. 
+b. Informal Challenges 
+(i) Deadlines.  Interested Parties shall have the period of time from the 
+Publication Date until March 1 (“Review Period”) to review the 
+calculations and to notify SRE in writing of any specific challenges to the 
+Annual Update and Annual Projection (“Informal Challenge”), including 
+challenges related to Accounting Changes; provided, however, that such 
+Review Period may be extended with the written consent of SRE or by 
+FERC order.  If March 1 should fall on a weekend or a holiday recognized 
+by the FERC, then Informal Challenges shall be due on the next business 
+day.  SRE shall make a good faith effort to respond to Informal Challenges 
+within twenty (20) days of receipt of such challenge.  SRE shall respond to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 13 
+all Informal Challenges no later than April 1; provided, however, that SRE 
+may reasonably extend the deadline for its own responses in the event that 
+it extends the Review Period.  If April 1 should fall on a weekend or a 
+holiday recognized by the FERC, then SRE’s responses to Informal 
+Challenges shall be due on the next business day. 
+(ii) Contents and Scope.  An Interested Party submitting an Informal 
+Challenge to SRE must specify the inputs, supporting explanations, 
+allocations, calculations, or other information to which it objects, and 
+provide an appropriate explanation and documents to support its 
+challenge.  A party may raise in an Informal Challenge all issues that may 
+be necessary to determine: (A) the extent, effect, or impact of an 
+Accounting Change; (B) whether the True-Up Adjustment fails to include 
+data properly recorded in accordance with the Protocols; (C) the proper 
+application of the Template and procedures in the Protocols; (D) the 
+accuracy of data and consistency with the Formula Rate of the charges 
+shown in the Annual Update; (E) the prudence of the actual costs and 
+expenditures; (F) the effect of any change to the underlying USofA or 
+applicable form; and (G) any other information that may reasonably have 
+substantive effect on the calculation of the charge pursuant to the Formula 
+Rate. 
+(iii) Responses to Informal Challenges.  In its responses, SRE shall notify the 
+challenging party of the extent to which SRE agrees or disagrees with the 
+challenge.  If SRE disagrees with the Informal Challenge, its response 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 14 
+shall include supporting documentation. 
+(iv) Public Availability of Informal Challenges and Responses.  SRE shall 
+promptly cause to be posted all Informal Challenges and SRE’s responses 
+to such Informal Challenges at a publicly accessible location on PJM’s 
+internet website and a link to the website will be e-mailed to the PJM 
+Exploder List; provided, however, that if Informal Challenges or SRE’s 
+responses to such Informal Challenges include material deemed by SRE to 
+be confidential information, such challenges and responses will not be 
+publicly posted but will be made available to requesting parties pursuant 
+to a confidentiality agreement to be executed by SRE and the requesting 
+party. 
+(v) Senior Representatives.  SRE, and where applicable, the transmission 
+provider, shall appoint a senior representative to work with the Interested 
+Person(s) that submitted the Informal Challenge (or its representative) 
+toward a resolution of the challenge. 
+c. Accounting Changes 
+(i) Challenges Related to Accounting Changes.  Informal or Formal 
+Challenges (as described in Sections 4 and 5) related to Accounting 
+Changes shall be treated in the same manner under these Protocols as 
+other challenges to the Annual Update or Annual Projection.  Failure to 
+make an Informal Challenge with respect to an Accounting Change in an 
+Annual Update or Annual Projection shall not act as a bar with respect to a 
+Formal Challenge with respect to that Annual Update, nor shall such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 15 
+failure bar a subsequent Informal Challenge related to a subsequent 
+Annual Update to the extent such Accounting Change affects the 
+subsequent Annual Update. 
+(ii) Remedies.  If a change made by SRE to its accounting policies, practices 
+or procedures, or the application of the Formula Rate, is found by the 
+FERC to be unjust, unreasonable, or unduly discriminatory or preferential, 
+then the calculation of the charges to be assessed during the Rate Year 
+then under review, and the charges to be assessed during any subsequent 
+Rate Years, including any True-up Adjustments, shall not include such 
+change, but shall include any remedy that may be prescribed by FERC in 
+the exercise of its discretion as of the effective date of such remedy, to 
+ensure that the Formula Rate continues to operate in a manner that is just, 
+reasonable, and not unduly discriminatory or preferential. 
+Section 5. Resolution of Challenges  
+a. Deadlines.  Any Interested Person(s) may file a challenge with the FERC 
+(“Formal Challenge”) contesting some action or inaction by SRE with respect to 
+the Annual Update or Annual Projection, and shall do so no later than May 15 
+following the end of the Review Period; provided, however, that such deadline 
+may be extended with the written consent of SRE to continue efforts to resolve an 
+issue or by FERC order.  If May 15 should fall on a weekend or a holiday 
+recognized by the FERC, then Formal Challenges shall be due on the next 
+business day. 
+b. Contents of Formal Challenges.  Formal Challenges shall be filed pursuant to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 16 
+these protocols.  All information and correspondence produced by SRE pursuant 
+to these Protocols may be included in any Formal Challenge or other FERC 
+proceeding relating to the Formula Rate, subject to any applicable confidentiality 
+and Critical Energy Infrastructure Information restrictions.  The Interested 
+Person(s) filing such a Formal Challenge shall do all of the following: 
+(i) Clearly identify the action or inaction which is alleged to violate the 
+Formula Rate (including the Template and/or these Protocols); 
+(ii) Explain how the action or inaction violates the Formula Rate (including 
+the Template and/or these Protocols); 
+(iii) Set forth the business, commercial, economic, or other issues presented by 
+the action or inaction as such relate to or affect the Interested Person(s) 
+filing the Formal Challenge, including: (A) the extent or effect of an 
+Accounting Change; (B) whether the True-Up Adjustment fails to include 
+data properly recorded in accordance with the Protocols; (C) the proper 
+application of the Template and procedures in the Protocols; (D) the 
+accuracy of data and consistency with the Formula Rate of the charges 
+shown in the Annual Update; (E) the prudence of the actual costs and 
+expenditures; (F) the effect of any change to the underlying USofA or 
+applicable form; and (G) any other information that may reasonably have 
+substantive effect on the calculation of the charge pursuant to the Formula 
+Rate; 
+(iv) Make a good faith effort to quantify the financial impact or burden (if any) 
+created for the Interested Person(s) filing the Formal Challenge as a result 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 17 
+of the action or inaction; 
+(v) State whether the issues presented are pending in an existing Commission 
+proceeding or a proceeding in any other forum in which the Interested 
+Person(s) filing the Formal Challenge is a party, and, if so, provide an 
+explanation as to why timely resolution cannot be achieved in that forum; 
+(vi) State the specific relief or remedy requested, including any request for stay 
+or extension of time, and the basis for that relief; 
+(vii) Include all documents that support the facts in the Formal Challenge in 
+possession of, or otherwise attainable by, the Interested Person(s) filing 
+the Formal Challenge, including, but not limited to, contracts and 
+affidavits; and 
+(viii) State whether the Interested Person(s) filing the Formal Challenge utilized 
+the Informal Challenge procedures described in these protocols to dispute 
+the action or inaction raised by the Formal Challenge, and, if not, describe 
+why not. 
+c. Docketing and Service.  Interested Person(s) shall submit Formal Challenges with 
+the Commission in the same docket as the informational filing described in 
+Section 7 and shall serve Formal Challenges on SRE by electronic service on the 
+date of such filing in accordance with Section 385.2010(f)(3) of the 
+Commission’s regulations. 
+d. Other Requirements.  Failure to raise an issue in an Informal Challenge shall not 
+bar an Interested Person from raising that issue in a Formal Challenge, provided 
+the Interested Person submitted an Informal Challenge during the Review Period 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 18 
+with respect to one or more other issues. 
+e. Responses to Formal Challenges by SRE.  Any response by SRE to a Formal 
+Challenge must be submitted to the FERC within thirty (30) calendar days of the 
+date of the filing of the Formal Challenge, and shall be served on the Interested 
+Person(s) filing the Formal Challenge and the PJM Exploder List on the date of 
+such filing.  If such deadline should fall on a weekend or a holiday recognized by 
+the FERC, then SRE’s responses to Informal Challenges shall be due on the next 
+business day. 
+f. Burden.  In any Formal Challenge proceeding concerning a given year’s Annual 
+Update (including corrections) or Accounting Change(s), SRE shall demonstrate 
+the justness and reasonableness of the rate resulting from its application of the 
+Formula Rate by demonstrating that it has reasonably and accurately calculated 
+the Annual Update and/or reasonably adopted and applied the Accounting 
+Change. 
+g. Reservation of Rights under FPA Sections 205 and 206.  Except as specifically 
+provided in these Protocols, nothing herein shall be deemed to limit in any way 
+the right of SRE to file unilaterally, pursuant to Section 205 of the FPA and the 
+regulations thereunder, an application seeking changes to the Formula Rate or to 
+any of the stated value inputs requiring a Section 205 filing under these Protocols 
+(including, but not limited to, ROE and depreciation rates), or the right of any 
+Interested Parties or the Commission to seek such changes pursuant to Section 
+206 of the FPA and the regulations thereunder. 
+h. Limited Section 205 Filings.  SRE may, at its discretion and at a time of its 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 19 
+choosing, make a limited filing pursuant to Section 205 to modify stated values in 
+the Formula Rate for depreciation rates.  SRE will submit a limited Section 205 
+filing to update its depreciation rates at least once every five years thereafter.  
+The sole issue in any such limited Section 205 proceeding shall be whether such 
+proposed change(s) is just and reasonable, and it shall not address other aspects of 
+the Formula Rate. 
+Section 6. Changes to Annual Updates  
+a. If SRE determines or concedes under Sections 4 and/or 5 of these Protocols that 
+corrections to the Annual Update are required (including but not limited to those 
+requiring corrections to its FERC Form No. 1 or input data used for a Rate Year 
+that would have affected the Annual Update for that Rate Year), SRE shall 
+promptly cause a correction to the Annual Update to be posted at a publicly 
+accessible location on PJM’s internet website and such correction to be 
+distributed to the PJM Exploder List.   
+b. Such corrections shall be reflected in the next Annual Update, with interest.  
+Interest on any over- or under-recovery due to corrections for preceding True-up 
+Adjustments shall be calculated monthly on such over- or under-recovery from 
+January 1 of the corrected Rate Year through December 31 of the Rate Year in 
+which such over- or under-recovery is reflected (“Correction Period”).  That is 
+equivalent to two years interest applied to over- or under- collection.  The 
+applicable monthly interest rates for the Correction Period for an over-recovery or 
+under-recovery shall be the annual interest rates for each month pursuant to 18 
+C.F.R. § 35.19a divided by twelve (12) for each month from the beginning of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 20 
+Correction Period through December 31 of the Rate Year immediately preceding 
+the Rate Year in which such over-recovery is reflected. 
+c. Such corrections shall be subject to review at the time they are made, and the 
+corrected posting shall be followed by a review period (“Correction Review 
+Period”), during which the scope of review shall be limited to the aspects of the 
+Annual Update affected by the corrections.  SRE and any Interested Person(s) 
+shall work together in good faith to set a reasonable duration for such Correction 
+Review Period and the deadlines for submission and/or responses to information 
+and document requests, Informal Challenges, and Formal Challenges. 
+Section 7. Informational Filing  
+a. Deadline.  SRE shall submit to FERC an informational filing (“Informational 
+Filing”) of its projected Net Revenue Requirement for a Rate Year, including the 
+True-Up Adjustment determined during the preceding Annual Update, by April 
+15 of the Rate Year; provided, however, that SRE may delay the deadline for 
+filing the Informational Update to account for any previous delays in the Review 
+Period or deadline for submitting or responding to Informal Challenges.  If April 
+15 should fall on a weekend or a holiday recognized by the FERC, then the 
+Informational Filing shall be due on the next business day. 
+b. Contents.  This Informational Filing must include the information that is 
+reasonably necessary to determine: (i) that input data under the formula rate are 
+properly recorded in any underlying workpapers; (ii) that SRE has properly 
+applied the formula rate and these procedures; (iii) the accuracy of data and the 
+consistency with the formula rate of the Net Revenue Requirement and rates 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 21 
+under review; (iv) the extent of Accounting Changes that affect Formula Rate 
+inputs; and (v) the reasonableness of projected costs.  The Informational Filing 
+must also describe any corrections or adjustments made during that period, and 
+must describe all aspects of the Annual Update or its inputs that are the subject of 
+an ongoing dispute under the Informal or Formal Challenge procedures.  Finally, 
+the Informational Filing shall include for the applicable Rate Year the following 
+information related to affiliate cost allocation: a detailed description of the 
+methodologies used to allocate and directly assign costs between SRE and its 
+affiliates by service category or function; the magnitude of such costs that have 
+been allocated or directly assigned between SRE and each affiliate by service 
+category or function; and a copy of any service agreement between SRE and any 
+SRE affiliate that went into effect during the Rate Year. 
+c. Challenges.  Any challenges to the implementation of the Template must be made 
+through the procedures described in Sections 4 and 5 of these protocols or in a 
+separate complaint proceeding, and must not be made in response to the 
+Informational Filing. 
+Section 8. Joint Informational Meeting  
+Transmission Owners with transmission projects that are subject to region-wide cost 
+sharing shall endeavor to hold a joint informational meeting to enable all Interested Parties to 
+understand how those Transmission Owners are implementing their formula rates for cost 
+recovery of such projects (“Joint Informational Meeting”).  Notice of the Joint Informational 
+Meeting, including the time, date, and location, shall be posted on the PJM website and 
+distributed to the PJM Exploder List no less than seven (7) days prior to such meeting, and the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-27B - Silver Run Rate Implementation Prot. 
+Effective Date: 9/23/2020 - Docket #: ER20-2504-000 - Page 22 
+Transmission Owners shall provide remote access to Joint Informational Meetings to allow all 
+Interested Parties the opportunity to remotely participate in such meetings.  SRE will participate 
+in Joint Informational Meetings once it begins development of a project for which costs are to be 
+regionally allocated.  If a certain deadline for Interested Parties falls on a weekend or holiday 
+recognized by the Commission, then the deadline will be extended to the next business day. 
+Section 9. Competitive Concessions  
+For transmission development projects assigned to SRE as a result of the PJM 
+competitive proposal process, SRE may, in its sole discretion, agree with PJM to apply a 
+competitive concession that will result in a lower Net Revenue Requirement on a project-specific 
+basis than that which would otherwise be produced by the SRE Attachment H-27A formula rate.  
+Any competitive concession will appear as a zero or negative input to the formula, and will be 
+determined on a project-specific basis using a workpaper that will be provided to Interested 
+Parties as supporting documentation for each SRE Annual Update. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28 - MAIT Annual Transmission Rates 
+Effective Date: 7/1/2017 - Docket #: ER17-211-000 - Page 1 

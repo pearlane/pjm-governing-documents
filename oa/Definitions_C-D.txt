@@ -1,0 +1,469 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+Definitions C - D 
+ 
+Capacity Resource: 
+ 
+“Capacity Resource” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+Capacity Storage Resource: 
+ 
+“Capacity Storage Resource” shall mean any Energy Storage Resource that participates in the 
+Reliability Pricing Model or is otherwise treated as capacity in PJM’s markets such as through a 
+Fixed Resource Requirement Capacity Plan. 
+ 
+Catastrophic Force Majeure: 
+ 
+“Catastrophic Force Majeure” shall not include any act of God, labor disturbance, act of the 
+public enemy, war, insurrection, riot, fire, storm or flood, explosion, or curtailment, order, 
+regulation or restriction imposed by governmental, military or lawfully established civilian 
+authorities, unless as a consequence of any such action, event, or combination of events, either 
+(i) all, or substantially all, of the Transmission System is unavailable, or (ii) all, or substantially 
+all, of the interstate natural gas pipeline network, interstate rail, interstate highway or federal 
+waterway transportation network serving the PJM Region is unavailable.  The Office of the 
+Interconnection shall determine whether an event of Catastrophic Force Majeure has occurred for 
+purposes of this Agreement, the PJM Tariff, and the Reliability Assurance Agreement, based on 
+an examination of available evidence.  The Office of the Interconnection’s determination is 
+subject to review by the Commission. 
+ 
+Charge Economic Maximum Megawatts: 
+ 
+“Charge Economic Maximum Megawatts” shall mean the greatest magnitude of megawatt power 
+consumption available for charging in economic dispatch by an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Continuous Mode or in Charge Mode.  Charge 
+Economic Maximum Megawatts shall be the Economic Minimum for an Energy Storage 
+Resource or Open-Loop Hybrid Resource in Charge Mode or in Continuous Mode. 
+ 
+Charge Economic Minimum Megawatts: 
+ 
+“Charge Economic Minimum Megawatts” shall mean the smallest magnitude of megawatt power 
+consumption available for charging in economic dispatch by an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Charge Mode.  Charge Economic Minimum 
+Megawatts shall be the Economic Maximum for an Energy Storage Resource or Open-Loop 
+Hybrid Resource in Charge Mode. 
+ 
+Charge Mode: 
+ 
+“Charge Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that only includes negative megawatt quantities (i.e., 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 2 
+the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource is only 
+withdrawing megawatts from the grid).   
+ 
+Charge Ramp Rate: 
+ 
+“Charge Ramp Rate” shall mean the Ramping Capability of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Charge Mode. 
+ 
+Closed-Loop Hybrid Resource: 
+ 
+“Closed-Loop Hybrid Resource” shall mean a Hybrid Resource without a storage component, or 
+that does not operate by charging its storage component from the grid. 
+ 
+Cold/Warm/Hot Notification Time: 
+ 
+“Cold/Warm/Hot Notification Time” shall mean the time interval between PJM notification and 
+the beginning of the start sequence for a generating unit that is currently in its cold/warm/hot 
+temperature state. The start sequence may include steps such as any valve operation, starting feed 
+water pumps, startup of auxiliary equipment, etc. 
+ 
+Cold/Warm/Hot Start-up Time: 
+ 
+For all generating units that are not combined cycle units, “Cold/Warm/Hot Start-up Time” shall 
+mean the time interval, measured in hours, from the beginning of the start sequence to the point 
+after generator breaker closure, which is typically indicated by telemetered or aggregated State 
+Estimator megawatts greater than zero for a generating unit in its cold/warm/hot temperature 
+state. For combined cycle units, “Cold/Warm/Hot Start-up Time” shall mean the time interval 
+from the beginning of the start sequence to the point after first combustion turbine generator 
+breaker closure in its cold/warm/hot temperature state, which is typically indicated by 
+telemetered or aggregated State Estimator megawatts greater than zero. For all generating units, 
+the start sequence may include steps such as any valve operation, starting feed water pumps, 
+startup of auxiliary equipment, etc. Other more detailed actions that could signal the beginning of 
+the start sequence could include, but are not limited to, the operation of pumps, condensers, fans, 
+water chemistry evaluations, checklists, valves, fuel systems, combustion turbines, starting 
+engines or systems, maintaining stable fuel/air ratios, and other auxiliary equipment necessary 
+for startup. 
+ 
+Cold Weather Alert: 
+ 
+“Cold Weather Alert” shall mean the notice that PJM provides to PJM Members, Transmission 
+Owners, resource owners and operators, customers, and regulators to prepare personnel and 
+facilities for expected extreme cold weather conditions. 
+ 
+Co-Located Resource: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 3 
+“Co-Located Resource” shall mean a component of a Mixed Technology Facility that operates in 
+the capacity, energy, and/or ancillary services market(s) as a separate resource from the other 
+components of such facility. 
+ 
+Committed Offer: 
+ 
+The “Committed Offer shall mean 1) for pool-scheduled resources, an offer on which a resource 
+was scheduled by the Office of the Interconnection for a particular clock hour for an Operating 
+Day, and 2) for self-scheduled resources, either the offer on which the Market Seller has elected 
+to schedule the resource or the applicable offer for the resource determined pursuant to Operating 
+Agreement, Schedule 1, section 6.4, and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 6.4, or Operating Agreement, Schedule 1, section 6.6, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 6.6, for a particular clock hour for an Operating Day.  
+ 
+Compliance Monitoring and Enforcement Program:  
+ 
+“Compliance Monitoring and Enforcement Program” shall mean the program to be used by the 
+NERC and the Regional Entities to monitor, assess and enforce compliance with the NERC 
+Reliability Standards.  As part of a Compliance Monitoring and Enforcement Program, NERC 
+and the Regional Entities may, among other things, conduct investigations, determine fault and 
+assess monetary penalties. 
+ 
+Composite Energy Offer:  
+ 
+“Composite Energy Offer” for generation resources shall mean the sum (in $/MWh) of the 
+Incremental Energy Offer and amortized Start-Up Costs and amortized No-load Costs, and for 
+Economic Load Response Participant resources the sum (in $/MWh) of the Incremental Energy 
+Offer and amortized shutdown costs, as determined in accordance with Operating Agreement, 
+Schedule 1, section 2.4 and Operating Agreement, Schedule 1, section 2.4A and the PJM 
+Manuals. 
+ 
+Condense Energy Use: 
+ 
+“Condense Energy Use” shall mean the power (MW) used by a condensing resource while 
+operating in condensing mode.  The value must be less than or equal to the actual power 
+consumed. 
+ 
+Condense Startup Cost: 
+ 
+“Condense Startup Cost” shall mean the applicable costs for a resource to transition from offline 
+state to operate in condensing mode.  Condense Startup Cost shall consist primarily of the unit’s 
+start heat input (adjusted by the performance factor) times the fuel cost associated with the 
+transition from offline state to operate in condensing mode.  It also may include operating costs, 
+Maintenance Adders, emissions allowances/adders, and station service cost associated with the 
+transition from offline state to operate in condensing mode.  Condense Startup Cost shall be 
+capped at the applicable Start-Up Cost of the Cost-Based Offer. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 4 
+ 
+Condense to Generate Cost: 
+ 
+“Condense to Generate Cost” shall mean the applicable costs for a resource to transition from 
+operating in condensing mode to operating in generating mode.  Condense to Generate Cost shall 
+consist primarily of the unit’s start heat input (adjusted by the performance factor) times the fuel 
+cost associated with the transition from operating in condensing mode to operating in generating 
+mode.  It also may include operating costs, Maintenance Adders, emissions allowances/adders, 
+and station service cost associated with the transition from operating in condensing mode to 
+operating in generating mode.  Condense to Generate Cost shall be capped at the applicable 
+Start-Up Cost of the Cost-Based Offer. 
+ 
+Congestion Price: 
+ 
+“Congestion Price” shall mean the congestion component of the Locational Marginal Price, 
+which is the effect on transmission congestion costs (whether positive or negative) associated 
+with increasing the output of a generation resource or decreasing the consumption by a Demand 
+Resource, based on the effect of increased generation from or consumption by the resource on 
+transmission line loadings, calculated as specified in Operating Agreement, Schedule 1, section 
+2, and the parallel provisions of Tariff, Attachment K-Appendix, section 2. 
+ 
+Consolidated Transmission Owners Agreement, PJM Transmission Owners Agreement or 
+Transmission Owners Agreement: 
+ 
+“Consolidated Transmission Owners Agreement,” “PJM Transmission Owners Agreement” or 
+Transmission Owners Agreement” shall mean that certain Consolidated Transmission Owners 
+Agreement, dated as of December 15, 2005, by and among the Transmission Owners and by and 
+between the Transmission Owners and PJM Interconnection, L.L.C. on file with the 
+Commission, as amended from time to time. 
+ 
+Continuous Mode: 
+ 
+“Continuous Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that includes both negative and positive megawatt 
+quantities (i.e., the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource 
+is capable of continually and immediately transitioning from withdrawing megawatt quantities 
+from the grid to injecting megawatt quantities onto the grid or injecting megawatts to 
+withdrawing megawatts).  Energy Storage Resource Model Participants or Open-Loop Hybrid 
+Resource operating in Continuous Mode are considered to have an unlimited ramp rate.  
+Continuous Mode requires Discharge Economic Maximum Megawatts to be zero or correspond 
+to an injection, and Charge Economic Maximum Megawatts to be zero or correspond to a 
+withdrawal. 
+ 
+Control Area: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 5 
+“Control Area” shall mean an electric power system or combination of electric power systems 
+bounded by interconnection metering and telemetry to which a common automatic generation 
+control scheme is applied in order to: 
+ 
+(a) match the power output of the generators within the electric power system(s) and energy 
+purchased from entities outside the electric power system(s), with the load within the electric 
+power system(s); 
+ 
+(b) maintain scheduled interchange with other Control Areas, within the limits of Good 
+Utility Practice; 
+ 
+(c) maintain the frequency of the electric power system(s) within reasonable limits in 
+accordance with Good Utility Practice and the criteria of NERC and each Applicable Regional 
+Entity;  
+ 
+(d) maintain power flows on transmission facilities within appropriate limits to preserve 
+reliability; and 
+ 
+(e) provide sufficient generating capacity to maintain operating reserves in accordance with 
+Good Utility Practice. 
+ 
+Control Zone: 
+ 
+“Control Zone” shall mean one Zone or multiple contiguous Zones, as designated in the PJM 
+Manuals. 
+ 
+Coordinated External Transaction: 
+ 
+“Coordinated External Transaction” shall mean a transaction to simultaneously purchase and sell 
+energy on either side of a CTS Enabled Interface in accordance with the procedures of Operating 
+Agreement, Schedule 1, section 1.13 and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.13. 
+ 
+Coordinated Transaction Scheduling: 
+ 
+“Coordinated Transaction Scheduling” or “CTS” shall mean the scheduling of Coordinated 
+External Transactions at a CTS Enabled Interface in accordance with the procedures of 
+Operating Agreement, Schedule 1, section 1.13, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.13. 
+ 
+Counterparty: 
+“Counterparty” shall mean PJMSettlement as the contracting party, in its name and own right and 
+not as an agent, to an agreement or transaction with a Market Participant or other entities, including 
+the agreements and transactions with customers regarding transmission service and other 
+transactions under the PJM Tariff and this Operating Agreement.  PJMSettlement shall not be a 
+counterparty to (i) any bilateral transactions between Members, or (ii) any Member’s self-supply 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 6 
+of energy to serve its load, or (iii) any Member’s self-schedule of energy reported to the extent that 
+energy serves that Member’s own load.   
+ 
+Credit Breach: 
+ 
+“Credit Breach” shall mean (a) the failure of a Participant to perform, observe, meet or comply 
+with any requirements of Tariff, Attachment Q or other provisions of the Agreements, other than 
+a Financial Default, or (b) a determination by PJM and notice to the Participant that a Participant 
+represents an unreasonable credit risk to the PJM Markets; that, in either event, has not been 
+cured or remedied after any required notice has been given and any cure period has elapsed.   
+ 
+CTS Enabled Interface: 
+ 
+“CTS Enabled Interface” shall mean an interface between the PJM Control Area and an adjacent 
+Control Area at which the Office of the Interconnection has authorized the use of Coordinated 
+Transaction Scheduling (“CTS”). The CTS Enabled Interfaces between the PJM Control Area 
+and the New York Independent System Operator, Inc. Control Area shall be designated in Joint 
+Operating Agreement Among and Between New York Independent System Operator Inc. and 
+PJM Interconnection, L.L.C. (PJM Rate Schedule FERC No. 45) Schedule A.  The CTS Enabled 
+Interfaces between the PJM Control Area and the Midcontinent Independent System Operator, 
+Inc. shall be designated consistent with Joint Operating Agreement between Midcontinent 
+Independent System Operator, Inc. and PJM Interconnection, L.L.C, Attachment 3, section 2. 
+ 
+CTS Interface Bid: 
+ 
+“CTS Interface Bid” shall mean a unified real-time bid to simultaneously purchase and sell 
+energy on either side of a CTS Enabled Interface in accordance with the procedures of Operating 
+Agreement, Schedule 1, section 1.13, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.13. 
+ 
+Curtailment Service Provider: 
+ 
+“Curtailment Service Provider” or “CSP” shall mean a Member or a Special Member, which 
+action on behalf of itself or one or more other Members or non-Members, participates in the PJM 
+Interchange Energy Market, Ancillary Services markets, and/or Reliability Pricing Model by 
+causing a reduction in demand. 
+ 
+Day-ahead Congestion Price: 
+ 
+“Day-ahead Congestion Price” shall mean the Congestion Price resulting from the Day-ahead 
+Energy Market. 
+ 
+Day-ahead Energy Market: 
+ 
+“Day-ahead Energy Market” shall mean the schedule of commitments for the purchase or sale of 
+energy and payment of Transmission Congestion Charges developed by the Office of the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 7 
+Interconnection as a result of the offers and specifications submitted in accordance with 
+Operating Agreement, Schedule 1, section 1.10, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.10. 
+ 
+Day-ahead Energy Market Injection Congestion Credits: 
+ 
+“Day-ahead Energy Market Injection Congestion Credits” shall mean those congestion credits 
+paid to Market Participants for supply transactions in the Day-ahead Energy Market including 
+generation schedules, Increment Offers, Up-to Congestion Transactions, import transactions, and 
+Day-ahead Pseudo-Tie Transactions. 
+ 
+Day-ahead Energy Market Transmission Congestion Charges: 
+ 
+“Day-ahead Energy Market Transmission Congestion Charges” shall be equal to the sum of Day-
+ahead Energy Market Withdrawal Congestion Charges minus [the sum of Day-ahead Energy 
+Market Injection Congestion Credits plus any congestion charges calculated pursuant to the Joint 
+Operating Agreement between the Midcontinent Independent Transmission System Operator, 
+Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC No. 38), plus any congestion 
+charges calculated pursuant to the Joint Operating Agreement Among and Between New York 
+Independent System Operator Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC 
+No. 45), plus any congestion charges calculated pursuant to agreements between the Office of 
+the Interconnection and other entities, as applicable)]. 
+ 
+Day-ahead Energy Market Withdrawal Congestion Charges: 
+ 
+“Day-ahead Energy Market Withdrawal Congestion Charges” shall mean those congestion 
+charges collected from Market Participants for withdrawal transactions in the Day-ahead Energy 
+Market from transactions including Demand Bids, Decrement Bids, Up-to Congestion 
+Transactions, Export Transactions, and Day-ahead Pseudo-Tie Transactions. 
+ 
+Day-ahead Loss Price: 
+ 
+“Day-ahead Loss Price” shall mean the Loss Price resulting from the Day-ahead Energy Market. 
+ 
+Day-ahead Prices: 
+ 
+“Day-ahead Prices” shall mean the Locational Marginal Prices resulting from the Day-ahead 
+Energy Market. 
+ 
+Day-Ahead Pseudo-Tie Transaction:  
+ 
+“Day-Ahead Pseudo-Tie Transaction” shall mean a transaction scheduled in the Day-ahead 
+Energy Market to the PJM-MISO interface from a generator within the PJM balancing authority 
+area that Pseudo-Ties into the MISO balancing authority area. 
+ 
+Day-ahead Settlement Interval:  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 8 
+ 
+“Day-ahead Settlement Interval” shall mean the interval used by settlements, which shall be 
+every one clock hour.  
+ 
+Day-ahead System Energy Price: 
+ 
+“Day-ahead System Energy Price” shall mean the System Energy Price resulting from the Day-
+ahead Energy Market. 
+ 
+Decrement Bid: 
+ 
+“Decrement Bid” shall mean a type of Virtual Transaction that is a bid to purchase energy at a 
+specified location in the Day-ahead Energy Market.  A cleared Decrement Bid results in 
+scheduled load at the specified location in the Day-ahead Energy Market. 
+ 
+Default Allocation Assessment: 
+ 
+“Default Allocation Assessment” shall mean the assessment determined pursuant to Operating 
+Agreement, section 15.2.2. 
+ 
+Demand Bid: 
+ 
+“Demand Bid” shall mean a bid, submitted by a Load Serving Entity in the Day-ahead Energy 
+Market, to purchase energy at its contracted load location, for a specified timeframe and 
+megawatt quantity, that if cleared will result in energy being scheduled at the specified location 
+in the Day-ahead Energy Market and in the physical transfer of energy during the relevant 
+Operating Day.   
+ 
+Demand Bid Limit: 
+ 
+“Demand Bid Limit” shall mean the largest MW volume of Demand Bids that may be submitted 
+by a Load Serving Entity for any hour of an Operating Day, as determined pursuant to Operating 
+Agreement, Schedule 1, section 1.10.1B, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.10.1B.    
+ 
+Demand Bid Screening: 
+ 
+“Demand Bid Screening” shall mean the process by which Demand Bids are reviewed against 
+the applicable Demand Bid Limit,  and rejected if they would exceed that limit, as determined 
+pursuant to Operating Agreement, Schedule 1, section 1.10.1B, and the parallel provisions of 
+Tariff, Attachment K-Appendix, section 1.10.1B. 
+ 
+Demand Resource: 
+ 
+“Demand Resource” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 9 
+Designated Entity: 
+ 
+“Designated Entity” shall mean an entity, including an existing Transmission Owner or 
+Nonincumbent Developer, designated by the Office of the Interconnection with the responsibility 
+to construct, own, operate, maintain, and finance Immediate-need Reliability Projects, Short-term 
+Projects, Long-lead Projects, or Economic-based Enhancements or Expansions pursuant to 
+Operating Agreement, Schedule 6, section 1.5.8. 
+Direct Charging Energy: 
+ 
+“Direct Charging Energy” shall mean the energy that an Energy Storage Resource or Open-Loop 
+Hybrid Resource purchases from the PJM Interchange Energy Market and (i) later resells to the 
+PJM Interchange Energy Market; or (ii) is lost to conversion inefficiencies, provided that such 
+inefficiencies are an unavoidable component of the conversion, storage, and discharge process 
+that is used to resell energy back to the PJM Interchange Energy Market.   
+ 
+Direct Load Control: 
+ 
+“Direct Load Control” shall mean load reduction that is controlled directly by the Curtailment 
+Service Provider’s market operations center or its agent, in response to PJM instructions.  
+ 
+Discharge Economic Maximum Megawatts: 
+ 
+“Discharge Economic Maximum Megawatts” shall mean the maximum megawatt power output 
+available for discharge in economic dispatch by an Energy Storage Resource Model Participant 
+or Open-Loop Hybrid Resource in Continuous Mode or in Discharge Mode. Discharge 
+Economic Maximum Megawatts shall be the Economic Maximum for an Energy Storage 
+Resource or Open-Loop Hybrid Resource in Discharge Mode or in Continuous Mode. 
+ 
+Discharge Economic Minimum Megawatts: 
+ 
+“Discharge Economic Minimum Megawatts” shall mean the minimum megawatt power output 
+available for discharge in economic dispatch by an Energy Storage Resource Model Participant 
+or Open-Loop Hybrid Resource in Discharge Mode.  Discharge Economic Minimum Megawatts 
+shall be the Economic Minimum for an Energy Storage Resource or Open-Loop Hybrid 
+Resource in Discharge Mode. 
+ 
+Discharge Mode: 
+ 
+“Discharge Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that only includes positive megawatt quantities (i.e., 
+the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource is only injecting 
+megawatts onto the grid).   
+ 
+Discharge Ramp Rate: 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions C - D 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 10 
+“Discharge Ramp Rate” shall mean the Ramping Capability of an Energy Storage Resource 
+Model Participant or Open-Loop Hybrid Resource in Discharge Mode. 
+ 
+Dispatch Rate:  
+ 
+“Dispatch Rate” shall mean the control signal, expressed in dollars per megawatt-hour, 
+calculated and transmitted continuously and dynamically to direct the output level of all 
+generation resources dispatched by the Office of the Interconnection in accordance with the 
+Offer Data. 
+ 
+Dispatched Charging Energy:   
+ 
+“Dispatched Charging Energy” shall mean Direct Charging Energy that an Energy Storage 
+Resource Model Participant or Open-Loop Hybrid Resource receives from the electric grid 
+pursuant to PJM dispatch while providing one of the following services in the PJM markets: 
+Energy Imbalance Service pursuant to Tariff, Schedule 4; Regulation; Tier 2 Synchronized 
+Reserves; or Reactive Service. Energy Storage Resource Model Participants and Open-Loop 
+Hybrid Resource shall be considered to be providing Energy Imbalance Service when they are 
+dispatchable by PJM in real-time.   
+ 
+Dynamic Schedule: 
+ 
+“Dynamic Schedule” shall have the same meaning set forth in the NERC Glossary of Terms 
+Used in NERC Reliability Standards. 
+ 
+Dynamic Transfer: 
+ 
+“Dynamic Transfer” shall mean a Pseudo-Tie or Dynamic Schedule. 
+

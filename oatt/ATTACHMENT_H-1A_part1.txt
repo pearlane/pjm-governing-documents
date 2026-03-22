@@ -1,0 +1,3076 @@
+[ATTACHMENT H-1A - Part 1 of 5]
+
+ATTACHMENT H-1A 
+        
+Atlantic City Electric Company         
+Formula Rate -- Appendix A   Notes FERC Form 1  Page # or Instruction   
+Shaded cells are input cells      
+Allocators           
+ Wages & Salary Allocation Factor      
+1  Direct Transmission Wages Expense   p354.21b   
+1a  Exelon Business Services Company Transmission Wages Expense   p354 footnote   
+1b  PHI Service Company Transmission Wages Expense   p354 footnote   
+1c  Total Transmission Wages Expense   (Line 1+1a+1b)   
+2  Total Direct Wages Expense   p354.28b   
+2a  Total Exelon Business Services Company Wages Expense   p354 footnote   
+2b  Total PHI Service Company Wages Expense   p354 footnote   
+2c  Total Wages Expense   (Line 2+2a+2b)   
+3  Less Direct A&G Wages Expense   p354.27b   
+3a  Less Exelon Business Services Company A&G Expense   p354 footnote   
+3b  Less PHI Service Company A&G Expense    p354 footnote   
+4  Total     (Line 2c – 3-3a-3b)   
+5 Wages & Salary Allocator     (Line 1c / 4)   
+        
+ Plant Allocation Factors      
+6  Electric Plant in Service  (Note B) p207.104g (See Attachment 9A, line 14, column j)   
+6a    Less Merger Costs to Achieve   Attachment 10, line 80, column b   
+7  Common Plant In Service - Electric   (Line 24 -24a)   
+8  Total Plant In Service     (Line 6 - 6a + 7)   
+9  Accumulated Depreciation (Total Electric Plant)   p219.29c (See Attachment 9A, line 42, column b)   
+9a    Less Merger Costs to Achieve   Attachment 10, line 39, column b   
+10  Accumulated Intangible Amortization  (Note A) p200.21c (See Attachment 9, line 14, column h)   
+10a    Less Merger Costs to Achieve   Attachment 9, line 15, column h   
+11  Accumulated Common Amortization - Electric  (Note A) p356(See Attachment 9, line 14, column i)   
+11a    Less Merger Costs to Achieve   Attachment 9, line 15, column i   
+12  Accumulated Common Plant Depreciation - Electric  (Note A) p356(See Attachment 9, line 14, column g)   
+12a    Less Merger Costs to Achieve   Attachment 9, line 15, column g   
+13  Total Accumulated Depreciation     (Line 9 - 9a + 10 - 10a + 11 - 11a + 12 - 12a)   
+14  Net Plant     (Line 8 - 13)   
+15  Transmission Gross Plant   (Line 29 - Line 28)   
+16 Gross Plant Allocator     (Line 15 / 8)   
+17  Transmission Net Plant   (Line 39 - Line 28)   
+18 Net Plant Allocator     (Line 17 / 14)   
+Plant Calculations         
+ Plant In Service      
+19  Transmission Plant In Service  (Note B) p207.58.g (See Attachment 9, line 14, column b)   
+19a    Less Merger Costs to Achieve   Attachment 9, line 15, column b   
+20  This line Intentionally Left Blank      
+21  This line Intentionally Left Blank     
+22  Total Transmission Plant In Service   (Line 19 - 19a)   
+23  General & Intangible   p205.5.g & p207.99.g(See Attachment 9, line 14, column c)   
+23a    Less Merger Costs to Achieve   Attachment 9, line 15, column c   
+24  Common Plant (Electric Only)  (Notes A & B) p356(See Attachment 9, line 14, column d)   
+24a    Less Merger Costs to Achieve   Attachment 9, line 15, column d   
+25  Total General & Common     (Line 23 – 23a + 24 – 24a)   
+26  Wage & Salary Allocation Factor   (Line 5)   
+27  General & Common Plant Allocated to Transmission   (Line 25 * 26)   
+28  Plant Held for Future Use (Including Land)   (Note C) p214(See Attachment 9, line 30, column c)   
+29 TOTAL Plant In Service     (Line 22 + 27 + 28)   
+        
+ Accumulated Depreciation      
+30  Transmission Accumulated Depreciation  (Note B) p219.25.c(See Attachment 9, line 14, column e)   
+30a 
+    Less Merger Costs to Achieve   Attachment 9, line 15, column e   
+30b  Transmission Accumulated Depreciation Less Merger Costs to Achieve   (Line 30 - 30a)   
+31  Accumulated General Depreciation   p219.28.c (See Attachment 9, line 14, column f)   
+31a    Less Merger Costs to Achieve   Attachment 9, line 15, column f   
+32  Accumulated Intangible Amortization   (Line 10)   
+33  Accumulated Common Amortization - Electric   (Line 11)   
+34  Common Plant Accumulated Depreciation (Electric Only)   (Line 12)   
+35  Total Accumulated Depreciation   (Sum Lines 31 – 31a + 32 + 33 + 34)   
+36  Wage & Salary Allocation Factor   (Line 5)   
+37  General & Common Allocated to Transmission     (Line 35 * 36)   
+38 TOTAL Accumulated Depreciation     (Line 30b + 37)   
+39 TOTAL Net Property, Plant & Equipment     (Line 29 - 38)   
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 1 - 
+Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 2 
+         
+ Accumulated Deferred Income Taxes       
+40a  Account No. 190 (ADIT) 
+Projected 
+Activity 
+ (Note V) Attachment 1A - ADIT Summary, Line 23   
+40b  Account No. 281 (ADIT - Accel. Amort) 
+Projected 
+Activity 
+ (Note V) Attachment 1A - ADIT Summary, Line 46   
+40c  Account No. 282 (ADIT - Other Property) 
+Projected 
+Activity 
+ (Note V) Attachment 1A - ADIT Summary, Line 69   
+40d  Account No. 283 (ADIT - Other) 
+Projected 
+Activity 
+ (Note V) Attachment 1A - ADIT Summary, Line 92   
+40e  Account No. 255 (Accum. Deferred Investment Tax Credits) 
+Projected 
+Activity 
+ (Note U) Attachment 1A - ADIT Summary, Line 115   
+40f  Accumulated Deferred Income Taxes Allocated To Transmission   Line 40a + 40b + 40c + 40d + 40e   
+        
+ Unamortized Deficient / (Excess) ADIT      
+41a  Unamortized Deficient / (Excess) ADIT (Federal) 
+Projected 
+Activity 
+ (Note W) 
+Attachment 1D - ADIT Rate Base Adjustment, 
+Line 73   
+41b  Unamortized Deficient / (Excess) ADIT (State) 
+Projected 
+Activity 
+ (Note W) 
+Attachment 1D - ADIT Rate Base Adjustment, 
+Line 146   
+42  Unamortized Deficient / (Excess) ADIT Allocated to Transmission   Line 41a + 41b   
+        
+43  
+Adjusted Accumulated Deferred Income Taxes Allocated To 
+Transmission   Line 40f + 42   
+      
+43a 
+Transmission Related CWIP (Current Year 12 Month weighted average balances) (Note B) 
+p216.43.b as Shown on Attachment 6(See 
+Attachment 9, line 30, column b)    
+         
+ Transmission O&M Reserves       
+44  Total Balance Transmission Related Account Reserves Enter Negative Attachment 5    
+ Prepayments       
+45  Prepayments    (Note A) Attachment - 9, line 30, column f    
+46  Total Prepayments Allocated to Transmission     (Line 45)    
+ Materials and Supplies       
+47 
+ Undistributed Stores Exp  (Note A) 
+p227.6c & 16.c(See Attachment 9, line 30, 
+column e)    
+48  Wage & Salary Allocation Factor     (Line 5)    
+49  Total Transmission Allocated   (Line 47 * 48)    
+50 
+ Transmission Materials & Supplies  (Note AA) 
+(p227.8c + p227.5c) (See Attachment 9, line 
+30, column d)    
+51  Total Materials & Supplies Allocated to Transmission   (Line 49 + 50)    
+ Cash Working Capital       
+52  Operation & Maintenance Expense   (Line 85)    
+53  1/8th Rule   x 1/8    
+54  Total Cash Working Capital Allocated to Transmission   (Line 52 * 53)    
+ Network Credits       
+55  Outstanding Network Credits  (Note N) From PJM    
+56 
+ 
+    Less Accumulated Depreciation Associated with Facilities with Outstanding 
+Network Credits (Note N) From PJM    
+57  Net Outstanding Credits   (Line 55 - 56)    
+58 TOTAL Adjustment to Rate Base     (Line 43 + 43a + 44 + 46 + 51 + 54 - 57)    
+59 Rate Base     (Line 39 + 58)    
+             
+ Transmission O&M       
+60  Transmission O&M   Attachment 11A, line 27, column c    
+61  Less extraordinary property loss   Attachment 5    
+62  Plus amortized extraordinary property loss   Attachment 5    
+63       Less Account 565   p321.96.b    
+63a       Less Merger Costs to Achieve   Attachment 10, line 1, column x   
+64 
+ 
+     Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 
+565 (Note O) PJM Data    
+65       Plus Transmission Lease Payments  (Note A) p200.3.c    
+66  Transmission O&M     (Lines 60 - 61 + 62 - 63 – 63a + 64 + 65)    
+ Allocated General & Common Expenses       
+67  Common Plant O&M  (Note A) p356    
+68  Total A&G   Attachment 11B, line 15, column a    
+68a  For informational purposes: PBOP expense in FERC Account 926  (Note S) Attachment 5   
+68b      Less Merger Costs to Achieve   Attachment 10, line 2, column b   
+68c      Less Other   Attachment 5   
+69      Less Property Insurance Account 924   p323.185b    
+70      Less Regulatory Commission Exp Account 928  (Note E) p323.189b    
+71      Less General Advertising Exp Account 930.1   p323.191b    
+72      Less DE Enviro & Low Income and MD Universal Funds  p335.b    
+73      Less EPRI Dues  (Note D) p352-353    
+74  General & Common Expenses     (Lines 67 + 68) -  Sum (68b to 73)    
+75  Wage & Salary Allocation Factor   (Line 5)    
+76  General & Common Expenses Allocated to Transmission   (Line 74 * 75)    
+ Directly Assigned A&G       
+77  Regulatory Commission Exp Account 928  (Note G) p323.189b    
+78  General Advertising Exp Account 930.1   (Note K) p323.191b    
+79  Subtotal - Transmission Related   (Line 77 + 78)    
+80  Property Insurance Account 924   p323.185b    
+81  General Advertising Exp Account 930.1  (Note F) p323.191b    
+82  Total     (Line 80 + 81)    
+83  Net Plant Allocation Factor   (Line 18)    
+84  A&G Directly Assigned to Transmission     (Line 82 * 83)    
+85  Total Transmission O&M     (Line 66 + 76 + 79 + 84)    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 1 - 
+Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 3 
+Depreciation & Amortization Expense          
+ Depreciation Expense       
+86  Transmission Depreciation Expense   p336.7b&c ( See Attachment 5 )    
+87  General Depreciation   p336.10b&c( See Attachment 5 )    
+87a      Less Merger Costs to Achieve   Attachment 10, line 8, column b   
+88  Intangible Amortization   (Note A) p336.1d&e (See Attachment 5 )    
+88a      Less Merger Costs to Achieve   Attachment 10, line 9, column b   
+89  Total   (Line 87 – 87a + 88 – 88a)    
+90  Wage & Salary Allocation Factor     (Line 5)    
+91  General Depreciation Allocated to Transmission   (Line 89 * 90)    
+92  Common Depreciation - Electric Only  (Note A) p336.11.b (See Attachment 5 )    
+93  Common Amortization - Electric Only   (Note A) p356 or p336.11d (See Attachment 5)    
+94  Total   (Line 92 + 93)    
+95  Wage & Salary Allocation Factor     (Line 5)    
+96  Common Depreciation - Electric Only Allocated to Transmission  (Line 94 * 95)    
+97 
+Total Transmission Depreciation & Amortization     (Line 86 + 91 + 96)    
+Taxes Other than Income 
+         
+98 Taxes Other than Income   Attachment 2    
+99 
+Total Taxes Other than Income     (Line 98)    
+Return / Capitalization Calculations 
+         
+ Long Term Interest       
+100  Long Term Interest   p117.62c through 67c    
+101      Less LTD Interest on Securitization Bonds   (Note P) Attachment 8    
+102  Long Term Interest   "(Line 100 - line 101)"    
+103 Preferred Dividends   enter positive p118.29c    
+ Common Stock       
+104  Proprietary Capital   p112.16c    
+105      Less Preferred Stock  enter negative (Line 114)    
+106      Less Account 216.1   enter negative p112.12c    
+106a      Less Account 219  enter negative p112.15c   
+107 
+ Common Stock  
+(Note Z) 
+ (Sum Lines 104 to 106a)    
+ Capitalization       
+108  Long Term Debt   p112.17c through 21c    
+109        Less Loss on Reacquired Debt   enter negative p111.81c    
+110        Plus Gain on Reacquired Debt  enter positive p113.61c    
+111        Less ADIT associated with Gain or Loss  enter negative Attachment 1B - ADIT EOY, Line 7    
+112        Less LTD on Securitization Bonds (Note P) enter negative Attachment 8    
+113  Total Long Term Debt   (Note X)   (Sum Lines 108 to 112)    
+114  Preferred Stock  (Note Y) p112.3c    
+115  Common Stock   (Line 107)    
+116  Total  Capitalization     (Sum Lines 113 to 115)    
+117  Debt % Total Long Term Debt (Note Q) (Line 113 / 116)    
+118  Preferred % Preferred Stock (Note Q) (Line 114 / 116)    
+119  Common % Common Stock (Note Q) (Line 115 / 116)    
+120  Debt Cost Total Long Term Debt  (Line 102 / 113)    
+121  Preferred Cost Preferred Stock  (Line 103 / 114)    
+122  Common Cost Common Stock (Note J) Fixed    
+123  Weighted Cost of Debt Total Long Term Debt (WCLTD)  (Line 117 * 120)    
+124  Weighted Cost of Preferred Preferred Stock  (Line 118 * 121)    
+125   Weighted Cost of Common Common Stock   (Line 119 * 122)    
+126 
+Total Return ( R )   (Sum Lines 123 to 125)    
+127 
+Investment Return = Rate Base * Rate of Return     (Line 59 * 126)    
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 1 - 
+Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 4 
+      
+  Income Tax Rates     
+128  FIT=Federal Income Tax Rate  (Note I)   
+129  SIT=State Income Tax Rate or Composite  (Note I)   
+130  p 
+(percent of federal income tax deductible for 
+state purposes)   
+ 
+131  T 
+     T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT 
+* p)} =   
+ 
+132a  T/ (1-T)     
+132b  Tax Gross-Up Factor 1*1/(1-T)    
+       
+ ITC Adjustment  (Note U)   
+133  Investment Tax Credit Amortization  enter negative Attachment 1A - ADIT  
+134  Tax Gross-Up Factor   (Line 132b)  
+       
+135  ITC Adjustment Allocated to Transmission   [Line 133 *134 *135]  
+ Other Income Tax Adjustment     
+136a  
+Tax Adjustment for AFUDC Equity Component of 
+Transmission Depreciation Expense  (Note T) Attachment 5, Line 136a 
+ 
+136b  
+Amortization Deficient / (Excess) Deferred Taxes 
+(Federal) - Transmission Component  (Note T) Attachment 5, Line 136b  
+136c  
+Amortization Deficient / (Excess)  Deferred Taxes 
+(State) - Transmission Component  (Note T) Attachment 5, Line 136c 
+ 
+136d  
+Amortization of Other Flow-Through Items - 
+Transmission Component  (Note T) Attachment 5, Line 136d 
+ 
+136e  Other Income Tax Adjustments - Expense / (Benefit)   
+(Line 136a + 136b + 136c + 
+136d) 
+ 
+136f  Tax Gross-Up Factor   (Line 132b)  
+136g  Other Income Tax Adjustment   (Line 136e*136f)  
+       
+137 Income Tax Component =  
+     CIT=(T/1-T) * Investment Return * (1-
+(WCLTD/R)) =  
+[Line 132a * 127 * (1-(123 / 
+126))]  
+138     (Line 135 + 136g + 137)  
+REVENUE REQUIREMENT          
+ Summary       
+139  Net Property, Plant & Equipment   (Line 39)    
+140  Adjustment to Rate Base   (Line 58)    
+141  Rate Base     (Line 59)    
+142  O&M   (Line 85)    
+143  Depreciation & Amortization   (Line 97)    
+144  Taxes Other than Income   (Line 99)    
+145  Investment Return   (Line 127)    
+146  Income Taxes   (Line 138)    
+147   Gross Revenue Requirement     (Sum Lines 142 to 146)    
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities     
+148  Transmission Plant In Service   (Line 19)    
+149  Excluded Transmission Facilities   (Note M) Attachment 5    
+150  Included Transmission Facilities   (Line 148 - 149)    
+151  Inclusion Ratio   (Line 150 / 148)    
+152  Gross Revenue Requirement     (Line 147)    
+153  Adjusted Gross Revenue Requirement   (Line 151 * 152)    
+ Revenue Credits & Interest on Network Credits       
+154  Revenue Credits   Attachment 3    
+155  Interest on Network Credits  (Note N) PJM Data    
+156   Net Revenue Requirement     (Line 153 - 154 + 155)    
+ Net Plant Carrying Charge       
+157  Net Revenue Requirement   (Line 156)    
+158  Net Transmission Plant   (Line 19 - 30)    
+159  Net Plant Carrying Charge    (Line 157 / 158)    
+160  Net Plant Carrying Charge without Depreciation   (Line 157 - 86) / 158    
+161  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes  (Line 157 - 86 - 127 - 138) / 158    
+ Net Plant Carrying Charge Calculation per 100 Basis Point increase in ROE      
+162  Net Revenue Requirement Less Return and Taxes   (Line 156 - 145 - 146)    
+163  Increased Return and Taxes   Attachment 4    
+164  Net Revenue Requirement per 100 Basis Point increase in ROE  (Line 162 + 163)    
+165  Net Transmission Plant   (Line 19 - 30)    
+166  Net Plant Carrying Charge per 100 Basis Point increase in ROE  (Line 164 / 165)    
+167  Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation  (Line 163 - 86) / 165    
+168  Net Revenue Requirement   (Line 156)    
+169  True-up amount   Attachment 6 A, line 4, column j    
+170  Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects  Attachment 6, line 18, column 12    
+171  Facility Credits under Section 30.9 of the PJM OATT and Facility Credits to Vineland per settlement in ER05-515 (Note R) Attachment 5     
+172  Net Zonal Revenue Requirement   (Line 168 + 169 + 170 +171)    
+ Network Zonal Service Rate       
+173  1 CP Peak  (Note L) PJM Data    
+174  Rate ($/MW-Year)   (Line 172 / 173)    
+175   Network Service Rate ($/MW/Year)     (Line 174)    
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 1 - 
+Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 5 
+Notes      
+A Electric portion only      
+B Exclude Construction Work In Progress and leases that are expensed as O&M (rather than amortized).  New Transmission plant     
+ that is expected to be placed in service in the current calendar year weighted by number of months it is expected to be in-service.  New Transmission plant expected   
+ to be placed in service in the current calendar year that is not included in the PJM Regional Transmission Plan (RTEP) must be separately detailed on Attachment 5.   
+ For the Reconciliation, new transmission plant that was actually placed in service weighted by the number of months it was actually in service   
+ CWIP will be linked to Attachment 6 which shows detail support by project (incentive and non-incentive).     
+C Transmission Portion Only      
+D All EPRI Annual Membership Dues      
+E All Regulatory Commission Expenses       
+F Safety related advertising included in Account 930.1        
+G Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h.    
+I The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income 
+taxes”.  If the utility includes taxes in more than one state, it must explain in Attachment 5 the name of each state and how the blended or composite SIT was developed.    
+J The ROE is 10.5% which includes a base ROE of 10.0% ROE per FERC order in Docket No. EL13-48 and a 50 basis point RTO membership adder as authorized by FERC: provided, that the 
+projects identified in Docket Nos. ER08-686 and ER08-1423 have been awarded an additional 150 basis point adder and, thus, their ROE is 12.0%.   
+K Education and outreach expenses relating to transmission, for example siting or billing      
+L As provided for in Section 34.1 of the PJM OATT and the PJM established billing determinants will not be revised or updated in the annual rate reconciliations per settlement in ER05-515.   
+M Amount of transmission plant excluded from rates per Attachment 5.      
+N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments       
+   (net of accumulated depreciation) towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A.       
+   Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmisison Owner whole on Line 155.      
+O Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included in Transmission O&M.      
+   If they are booked to Acct 565, they are included in on line 64      
+P Securitization bonds may be included in the capital structure per settlement in ER05-515.     
+Q ACE capital structure is initially fixed at 50% common equity and 50% debt per settlement in ER05-515 subject to moratorium provisions in the settlement.   
+R Per the settlement in ER05-515, the facility credits of $15,000 per month paid to Vineland will increase to $37,500 per month (prorated for partial months)   
+ effective on the date FERC approves the settlement in ER05-515.     
+S See Attachment 5, Cost Support, section entitled “PBOP expense in FERC Account 926 “ for additional information per FERC orders in Docket Nos. EL13-48, EL15-27 and ER16-
+456.     
+T See Attachment 5 – Cost Support, section entitled “Other Income Tax Adjustment” for additional information.     
+U 
+Atlantic City Electric Company  elected to amortize investment tax credits against recoverable income tax expense, rather than to reduce rate base by unamortized investment tax 
+credit.  Amortization reduces income tax expense and reduces the revenue requirement by the amount of the Investment Tax Credit Amortization (Form 1, 266.8.f) multiplied by (1/1-
+T).     
+V The Accumulated Deferred Income Tax (ADIT) balances in Accounts 190, 281, 282, and 283 are measured using the enacted tax rate that is expected to apply when the underlying 
+temporary differences are expected to be settled or realized. To preserve rate base neutrality, theses balances appropriately exclude ADIT amounts associated with income tax related 
+regulatory assets and liabilities.  The balances in Accounts 190, 281, 282 and 283 are adjusted in accordance with Treasury regulation Section 1.167(l)-1(h)(6) and averaged in 
+accordance with IRC Section 168(i)(9)(B) in the calculations of rate base in the projected revenue requirement and in the true-up adjustment.  Differences attributable to over-
+projection of ADIT in the projected revenue requirement will result in a proportionate reversal of the projected prorated ADIT activity in the true-up adjustment to the extent of the 
+over-projection.  Differences attributable to under-projection of ADIT in the projected revenue requirement will result in an adjustment to the projected prorated ADIT activity by 50 
+percent of the difference between the projected monthly activity and the actual monthly activity.  However, when projected monthly ADIT activity is an increase and actual monthly 
+ADIT activity is a decrease, 50 percent of the actual monthly ADIT activity will be used.  Likewise, when projected monthly ADIT activity is a decrease and actual monthly ADIT 
+activity is an increase, 50 percent of actual monthly ADIT activity will be used.  For the Annual Update (Projected) filing, see Attachment 1A - ADIT Summary, Column  H for 
+inputs.  For the Annual Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs.     
+W These balances represent the unamortized federal and state deficient / (excess) deferred income taxes.  To preserve rate base neutrality and consistent with the exclusion of ADIT 
+amounts associated with income tax-related regulatory assets and liabilities as described in Note V, regulatory assets and liabilities for deficient and excess ADIT are reflected without 
+tax gross-up.    For the Annual Update (Projected) filing, see Attachment 1D - ADIT Rate Base Adjustment, Column C for inputs.  For the Annual Update (True-Up) filing, See 
+Attachment 1D - ADIT Rate Base Adjustment, Column F for inputs.     
+X 
+ 
+Y 
+ 
+Z 
+ 
+A
+A 
+Long Term Debt balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. The 
+balances for January through November shall represent the actual balances in ACE’s books and records (trial balance or monthly balance sheet). 
+Preferred Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 line 3.c & d in the Form No. 1. The balances for January 
+through November shall represent the actual balances in ACE’s books and records (trial balance or monthly balance sheet). 
+Common Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 16.c & d in the Form No. 1. The balances for January 
+through November shall represent the actual balances in ACE’s books and records (trial balance or monthly balance sheet). 
+Only the transmission portion of amounts reported at Form 1, page 227, line 5 is used.  The transmission portion of line 5 is specified in a footnote to the Form 1, page 227.     
+      
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 1 
+ 
+ 
+ 
+Atlantic City Electric Company  
+Accumulated Deferred Income Taxes (ADIT) - Transmission Allocated 
+Attachment 1A - ADIT Summary 
+                  
+   
+Rate Year 
+=                    
+                  
+   
+Accumulated Deferred Income 
+Taxes (Account No. 190)         
+   Days in Period  Projection - Proration of Deferred Tax 
+Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Remaining 
+Days 
+Per Month 
+Total 
+Days 
+in 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column E 
+x Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 1  
+ADIT 
+Subject to 
+Proration  
+                                             
+-    
+                                               
+-    
+                  
+ 2  January                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 3  February                    
+28  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 4  March                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 5  April                    
+30  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 6  May                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 7  June                    
+30  
+                              
+185  
+                   
+214  86.45% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 8  July                    
+31  
+                              
+154  
+                   
+214  71.96% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 9  August                    
+31  
+                              
+123  
+                   
+214  57.48% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 10  
+Septembe
+r 
+                   
+30  
+                                
+93  
+                   
+214  43.46% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 11  October                    
+31  
+                                
+62  
+                   
+214  28.97% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 12  November                    
+30  
+                                
+32  
+                   
+214  14.95% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 13  December                    
+31  1                    
+214  0.47% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 2 
+ 14  
+Total (Sum 
+of Lines 2 - 
+13) 
+                 
+365                                            
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 15  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+   
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 16  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 17  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 15 + Line 
+16) 
+                                     
+-    
+ (Col. (M), Line 15 + 
+Line 16)   
+                                         
+-    
+                  
+ 18  
+Ending Balance - 
+ADIT Not Subject to 
+Proration    
+   
+ 
+#DIV/0!    
+   
+                                         
+-    
+ 19  
+Ending Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 20  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 18 + Line 
+19) 
+#DIV/0!  (Col. (M), Line 18 + 
+Line 19)   
+                                         
+-    
+                  
+ 21  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 17 + Line 
+20] /2) 
+#DIV/0!  ([Col. (M), Line 17 + 
+Line 20] /2)   
+                                         
+-    
+ 22  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 13 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 
+13 )    
+                                         
+-    
+ 23  
+Amount for 
+Attachment H-1A, 
+Line 40a 
+    (Col. (H), Line 21 + Line 
+22) 
+#DIV/0!  (Col. (M), Line 21 + 
+Line 22)   
+                                         
+-    
+                  
+   
+Accumulated Deferred Income Taxes - 
+Accelerated Amortization (Account No. 
+281)   
+      
+ 
+          
+   Days in Period  Projection - Proration of Deferred Tax 
+Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column E 
+x Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 24  
+ADIT 
+Subject to 
+Proration  
+                                             
+-    
+                                               
+-    
+                  
+ 25  January                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 3 
+ 26  February                    
+28  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 27  March                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 28  April                    
+30  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 29  May                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 30  June                    
+30  
+                              
+185  
+                   
+214  86.45% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 31  July                    
+31  
+                              
+154  
+                   
+214  71.96% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 32  August                    
+31  
+                              
+123  
+                   
+214  57.48% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 33  
+Septembe
+r 
+                   
+30  
+                                
+93  
+                   
+214  43.46% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 34  October                    
+31  
+                                
+62  
+                   
+214  28.97% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 35  November                    
+30  
+                                
+32  
+                   
+214  14.95% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 36  December                    
+31  1                    
+214  0.47% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 37  
+Total (Sum 
+of Lines 25 - 
+36) 
+                 
+365                                            
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 38  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+   
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 39  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 40  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 38 + Line 
+39) 
+                                     
+-    
+ (Col. (M), Line 38 + 
+Line 39)   
+                                         
+-    
+                  
+ 41  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+    
+                                     
+-    
+      
+                                         
+-    
+ 42  
+Ending Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 43  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 41 + Line 
+42) 
+                                     
+-    
+ (Col. (M), Line 41 + 
+Line 42)   
+                                         
+-    
+                  
+ 44  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 40 + Line 
+43] /2) 
+                                     
+-    
+ ([Col. (M), Line 40 + 
+Line 43] /2)   
+                                         
+-    
+ 45  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 36 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 
+36 )    
+                                         
+-    
+ 46  
+Amount for 
+Attachment H-1A, 
+Line 40b 
+    (Col. (H), Line 44 + Line 
+45) 
+                                     
+-    
+ (Col. (M), Line 44 + 
+Line 45)   
+                                         
+-    
+                  
+   Accumulated Deferred Income                     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 4 
+Taxes - Property (Account No. 
+282) 
+   Days in Period  Projection - Proration of Deferred Tax 
+Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column E 
+x Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 47  
+ADIT 
+Subject to 
+Proration  
+                                             
+-    
+                                               
+-    
+                  
+ 48  January                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 49  February                    
+28  
+                                 
+-    
+                   
+214  50.00% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 50  March                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 51  April                    
+30  
+                                 
+-    
+                   
+214  50.00% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 52  May                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 53  June                    
+30  
+                              
+185  
+                   
+214  86.45% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 54  July                    
+31  
+                              
+154  
+                   
+214  71.96% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 55  August                    
+31  
+                              
+123  
+                   
+214  57.48% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 56  
+Septembe
+r 
+                   
+30  
+                                
+93  
+                   
+214  43.46% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 57  October                    
+31  
+                                
+62  
+                   
+214  28.97% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 58  November                    
+30  
+                                
+32  
+                   
+214  14.95% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 59  December                    
+31  1                    
+214  0.47% 
+                                  
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 60  
+Total (Sum 
+of Lines 48 - 
+59) 
+                 
+365                                
+(5,161,025) 
+                    
+(2,350,340) 
+                       
+(18,202,502) 
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 61  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+   
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 62  
+Beginning Balance - 
+ADIT Depreciation 
+Adjustment     
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 63  
+Beginning 
+Balance -     
+ (Col. (H), Line 61 + Line 
+62) 
+                                     
+-    
+ (Col. (M), Line 61 + 
+Line 62)   
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 5 
+DTA / (DTL) 
+                  
+ 64  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+    #DIV/0!       
+                                         
+-    
+ 65  
+Ending Balance - 
+ADIT Depreciation 
+Adjustment     
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 66  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 64 + Line 
+65) 
+#DIV/0!  (Col. (M), Line 64 + 
+Line 65)   
+                                         
+-    
+                  
+ 67  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 63 + Line 
+66] /2) 
+#DIV/0!  ([Col. (M), Line 63 + 
+Line 66] /2)   
+                                         
+-    
+ 68  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 59 ) 
+                          
+(2,350,340) 
+ 
+(Col. 
+(M), 
+Line 
+59 )    
+                                         
+-    
+ 69  
+Amount for 
+Attachment H-1A, 
+Line 40c 
+    (Col. (H), Line 67 + Line 
+68) 
+#DIV/0!  (Col. (M), Line 67 + 
+Line 68)   
+                                         
+-    
+                  
+   
+Accumulated Deferred Income 
+Taxes - Other (Account No. 283)         
+   Days in Period  Projection - Proration of Deferred Tax 
+Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column E 
+x Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 70  
+ADIT 
+Subject to 
+Proration  
+                                             
+-    
+                                               
+-    
+                  
+ 71  January                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 72  February                    
+28  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 73  March                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 74  April                    
+30  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 75  May                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 76  June                    
+30  
+                              
+185  
+                   
+214  86.45% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 77  July                    
+31  
+                              
+154  
+                   
+214  71.96% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 6 
+ 78  August                    
+31  
+                              
+123  
+                   
+214  57.48% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 79  
+Septembe
+r 
+                   
+30  
+                                
+93  
+                   
+214  43.46% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 80  October                    
+31  
+                                
+62  
+                   
+214  28.97% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 81  November                    
+30  
+                                
+32  
+                   
+214  14.95% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 82  December                    
+31  1                    
+214  0.47% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 83  
+Total (Sum 
+of Lines 71 - 
+82) 
+                 
+365                                            
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 84  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+   
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 85  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 86  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 84 + Line 
+85) 
+                                     
+-    
+ (Col. (M), Line 84 + 
+Line 85)   
+                                         
+-    
+                  
+ 87  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+    #DIV/0!       
+                                         
+-    
+ 88  
+Ending Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 89  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 87 + Line 
+88) 
+#DIV/0!  (Col. (M), Line 87 + 
+Line 88)   
+                                         
+-    
+                  
+ 90  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 86 + Line 
+89] /2) 
+#DIV/0!  ([Col. (M), Line 86 + 
+Line 89] /2)   
+                                         
+-    
+ 91  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 82 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 
+82 )    
+                                         
+-    
+ 92  
+Amount for 
+Attachment H-1A, 
+Line 40d 
+    (Col. (H), Line 90 + Line 
+91) 
+#DIV/0!  (Col. (M), Line 90 + 
+Line 91)   
+                                         
+-    
+                  
+   
+Accumulated Deferred 
+Investment Tax Credits 
+(Account No. 255)    
+  
+ 
+  
+   Days in Period  Projection - Proration of Deferred ITC 
+Activity (Note A) 
+ Actual  - Proration of Deferred ITC Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column E 
+x Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G Plus 
+Col. H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 7 
+Preceding 
+Balance) 
+                  
+ 93  
+DITC 
+Subject to 
+Proration  
+                                             
+-    
+                                               
+-    
+                  
+ 94  January                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 95  February                    
+28  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 96  March                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 97  April                    
+30  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 98  May                    
+31  
+                                 
+-    
+                   
+214  50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 99  June                    
+30  
+                              
+185  
+                   
+214  86.45% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 100  July                    
+31  
+                              
+154  
+                   
+214  71.96% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 101  August                    
+31  
+                              
+123  
+                   
+214  57.48% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 102  
+Septembe
+r 
+                   
+30  
+                                
+93  
+                   
+214  43.46% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 103  October                    
+31  
+                                
+62  
+                   
+214  28.97% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 104  November                    
+30  
+                                
+32  
+                   
+214  14.95% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 105  December                    
+31  1                    
+214  0.47% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 106  
+Total (Sum 
+of Lines 94 - 
+105) 
+                 
+365                                            
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 107  
+Beginning Balance - 
+DITC Not Subject to 
+Proration    
+   
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 108  
+Beginning Balance - 
+DITC Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 109  
+Beginning 
+Balance - 
+DITC     
+ (Col. (H), Line 107 + Line 
+108) 
+                                     
+-    
+ (Col. (M), Line 107 + 
+Line 108)   
+                                         
+-    
+                  
+ 110  
+Estimated Ending Balance - DITC 
+Not Subject to Proration   
+    
+                                     
+-    
+      
+                                         
+-    
+ 111  
+Ending 
+Balance - 
+DITC 
+Adjustment      
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 112  
+Ending 
+Balance - 
+DITC       
+ (Col. (H), Line 110 + Line 
+111) 
+                                     
+-    
+ (Col. (M), Line 110 + 
+Line 111)   
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 8 
+                  
+ 113  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 109 + 
+Line 112] /2) 
+                                     
+-    
+ ([Col. (M), Line 109 
++ Line 112] /2)   
+                                         
+-    
+ 114  
+Prorated 
+DITC 
+     
+(Col. (H), 
+Line 105 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 
+105 )    
+                                         
+-    
+ 115  
+Amount for 
+Attachment H-1A, 
+Line 40e 
+    (Col. (H), Line 113 + Line 
+114) 
+                                     
+-    
+ (Col. (M), Line 113 + 
+Line 114)   
+                                         
+-    
+                  
+  Instructions                                 
+                  
+       
+ 
+1. For purposes of calculating transmission allocated projected activity, use Columns (F), (G), and (H) and set the "Rate 
+Year" below to "Projected Activity".  For purposes of calculating the "True-Up" adjustment, use Columns (I), (J), (K), (L), 
+and (M) and set the "Rate Year" below to "True-Up Adjustment". 
+ 
+ 
+    
+                  
+ Rate Year  
+Projected 
+Activity Check     
+ 
+   
+ 
+    
+                  
+       
+ 
+2. For the Annual Update (Projected) filing, see Attachment 1A - ADIT Summary, Column  H for inputs.  For the Annual 
+Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs.        
+                  
+  Notes                                  
+                  
+ A       
+        
+        
+  
+The computations on this workpaper apply the proration rules of Reg. Sec. 1.167(l)-1(h)(6) to the annual 
+activity of accumulated deferred income taxes subject to the normalization requirements .  Activity related 
+to the portions of the account balances not subject to the proration requirement are averaged instead of 
+prorated.  For accumulated deferred income taxes subject to the normalization requirements, activity for 
+months prior to the future portion of the test period is averaged rather than prorated.  This section is used 
+to prorate the projected ADIT balance.       
+ B       
+        
+        
+        
+        
+        
+  
+The balances in Accounts 190, 281, 282 and 283 are adjusted in accordance with Treasury regulation 
+Section 1.167(l)-1(h)(6) and averaged in accordance with IRC Section 168(i)(9)(B) in the calculations of 
+rate base in the projected revenue requirement and in the true-up adjustment.  Differences attributable to 
+over-projection of ADIT in the projected revenue requirement will result in a proportionate reversal of the 
+projected prorated ADIT activity in the true-up adjustment to the extent of the over-projection.  
+Differences attributable to under-projection of ADIT in the projected revenue requirement will result in an 
+adjustment to the projected prorated ADIT activity by 50 percent of the difference between the projected 
+monthly activity and the actual monthly activity.  However, when projected monthly ADIT activity is an 
+increase and actual monthly ADIT activity is a decrease, 50 percent of the actual monthly ADIT activity 
+will be used.  Likewise, when projected monthly ADIT activity is a decrease and actual monthly ADIT 
+activity is an increase, 50 percent of actual monthly ADIT activity will be used.  This section is used to 
+calculate ADIT activity in the true-up adjustment only.       
+ C       
+        
+        
+  
+Column J is the difference between projected monthly and actual monthly activity (Column I minus 
+Column F).  Specifically, if projected and actual activity are both positive, a negative in Column J 
+represents over-projection (amount of projected activity that did not occur) and a positive in Column J 
+represents under-projection (excess of actual activity over projected activity). If projected and actual 
+activity are both negative, a negative in Column J represents under-projection (excess of actual activity 
+over projected activity) and a positive in Column J represents over-projection (amount of projected 
+activity that did not occur).                                                                                                                    
+ D       
+  
+Column K preserves proration when actual monthly and projected monthly activity are either both 
+increases or decreases.  Specifically, if Column J is over-projected, enter Column G x [Column I/Column 
+F].  If Column J is under-projected, enter the amount from Column G and complete Column L).  In other 
+situations, enter zero.                                                                       
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 2 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 9 
+ E       
+  
+Column L applies when (1) Column J is under-projected AND (2) actual monthly and projected monthly 
+activity are either both increases or decreases.  Enter the amount from Column J.  In other situations, 
+enter zero.                                                                                                                        
+ F       
+  
+IRS normalization adjustment for timing when accelerated tax depreciation should affect rate base.  
+      
+ 
+ 
+  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 3 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 1 
+ 
+Atlantic City Electric Company  
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+           
+           
+    
+     
+Gas, 
+Production, Only     
+     
+Distribution, 
+or  Transmission Plant  Labor   
+ Line 
+ADIT (Not 
+Subject to 
+Proration)  Total 
+Other 
+Related Related Related Related              
+ 1 ADIT-190  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 2 ADIT-281  
+                                             
+-    
+                                         
+-    
+                           
+-    
+                                           
+-    
+                                             
+-      
+ 3 ADIT-282  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 4 ADIT-283  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 5 ADITC-255  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+                
+ 6 
+Subtotal - 
+Transmission 
+ADIT  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+           
+           
+ Line Description   Total       
+           
+ 7 
+ADIT 
+(Reacquired 
+Debt)  
+                                             
+-          
+           
+   
+   
+ 
+Note: ADIT associated with Gain or Loss on Reacquired Debt included in ADIT-283, Column A is excluded from 
+rate base and instead included in Cost of Debt on Attachment H-1A, Line 111.   A deferred tax (liability) should 
+be reported as a positive balance and a deferred tax asset should be reported as a negative balance on 
+Attachment H-1A, Line 111. The ADIT balance is based on the 13 month average.   
+           
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to 
+Columns B - F and each separate ADIT item will be listed, dissimilar items with amounts exceeding $100,000 will 
+be listed separately.  
+ 
+           
+ (A)   (B) (C) (D) (E)  (F) (G)  
+     
+Gas, 
+Production, Only     
+     
+Distribution, 
+or  Transmission Plant  Labor   
+ ADIT-190 (Not Subject to Proration)  Total Other Related Related Related Justification  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-1A Part 3 - Atlantic City Electric Company 
+Effective Date: 1/1/2022 - Docket #: ER21-2965-001 - Page 2 
+Related 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+        
+   
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+  
+    
+                                             
+-    
+          
+ 
+ 
+Subtotal: ADIT-190 (Not Subject to 
+Proration)   
+                                               
+-  

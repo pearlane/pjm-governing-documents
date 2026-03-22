@@ -1,0 +1,1371 @@
+[SCHEDULE 2 - Part 3 of 7]
+
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 1 
+SCHEDULE D 
+ 
+APPLICABLE TECHNICAL REQUIREMENTS AND STANDARDS 
+ 
+{Include the following language if not required:} 
+ 
+Not Required. 
+ 
+{Otherwise, include the following language:} 
+ 
+The following Applicable Technical Requirements and Standards shall apply.  To the 
+extent that these Applicable Technical Requirements and Standards conflict with the terms and 
+conditions of the Tariff or any other provision of this GIA, the Tariff and/or this GIA shall 
+control. 
+ 
+{Instructions: If the relevant TO Applicable Technical Requirements and Standards are posted 
+on the PJM website, use the following language, subject to modifications as appropriate:} 
+ 
+[Name of TO Standards] [version number (if known and applicable)] dated [insert effective date 
+of the Standards] shall apply.  The [Name of TO Standards] [version number (if known and 
+applicable)] dated [insert effective date of the Standards] is available on the PJM website.  
+ 
+{Instructions. If the relevant TO Applicable Technical Requirements and Standards are not 
+posted on the PJM website, use the following language, subject to modifications as appropriate:} 
+ 
+[Name of TO Standards] [version number (if known and applicable)] dated [insert effective date 
+of the Standards] shall apply. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule E 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE E 
+ 
+SCHEDULE OF CHARGES 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule F 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE F 
+ 
+SCHEDULE OF NON-STANDARD TERMS & CONDITIONS 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule G 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE G 
+ 
+PROJECT DEVELOPER’S AGREEMENT TO CONFORM WITH IRS SAFE HARBOR 
+PROVISIONS FOR NON-TAXABLE STATUS 
+ 
+{Include the appropriate language from the alternatives below:} 
+ 
+{Include the following language if not required:} 
+ 
+Not Required. 
+ 
+[OR] 
+ 
+{Include the following language if applicable to Project Developer:} 
+ 
+As provided in section 24.1 of Appendix 2 to this GIA and subject to the requirements thereof, 
+Project Developer represents that it meets all qualifications and requirements as set forth in 
+section 118(a) and 118(b) of the Internal Revenue Code of 1986, as amended and interpreted by 
+Notice 2016-36, 2016-25 I.R.B. (6/20/2016) (the “IRS Notice”).  Project Developer agrees to 
+conform with all requirements of the safe harbor provisions specified in the IRS Notice, as they 
+may be amended, as required to confer non-taxable status on some or all of the transfer of 
+property, including money, by Project Developer to Transmission Owner with respect to the 
+payment of the Costs of construction and installation of the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades specified in this GIA.   
+ 
+Nothing in Project Developer’s agreement pursuant to this Schedule G shall change Project 
+Developer’s indemnification obligations under section 24.2 of Appendix 2 to this GIA. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule H 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE H 
+ 
+INTERCONNECTION REQUIREMENTS FOR ALL WIND, SOLAR AND 
+NON-SYNCHRONOUS GENERATION FACILITIES 
+ 
+{Include the appropriate language from the alternatives below} 
+ 
+{Include the following language if the Generating Facility is not a wind, solar or non-
+synchronous generation facility} 
+ 
+Not Required 
+ 
+[OR] 
+ 
+{Include the following language when the Generating Facility is a wind, solar or non-
+synchronous generation facility} 
+ 
+A. Voltage Ride Through Requirements 
+ 
+The Generating Facility shall be designed to remain in service (not trip) for voltages and 
+times as specified for the Eastern Interconnection in Attachment 1 of NERC Reliability 
+Standard PRC-024-1, and successor Reliability Standards, for both high and low voltage 
+conditions, irrespective of generator size, subject to the permissive trip exceptions 
+established in PRC-024-1 (and successor Reliability Standards). 
+ 
+B. Frequency Ride Through Requirements 
+ 
+The Generating Facility shall be designed to remain in service (not trip) for frequencies 
+and times as specified in Attachment 2 of NERC Reliability Standard PRC-024-1, and 
+successor Reliability Standards, for both high and low frequency condition, irrespective 
+of generator size, subject to the permissive trip exceptions established in PRC-024-1 (and 
+successor Reliability Standards). 
+ 
+C. Supervisory Control and Data Acquisition (“SCADA”) Capability 
+ 
+The wind, solar or non-synchronous generation facility shall provide SCADA capability 
+to transmit data and receive instructions from the Transmission Provider to protect 
+system reliability.  The Transmission Provider and the wind, solar or non-synchronous 
+generation facility Project Developer shall determine what SCADA information is 
+essential for the proposed wind, solar or non-synchronous generation facility, taking into 
+account the size of the facility and its characteristics, location, and importance in 
+maintaining generation resource adequacy and transmission system reliability in its area. 
+ 
+D. Meteorological Data Reporting Requirement (Applicable to wind generation 
+facilities only) 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule H 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+The wind generation facility shall, at a minimum, be required to provide the 
+Transmission Provider with site-specific meteorological data including: 
+ 
+ Temperature (degrees Fahrenheit) 
+ Wind speed (meters/second) 
+ Wind direction (degrees from True North) 
+ Atmosphere pressure (hectopascals) 
+ Forced outage data (wind turbine and MW unavailability) 
+ 
+E. Meteorological Data Reporting Requirement (Applicable to solar generation 
+facilities only) 
+  
+The solar generation facility shall, at a minimum, be required to provide the Transmission 
+Provider with site-specific meteorological data including: 
+ 
+ Temperature (degrees Fahrenheit) 
+ Irradiance 
+ Forced outage data 
+ 
+The Transmission Provider and Project Developer may mutually agree to any additional 
+meteorological data that are required for the development and deployment of a power 
+production forecast.  All requirements for meteorological and forced outage data must be 
+commensurate with the power production forecasting employed by the Transmission 
+Provider.  Such additional mutually agreed upon requirements for meteorological and 
+forced outage data are set forth below:  [STATE “NOT APPLICABLE UNDER THIS 
+GIA” OR SPECIFY THE AGREED UPON METEOROLOGICAL AND FORCED 
+OUTAGE DATA REQUIREMENTS] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule I 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+SCHEDULE I 
+ 
+INTERCONNECTION SPECIFICATIONS FOR AN 
+ENERGY STORAGE RESOURCE 
+ 
+{Include the appropriate language from the alternatives below.} 
+ 
+{Include the following language if the Generating Facility is not an Energy Storage Resource:} 
+ 
+Not Required 
+ 
+{Include the following language if the Generating Facility is an Energy Storage Resource:} 
+ 
+This Schedule I specifies information for Energy Storage Resource will be required to provide 
+primary frequency response consistent with the conditions set forth in GIA, Appendix 2, sections 
+4.6.2 (Primary Frequency Response), 4.6.2.1 (Governor or Equivalent Controls), 4.6.2.2 (Timely 
+and Sustained Response), 4.6.2.3 (Exemptions), and 4.6.2.4 (Energy Storage Resource). 
+ 
+1.0 Minimum State of Charge and Maximum State of Charge 
+ 
+Primary frequency response operating range for Energy Storage Resources:  
+Minimum State of Charge:  ____________; and 
+Maximum State of Charge:  ____________. 
+ 
+2.0 Static or Dynamic Operating Range  
+ 
+{Specify whether the operating range is static or dynamic.  If the operating range is dynamic, 
+then this Schedule I must establish how frequently the operating range will be reevaluated and 
+the factors that may be considered during its reevaluation.} 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule J 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE J 
+SCHEDULE OF TERMS AND CONDITIONS FOR  
+SURPLUS INTERCONNECTION SERVICE 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule K 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+SCHEDULE K 
+REQUIREMENTS FOR INTERCONNECTION SERVICE BELOW FULL 
+ELECTRICAL GENERATING CAPABILITY 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+SCHEDULE L 
+ 
+INTERCONNECTION CONSTRUCTION TERMS AND CONDITIONS 
+ 
+ 
+{Instructions: to be used if construction of facilities is required in connection with this GIA.  
+If Interconnection Construction Terms and Conditions are not required, state “Not 
+Applicable” and delete reminder of Schedule L} 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+INTERCONNECTION CONSTRUCTION TERMS AND CONDITIONS 
+For the Generation Interconnection Agreement 
+By and Between  
+PJM Interconnection, L.L.C. 
+And 
+[Name of Project Developer] 
+And 
+[Name of Transmission Owner] 
+ 
+(Project Identifier #___) 
+ 
+1.0 These Interconnection Construction Terms and Conditions (“IC Terms & Conditions”), 
+including the Schedules and Appendices attached hereto or incorporated by reference 
+herein, shall apply to the Generation Interconnection Agreement (“GIA”) by and between 
+Transmission Provider, Project Developer, and Transmission Owner.  All capitalized 
+terms herein shall have the meanings set forth in Appendix 1 to this Generation GIA. 
+ 
+2.0 The standard terms and conditions for interconnections included in GIA, Appendix 2 
+associated with this Interconnection Request are hereby specifically incorporated herein.   
+ 
+3.0 Generating Facility or Merchant Transmission Facility.  These IC Terms & Conditions 
+specifically relate to the following Generating Facility or Merchant Transmission Facility 
+at the following location: 
+ 
+a. Name of Generating Facility or Merchant Transmission Facility: 
+ 
+ _____________________________________________________ 
+ 
+b. Location of Generating Facility or Merchant Transmission Facility: 
+ 
+ _____________________________________________________ 
+ 
+4.0 Commencement of Construction.   
+ 
+4.1 The Transmission Owner shall have no obligation to begin construction of the 
+Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades prior to the Effective Date of this GIA.  Construction shall commence 
+as provided in the Schedule of Work set forth in section 8.0 of these IC Terms & 
+Conditions. 
+ 
+5.0 Construction Responsibility for  
+ 
+a. Project Developer Interconnection Facilities. Project Developer is responsible for 
+designing and constructing the Project Developer Interconnection Facilities described in 
+GIA, Specifications, section 3.0(a)(1).  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+b. Construction of Transmission Owner Interconnection Facilities.   
+ 
+1. The Transmission Owner Interconnection Facilities and Transmission 
+Owner Upgrades for which Transmission Owner shall be responsible for 
+constructing are described in GIA, Specifications, section 3.0(b). 
+ 
+2. Election of Construction Option.  Specify below whether the Project 
+Developer and Transmission Owner have mutually agreed to construction of the 
+Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades that will be built by the Transmission Owner pursuant to the Standard 
+Option or the Negotiated Contract Option. 
+ 
+_____ Standard Option. 
+ 
+_____ Negotiated Contract Option.  
+ 
+If the parties have mutually agreed to use the Negotiated Contract Option, the 
+permitted, negotiated terms on which they have agreed and which are not already 
+set forth as part of the Scope of Work and/or Schedule of Work set forth in 
+sections 7.0 and 8.0 of these IC Terms & Conditions shall be as set forth in 
+Appendix 1 to this Schedule L. 
+ 
+3. Exercise of Option to Build.  Has Project Developer timely exercised the 
+Option to Build? 
+ 
+______  Yes 
+ 
+______  No 
+ 
+If Yes is indicated, Project Developer shall build, in accordance with and subject 
+to the conditions and limitations set forth in GIA, Schedule L, section 11.2.3, 
+those portions of the Transmission Owner Interconnection Facilities and Stand 
+Alone Network Upgrades described in GIA, Specifications, section 3.0(a)(2). 
+ 
+6.0 Facilitation by Transmission Provider: Transmission Provider shall keep itself apprised of 
+the status of the Transmission Owner’s and Project Developer’s construction-related 
+activities and, upon request of either of them, Transmission Provider shall meet with the 
+Transmission Owner and Project Developer separately or together to assist them in 
+resolving issues between them regarding their respective activities, rights and obligations 
+under this GIA, Schedule L and GIA, Appendix 2.  Each of Transmission Owner and 
+Project Developer shall cooperate in good faith with the other in Transmission Provider’s 
+efforts to facilitate resolution of disputes.   
+ 
+7.0 Scope of Work.  The Scope of Work for all construction shall be as set forth in 
+Specifications, section 3.0 of this GIA, provided, however, that the scope of work is 
+subject to change in accordance with Transmission Provider’s scope change process for 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 4 
+interconnection projects as set forth in the PJM Manuals.  The scope change process is 
+intended to be used for changes to the Scope of Work as defined herein, and is not 
+intended to be used to change any of the milestone set forth in the GIA.  Any change to 
+the Scope of Work should be acknowledged by the Parties in a scope change document. 
+ 
+8.0 Schedule of Work.  The Schedule of Work for all construction is set forth below, 
+provided, however, that such schedule is subject to change in accordance with section 
+11.3 of this Schedule L. 
+ 
+Transmission Owner: 
+ 
+[Provide start and completion date for construction of Transmission Owner 
+Interconnection Facilities and Transmission Owner Upgrades listed in 
+Specifications, section 3.0, including any supervisory or other responsibilities 
+associated with use of the Option to Build or state “Not Applicable”] 
+ 
+Project Developer:  
+ 
+[Provide start and completion date for construction of Project Developer 
+Interconnection Facilities listed in  
+Specifications, section 3.0, including any facilities being constructed pursuant to the 
+Option to Build, or state “Not Applicable”] 
+ 
+9.0 If Project Developer exercises the Option to Build, Project Developer shall pay 
+Transmission Owner for Transmission Owner to execute the responsibilities enumerated 
+to Transmission Owner under section 11.2.3.   
+ 
+10.0 Construction Obligations 
+ 
+10.1 Project Developer Obligations:  Project Developer shall, at its sole cost and 
+expense, design, procure, construct, own, and install the Generating Facility or 
+Merchant Transmission Facility and the Project Developer Interconnection 
+Facilities in accordance with this GIA, Applicable Standards, Applicable Laws 
+and Regulations, Good Utility Practice, the Scope of Work, and the Facilities 
+Study(ies) and/or System Impact Study(ies) (to the extent that design of the 
+Project Developer Interconnection Facilities is included therein and, except that, 
+in the event of conflict, the Facilities Study and not the System Impact Study will 
+control); provided, however, that, in the event and to the extent that the 
+Generating Facility or Merchant Transmission Facility is comprised of or includes 
+Merchant Network Upgrades, subject to the terms of GIA, Schedule L, section 
+11.2.3, the Transmission Owner shall design, procure, construct and install such 
+Merchant Network Upgrades. 
+ 
+10.2 Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 5 
+10.2.1 Generally:  All Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades necessary for the interconnection of the 
+Generating Facility or Merchant Transmission Facility shall be designed, 
+procured, installed and constructed in accordance with this GIA, 
+Applicable Standards, Applicable Laws and Regulations, Good Utility 
+Practice, the Facilities Study(ies) and/or System Impact Study(ies) (except 
+that, in the event of a conflict, the Facilities Study and not the System 
+Impact Study will control), and the Scope of Work. 
+ 
+10.2.2 Cost Responsibility:  Responsibility for the Costs of the Transmission 
+Owner Interconnection Facilities and Transmission Owner Upgrades shall 
+be assigned in accordance with the GIP, as applicable, and shall be stated 
+in this GIA.  
+ 
+10.2.3 Construction Responsibility:  Except as otherwise permitted under, or as 
+otherwise agreed upon by the Project Developer and the Transmission 
+Owner pursuant to this GIA, the Transmission Owner shall be responsible 
+for the design, procurement, construction and installation of the 
+Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades.  In the event that there are multiple Transmission Owners, the 
+Transmission Provider shall determine how to allocate the construction 
+responsibility among them unless they have reached agreement among 
+themselves on how to proceed. 
+ 
+10.2.4 Ownership of Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades: The Transmission Owner shall own all 
+Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades that it builds.  In addition, the Project Developer will convey to 
+the Transmission Owner, as provided in section 23.3.5 of Appendix 2 of 
+this GIA, title to all Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades built by the Project Developer pursuant to 
+the terms of this Schedule L.  Nothing in this section shall affect the 
+interconnection rights otherwise available to a Transmission Project 
+Developer under the GIP. 
+ 
+10.2A Scope of Applicable Technical Requirements and Standards: Applicable 
+Technical Requirements and Standards shall apply to the design, procurement, 
+construction and installation of the Interconnection Facilities, Transmission 
+Owner Upgrades and Merchant A.C. Transmission Facilities only to the extent 
+that the provisions thereof relate to the design, procurement, construction and/or 
+installation of such facilities.  Such provisions relating to the design, procurement, 
+construction and/or installation of facilities shall be appended as Schedule D to 
+this GIA.  The Interconnection Parties shall mutually agree upon, or in the 
+absence of such agreement, Transmission Provider shall determine, which 
+provisions of the Applicable Technical Requirements and Standards should be 
+identified in this GIA.  In the event of any conflict between the provisions of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 6 
+Applicable Technical Requirements and Standards that are appended as Schedule 
+D to this GIA and any later-modified provisions that are stated in the pertinent 
+PJM Manual, the provisions appended as Schedule D to this GIA shall control. 
+ 
+10.3 Construction by Project Developer 
+ 
+10.3.1 Construction Prior to Execution of GIA: If the Project Developer procures 
+materials for, and/or commences construction of, the Project Developer 
+Interconnection Facilities, any Transmission Owner Interconnection 
+Facilities or Stand Alone Network Upgrades that it has elected to construct 
+by exercising the Option to Build, or for any subsequent modification 
+thereto, prior to the execution of this GIA or, if this GIA has been 
+executed, before the Transmission Owner and Transmission Provider have 
+accepted the Project Developer’s initial design, or any subsequent 
+modification to the design, of such Interconnection Facilities or Stand 
+Alone Network Upgrades, such procurement and/or construction shall be 
+at the Project Developer’s sole risk, cost and expense. 
+ 
+10.3.2 Monitoring and Inspection: The Transmission Owner may monitor 
+construction and installation of Interconnection Facilities and 
+Transmission Owner Upgrades that the Project Developer is constructing.  
+Upon reasonable notice, authorized personnel of the Transmission Owner 
+may inspect any or all of such Interconnection Facilities and Transmission 
+Owner Upgrades to assess their conformity with Applicable Standards. 
+ 
+10.3.3 Notice of Completion: The Project Developer shall notify the 
+Transmission Provider and the Transmission Owner in writing when it has 
+completed construction of (i) the Generating Facility or Merchant 
+Transmission Facility; (ii) the Project Developer Interconnection 
+Facilities; and (iii) any Transmission Owner Interconnection Facilities and 
+Stand Alone for which it has exercised the Option to Build. 
+ 
+10.4  Construction-Related Access Rights: The Transmission Owner and the Project 
+Developer herein grant each other at no charge such rights of access to areas that 
+it owns or otherwise controls as may be necessary for performance of their 
+respective obligations, and exercise of their respective rights, pursuant to this 
+Schedule L, provided that either of them performing the construction will abide 
+by the safety, security and work rules applicable to the area where construction 
+activity is occurring. 
+ 
+10.5  Coordination Among Parties: The Transmission Provider, the Project Developer, 
+and all Transmission Owners shall communicate and coordinate their activities as 
+necessary to satisfy their obligations under this Schedule L. 
+ 
+11.0 Construction Requirements 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 7 
+11.1 Construction by Project Developer:   
+ 
+The Project Developer shall use Reasonable Efforts to design, procure, construct and 
+install the Project Developer Interconnection Facilities and any Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades that it elects to build by 
+exercise of the Option to Build (defined in section 11.2.3.1 below) in accordance with the 
+Schedule of Work. 
+ 
+11.2 Construction by Transmission Owner 
+ 
+11.2.1 Standard Option:   
+ 
+The Transmission Owner shall use Reasonable Efforts to design, procure, 
+construct and install the Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades that it is responsible for constructing in 
+accordance with the Schedule of Work.  
+ 
+11.2.1.1 Construction Sequencing:   
+ 
+In general, the sequence of the proposed dates of Initial Operation of 
+Project Developers seeking interconnection to the Transmission System 
+will determine the sequence of construction of Network Upgrades. 
+ 
+11.2.2 Negotiated Contract Option:   
+ 
+As an alternative to the Standard Option set forth in section 11.2.1 above, the 
+Transmission Owner and the Project Developer may mutually agree to a 
+Negotiated Contract Option for the Transmission Owner’s design, procurement, 
+construction and installation of the Transmission Owner Interconnection Facilities 
+and Transmission Owner Upgrades.  Under the Negotiated Contract Option, the 
+Project Developer and the Transmission Owner may agree to terms different from 
+those included in the Standard Option of section 11.2.1 above and the 
+corresponding standard terms set forth in the applicable provisions of the GIP. 
+Under the Negotiated Contract Option, negotiated terms may include the work 
+schedule applicable to the Transmission Owner’s construction activities and 
+changes to same; payment provisions, including the schedule of payments; 
+incentives, penalties and/or liquidated damages related to timely completion of 
+construction; use of third party contractors; and responsibility for Costs, but only 
+as between the Project Developer and the Transmission Owner that are parties to 
+this GIA; no other Project Developer’s responsibility for Costs under the GIP may 
+be affected.  No other terms of the Tariff or this Schedule L shall be subject to 
+modification under the Negotiated Contract Option.  The terms and conditions of 
+the Tariff that may be negotiated pursuant to the Negotiated Contract Option shall 
+not be affected by use of the Negotiated Contract Option except as and to the 
+extent that they are modified by the parties’ agreement pursuant to such option.  
+All terms agreed upon pursuant to the Negotiated Contract Option are set forth in 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 8 
+GIA, Schedule L, Appendix 1.  The Negotiated Option can only be used in 
+connection with a Network Upgrade subject to the Network Upgrade Cost 
+Responsibility Agreement if all Project Developers and the relevant Transmission 
+Owner agree. 
+ 
+11.2.3 Option to Build 
+ 
+11.2.3.1 Option:   
+ 
+Project Developer has the option (“Option to Build”) to assume 
+responsibility for the design, procurement, and construction of 
+Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades on the dates specified in the Schedule of Work in GIA, Schedule 
+L, section 8.0.  Transmission Provider and Project Developer must agree 
+as to what constitutes Stand Alone Network Upgrades and identify such 
+Stand Alone Network Upgrades in GIA, Specifications, section 3.0(a)(2).  
+If the Transmission Provider and Project Developer disagree about 
+whether a particular Network Upgrade is a Stand Alone Network Upgrade, 
+the Transmission Provider must provide the Project Developer with a 
+written technical explanation outlining why the Transmission Provider 
+does not consider the Network Upgrade to be a Stand Alone Network 
+Upgrade within 15 days of its determination.  Except for Stand Alone 
+Network Upgrades, Project Developer shall have no right to construct 
+Network Upgrades under this option.  In order to exercise this Option to 
+Build, Project Developer must provide Transmission Provider and the 
+Transmission Owner with written notice of Project Developer’s election to 
+exercise the option consistent with the deadline applicable to its New 
+Service Request or Upgrade Request.  Project Developer may not elect 
+Option to Build after such date. 
+ 
+11.2.3.2 General Conditions Applicable to Option:   
+ 
+In addition to the other terms and conditions applicable to the construction 
+of facilities under this Schedule L, the Option to Build is subject to the 
+following conditions: 
+ 
+(a) If the Project Developer assumes responsibility for the 
+design, procurement and construction of Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades: 
+ 
+(i) Project Developer shall engineer, procure 
+equipment, and construct Transmission Owner Interconnection Facilities 
+and Stand Alone Network Upgrades (or portions thereof) using Good 
+Utility Practice and using standards and specifications provided in 
+advance by Transmission Owner; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 9 
+(ii) Project Developer’s engineering, procurement and 
+construction of Transmission Owner Interconnection Facilities and Stand 
+Alone Network Upgrades shall comply with all requirements of law to 
+which Transmission Owner shall be subject in the engineering, 
+procurement or construction of Transmission Owner Interconnection 
+Facilities and Stand Alone Network Upgrades; 
+ 
+(iii) Transmission Owner shall review and approve 
+engineering design, equipment acceptance tests, and the construction of 
+Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades; 
+ 
+(iv) Prior to commencement of construction, Project 
+Developer shall provide to Transmission Owner a schedule for 
+construction of Transmission Owner Interconnection Facilities and Stand 
+Alone Network Upgrades and shall promptly respond to requests for 
+information from Transmission Owner; 
+ 
+(v) At any time during construction, Transmission 
+Owner shall have the right to gain unrestricted access to Transmission 
+Owner Interconnection Facilities and Stand Alone Network Upgrades and 
+to conduct inspections of the same; 
+ 
+(vi) At any time during construction, should any phase 
+of the engineering, equipment procurement, or construction of 
+Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades not meet the standards and Specifications provided by 
+Interconnection Transmission Owner, Project Developer shall be obligated 
+to remedy deficiencies in that portion of the Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades; 
+ 
+(vii) Project Developer shall indemnify Transmission 
+Owner and Transmission Provider for claims arising from Project 
+Developer’s construction of Transmission Owner Interconnection 
+Facilities and Stand Alone Network Upgrades under the terms and 
+procedures applicable to GIA, Appendix 2, section 14; 
+ 
+(viii) Project Developer shall transfer control of 
+Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades to Transmission Owner; 
+ 
+(ix) Unless Parties otherwise agree, Project Developer 
+shall transfer ownership of Transmission Owner Interconnection Facilities 
+and Stand Alone Network Upgrades to Transmission Owner; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 10 
+(x) Transmission Owner shall approve and accept for 
+operation and maintenance Transmission Owner Interconnection Facilities 
+and Stand Alone Network Upgrades to the extent engineered, procured, 
+and constructed in accordance with section 11.2.3.2 of this Schedule L; 
+and 
+ 
+(xi) Project Developer shall deliver to Transmission 
+Owner “as-built” drawings, information, and any other documents that are 
+reasonably required by Transmission Provider to assure that the 
+Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades are built to the standards and Specifications required by 
+Transmission Provider. 
+ 
+(b) In addition to the General Conditions applicable to Option 
+to Build set forth in section 11.2.3.2(a) above, the following conditions 
+also apply: 
+ 
+(i) The Project Developer must obtain or arrange to 
+obtain all necessary permits and authorizations for the construction and 
+installation of the Transmission Owner Interconnection Facilities and 
+Stand Alone Network Upgrades that it is building, provided, however, that 
+when the Transmission Owner’s assistance is required, the Transmission 
+Owner shall assist the Project Developer in obtaining such necessary 
+permits or authorizations with efforts similar in nature and extent to those 
+that the Transmission Owner typically undertakes in acquiring permits and 
+authorizations for construction of facilities on its own behalf; 
+ 
+(ii) The Project Developer must obtain all necessary 
+land rights for the construction and installation of the Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades that it is 
+building, provided, however, that upon Project Developer’s reasonable 
+request, the Transmission Owner shall assist the Project Developer in 
+acquiring such land rights with efforts similar in nature and extent to those 
+that the Transmission Owner typically undertakes in acquiring land rights 
+for construction of facilities on its own behalf;  
+ 
+(iii) Notwithstanding anything stated herein, each 
+Transmission Owner shall have the exclusive right and obligation to 
+perform the line attachments (tie-in work), and to calibrate remote 
+terminal units and relay settings, required for the interconnection to such 
+Transmission Owner’s existing facilities of any Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades that the 
+Project Developer builds; and 
+ 
+(iv) The Transmission Owner Interconnection Facilities 
+and Stand Alone Network Upgrades built by the Project Developer shall 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 11 
+be successfully inspected, tested and energized pursuant to sections 11.7 
+and 11.8 of this Schedule L. 
+ 
+11.2.3.3  Additional Conditions Regarding Network Facilities:  
+ 
+To the extent that the Project Developer utilizes the Option to Build for 
+design, procurement, construction and/or installation of (a) any 
+Transmission Owner Interconnection Facilities that are Stand Alone  
+Network Upgrades to Transmission System facilities that are in existence 
+or under construction by or on behalf of the Transmission Owner on the 
+date that the Project Developer solicits bids under section 11.2.3.7 below, 
+or (b) Transmission Owner Interconnection Facilities and Stand Alone 
+Network Upgrades that are to be located on land or in right-of-way owned 
+or controlled by the Transmission Owner, and in addition to the other 
+terms and conditions applicable to the design, procurement, construction 
+and/or installation of facilities under this GIA, all work shall comply with 
+the following further conditions: 
+ 
+(i) All work performed by or on behalf of the Project 
+Developer shall be conducted by contractors, and using equipment 
+manufacturers or vendors, that are listed on the Transmission Owner’s List 
+of Approved Contractors; 
+ 
+(ii) The Transmission Owner shall have full site control of, and 
+reasonable access to, its property at all times for purposes of tagging or 
+operation, maintenance, repair or construction of modifications to, its 
+existing facilities and/or for performing all tie-ins of Interconnection 
+Facilities and Stand Alone Network Upgrades built by or for the Project 
+Developer; and for acceptance testing of any equipment that will be 
+owned and/or operated by the Transmission Owner; 
+ 
+(iii) The Transmission Owner shall have the right to have a 
+reasonable number of appropriate representatives present for all work 
+done on its property/facilities or regarding the Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades and the 
+right to stop, or to order corrective measures with respect to, any such 
+work that reasonably could be expected to have an adverse effect on 
+reliability, safety or security of persons or of property of the Transmission 
+Owner or any portion of the Transmission System, provided that, unless 
+circumstances do not reasonably permit such consultations, the 
+Transmission Owner shall consult with the Project Developer and with 
+Transmission Provider before directing that work be stopped or ordering 
+any corrective measures; 
+ 
+(iv) The Project Developer and its contractors, employees and 
+agents shall comply with the Transmission Owner’s safety, security and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 12 
+work rules, environmental guidelines and training requirements applicable 
+to the area(s) where construction activity is occurring and shall provide all 
+reasonably required documentation to the Transmission Owner, provided 
+that the Transmission Owner previously has provided its safety, security 
+and work rules and training requirements applicable to work on its 
+facilities to Transmission Provider and the Project Developer within 20 
+Business Days after a request therefor made by Project Developer; 
+ 
+(v) The Project Developer shall be responsible for controlling 
+the performance of its contractors, employees and agents; and  
+ 
+(vi) All activities performed by or on behalf of the Project 
+Developer pursuant to its exercise of the Option to Build shall be subject 
+to compliance with Applicable Laws and Regulations, including those 
+governing union staffing and bargaining unit obligations, and Applicable 
+Standards. 
+ 
+11.2.3.4 Administration of Conditions:   
+ 
+To the extent that the Transmission Owner exercises any discretion in the 
+application of any of the conditions stated in sections 11.2.3.2 and 11.2.3.3 
+of this Schedule L, it shall apply each such condition in a manner that is 
+reasonable and not unduly discriminatory and it shall not unreasonably 
+withhold, condition, or delay any approval or authorization that the Project 
+Developer may require for the purpose of complying with any of those 
+conditions. 
+ 
+11.2.3.5  Approved Contractors: 
+ 
+(a) Each Transmission Owner shall develop and shall provide 
+to Transmission Provider a List of Approved Contractors. Each 
+Transmission Owner shall include on its List of Approved Contractors no 
+fewer than three contractors and no fewer than three manufacturers or 
+vendors of major transmission-related equipment, unless a Transmission 
+Owner demonstrates to Transmission Provider’s reasonable satisfaction 
+that it is feasible only to include a lesser number of construction 
+contractors, or manufacturers or vendors, on its List of Approved 
+Contractors. Transmission Provider shall publish each Transmission 
+Owner’s List of Approved Contractors in a PJM Manual and shall make 
+such manual available on its internet website. 
+ 
+(b) Upon request of a Project Developer, a Transmission 
+Owner shall add to its List of Approved Contractors (1) any design or 
+construction contractor regarding which the Project Developer provides 
+such information as the Transmission Owner may reasonably require 
+which demonstrates to the Transmission Owner’s reasonable satisfaction 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 13 
+that the candidate contractor is qualified to design, or to install and/or 
+construct new facilities or upgrades or modifications to existing facilities 
+on the Transmission Owner’s system, or (2) any manufacturer or vendor 
+of major transmission-related equipment (e.g., high-voltage transformers, 
+transmission line, circuit breakers) regarding which the Project Developer 
+provides such information as the Transmission Owner may reasonably 
+require which demonstrates to the Transmission Owner’s reasonable 
+satisfaction that the candidate entity’s major transmission-related 
+equipment is acceptable for installation and use on the Transmission 
+Owner’s system. No Transmission Owner shall unreasonably withhold, 
+condition, or delay its acceptance of a contractor, manufacturer, or vendor 
+proposed for addition to its List of Approved Contractors. 
+ 
+11.2.3.6   Construction by Multiple Project Developers:   
+ 
+In the event that there are multiple Project Developers that wish to 
+exercise an Option to Build with respect to Interconnection Facilities and 
+Stand Alone Network Upgrades of the types described in section 11.2.3.3 
+of this Schedule L, the Transmission Provider shall determine how to 
+allocate the construction responsibility among them unless they reach 
+agreement among themselves on how to proceed. 
+ 
+11.2.3.7   Option Procedures:  
+ 
+(a) Within 10 days after executing this GIA or directing that 
+this GIA be filed with FERC unexecuted, Project Developer shall solicit 
+bids from one or more Approved Contractors named on the Transmission 
+Owner’s List of Approved Contractors to procure equipment for, and/or to 
+design, construct and/or install, the Transmission Owner Interconnection 
+Facilities and Stand Alone Network Upgrades that the Project Developer 
+seeks to build under the Option to Build on terms (i) that will meet the 
+Project Developer’s proposed schedule; (ii) that, if the Project Developer 
+seeks to have an Approved Contractor construct or install Transmission 
+Owner Interconnection Facilities and Stand Alone Network Upgrades, will 
+satisfy all of the conditions on construction specified in sections 11.2.3.2 
+and 11.2.3.3 of this Schedule L; and (iii) that will satisfy the obligations of 
+a Constructing Entity (other than those relating to responsibility for the 
+costs of facilities).   
+ 
+(b) Any additional costs arising from the bidding process or 
+from the final bid of the successful Approved Contractor shall be the sole 
+responsibility of the Project Developer.   
+ 
+(c) Upon receipt of a qualifying bid acceptable to it, the Project 
+Developer shall contract with the Approved Contractor that submitted the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 14 
+qualifying bid.  Such contract shall meet the standards stated in paragraph 
+(a) of this section. 
+ 
+(d) In the absence of a qualifying bid acceptable to the Project 
+Developer in response to its solicitation, the Transmission Owner(s) shall 
+be responsible for the design, procurement, construction and installation of 
+the Transmission Owner Interconnection Facilities and Stand Alone 
+Network Upgrades in accordance with the Standard Option described in 
+section 11.2.1 of this Schedule L. 
+ 
+11.2.3.8 Project Developer Drawings:   
+ 
+Project Developer shall submit to the Transmission Owner and 
+Transmission Provider initial drawings, certified by a professional 
+engineer, of the Transmission Owner Interconnection Facilities and Stand 
+that Project Developer arranges to build under this Option to Build.  The 
+Transmission Owner shall review and approve the initial drawings and 
+engineering design of the Transmission Owner Interconnection Facilities 
+and Stand Alone Network Upgrades to be constructed under the Option to 
+Build.  The Transmission Owner shall review the drawings to assess the 
+consistency of Project Developer’s design of the pertinent Transmission 
+Owner Interconnection Facilities and Stand Alone Network Upgrades with 
+Applicable Standards and the System Impact Study(ies). Transmission 
+Owner, with facilitation and oversight by Transmission Provider, shall 
+provide comments on such drawings to Project Developer within 60 days 
+after its receipt thereof, after which time any drawings not subject to 
+comment shall be deemed to be approved.  All drawings provided 
+hereunder shall be deemed to be Confidential Information. 
+ 
+11.2.3.9 Effect of Review:   
+ 
+Transmission Owner’s review of Project Developer's initial drawings of 
+the Transmission Owner Interconnection Facilities and Stand Alone 
+Network Upgrades that the Project Developer is building shall not be 
+construed as confirming, endorsing or providing a warranty as to the 
+fitness, safety, durability or reliability of such facilities or the design 
+thereof.  At its sole cost and expense, Project Developer shall make such 
+changes to the design of the pertinent Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades as may 
+reasonably be required by Transmission Provider, in consultation with the 
+Transmission Owner, to ensure that the Transmission Owner 
+Interconnection Facilities and Stand Alone Network Upgrades that Project 
+Developer is building meet Applicable Standards and conform with the 
+System Impact Study(ies). 
+ 
+11.3 Revisions to Schedule of Work:  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 15 
+ 
+The Schedule of Work shall be revised as required in accordance with Transmission 
+Provider’s scope change process for interconnection projects set forth in the PJM 
+Manuals, or otherwise by mutual agreement of the Interconnection Parties, which 
+agreement shall not be unreasonably withheld, conditioned or delayed.  The scope change 
+process is intended to be used for changes to the Scope of Work as defined herein, and is 
+not intended to be used to change any of the milestone set forth in the GIA. 
+ 
+11.4 Right to Complete Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades:   
+ 
+In the event that, at any time prior to successful Stage Two energization of the 
+Transmission Owner Interconnection Facilities and Transmission Owner Upgrades 
+pursuant to section 11.8 of this Schedule L, Project Developer terminates its obligations 
+under this GIA, Appendix 2, section 16.1.2 due to a Default by Transmission Owner, the 
+Project Developer may elect to complete the design, procurement, construction and 
+installation of the Transmission Owner Interconnection Facilities and Transmission 
+Owner Upgrades.  Project Developer shall notify Transmission Owner and Transmission 
+Provider in writing of its election to complete the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades within 10 days after the date of Project 
+Developer’s notice of termination pursuant to GIA, Appendix 2, section 16.1.2.  In the 
+event that Project Developer elects to complete the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades, it shall do so in accordance with the terms 
+and conditions of the Option to Build under section 11.2.3 of this Schedule L and shall be 
+responsible for paying all costs of completing the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades incurred after the date of its notice of 
+election to complete the facilities.  Project Developer may take possession of, and may 
+use in completing the Transmission Owner Interconnection Facilities, any materials and 
+supplies and equipment (other than equipment and facilities that already have been 
+installed or constructed) acquired by Transmission Owner for construction, and included 
+in the Costs, of the Transmission Owner Interconnection Facilities and Stand Alone 
+Network Upgrades, provided that Project Developer shall pay Transmission Provider, for 
+the benefit of the Transmission Owner and upon presentation by Transmission Owner of 
+reasonable and appropriate documentation thereof, any amounts expended by 
+Transmission Owner for such materials, supplies and equipment that Project Developer 
+has not already paid.  Title to all Transmission Owner Interconnection Facilities and 
+Transmission Owner Upgrades constructed by Project Developer under this section 11 
+shall be transferred to the Transmission Owner in accordance with GIA, Appendix 2, 
+section 23.3.5. 
+ 
+11.5 Suspension of Work upon Default:   
+ 
+Upon the occurrence of a Default by Project Developer as defined in Appendix 2, section 
+16 of this GIA, the Transmission Provider or the Transmission Owner may by written 
+notice to Project Developer suspend further work associated with the construction and 
+installation of the Transmission Owner Interconnection Facilities and Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 16 
+Owner Upgrades that the Transmission Owner is responsible for constructing.  Such 
+suspension shall not constitute a waiver of any termination rights under this GIA.  In the 
+event of a suspension by Transmission Provider or Transmission Owner, the Project 
+Developer shall be responsible for the Costs incurred in connection with any suspension 
+hereunder in accordance with Appendix 2, section 16 of this GIA. 
+ 
+11.6 Construction Reports:   
+ 
+Each of Project Developer and Transmission Owner shall issue reports to each other on a 
+monthly basis, and at such other times as reasonably requested, regarding the status of the 
+construction and installation of the Interconnection Facilities and Transmission Owner 
+Upgrades.  Each of Project Developer and Transmission Owner shall promptly identify, 
+and shall notify each other of, any event that the party reasonably expects may delay 
+completion, or may significantly increase the cost, of the Interconnection Facilities and 
+Transmission Owner Upgrades. Should either Project Developer or Transmission Owner 
+report such an event, Transmission Provider shall, within 15 days of such notification, 
+convene a technical meeting with Project Developer and Transmission Owner to evaluate 
+schedule alternatives. 
+ 
+11.7 Inspection and Testing of Completed Facilities 
+ 
+11.7.1 Coordination:   
+ 
+Project Developer and the Transmission Owner shall coordinate the timing and 
+schedule of all inspection and testing of the Interconnection Facilities and 
+Transmission Owner Upgrades. 
+ 
+11.7.2 Inspection and Testing:   
+ 
+Each of Project Developer and Transmission Owner shall cause inspection and 
+testing of the Interconnection Facilities and Transmission Owner Upgrades that it 
+constructs in accordance with the provisions of this section. Project Developer 
+and Transmission Owner acknowledge and agree that inspection and testing of 
+facilities may be undertaken as facilities are completed and need not await 
+completion of all of the facilities that a party is building.  
+ 
+11.7.2.1 Of Project Developer-Built Facilities:   
+ 
+Upon the completion of the construction and installation, but prior to 
+energization, of any Interconnection Facilities and Transmission Owner 
+Upgrades constructed by the Project Developer and related portions of the 
+Generating Facility or Merchant Transmission Facility, the Project 
+Developer shall have the same inspected and/or tested by an authorized 
+electric inspection agency or qualified third party reasonably acceptable to 
+the Transmission Owner to assess whether the facilities substantially 
+comply with Applicable Standards.  Said inspection and testing shall be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 17 
+held on a mutually agreed-upon date, and the Transmission Owner and 
+Transmission Provider shall have the right to attend and observe, and to 
+obtain the written results of, such testing.  
+ 
+11.7.2.2 Of Transmission Owner-Built Facilities:   
+ 
+Upon the completion of the construction and installation, but prior to 
+energization, of any Interconnection Facilities and Transmission Owner 
+Upgrades constructed by the Transmission Owner, the Transmission 
+Owner shall have the same inspected and/or tested by qualified personnel 
+or a qualified contractor to assess whether the facilities substantially 
+comply with Applicable Standards.  Subject to Applicable Laws and 
+Regulations, said inspection and testing shall be held on a mutually 
+agreed-upon date, and the Project Developer and Transmission Provider 
+shall have the right to attend and observe, and to obtain the written results 
+of, such testing. 
+ 
+11.7.3 Review of Inspection and Testing by Transmission Owner:   
+ 
+In the event that the written report, or the observation of either of Project 
+Developer and Transmission Owner or Transmission Provider, of the inspection 
+and/or testing pursuant to section 11.7.2 of this Schedule L reasonably leads the 
+Transmission Provider or Transmission Owner to believe that the inspection 
+and/or testing of some or all of the Interconnection Facilities and Stand Alone 
+Network Upgrades built by the Project Developer was inadequate or otherwise 
+deficient, the Transmission Owner may, within 20 days after its receipt of the 
+results of inspection or testing and upon reasonable notice to the Project 
+Developer, perform its own inspection and/or testing of such Interconnection 
+Facilities and Stand Alone Network Upgrades to determine whether the facilities 
+are acceptable for energization, which determination shall not be unreasonably 
+delayed, withheld or conditioned.  
+ 
+11.7.4 Notification and Correction of Defects 
+ 
+11.7.4.1 If the Transmission Owner, based on inspection or testing 
+pursuant to section 11.7.2 or 11.7.3 of this Schedule L, identifies any 
+defects or failures to comply with Applicable Standards in the 
+Interconnection Facilities and Stand Alone Network Upgrades constructed 
+by the Project Developer, the Transmission Owner shall notify the Project 
+Developer and Transmission Provider of any identified defects or failures 
+within 20 days after the Transmission Owner’s receipt of the results of 
+such inspection or testing.  The Project Developer shall take appropriate 
+actions to correct any such defects or failure at its sole cost and expense, 
+and shall obtain the Transmission Owner’s acceptance of the corrections, 
+which acceptance shall not be unreasonably delayed, withheld or 
+conditioned.  Such acceptance does not modify and shall not limit the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 18 
+Project Developer’s indemnification obligations set forth in section 
+11.2.3.2(a) of this Schedule L. 
+ 
+11.7.4.2 In the event that inspection and/or testing of any 
+Transmission Owner Interconnection Facilities and Transmission Owner 
+Upgrades built by the Transmission Owner identifies any defects or 
+failures to comply with Applicable Standards in such facilities, 
+Transmission Owner shall take appropriate action to correct any such 
+defects or failures within 20 days after it learns thereof.  In the event that 
+such a defect or failure cannot reasonably be corrected within such 20-day 
+period, Transmission Owner shall commence the necessary correction 
+within that time and shall thereafter diligently pursue it to completion.  
+ 
+11.7.5 Notification of Results:   
+ 
+Within 10 days after satisfactory inspection and/or testing of Interconnection 
+Facilities and Stand Alone Network Upgrades built by the Project Developer 
+(including, if applicable, inspection and/or testing after correction of defects or 
+failures), the Transmission Owner shall confirm in writing to the Project 
+Developer and Transmission Provider that the successfully inspected and tested 
+facilities are acceptable for energization.  
+ 
+11.8 Energization of Completed Facilities 
+ 
+ (A) Unless otherwise provided in the Schedule of Work, energization of the 
+Interconnection Facilities and Transmission Owner Upgrades related to interconnection 
+of a Generation Project Developer and, when applicable as determined by Transmission 
+Provider, of the Interconnection Facilities and Transmission Owner Upgrades related to 
+interconnection of a Transmission Project Developer, shall occur in two stages.  Stage 
+One energization shall consist of energization of the Project Developer Interconnection 
+Facilities and of the Transmission Owner Interconnection Facilities and Transmission 
+Owner Upgrades and will occur prior to initial energization of the Generating Facility.  
+Stage Two energization shall consist of (1) initial synchronization to the Transmission 
+System of any completed generator(s) at the Generating Facility of a Generation Project 
+Developer, or of applicable facilities, as determined by the Transmission Provider, 
+associated with Merchant Transmission Facilities of a Transmission Project Developer, 
+and (2) energization of the remainder of the Transmission Owner Interconnection 
+Facilities and Transmission Owner Upgrades.  Stage Two energization shall be 
+completed prior to Initial Operation of the Generating Facility or Merchant Transmission 
+Facility.  
+ 
+ (B) In the case of Interconnection Facilities and Transmission Owner 
+Upgrades related to interconnection of a Transmission Project Developer for which the 
+Transmission Provider determines that two-stage energization is inapplicable, 
+energization shall occur in a single stage, consisting of energization of the 
+Interconnection Facilities and Transmission Owner Upgrades and the Generating Facility 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 19 
+or Merchant Transmission Facility. Such a single-stage energization shall be regarded as 
+Stage Two energization for the purposes of the remaining provisions of this section 11.8. 
+ 
+11.8.1 Stage One energization of the Interconnection Facilities and Transmission 
+Owner Upgrades may not occur prior to the satisfaction of the following 
+additional conditions: 
+ 
+ (a) The Project Developer shall have delivered to the Transmission 
+Owner and Transmission Provider a writing transferring to the Transmission 
+Owner and Transmission Provider operational control over any Transmission 
+Owner Interconnection Facilities that Project Developer has constructed; and 
+ 
+ (b) The Project Developer shall have provided a mark-up of 
+construction drawings to the Transmission Owner to show the “as-built” condition 
+of all Transmission Owner Interconnection Facilities and Stand Alone that Project 
+Developer has constructed. 
+ 
+11.8.2 As soon as practicable after the satisfaction of the conditions for Stage 
+One energization specified in sections 11.7 and 11.8.1 of this Schedule L, the 
+Transmission Owner and the Project Developer shall coordinate and undertake the 
+Stage One energization of facilities. 
+ 
+11.8.3 Stage Two energization of the Interconnection Facilities and Transmission 
+Owner Upgrades may not occur prior to the satisfaction of the following 
+additional conditions: 
+ 
+ (a) The Project Developer shall have delivered to the Transmission 
+Owner and Transmission Provider a writing transferring to the Transmission 
+Owner and Transmission Provider operational control over any Transmission 
+Owner Interconnection Facilities and Stand Alone Network Upgrades that Project 
+Developer has constructed and operational control of which it has not previously 
+transferred pursuant to section 11.8.1 of this Schedule L; 
+ 
+ (b) The Project Developer shall have provided a mark-up of 
+construction drawings to the Transmission Owner to show the “as-built” condition 
+of all Transmission Owner Interconnection Facilities and Stand Alone Network 
+Upgrades that Project Developer has constructed and which were not included in 
+the Stage One energization, but are included in the Stage Two energization; and 
+ 
+ (c) Telemetering systems shall be operational and shall be providing 
+Transmission Provider and the Transmission Owner with telemetered data as 
+specified pursuant to section 8.5.2 of Appendix 2 to this GIA. 
+ 
+11.8.4 As soon as practicable after the satisfaction of the conditions for Stage 
+Two energization specified in sections 11.7 and 11.8.3 of this Schedule L, the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 20 
+Transmission Owner and the Project Developer shall coordinate and undertake the 
+Stage Two energization of facilities. 
+ 
+11.8.5 To the extent defects in any Interconnection Facilities and Transmission 
+Owner Upgrades are identified during the energization process, the energization 
+will not be deemed successful. In that event, the Constructing Entity shall take 
+action to correct such defects in any Interconnection Facilities and Transmission 
+Owner Upgrades that it built as promptly as practical after the defects are 
+identified. The affected Constructing Entity shall so notify the other Construction 
+Parties when it has corrected any such defects, and the Constructing Entities shall 
+recommence efforts, within 10 days thereafter, to energize the appropriate 
+Interconnection Facilities and Transmission Owner Upgrades in accordance with 
+this section 11.8; provided that the Transmission Owner may, in the reasonable 
+exercise of its discretion and with the approval of Transmission Provider, require 
+that further inspection and testing be performed in accordance with section 11.7 
+of this Schedule L. 
+ 
+11.9 Transmission Owner’s Acceptance of Facilities Constructed by Project 
+Developer: 
+ 
+Within five days after determining that Interconnection Facilities and 
+Transmission Owner Upgrades have been successfully energized, the 
+Transmission Owner shall issue a written notice to the Project Developer 
+accepting the Interconnection Facilities and Transmission Owner Upgrades built 
+by the Project Developer that were successfully energized.  Such acceptance shall 
+not be construed as confirming, endorsing or providing a warranty by the 
+Transmission Owner as to the design, installation, construction, fitness, safety, 
+durability or reliability of any Interconnection Facilities and Transmission Owner 
+Upgrades built by the Project Developer, or their compliance with Applicable 
+Standards. 
+ 
+11.10 Addendum of Non-Standard Terms and Conditions for Construction Service.  In 
+the event of any conflict between a provision of Schedule F of this GIA that 
+FERC has accepted and any provision of the standard terms and conditions set 
+forth in this Schedule L and Appendix 2 of this GIA that relates to the same 
+subject matter, the pertinent provision of Schedule F of this GIA shall control. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule L 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 21 
+SCHEDULE L, APPENDIX 1 
+ 
+NEGOTIATED CONTRACT OPTION TERMS 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart B FORM OF 
+GIA COMBINED WITH CSA --> OATT Part IX.B GIA Appendices and Schedules --> OATT Part IX.B GIA Schedule M 
+Effective Date: 1/30/2026 - Docket #: ER26-403-001 - Page 1 
+SCHEDULE M 
+ 
+SCHEDULE OF TERMS AND CONDITIONS FOR 
+REPLACEMENT GENERATION INTERCONNECTION SERVICE 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart C FORM OF 
+WMPA 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part IX, Subpart C 
+ 
+FORM OF  
+WHOLESALE MARKET PARTICIPATION AGREEMENT 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart C FORM OF 
+WMPA --> OATT Part IX.C WMPA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Project Identifier #____) 
+ 
+WHOLESALE MARKET PARTICIPATION AGREEMENT 
+Among 
+PJM INTERCONNECTION, L.L.C. 
+And 
+_________________________________________ 
+And 
+_________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart C FORM OF 
+WMPA --> OATT Part IX.C WMPA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+  
+WHOLESALE MARKET PARTICIPATION AGREEMENT 
+By and Among 
+PJM Interconnection, L.L.C. 
+And 
+[Name of Wholesale Market Participant] 
+And 
+[Name of Transmission Owner] 
+(Project Identifier #__) 
+ 
+ 
+ This Wholesale Market Participation Agreement (“WMPA”), including the 
+Specifications, Appendices, and Schedules attached hereto and incorporated herein, is entered 
+into by and among PJM Interconnection, L.L.C., the Regional Transmission Organization for the 
+PJM Region (“Transmission Provider” or “PJM”), ___________________________ (“Project 
+Developer” or “Wholesale Market Participant” [OPTIONAL: or “[short name]”]), and 
+___________________________ (“Transmission Owner” {OPTIONAL: or “[short name]”}) 
+(referred to individually as a “Party” and collectively as the “Parties”) in order to effectuate 
+Wholesale Transactions by Wholesale Market Participant in PJM’s markets.  [Use as/when 
+applicable: This WMPA supersedes the ____________________________________ {insert 
+details to identify the agreement being superseded, the effective date of the agreement, the 
+service agreement number designation, the prior position number or project identifier, and the 
+FERC docket number, if applicable.}] 
+ 
+WITNESSETH 
+ 
+ WHEREAS, Wholesale Market Participant is developing and will own and control a 
+generation or storage resource that it intends to use to engage in Wholesale Transactions in 
+PJM’s markets (the “Generating Facility”), and desires to maintain its proposed Generating 
+Facility in the Cycle of projects that PJM studies for potential reliability impacts to the 
+Transmission System; 
+ 
+ WHEREAS, Wholesale Market Participant is seeking to physically interconnect its 
+Generating Facility at a local distribution or sub-transmission facility that at this time is not 
+subject to the PJM Open Access Transmission Tariff (“Tariff”) under Federal Energy Regulatory 
+Commission (“FERC” or “Commission”) jurisdiction; 
+ 
+ WHEREAS, Wholesale Market Participant and ([Transmission Owner] [or if the physical 
+interconnection is at Municipality/Cooperative facilities, insert the name of the 
+Municipality/Cooperative ________________]) or its affiliate have entered into a separate non-
+FERC jurisdictional two-party interconnection agreement in order to address issues of physical 
+interconnection, local upgrades, and local charges that may be presented by the interconnection 
+of the Generating Facility to the local distribution or sub-transmission facility (the 
+“Interconnection Agreement”); and 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart C FORM OF 
+WMPA --> OATT Part IX.C WMPA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+WHEREAS, the Interconnection Agreement is a Condition Precedent to this WMPA, and 
+this WMPA is hereby made expressly contingent upon the satisfaction of the Condition 
+Precedent as described in section 3.0 below, and, in the event the Condition Precedent is not 
+satisfied, then this WMPA automatically will be null and void ab initio and will have no further 
+force or effect, and, moreover, the Interconnection Agreement must remain in full force and 
+effect in order for Wholesale Market Participant to use the Generating Facility to engage in 
+Wholesale Transactions in PJM’s markets under this WMPA. 
+ 
+ NOW, THEREFORE, in consideration of the mutual covenants contained herein, along 
+with other good and valuable consideration, the receipt and sufficiency of which are hereby 
+mutually acknowledged by Transmission Provider, Transmission Owner, and Wholesale Market 
+Participant; the Parties agree to assume all of the rights and obligations consistent with the rights 
+and obligations relating to Network Upgrades and metering requirements as set forth in the Tariff 
+as of the effective date of this WMPA, required for Wholesale Market Participant to engage in 
+Wholesale Transactions in PJM’s markets using the Generating Facility; and the Parties mutually 
+covenant and agree as follows:  
+ 
+Article 1 – DEFINITIONS and EFFECTIVE DATE  
+ 
+1.0  Defined Terms. All capitalized terms used and not otherwise defined herein shall have 
+the meanings set forth in Appendix 1 hereto. 
+ 
+1.1 Effective Date. This WMPA shall become effective on the date it is executed by all 
+Parties, or, if this WMPA is filed with FERC unexecuted, on the date specified by FERC.  
+This WMPA shall terminate on such date as mutually agreed upon by the Parties, unless 
+earlier terminated consistent with the provisions of section 3.0 or Appendix 2, section 7 
+of this WMPA. 
+ 
+1.2 Assumption of Tariff Obligations.  Wholesale Market Participant agrees to abide by all 
+rules and procedures pertaining to generation and transmission in the PJM Region, 
+including but not limited to the rules and procedures concerning the dispatch of 
+generation or scheduling transmission set forth in the Tariff, the Operating Agreement, 
+and the PJM Manuals. 
+ 
+1.3 Incorporation of Other Documents.  All portions of the Tariff and the Operating 
+Agreement pertinent to the subject matter of this WMPA and not otherwise made a part 
+hereof are hereby incorporated herein and made a part hereof. 
+ 
+Article 2 - NOTICES and MISCELLANEOUS 
+ 
+2.0 Notices.  Any notice, demand, or request required or permitted to be given by any Party 
+to another Party and any instrument required or permitted to be tendered or delivered by 
+any Party in writing to another Party shall be provided electronically or may be so given, 
+tendered, or delivered by recognized national courier or by depositing the same with the 
+United States Postal Service, with postage prepaid for delivery by certified or registered 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT IX. FORMS OF INTERCONNECTION-RELATED AGREEMENTS --> OATT Part IX Subpart C FORM OF 
+WMPA --> OATT Part IX.C WMPA 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 4 
+mail addressed to the Party, or by personal delivery to the Party, at the electronic or other 
+address specified below. 
+ 
+Transmission Provider: 
+ 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA 19403-2497 

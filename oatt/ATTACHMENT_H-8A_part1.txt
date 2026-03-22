@@ -1,0 +1,1500 @@
+[ATTACHMENT H-8A - Part 1 of 2]
+
+ATTACHMENT H-8A 
+ 
+Other Supporting Facilities and Deferred Tax Adjustment Charges –  
+PPL Electric Utilities Corporation 
+ 
+Monthly Rates for Service to 
+Certain Pennsylvania Municipal Utilities and Cooperatives 
+Utilizing Facilities at Voltage Levels Below 69 kV 
+ 
+Customer       Rate  
+Allegheny Electric Cooperative, Inc.    $2,583.33 
+Blakely       $3,850.29 
+Catawissa       $5,166.67 
+Duncannon       $1,194.57 
+Hatfield       $2,317.55 
+Olyphant       $5,203.23 
+St. Clair       $4,669.00 
+Watsontown       $1,588.48 
+ 
+Monthly Deferred Tax Adjustment Charge 
+ 
+Each Network Customer that serves one or more end-use customers taking distribution service 
+from PPL Electric Utilities Corporation under its applicable retail tariff on file with the 
+Pennsylvania Public Utility Commission (“PPL Electric Distribution Customers”) shall pay a 
+Monthly Deferred Tax Adjustment Charge.  The Monthly Deferred Tax Adjustment Charge shall 
+be determined as follows: 
+ 
+ MDTAC = $106,121 X DCPL/SDCPL 
+ 
+Where: 
+ 
+ MDTAC = the Monthly Deferred Tax Adjustment Charge 
+ 
+DCPL = the daily load of the PPL Electric Distribution Customers served by the 
+Network Customer coincident with the annual peak of the PPL Zone (as adjusted 
+pursuant to Section 34.2 of the PJM Tariff) 
+ 
+SDCPL = the sum of the daily loads of all PPL Electric Distribution Customers 
+coincident with the annual peak of the PPL Zone (as adjusted pursuant to Section 
+34.2 of the PJM Tariff) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 1 
+ATTACHMENT H-8C 
+UGI Utilities, Inc.         
+Formula Rate -- Appendix A   Notes 
+FERC Form 1  Page #          or 
+Instruction   Year 
+       
+Allocators             
+ Wages & Salary Allocation Factor      
+1  Transmission Wages Expense   p354.21.b   
+2  Total Wages Expense   Attachment 5   
+3  Less A&G Wages Expense   Attachment 5   
+4  Total     (Line 2 - 3)     
+5 Wages & Salary Allocator     (Line 1 / 4)     
+ Plant Allocation Factors      
+6  Electric Plant in Service  (Note B) p.207.104.g   
+7  Common Plant In Service - Electric   (Line 24)    
+8  Total Plant In Service     (Sum Lines 6 & 7)     
+9  Accumulated Depreciation (Total Electric Plant)   p219.19.c   
+10  Accumulated Intangible Amortization  (Note A) p200.21.c   
+11  Accumulated Common Amortization - Electric  (Note A) Attachment 5   
+12  Accumulated Common Plant Depreciation - Electric  (Note A) Attachment 5   
+13  Total Accumulated Depreciation     (Sum Lines 9 to 12)     
+14  Net Plant     (Line 8 - Line 13)     
+15  Transmission Gross Plant   (Line 29 - Line 28)    
+16 Gross Plant Allocator     (Line 15 / Line 8)     
+17  Transmission Net Plant   (Line 39 - Line 28)    
+18 Net Plant Allocator     (Line 17 / Line 14)     
+Plant Calculations           
+ Plant In Service      
+19  Transmission Plant In Service  (Note B) p207.58.g   
+20  For Reconciliation only - remove New Transmission Plant Additions for Current Calendar Year   For Reconciliation Only Attachment 6    
+21  New Transmission Plant Additions for Current Calendar Year  (weighted by months in service)   Attachment 6    
+22  Total Transmission Plant In Service   (Line 19 - Line 20 + Line 21)    
+23  General & Intangible   p205.5.g & p.207.99.g   
+24  Common Plant (Electric Only)  (Notes A & B) Attachment 5   
+25  Total General & Common     (Line 23 + Line 24)     
+26  Wage & Salary Allocation Factor   (Line 5)    
+27  General & Common Plant Allocated to Transmission     (Line 25 * Line 26)     
+28  Plant Held for Future Use (Including Land)   (Note C) Attachment 5     
+29 TOTAL Plant In Service     (Line 22 + Line 27 + Line 28)     
+ Accumulated Depreciation      
+30  Transmission Accumulated Depreciation  (Note C) Attachment 5   
+31  Accumulated General Depreciation   Attachment 5   
+32  Accumulated Intangible Amortization   (Line 10)    
+33  Accumulated Common Amortization - Electric   (Line 11)    
+34  Common Plant Accumulated Depreciation (Electric Only)     (Line 12)     
+35  Total Accumulated Depreciation   (Sum Lines 31 to 34)    
+36  Wage & Salary Allocation Factor   (Line 5)    
+37  General & Common Allocated to Transmission     (Line 35 * Line 36)     
+38 TOTAL Accumulated Depreciation     (Line 30 + Line 37)     
+39 TOTAL Net Property, Plant & Equipment     (Line 29 - Line 38)     
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 2 
+Adjustment to Rate Base           
+ Accumulated Deferred Income Taxes      
+40  ADIT net of FASB 106 and 109   Attachment 1   
+41  Accumulated Investment Tax Credit Account No. 255  (Notes A & I) Attachment 5    
+42  Net Plant Allocation Factor   (Line 18)   
+43  Accumulated Deferred Income Taxes Allocated To Transmission     (Line 41 * Line 42) + Line 40    
+ Prepayments      
+44  Prepayments (Account 165)  (Note A) Attachment 5    
+45  Net Plant Allocation Factor   (Line 18)    
+46  Total Prepayments Allocated to Transmission     (Line 44 * Line 45)     
+ Materials and Supplies      
+47  Undistributed Stores Exp  (Note A) Attachment 5   
+48  Wage & Salary Allocation Factor     (Line 5)     
+49  Total Transmission Allocated   (Line 47 * Line 48)    
+50  Transmission Materials & Supplies   Attachment 5    
+51  Total Materials & Supplies Allocated to Transmission     (Line 49 + Line 50)     
+ Cash Working Capital      
+52  Operation & Maintenance Expense   (Line 84)    
+53  1/8th Rule   x 1/8  12.5% 
+54  Total Cash Working Capital Allocated to Transmission     (Line 52 * Line 53)     
+ Network Credits      
+55  Outstanding Network Credits  (Note N) From PJM    
+56      Less Accumulated Depreciation Associated with Facilities with Outstanding Network Credits (Note N) From PJM     
+57  Net Outstanding Credits   (Line 55 - Line 56)    
+58 TOTAL Adjustment to Rate Base     (Lines 43 + 46 + 51 + 54 - 57)     
+59 Rate Base     (Line 39 + Line 58)     
+O&M 
+ 
+            
+ Transmission O&M      
+60  Transmission O&M   p.321.112.b   
+61       Less extraordinary property loss   Attachment 5   
+62       Plus amortized extraordinary property loss   Attachment 5   
+63       Less Account 565 and other excluded transmission expenses   Attachment 5   
+64       Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 565 (Note O) PJM Data   
+65       Plus Transmission Lease Payments  (Note A) Attachment 5   
+66  Transmission O&M     (Lines 60 - 61 + 62 - 63 + 64 + 65)     
+ Allocated General & Common Expenses      
+67  Common Plant O&M  (Note A) Attachment 5   
+68  Total A&G   p.323.197.b   
+69      Less Property Insurance Account 924   p.323.185.b   
+70      Less Regulatory Commission Exp Account 928  (Note E) Attachment 5   
+71      Less General Advertising Exp Account 930.1   Attachment 5   
+72      Less EPRI Dues  (Note D) Attachment 5   
+73  General & Common Expenses     (Lines 67 + 68 -  Sum (69 to 72)     
+74  Wage & Salary Allocation Factor   (Line 5)    
+75  General & Common Expenses Allocated to Transmission     (Line 73 * Line 74)     
+ Directly Assigned A&G      
+76  Regulatory Commission Exp Account 928  (Note G) Attachment 5   
+77  General Advertising Exp Account 930.1   (Note K) Attachment 5    
+78  Subtotal - Transmission Related   (Line 76 + Line 77)    
+79  Property Insurance Account 924   (Line 69)    
+80  General Advertising Exp Account 930.1  (Note F) Attachment 5   
+81  Total     (Line 79 + Line 80)     
+82  Net Plant Allocation Factor   (Line 18)    
+83  A&G Directly Assigned to Transmission     (Line 81 * Line 82)     
+84  Total Transmission O&M     (Lines 66 + 75 + 78 + 83)     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 3 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 4 
+Depreciation & Amortization Expense           
+ Depreciation Expense      
+85  Transmission Depreciation Expense   Attachment 5   
+86  General Depreciation   Attachment 5   
+87  Intangible Amortization   (Note A) Attachment 5    
+88  Total   (Line 86 + Line 87)    
+89  Wage & Salary Allocation Factor     (Line 5)     
+90  General Depreciation Allocated to Transmission   (Line 88 * Line 89)    
+91  Common Depreciation - Electric Only  (Note A) Attachment 5   
+92  Common Amortization - Electric Only   (Note A) Attachment 5    
+93  Total   (Line 91 + Line 92)    
+94  Wage & Salary Allocation Factor     (Line 5)     
+95  Common Depreciation - Electric Only Allocated to Transmission   (Line 93 * Line 94)    
+96 Total Transmission Depreciation & Amortization     (Line 85 + Line 90 + Line 95)     
+Taxes Other than Income           
+97 Taxes Other than Income   Attachment 2    
+98 Total Taxes Other than Income     (Line 97)     
+Return/Capitalization Calculations           
+ Long Term Interest      
+99  Long Term Interest   p117.62.c through 67.c   
+100      Less LTD Interest on Securitization Bonds   (Note P) Attachment 8    
+101  Long Term Interest   (Line 99 - Line 100)    
+102 Preferred Dividends   enter positive p118.29.c  - 
+ Common Stock      
+103  Proprietary Capital   p112.16.c   
+104      Less Preferred Stock  enter negative (Line 113)    
+105      Less Account 216.1   enter negative p112.12.c     
+106  Common Stock   (Sum Lines 103 to 105)    
+ Capitalization      
+107  Long Term Debt   p112.18.c through 21.c   
+108        Less Loss on Reacquired Debt   enter negative p111.81.c   
+109        Plus Gain on Reacquired Debt  enter positive p113.61.c   
+110        Less ADIT associated with Gain or Loss  enter negative Attachment 1   
+111        Less LTD on Securitization Bonds (Note P) enter negative Attachment 8   
+112  Total Long Term Debt     (Sum Lines 107 to 111)     
+113  Preferred Stock   p112.3.c   
+114  Common Stock   (Line 106)    
+115  Total  Capitalization     (Sum Lines 112 to 114)     
+116  Debt % Total Long Term Debt (Line 112 / Line 115)    
+117  Preferred % Preferred Stock  (Line 113 / Line 115)    
+118  Common % Common Stock  (Line 114 / Line 115)    
+119  Debt Cost Total Long Term Debt (Line 101 / Line 112)    
+120  Preferred Cost Preferred Stock  (Line 102 / Line 113)    
+121  Common Cost Common Stock (Note J) Fixed  0.1130 
+122  Weighted Cost of Debt Total Long Term Debt (WCLTD) (Line 116 * Line 119)    
+123  Weighted Cost of Preferred Preferred Stock  (Line 117 * Line 120)    
+124   Weighted Cost of Common Common Stock   (Line 118 * Line 121)     
+125 Total Return ( R )   (Sum Lines 122 to 124)    
+126 Investment Return = Rate Base * Rate of Return     (Line 59 * Line 125)     
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 5 
+Composite Income Taxes           
+  Income Tax Rates      
+127  FIT=Federal Income Tax Rate   FIT for Year    
+128  SIT=State Income Tax Rate or Composite  (Note I) SIT for Year    
+129  p  (percent of federal income tax deductible for state purposes)    
+130  T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =    
+131  T/ (1-T)       
+ ITC Adjustment  (Note I)    
+132  Amortized Investment Tax Credit  enter negative p266.6.f    
+133  1/(1-T)   (Line 131)    
+134  Net Plant Allocation Factor     (Line 18)    
+135  ITC Adjustment Allocated to Transmission    (Line 132 * Line 133 * Line 134)     
+136 Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = [Line 131 * 126 * (1-(122 / 125))]                           
+137 Total Income Taxes     (Line 135 + Line 136)                             
+REVENUE REQUIREMENT           
+ Summary      
+138  Net Property, Plant & Equipment   (Line 39)    
+139  Adjustment to Rate Base   (Line 58)    
+140  Rate Base     (Line 59)     
+141  O&M   (Line 84)    
+142  Depreciation & Amortization   (Line 96)    
+143  Taxes Other than Income   (Line 98)    
+144  Investment Return   (Line 126)    
+145  Income Taxes   (Line 137)    
+146   Gross Revenue Requirement     (Sum Lines 141 to 145)     
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities     
+147  Transmission Plant In Service   (Line 19)    
+148  Excluded Transmission Facilities   (Note M) Attachment 5     
+149  Included Transmission Facilities   (Line 147 - Line 148)    
+150  Inclusion Ratio   (Line 149 / Line 147)    
+151  Gross Revenue Requirement     (Line 146)     
+152  Adjusted Gross Revenue Requirement   (Line 150 x Line 151)    
+ Revenue Credits & Interest on Network Credits      
+153  Revenue Credits   Attachment 3    
+154  Interest on Network Credits  (Note N) PJM Data  - 
+155   Net Revenue Requirement     (Line 152 - Line 153 + Line 154)     
+ Net Plant Carrying Charge without ROE Increment      
+156  Gross Revenue Requirement   (Line 146)                         
+157  Net Transmission Plant   (Line 19 - Line 30)                       
+158  Net Plant Carrying Charge    (Line 156 / Line 157)    
+159  Net Plant Carrying Charge without Depreciation   (Line 156 - Line 85) / Line 157    
+160  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes   (Lines 156 - 85 - 126 - 137) /  Line 157   
+ Net Plant Carrying Charge with 100 Basis Point ROE Increment      
+161  Gross Revenue Requirement Less Return and Taxes   (Line 146 - Line 144 - Line 145)                       
+162  Increased Return and Taxes   Attachment 4                       
+163  Net Revenue Requirement per 100 Basis Point increase in ROE   (Line 161 + Line 162)                       
+164  Net Transmission Plant   (Line 19 - Line 30)                     
+165  Net Plant Carrying Charge per 100 Basis Point increase in ROE   (Line 163 / Line 164)   
+166  Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation   (Line 162 - Line 85) / Line 164   
+167  Net Revenue Requirement   (Line 155)                       
+168  Reconciliation Amount   Attachment 6                          
+169  Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects   Attachment 7                                    -    
+170  Facility Credits under Section 30.9 of the PJM OATT    Attachment 5     
+171  Net Zonal Revenue Requirement   (Sum Lines 167 to 170)                       
+ Network Zonal Service Rate      
+172  1 CP Peak  (Note L) 6593  N/A 
+173  Rate ($/MW-Year)  (Note L) (Line 171 / Line 172)  N/A 
+174   Network Service Rate ($/MW/Year)   (Note L) (Line 173)   N/A 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 6 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 7 
+ Notes      
+ A Electric portion only      
+ B Exclude Construction Work In Progress and leases that are expensed as O&M (rather than amortized).  New Transmission plant included in the PJM  Regional    
+  Transmission Expansion Plan which is expected to be placed in service in the current calendar year weighted by number of months it is expected to be in-service.     
+  For the true-up, new transmission plant which was included in the PJM RTEP actually placed in service weighted by the number of months it was actually in service   
+ C Transmission Portion Only      
+ D EPRI Annual Membership Dues      
+ E All Regulatory Commission Expenses       
+ F Safety related advertising included in Account 930.1        
+ G Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized at 351.h.     
+ I The currently effective income tax rate,  where FIT is the Federal income tax rate; SIT is the State income tax rate, and p =    
+    "the percentage of federal income tax deductible for state income taxes".  If the utility is taxed in more than one state it must attach a    
+    work paper showing the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that    
+    elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce     
+    rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f)    
+    multiplied by (1/1-T).  A utility must not include tax credits as a reduction to rate base and as an amortization against taxable income.   
+ J ROE will be supported in the original filing and no change in ROE may be made absent a filing with FERC.    
+ K Education and outreach expenses relating to transmission, for example siting or billing      
+ L The Network Zonal Rate is calculated by PJM Interconnection for the PPL Group Zone.     
+ M Amount of transmission plant excluded from rates, includes investment in generation step-up transformers to the extent included in Plant in Service.   
+ N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments       
+    (net of accumulated depreciation) towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A.       
+    Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmisison Owner whole on Line 154.      
+ O Payments made under Schedule 12 of the PJM OATT are excluded in Transmission O&M on line 64 since they are already assessed under Schedule 12      
+ P Securitization bonds may be included in the capital structure.      
+ 
+END 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 8 
+UGI Utilities, Inc. 
+       
+ Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet 
+      Page 1 of 2 
+   Only    
+   Transmission Plant  Labor Total 
+   Related Related Related ADIT 
+       
+       
+1 ADIT- 282      
+2 ADIT-283      
+3 ADIT-190      
+4 Subtotal      
+5 Wages & Salary Allocator      
+6 Gross Plant Allocator      
+7 ADIT      
+8       
+9       
+10       
+11       
+12       
+13       
+14       
+15       
+16       
+17 ADIT-190  Gas, Prod Only   
+18   Or Other Transmission Plant  Labor 
+19   Related Related Related Related 
+20           
+21                      
+22                     
+23                               
+23                               
+25                      
+26                       
+27                        
+28                       
+29                   
+30                    
+31                   
+32                   
+33                   
+34                   
+35                    
+36                    
+37                    
+38                    
+39                   
+40                    
+41                    
+42                    
+43                         
+44                           
+45           
+46           
+47                       
+48                       
+49                      
+50                       
+51                       
+52                       
+53                    
+54       
+55 Subtotal - p234  - - - - 
+56 Less FASB 109 Above          
+57 Less FASB 106 Above           
+58 Total  - - - - 
+59       
+60 Instructions for Account 190:      
+61 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column A 
+62 2.  ADIT items related only to Transmission are directly assigned to Column B     
+63 3.  ADIT Items elated Plant and not in Columns A & B are directly assigned to Column C    
+64 4.  ADIT items related to labor and not in Columns a & B are directly assigned to Column D      
+65 5. Since deferred income taxes arise when items are included in taxable income in different periods than they are included in rates - therefore, if the item giving rise to the  
+66 ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+67  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 9 
+ UGI Utilities, Inc. 
+      Page 2 of 2 
+       
+       
+   (A) (B) (C) (D) 
+ ADIT- 282  Gas, Prod Only   
+   Or Other Transmission Plant  Labor 
+   Related Related Related Related 
+           
+1                  
+2                 
+3                 
+4                         -      
+5              
+6                   
+7           
+8           
+9           
+10           
+11           
+12           
+13           
+14           
+15           
+16 Subtotal - p275  (Form 1-F filer:  see note 6 below)      
+17 Less FASB 109 Above      
+18 Less FASB 106 Above      
+19 Total      
+20       
+21 Instructions for Account 282:      
+22 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column A 
+23 2.  ADIT items related only to Transmission are directly assigned to Column B     
+24 3.  ADIT items related Plant and not in Columns A & B are directly assigned to Column C    
+25 4.  ADIT items related to labor and not in Columns A & B are directly assigned to Column D    
+26 
+27 
+5. Since deferred income taxes arise when items are included in taxable income in different periods than they are included in rates - therefore, if the item giving rise to the  
+ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+28     
+29       
+30  
+31       
+32       
+33   Gas, Prod Only   
+34 ADIT-283  Or Other Transmission Plant  Labor 
+35   Related Related Related Related 
+36           
+37           
+38                     
+39                       
+40          
+41          
+42                       
+43                        
+44           
+45           
+46           
+47           
+48           
+49           
+50           
+51           
+52           
+53           
+54           
+55           
+56           
+57           
+58           
+59 Subtotal - p277    -                               -                      -    -           
+60 Less FASB 109 Above          
+61 Less FASB 106 Above                  
+62 Total  -                               -                      -                        -    
+63       
+64 Instructions for Account 283:      
+65 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column A 
+66 2.  ADIT items related only to Transmission are directly assigned to Column B     
+67 3.  ADIT items related Plant and not in Columns A & B are directly assigned to Column C    
+68 4.  ADIT items related to labor and not in Columns A & B are directly assigned to Column D    
+69 
+70 
+5. Since deferred income taxes arise when items are included in taxable income in different periods than they are included in rates - therefore, if the item giving rise to the  
+ADIT is not included in the formula, the associated ADIT amount shall be excluded 
+71     
+       
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 10 
+UGI Utilities, Inc. 
+Attachment 2 - Taxes Other Than Income Worksheet 
+    Source:   
+    FERC Form 1  Allocated 
+Other Taxes  Pages 262-263 Allocator Amount 
+ Plant Related   Gross Plant Allocator  
+1  Real property (State, Municipal or Local)      
+2  Personal property      
+3  Capital Stock Tax      
+4  Gross Premium (insurance) Tax      
+5  PURTA      
+6  Corp License      
+7         
+8         
+9 Total Plant Related     
+10       
+11       
+12 Labor Related   Wages & Salary Allocator   
+13       
+14       
+15  Federal FICA & Unemployment     
+16  Unemployment      
+17         
+18         
+19         
+20 Total Labor Related     
+21       
+22       
+23 Other Included   Gross Plant Allocator  
+24       
+25  Miscellaneous      
+26         
+27         
+28         
+29 Total Other Included      
+30       
+31 Total Included Sum lines 9+20+29     
+32       
+33       
+34 Currently Excluded     
+35       
+36  Gross Receipts        
+37  Ultiity Regulatory Assessment              
+38         
+39         
+40         
+41  Total Excluded  -        
+42       
+43 Grand Total = Included + Excluded  (line 31 + 41)     
+44       
+45 Total "Taxes Other Than Income Taxes"  Acct. 408.1 (p115.14.g)       
+46       
+47 Difference                  -   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 11 
+UGI Utilities, Inc. 
+    
+Attachment 3 - Revenue Credit Workpaper 
+    
+    
+ Account 454 - Rent from Electric Property   
+1 Rent from Electric Property - Transmission Related  (Note 3)                     -    
+2 Total Rent Revenues (Line 1)                    -    
+    
+ Account 456 - Other Electric Revenues (Note 1)   
+    
+3 Schedule 1A    
+4 
+Net revenues associated with Network Integration Transmission Service (NITS) for which 
+ the load is not included in the divisor (difference between NITS credits from PJM and PJM 
+NITS charges paid by Transmission Owner) (Note 4)                     -    
+5 
+Point to Point Service revenues received by the Transmission Owner for which the load is 
+not included in the divisor               
+6 PJM Transitional Revenue Neutrality (Note 1)    
+7 PJM Transitional Market Expansion (Note 1)    
+8 Professional Services  (Note 3)    
+9 Revenues from Directly Assigned Transmission Facility Charges (Note 2)    
+10 Rent or Attachment Fees associated with Transmission Facilities (Note 3)    
+     
+11 Gross Revenue Credits (Sum Lines 2 through 10)             - 
+12 Line 17g             - 
+13 Total Revenue Credits (Line 11 - Line 12)             - 
+    
+ Revenue Adjustment to determine Revenue Credit   
+14  Note 1: All revenues related to transmission that are received as a transmission owner (i.e., 
+not received as a LSE), for which the cost of the service is recovered under this formula, 
+except as specifically provided for elsewhere in this Attachment or elsewhere in the formula 
+will be included as a revenue credit or the associated load will be included in the peak on  
+line 173 of Appendix A.   
+    
+15 Note 2: If the costs associated with the Directly Assigned Transmission Facility Charges are 
+included in the Rates, the associated revenues are included in the Rates.  If the costs 
+associated with the Directly Assigned Transmission Facility Charges are not included in the 
+Rates, the associated revenues are not included in the Rates.   
+    
+16 Note 3: Ratemaking treatment for the following specified secondary uses of transmission 
+assets:  (1) right-of-way leases and leases for space on transmission facilities for 
+telecommunications;  (2) transmission tower licenses for wireless antennas; (3) right-of-way 
+property leases for farming, grazing or nurseries; (4) licenses of intellectual property 
+(including a portable oil degasification process and scheduling software); and (5) 
+transmission maintenance and consulting services (including energized circuit maintenance, 
+high-voltage substation maintenance, safety training, transformer oil testing, and circuit 
+breaker testing) to other utilities and large customers (collectively, products). Company will 
+retain 50% of net revenues consistent with Pacific Gas and Electric Company, 90 FERC ¶ 
+61,314.  Note: in order to use lines 17a - 17g, the utility must track in separate subaccounts 
+the revenues and costs associated with each secondary use (except for the cost of the 
+associated income taxes). 
+  
+17a Revenues included in lines 1-11 which are subject to 50/50 sharing.   
+17b Costs associated with revenues in line 17a   
+17c Net Revenues  (17a - 17b)   
+17d 50% Share of Net Revenues  (17c / 2)   
+17e Costs associated with revenues in line 17a that are included in FERC accounts recovered 
+through the formula times the allocator used to functionalize the amounts in the FERC 
+account to the transmission service at issue.   
+17f Net Revenue Credit (17d + 17e)              - 
+17g Line 17f less line 17a             - 
+18   Note 4: If the facilities associated with the revenues are not included in the formula, the 
+revenue is shown here but not included in the total above and is explained in the Cost 
+Support; for example, revenues associated with distribution facilities.  In addition, Revenues 
+from Schedule 12 are not included in the total above to the extent they are credited under 
+Schedule 12.    
+    
+19 Amount offset in line 4 above   
+    
+20 Total Account 454 and 456 (Lines 11+ 18 + 19)            - 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 12 
+UGI Utilities, Inc. 
+Attachment 4 - Calculation of 100 Basis Point Increase in ROE 
+         
+  Return and Taxes with 100 Basis Point Increase in ROE     
+A   100 Basis Point increase in ROE and Income Taxes  (Line 126 + Line 138)   
+B   100 Basis Point increase in ROE     1.00% 
+         
+Return Calculation           
+59  Rate Base   (Line 39 + Line 58)   
+         
+  Long Term Interest      
+99   Long Term Interest   p117.62.c through 67.c   
+100       Less LTD Interest on Securitization Bonds     Attachment 8    
+101   Long Term Interest   (Line 99 - Line 100)   
+102  Preferred Dividends  enter positive  p118.29.c   
+  Common Stock      
+103   Proprietary Capital   p112.16.c   
+104       Less Preferred Stock enter negative  (Line 113)   
+105       Less Account 216.1 enter negative   p112.12.c    
+106   Common Stock   (Sum Lines 103 to 105)   
+  Capitalization      
+107   Long Term Debt   p112.18.c through 21.c   
+108         Less Loss on Reacquired Debt  enter negative  p111.81.c   
+109         Plus Gain on Reacquired Debt enter positive  p113.61.c   
+112   Total Long Term Debt     (Sum Lines 107 to 111)    
+113   Preferred Stock   p112.3.c   
+114   Common Stock   (Line 106)   
+115   Total  Capitalization     (Sum Lines 112 to 114)    
+116   Debt %  Total Long Term Debt (Line 112 / Line 115)   
+117   Preferred %  Preferred Stock (Line 113 / Line 115)   
+118   Common %  Common Stock (Line 114 / Line 115)   
+119   Debt Cost  Total Long Term Debt (Line 101 / Line 112)   
+120   Preferred Cost  Preferred Stock (Line 102 / Line 113)   
+121   Common Cost (Note J) Common Stock Fixed plus 100 Basis Pts                  0.1230  
+122   Weighted Cost of Debt  Total Long Term Debt (WCLTD) (Line 116 * Line 119)   
+123   Weighted Cost of Preferred  Preferred Stock (Line 117 * Line 120)   
+124   Weighted Cost of Common   Common Stock (Line 118 * Line 121)    
+125  Total Return ( R )   (Sum Lines 122 to 124)   
+126  Investment Return = Rate Base * Rate of Return     (Line 59 * Line 125)   #DIV/0! 
+Composite Income Taxes       
+   Income Tax Rates      
+127   FIT=Federal Income Tax Rate      
+128   SIT=State Income Tax Rate or Composite     
+129   p = percent of federal income tax deductible for state purposes    
+130   T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =    
+131   T/ (1-T)      
+         
+  ITC Adjustment      
+132   Amortized Investment Tax Credit  enter negative    
+133   1/(1-T)      
+134   Net Plant Allocation Factor        
+135   ITC Adjustment Allocated to Transmission (Note I)     
+         
+137  Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) =   
+         
+138  Total Income Taxes                     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 13 
+UGI Utilities, Inc. 
+Attachment 5 - Cost Support 
+Electric / Non-electric Cost Support        
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount Electric Portion Non-electric  Portion Details 
+  Plant Allocation Factors         
+2  Total Wage Expense   p354.28.b     
+3  Administrative and General Wage Expense   p354.27.b     
+10  Accumulated Intangible Amortization  (Note A)       
+11  Accumulated Common Amortization - Electric  (Note A) p356     
+   Accumulated General Depreciation - Electric  (Note A) p219.28.c     
+12  Accumulated Common Plant Depreciation - Electric  (Note A) p356     
+  Plant In Service         
+24  Common Plant (Electric Only)  (Notes A & B) p356     
+  Accumulated Deferred Income Taxes         
+41  Accumulated Investment Tax Credit Account No. 255  (Notes A & I) p267.8.h     
+  Prepayments         
+44  Prepayments (Account 165)  (Note A) p111.57(c)     
+  Materials and Supplies         
+47  Undistributed Stores Exp  (Note A) p227.16.c     
+  Allocated General & Common Expenses         
+65       Plus Transmission Lease Payments  (Note A) p200.4.c     
+67  Common Plant O&M  (Note A) p356     
+  Depreciation Expense         
+83  Depreciation   p336.7.b&c     
+84  General Depreciation   p336.10.b&c     
+87  Intangible Amortization  (Note A) p336.1.d&e     
+91  Common Depreciation - Electric Only  (Note A) p336.11.b     
+92   Common Amortization - Electric Only   (Note A) p336.11.d     
+ 
+Transmission / Non-transmission Cost Support        
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount Transmission Related 
+Non-transmission 
+Related Details 
+15  Transmission Gross Plant   p207.58.g     
+28  Plant Held for Future Use (Including Land)  (Note C) p214     
+30  Transmission Accumulated Depreciation  0 p219.25.c     
+50  Materials and Supplies   p227.8.c     
+83  Transmission Depreciation Expense   p336.7.b&c     
+             
+Excluded Transmission  O&M Expenses 
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Excluded TOM   Details 
+  Acct 565   p. 321.96.b     
+  Portions of Acct 561   Company Records     
+  Other Excluded Expenses   Company Records     
+63  Less Account 565 and other excluded expenses   Total     
+CWIP & Expensed Lease Worksheet        
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount 
+CWIP In Form 1 
+Amount 
+Expensed Lease 
+in Form 1 Amount Details 
+  Plant Allocation Factors          
+6  Electric Plant in Service  (Note B) p207.104.g     
+7  Common Plant In Service - Electric  0 (Line 24)     
+  Plant In Service         
+19  Transmission Plant In Service  (Note B) p207.58.g     
+24  Common Plant (Electric Only)  (Notes A & B) Attachment 5     
+  Accumulated Depreciation         
+30   Transmission Accumulated Depreciation   (Note C) Attachment 5     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 14 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 15 
+EPRI Dues Cost Support               
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount EPRI Dues   Details 
+  Allocated General & Common Expenses         
+72       Less EPRI Dues   (Note D) Attachment 5     
+                
+Regulatory Expense Related to Transmission Cost Support            
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount Transmission Related 
+Non-transmission 
+Related Details 
+  Allocated General & Common Expenses                
+70      Less Regulatory Commission Exp Account 928  (Note E) p323.189.b      
+  
+              
+  Directly Assigned A&G                
+76   Regulatory Commission Exp Account 928   (Note G)         
+                
+Safety Related Advertising Cost Support              
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount Safety Related Non-safety Related Details 
+  Directly Assigned A&G                
+80   General Advertising Exp Account 930.1   (Note F) p323.191.b                                  -                                 -     None  
+MultiState Workpaper               
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions State 1 State 2 State 3 State 4 State 5 Details 
+  Income Tax Rates                 
+       Pennsylvania Enter State Enter State Enter State Enter State Enter Calculation 
+128   SIT=State Income Tax Rate or Composite   (Note I) SIT for Year  Enter % Enter % Enter % Enter %  
+                 
+Education and Out Reach Cost Support               
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 or Company 
+Records Amount Education & Outreach Other Details 
+  Directly Assigned A&G                 
+77   General Advertising Exp Account 930.1   (Note K) p323.191.b - 0 0  None  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 16 
+Excluded Plant Cost Support              
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Excluded 
+Transmission 
+Facilities Description of the Facilities 
+  
+Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities 
+              
+148  Excluded Transmission Facilities  (Note M) Attachment 5 0  
+                    
+        Enter $ None 
+           
+                  Add more lines if necessary        
+Outstanding Network Credits Cost Support              
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Outstanding 
+Network Credits Description of the Credits 
+  Network Credits                 
+55  Outstanding Network Credits  (Note N) From PJM 0 General Description of the Credits 
+        Enter $ None 
+           
+56      Less Accumulated Depreciation Associated with Facilities with Outstanding Network Credits (Note N) From PJM 0  
+                 Add more lines if necessary         
+                
+Interest on Outstanding Network Credits Cost Support             
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Interest on Network 
+Credits Description of the Interest on the Credits 
+  Revenue Credits & Interest on Network Credits                
+154  Interest on Network Credits  (Note N) PJM Data 0 General Description of the Credits 
+                    
+        Enter $ None 
+                  Add more lines if necessary           
+PJM Load Cost Support              
+PJM Formula Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 1 CP Peak Description & PJM Documentation  
+  Network Zonal Service Rate                 
+172   1 CP Peak   (Note L) 6593   PJM Interconnection Calculates the Rate 
+Statements BG/BH (Present and Proposed Revenues)             
+    Customer 
+Billing 
+Determinants Current Rate Proposed Rate 
+Current 
+Revenues Proposed Revenues Change in Revenues           
+       
+                                                    
+-    
+                                             
+-                                    -          
+   Add more lines if necessary               
+    Total       
+                                                    
+-    
+                                             
+-                                    -              
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 17 
+UGI Utilities, Inc. 
+Attachment 6 - Estimate and Reconciliation Worksheet 
+Step Month Year Action       
+Exec Summary        
+1 April Year 2 TO populates the formula with Year 1 data from Form 1 for Year 1 (e.g. 2005 data) (no Cap Adds)    
+2 April Year 2 TO estimates all transmission Cap Adds for Year 2 weighted based on Months expected to be in service in Year 2 (e.g. 2006)   
+3 April Year 2 TO adds weighted Cap Adds to plant in service in Formula     
+4 May Year 2 Post results of Step 3 on PJM web site      
+5 June Year 2 Results of Step 3 go into effect for the Rate Year 1 (e.g. June 1, 2005 - May 31, 2006)    
+          
+6 April Year 3 TO populates the formula with Year 2 data from FERC Form 1 for Year 2 (e.g., 2006)    
+7 April Year 3 TO estimates Cap Adds during Year 3 weighted based on Months expected to be in service in Year 3 (e.g., 2007)    
+8 April Year 3 Reconciliation - TO calculates Reconciliation by removing from Year 2 data - the total Cap Adds placed in service in Year 2 and adding weighted average in Year 2 
+actual Cap Adds in Reconciliation (adjusted to include any Reconciliation amount from prior year) 
+ 
+9 April Year 3 Reconciliation - TO adds the difference between the Reconciliation in Step 8 and the forecast in Line 5 with interest to the result of Step 7 (this difference is also 
+added to Step 8 in the subsequent year) 
+ 
+10 May Year 3 Post results of Step 9 on PJM web site      
+11 June Year 3 Results of Step 9 go into effect for the Rate Year 2 (e.g., June 1, 2007 - May 31, 2008)    
+Detailed Example        
+1 April Year 2 TO populates the formula with Year 1 data from Form 1 for Year 1 (e.g. 2005 data) (no Cap Adds)    
+    $                - Rev Req based on Year 1 data Must run Appendix A to get this number (without any Cap Adds in line 21 of Appendix A) 
+2 April Year 2 TO estimates all transmission Cap Adds for Year 2 weighted based on Months expected to be in service in Year 2 (e.g. 2006)   
+    Est. In Service Date Weighting Amount One 12th   
+   Jan                                      -    11.5                                                               -                        -      
+   Feb                            10.5                                                               -                     -   
+   Mar                                      -    9.5                                                               -                        -      
+   Apr                                      -    8.5                                                               -                        -      
+   May                                      -    7.5                                                               -                        -      
+   Jun                                      -    6.5                                                               -                        -      
+   Jul   5.5                                                               -                        -      
+   Aug                               4.5                                                               -                     -   
+   Sep                                      -    3.5                                                               -                        -      
+   Oct                                      -    2.5                                                               -                        -      
+   Nov                                      -    1.5                                                               -                        -      
+   Dec                                0.5                                                                    
+   Total                                      -                                                                                 
+   New Transmission Plant Additions for Year 2  (weighted by months in service)                       -     
+3 April Year 2 TO adds weighted Cap Adds to plant in service in Formula     
+    $         - Input to Formula Line 21      
+4 May Year 2 Post results of Step 3 on PJM web site      
+             Must run Appendix A to get this number (with prospective weighted cap adds in line 21)   
+5 June Year 2 Results of Step 3 go into effect for the Rate Year 1 (e.g. June 1, 2005 - May 31, 2006)    
+    $          -       
+6 April Year 3 TO populates the formula with Year 2 data from FERC Form 1 for Year 2 (e.g., 2006)    
+    $          - Rev Req based on Prior Year data Must run Appendix A to get this number (without any Cap Adds in line 21 of Appendix A) 
+7 April Year 3 TO estimates Cap Adds during Year 3 weighted based on Months expected to be in service in Year 3 (e.g., 2007)    
+    Est. In Service Date Weighting Amount One 12th   
+   Jan  - 11.5 - -    
+   Feb  - 10.5 - -   
+   Mar  - 9.5 - -   
+   Apr - 8.5 - -   
+   May  - 7.5 - -   
+   Jun - 6.5 - -   
+   Jul - 5.5 - -   
+   Aug - 4.5 - -   
+   Sep - 3.5 - -   
+   Oct  - 2.5 - -   
+   Nov  - 1.5 - -   
+   Dec  - 0.5 - -   
+   Total -  - -   
+   New Transmission Plant Additions for Year 3 (weighted by months in service) - Input to Formula Line 21 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 18 
+8 April Year 3 Reconciliation -- TO calculates Reconciliation by removing from Year 2 data – the total estimated Cap Adds placed in service in Year 2 and adding weighted average in Year 2 actual Cap Add in Reconcilliation 
+   (adjusted to include any Reconciliation amount from prior year)     
+    Remove all Cap Adds placed in service in Year 2      
+   For Reconciliation only – remove actual New Transmission Plant Additions for Year 2 - Input to Formula Line 20 
+   Add weighted Cap Adds actually placed in service in Year 2     
+    Actual In Service Date Weighting Amount One 12th   
+   Jan                                      -    11.5 - -   
+   Feb                                      -    10.5 - -   
+   Mar                                      -    9.5 - -   
+   Apr                                      -    8.5 - -   
+   May                                      -    7.5 - -   
+   Jun                                      -    6.5 - -   
+   Jul                                      -    5.5 - -   
+   Aug                                      -    4.5 - -   
+   Sep                                      -    3.5 - -   
+   Oct                                      -    2.5 - -   
+   Nov                                      -    1.5 - -   
+   Dec                                      -    0.5 - -   
+   Total                              - -   
+   New Transmission Plant Additions for Year 2 (weighted by months in service)            - Input to Formula Line 21 
+             -  Result of Formula for Reconciliation    Must run Appendix A with cap adds in line 21 and line 20  
+9 April Year 3 Reconciliation -- TO adds the difference beween the Reconciliation in Step 8 and the forcast in Line 5 with interest to the result of Step 7 (this difference is also added to Step 8 in the subsequent year) 
+   The Reconciliation in Step 8 The forecast in Prior Year     
+               -                      - =           -   
+   Interest on Amount of Refunds or Surcharges     
+   Interest 35.19a for March Current Yr     Surcharge (Refund) 
+    Month  Yr 1/12 of Step 9  Interest Rate for     Interest  Owed 
+      March of Current Year Months   
+   Jun Year 1 - 0.0000% 11.5 - - 
+   Jul Year 1 - 0.0000% 10.5 - - 
+   Aug Year 1 - 0.0000% 9.5 - - 
+   Sep Year 1 - 0.0000% 8.5 - - 
+   Oct Year 1 - 0.0000% 7.5 - - 
+   Nov Year 1 - 0.0000% 6.5 - - 
+   Dec Year 1 - 0.0000% 5.5 - - 
+   Jan Year 2 - 0.0000% 4.5 - - 
+   Feb Year 2 - 0.0000% 3.5 - - 
+   Mar Year 2 - 0.0000% 2.5 - - 
+   Apr Year 2 - 0.0000% 1.5 - - 
+   May Year 2 - 0.0000% 0.5 - - 
+   Total  -    - 
+       
+Amortization 
+over   
+      Balance  Interest Rate Year Balance  
+   Jun Year 2 - 0.0000% - -  
+   Jul Year 2 - 0.0000% - -  
+   Aug Year 2 - 0.0000% - -  
+   Sep Year 2 - 0.0000% - -  
+   Oct Year 2 - 0.0000% - -  
+   Nov Year 2 - 0.0000% - -  
+   Dec Year 2 - 0.0000% - -  
+   Jan Year 3 - 0.0000% - -  
+   Feb Year 3 - 0.0000% - -  
+   Mar Year 3 - 0.0000% - -  
+   Apr Year 3 - 0.0000% - -  
+   May Year 3 -  -     
+   Total with interest      
+   The difference between the Reconciliation in Step 8 and the forecast in Prior Year with interest                          -   
+   Rev Req based on Year 3 data with estimated Cap Adds for Year 3  $                       -   
+   Revenue Requirement for Year 3                            -   
+10 May Year 3 Post results of Sept 9 on PJM web site      
+    $          - Post results of Step 3 on PJM web site     
+11 June Year 3 Results of Step 9 go into effect for the Rate Year 2 (e.g., June 1, 2007 - May 31, 2008)    
+    $          -       
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 19 
+UGI Utilities, Inc. 
+Attachment 7 - Transmission Enhancement Charge Worksheet 
+Fixed Charge Rate (FCR) if not a CIAC           
+ Formula Line            
+A 159 Net Plant Carrying Charge without Depreciation         
+B 166 Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation       
+C  Line B less Line A           
+FCR if a CIAC             
+D 160 Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes       
+The FCR resulting from Formula in a given year is used for that year only.         
+Therefore actual revenues collected in a year do not change based on cost data for subsequent years       
+Details   Project A Project B       
+Schedule 12 (Yes or No)                  
+Life                   
+CIAC (Yes or No)                  
+Increased ROE (Basis Points)                  
+FCR @ 11.3 ROE  #DIV/0!                
+FCR for This Project 
+(FCR @ 11.3 ROE 
++ FCR @ 11.3  
+ROE x Increased 
+ROE/100 bp) #DIV/0!                
+Investment     may be weighted average of small projects               
+Annual Depreciation Exp  
+                         
+-                               -             
+In Service Month (1-12)  
+                         
+-                   
+  Invest Yr Beginning Depreciation Ending  Revenue  Beginning Depreciation Ending Revenue Total Incentive Charged Revenue Credit 
+FCR @ 11.3 ROE 2006 
+                         
+-    
+                                 
+-                            -             
+W Increased ROE 2006 
+                         
+-    
+                                 
+-                            -             
+FCR @ 11.3 ROE 2007 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2007 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2008 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2008 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2009 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2009 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2010 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2010 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2011 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2011 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2012 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2012 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2013 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2013 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2014 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2014 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2015 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2015 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2016 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2016 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2017 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2017 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2018 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2018 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2019 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2019 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2020 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2020 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2021 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2021 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2022 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2022 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2023 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2023 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2024 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2024 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+FCR @ 11.3 ROE 2025 
+                         
+-    
+                                 
+-                            -                            -                                -                         -                       -       
+W Increased ROE 2025  
+                                 
+-                            -                            -                                -                         -                       -       
+   ….    ….   …..   ….   ….   ….   …..   ….      $                                -    
+   ….   ….   …..   …..   ….   ….   …..   …..   ….     $                                      -      
+           
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 20 
+UGI Utilities, Inc. 
+      
+Attachment 8 - Company Exhibit - Securitization Workpaper 
+      
+Line #      
+  Long Term Interest   
+100      Less LTD Interest on Securitization Bonds   
+      
+      
+  Capitalization   
+111        Less LTD on Securitization Bonds   
+      
+      
+  Calculation of the above Securitization Adjustments   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 21 
+UGI Utilities, Inc. 
+Attachment 9 – Depreciation Rates  
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) 
+Number Plant Type 
+Estimated 
+Life 
+Mortality 
+Curve 
+Remaining 
+Life 
+Applied 
+Depreciation Rate 
+Gross Depreciable 
+Plant 
+Accumulated 
+Depreciation 
+Depreciable 
+Balance 
+Depreciation 
+Expense 
+          
+TRANSMISSION PLANT 
+352 STRUCTURES AND IMPROVEMENTS 55 R3   2.00         
+353 STATION EQUIPMENT 60 R3   1.65         
+353.2 STATION EQUIPMENT - SCADA 18 S3   3.64         
+354 TOWERS AND FIXTURES 70 R4   0.99         
+354.7 REG AFUDC 40 SQ  2.27     
+355 POLES AND FIXTURES 55 R2   2.40         
+356 OVERHEAD CONDUCTORS AND DEVICES 57 R1.5   1.97         
+357 UNDERGROUND CONDUIT 55 L3   0.57         
+358 UNDERGROUND CONDUCTORS AND DEVICES 45 R4   -         
+359.1 ROADS AND TRAILS 40 R4   2.75         
+          
+ELECTRIC GENERAL PLANT         
+390.1 STRUCTURES AND IMPROVEMENTS 100 L0   7.38         
+391 OFFICE FURNITURE AND EQUIPMENT - FURNITURE 20 SQ   6.55         
+391.1 OFFICE FURNITURE AND EQUIPMENT - EQUIPMENT 5 SQ   64.25         
+391.34 OFFICE FURNITURE AND EQUIPMENT - SOFTWARE COSTS - 5 YEARS 5 SQ  19.17     
+391.92 OFFICE FURNITURE AND EQUIPMENT - SYSTEM DEV. COSTS - 10 YEARS 10 SQ  14.11     
+391.93 OFFICE FURNITURE AND EQUIPMENT - SYSTEM DEV. COSTS - 15 YEARS 15 SQ  6.86     
+393 STORES EQUIPMENT 10 SQ   -         
+394 TOOLS, SHOP AND GARAGE EQUIPMENT 20 SQ   5.02         
+395 LABORATORY EQUIPMENT 10 SQ   -         
+397 COMMUNICATION EQUIPMENT 10 SQ   16.49         
+398 MISCELLANEOUS EQUIPMENT 10 SQ   14.50         
+392.1 TRANSPORTATION EQUIPMENT - AUTOMOBILES 7 L3   12.11         
+392.2 TRANSPORTATION EQUIPMENT - LIGHT TRUCKS 11 L3   11.28         
+392.4 TRANSPORTATION EQUIPMENT - HEAVY TRUCKS 14 S3   7.97         
+396 POWER OPERATED EQUIPMENT 20 S0   7.26         
+          
+COMMON PLANT         
+390.1 STRUCTURES AND IMPROVEMENTS 70 R1   3.01         
+391 OFFICE FURNITURE AND EQUIPMENT - FURNITURE 20 SQ   4.95         
+391.1 OFFICE FURNITURE AND EQUIPMENT - EQUIPMENT 5 SQ   49.63         
+392.1 TRANSPORTATION EQUIPMENT - CARS 7 L2.5    -         
+               
+391 OFFICE FURNITURE AND EQUIPMENT - FURNITURE 20 SQ   -         
+391.1 OFFICE FURNITURE AND EQUIPMENT - EQUIPMENT 5 SQ   21.66         
+391.2 OFFICE FURNITURE AND EQUIPMENT - SOFTWARE              
+   UNITE ERP 10 SQ   7.14         
+ TOTAL OFFICE FURNITURE AND EQUIPMENT - SOFTWARE               
+               
+391.3 OFFICE FURNITURE AND EQUIPMENT - SYSTEM DEV. COSTS - 10 YEARS 10 SQ   7.62         
+391.4 OFFICE FURNITURE & EQUIPMENT - SYSTEM DEV. COSTS - 15 YEARS 15 SQ   6.40         
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8C - UGI 
+Effective Date: 10/1/2024 - Docket #: ER24-2665-000 - Page 22 
+          
+          
+UGI Utilities, Inc. 
+Attachment 9 – Depreciation Rates 
+Notes:          
+1) Columns (A), (B), (C), and (D) are fixed and cannot be changed absent Commission approval or acceptance. 
+2) Column (E) is the average remaining life of the assets in the account based on their vintage. 
+3) The mortality curve listed for account 390.1 is a truncated / interim survivor curve. 
+4) Column (F) is the depreciation rate from the Mortality Curve specified based on data in Columns (C) and (D). 
+5) Columns (G) and (H) are the depreciable gross plant investment and accumulated depreciation in the account or subaccount. 
+6) Column (I) is the depreciable balance (future accruals) in the account or subaccount. 
+7) Column (J) is column (F) multiplied by column (G) for those accounts that have an identified Mortality Curve. 
+8) At least every 5 years, UGI Electric will file with the Commission a depreciation study supporting its existing Estimated Life and Mortality Curve for each account or subaccount. 
+9) For those General Plant accounts that do not have Mortality Curves as indicated by "SQ" in Column (D), the calculation of Depreciation Expense is by the Gross Plant Method (i.e., Column (F) multiplied by Column (G)) 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-8D - PPL 
+Effective Date: 7/19/2021 - Docket #: ER21-1931-000 - Page 1 
+ATTACHMENT H-8D 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+ 
+ Section 1 Annual Updates 
+The Annual Transmission Revenue Requirements applicable under Attachment H-8 and 
+the Network Integration Transmission Service and Point-to-Point rates derived therefrom 
+shall be applicable to services on and after June 1 of a given calendar year through May 1 
+of the subsequent calendar year (the “Rate Year”). 
+On or before May 15 of each year, UGI Utilities shall recalculate its Annual 
+Transmission Revenue Requirements, producing the “Annual Update” for the upcoming 
+Rate Year, and: (i) post such Annual Update on PJM’s Internet website via link to the 
+Transmission Services page or a similar successor page; and (ii) file such Annual Update 
+with the FERC as an informational filing. 
+If the date for making the Annual Update posting/filing should fall on a weekend or a 
+holiday recognized by the FERC, then the posting/filing shall be due on the next business 
+day. 
+The date on which the last of the events listed in Section 1.b. or 1.c. occurs shall be that 
+year’s “Publication Date.” 
+Upon written request for a particular year’s Annual Update by any firm network 
+customer, any retail regulator or any official consumer advocate in UGI Utilities’ PJM 
+transmission rate zone, UGI Utilities will promptly make available to such entity and/or a 
+consultant designated by it, a “workable” Excel file containing that year’s Annual Update 
+data. 
+The Annual Update for the Rate Year: 
+(i) shall, to the extent specified in the Formula Rate, be based upon UGI Utilities’ 
+FERC Form No. 1 data for the most recent calendar year, and to the extent 
+specified in the Formula Rate, be based upon the books and records of UGI 
+Utilities consistent with FERC accounting policies; 
+(ii) shall, as and to the extent specified in the Formula Rate, provide supporting 
+documentation for data not otherwise available in the FERC Form No. 1 that are 
+used in the Formula Rate;1 
+_______________________________ 
+1 It is the intent of the Formula Rate, including the supporting explanations and allocations described therein, 
+that each input to the Formula Rate will be either taken directly from the FERC Form No. 1 by the application of 
+clearly identified and supported information.  Where the reconciliation is provided through a worksheet included in 
+the filed Formula Rate template, the inputs to the worksheet must meet this transparency standard, and doing so will 
+satisfy this transparency requirement for the amounts that are output from the worksheet and input to the main body 
+of the Formula Rate. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-8D - PPL 
+Effective Date: 7/19/2021 - Docket #: ER21-1931-000 - Page 2 
+$0.05 - $0.069 - the amortization period shall be 2 years 
+$0.07 - $0.089 - the amortization period shall be 3 years 
+$0.09 - $0.10 - the amortization period shall be 4 years 
+>$0.10 - the amortization period shall be 5 years 
+ 
+ Section 2 Annual Review Procedures 
+Each Annual Update shall be subject to the following review procedures (“Annual Review Procedures”): 
+ 
+a. Any interested party shall have up to one hundred fifty (150) days after the 
+Publication Date (unless such period is extended with the written consent of UGI 
+Utilities) to review the calculations (“Review Period”) and to notify UGI Utilities in 
+writing of any specific challenges, including challenges related to Material Accounting 
+Changes, to the application of the Formula Rate (“Preliminary Challenge”). 
+b. Interested parties shall have up to one hundred twenty (120) days after each 
+annual Publication Date (unless such period is extended with the written consent of UGI 
+Utilities) to serve reasonable information requests on UGI Utilities; provided, however, 
+that the potentially interested parties shall make a good faith effort to submit consolidated 
+sets of information requests that limit the number and overlap of questions to the 
+maximum extent practicable.  Such information requests shall be limited to what is 
+necessary to determine if UGI Utilities has properly applied the Formula Rate and the 
+procedures in this Attachment H-8C, and shall not otherwise be directed to ascertaining 
+whether the Formula Rate is just and reasonable.  In addition, such information requests 
+shall not solicit information concerning costs or allocations where the costs or allocation 
+method have been determined in the context of other Annual Updates, except that such 
+information requests shall be permitted if they seek to determine if there has been a 
+material change in circumstances. 
+c. UGI Utilities shall make a good faith effort to respond to information requests 
+pertaining to the Annual Update within fifteen (15) business days of receipt of such 
+requests.  UGI Utilities may give reasonable priority to responding to requests that satisfy 
+the practicable coordination and consolidation provision of Section 2.b. above. 
+d. Preliminary or Formal Challenges related to Material Accounting Changes are 
+not intended to serve as a means of pursuing other objections to the Formula Rate.  
+Failure to make a Preliminary Challenge with respect to a Material Accounting Change in 
+an Annual Update shall act as a bar with respect to that Annual Update but shall not bar a 
+subsequent Preliminary Challenge related to a subsequent Annual Update to the extent 
+such Material Accounting Change affects the subsequent Annual Update. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-8D - PPL 
+Effective Date: 7/19/2021 - Docket #: ER21-1931-000 - Page 3 
+e. Preliminary or Formal Challenges related to Material Accounting Changes shall 
+be subject to the resolution procedures and limitations in Section 3, except that 
+Section 3.c. shall not apply.  In any proceeding initiated to address a Preliminary 
+or Formal Challenge or sua sponte by the Commission, a party or parties (other 
+than UGI Utilities) seeking to modify the Formula Rate in any respect shall bear 
+the burden of proving that the Formula Rate is no longer just and reasonable 
+without such modification and that the proposed modification is just, reasonable 
+and consistent with the original intent of the Formula Rate and the procedures in 
+this Attachment H-8C; provided, however, that in any such proceeding, in 
+determining whether the Formula Rate is no longer just and reasonable without 
+modification to reflect a Material Accounting Change and whether the proposed 
+modification is just and reasonable, no offsets unrelated to the applicable Material 
+Accounting Changes may be considered. 
+ Section 3 Resolution of Challenges 
+a. If UGI Utilities and any interested party(ies) have not resolved any Preliminary 
+Challenge to the Annual Update within twenty-one (21) days after the Review Period, an 
+interested party shall have an additional twenty-one (21) days (unless such period is 
+extended with the written consent of UGI Utilities to continue efforts to resolve the 
+Preliminary Challenge) to make a Formal Challenge with the FERC, pursuant to 18 
+C.F.R. § 385.206, which shall be served on UGI Utilities by electronic service on the date 
+of such filing.  However, there shall be no need to make a Formal Challenge or to await 
+conclusion of the time periods in Section 2 if the FERC already has initiated a proceeding 
+to consider the Annual Update.  A party’s Formal Challenge may not raise any issue that 
+was not the subject of that party’s Preliminary Challenge during the applicable Review 
+Period. 
+b. Any response by UGI Utilities to a Formal Challenge must be submitted to the 
+FERC within thirty (30) days of the date of the filing of the Formal Challenge, and shall 
+be served on the filing party(ies) by electronic service on the date of such filing. 
+c. Except as provided in Section 2.e, in any proceeding initiated by the FERC 
+concerning the Annual Update or in response to a Formal Challenge, UGI Utilities shall 
+bear the burden of proving that it has reasonably applied the terms of the Formula Rate, 
+and the applicable procedures in these Formula Rate Implementation Protocols, in that 
+year’s Annual Update. 
+d. Subject to judicial review of FERC orders, each Annual Update shall become 
+final and no longer subject to challenge pursuant to these Annual Review Protocols or by 
+any other means by the FERC or any other entity on the later to occur of (i) passage of 
+the twenty-one (21) day period (or extended period, if applicable) for making a Formal 
+Challenge if no such challenge has been made and the FERC has not initiated a 
+proceeding to consider the Annual Update, or (ii) a final FERC order issued in response 
+to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-8D - PPL 
+Effective Date: 7/19/2021 - Docket #: ER21-1931-000 - Page 4 
+a Formal Challenge or a proceeding initiated by the FERC to consider the Annual 
+Update. 
+e. Except as specifically provided herein, nothing herein shall be deemed to limit in 
+any way the right of UGI Utilities to file unilaterally, pursuant to Section 205 of the 
+Federal Power Act and the regulations thereunder, changes to the Formula Rate or any of 
+its inputs (including, but not limited to, rate of return and Transmission Incentive 
+Mechanisms) or the right of any other party to request such changes pursuant to Section 
+206 of the Federal Power Act and the regulations 
+f. No later than once every five years, UGI Utilities shall complete a new 
+depreciation study and shall submit such study as part of a limited single-issue FPA 
+section 205 filing to revise its depreciation rates. 
+g. Subject to Section 2.e above, it is recognized that resolution of Formal 
+Challenges concerning Material Accounting Changes may necessitate adjustments to the 
+Formula Rate input data for the applicable Annual Update or changes to the rate formula 
+to achieve a just and reasonable end result consistent with the intent of the Formula Rate. 
+ Section 4 Changes to Annual Informational Filings 
+Any changes to the data inputs, including but not limited to revisions to UGI Utilities’ FERC Form No. 1, 
+or as the result of any FERC proceeding to consider the Annual Update, or as a result of the procedures 
+set forth herein, shall be incorporated into the Formula Rate and the charges produced by the Formula 
+Rate (with interest determined in accordance with 18 C.F.R. § 38.19a) in the Annual Update for the next 
+effective Rate Period.  This reconciliation mechanism shall apply in lieu of mid-Rate Year adjustments 
+and any refunds or surcharges.  However, actual refunds or surcharges (with interest determined in 

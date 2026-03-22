@@ -1,0 +1,207 @@
+Attachment M, section III.E.2 for the annual budget.  MMU further annually shall provide to 
+PJM and the Finance Committee audited financial statements of revenues and expenses related 
+solely to the services provided to PJM.  This requirement is also duplicated in Tariff, Attachment 
+M, section IV 
+ 
+f) PJM shall transmit to MMU, within two (2) Business Days of receipt thereof, the revenue 
+collected under this Schedule 9-MMU.   
+ 
+g) If there is any change in the entity contracted to perform the functions of the MMU under 
+Tariff, Attachment M, then PJM shall determine the revenues received by MMU prior to the 
+change of MMU and compare them to MMU’s actual expenses prior to the change of MMU 
+(capped at the level of MMU’s approved budget, adjusted to reflect only the portion of the year 
+for which the MMU provided services prior to the change of MMU).  PJM shall pay MMU any 
+deficiency, or MMU shall pay PJM any credit, as indicated by such comparison. Such true-up 
+payments associated with any change in the entity performing the functions of the MMU under 
+Tariff, Attachment M shall be charged or credited, as applicable, in the next year’s billings under 
+this Schedule 9-MMU. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-PJM SETTLEMENT 
+Effective Date: 2/1/2023 - Docket #: ER23-2316-000 - Page 1 
+SCHEDULE 9-PJMSettlement 
+PJM Settlement, Inc. Administrative Services 
+ 
+a) PJM Settlement, Inc. (“PJMSettlement”) is the entity that is (i) contracting with 
+customers and conducting financial settlements regarding the use of the transmission capacity of 
+the Transmission System; (ii) the Counterparty with respect to the agreements and “pool” 
+transactions in the centralized markets that PJM Interconnection, L.L.C., as the Transmission 
+Provider, administers under the Tariff and Operating Agreement; and (iii) the Counterparty to 
+Financial Transmission Rights (“FTRs”) and Auction Revenue Rights instruments held by a 
+Market Participant.  PJMSettlement Services comprise all of the activities of PJMSettlement 
+associated with PJMSettlement performing the services of being the Counterparty and 
+conducting financial settlements.   
+ 
+b) The cost of operating PJMSettlement, including principal and/or depreciation expense, 
+interest expense and financing costs, if any, shall be recovered from users of the PJMSettlement 
+Services pursuant to the PJMSettlement Rate set forth in this Schedule 9-PJMSettlement. 
+ 
+c) PJMSettlement Rate:  PJM will charge each user of PJMSettlement Services on the 
+following basis:  (i) PJMSettlement Rate, Component 1, as defined in subpart d) below, times the 
+number of invoices PJMSettlement issues to such user for such month; and (ii) the sum of the 
+products of each of Components 2a through 2f times, respectively, the corresponding 
+determinant specified for such subcomponent. 
+ 
+d) The PJMSettlement Rate shall be calculated monthly, in accordance with the following 
+formulas: 
+ 
+PJMSettlement Rate, Component 1 = 
+ 
+[PMSC * 0.68] 
+[Per-Invoice Determinants] 
+ 
+PJMSettlement Rate, Component 2a = 
+[PMSC * 0.32 * 0.25] 
+PJMTHTU 
+PJM will charge each user of PJMSettlement Services each month a charge equal to the Monthly 
+PJMSettlement Rate, Component 2a rate defined above times the total quantity in MWhs of 
+energy delivered (including losses, but excluding Direct Charging Energy) during such month by 
+such user as a transmission customer under this Tariff for Point-to-Point Transmission Service or 
+Network Integration Transmission Service. 
+ 
+PJMSettlement Rate, Component 2b = 
+[PMSC * 0.32* 0.25] * 0.6 
+Monthly FTR MWh Determinants 
+ 
+PJM will charge each user of PJMSettlement Service each month a charge equal to 
+PJMSettlement Rate, Component 2b, as defined above, times the total FTRs in megawatt-hours 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-PJM SETTLEMENT 
+Effective Date: 2/1/2023 - Docket #: ER23-2316-000 - Page 2 
+during such month held by such user as an FTR Holder.  Component 2b of this charge applies to 
+all bids submitted into any round of the Long-term, Annual, or monthly FTR Auctions. 
+ 
+PJMSettlement Rate, Component 2c = 
+[PMSC * 0.32 * 0.25] *0.4 
+Monthly FTR Bid/Offer Hours Determinants 
+ 
+PJM will charge each user of PJMSettlement Service each month a charge equal to the 
+PJMSettlement Rate, Component 2c, as defined above, times the sum of (1) the number of hours 
+in all bids to buy Financial Transmission Rights Obligations submitted by such user during such 
+month, plus (2) five times the number of hours in all bids to buy Financial Transmission Rights 
+Options submitted by such user during such month. Component 2c of this charge applies to all 
+bids submitted into any round of the Annual FTR Auction and to all bids submitted into the 
+applicable monthly FTR Auction. 
+ 
+PJMSettlement Rate, Component 2d = 
+[PMSC * 0.32 * 0.25] * 0.987 
+                                       Monthly MS MWh Determinants 
+ 
+PJM will charge each user of PJMSettlement Service each month a charge equal to 
+PJMSettlement Rate, Component 2d, as defined above, times (1) the total quantity in MWhs of 
+energy delivered to load (including losses and net of operating Behind The Meter Generation, 
+but not to be less than zero) in the PJM Region or for export from such region during such month 
+by such user as a customer under Point-to-Point Transmission Service (other than Wheeling-
+Through Service, as defined below) or Network Integration Transmission Service, plus (2) the 
+total quantity in MWhs of energy input into the Transmission System during such month by such 
+user as a Generation Provider, as defined below, plus (3) the total quantity in MWhs of all 
+accepted Increment Offers and accepted Decrement Bids, and all accepted “Up-to” Congestion 
+Transactions submitted pursuant to Tariff, Attachment K-Appendix, section 1.10.1A(c), 
+submitted by such user during such month. 
+ 
+For purposes of this Schedule, a Generation Provider shall be: (i) a Generation Owner, as such 
+term is defined in the Operating Agreement; provided, however, that if a Generation Owner is 
+not the entity credited on PJM’s records for the energy input into the Transmission System from 
+the generation facilities owned or leased (with rights equivalent to ownership) by such 
+Generation Owner, as, for example, in the case of a qualifying facility selling energy to a public 
+utility pursuant to section 210 of the Public Utility Regulatory Policies Act of 1978, then, with 
+respect to such energy, the Generation Provider shall be the entity credited on PJM’s records for 
+the energy input into the Transmission System from such generation facilities; (ii) a Network 
+Customer or Point-to-Point Transmission Service customer, with respect to energy arranged by 
+such customer to be delivered for import into the PJM Region; or (iii) a Market Seller with 
+respect to energy arranged by such Market Seller to be delivered for import to the boundaries of 
+the PJM Region and for which there is no separately identifiable Transmission Customer. As the 
+term is used in this Schedule 9-3, energy “credited on PJM’s records” does not necessarily mean 
+that a monetary credit resulted on any billing statement provided by PJM. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-PJM SETTLEMENT 
+Effective Date: 2/1/2023 - Docket #: ER23-2316-000 - Page 3 
+Furthermore, for purposes of this Schedule, Wheeling-Through Service is Point-to-Point 
+Transmission Service for which both the Point of Receipt and the Point of Delivery are at 
+interconnections of the PJM Region with other Control Areas. 
+ 
+ 
+PJMSettlement Rate, Component 2e = 
+[PMSC * 0.32 * 0.25] * 0.013 
+  Monthly MS Bid/Offer Segment Determinants 
+ 
+PJM will charge each user of PJMSettlement Service each month a charge equal to the sum of 
+the PJMSettlement Rate, Component 2e, as defined above, times the number of Bid/Offer 
+Segments, as defined below, submitted by such user during such month.  
+ 
+For purposes of this Schedule, a Bid/Offer Segment shall be each price/quantity pair submitted 
+into the Day-ahead Energy Market, including those submitted in the generation rebidding period 
+pursuant to Tariff, Attachment K-Appendix, section 1.10.9(a). Segments shall be hourly for each 
+bid to purchase energy, each Increment Offer, each Decrement Bid, each “Up-to” Congestion 
+Transaction, and each Day-ahead Pseudo-Tie Transaction. Segments shall be daily for each offer 
+to sell other than an Increment Offer. Each “Up-to” Congestion Transaction also shall be 
+considered a Bid/Offer Segment. 
+ 
+PJMSettlement Rate, Component 2f = 
+[PMSC * 0.32 * 0.25] 
+    CROM Determinants 
+ 
+PJM will charge each user of PJMSettlement Services each month a charge equal to the 
+PJMSettlement Rate, Component 2f defined above times the summation for each day of such 
+month of the Daily Unforced Capacity Obligation of such user as a Load Serving Entity, as 
+determined for each such day pursuant to RAA, Schedule 8 or RAA, Schedule 8.1. In addition to 
+any charge under this section, PJM will charge each month, to each user as an entity that 
+included in an FRR Capacity Plan, self-scheduled, or sold and cleared, in a Reliability Pricing 
+Model Auction, a Capacity Resource committed to serve load for such month, a charge equal to 
+the Capacity Resource and Obligation Management Service Rate defined below times such 
+entity’s total share, in MWs, of the Unforced Capacity of all Capacity Resources cleared or self-
+scheduled (including through an FRR Capacity Plan) by such entity, for commitment to serve 
+load during such month. 
+ 
+where 
+ 
+ PMSC (PJMSettlement Costs) is the Actual Costs of PJMSettlement associated with 
+PJMSettlement Services, calculated as the sum of PSI A.1 plus PSI A.2 plus PSI A.3 for the 
+month for which the PJMSettlement Rate is being calculated, where   
+“PSI A.1” equals the product of 4.0% times the Actual Costs for all Divisions in 
+the month for which the PJMSettlement Rate is being calculated. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-PJM SETTLEMENT 
+Effective Date: 2/1/2023 - Docket #: ER23-2316-000 - Page 4 
+“PSI A.2” equals an allocation to the PJMSettlement Services of PJM’s Actual 
+Costs for Management Service Cost during the month for which the 
+PJMSettlement Rate is being calculated, based on the formula in Schedule 9-5.  
+“PSI A.3” equals PJM’s Actual Costs for Non-Divisional Costs that are assigned 
+to PJMSettlement Services for the month for which the PJMSettlement Rate is 
+being calculated. 
+And where, 
+ 
+“Per-Invoice Determinants” are the number of invoices PJM Settlement, Inc. issues to 
+Transmission Customers and Market Participants in the month for which PJMSettlement 
+Rate is being calculated. 
+ 
+And where: 
+ 
+“PJMTHTU” are the same determinants as listed in Schedule 9-1 Control Area 
+Administration Service.  
+ 
+“Monthly FTR MWh Determinants” are the same determinants as listed in 
+Schedule 9-2 Financial Transmission Rights Administration Service.  
+ 
+“Monthly FTR Bid/Offer Hours Determinants” are the same determinants as 
+listed in Schedule 9-2 Financial Transmission Rights Administration Service  
+ 
+“Monthly MS MWh Determinants” are the same determinants as listed in 
+Schedule 9-3 Market Support Service  
+ 
+“Monthly MS Bid/Offer Segment Determinants” are the same determinants as 
+listed in Schedule 9-3 Market Support Service; and 
+ 
+“CROM Determinants” are the same determinants as listed in Schedule 9-4 
+Capacity Resource and Obligation Management Service 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 10 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 1 

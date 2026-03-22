@@ -1,0 +1,98 @@
+SCHEDULE 3 
+Regulation and Frequency Response Service 
+ 
+Regulation and Frequency Response Service is necessary to provide for the continuous balancing 
+of resources with load and for maintaining scheduled Interconnection frequency at 60 cycles per 
+second (60 Hz).  Regulation and Frequency Response Service is accomplished by committing 
+resources whose output is raised or lowered (predominantly through the use of automatic 
+generating control equipment) and by other non-generation resources capable of providing this 
+service as necessary to follow the moment-by-moment changes in load.  The obligation to 
+maintain this balance between resources and load lies with the Transmission Provider.  The 
+Transmission Provider must offer this service when the transmission service is used to serve load 
+within its Control Area.  The Transmission Customer must either purchase this service from the 
+Transmission Provider or make alternative comparable arrangements to satisfy its Regulation 
+and Frequency Response Service obligation.  The Transmission Provider will take into account 
+the speed and accuracy of Regulation resources in its determination of Regulation and Frequency 
+Response reserve requirements, including as it reviews whether a self-supplying Transmission 
+Customer has made alternative comparable arrangements.  Upon request by the self-supplying 
+Transmission Customer, the Transmission Provider will share with the Transmission Customer 
+its reasoning and any related data used to make the determination of whether the Transmission 
+Customer has made alternative comparable arrangements. The amount of and charges for 
+Regulation and Frequency Response Service are set forth below.  The Transmission Provider 
+shall administer the purchases of Regulation Service in the PJM Interchange Energy Market.  
+PJMSettlement shall be the Counterparty to the purchases by customers of Regulation Service in 
+the PJM Interchange Energy Market; provided however, that PJMSettlement shall not be the 
+contracting party to bilateral transactions between market participants or with respect to a self-
+schedule or self-supply of resources by a customer to satisfy its Regulation obligation.   
+ 
+For Regulation not satisfied by individual Transmission Owners on behalf of their Native Load 
+Customers, Network Customers or other Transmission Customers serving load in the PJM 
+Region, the Transmission Provider will order the lowest cost alternative for Regulation in service 
+as needed to meet the Regulation Requirements of each Regulation Zone (as may be set forth in 
+the PJM Manuals and as specified below: 
+ 
+a. Regulation shall be supplied to meet the Regulation objective of a Regulation Zone from 
+resources located within the metered electrical boundaries of such Regulation Zone.  Resources 
+offering Regulation shall comply with applicable standards and requirements for Regulation 
+capability and dispatch specified in the PJM Manuals. 
+ 
+b. The Office of the Interconnection shall obtain and maintain an amount of Regulation for 
+each Regulation Zone equal to the Regulation objective for such Regulation Zone, as specified in 
+the PJM Manuals. 
+ 
+c. The Regulation range of a resource shall be at least twice the amount of Regulation 
+assigned. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 3 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 2 
+d. A resource capable of automatic energy dispatch that is also providing Regulation shall 
+have its energy dispatch range reduced from the Regulation range by at least twice the amount of 
+the Regulation provided with consideration of the Regulation limits of the resource, as specified 
+in the PJM Manuals. 
+ 
+e. Qualified Regulation resources must satisfy the measurement and verification tests 
+described in the PJM Manuals. 
+ 
+f. A Transmission Owner, Network Customer or other Transmission Customer may satisfy 
+its Regulation obligation from its own resources capable of performing Regulation service, by 
+contractual arrangements with others able to provide Regulation service on a comparable basis, 
+or by purchases from the PJM Regulation market.  
+ 
+g. The Office of the Interconnection shall obtain Regulation service from the least-cost 
+alternatives available from either pool-scheduled or self-scheduled resources as needed to meet 
+Regulation Zone requirements not otherwise satisfied by a Transmission Owner, Network 
+Customer or other Transmission Customer, in accordance with Tariff, Attachment K-Appendix, 
+section 1.11.4(b). 
+ 
+h. The Office of the Interconnection shall dispatch resources for Regulation by sending 
+Regulation signals and instructions to resources from which Regulation service has been 
+committed, in accordance with the PJM Manuals.  Those resources shall comply with Regulation 
+dispatch signals and instructions transmitted by the Office of the Interconnection and, in the 
+event of conflict, Regulation dispatch signals and instructions shall take precedence over energy 
+dispatch signals and instructions.  Those providing Regulation shall exert all reasonable efforts to 
+operate, or ensure the operation of, their resources supplying load in the PJM Region as close to 
+desired output levels as practical, consistent with Good Utility Practice. 
+ 
+i. Each Transmission Owner (on behalf of its Native Load Customers), Network Customer 
+or other Transmission Customer serving load within a Regulation Zone shall have an hourly 
+Regulation objective equal to its pro rata share of the Regulation Requirement of such 
+Regulation Zone for such hour, based on the entity’s total load (net of operating Behind The 
+Meter Generation, but not to be less than zero) in such Regulation Zone for such hour. 
+ 
+j. An entity supplying Regulation at the direction of the Office of the Interconnection in 
+excess of its hourly Regulation obligation shall be credited for each increment of such 
+Regulation at the price specified in Tariff, Attachment K-Appendix, section 3.2.2 and Tariff, 
+Attachment K-Appendix, section 3.3.2 and the parallel provisions of Operating Agreement, 
+Schedule 1, section 3.2.2 and Operating Agreement, Schedule 1, section 3.3.2.  A Transmission 
+Owner, Network Customer or other Transmission Customer that does not meet its hourly 
+Regulation obligation shall be charged for Regulation dispatched by the Office of the 
+Interconnection to meet such obligation at the price specified in Tariff, Attachment K-Appendix, 
+section 3.2.2 and Tariff, Attachment K-Appendix, section 3.3.2 and the parallel provisions of 
+Operating Agreement, Schedule 1, section 3.2.2 and Operating Agreement, Schedule 1, section 
+3.3.2. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 4 
+Effective Date: 9/1/2018 - Docket #: ER17-775-000 - Page 1 

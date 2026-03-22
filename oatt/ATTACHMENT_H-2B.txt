@@ -1,0 +1,331 @@
+ATTACHMENT H-2B 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+Section 1 Definitions 
+For purposes of these Protocols: 
+a. “interested party” or “interested parties” refers to any customer or entity that is or 
+may become a customer taking transmission service under Baltimore Gas and 
+Electric Company (“BGE”) Formula Rate, any party to any docket number 
+assigned by the Federal Energy Regulatory Commission (“FERC”) for BGE’s 
+Annual Update, any retail regulator or any official consumer advocate in BGE’s 
+PJM transmission rate zone, any state attorney general and any entity with 
+standing under section 206 of the Federal Power Act (“FPA”). 
+b. “Errors” or “mistakes” refer to calculation error(s) in the formula rate, formula 
+rate input error(s), and errors reported in the FERC Form No. 1. 
+Section 2 Annual Updates 
+a. On an annual basis, BGE shall calculate its Annual Transmission Revenue 
+Requirements (“ATRR”) applicable under Attachment H and the Network 
+Integration Transmission Service and Point-to-Point rates derived therefrom.  The 
+ATRR shall be applicable to services on and after the rate year from June 1 of a 
+given calendar year through May 31 of the subsequent calendar year (the “Rate 
+Year”) and will be submitted as part of BGE’s Annual Update on or before May 
+15 of each year. 
+b. The Annual Update shall include: a) a populated formula rate template reflecting 
+the Projected Annual Transmission Revenue Requirement (“PTRR”) which shall 
+be labeled  “Attachment H-2A-PTRR” and b) a populated formula rate template 
+reflecting the True-Up Adjustment (“True-Up TRR”), which shall be labeled  
+“Attachment H-2A-True-Up” as further  described in Section 6 for the 
+immediately preceding calendar year (“True-Up Year”).  The ATRR will 
+incorporate: 1) the PTRR; and 2) the True-Up TRR for the preceding Rate Year. 
+c. For each Annual Update, BGE shall: 
+i)  cause such Annual Update to be posted at a publicly accessible location on 
+PJM’s internet website; 
+ii) cause notice of such posting to be provided to PJM’s membership; and 
+iii) submit such Annual Update with the FERC as an informational filing. 
+d. If the date for making the Annual Update posting/filing should fall on a weekend 
+or a holiday recognized by the FERC, then the posting/filing shall be due on the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 2 
+next business day. 
+e. The date on which the last of the events listed in Section 2.b. or 2.c. occurs shall 
+be that year’s “Publication Date.”  Any delay past May 15 of each year of the 
+Publication Date shall result in an equivalent extension of time for the submission 
+of information requests and challenges.   
+f. BGE shall hold an Annual Meeting among interested parties (“Annual Meeting”) 
+no later than forty-five (45) days after the Publication Date.  BGE shall e-mail the 
+Service List1 and cause to be posted on PJM’s internet website notification of the 
+time, date, and location of the Annual Meeting at least fourteen (14) days before 
+the Annual Meeting.  The Annual Meeting shall provide interested parties an 
+opportunity to seek information and clarification regarding the Annual Update, 
+including input data and cost detail.  BGE shall accommodate interested parties 
+that wish to participate in the Annual Meeting via teleconference or webinar.  At 
+the Annual Meeting, BGE will provide a summary of the year-over-year results of 
+the Annual Update, to accompany further discussion of key drivers of the ATRR.  
+The written narrative summary will include, at a minimum, a comparison of the 
+total operation and maintenance expense, post-retirement benefits other than 
+pensions (“PBOP”) expense, depreciation expense, rate base, return on rate base, 
+income taxes, annual peak load, and revenue credits contained in the Annual 
+Update with the corresponding values included in the prior year’s Annual Update. 
+g. The True-Up TRR submitted as part of each Annual Update: 
+i) shall, as specified in Attachment H, be based upon BGE’s FERC Form 
+No. 1 data or other verifiable data for the most recent calendar year and 
+shall be based upon BGE’s books and records consistent with FERC’s 
+accounting policies; 
+ii) shall, as and to the extent specified in the Formula Rate Spreadsheets a 
+reconciliation of data that are not available in the FERC Form No. 1;  
+iii) shall include the following: 
+(a.) a fully functioning Excel spreadsheet “Attachment H-2A-True-Up” 
+with formulas intact for that year’s True-Up Adjustment TRR.  The 
+revenue requirements for the True-Up TRR will use: 
+ 1) 13-month average balances for plant in service and 
+accumulated depreciation, and simple average for accumulated 
+deferred income taxes; 
+2)  13-month average historical balances for non-plant rate 
+base items, including prepayments, materials and supplies, and 
+ 
+1 The Service List is the parties to Docket Nos. ER05-515, EL13-48, and EL15-27, and 
+interested parties that request to be added to the Service List. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 3 
+reserves; 
+3) 13-month average historical balances for capitalization; 
+4)  Historical calendar year balances for expense items. 
+h. The PTRR filed as part of each Annual Update shall use the same inputs as in the 
+True-Up TRR filed as part of that year’s Annual Update, except that:  
+(i.) it will use projected 13-month average balances for plant in service and 
+accumulated depreciation, and simple average for accumulated deferred 
+income taxes; it will use projected calendar year depreciation expense, 
+amortization expense, and other income tax adjustment expense; 
+(ii.) the projected revenue requirements calculation will use 13-month average 
+historical balances for capitalization and non-plant rate base items, 
+including prepayments, materials and supplies, and reserves; the 
+projected revenue requirements calculation of expense items, excluding 
+those expenses noted in Section 2.h.i. immediately above, will use 
+historical calendar year balances. 
+i. BGE shall submit with each Annual Update: 
+ 
+(a.) all workpapers in their native format (e.g., Microsoft excel) fully 
+populated with formulas intact as necessary to permit interested 
+parties to verify that each input is consistent with the requirements 
+of the Formula Rate and to enable any interested party to replicate 
+the calculation of the Annual Update as implemented by BGE; 
+(b.) supporting documentation and workpapers for the data that are 
+used in the Annual Update that are not otherwise available in the 
+FERC Form No. 1, including all adjustments made to the FERC 
+Form No. 1 data in determining formula inputs; 
+(c.)  notice of any change in accounting from that in effect for the 
+calendar year upon which the preceding Annual Update was based 
+that affects inputs to the Formula Rate or the resulting charges 
+under the Formula Rate (“Accounting Changes”),2 including: 
+(i) the initial implementation of an accounting standard or 
+policy, consistent with what is required to be disclosed 
+under FERC Form No. 1; 
+(ii) the initial implementation of accounting practices for 
+ 
+2 Such notice may incorporate by reference applicable disclosure statements filed with the 
+Securities and Exchange Commission (“SEC”) or contained in the FERC Form 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 4 
+unusual or unconventional items where FERC has not 
+provided specific accounting direction;  
+(iii) the correction of errors and prior period adjustments that 
+impact the Annual Update calculation; and  
+(iv) the implementation of new estimation methods or policies 
+that change prior estimates. 
+(d.) a worksheet identifying transmission plant in service items 
+included in the Annual Update at an amount other than on a 
+historic cost basis (e.g., fair value adjustments) and a narrative 
+explanation of the individual impact of such items to the Annual 
+Update;   
+(e.) a worksheet identifying any asset retirement obligations (ARO) 
+included in the Annual Update, including a citation to the FERC 
+order approving recovery of the ARO; otherwise any such items 
+reported in the FERC Form No. 1 must be deducted from the costs 
+to be recovered in the Annual Update; 
+(f.) a worksheet identifying any costs and expenses related to any 
+merger or acquisition of a jurisdictional facility (including, but not 
+limited to, acquisition premiums and goodwill) for which BGE is 
+subject to a hold harmless commitment that have been included in 
+the Annual Update, including a citation to the FERC order 
+approving the recovery of such costs and expenses; otherwise, any 
+such costs that have been reported in the FERC Form No. 1 must 
+be deducted from the costs to be recovered in the Annual Update, 
+consistent with the hold harmless commitment; and  
+(g.) a worksheet listing all the errors and corrections agreed to by BGE 
+and any interested parties, or ordered by FERC, related to the 
+previous Rate Year that have been incorporated into the current 
+Annual Update. 
+j. The Annual Update shall be subject to challenge and review in accordance with 
+the procedures set forth in this Attachment H-2B. 
+k. The Annual Update shall not seek to modify the Formula Rate and shall not be 
+subject to challenge by seeking to modify the Formula Rate (i.e., all such 
+modifications to the Formula Rate – including return on equity – will require, as 
+applicable, a FPA Section 205 or Section 206 filing). 
+l. Formula Rate inputs for (i) rate of return on equity; (ii) depreciation rates; and 
+(iii) “Post-Employment Benefits other than Pension” pursuant to Statement of 
+Financial Accounting Standards No. 106, Employers’ Accounting for PBOP 
+charges shall be stated values to be used in the rate formula until changed 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 5 
+pursuant to an FPA Section 205 or 206 filing; provided, however, that 
+notwithstanding the foregoing limitation, any changes in PBOP that do not exceed 
+an impact on the formula output Network Integration Transmission Service Rate 
+for BGE of $0.05 per kW per month as compared to the immediately preceding 
+Annual Update may be included in an Annual Update without such a filing.  
+Changes in PBOP expense that exceed this limit are subject to revision pursuant 
+to Section 4.f. 
+Section 3 Annual Review Procedures 
+Each Annual Update shall be subject to the following review procedures (“Annual 
+Review Procedures”): 
+a.  Any interested party shall have up to one hundred fifty (150) days after the 
+Publication Date (unless such period is extended by fifteen (15) days upon the 
+consent of BGE to a written request for extension from one or more interested 
+party(ies)), to review the calculations (“Review Period”) and to notify BGE in 
+writing of any specific challenges, including challenges related to Accounting 
+Changes, to the application of the Formula Rate (“Preliminary Challenge”). 
+b.  Interested parties shall have up to one hundred twenty (120) days after each 
+annual Publication Date (unless such period is extended with the written consent 
+of BGE) to serve reasonable information requests on BGE either individually or 
+jointly with other interested parties.  Information requests shall be limited to what 
+is necessary to determine: (i) whether BGE has properly calculated the Annual 
+Update under review (including any corrections pursuant to Section 5); (ii) 
+whether the costs included in the Annual Update are properly recordable and 
+recorded, and otherwise consistent with BGE’s accounting policies, practices and 
+procedures consistent with the FERC Uniform System of Accounts; (iii) whether 
+BGE’s actual costs and expenditures were reasonable and prudent (including 
+whether such costs were incurred according to cost control methodologies); (iv) 
+whether the input data used in the Annual Update are accurate and correctly used 
+in the Formula Rate; (v) whether the Formula Rate has been applied according to 
+its terms, including the procedures in these Protocols; (vi) whether BGE’s 
+accounting changes are reasonable and consistent with the Uniform System of 
+Accounts; (vii) the effect of any accounting change on the inputs to the Formula 
+Rate or the resulting charges under the Formula Rate; and (viii) any other 
+information that may reasonably have substantive effect on the calculation of the 
+ATRR pursuant to the Formula Rate.  Information requests shall not be directed to 
+ascertaining whether the Formula Rate is just and reasonable.   
+c. BGE shall make a good faith effort to respond in writing to information requests 
+pertaining to the Annual Update within fifteen (15) business days of receipt of 
+such requests.  In the event that BGE serves any of its responses to timely-
+submitted information requests more than 135 days after the Publication Date, the 
+period for submitting a Preliminary Challenge shall be extended day for day until 
+BGE completes its responses to such information requests. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 6 
+d. Interested parties shall make a good faith effort to raise all issues in a Preliminary 
+Challenge before filing a Formal Challenge.  Preliminary and Formal Challenges 
+are limited to whether: (i) BGE has properly calculated the Annual Update under 
+review (including any corrections pursuant to Section 5); (ii) the costs included in 
+the Annual Update are properly recordable and recorded, and otherwise consistent 
+with BGE’s accounting policies, practices and procedures consistent with the 
+FERC Uniform System of Accounts; (iii) BGE’s actual costs and expenditures 
+were reasonable and prudent (including whether such costs were incurred 
+according to cost control methodologies); (iv)  the input data used in the Annual 
+Update are accurate and correctly used in the Formula Rate; (v) the Formula Rate 
+has been applied according to its terms, including the procedures in these 
+Protocols; and (vi) BGE’s Accounting Changes are reasonable and consistent with 
+the Uniform System of Accounts. 
+e. BGE shall provide a written response to the Preliminary Challenge within twenty 
+(20) business days after receipt of the Preliminary Challenge.  BGE shall work 
+with the interested party that submitted the Preliminary Challenge (or its 
+representative) toward a resolution of the challenge.  Any unresolved issues shall 
+promptly be referred to BGE’s and the interested party’s senior representative(s) 
+for resolution.  
+f. BGE shall not claim that responses to information requests provided pursuant to 
+these Protocols that are not otherwise privileged are subject to any settlement 
+privilege in any subsequent FERC proceeding addressing BGE’s Annual Update.  
+Interested parties may use any information provided under these Protocols in 
+filing Formal Challenges and complaints. 
+Section 4 Resolution of Challenges 
+a.  If BGE and any interested party(ies) have not resolved any Preliminary Challenge 
+to the Annual Update within sixty (60) days after the Review Period, an interested 
+party shall have an additional thirty (30) days (unless such period is extended with 
+the written consent of BGE to continue efforts to resolve the Preliminary 
+Challenge) to make a Formal Challenge with the FERC, which shall be served on 
+BGE by electronic service on the date of such filing.  However, there shall be no 
+need to make a Formal Challenge or to await conclusion of the time periods in 
+Section 3 if the FERC already has initiated a proceeding to consider the Annual 
+Update.  An interested party may not file a Formal Challenge with respect to an 
+Annual Update unless that party has filed a Preliminary Challenge with respect to 
+that Annual Update.  Failure to lodge a Formal Challenge regarding any issue as 
+to a given Annual Update only bars pursuit of such issue with respect to that 
+Annual Update, and in no event shall bar pursuit of such issue or the lodging of a 
+Formal Challenge as to such issue as it relates to a subsequent Annual Update. 
+Nor shall the provisions of Section 4(e) be limited by this Section 4(a). 
+b.  Any response by BGE to a Formal Challenge must be submitted to the FERC 
+within thirty (30) days of the date of the filing of the Formal Challenge, and shall 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 7 
+be served on the filing party(ies) by electronic service on the date of such filing. 
+c.  In any proceeding initiated by the FERC concerning the Annual Update or in 
+response to any Formal Challenge by any interested party, BGE shall bear the 
+burden, consistent with Section 205 of the Federal Power Act, that it has correctly 
+applied the terms of the Formula Rate consistent with these Protocols, and that it 
+followed the applicable requirements and procedures of the Formula Rate in that 
+year’s Annual Update.  Nothing herein is intended to alter the burdens applied by 
+FERC with respect to prudence challenges.   
+d.  The time period for any entity to make changes to or challenges to an Annual 
+Update shall be governed by the Formula Rate Protocols that were in effect on the 
+Publication Date for the Annual Update (e.g., the time period for any entity to 
+make changes or challenges to BGE’s May 15, 2014 Annual Update is governed 
+by Section 3(d) of the Formula Rate Protocols that were in effect on that date). 
+e. Nothing in these Protocols limits interested parties from challenging the inputs to, 
+or the implementation of, the Formula Rate at whatever time errors are 
+discovered.  
+f. BGE may, at its discretion and at a time of its choosing, make a limited, single 
+issue filing, pursuant to Section 205 to modify the stated values in the Formula 
+Rate for amortization and depreciation rates or PBOP expense.  All parties reserve 
+the right to contest such filing(s), but the sole issue in any such limited Section 
+205 proceeding shall be whether such proposed change is just and reasonable, and 
+it shall not address other aspects of the Formula Rate.   
+g. Except as specifically provided herein and in the Settlement Agreement dated 
+March 20, 2006, in FERC Docket No. ER05-515 (including the moratorium 
+provisions thereof), nothing herein shall be deemed to limit in any way the right 
+of BGE to file unilaterally, pursuant to Section 205 of the FPA and the regulations 
+thereunder, changes to the Formula Rate or any of its inputs (including, but not 
+limited to, rate of return on equity and Transmission Incentive Mechanisms) or 
+the right of any other party to request such changes pursuant to Section 206 of the 
+FPA and the regulations thereunder. 
+Section 5 Changes to Annual Updates 
+a. Any changes to the data inputs, including but not limited to revisions to BGE’s 
+FERC Form No. 1, or as the result of any FERC proceeding to consider the 
+Annual Update, or as a result of the procedures set forth herein, shall be 
+incorporated into the Formula Rate and the charges produced by the Formula Rate 
+(with interest determined in accordance with 18 C.F.R. § 35.19a) in the Annual 
+Update for the next effective Rate Period.  This reconciliation mechanism shall 
+apply in lieu of mid-Rate Year adjustments and any refunds or surcharges.  
+However, actual refunds or surcharges (with interest determined in accordance 
+with 18 C.F.R. § 35.19a) shall be made in the event that the Formula Rate is 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-2B - Baltimore Gas & Electric 
+Effective Date: 1/1/2021 - Docket #: ER21-214-001 - Page 8 
+replaced by a stated rate for BGE pursuant to a proceeding under section 205 or 
+206 of the FPA. 
+b. BGE shall notify parties listed on the Service List of amendments filed to their 
+FERC Form No. 1 after the filing of the Annual Update. 
+Section 6 Calculation of True-up Adjustment 
+a. The Attachment H-2A-True-Up shall include the actual transmission revenues 
+received in the previous calendar year (“True-Up Year”) compared to the actual 
+net revenue requirement (calculated in accordance with the Formula Rate) for 
+the True-Up Year as determined using the completed FERC Form No. 1 report to 
+determine any excess or shortfall.  The excess or shortfall due to the actual 
+revenue received versus the actual net revenue requirement shall constitute the 
+True-Up TRR.  The True-Up TRR and related calculations shall be posted at a 
+publicly accessible location on PJM’s internet website no later than May 15 
+following the issuance of the FERC Form No 1 for the previous year, as set forth 
+in Section 2 of the Protocols.3  
+b. Interest on any over or under recovery of the net revenue requirement shall be 
+determined based on the Commission’s regulation at 18 C.F.R. § 35.19a as set 
+forth in Attachment 6 to the Formula Rate.  
+ 
+ 
+ 
+ 
+3  In accordance with the Commission’s December 31, 2020 Order (PJM Interconnection, 
+L.L.C., 173 FERC ¶ 61,289, at P31 (2020)), the new annual true-up (in 2021) shall apply 
+beginning with the true-up to be calculated for the 2021 rate year. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-3 - Delmarva 
+Effective Date: 4/24/2024 - Docket #: ER24-1313-000 - Page 1 

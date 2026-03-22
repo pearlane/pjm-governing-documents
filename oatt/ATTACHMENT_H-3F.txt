@@ -1,0 +1,2064 @@
+ATTACHMENT H-3F  
+     
+Old Dominion Electric Cooperative           
+Formula Rate -- Appendix A   Notes 
+FERC Form 1  Page # or 
+Instruction      
+Shaded cells are input cells        
+Allocators 
+              
+ Classified Gross Plant Allocation Factor        
+1  Transmission Plant in Service   p207.58.g             
+2  Total Plant in Service   p207.104.g         
+3  Less  General Plant in Service   p207.99.g              
+4  Total     (Line 2 - 3)   0    
+5 Classified Gross Plant Allocator     (Line 1 / 4)   #DIV/0!   
+ Plant Allocation Factors        
+6  Electric Plant in Service  (Note B) p207.104g       
+7  Common Plant In Service - Electric   (Line 24)  0    
+8  Total Plant In Service     (Sum Lines 6 & 7)   0    
+9  Accumulated Depreciation (Total Electric Plant)   p219.29c       
+10  Accumulated Intangible Amortization  (Note A) p200.21c      
+11  Accumulated Common Amortization - Electric  (Note A) p356      
+12  Accumulated Common Plant Depreciation - Electric  (Note A) p356      
+13  Total Accumulated Depreciation     (Sum Lines 9 to 12)   0    
+14  Net Plant     (Line 8 - 13)   0    
+15  Transmission Gross Plant   (Line 29 - Line 28)  #DIV/0!   
+16 Gross Plant Allocator     (Line 15 / 8)   #DIV/0!   
+17  Transmission Net Plant   (Line 39 - Line 28)  #DIV/0!   
+18 Net Plant Allocator     (Line 17 / 14)   #DIV/0!   
+Plant Calculations             
+ Plant In Service        
+19  Transmission Plant In Service  (Note B) p207.58.g      
+20  For Reconciliation only - remove New Transmission Plant Additions for Current Calendar Year   For Reconciliation Only Attachment 6 - Enter Negative   0  
+21  New Transmission Plant Additions for Current Calendar Year  (weighted by months in service)   Attachment 6   0   
+22  Total Transmission Plant In Service   (Line 19 - 20 + 21)  0    
+23  General & Intangible   p205.5.g & p207.99.g      
+24  Common Plant (Electric Only)  (Notes A & B) p356      
+25  Total General & Common     (Line 23 + 24)   0   
+26  Classified Gross Plant Allocation Factor   (Line 5)  #DIV/0!   
+27  General & Common Plant Allocated to Transmission     (Line 25 * 26)   #DIV/0!   
+28  Plant Held for Future Use (Including Land)   (Note C) p214   0   
+29 TOTAL Plant In Service     (Line 22 + 27 + 28)   #DIV/0!   
+ Accumulated Depreciation        
+30  Transmission Accumulated Depreciation  (Note B) p219.25.c      
+31  Accumulated General Depreciation   p219.28.c       
+32  Accumulated Intangible Amortization   (Line 10)  0    
+33  Accumulated Common Amortization - Electric   (Line 11)  0    
+34  Common Plant Accumulated Depreciation (Electric Only)     (Line 12)  0    
+35  Total Accumulated Depreciation   (Sum Lines 31 to 34)  0    
+36  Classified Gross Plant Allocation Factor   (Line 5)  DIV/0!   
+37  General & Common Allocated to Transmission     (Line 35 * 36)   #DIV/0!   
+38 TOTAL Accumulated Depreciation     (Line 30 + 37)   #DIV/0!   
+39 TOTAL Net Property, Plant & Equipment     (Line 29 - 38)   #DIV/0!   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion 
+Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 2 
+Adjustment To Rate Base             
+ Accumulated Deferred Income Taxes        
+40  ADIT net of FASB 106 and 109   Attachment 1  #DIV/0!    
+41  Accumulated Investment Tax Credit Account No. 255 Enter Negative (Notes A & I) p266.h  0    
+42  Net Plant Allocation Factor   (Line 18)  #DIV/0!   
+43  Accumulated Deferred Income Taxes Allocated To Transmission   (Line 41 * 42) + Line 40   #DIV/0!    
+ Transmission O&M Reserves        
+44  Total Balance Transmission Related Account 242 Reserves Enter Negative Attachment 5  0   
+ Prepayments        
+45  Prepayments    (Note A) Attachment 5  #DIV/0!   
+46  Total Prepayments Allocated to Transmission     (Line 45)   #DIV/0!    
+ Materials and Supplies        
+47  Undistributed Stores Exp  (Note A) p227.6c & 16.c  0   
+48  Classified Gross Plant Allocator     (Line 5)   #DIV/0!   
+49  Total Transmission Allocated   (Line 47 * 48)  #DIV/0!   
+50  Transmission Materials & Supplies   p227.8c     
+51  Total Materials & Supplies Allocated to Transmission     (Line 49 + 50)   #DIV/0!    
+ Cash Working Capital        
+52  Operation & Maintenance Expense   (Line 85)  #DIV/0!    
+53  1/8th Rule   x 1/8  12.5%   
+54  Total Cash Working Capital Allocated to Transmission     (Line 52 * 53)   #DIV/0!    
+ Network Credits        
+55  Outstanding Network Credits  (Note N) From PJM  0   
+56      Less Accumulated Depreciation Associated with Facilities with Outstanding Network Credits (Note N) From PJM  0   
+57  Net Outstanding Credits   (Line 55 - 56)  0    
+58 TOTAL Adjustment to Rate Base     (Line 43 + 44 + 46 + 51 + 54 - 57) #DIV/0!   
+59 Rate Base     (Line 39 + 58)   #DIV/0!    
+O&M                 
+ Transmission O&M        
+60  Transmission O&M  (Note Q) p321.112.b - p321.88b      
+61  Less extraordinary property loss   Attachment 5  0   
+62  Plus amortized extraordinary property loss   Attachment 5  0   
+63       Less Account 565   p321.96.b     
+64       Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 565 (Note O) PJM Data      
+65       Plus Transmission Lease Payments  (Note A) p200.4.c      
+66  Transmission O&M     (Lines 60 - 63 + 64 + 65)   0    
+ Allocated General & Common Expenses        
+67  Common Plant O&M  (Note A) p356      
+68  Total A&G   p323.197.b      
+69      Less Property Insurance Account 924   p323.185b      
+70      Less Regulatory Commission Exp Account 928  (Note E) p323.189b      
+71      Less General Advertising Exp Account 930.1   p323.191b      
+72      Less DE Enviro & Low Income and MD Universal Funds   p335.b      
+73      Less EPRI Dues  (Note D) p352-353      
+74  General & Common Expenses     (Lines 67 + 68) -  Sum (69 to 73)   0    
+75  Classified Gross Plant Allocator   (Line 5)  #DIV/0!   
+76  General & Common Expenses Allocated to Transmission   (Line 74 * 75)   #DIV/0!    
+ Directly Assigned A&G        
+77  Regulatory Commission Exp Account 928  (Note G) p323.189b  0   
+78  General Advertising Exp Account 930.1   (Note K) p323.191b  0   
+79  Subtotal - Transmission Related   (Line 77 + 78)  0    
+80  Property Insurance Account 924   p323.185b     
+81  General Advertising Exp Account 930.1  (Note F) p323.191b  0   
+82  Total     (Line 80 + 81)   0   
+83  Net Plant Allocation Factor   (Line 18)  #DIV/0!   
+84  A&G Directly Assigned to Transmission     (Line 82 * 83)   #DIV/0!    
+          
+85  Total Transmission O&M     (Line 66 + 76 + 79 + 84)   #DIV/0!    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion 
+Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 3 
+Depreciation & Amortization Expense             
+ Depreciation Expense        
+86  Transmission Depreciation Expense   p336.7b&c     
+87  General Depreciation   p336.10b&c      
+88  Intangible Amortization   (Note A) p336.1d&e     
+89  Total   (Line 87 + 88)  0    
+90  Classified Gross Plant Allocator     (Line 5)   #DIV/0!   
+91  General Depreciation Allocated to Transmission   (Line 89 * 90)  #DIV/0!    
+92  Common Depreciation - Electric Only  (Note A) p336.11.b  0   
+93  Common Amortization - Electric Only   (Note A) p356 or p336.11d  0   
+94  Total   (Line 92 + 93)  0    
+95  Classified Gross Plant Allocator     (Line 5)   #DIV/0!   
+96  Common Depreciation - Electric Only Allocated to Transmission  (Line 94 * 95)  #DIV/0!    
+97 Total Transmission Depreciation & Amortization     (Line 86 + 91 + 96)   #DIV/0!    
+          
+Taxes Other than Income                                                                 
+98 Taxes Other than Income   Attachment 2  #DIV/0!   
+99 Total Taxes Other than Income     (Line 98)   #DIV/0!   
+          
+Return / Capitalization Calculations             
+ Long Term Interest        
+100  Long Term Interest   p117.62c through 67c      
+101      Less LTD Interest on Securitization Bonds   (Note P) Attachment 8   0   
+102  Long Term Interest   "(Line 100 - line 101)"  0   
+103 Preferred Dividends   enter positive p118.29c      
+ Common Stock        
+104  Proprietary Capital   p112.16c      
+105      Less Preferred Stock  enter negative (Line 114)  0    
+106      Less Account 216.1   enter negative p112.12c       
+107  Common Stock   (Sum Lines 104 to 106)   0   
+ Capitalization        
+108  Long Term Debt   p112.18c through 22c      
+109        Less Loss on Reacquired Debt   enter negative p111.81c     
+110        Plus Gain on Reacquired Debt  enter positive p113.61c      
+111        Less ADIT associated with Gain or Loss  enter negative Attachment 1  0    
+112        Less LTD on Securitization Bonds (Note P) enter negative Attachment 8  0   
+113  Total Long Term Debt     (Sum Lines 108 to 112)   0   
+114  Preferred Stock   p112.3c     
+115  Common Stock   (Line 107)  0    
+116  Total  Capitalization     (Sum Lines 113 to 115)   0    
+117  Debt % Total Long Term Debt  (Line 113 / 116)  #DIV/0!   
+118  Preferred % Preferred Stock  (Line 114 / 116)  #DIV/0!   
+119  Common % Common Stock  (Line 115 / 116)  #DIV/0!   
+120  Debt Cost Total Long Term Debt  (Line 102 / 113)  0.0000   
+121  Preferred Cost Preferred Stock  (Line 103 / 114)  0.0000   
+122  Common Cost Common Stock (Note J) Fixed  0.1050   
+123  Weighted Cost of Debt Total Long Term Debt (WCLTD)  (Line 117 * 120)  #DIV/0!   
+124  Weighted Cost of Preferred Preferred Stock  (Line 118 * 121)  #DIV/0!   
+125   Weighted Cost of Common Common Stock   (Line 119 * 122)   #DIV/0!   
+126 Total Return ( R )   (Sum Lines 123 to 125)  #DIV/0!   
+127 Investment Return = Rate Base * Rate of Return     (Line 59 * 126)   #DIV/0!   
+          
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion 
+Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 4 
+Composite Income Taxes                                                                                                                  
+  Income Tax Rates        
+128  FIT=Federal Income Tax Rate         
+129  SIT=State Income Tax Rate or Composite  (Note I)      
+130  p (percent of federal income tax deductible for state purposes) Per State Tax Code     
+131  T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   0.00%   
+132  T/ (1-T)     0.00%   
+ ITC Adjustment  (Note I)      
+133  Amortized Investment Tax Credit  enter negative p266.8f   0    
+134  T/(1-T)   (Line 132)  0.00%   
+135  Net Plant Allocation Factor     (Line 18)  #DIV/0!   
+136  ITC Adjustment Allocated to Transmission    (Line 133 * (1 + 134) * 135)   #DIV/0!    
+137 Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = [Line 132 * 127 * (1-(123 / 126))] #DIV/0!   
+138 Total Income Taxes     (Line 136 + 137)   #DIV/0!    
+REVENUE REQUIREMENT             
+ Summary        
+139  Net Property, Plant & Equipment   (Line 39)  #DIV/0!   
+140  Adjustment to Rate Base   (Line 58)  #DIV/0!   
+141  Rate Base     (Line 59)   #DIV/0!   
+142  O&M   (Line 85)  #DIV/0!   
+143  Depreciation & Amortization   (Line 97)  #DIV/0!   
+144  Taxes Other than Income   (Line 99)  #DIV/0!   
+145  Investment Return   (Line 127)  #DIV/0!   
+146  Income Taxes   (Line 138)  #DIV/0!   
+147   Gross Revenue Requirement     (Sum Lines 142 to 146)   #DIV/0!   
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities      
+148  Transmission Plant In Service   (Line 19)  0    
+149  Excluded Transmission Facilities   (Note M) Attachment 5  0   
+150  Included Transmission Facilities   (Line 148 - 149)  0   
+151  Inclusion Ratio   (Line 150 / 148)  #DIV/0!   
+152  Gross Revenue Requirement     (Line 147)  #DIV/0!   
+153  Adjusted Gross Revenue Requirement   (Line 151 * 152)  #DIV/0!   
+ Revenue Credits & Interest on Network Credits        
+154  Revenue Credits   Attachment 3  --  
+155  Interest on Network Credits  (Note N) PJM Data  --  
+156   Net Revenue Requirement     (Line 153 - 154 + 155)   #DIV/0!   
+ Net Plant Carrying Charge        
+157  Gross Revenue Requirement   (Line 147)  #DIV/0!   
+158  Net Transmission Plant   (Line 19 - 30)  -   
+159  Net Plant Carrying Charge    (Line 157 / 158)  #DIV/0!   
+160  Net Plant Carrying Charge without Depreciation   (Line 157 - 86) / 158  #DIV/0!   
+161  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes  (Line 157 - 86 - 127 - 138) / 158  #DIV/0!   
+ Net Plant Carrying Charge Calculation per 100 Basis Point increase in ROE    #DIV/0!   
+162  Gross Revenue Requirement Less Return and Taxes   (Line 152 - 145 - 146)  #DIV/0!   
+163  Increased Return and Taxes   Attachment 4  #DIV/0!  
+164  Net Revenue Requirement per 100 Basis Point increase in ROE  (Line 162 + 163)  #DIV/0!   
+165  Net Transmission Plant   (Line 19 - 30)  -   
+166  Net Plant Carrying Charge per 100 Basis Point increase in ROE  (Line 164 / 165)  #DIV/0!   
+167  Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation  (Line 163 - 86) / 165  #DIV/0!   
+168  Net Revenue Requirement   (Line 156)  #DIV/0!   
+169  True-up amount   Attachment 6  -  
+170  Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects  Attachment 7  #DIV/0!  
+171  Facility Credits under Section 30.9 of the PJM OATT   Attachment 5   -  
+172  Net Zonal Revenue Requirement   (Line 168 - 169 + 171)  #DIV/0!   
+ Network Zonal Service Rate        
+173  1 CP Peak  (Note L) PJM Data  0  
+174  Rate ($/MW-Year)   (Line 172 / 173)  #DIV/0!   
+175   Network Service Rate ($/MW/Year)     (Line 174)   #DIV/0!   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion 
+Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 5 
+ Notes        
+ A Electric portion only        
+ B Exclude Construction Work In Progress and leases that are expensed as O&M (rather than amortized).  New Transmission plant       
+  that is expected to be placed in service in the current calendar year weighted by number of months it is expected to be in-service.  New Transmission plant expected     
+  to be placed in service in the current calendar year that is not included in the PJM Regional Transmission Plan (RTEP) must be separately detailed on Attachment 5.     
+  For the Reconciliation, new transmission plant that was actually placed in service weighted by the number of months it was actually in service.      
+ C Transmission Portion Only        
+ D All EPRI Annual Membership Dues        
+ E All Regulatory Commission Expenses         
+ F Safety related advertising included in Account 930.1          
+ G Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h.       
+ I The currently effective income tax rate,  where FIT is the Federal income tax rate; SIT is the State income tax rate, and p =      
+    "the percentage of federal income tax deductible for state income taxes".  If the utility includes taxes in more than one state, it must explain in      
+    Attachment 5 the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that      
+    elected to use amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce       
+    rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f)      
+    multiplied by (1/1-T).  A utility must not include tax credits as a reduction to rate base and as an amortization against taxable income.      
+ J ROE is determined initially to be 10.50% and no change will be made absent a filing with the FERC.        
+ K Education and outreach expenses relating to transmission, for example siting or billing        
+ L As provided for in Section 34.1 of the PJM OATT and the PJM established billing determinants.       
+ M Amount of transmission plant excluded from rates per Attachment 5.        
+ N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments to Old Dominion         
+    (net of accumulated depreciation) towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A.         
+    Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmisison Owner whole on Line 155.        
+ O Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included in Transmission O&M.        
+    If they are booked to Acct 565, they are included in on line 64        
+ P Securitization bonds may be included in the capital structure.        
+ Q Account 561.4 expenses for Scheduling, System Control and Dispatching Service:         
+  Old Dominion elects to exclude recovery of expenses recorded in Account 561.4, without prejudice to recovery of such expenses in      
+  future informational filings under its rate formula.  Account 562 expenses related to Virginia mainland costs of facilities that ODEC does not own      
+  and, thus, would otherwise not be properly excluded from the transmission revenue requirements through the exclusion adjustment.      
+          
+          
+          
+          
+          
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion 
+Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 6 
+Old Dominion Electric Cooperative 
+         
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet 
+        
+        
+   Only     
+   
+Transmissio
+n Plant  Labor Total  
+   Related Related Related ADIT  
+        
+        
+ ADIT- 282  0  0  0    
+ ADIT-283  0  0  0    
+ ADIT-190  0  0  0    
+ Subtotal  0  0  0    
+ Classified Gross Plant Allocator    #DIV/0!   
+ Gross Plant Allocator   #DIV/0!    
+ ADIT  0  #DIV/0! #DIV/0! #DIV/0!  
+        
+Note: ADIT associated with Gain or Loss on Reacquired Debt is included in Column A here and included in Cost of Debt on Appendix A, Line 111 
+  Amount  0      
+         
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns B-E and each separate ADIT item will be listed, 
+dissimilar items 
+with amounts exceeding $100,000 will be listed separately.      
+         
+         
+A   B C D E F G 
+   Total Gas, Prod Only    
+ADIT-190    Or Other 
+Transmissio
+n Plant  Labor  
+    Related Related Related Related Justification 
+            
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                  
+Subtotal - p234               
+Less FASB 109 Above if not separately 
+removed                
+Less FASB 106 Above if not separately 
+removed                
+Total                 
+         
+ 
+Instructions for Account 190: 
+    
+ 
+1.  ADIT items related only to Non-Electric  
+Operations (e.g., Gas, Water, Sewer) or  
+Production are directly assigned to Column C 
+   
+ 2.  ADIT items related only to Transmission are directly assigned to Column D   
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E   
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F   
+ 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they 
+are included in rates, therefore if the item giving rise to the ADIT is not included in the formula, the 
+associated ADIT amount shall be excluded   
+     
+ 
+6.  Re:  Form 1-F filer:  Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c 
+  
+   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Old Dominion Electric Cooperative      
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet    
+         
+ A  B C D E F G 
+   Total Gas, Prod Only    
+ ADIT- 282   Or Other Transmission Plant  Labor  
+    Related Related Related Related Justification 
+         
+         
+         
+         
+         
+         
+         
+Subtotal - p275  (Form 1-F filer:  see note 6 below)                
+Less FASB 109 Above if not separately removed                
+Less FASB 106 Above if not separately removed                
+Tot
+al                 
+         
+ Instructions for Account 282:              
+ 
+1.  ADIT items related only to Non-Electric 
+Operations (e.g., Gas, Water, Sewer) or  
+Production are directly assigned to Column C         
+ 2.  ADIT items related only to Transmission are directly assigned to Column D      
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E      
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F      
+ 
+5. Deferred income taxes arise when items are 
+included in taxable income in different periods 
+than they are included in rates, therefore if the 
+item giving rise to the ADIT is not included in 
+the formula, the associated ADIT amount shall 
+be excluded         
+ 6.  Re:  Form 1-F filer:  Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c      
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 2 
+Old Dominion Electric Cooperative      
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet    
+         
+ A  B C D E F G 
+   Total Gas, Prod Only    
+ ADIT- 283   Or Other Transmission Plant  Labor  
+    Related Related Related Related Justification 
+        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        
+         
+         
+Subtotal - p277  (Form 1-F filer:  see note 6 below)                
+Less FASB 109 Above if not separately removed                
+Less FASB 106 Above if not separately removed                
+Tot
+al                 
+         
+ Instructions for Account 283:              
+ 
+1.  ADIT items related only to Non-Electric 
+Operations (e.g., Gas, Water, Sewer) or  
+Production are directly assigned to Column C         
+ 2.  ADIT items related only to Transmission are directly assigned to Column D      
+ 3.  ADIT items related to Plant and not in Columns C & D are included in Column E      
+ 4.  ADIT items related to labor and not in Columns C & D are included in Column F      
+ 
+5. Deferred income taxes arise when items are 
+included in taxable income in different periods 
+than they are included in rates, therefore if the 
+item giving rise to the ADIT is not included in 
+the formula, the associated ADIT amount shall 
+be excluded         
+ 6.  Re:  Form 1-F filer:  Sum of subtotals for Accounts 282 and 283 should tie to Form No. 1-F, p.113.57.c      
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 3 
+Attachment 1- Accumulated Deferred Income Taxes (ADIT) Worksheet     
+         
+ADITC-255         
+         
+    Item   Balance Amortization    
+               
+1 Rate Base Treatment            
+2 Balance to line 41 of Appendix A Total          
+               
+3 Amortization            
+4 Amortization to line 133 of Appendix A Total          
+               
+5 Total            
+               
+6 Total Form No. 1 (p 266 & 267) Form No. 1 balance (p.266) for amortization          
+               
+7 Difference  /1            
+         
+/1 Difference must be zero        
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 4 
+Old Dominion Electric Cooperative 
+Attachment 2 - Taxes Other Than Income Worksheet 
+        
+    Page 263  Allocated  
+Other Taxes  Col  (i) Allocator Amount  
+        
+ Plant Related   Gross Plant Allocator   
+        
+ 1 Real property (State, Municipal or Local)    #DIV/0!  #DIV/0!    
+ 2 Personal property    #DIV/0!  #DIV/0!    
+ 3 Federal/State Excise    #DIV/0!  #DIV/0!    
+ 4      #DIV/0!  #DIV/0!    
+ 5      #DIV/0!  #DIV/0!    
+ 6      #DIV/0!  #DIV/0!    
+ Total Plant Related   0  #DIV/0!    
+        
+        
+ Labor Related   Classified Gross Plant Allocator   
+        
+        
+ 7 Federal FICA & Unemployment       
+ 8 Virginia Unemployment       
+ 9         
+ 10         
+ 11         
+ Total Labor Related  0  #DIV/0! #DIV/0!    
+        
+        
+ Other Included   Gross Plant Allocator   
+        
+ 12 Miscellaneous  0     
+ 13         
+ 14         
+ Total Other Included  0  #DIV/0! #DIV/0!    
+        
+ Total Included    #DIV/0!  
+        
+        
+  Currently Excluded      
+        
+ 15 Income        
+ 16          
+ 17          
+ 18          
+ 19          
+ 20          
+ 21          
+ 22          
+           
+ 23 Total "Other" Taxes (included on p. 263)   0     
+           
+ 24 Total "Taxes Other Than Income Taxes" - acct 408.10 (p. 114.14)        
+        
+ 25 Difference  --     
+        
+ Criteria for Allocation:      
+ A Other taxes that are incurred through ownership of plant including transmission plant will be allocated based on the Gross Plant   
+  Allocator.  If the taxes are 100% recovered at retail they will not be included.      
+ B [Intentionally left blank.]      
+ C Other taxes that are assessed based on labor will be allocated based on the Classified Gross Plant Allocator.    
+ D Other taxes except as provided for in A, B and C above, that are incurred and (1) are not fully recovered at retail or (2) are    
+  directly or indirectly related to transmission service will be allocated based on the Gross Plant Allocator.     
+ E Excludes prior period adjustments in the first year of the formula's operation and reconciliation for the first year.    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 5 
+Old Dominion Electric Cooperative 
+Attachment 3 - Revenue Credit Workpaper 
+    
+ Account 454 - Rent from Electric Property   
+1 Rent from Electric Property - Transmission Related (Note 3)    
+2 Total Rent Revenues (Sum Lines 1)                    -    
+    
+ Account 456 - Other Electric Revenues (Note 1)   
+3 Schedule 1A    
+ 
+4 
+Net revenues associated with Network Integration Transmission Service (NITS) for 
+which the load is not included in the divisor (difference between NITS credits from 
+PJM and PJM NITS charges paid by Transmission Owner) (Note 4)    
+5 Point to Point Service revenues for which the load is not included in the divisor received by Transmission Owner (Note 4)   
+6 PJM Transitional Revenue Neutrality (Note 1)    
+7 PJM Transitional Market Expansion (Note 1)    
+8 Professional Services (Note 3)    
+9 Revenues from Directly Assigned Transmission Facility Charges (Note 2)    
+10 Rent or Attachment Fees associated with Transmission Facilities (Note 3)    
+     
+11 Gross Revenue Credits (Sum Lines 2-10)   
+12 Less line 17g                     -    
+13 Total Revenue Credits                     -    
+    
+ Revenue Adjustment to determine Revenue Credit   
+14  Note 1: All revenues related to transmission that are received as a transmission owner 
+(i.e., not received as a LSE), for which the cost of the service is recovered under this 
+formula, except as specifically provided for elsewhere in this Attachment or elsewhere 
+in the formula will be included as a revenue credit or included in the peak on line 173 
+of Appendix A.   
+15 Note 2: If the costs associated with the Directly Assigned Transmission Facility 
+Charges are included in the Rates, the associated revenues are included in the Rates.  If 
+the costs associated with the Directly Assigned Transmission Facility Charges are not 
+included in the Rates, the associated revenues are not included in the Rates.   
+16 Note 3: Ratemaking treatment for the following specified secondary uses of 
+transmission assets:  (1) right-of-way leases and leases for space on transmission 
+facilities for telecommunications;  (2) transmission tower licenses for wireless 
+antennas; (3) right-of-way property leases for farming, grazing or nurseries; (4) 
+licenses of intellectual property (including  
+a portable oil degasification process and scheduling software); and (5) transmission 
+maintenance and consulting services (including energized circuit maintenance, high-
+voltage substation maintenance, safety training, transformer oil testing, and circuit 
+breaker testing) to other utilities and large customers (collectively, products). 
+Company will retain 50% of net revenues consistent with Pacific Gas and Electric 
+Company, 90 FERC ¶ 61,314.  Note: in order to use lines 17a - 17g, the utility must 
+track in separate subaccounts the revenues and costs associated with each secondary 
+use (except for the cost of the associated income taxes). 
+ 
+ 
+17a Revenues included in lines 1-11 which are subject to 50/50 sharing.                     -    
+17b Costs associated with revenues in line 17a    
+17c Net Revenues  (17a - 17b)                     -    
+17d 50% Share of Net Revenues  (17c / 2)                     -    
+17e Costs associated with revenues in line 17a that are included in FERC accounts 
+recovered through the formula times the allocator used to functionalize the amounts in 
+the FERC account to the transmission service at issue. 
+ 
+                   -    
+17f Net Revenue Credit (17d + 17e)                     -    
+17g Line 17f less line 17a                     -    
+18   Note 4: If the facilities associated with the revenues are not included in the formula, 
+the revenue is shown here but not included in the total above and is explained in the 
+Cost Support; for example revenues associated with distribution facilities.  In addition, 
+Revenues from Schedule 12 are not included in the total above to the extent they are 
+credited under Schedule 12.     
+    
+19 Amount offset in line 4 above    
+    
+20 Total Account 454 and 456                     -    
+    
+21 Note 4:  SECA revenues booked in Account 447.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Old Dominion Electric Cooperative 
+Attachment 4 - Calculation of 100 Basis Point Increase in ROE 
+         
+  Return and Taxes with 100 Basis Point increase in ROE     
+A   100 Basis Point increase in ROE and Income Taxes  (Line 127 + Line 138)             #DIV/0! 
+B   100 Basis Point increase in ROE     1.00% 
+         
+Return Calculation           
+59  Rate Base   (Line 39 + 58)          #DIV/0!   
+  Long Term Interest      
+100   Long Term Interest   p117.62c through 67c          0  
+101       Less LTD Interest on Securitization Bonds (Note P)   Attachment 8           0    
+102   Long Term Interest   "(Line 100 - line 101)"         0 
+103  Preferred Dividends   enter positive p118.29c                           0 
+  Common Stock      
+104   Proprietary Capital   p112.16c        0 
+105       Less Preferred Stock  enter negative (Line 114)          0                    
+106       Less Account 216.1  enter negative p112.12c             0                  
+107   Common Stock   (Sum Lines 104 to 106)        0  
+  Capitalization      
+108   Long Term Debt   p112.18c through 22c        0 
+109         Less Loss on Reacquired Debt   enter negative p111.81c         0 
+110         Plus Gain on Reacquired Debt  enter positive p113.61c              0  
+111         Less ADIT associated with Gain or Loss enter negative Attachment 1                          0    
+112         Less LTD on Securitization Bonds  enter negative Attachment 8                           0    
+113   Total Long Term Debt     (Sum Lines 108 to 112)         0  
+114   Preferred Stock   p112.3c                           0    
+115   Common Stock   (Line 107)        0  
+116   Total  Capitalization     (Sum Lines 113 to 115)      0 
+117   Debt %  Total Long Term Debt (Line 113 / 116)  0% 
+118   Preferred %  Preferred Stock (Line 114 / 116)  0% 
+119   Common %  Common Stock (Line 115 / 116)  0% 
+120   Debt Cost  Total Long Term Debt (Line 102 / 113)  0.0000 
+121   Preferred Cost  Preferred Stock (Line 103 / 114)  0.0000 
+122   Common Cost (Note J  from Appendix A) Common Stock Appendix A % plus 100 Basis Pts                  0.1150  
+123   Weighted Cost of Debt  Total Long Term Debt (WCLTD) (Line 117 * 120)  0.0000 
+124   Weighted Cost of Preferred  Preferred Stock (Line 118 * 121)  0.0000 
+125   Weighted Cost of Common   Common Stock (Line 119 * 122)   0.0000 
+126  Total Return ( R )   (Sum Lines 123 to 125)  0.0000 
+127  Investment Return = Rate Base * Rate of Return     (Line 59 * 126)   #DIV/0! 
+         
+Composite Income Taxes           
+   Income Tax Rates      
+128   FIT=Federal Income Tax Rate     0.00% 
+129   SIT=State Income Tax Rate or Composite    0.00% 
+130   p = percent of federal income tax deductible for state purposes  Per State Tax Code  0.00% 
+131   T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   0.00% 
+132   T/ (1-T)     0.00% 
+  ITC Adjustment      
+133   Amortized Investment Tax Credit  enter negative p266.8f                            -    
+134   T/(1-T)   (Line 132)  0% 
+135   Net Plant Allocation Factor     (Line 18)  #DIV/0! 
+136   ITC Adjustment Allocated to Transmission (Note I from Appendix A) (Line 133 * (1 + 134) * 135)   #DIV/0! 
+137  Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) =   #DIV/0! 
+         
+138  Total Income Taxes                                  #DIV/0!     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+ 
+     Old Dominion Electric Cooperative         
+     Attachment 5 - Cost Support         
+Electric / Non-electric Cost Support               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount Electric Portion 
+Non-electric  
+Portion Details 
+  Plant Allocation Factors          
+10 Accumulated Intangible Amortization  (Note A) p200.21c 0 0 0 See Form 1      
+11 Accumulated Common Amortization - Electric  (Note A) p356 0 0 0       
+12 
+Accumulated Common Plant Depreciation - 
+Electric  (Note A) p356 0 0 0 See Form 1      
+  Plant In Service               
+24 Common Plant (Electric Only)  
+(Notes A 
+& B) p356 0 0 0 See Form 1      
+  Accumulated Deferred Income Taxes               
+41 
+Accumulated Investment Tax Credit Account 
+No. 255  
+(Notes A 
+& I) p266.h 0 0 0 See Form 1      
+  Materials and Supplies               
+47 Undistributed Stores Exp  (Note A) p227.6c & 16.c 0   100% Electric      
+  Allocated General & Common Expenses               
+65      Plus Transmission Lease Payments  (Note A) p200.4.c           
+67 Common Plant O&M  (Note A) p356 0 0 0       
+  Depreciation Expense               
+88 Intangible Amortization  (Note A) p336.1d&e  0 0       
+92 Common Depreciation - Electric Only  (Note A) p336.11.b 0 0 0 See Form 1, electric only.     
+93 
+ Common Amortization - Electric Only   (Note A) p356 or p336.11d 0 0 0 See Form 1, electric only.       
+Transmission / Non-transmission Cost Support 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Transmission 
+Related 
+Non-transmission 
+Related Details 
+28 Plant Held for Future Use (Including Land)  (Note C) p214 0 0 0 
+Specific identification based on plant records:  The 
+following plant investments are included: 
+  
+           1         
+           2         
+           3         
+           4         
+                  5               
+CWIP & Expensed Lease Worksheet 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount 
+CWIP In Form 1 
+Amount 
+Expensed Lease 
+in Form 1 
+Amount Details 
+  Plant Allocation Factors         
+6  Electric Plant in Service  (Note B) 
+p207.104
+g  0 0  
+  Plant In Service         
+19  Transmission Plant In Service  (Note B) 
+p207.58.
+g  0 0  
+24  Common Plant (Electric Only)  (Notes A & B) p356  0 0  
+  Accumulated Depreciation          
+30   
+Transmission Accumulated 
+Depreciation   (Note B) 
+p219.25.
+c  0 0   
+EPRI Dues Cost Support 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount EPRI Dues   Details 
+  Allocated General & Common Expenses         
+73       Less EPRI Dues   
+(Note 
+D) p352-353 0 0     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Regulatory Expense Related to Transmission Cost Support              
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Transmission 
+Related 
+Non-transmission 
+Related Details 
+  Allocated General & Common Expenses                 
+70  
+    Less Regulatory Commission Exp Account 
+928  
+(Note 
+E) p323.189b 
+ $                       
+- 0           
+  Directly Assigned A&G                 
+77   Regulatory Commission Exp Account 928   
+(Note 
+G) p323.189b 0 0    
+                 
+                 
+Safety Related Advertising Cost Support               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount Safety Related Non-safety Related Details 
+  Directly Assigned A&G                 
+81   General Advertising Exp Account 930.1   
+(Note 
+F) p323.191b  0 0   
+                 
+                 
+MultiState Workpaper               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions State 1 State 2 State 3 State 4 State 5 Details 
+  Income Tax Rates                 
+              
+129   SIT=State Income Tax Rate or Composite   (Note I) 0             
+                 
+                 
+Education and Out Reach Cost Support               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Education & 
+Outreach Other Details 
+  Directly Assigned A&G                 
+78   General Advertising Exp Account 930.1   
+(Note 
+K) p323.191b -             0   -                      
+                                                                                                                                                                                             
+-    
+                 
+                 
+Excluded Plant Cost Support               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Excluded 
+Transmission 
+Facilities Description of the Facilities 
+  Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities              
+149  Excluded Transmission Facilities  
+(Note 
+M) Attachment 5    
+                    
+   Instructions:    Enter $ None 
+  1 Remove all investment below 69 kV or generator step up transformers included in transmission plant in service that   
+Total Transmission Facilities Excluded from 
+Zonal Rates         
+   are not a result of the RTEP Process               Investment included in total above which qualify for inclusion in Zonal Charges 
+  2 
+If unable to determine the investment below 69kV in a substation with investment of 69 kV and higher as well as 
+below 69 kV,    
+   the following formula will be used: Example      
+  A Total investment in substation 1,000,000      
+  B Identifiable investment in Transmission (provide workpapers) 500,000      
+  C Identifiable investment in Distribution (provide workpapers) 400,000      
+  D Amount to be excluded (A x (C / (B + C))) 444,444      
+                Add more lines if necessary           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Transmission Related Account 242 Reserves        
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Total Allocation Transmission Related Details 
+44 
+Transmission Related Account 242 Reserves (exclude current year environmental site related 
+reserves)  Enter $    Amount   
+   Directly Assignable to Transmission        
+   
+Labor Related, General plant related or Common Plant 
+related        
+   Plant Related          
+   Other          
+    Total Transmission Related Reserves           
+          
+          
+Prepayments               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions   Description of the Prepayments 
+45 Prepayments   To Line 45         
+  5 Classified Gross Plant Allocator  
+#DIV/0
+!      
+   Pension Liabilities, if any, in Account 242                         -    
+#DIV/0
+! 
+#DIV/0
+!        
+              
+   Prepayments  - P111.57.c. 
+ $            
+3,912,312  
+#DIV/0
+! 
+#DIV/0
+!    
+   
+Prepaid Pensions if not included in 
+Prepayments   
+#DIV/0
+! 
+#DIV/0
+!         
+    3,912,312  
+#DIV/
+0!  
+#DIV/0
+!        
+                        
+            
+            
+Outstanding Network Credits Cost Support          
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Outstanding 
+Network 
+Credits Description of the Credits 
+  Network Credits     Enter $    
+55  Outstanding Network Credits  (Note N) From PJM 0 General Description of the Credits 
+         
+          
+          
+          
+56  
+Less Accumulated Depreciation Associated with Facilities with Outstanding 
+Network Credits 
+(Note 
+N) From PJM 0  
+          
+          
+                  Add more lines if necessary 
+            
+Extraordinary Property Loss          
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Amoun
+t  Number of years 
+Amortizatio
+n w/ interest     
+61  Less extraordinary property loss   Attachment 5        
+62   Plus amortized extraordinary property loss     Attachment 5             
+            
+            
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Interest on Outstanding Network Credits Cost Support              
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Interest on 
+Network  
+Credits Description of the Interest on the Credits 
+  
+Revenue Credits & Interest on Network 
+Credits                 
+155  Interest on Network Credits  
+(Note 
+N) PJM Data  General Description of the Credits 
+                    
+        Enter $ None 
+          
+                  
+  
+Add more lines if necessary           
+                 
+Facility Credits under Section 30.9 of the PJM OATT              
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Amount Description & PJM Documentation  
+  Net Revenue Requirement                 
+171   
+Facility Credits under Section 30.9 of the PJM 
+OATT           
+                 
+                
+                 
+                 
+PJM Load Cost Support               
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 1 CP Peak Description & PJM Documentation  
+  Network Zonal Service Rate                 
+173   1 CP Peak   (Note L) PJM Data                              See Form 1 
+                 
+                 
+Statements BG/BH (Present and Proposed Revenues)              
+    Customer 
+Billing 
+Determinants 
+Current 
+Rate 
+Proposed 
+Rate Current Revenues Proposed Revenues Change in Revenues     
+       
+                                     
+-                                          -    
+                       
+-          
+                 
+                   
+    Total                      -    
+                                
+-                                 - 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old 
+Dominion Electric Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Old Dominion Electric Cooperative 
+       
+Attachment 5a - Allocations of Costs to Affiliates      
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Old Dominion Electric Cooperative        
+                 
+Attachment 6 - Estimate and Reconciliation Worksheet        
+                 
+                 
+Ste
+p 
+Mont
+h Year Action              
+                 
+Exec Summary               
+1 April 
+Year 
+2 
+TO populates the formula with Year 1 data from FERC Form 1 data for Year 1 (e.g., 
+2004)           
+2 April 
+Year 
+2 TO estimates all transmission Cap Adds for Year 2 weighted based on Months expected to be in service in Year 2 (e.g., 2005)         
+3 April 
+Year 
+2 TO adds weighted Cap Adds to plant in service in Formula            
+4 May 
+Year 
+2 Post results of Step 3 on PJM web site             
+5 June 
+Year 
+2 Results of Step 3 go into effect for the Rate Year 1 (e.g., June 1, 2005 - May 31, 2006)           
+                  
+6 April 
+Year 
+3 TO populates the formula with Year 2 data from FERC Form 1 for Year 2 (e.g., 2005)           
+7 April 
+Year 
+3 
+TO estimates Cap Adds during Year 3 weighted based on Months expected to be in service in Year 3 
+(e.g., 2006)          
+8 April 
+Year 
+3 
+Reconciliation - TO calculates Reconciliation by removing from Year 2 data - the total Cap Adds placed in service in Year 2 and adding weighted average in Year 2 actual Cap Adds 
+in Reconciliation     
+    (adjusted to include any Reconciliation amount from prior year)            
+9 April 
+Year 
+3 
+Reconciliation - TO adds the difference between the Reconciliation in Step 8 and the forecast in Line 5 with interest to the result of Step 7 (this difference is also added to Step 8 in 
+the subsequent year)     
+10 May 
+Year 
+3 Post results of Step 9 on PJM web site             
+11 June 
+Year 
+3 Results of Step 9 go into effect for the Rate Year 2 (e.g., June 1, 2006 - May 31, 2007)           
+                 
+1 April 
+Year 
+2 
+TO populates the formula with Year 1 data from FERC Form 1 data for Year 1 (e.g., 
+2004)           
+              Rev Req based on Year 1 data 
+Must run Appendix A to get this number (without any cap adds in line 21 of 
+Appendix A )        
+                 
+2 April 
+Year 
+2 TO estimates all transmission Cap Adds for Year 2 weighted based on Months expected to be in service in Year 2 (e.g., 2005)         
+    Est. In Service Date Weighting Amount One 12th          
+   Jan  11.5                              -                        -             
+   Feb  10.5                              -                        -             
+   Mar  9.5  -   -          
+   Apr  8.5                              -                        -             
+   May  7.5                              -                        -             
+   Jun  6.5  -  -          
+   Jul  5.5                              -                        -             
+   Aug  4.5                              -                        -             
+   Sep  3.5                              -                        -             
+   Oct  2.5                              -                        -             
+   Nov  1.5                              -                        -             
+   Dec  0.5                              -                        -             
+   Total                  -   -   -           
+   New Transmission Plant Additions for Year 2  (weighted by months in service)                        
+                 
+                 
+3 April 
+Year 
+2 TO adds weighted Cap Adds to plant in service in Formula            
+    $          - Input to Formula Line 21            
+                 
+4 May 
+Year 
+2 Post results of Step 3 on PJM web site             
+       
+Must run Appendix A to get this number (with prospective weighted cap adds 
+in line 21)        
+                 
+5 June 
+Year 
+2 Results of Step 3 go into effect for the Rate Year 1 (e.g., June 1, 2005 - May 31, 2006)           
+    $         -               
+                 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+             
+6 
+Apri
+l 
+Year 
+3 TO populates the formula with Year 2 data from FERC Form 1 for Year 2 (e.g., 2005)       
+          Rev Req based on Prior Year data 
+Must run Appendix A to get this number (without any cap adds in line 21 of Appendix 
+A )    
+             
+             
+7 
+Apri
+l 
+Year 
+3 
+TO estimates Cap Adds during Year 3 weighted based on Months expected to be in service in Year 3 (e.g., 
+2006)      
+    Est. In Service Date Weighting Amount One 12th      
+   Jan  11.5                              -                        -         
+   Feb  10.5                              -                        -         
+   Mar  9.5                             -                      -       
+   Apr  8.5                             -                     -      
+   May  7.5                            -                     -      
+   Jun  6.5                           -                    -      
+   Jul  5.5                           -                    -      
+   Aug  4.5                          -                    -      
+   Sep  3.5                          -                    -      
+   Oct  2.5                         -                   -      
+   Nov  1.5                         -                   -      
+   Dec  0.5                         -                   -      
+   Total                           -                           -                  -      
+   New Transmission Plant Additions for Year 3  (weighted by months in service)                   - 
+Input to Formula Line 
+21     
+             
+             
+8 
+Apri
+l 
+Year 
+3 
+Reconciliation - TO calculates Reconciliation by removing from Year 2 data - the total Cap Adds placed in service in Year 2 and adding weighted average in Year 2 actual Cap Adds in 
+Reconciliation 
+   (adjusted to include any Reconciliation amount from prior year)        
+             
+    Remove all Cap Adds placed in service in Year 2         
+   For Reconciliation only - remove actual New Transmission Plant Additions for Year 2             
+Input to Formula Line 
+20     
+            
+   Add weighted Cap Adds actually placed in service in Year 2         
+    Actual In Service Date Weighting Amount One 12th    
+   Jan                            -    11.5                              -                        -          
+   Feb                            -    10.5                              -                        -         
+   Mar                            -    9.5                              -                        -        
+   Apr                            -    8.5                              -                        -          
+   May                            -    7.5                              -                        -          
+   Jun                           - 6.5                             -   -        
+   Jul                            -    5.5                              -                        -          
+   Aug                            -    4.5                              -                        -          
+   Sep                            -    3.5                              -                        -         
+   Oct                            -    2.5                              -                        -         
+   Nov                            -    1.5                              -                        -         
+   Dec                            - 0.5                              -   -                    
+   Total                                                              
+   New Transmission Plant Additions for Year 2  (weighted by months in service)              - 
+Input to Formula Line 
+21     
+             
+      Result of Formula for Reconciliation  Must run Appendix A with cap adds in line 21 & line 20      
+    
+(Year 2 data with total of Year 2 Cap Adds removed and monthly weighted average of Year 2 actual Cap Adds added 
+in)     
+             
+             
+             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+              
+9 
+Apri
+l 
+Year 
+3 
+Reconciliation - TO adds the difference between the Reconciliation in Step 8 and the forecast in Line 5 with interest to the result of Step 7 (this difference is also added to Step 8 in the 
+subsequent year)  
+              
+   The Reconciliation in Step 8 
+The forecast in Prior 
+Year         
+              - -                       =             -       
+              
+   Interest on Amount of Refunds or Surcharges         
+   
+Interest rate pursuant to 35.19a for March of the 
+Current Yr          
+    Month  Yr 1/12 of Step 9  Interest rate for    Interest  
+Surcharge (Refund) 
+Owed    
+      
+March of the Current 
+Yr Months       
+   Jun Year 1 - 0.0000% 11.5 - -     
+   Jul Year 1 - 0.0000% 10.5 - -     
+   Aug Year 1 - 0.0000% 9.5 - -     
+   Sep Year 1 - 0.0000% 8.5 - -     
+   Oct Year 1 - 0.0000% 7.5 - -     
+   Nov Year 1 - 0.0000% 6.5 - -     
+   Dec Year 1 - 0.0000% 5.5 - -     
+   Jan Year 2 - 0.0000% 4.5 - -     
+   Feb Year 2 - 0.0000% 3.5 - -     
+   Mar Year 2 - 0.0000% 2.5 - -     
+   Apr Year 2 - 0.0000% 1.5 - -     
+   May Year 2 - 0.0000% 0.5 - -     
+   Total                                                       
+              
+      Balance  
+Interest rate from 
+above 
+Amortization 
+over Rate Year Balance      
+   Jun Year 2 - 0.3767% - -      
+   Jul Year 2 - 0.3767% - -      
+   Aug Year 2 - 0.3767% - -      
+   Sep Year 2 - 0.3767% - -      
+   Oct Year 2 - 0.3767% - -      
+   Nov Year 2 - 0.3767% - -      
+   Dec Year 2 - 0.3767% - -      
+   Jan Year 3 - 0.3767% - -      
+   Feb Year 3 - 0.3767% - -      
+   Mar Year 3 - 0.3767% - -      
+   Apr Year 3 - 0.3767% - -      
+   May Year 3 - 0.3767% - -      
+   Total with interest                       
+              
+   The difference between the Reconciliation in Step 8 and the forecast in Prior Year with interest             -       
+   Rev Req based on Year 2 data with estimated Cap Adds for Year 3   $                -       
+   Revenue Requirement for Year 3            -       
+              
+              
+1
+0 May 
+Year 
+3 Post results of Step 9 on PJM web site          
+    $         - Post results of Step 3 on PJM web site         
+              
+              
+1
+1 June 
+Year 
+3 Results of Step 9 go into effect for the Rate Year 2 (e.g., June 1, 2006 - May 31, 2007)        
+    $         -           
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 2 
+Old Dominion Electric Cooperative 
+Attachment 7 - Transmission Enhancement Charge Worksheet 
+New Plant Carrying Charge                
+Fixed Charge Rate (FCR) if not a CIAC               
+ 
+Formula 
+Line                
+A 160 Net Plant Carrying Charge without Depreciation     #DIV/0!       
+B 167 Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation   #DIV/0!       
+C  Line B less Line A        #DIV/0!       
+FCR if a 
+CIAC                 
+D 161 Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes   #DIV/0!       
+The FCR resulting from Formula in a given year is used for that year only.            
+Therefore actual revenues collected in a year do not change based on cost data for subsequent years          
+ROE is determined initially to be 10.50% and will not be changed absent a filing with the FERC.          
+Details   Project A Project B Project C       
+Schedule 12 (Yes or No)                        
+Life                         
+CIAC (Yes or No)                        
+Increased ROE (Basis Points)                        
+FCR W 10.5% 
+ROE  0.212174204     
+0.21217420
+4     #DIV/0!          
+FCR for This 
+Project 
+(FCR w/ 10.5% ROE 
++ FCR w/ 10.5% 
+ROE x Increased 
+ROE/100)  0.215553362     
+0.21555336
+2     #DIV/0!          
+Investment     may be weighted average of small projects                   
+Annual Depreciation Exp 
+                         
+-                          -        
+               
+-             
+In Service Month (1-12)                        
+                                  
+  Invest Yr Beginning Depreciation Ending 
+ 
+Revenue  Beginning 
+Depreciatio
+n 
+Endin
+g 
+Revenu
+e Beginning 
+Depreciatio
+n Ending Revenue Total 
+Incentive 
+Charged Revenue Credit 
+W 10.5 % ROE 2006 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-          
+ $                       
+-      $                    -    
+W Increased ROE 2006 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-          
+ $                       
+-    
+ $                          
+-      
+W 10.5 % ROE 2007 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2007 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2008 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2008 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2009 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2009 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2010 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+  #DIV/0! 
+W Increased ROE 2010 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2011 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2011 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0!   
+W 10.5 % ROE 2012 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+  #DIV/0! 
+W Increased ROE 2012 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2013 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2013 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2014 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0!  #DIV/0! 
+W Increased ROE 2014 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2015 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+  #DIV/0! 
+W Increased ROE 2015 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2016 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2016 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2017 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2017 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2018 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2018 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2019 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2019 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2020 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2020 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2021 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2021 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2022 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2022 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2023 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2023 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2024 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2024 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+W 10.5 % ROE 2025 
+                         
+-                      -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+ #DIV/0! 
+W Increased ROE 2025                    -                     -    
+                 
+-    
+                  
+-                      -    
+                 
+-    
+               
+-                      -                      -    
+                 
+-    
+#DIV/0! #DIV/0! 
+#DIV/0!   
+   ….    ….   …..   ….   ….   ….   …..   ….   ….   ….   …..   ….      $                    -    
+   ….   ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   ….    
+ $                          
+-      
+               #DIV/0! #DIV/0! 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 1 
+Old Dominion Electric Cooperative 
+      
+Attachment 8 - Company Exhibit - Securitization Workpaper 
+      
+      
+      
+      
+      
+      
+      
+      
+Line #      
+  Long Term Interest   
+101      Less LTD Interest on Securitization Bonds    
+      
+      
+  Capitalization   
+112        Less LTD on Securitization Bonds    
+      
+      
+  Calculation of the above Securitization Adjustments   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-3F - Old Dominion Electric 
+Cooperative 
+Effective Date: 1/1/2026 - Docket #: ER26-389-000 - Page 2 
+Old Dominion Electric Cooperative 
+Attachment 9 - Depreciation Rates 
+     
+     
+ (A) (B)  (C)   
+     
+   Applied  
+ Number Plant Type Depreciation Rate  
+     
+  Electric Transmission   
+ 350.2 Land and Land Rights 1.54% 1.08%  
+ 351.1 Computer Hardware 2.10% 5.88%  
+ 351.3 Communication Equipment 2.10% 6.06%  
+ 352 Structures and Improvements 2.00% 1.54%  
+ 353 Station Equipment 2.10% 2.16%  
+ 353.3 Static VAR Assets 4.00% 2.59%  
+ 355 Poles and Fixtures 3.68% 2.15%  
+ 356 Overhead Conductors and Devices 2.60% 2.09%  
+ 358 Underground Conductors and Devices 2.50% 1.13%  
+ 359 Roads and Trails 2.00% 0.55%  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-3G - Old Dominion 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 1 

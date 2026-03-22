@@ -1,0 +1,1331 @@
+[PART VII-TRANSITION CYCLE GENERATION INTERCONNECTION - Part 2 of 6]
+
+“Switching and Tagging Rules” shall mean the switching and tagging procedures of Transmission 
+Owners and Project Developer as they may be amended from time to time.  
+ 
+System Impact Study: 
+ 
+“System Impact Study” shall mean an assessment(s) by the Transmission Provider of (i) the 
+adequacy of the Transmission System to accommodate a New Service Request, (ii) whether any 
+additional costs may be incurred in order to provide such transmission service or to accommodate 
+a New Service Request, and (iii) an estimated date that the New Service Requests can be 
+interconnected with the Transmission System and an estimate of the cost responsibility for the 
+interconnection of the New Service Request; and (iv) with respect to an Upgrade Request, the 
+estimated cost of the requested system upgrades or expansion, or of the cost of the system upgrades 
+or expansion, necessary to provide the requested incremental rights. 
+ 
+System Protection Facilities: 
+ 
+“System Protection Facilities” shall refer to the equipment required to protect (i) the Transmission 
+System, other delivery systems and/or other generating systems connected to the Transmission 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions S 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 4 
+System from faults or other electrical disturbance occurring at or on the Generating Facility, and 
+(ii) the Generating Facility from faults or other electrical system disturbance occurring on the 
+Transmission System or on other delivery systems and/or other generating systems to which the 
+Transmission System is directly or indirectly connected.  System Protection Facilities shall include 
+such protective and regulating devices as are identified in the Applicable Technical Requirements 
+and Standards or that are required by Applicable Laws and Regulations or other Applicable 
+Standards, or as are otherwise necessary to protect personnel and equipment and to minimize 
+deleterious effects to the Transmission System arising from the Generating Facility. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions T 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 1 
+Tariff, Part VII, Subpart A, section 300 
+Definitions T 
+ 
+Transition Date: 
+ 
+“Transition Date” shall mean the later of:  (i) the effective date of Transmission Provider’s Docket 
+Nos. ER22-2110-000, -001 transition cycle filing seeking FERC acceptance of this Tariff, Part VII 
+or (ii) the date by which all AD2 and prior queue window Interconnection Service Agreements or 
+wholesale market participation agreements have been executed or filed unexecuted. 
+ 
+Transmission Facilities: 
+ 
+“Transmission Facilities” shall have the meaning set forth in the Operating Agreement. 
+ 
+Transmission Injection Rights: 
+ 
+“Transmission Injection Rights” shall mean Capacity Transmission Injection Rights and Energy 
+Transmission Injection Rights. 
+ 
+Transmission Interconnection Request: 
+ 
+“Transmission Interconnection Request” shall mean a request by a Transmission Interconnection 
+Project Developer pursuant to Tariff, Part VII, Subpart C, section 306(A)(4) to interconnect or add 
+Merchant Transmission Facilities to the Transmission System or to increase the capacity of 
+existing Merchant Transmission Facilities interconnected with the Transmission System in the 
+PJM Region. 
+ 
+Transmission Owner: 
+ 
+“Transmission Owner” shall mean a Member that owns or leases with rights equivalent to 
+ownership Transmission Facilities and is a signatory to the PJM Transmission Owners Agreement.  
+Taking transmission service shall not be sufficient to qualify a Member as a Transmission Owner.  
+  
+Transmission Owner Interconnection Facilities: 
+ 
+“Transmission Owner Interconnection Facilities” shall mean all Interconnection Facilities that are 
+not Project Developer Interconnection Facilities and that, after the transfer under GIA, Appendix 
+2, section 23.3.5 to the Transmission Owner of title to any Transmission Owner Interconnection 
+Facilities that the Project Developer constructed, are owned, controlled, operated and maintained 
+by the Transmission Owner on the Transmission Owner’s side of the Point of Change in 
+Ownership identified in appendices to the Generation Interconnection Agreement and if 
+applicable, the Construction Service Agreement, including any modifications, additions or 
+upgrades made to such facilities and equipment, that are necessary to physically and electrically 
+interconnect the Generating Facility with the Transmission System or interconnected distribution 
+facilities. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions T 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 2 
+Transmission Owner Upgrades: 
+ 
+“Transmission Owner Upgrades” shall mean Distribution Upgrades, Merchant Transmission 
+Upgrades, Network Upgrades and Stand-Alone Network Upgrades.  
+ 
+Transmission Project Developer: 
+ 
+“Transmission Project Developer” shall mean an entity that submits a request to interconnect or 
+add Merchant Transmission Facilities to the Transmission System or to increase the capacity of 
+Merchant Transmission Facilities interconnected with the Transmission System in the PJM 
+Region. 
+ 
+Transmission Provider: 
+ 
+The “Transmission Provider” shall be the Office of the Interconnection for all purposes, provided 
+that the Transmission Owners will have the responsibility for the following specified activities: 
+ 
+(a) The Office of the Interconnection shall direct the operation and coordinate the maintenance 
+of the Transmission System, except that the Transmission Owners will continue to direct the 
+operation and maintenance of those transmission facilities that are not listed in the PJM Designated 
+Facilities List contained in the PJM Manual on Transmission Operations; 
+ 
+(b) Each Transmission Owner shall physically operate and maintain all of the facilities that it 
+owns; and 
+ 
+(c) When studies conducted by the Office of the Interconnection indicate that enhancements 
+or modifications to the Transmission System are necessary, the Transmission Owners shall have 
+the responsibility, in accordance with the applicable terms of the Tariff, Operating Agreement 
+and/or the Consolidated Transmission Owners Agreement to construct, own, and finance the 
+needed facilities or enhancements or modifications to facilities. 
+ 
+Transmission Service: 
+ 
+“Transmission Service” shall mean Point-To-Point Transmission Service provided under Tariff, 
+Part II on a firm and non-firm basis. 
+ 
+Transmission System: 
+ 
+“Transmission System” shall mean the facilities controlled or operated by the Transmission 
+Provider within the PJM Region that are used to provide transmission service under Tariff, Part II 
+and Part III. 
+ 
+Transmission Withdrawal Rights: 
+ 
+“Transmission Withdrawal Rights” shall mean Firm Transmission Withdrawal Rights and Non-
+Firm Transmission Withdrawal Rights. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions T 
+Effective Date: 8/12/2025 - Docket #: ER25-3145-000 - Page 3 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions U 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart A, section 300 
+Definitions U 
+ 
+Upgrade Customer: 
+ 
+“Upgrade Customer” shall mean an entity that submits an Upgrade Request pursuant to Operating 
+Agreement, Schedule 1, section 7.8, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 7.8, or that submits an Upgrade Request for Merchant Network Upgrades 
+(including accelerating the construction of any transmission enhancement or expansion, other 
+than Merchant Transmission Facilities, that is included in the Regional Transmission Expansion 
+Plan prepared pursuant to Operating Agreement, Schedule 6). 
+ 
+Upgrade Request: 
+ 
+“Upgrade Request” shall mean a request submitted in the form prescribed in Tariff, Part IX, 
+Subpart K, for evaluation by the Transmission Provider of the feasibility and estimated costs of 
+(a) a Merchant Network Upgrade or (b) the Customer-Funded Upgrades that would be needed to 
+provide Incremental Auction Revenue Rights specified in a request pursuant to Operating 
+Agreement, Schedule 1, section 7.8, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 7.8.  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions V 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart A, section 300 
+Definitions V 
+ 
+Valid Upgrade Request: 
+ 
+“Valid Upgrade Request” shall mean an Upgrade Request that has been determined by 
+Transmission Provider to meet the requirements of Tariff, Part VII, Subpart C, section 306 
+(application requirements). 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 300 Definitions --> OATT 300 Definitions W 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart A, section 300 
+Definitions W 
+ 
+Wholesale Market Participation Agreement (“WMPA”): 
+ 
+“Wholesale Market Participation Agreement” (“WMPA”) shall mean the form of agreement 
+intended to allow a Project Developer to effectuate in wholesale sales in the PJM markets.  A 
+form of the WMPA is set forth in Tariff, Part IX, Subpart C. 
+ 
+Wholesale Transaction: 
+ 
+“Wholesale Transaction” shall mean any transaction involving the transmission or sale for resale 
+of electricity in interstate commerce that utilizes any portion of the Transmission System. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 301 Transition Introduction 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 1 
+Tariff, Part VII, Subpart A, section 301 
+Transition Introduction 
+ 
+A. Introduction  
+1. Transition Cycle Overview 
+Tariff, Part VII sets forth the procedures and other terms governing the 
+Transmission Provider’s administration of the transition to the new Cycle-process, 
+including: procedures and other terms regarding studies and other processing of 
+New Service Requests within the Transition Cycle; the nature and timing of the 
+agreements required within the Transition Cycle in connection with the studies 
+and construction of required facilities; and the terms and conditions relating to the 
+rights available to Project Developers and Eligible Customers in the Transition 
+Cycle.  For purposes of this Tariff, Part VII, the term Project Developer shall 
+include an Interconnection Customer as defined in Tariff, Part I. The Transition 
+Cycle shall be comprised of two separate Transition Cycles (Transition Cycle No. 
+1; and Transition Cycle No. 2), and shall include the processing of backlogged 
+New Service Requests received up to and including the AH1 queue. 
+ 
+2. Tariff, Part VII applies to: (1) any project for which the Project Developer, 
+Eligible Customer or Upgrade Customer has submitted a New Service Request 
+between April 1, 2018 and September 30, 2021, and for which, as of the 
+Transition Date, Transmission Provider has not tendered for execution an 
+Interconnection Service Agreement, Wholesale Market Participation Agreement 
+or Upgrade Construction Service Agreement; and (2) RRI Projects. 
+a. As of the Transition Date, valid AE1-AG1 projects that have not either 
+executed or received for execution a final Interconnection Service 
+Agreement or Wholesale Market Participation Agreement will have to 
+demonstrate readiness pursuant to Tariff, Part VII, Subpart A, section 
+301(A)(3)(b), in order to move forward in the interconnection transition 
+process. 
+i. As set forth in Tariff, Part VII, those projects that have 
+demonstrated readiness and met additional eligibility may be able 
+to advance using the Expedited Process. 
+b. Priority for projects in the Transition Cycle process is determined by the 
+specific Transition Cycle in which a project’s valid New Service Request 
+was assigned. 
+i. Transition Cycle No. 1 will include re-queued AE1, AE2, AF1, 
+AF2 and AG1 projects. 
+(a) Transition Cycle No. 1 will include: Phase I, Decision 
+Point I, Phase II, Decision Point II, Phase III, Decision 
+Point III, and the Final Agreement Negotiation Phase. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 301 Transition Introduction 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 2 
+(b) Phase III of Transition Cycle #1 will not start until after all 
+valid projects in the Expedited Process have executed their 
+relevant Generator Interconnection Agreement or 
+Wholesale Market Participation Agreement. 
+ii. Transition Cycle No. 2 will include re-queued AG2 and AH1 
+projects. 
+(a) Transition Cycle No. 2 will include: the Application 
+Review Phase, Phase I, Decision Point I, Phase II, Decision 
+Point II, Phase III, Decision Point III, and the Final 
+Agreement Negotiation Phase. 
+(b) The Phase I Base Case data release of Transition Cycle No. 
+2 will not start until after all Transition Cycle No. 1 
+Decision Point No. II activities have been completed.   
+(c) Phase II of Transition Cycle No. 2 will not start until after 
+all Transition Cycle No. 1 Decision Point No. III activities 
+have been completed.  
+(d) Phase III of Transition Cycle No. 2 will not start until after 
+all Transition Cycle No. 1 Final Agreement Negotiation 
+Phase activities have been completed. 
+3. Required Study Deposits and Readiness Deposits.  
+a. Study Deposits.  Pursuant to Tariff, Part VII, Subpart C, section 
+306(A)(5), each New Service Request must submit with its Application a 
+Study Deposit, the amount of which will be determined based upon the 
+MWs requested in such Application.  Ten percent of the Study Deposit is 
+non-refundable. Project Developer and Eligible Customers are responsible 
+for actual study costs, which may exceed the Study Deposit amount. 
+i. If any Study Deposit monies remain after all System Impact 
+Studies are completed and any outstanding monies owed by 
+Project Developer or Eligible Customer in connection with 
+outstanding invoices related to the present or prior New Service 
+Requests have been paid, such remaining deposit monies shall be 
+returned to the Project Developer or Eligible Customer at the 
+conclusion of the required studies for the New Service Request. 
+b. Readiness Deposits.  Readiness Deposits are funds committed by the 
+Project Developer or Eligible Customer based upon the MW size of the 
+project and, where applicable, the study results. 
+i. Readiness Deposits are due at the following Phases of a Cycle: 
+(a) Readiness Deposit No. 1: Application Submission 
+(b) Readiness Deposit No. 2: Decision Point I; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 301 Transition Introduction 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 3 
+(c) Readiness Deposit No. 3: Decision Point II 
+ii. Readiness Deposits No. 2 and/or No. 3 may equal an amount equal 
+to or greater than zero, but may never be a negative dollar amount. 
+iii. Readiness Deposit refunds will be handled as follows:  
+(a) If the project is withdrawn or terminated, the Readiness 
+Deposit refunds for the project will be determined by the 
+study phase at which the project was withdrawn or 
+terminated, and adverse study results tests, as set forth 
+below in Tariff, Part VII, Subpart D, section 311(B)(3)(c). 
+(b) When all Cycle New Service Requests have either entered 
+into final agreements and the Decision Point III Site 
+Control requirements have been met, or have been 
+withdrawn, remaining Readiness Deposit funds will be 
+dispositioned as follows: 
+(i) Transmission Provider will incorporate all project 
+withdraws and retool analysis results to provide a 
+final determination on the Network Upgrades that 
+are required for the Cycle. 
+(ii) Underfunded Network Upgrades will be identified 
+as those where one or more withdrawn New Service 
+Requests that were identified as having a cost 
+allocation in the Phase III analysis results.  In the 
+event that there are no underfunded Network 
+Upgrades, all Readiness Deposits will be refunded. 
+(iii) Readiness Deposits will be applied to underfunded 
+Network Upgrades on a pro-rata share of funds 
+missing from the Phase III cost allocation.  In the 
+event that all underfunded Network Upgrades are 
+made whole relative to the withdrawn New Service 
+Requests, remaining Readiness Deposits will be 
+refunded on a pro-rata share. 
+c. Study Deposits and Readiness Deposits are separate financial obligation, 
+and non-transferrable and cannot be commingled.  Under no 
+circumstances may refundable or non-refundable Study Deposit or 
+Readiness Deposit monies for a specific New Service Request be applied 
+in whole or in part to a different New Service Request. 
+4. If Project Developer is proposing a Generating Facility that will physically 
+connect to non-jurisdictional distribution or sub-transmission facilities for the 
+purpose of engaging in wholesale sales in the PJM markets, such Project 
+Developer must provide additional required information and documentation 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 301 Transition Introduction 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 4 
+associated with the non-jurisdictional arrangements, as set forth in Tariff, Part 
+VII, Subpart D, sections 309 and 312 and Tariff, Part IX, Subpart C. 
+5. A Project Developer or Eligible Customer cannot combine, swap or exchange all 
+or part of a New Service Request with any other New Service Request within the 
+same or a different Cycle. 
+6. Prior to entering into a final agreement from Tariff, Part IX, a Project Developer 
+or Eligible Customer may assign its New Service Request to another entity only if 
+the acquiring entity: 
+a. as applicable, accepts and acquires the rights to the same Point of 
+Interconnection and Point of Change of Ownership as identified in the 
+New Service Request for such project;  
+b. and/or as applicable, accepts, as applicable, the same receipt and delivery 
+points or the same source and sink points as stated in the New Service 
+Request for such project. 
+7. Additional Interconnection-Related Agreements.  In connection with 
+interconnection with the Transmission System pursuant to Tariff, Part VIII, 
+Project Developer may be required, or may elect, to enter into one or more of the 
+following interconnection-related agreements: 
+a. Cost Responsibility Agreement.  A Project Developer with an existing 
+generating facility that is not a party to an interconnection agreement with 
+Transmission Provider and the relevant Transmission Owner, that desires 
+to enter into a GIA with Transmission Provider and Transmission Owner, 
+shall be required to enter into a Cost Responsibility Agreement in the form 
+set forth in Tariff, Part IX, Subpart F.  The Cost Responsibility Agreement 
+provides the terms, conditions, Study Deposit, and cost responsibility for 
+Project Developer to pay Transmission Provider’s actual costs to perform 
+certain modeling, studies or analysis to determine whether the Project 
+Developer may enter into a GIA with Transmission Provider and 
+Transmission Owner. 
+b. Engineering and Procurement Agreement.  A Project Developer that 
+wishes to advance the implementation of its Interconnection Request 
+during Phase III of a Cycle may enter into an Engineering and 
+Procurement Agreement with Transmission Provider and Transmission 
+Owner, in the form set forth in Tariff, Part IX, Subpart D, to begin 
+engineering and procurement of long lead-time items necessary for the 
+establishment of the interconnection.  An Engineering and Procurement 
+Agreement is not intended to be used for the actual construction of any 
+Interconnection Facilities or Transmission Upgrades.  An Engineering and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 301 Transition Introduction 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 5 
+Procurement Agreement can only be requested by a Project Developer, 
+and can only be requested in Phase III.  
+c. Necessary Study Agreement.  A Project Developer that has entered into a 
+GIA that plans to undertake modifications pursuant to that GIA to its 
+Generating Facility or Merchant Transmission Facility shall be required to 
+enter into a Necessary Study Agreement with Transmission Provider in the 
+form set forth in Tariff, Part IX, Subpart G.  The Necessary Study 
+Agreement provides the terms, conditions, Study Deposit, and cost 
+responsibility for Project Developer to pay Transmission Provider’s actual 
+costs to perform the Necessary Study(ies) to determine: (a) the type and 
+scope of the permanent material impact, if any, the change will have on 
+the Transmission System; (b) the additions, modifications, or replacements 
+to the Transmission System required to accommodate the change; and (c) 
+a good faith estimate of the cost of the additions, modifications, or 
+replacements to the Transmission System required to accommodate the 
+change. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 302 Site Control 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 1 
+Tariff, Part VII, Subpart A, section 302 
+Site Control 
+ 
+A. Site Control Evidentiary Requirements 
+ 
+Site Control is evidence provided by the Project Developer to Transmission Provider in 
+relation to Project Developer’s New Service Request demonstrating Project Developer’s 
+interest in, control over, and right to utilize the Site for the purpose of constructing a 
+Generating Facility, Merchant Transmission Facilities, Interconnection Facilities, and, if 
+applicable, the Transmission Owner’s Interconnection Facilities and/or Network 
+Upgrades at the Point of Interconnection.  Specific Site Control phase requirements are 
+set forth in the following Tariff, Part VII, Subpart C, section 306, and Subpart D, sections 
+309 and 312. 
+1. Site Control consistent with the requirements herein is required for a project to 
+have a valid position within a Cycle.   
+2. Proof of Site Control can be in the form of one of the following:  (1) deed; (2) 
+lease; (3) option to lease or purchase; or (4) as deemed acceptable by the 
+Transmission Provider, any other contractual or legal right to possess, occupy and 
+control the Site.  
+a. Memorandums are not acceptable. 
+b. Documentation solely evidencing an intent to purchase or control the Site 
+is not acceptable. 
+c. Rights of Way are only acceptable for Project Developer Interconnection 
+Facilities up to the Point of Interconnection. 
+d. Notwithstanding the foregoing, for a New Service Request, all or a portion 
+of which requires the use of Sites owned or physically controlled by a 
+state and/or federal governmental entity, and authorization for such use is 
+subject to environmental and other state and/or federal governmental 
+permitting requirements, including 42 U.S.C. § 4331 et seq. and any 
+succeeding statutes, acceptable evidence of Site Control can be in any 
+form the governmental entity issues. For Decision Point I and Decision 
+Point III, Project Developers shall provide evidence that the Project 
+Developer is taking identifiable steps acceptable to the Transmission 
+Provider in furtherance of the issuance of such authorization by the state 
+and/or federal governmental entity, including documentation sufficiently 
+describing and explaining the source of and effects of such regulatory 
+requirements, including a description of any conditions that must be met in 
+order to satisfy the regulatory requirements and the anticipated time by 
+which the Project Developer expects to satisfy the regulatory 
+requirements. For Decision Point I and Decision Point III, Project 
+Developers shall also identify any additional property rights for the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 302 Site Control 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 2 
+portion of the Site that is not owned or physically controlled by a state 
+and/or federal governmental entity but which cannot be secured until the 
+regulatory requirements have been met and authorization has been 
+provided by the requisite state and/or federal governmental entity. 
+ 
+3. Demonstration of Site Control must include verification, to PJM’s satisfaction, 
+that the total feet or acreage (“acreage”) of the Site is adequate for the resource-
+specific technology and MWs requested for a proposed Generating Facility or 
+Merchant Transmission Facility, as set forth in the PJM Manuals. 
+a. The Project Developer must submit a Geographic Information System 
+(GIS) Site Plan map and data files acceptable to PJM demonstrating the 
+arrangement of the resource-specific proposed facilities for the amount of 
+MW requested.  
+b. Any GIS Site Plan map and data files submitted in accordance with this 
+section must be consistent with all other modeling data submitted in 
+connection with Project Developer’s New Service Request. 
+c. In the event of a disagreement between the Transmission Provider and the 
+Project Developer over whether the total acreage of the Site is fully 
+sufficient for the resource-specific technology and MWs requested for a 
+proposed Generating Facility or Merchant Transmission Facility, 
+Transmission Provider will accept a Professional Engineer (PE) stamped 
+site plan drawing (licensed in the state of the facility location) that depicts 
+the proposed generation arrangement and specifies the Maximum Facility 
+Output for that arrangement.  
+i. Failure to verify to Transmission Provider’s satisfaction that the 
+total acreage of the Site is adequate for the resource-specific 
+technology and MWs requested for a proposed Generating Facility 
+or Merchant Transmission Facility shall result in the New Service 
+Request being deemed terminated and withdrawn. 
+4. Site Control must be in the name of the Project Developer identified on the 
+corresponding New Service Request.  Otherwise, the Project Developer must 
+demonstrate to PJM’s satisfaction the relationship between the entity owning or 
+controlling the Site (“landowner” or “owner”) with Site Control and the Project 
+Developer identified on the New Service Request. 
+5. Project Developers are prohibited from submitting evidence of Site Control that 
+utilizes the same Site for multiple New Service Requests unless the total acreage 
+amount of such Site is adequate to support all such New Service Requests.  
+a. To the extent that multiple New Service Requests are submitted by a 
+Project Developer using the same Site Control evidence and the total 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 302 Site Control 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 3 
+acreage amount of such Site is not adequate to support all such New 
+Service Requests, all such New Service Requests shall be deemed 
+terminated and withdrawn. 
+b. To the extent that a Project Developer submits a New Service Request 
+with Site Control evidence utilizing the Site that is also the subject of Site 
+Control in New Service Requests submitted by other Project Developer’s, 
+such Project Developer shall include with its New Service Request 
+evidence, to Transmission Provider’s satisfaction, demonstrating that the 
+project referenced in the Project Developer’s New Service Request is 
+concurrently feasible with the development of any other projects that will 
+share the Site identified in the Site Control.  Such proof of concurrent 
+feasibility shall include:  
+i. Identification of any other New Service Requests that will share all 
+or a portion of the Site identified in the Site Control; and 
+ii. Identification of the proposed location and space utilization of all 
+projects that will share the Site, including acreage and boundaries 
+for all projects sharing the Site identified in the Site Control; and 
+iii. Any related technical information required by the Transmission 
+Provider to enable the Transmission Provider to determine that 
+development of the project referenced in the submitted New 
+Service Request is not inconsistent with development of any of the 
+other New Service Requests that will share all or a portion of the 
+same Site. 
+6. Multiple projects may share Project Developer Interconnection Facilities. A 
+shared facilities agreement is required if jointly owned common Interconnection 
+Facilities are proposed. 
+7. Project Developers are prohibited from submitting evidence of Site Control for 
+the Site which is also the subject of an interconnect request submitted in an 
+adjacent Regional Transmission Organization, Independent System Operator, or 
+other system. To the extent that Project Developers submit evidence of Site 
+Control for the Site which is also the subject of an interconnection request 
+submitted in an adjacent Regional Transmission Organization, Independent 
+System Operator, or other system, the relevant New Service Request submitted to 
+Transmission Provider shall be deemed terminated and withdrawn. 
+8. Site Control must demonstrate three key elements: conveyance, term, and 
+exclusivity: 
+a. Term 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT Part VII Subpart A 
+INTRODUCTION --> OATT Part VII.A 302 Site Control 
+Effective Date: 8/28/2024 - Docket #: ER24-2398-000 - Page 4 
+Term is the minimum duration required to evidence Site Control.  The 
+Term requirements vary, and are established in the following Tariff, Part 
+VII rules, at various points within a Cycle.  The Term cannot be satisfied 
+by an agreement with an initial term shorter than the requisite required 
+term that has extensions, including unilateral extensions, unless those 
+extensions have been exercised and any requisite conditions fulfilled, 
+including any payment obligations, by the Project Developer at the time 
+evidence of Site Control is provided to the Transmission Provider. 
+ 
+b. Exclusivity 
+With the exception of Tariff, Part VII, Subpart A, section 302(A)(5)(b), 
+exclusivity is evidenced by written acknowledgement from the landowner 
+provided to the Transmission Provider by the Project Developer as part of 
+the Site Control that, for the Term, the Project Developer has exclusive 
+use of the Site for the purpose of constructing a Generating Facility, 
+Merchant Transmission Facilities, Interconnection Facilities, and, if 
+applicable, the Transmission Owner’s Interconnection Facilities and/or 
+Network Upgrades, and the landowner cannot make the Site Control 
+identified for the Site available for purchase or lease, to any person or 
+entity other than the Project Developer for any purpose or use that will 
+interfere with the rights granted to Project Developer. 
+ 
+c. Conveyance 
+The Site Control evidence submitted by the Project Developer must 
+demonstrate that the subject Site is or will be conveyed to the Project 
+Developer, e.g., through a deed or an option to purchase or lease or other 
+form of property rights acceptable to PJM, or that the Project Developer is 
+guaranteed a right to future conveyance at Project Developer’s sole 
+discretion, e.g., through a deed or an option to purchase or lease or other 
+forms of property rights acceptable to PJM, consistent with the Site 
+Control Evidentiary Requirements provisions in Tariff, Part VII, Subpart 
+C, section 302(A)(2), above. 
+9. At each point within a Cycle where a Project Developer is required to provide Site 
+Control, the Project Developer shall also provide Site Control certification in a 
+form set forth in PJM Manual 14H, executed by an officer or authorized 
+representative of Project Developer, verifying that the Site Control requirements 
+are met.  At PJM’s request, Project Developer shall provide copies of landowner 
+attestations, county recordings, or other similar documentation acceptable to PJM 
+to validate such Site Control certifications. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart B AE1-
+AG1 TRANSITION CYCLE #1 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart B 
+AE1-AG1 TRANSITION CYCLE # 1 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart B AE1-
+AG1 TRANSITION CYCLE #1 --> OATT Part VII.B 303 Transition Eligibility 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart B, section 303 
+Transition Eligibility 
+ 
+A. Transition Eligibility 
+ 
+Within 60 calendar days of the Transition Date, a Project Developer that submitted a 
+valid Interconnection Request to Transmission Provider during the period April 1, 2018 
+through September 30, 2020 (the AE1 through AG1 New Services Queues) and who has 
+not been tendered an Interconnection Service Agreement or Wholesale Market 
+Participation Agreement under Tariff, Part VI, and whose New Service Request has not 
+been withdrawn, shall: 
+ 
+1. Remit to and have received by Transmission Provider a Readiness Deposit of 
+$4,000/MW.  Such payment shall be by wire transfer or posting of a letter of 
+credit, and shall not be at-risk prior to the end of Decision Point I.  Any Readiness 
+Deposit provided, in whatever form, shall include the Project Identifier, 
+conspicuously marked  Such Readiness Deposit shall be at-risk at the end of 
+Decision Point I as set forth in Tariff, Part VII, Subpart D, section 309; and 
+ 
+2. Demonstrate Site Control over the Site for the purpose of constructing a 
+Generating Facility or Merchant Transmission Facility through a deed, lease, or 
+option for 100 percent of the Generation Facility Site including the location of the 
+high-voltage side of the Generating Facility’s main power transformer(s) for at 
+least a one-year term beginning from the Transition Date, consistent with the 
+requirements of Tariff, Part VII, Subpart B, section 302.  
+ 
+3. In the event the Project Developer fails to satisfy the requirements of subsections 
+303(A)(1) and (2) above, its New Service Request shall be deemed terminated 
+and withdrawn.  The New Service Request of a Project Developer that satisfies 
+that the requirements of subsections 303(A)(1) and (2) above shall maintain its 
+existing priority.  
+ 
+4. If the Transition Date does not fall on a Business Day, this time period shall 
+conclude on the next Business Day.   
+ 
+No changes or modifications to a New Service Request will be permitted after the effective date 
+of the Transition Cycle Filing, other than as otherwise permitted by this Tariff, Part VII. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart B AE1-
+AG1 TRANSITION CYCLE #1 --> OATT Part VII.B 304 AE1-AG1 Expedited Process Eligibility 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart B, section 304 
+AE1-AG1 Expedited Process Eligibility 
+ 
+A. Expedited Process Eligibility 
+1. Project Developers who have met the requirements of Tariff, Part VII, Subpart B, 
+section 303, shall be subject to an additional restudy to determine shared network 
+upgrades impacts.  Projects will be studied on the base case model that was used 
+for their System Impact Study analysis prior to the effective date of the Transition 
+Cycle Filing.  A Project is not eligible for the expedited process if it has cost 
+allocation eligibility or is identified as the first to cause, as determined according 
+to Tariff, Part VI, section 217.3, for a Network Upgrade which has a total 
+estimated cost of greater than $5,000,000. Such cost estimate will be based on 
+Transmission Provider’s most recently available data.  
+All other Projects will be eligible for the expedited procedures set forth in Tariff, 
+Part VII, Subpart B, section 304(B).  A New Service Request that does not satisfy 
+the expedited process eligibility criteria shall be reprioritized to Transition Cycle 
+#1.  The cost associated with the following factors shall not be considered as part 
+of this analysis: (a) costs associated with Interconnection Facilities required to 
+interconnect the Project Developer’s New Service Request; and (b) the costs 
+associated with approved baseline or supplemental projects as determined in 
+accordance with the Regional Transmission Expansion Plan.  Affected System 
+impacts will also not be considered as part of this restudy.  Transmission Provider 
+shall post the results of this restudy on Transmission Provider’s public web site. 
+2. Valid Upgrade Requests previously submitted in the AE1-AG1 queues will be 
+eligible for the expedited process and are not subject to any additional readiness 
+requirements. 
+B. Expedited Process Rules 
+Projects that have been determined to be eligible as set forth in Tariff, Part VII, Subpart 
+B, section 304(A), will be allowed to enter the expedited process as follows: 
+- The cost of Interconnection Facilities is not considered when determining a 
+project’s eligibility for the expedited process; 
+- No additional Readiness Deposits or other readiness requirements will apply to 
+expedited process projects; 
+- If a project is an uprate (project relies on the Interconnection Facilities of a prior 
+project) whose base project does not qualify for the expedited process, the uprate 
+also will not qualify for the expedited process, regardless of analysis results; 
+- If stability analysis or a sag study is completed during the expedited process, and 
+it is determined that a project has an estimated Network Upgrade cost greater than 
+$5,000,000, the project will be removed from the expedited process and shifted to 
+Transition Cycle #1  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart B AE1-
+AG1 TRANSITION CYCLE #1 --> OATT Part VII.B 304 AE1-AG1 Expedited Process Eligibility 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+- If it is determined during the Facilities Study that the cost of a Network Upgrade 
+is now estimated to be greater than $5,000,000, the project will be removed from 
+the expedited process and shifted to Transition Cycle #1. 
+Projects that enter the expedited process will have their Facilities Studies completed, and 
+will be tendered an interconnection-related service agreement pursuant to Tariff, Part IX, 
+pursuant to the following cost allocation rules. 
+Applicant is responsible for, and must pay, all actual study costs.  If Transmission 
+Provider sends Applicant notification of additional study costs, then Applicant must 
+either: (i) pay all additional study costs within 20 Business Days of Transmission 
+Provider sending the notification of such additional study costs or (ii) withdraw its New 
+Service Request.  If Applicant fails to complete either (i) or (ii), then Transmission 
+Provider shall deem the New Service Request to be terminated and withdrawn. 
+1. Cost Responsibility for Necessary Facilities and Upgrades: 
+a. General:  Each Project Developer shall be obligated to pay for 100 percent 
+of the costs of the minimum amount of Network Upgrades necessary to 
+accommodate its New Service Request and that would not have been 
+incurred under the Regional Transmission Expansion Plan but for such 
+New Service Request, net of benefits resulting from the construction of the 
+upgrades, such costs not to be less than zero.  Such costs and benefits shall 
+include costs and benefits such as those associated with accelerating, 
+deferring, or eliminating the construction of Network Upgrades included 
+in the Regional Transmission Expansion Plan either for reliability, or to 
+relieve one or more transmission constraints and which, in the judgment of 
+the Transmission Provider, are economically justified; the construction of 
+Network Upgrades resulting from modifications to the Regional 
+Transmission Expansion Plan to accommodate the New Service Request; 
+or the construction of Supplemental Projects. 
+b. Cost Responsibility for Accelerating Network Upgrades included in the 
+Regional Transmission Expansion Plan:  Where the New Service Request 
+calls for accelerating the construction of Network Upgrades that is 
+included in the Regional Transmission Expansion Plan and provided that 
+the party(ies) with responsibility for such construction can accomplish 
+such an acceleration, the Project Developer shall pay all costs that would 
+not have been incurred under the Regional Transmission Expansion Plan 
+but for the acceleration of the construction of the upgrade.  The 
+Responsible Customer(s) designated pursuant to Tariff, Schedule 12 as 
+having cost responsibility for such Network Upgrade shall be responsible 
+for payment of only those costs that the Responsible Customer(s) would 
+have incurred under the Regional Transmission Expansion Plan in the 
+absence of the New Service Request to accelerate the construction of the 
+Network Upgrade. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart B AE1-
+AG1 TRANSITION CYCLE #1 --> OATT Part VII.B 304 AE1-AG1 Expedited Process Eligibility 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 3 
+C. Rules for Transition Cycle #1 Projects 
+1. The procedures and other terms governing the Transmission Provider’s 
+administration of the studies required under the Transition Cycle #1 Phase 
+process, and the nature and timing of such studies, are set forth below. 
+ 
+2. AE1-AG1 Projects that have cost allocation eligibility for a Network Upgrade of 
+greater than $5,000,000 as set forth in Tariff, Part VII, Subpart B, section 304(A), 
+will be processed in Transition Cycle #1 cycle process. 
+ 
+a. Transition Cycle #1 will start after Transmission Provider completes the 
+eligibility review for the Expedited Process and no later than one year 
+from the Transition Date defined in Tariff, Part VII, Subpart A, section 
+300.  Transition Cycle #1 will run simultaneously with the expedited 
+process, however Transition Cycle #1, Phase III will not begin until all 
+expedited process projects have been completed. 
+ 
+b. System Impact Studies 
+i. Introduction 
+(a) The Cycle process for Transition Cycle #1 includes three 
+study Phases and three Decision Points: 
+ 
+(i) Phase I System Impact Study and Decision Point I; 
+and 
+ 
+(ii) Phase II System Impact Study and Decision Point 
+II; and 
+ 
+(iii) Phase III System Impact Study and Decision Point 
+III 
+ 
+There is no Application Review Phase for Transition Cycle 
+#1.   
+ 
+c. Applicant is responsible for, and must pay, all actual study costs.  If 
+Transmission Provider sends Applicant notification of additional study 
+costs, then Applicant must either: (i) pay all additional study costs within 
+20 Business Days of Transmission Provider sending the notification of 
+such additional study costs or (ii) withdraw its New Service Request.  If 
+Applicant fails to complete either (i) or (ii), then Transmission Provider 
+shall deem the New Service Request to be terminated and withdrawn. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+Tariff, Part VII, Subpart C  
+AG2-AH1 TRANSITION CYCLE #2 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 305 Introduction, Overview and Eligibility 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 1 
+Tariff, Part VII, Subpart C, section 305 
+Introduction, Overview and Eligibility 
+ 
+A. Introduction and Overview of Transition Cycle #2 (AG2 through AH1 projects) 
+1. AG2-AH1 Transition Cycle #2  
+Tariff, Part VII, Subpart C, section 305(A) applies to AG2 through AH1 projects 
+in Transition Cycle #2, and sets forth the procedures and other terms governing 
+the Transmission Provider’s administration of the AG2 through AH1 Transition 
+Cycle #2 approach; procedures and other terms regarding studies and other 
+processing of New Service Requests; the nature and timing of the agreements 
+required in connection with the studies and construction of required facilities; and 
+terms and conditions relating to the rights available to New Service Customers.  
+ 
+2. To move forward in Transition Cycle #2, each Project Developer or Eligible 
+Customer with valid projects in AG2 through AH1 must submit the Application 
+and Studies Agreement in the form set forth in Tariff, Attachment IX and submit 
+the required Study Deposit amounts and a Readiness Payment, as set forth below 
+in Tariff, Part VII, Subpart C, section 306, Application Rules.  The following 
+restrictions apply to the Application and Studies Agreement to be submitted by the 
+Project Developer or Eligible Customer:   
+a. the fuel type may not change from that which was previously submitted for 
+the valid projects in AG2 through AH1; and 
+b. Maximum Facility Output and/or Capacity Interconnection Rights values 
+shall not increase but may be reduced up to 100 percent from that which 
+was previously submitted for the valid projects in AG2 through AH1; and 
+c. the Project Developer must choose between the primary or secondary Point 
+of Interconnection as previously identified in its New Service Request from 
+that which was previously submitted for the valid projects in AG2 through 
+AH1; and 
+d. Eligible Customer transmission capacity requested for each Point of 
+Receipt and each Point of Delivery on the Transmission System shall not 
+increase but may be reduced up to 100 percent from that which was 
+previously submitted for the valid projects in AG2 through AH1. 
+i. Each valid New Service Request from AG2-AH1 shall be assigned 
+to AG2-AH1 Transition Cycle #2.  Phase I of AG2-AH1 
+Transition Cycle #2 will only start after: (i) all Application Review 
+period activities have been completed for that Cycle; and (ii) the 
+Phase I Base Case data has been made available for a 30 day 
+review during the Application Phase of that Cycle; and (iii) 
+Decision Point II of Transition Cycle #1 has concluded. Phase II of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 305 Introduction, Overview and Eligibility 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 2 
+AG2-AH1 Transition Cycle #2 will only start after all Decision 
+Point III determinations have concluded in Transition Cycle #1.  
+Phase III of AG2-AH1 Transition Cycle #2 will only start after the 
+Final Agreement Negotiation Phase of Transition Cycle #1 has 
+concluded (with all New Service Requests within Transition Cycle 
+#1 either being withdrawn or resulting in a fully executed Tariff, 
+Part IX service agreement). 
+3. To move forward in Transition Cycle #2, each Upgrade Customer with valid 
+projects in AG2-AH1 must submit revised technical data and/or configuration 
+information, and updates other requirements for its Upgrade Request, and submit 
+the required Study Deposit amounts, as set forth in Tariff, Part VII, Subpart H, 
+section 337, Upgrade Requests.  
+a. Each valid Upgrade Request from AG2-AH1 shall maintain its existing 
+priority upon successful resubmission under Tariff, Part VII, Subpart C, 
+section 306, Application Rules within 60 days of the Transition Date.  
+Such existing priority shall be subsequent to valid AG1 and prior Upgrade 
+Requests.   
+b. A valid Upgrade Request will be processed in accordance with Tariff, Part 
+VII, Subpart H, section 337, Upgrade Requests.  
+B. Introduction and Overview of Transition Cycle #2 (RRI Projects) 
+ 
+1. RRI Projects, Transition Cycle #2  
+ 
+Tariff, Part VII, Subpart C, section 305(B) applies to any Generation Project 
+Developer who submits an Application and Studies Agreement for an RRI Project 
+as set forth in Tariff, Part VII, Subpart C, section 306(E) to participate in 
+Transition Cycle #2, and sets forth the procedures and other terms governing the 
+Transmission Provider’s administration of RRI Projects in Transition Cycle #2; 
+procedures and other terms regarding studies and other processing of Generation 
+Interconnection Requests; the nature and timing of the agreements required in 
+connection with the studies and construction of required facilities; and terms and 
+conditions relating to the rights available to Generation Project Developers.  
+Projects subject to the State Agreement Approach set forth in Operating 
+Agreement, Schedule 6, section 1.5.9 are not eligible to participate in Transition 
+Cycle #2 under this Tariff, Part VII, Subpart C, section 305(B).  
+ 
+2. To move forward with an RRI Project in Transition Cycle #2, each Project 
+Developer must submit: (a) a Completed New Service Request; (b) the required 
+Study Deposit and Readiness Deposit, as set forth in Tariff, Part VII, Subpart C, 
+section 306(A)(5), except that the Study Deposit and Readiness Deposit, less 
+actual costs, shall be refundable if the project is not selected as an RRI Project; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 305 Introduction, Overview and Eligibility 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 3 
+and (c) the required RRI Deposit as set forth in Tariff, Part VII, Subpart C, section 
+306(E)(1)(a).  Once the project is accepted as an RRI Project, the Study Deposit 
+and Readiness Deposit shall include a non-refundable portion as specified in 
+Tariff, Part VII, Subpart C, section 306(A)(5). 
+ 
+3. The provisions of this Tariff, Part VII, Subpart C, section 305(B) and Tariff, Part 
+VII, Subpart C, sections 306(E)(1) through (4) shall sunset and no longer apply as 
+of the RRI Sunset Date. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 1 
+Tariff, Part VII, Subpart C, section 306 
+Application Rules 
+ 
+A. Application Submission 
+ 
+A Project Developer or Eligible Customer (collectively, “Applicant”) that seeks to initiate 
+a New Service Request must submit the following information to the Transmission 
+Provider: (i) a Project Developer Applicant electronically submits through the PJM web 
+site, an Application and Studies Agreement (“Application”), a form of which is provided 
+in Tariff, Part IX, Subpart A, (ii) an Eligible Customer Applicant executes a Transmission 
+Provider tendered Application, a form of which is provided in Tariff, Part IX, Subpart A, 
+following the procedures outlined in Tariff, Parts II and III as applicable. 
+ 
+To be considered in a Cycle, Applicant must submit a completed and signed 
+Application, including the required Study Deposit and Readiness Deposit, to 
+Transmission Provider prior to the Cycle’s Application Deadline.  Except with regard to 
+Generation Interconnection Requests subject to Tariff, Part VII, Subpart C, section 
+305(B), Transmission Provider will post a firm Application Deadline for a Cycle at the 
+beginning of Phase II of the immediately prior Cycle, no less than 180 days in advance of 
+the Application Deadline.  Only Completed New Service Requests received from Project 
+Developers by the Application Deadline will be considered for the corresponding Cycle.  
+Only Completed Applications received from Eligible Customers by the Application 
+Deadline will be considered for the corresponding Cycle. Completed New Service 
+Requests and Completed Applications shall be assigned a tentative Project Identifier.  
+Transmission Provider will review and validate New Service Requests and the Project 
+Identifier during the Application Phase, prior to Phase I of the corresponding Cycle.  
+Only valid New Service Requests will proceed past the Application Phase. 
+ 
+1. Generation Interconnection Request Requirements 
+ 
+For Transmission Provider to consider an Application for a Generation 
+Interconnection Request complete, Applicant must include at a minimum each of 
+the following, as further described in the Application and PJM Manuals: 
+ 
+a. Provide all Applicant information required in the Application, including 
+parent company information and banking and wire transfer information. 
+ 
+b. Specify the location of the proposed Point of Interconnection to the 
+Transmission System, including the substation name or the name of the 
+line to be tapped (including the voltage), the estimated distance from the 
+substation endpoints of a line tap, address, and GPS coordinates. 
+ 
+c. Provide information about the Generating Facility project, including 
+whether it is (1) a proposed new Generating Facility, (2) an increase in 
+capability of an existing Generating Facility, or (3) the replacement of an 
+existing Generating Facility. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 2 
+ 
+d. Indicate the type of Interconnection Service requested, whether (1) Energy 
+Resource only or (2) Capacity Resource (includes Energy Resource) with 
+Capacity Interconnection Rights. 
+ 
+e. Specify the project location and provide a detailed site plan. 
+ 
+f. Submit required evidence of Generating Facility Site Control (including 
+the location of the main step-up transformer), including a certification by 
+an officer or authorized representative of Applicant; and, at Transmission 
+Provider’s request, copies of landowner attestations or county recordings. 
+ 
+g. Provide information about Qualifying Facility status under the Public 
+Utility Regulatory Policies Act, as applicable. 
+ 
+h. Submit required information and documentation if the Generating Facility 
+will share Applicant’s Interconnection Facilities with another Generating 
+Facility. 
+ 
+i. For a new Generating Facility, specify requested Maximum Facility 
+Output and Capacity Interconnection Rights. 
+ 
+j. For a requested increase in generation capability of an existing Generating 
+Facility, specify the existing Maximum Facility Output and Capacity 
+Interconnection Rights, and requested increases. 
+ 
+k. Provide a detailed description of the equipment configuration and 
+electrical design specifications for the Generating Facility. 
+ 
+l. Specify the fuel type for the Generating Facility; or, in the case of a multi-
+fuel Generating Facility, the fuel types. 
+ 
+m. For a multi-fuel Generating Facility, provide a detailed description of the 
+physical and electrical configuration. 
+ 
+n. If the Generating Facility will include a storage component, provide 
+detailed information about (1) whether and how the storage device(s) will 
+charge using energy from the Transmission System, (2) the primary 
+frequency response operating range for the storage device(s), (3) the MWh 
+stockpile, and (4) the hour class, as applicable. 
+ 
+o. Specify the proposed date that the project or uprate associated with the 
+Application will be in service. 
+ 
+p. Provide other relevant information, including whether Applicant or an 
+affiliate has submitted a previous Application for the Generating Facility; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 3 
+and, if an increase in generation capability, information about existing 
+PJM Service Agreements and associated Queue Position Nos. or Project 
+Identifier Nos. 
+ 
+2. Behind the Meter Generator Application Requirements 
+ 
+In addition to the above requirements for a Generating Facility, in order for 
+Transmission Provider to consider an Application for behind-the-meter generation 
+Interconnection Service complete, Applicant must include at a minimum each of 
+the following, as further described in the Application and PJM Manuals: 
+ 
+a. Specify gross output, behind the meter load, requested Maximum Facility 
+Output, and requested Capacity Interconnection Rights. 
+ 
+b. For a requested increase in generation capability of an existing Behind the 
+Meter Generating Facility, specify existing and requested increase in gross 
+output, behind the meter load, Maximum Facility Output, and Capacity 
+Interconnection Rights. 
+ 
+3. Long Term Firm Transmission Service Application Requirements 
+ 
+For Transmission Provider to consider an Application for Long Term Firm 
+Transmission Service complete, Applicant must include at a minimum each of the 
+following, as further described in the Application and PJM Manuals: 
+ 
+a. Provide all Applicant information required in the Application, including 
+parent company information and banking and wire transfer information. 
+ 
+b. Specify the locations of the Point(s) of Receipt and Point(s) of Delivery. 
+ 
+c. Specify the requested Service Commencement Date and term of service. 
+ 
+d. Specify the transmission capacity requested for each Point of Receipt and 
+each Point of Delivery on the Transmission System. 
+ 
+4. Merchant Transmission Application Requirements 
+ 
+For Transmission Provider to consider an Application for a Transmission 
+Interconnection Request complete, Applicant must include at a minimum each of 
+the following, as further described in the Application and PJM Manuals: 
+ 
+a. Provide all Applicant information required in the Application, including 
+parent company information and banking and wire transfer information. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 4 
+b. Specify the location of the proposed facilities, and the name and 
+description of the substation where Applicant proposes to interconnect or 
+add its facilities. 
+ 
+c. Specify the proposed voltage and nominal capability of new facilities or 
+increase in capability of existing facilities. 
+ 
+d. Provide a detailed description of the equipment configuration and 
+electrical design specifications for the project. 
+ 
+e. Specify the proposed date that the project or increase in capability will be 
+in service. 
+ 
+f. Specify whether the proposed facilities will be either (1) merchant A.C., 
+(2) Merchant D.C. Transmission Facilities, or (3) Controllable A.C. 
+Merchant Transmission Facilities. 
+ 
+g. If Merchant D.C. Transmission Facilities or Controllable A.C. Merchant 
+Transmission Facilities, specify whether Applicant elects to receive (1) 
+Firm or Non-Firm Transmission Injection Rights (TIR) and/or Firm or 
+Non-Firm Transmission Withdrawal Rights (TWR) or (2) Incremental 
+Delivery Rights, Incremental Auction Revenue Rights, and/or Incremental 
+Capacity Transfer Rights. 
+ 
+i. If Applicant elects to receive TIRs or TWRs, specify (1) total 
+project MWs to be evaluated as Firm (capacity) injection for TIR; 
+(2) total project MWs to be evaluated as Non-firm (energy) 
+injection for TIR; (3) total project MWs to be evaluated as Firm 
+(capacity) withdrawal for TWR; and (4) total project MWs to be 
+evaluated as Non-firm (energy) withdrawal for TWR. 
+ 
+ii. If Applicant elects to receive Incremental Delivery Rights, specify 
+the location on the Transmission System where it proposes to 
+receive Incremental Delivery Rights associated with its proposed 
+facilities. 
+ 
+h. If the proposed facilities will be Controllable A.C. Merchant Transmission 
+Facilities, and provided that Applicant contractually binds itself in its 
+interconnection-related service agreement always to operate its 
+Controllable A.C. Merchant Transmission Facilities in a manner 
+effectively the same as operation of D.C. transmission facilities, the 
+interconnection-related service agreement will provide Applicant with the 
+same types of transmission rights that are available under the Tariff for 
+Merchant D.C. Transmission Facilities.  In the Application, Applicant 
+shall represent that, should it execute an interconnection-related service 
+agreement for its project described in the Application, it will agree in the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 5 
+interconnection-related service agreement to operate its facilities 
+continuously in a controllable mode. 
+ 
+i. Specify the site where Applicant intends to install its major equipment, 
+and provide a detailed site plan. 
+ 
+j. Submit required evidence of Site Control for the major equipment, 
+including a certification by an officer or authorized representative of 
+Applicant; and, at Transmission Provider’s request, copies of landowner 
+attestations or county recordings. 
+ 
+k. Provide evidence acceptable to Transmission Provider that Applicant has 
+submitted a valid interconnection request with the adjacent Control 
+Area(s) in which it is interconnecting, as applicable.  Applicant shall 
+maintain its queue position(s) with such adjacent Control Area(s) 
+throughout the entire PJM Transmission Interconnection Request process 
+for the relevant PJM Transmission Interconnection Request.  If Applicant 
+fails to maintain its queue position(s) with such adjacent Control Area(s) 
+throughout the entire PJM Transmission Interconnection Request process 
+for the relevant PJM Transmission Interconnection Request, the relevant 
+PJM Transmission Interconnection Request shall be deemed to be 
+terminated and withdrawn. 
+ 
+5. Additional Requirements Applicable to All Applications 
+ 
+a. Study Deposit:  For Transmission Provider to consider an Application 
+complete, Transmission Provider must receive from the Applicant the 
+required Study Deposit by wire transfer, the amount of which is based on 
+the size of the project as described below.  Applicant’s wire transfer must 
+specify the Application reference number to which the Study Deposit 
+corresponds, or Transmission Provider will not review or process the 
+Application. 
+ 
+i. Ten percent of the Study Deposit is non-refundable.  If Applicant 
+withdraws its New Service Request, or the New Service Request is 
+otherwise deemed rejected or terminated and withdrawn, any 
+unused portion of the non-refundable deposit monies shall be used 
+to fund: 
+ 
+(a) Any outstanding monies owed by Applicant in connection 
+with outstanding invoices due to Transmission Provider, 
+Transmission Owner(s), and/or third party contractors, as 
+applicable, as a result of any failure of Applicant to pay 
+actual costs associated with the New Service Request; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 6 
+(b) Any restudies required as a result of the rejection, 
+termination, and/or withdrawal of such New Service 
+Request; and/or 
+ 
+(c) Any outstanding monies owed by Applicant in connection 
+with outstanding invoices related to other New Service 
+Requests. 
+ 
+ii. 90 percent of the Study Deposit is refundable, and Transmission 
+Provider shall utilize, in no particular order, the refundable portion 
+of each total deposit amount to cover the following: 
+ 
+(a) The cost of the Application review;  
+ 
+(b) The dollar amount of Applicant’s cost responsibility for the 
+System Impact Study; and 
+ 
+(c) If the New Service Request is modified, rejected, 
+terminated, and/or withdrawn, refundable deposit money 
+shall be applied to cover all of the costs incurred by 
+Transmission Provider up to the point of the New Service 
+Request being modified, rejected, terminated and/or 
+withdrawn, and any remaining refundable deposit monies 
+shall be applied to cover: 
+ 
+(i) The costs of any restudies required as a result of the 
+modification, rejection, termination, and/or 
+withdrawal of the New Service Request; 
+ 
+(ii) Any outstanding monies owed by Applicant in 
+connection with outstanding invoices due to 
+Transmission Provider, Transmission Owner(s), 
+and/or third party contractors, as applicable, as a 
+result of any failure of Applicant to pay actual costs 
+associated with the New Service Request; and/or 
+ 
+(iii) Any outstanding monies owed by Applicant in 
+connection with outstanding invoices related to 
+other New Service Requests. 
+ 
+(d) If any refundable deposit monies remain after all costs and 
+outstanding monies owed, as described in this section, are 
+covered, such remaining refundable deposit monies shall be 
+returned to Applicant in accordance with the PJM Manuals. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 7 
+iii. The Study Deposit is non-binding, and actual study costs may 
+exceed the Study Deposit. 
+ 
+(a) Applicant is responsible for, and must pay, all actual study 
+costs. 
+ 
+(b) If Transmission Provider sends Applicant notification of 
+additional study costs, then Applicant must either: (i) pay all 
+additional study costs within 20 Business Days of 
+Transmission Provider sending the notification of such 
+additional study costs or (ii) withdraw its New Service 
+Request.  If Applicant fails to complete either (i) or (ii), then 
+Transmission Provider shall deem the New Service Request 
+to be terminated and withdrawn. 
+ 
+iv. The Study Deposit shall be calculated as follows, based on the 
+number of MW energy (e.g., Maximum Facility Output) or MW 
+capacity (e.g., Capacity Interconnection Rights), whichever is 
+greater: 
+ 
+(a) Up to 20 MW:  $75,000; 
+ 
+(b) Over 20 MW up to 50 MW:  $200,000; 
+ 
+(c) Over 50 MW up to 100 MW:  $250,000; 
+ 
+(d) Over 100 MW up to 250 MW:  $300,000; 
+ 
+(e) Over 250 MW up to 750 MW:  $350,000; and 
+ 
+(f) Over 750 MW:  $400,000. 
+ 
+b. Readiness Deposit:  For Transmission Provider to consider an Application 
+complete, Applicant must submit to Transmission Provider the required 
+Readiness Deposit by wire transfer or letter of credit.  Applicant’s wire 
+transfer or letter of credit must specify the Application reference number 
+to which the Readiness Deposit corresponds, or Transmission Provider 
+will not review or process the Application.  Readiness Deposit No. 1 shall 
+be an amount equal to $4,000 per MW energy (e.g., Maximum Facility 
+Output) or per MW capacity (e.g., Capacity Interconnection Rights), 
+whichever is greater, as specified in the Application. 
+ 
+B. Application Review Phase  
+ 
+1. After the close of the Application Deadline, Transmission Provider will begin the 
+Application Review Phase, wherein Transmission Provider reviews Applications 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 8 
+received from Project Developers for completeness and then establishes the 
+validity of such submitted Applications, beginning with a deficiency review, as 
+follows: 
+ 
+a. Transmission Provider will exercise Reasonable Efforts to inform 
+Applicant of Application deficiencies within 15 Business Days after the 
+Application Deadline. 
+ 
+b. Applicant then has 10 Business Days to respond to Transmission 
+Provider’s deficiency determination. 
+ 
+c. Transmission Provider then will exercise Reasonable Efforts to review 
+Applicant’s response within 15 Business Days, and then will either 
+validate or reject the Application. 
+ 
+2. After the close of the Application Deadline, Transmission Provider will begin the 
+Application Review Phase, wherein Transmission Provider reviews Applications 
+received from Eligible Customers for completeness and then establishes the 
+validity of such submitted Applications. 
+ 
+3. Transmission Provider will only review an Application during the Application 
+Review Phase following the Application Deadline for which the Application was 
+submitted and deemed complete, which will extend for 90 days or the amount of 
+time it takes to complete all Application review activities for the relevant Cycle, 
+whichever is greater. 
+ 
+4. During the Application Review Phase, and at least 30 days prior to initiating 
+Phase I of the Cycle, Transmission Provider will post the Phase I Base Case data 
+for review, subject to CEII protocols. 
+ 
+5. In the case of an Application for a Generating Facility, the Application Review 
+Phase will include a Site Control review for the Generating Facility.  Specifically, 
+Applicant shall provide Site Control evidence, as set forth in Tariff, Part VII, 
+Subpart A, section 302, for at least a one-year term beginning from the 
+Application Deadline, for 100 percent of the Generating Facility Site including 
+the location of the high-voltage side of the Generating Facility’s main power 
+transformer(s).  In addition, Applicant shall provide a certification, executed by an 
+officer or authorized representative of Applicant, verifying that the Site Control 
+requirement is met.  Further, at Transmission Provider’s request, Applicant shall 
+provide copies of landowner attestations or county recordings.  The Site Control 
+requirement in the Application includes an acreage requirement for the 
+Generating Facility, as set forth in the PJM Manuals. 
+ 
+6. In the case of an Application for Merchant Transmission, the Application Review 
+Phase will include a Site Control review for the Site of the HVDC converter 
+station(s), phase angle regulator (PAR), and/or variable frequency transformer, as 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT VII. TRANSITION CYCLE  GENERATION INTERCONNECTION PROC --> OATT VII Subpart C AG2-
+AH1 TRANSITION CYCLE #2 --> OATT Part VII.C 306 Application Rules 
+Effective Date: 12/14/2024 - Docket #: ER25-712-000 - Page 9 
+applicable.  Specifically, Applicant shall provide Site Control evidence, as set 
+forth in Tariff, Part VII, Subpart A, section 302, for at least a one-year term 
+beginning from the Application Deadline, for 100 percent of the Site.  In addition, 
+Applicant shall provide a certification, executed by an officer or authorized 
+representative of Applicant, verifying that the Site Control requirement is met.  
+Further, at Transmission Provider’s request, Applicant shall provide copies of 
+landowner attestations or county recordings. 
+ 
+C. Scoping Meetings 
+ 
+1. During the Application Review Phase, Transmission Provider may hold a single, 
+or several, scoping meetings for projects in each Transmission Owner zone, 
+which are optional and may be waived by Applicants or Transmission Owner. 
+ 
+2. Scoping meetings may include discussion of potential Affected System needs, 
+whereby Transmission Provider may coordinate with Affected System Operators 
+the conduct of required studies. 
+ 
+D. Other Requirements 
+ 
+1. Applicant must submit any claim for Capacity Interconnection Rights from 
+deactivating generation units with the Application, and it must be received by 
+Transmission Provider prior to the Application Deadline. 
+ 
+2. When an Application results in a valid New Service Request, Transmission 
+Provider shall confirm the assigned Project Identifier to the New Service Request, 
+in accordance with Tariff, Part VII, Subpart E, section 315.  Applicant and 
+Transmission Provider shall reference the Project Identifier in all correspondence, 
+submissions, wire transfers, documents, and other materials relating to the New 
+Service Request. 
+ 
+E. Additional Provisions Applicable to RRI Projects 
+ 

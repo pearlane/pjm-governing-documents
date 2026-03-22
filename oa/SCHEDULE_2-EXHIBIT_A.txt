@@ -1,0 +1,85 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 2 - EXHIBIT A 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+SCHEDULE 2 - EXHIBIT A -  
+EXPLANATION OF THE TREATMENT OF THE COSTS OF  
+EMISSION ALLOWANCES 
+ 
+The cost of emission allowances is included in “Other Incremental Operating Costs” pursuant to 
+Schedule 2. The replacement cost of emission allowances will be used to recover the cost of 
+emission allowances consumed as a result of producing energy for the PJM Region. 
+ 
+Index 
+ 
+Consistent with definitions promulgated by the PJM Board upon consideration of the advice and 
+recommendations of the Members Committee under Schedule 2, each Member subject to 
+Schedule 2 will determine and provide to the Interconnection its replacement cost of emission 
+allowances, such cost to be an amount not exceeding the market price index published by 
+Cantor-Fitzgerald Environmental Brokerage Services (“EBS”), or a PJM Board approved index 
+in the event that EBS should cease publication of such index.  As with all other components of 
+cost required for accounting under this Agreement, each Member subject to Schedule 2 will use 
+the same replacement cost of emissions allowances, so determined, as it uses for coordinating 
+operation of its generating facilities hereunder. 
+ 
+For each Member subject to Schedule 2, the cost of emissions allowances is included in the cost 
+of energy supplied to or received from the PJM Region. 
+ 
+Payment 
+ 
+The Members subject to Schedule 2 waive the right of payment-in-kind for emission allowances 
+for transactions wholly between the parties.  Cash payments for emission allowances consumed 
+in providing energy for the PJM Region shall be incorporated into and conducted pursuant to the 
+billing procedures for energy prescribed by this Agreement. 
+ 
+Calculation of Emission Allowance Amount and Cost 
+ 
+Pursuant to the letter from the PJM Interconnection to FERC dated June 26, 1995, the calculation 
+of an annual average for the cost of emission allowances, described below, is required due to the 
+profile of the PJM physical system and PJM Energy Management software system.  An average 
+emission allowance cost based on a standard production cost study case will be used to calculate 
+the average cost of emission allowances for each pool megawatt produced.   
+ 
+The Emission Allowances (Tons of SO2) associated with a transaction will be calculated by 
+multiplying the magnitude of a transaction (MWhr) by an Emissions per MWHr Factor (Tons of 
+SO2 per MWhr): 
+ 
+ Emission  Transaction  Emissions 
+ Allowances = Magnitude   x per MWhr 
+ Used      Factor 
+ (Tons of S02)  (MWhr)   (Tons of S02 per MWhr) 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 2 - EXHIBIT A 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 2 
+  
+The Emissions per MWHr Factor will be calculated by dividing the forecast annual emissions 
+from all Phase I units (Tons of SO2) by the Forecast Annual Total PJM Energy Production 
+(MWhr): 
+ 
+  Emissions 
+  per MWhr = Forecast Annual Phase I Unit Emissions (Tons of SO2) 
+  Factor     Forecast Annual Total PJM Energy Production (MWhr) 
+  (Tons of SO2 
+  per MWhr) 
+ 
+ Likewise, the cost (Dollars) of the Emission Allowances for a transaction will be 
+calculated by multiplying the transaction magnitude (MWhr) by a Charge per MWhr Factor 
+(Dollars per MWHr). 
+ 
+      Cost of Emission  Transaction  Charge 
+ Allowances Used = Magnitude   x  per MWhr Factor 
+       (Dollars)  (MWhr)   (Dollars per MWhr) 
+ 
+ The Charge per MWhr Factor will be calculated by multiplying, for each Member subject 
+to Schedule 2, its Forecast Annual Emissions (Tons of SO2)by its respective Emissions 
+Allowance Replacement Cost (Dollars per Ton of SO2) to yield each the forecasted annual cost 
+of emissions (Dollars).  Then, the total of forecasted annual cost of emissions for each Member 
+subject to Schedule 2 is divided by the Forecast Annual Total PJM Energy Production (MWhr) 
+to determine the Charge per MWHr Factor (Dollars per MWHr). 
+ 
+ Charge per 
+ MWhr Factor = (A x B), where:  
+           C 
+ A =  Member’s Forecasted Annual Emissions, (Tons of SO2) 
+ B = Emission Allowance Replacement Cost, (Dollars per Ton of SO2, per company) 
+ C = Forecast Annual PJM Energy Production, (MWhr) 
+ 
+

@@ -1,0 +1,941 @@
+SCHEDULE 6A 
+Black Start Service 
+ 
+References to section numbers in this Schedule 6A refer to sections of this Schedule 6A, unless 
+otherwise specified. 
+ 
+To ensure the reliable restoration following a shut down of the PJM transmission system, Black 
+Start Service is necessary to facilitate the goal of complete system restoration.  Black Start 
+Service enables the Transmission Provider to designate specific generators called Black Start 
+Units whose location and capabilities are required to re-energize the transmission system 
+following a system-wide blackout.  The Transmission Provider shall administer the provision of 
+Black Start Service.  PJMSettlement shall be the Counterparty to the purchases and sales of 
+Black Start Service.   
+ 
+TRANSMISSION CUSTOMERS 
+ 
+1. All Transmission Customers and Network Customers must obtain Black Start Service 
+through the Transmission Provider, with PJMSettlement as the Counterparty, pursuant to this 
+Schedule 6A.  
+ 
+PROVISION OF BLACK START SERVICE 
+2. A Black Start Unit is a generating unit that has equipment enabling it to start without an 
+outside electrical supply or a generating unit with a high operating factor (subject to 
+Transmission Provider concurrence) with the demonstrated ability to automatically remain 
+operating, at reduced levels, when disconnected from the grid.  A Black Start Unit shall be 
+considered capable of providing Black Start Service only when it meets the criteria set forth in 
+the PJM manuals.  The expected life of the Black Start Unit shall take into consideration 
+expectations regarding both the enabling equipment and the generation unit itself. 
+ 
+A Fuel Assured Black Start Unit is a Black Start Unit that is capable of starting without an 
+outside electrical supply and running 16 hours or more at full load and either stores at least 16 
+hours of fuel on site, can operate independently on 2 or more interstate pipelines, is directly 
+connected to a natural gas gathering system or is an intermittent or hybrid resource that has been 
+evaluated by the Transmission Provider to be capable of providing no less than 16 hours of 
+operation per day, which need not be continuous, at a megawatt level that provides a confidence 
+level of 90% based on an evaluation of the unit’s historical operation over a representative period 
+of time, and meets any other requirements specified in the PJM manuals.  Distributed energy 
+resources interconnected to distribution facilities may qualify as Fuel Assured Black Start Units 
+under the criteria that applies to all Fuel Assured Black Start Units.  Unless otherwise specified 
+as only applicable to Fuel Assured Black Start Units, all terms and conditions set forth in this 
+Tariff, Schedule 6A applicable to Black Start Units shall be deemed to include Fuel Assured 
+Black Start Units. 
+ 
+3. A Black Start Plant is a generating plant that includes one or more Black Start Units.  A 
+generating plant with Black Start Units electrically separated at different voltage levels will be 
+considered multiple Black Start Plants.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 2 
+ 
+4. The Transmission Provider is responsible for developing a coordinated and efficient 
+system restoration plan that identifies all of the locations where Black Start Units are needed.  
+The PJM Manuals shall set forth the criteria and process for selecting or identifying the Black 
+Start Units necessary to commit to providing Black Start Service at the identified locations. No 
+Black Start Unit shall be eligible to recover the costs of providing Black Start Service in the PJM 
+Region unless it agrees to provide such service for a term of commitment established under 
+section 5, 6, or 6A below. 
+ 
+5. Owners of Black Start Units selected to provide Black Start Service in accordance with 
+Schedule 6A, section 4 and electing to forego any recovery of new or additional Black Start 
+Capital Costs shall commit to provide Black Start Service from such Black Start Units for an 
+initial term of no less than two years and authorize the Transmission Provider to resell Black 
+Start Service from its Black Start Units.  The term commitment shall continue to extend until the 
+Black Start Unit owner or the Transmission Provider provides written, one-year advance notice 
+of its intention to terminate the commitment or the commitment is involuntarily terminated 
+pursuant to section 15 of this Schedule 6A.  Black Start Units that are selected to provide Black 
+Start Service after June 6, 2021, pursuant to Schedule 6A, section 6 that subsequently transition 
+from the Capital Cost Recovery Rate to the Base Formula Rate shall have a lifetime commitment 
+and can only terminate for the reason specified in Schedule 6A, section 6(ii). 
+ 
+6. (i)  Owners of Black Start Units selected to provide Black Start Service prior to June 6, 
+2021, in accordance with section 4 of this Schedule 6A and electing to recover new or additional 
+Black Start Capital Costs shall commit to provide Black Start Service from such Black Start 
+Units for a term based upon the age of the Black Start Unit or the longest expected life of the 
+Incremental Black Start Capital Cost, as set forth in the applicable CRF Table in section 18 of 
+this Schedule 6A.  For those Black Start Units that elect to recover new or additional Black Start 
+Capital Costs in addition to a prior, FERC-approved cost recovery rate, the applicable 
+commitment period shall be the longer of the FERC-approved recovery period or the applicable 
+term of commitment as set forth in the CRF Table in section 18 of this Schedule 6A.  The 
+Transmission Provider may terminate the commitment with one year advance notice of its 
+intention to the Black Start Unit owner, but the Black Start Unit owner shall be eligible to 
+recover any amount of unrecovered Fixed Black Start Service Costs over a period not to exceed 
+five years.  A Black Start Unit owner may terminate the provision of Black Start Service with 
+one year advance notice and consent of the Transmission Provider (or its commitment period 
+may be involuntarily terminated pursuant to the section 15 below).  Such Black Start Unit shall 
+forego any otherwise existing entitlement to future revenues collected pursuant to this Schedule 
+6A and fully refund any amount of the Black Start Capital Costs recovered under a FERC-
+approved rate (recovered on an accelerated basis pursuant to the provisions of section 17(i) of 
+this Schedule 6A) in excess of the amount that would have been recovered pursuant to section 18 
+of this Schedule 6A during the same period.  At the conclusion of the term of commitment 
+established under this section 6 of this Schedule 6A, a Black Start Unit shall commence a new 
+term of commitment under either section 5 or 6 of this Schedule 6A, as applicable. 
+ 
+ (ii)  Owners of Black Start Units selected to provide Black Start Service after June 6, 
+2021, in accordance with Schedule 6A, section 4 and electing to recover new or additional Black 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 3 
+Start Capital Costs shall commit to provide Black Start Service from such Black Start Units for 
+an initial capital recovery period based upon the age of the Black Start Unit plus the remaining 
+life of the Black Start equipment.  For those Black Start Units that elect to recover new or 
+additional Black Start Capital Costs in addition to a prior, FERC-approved cost recovery rate, the 
+applicable commitment period shall be the longer of the FERC-approved recovery period or the 
+initial capital recovery period based upon the age of the Black Start Unit plus the remaining life 
+of the Black Start equipment.   
+ 
+ (iii) Black Start Units selected to be Fuel Assured Black Start Units in accordance with 
+Schedule 6A, section 4 and electing to recover new or additional Fuel Assurance Capital Costs or 
+new and additional Fuel Assurance Costs and Black Start Capital Costs shall commit to provide 
+Black Start Service from such Black Start Units for an initial capital recovery period based upon 
+the age of the Black Start Unit plus the remaining life of the Black Start equipment.  For those 
+Fuel Assured Black Start Units that elect to recover new or additional Black Start Capital Costs 
+in addition to a prior, FERC-approved cost recovery rate, the applicable commitment period shall 
+be the longer of the FERC-approved recovery period or the initial capital recovery period based 
+upon the age of the Black Start Unit plus the remaining life of the Black Start equipment.  For 
+those Fuel Assured Black Start Units that elect to recover new or additional Fuel Assurance 
+Capital Costs, the applicable capital recovery period shall be the fuel assurance capital recovery 
+period based upon the age of the Fuel Assured Black Start Unit . 
+ 
+The Transmission Provider may terminate the commitment with one year advance notice of its 
+intention to the Black Start Unit owner, but  the Black Start Unit owner shall be eligible to 
+recover  any amount of unrecovered Fixed Black Start Service Costs including any amount of 
+unrecovered Fuel Assurance Capital Costs over a period not to exceed five years.  A Black Start 
+Unit owner may terminate the provision of Black Start Service with one year advance notice and 
+consent of the Transmission Provider (or its commitment period may be involuntarily terminated 
+pursuant to the section 15 below), provided the Black Start Unit’s owner demonstrates to the 
+satisfaction of the Transmission Provider at least one of the following reasons for such 
+termination apply: 
+ 
+a. Black Start Unit retirement or deactivation with at least one year’s notice; 
+ 
+b. Expiration of a state, federal, or other governmental agency permit(s) required for 
+Black Start Service with at least one year’s notice; or 
+ 
+c. Additional capital is required by the Black Start Unit owner to maintain Black 
+Start Service capability (in which case, the Black Start Unit will apply for Black 
+Start Service selection in accordance with the procedures set forth in Manual 12 
+and only continue to provide Black Start Service if selected for Black Start 
+Service by the Transmission Provider). 
+ 
+Such Black Start Unit shall forego any otherwise existing entitlement to future revenues 
+collected pursuant to this Schedule 6A and fully refund any amount of the Black Start Capital 
+Costs and/or Fuel Assurance Capital Costs recovered under a FERC-approved rate (recovered on 
+an accelerated basis pursuant to the provisions of section 17(i) of this Schedule 6A) in excess of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 4 
+the amount that would have been recovered pursuant to Schedule 6A, section 18 during the same 
+period.   
+ 
+6A. Black Start Units which are owned or contracted for by a Transmission Owner to provide 
+Black Start Service as a result of the black start reliability backstop process defined in the PJM 
+Manuals, shall be subject to cost recovery through such Transmission Owner’s annual revenue 
+requirement under such Transmission Owner’s Tariff, Attachment H, as filed with, and accepted 
+by, FERC under Section 205 of the Federal Power Act and in accordance with Tariff, Part I, 
+section 9, or through such other cost recovery mechanism, provided that such cost recovery 
+mechanism is filed with and accepted by FERC.  The relevant Transmission Owner shall commit 
+to provide, or effectuate the provision of, Black Start Service from such a Black Start Unit for 
+the FERC-approved cost recovery period.  The Transmission Provider may terminate the 
+commitment with one year advance notice of its intention to the Transmission Owner.  Provision 
+of Black Start Service from a Black Start Unit obtained through the black start reliability 
+backstop process defined in the PJM Manuals shall be subject to sections 7 through 13 of this 
+Schedule 6A.  The Revenue Requirements, Credits, and Charges provisions contained in sections 
+16 through 27 of this Schedule 6A, shall not apply to Black Start Units obtained as a result of the 
+black start reliability backstop process defined in the PJM Manuals. 
+ 
+6B. In the event that a Black Start Unit fails to fulfill its commitment established under 
+section 5 to provide Black Start Service, receipt of any Black Start Service revenues associated 
+with the non-performing Black Start Unit shall cease and, for the period of the unit’s non-
+performance, the Black Start Unit owner shall forfeit the Black Start Service revenues associated 
+with the non-performing Black Start Unit that it received or would have received had the Black 
+Start Unit performed, not to exceed revenues for a maximum of one year. 
+ 
+In the event that a Black Start Unit fails to fulfill its commitment established under section 6 
+above, such unit shall forego any otherwise existing entitlement to future revenues collected 
+pursuant to this Schedule 6A and fully refund any amount of the Black Start Capital Costs 
+recovered under a FERC-approved rate (recovered on an accelerated basis pursuant to the 
+provisions of section 17(i) of this Schedule 6A)  in excess of the amount that would have been 
+recovered pursuant to section 18 of this Schedule 6A during the same period, but such unit 
+remains eligible to establish a new commitment under section 5 or 6 of this Schedule 6A.  
+Provided, however, Black Start Units that are selected to provide Black Start Service after June 
+6, 2021, pursuant to Schedule 6A, section 6 that subsequently transition from the Capital Cost 
+Recovery Rate to the Base Formula Rate shall have a lifetime commitment and can only 
+terminate for a reason specified in Schedule 6A, section 6(ii). 
+ 
+Performance Standards and Outage Restrictions  
+ 
+7. In addition to the performance capabilities set forth in the PJM Manuals, Black Start 
+Units must have the capabilities listed below.  These capabilities must be demonstrated in 
+accordance with the criteria set forth in the PJM manuals and will remain in effect for the 
+duration of the commitment to provide Black Start Service.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 5 
+a. A Black Start Unit must be able to close its output circuit breaker to a dead (de-
+energized) bus within the time specified in the PJM Manuals. 
+ 
+b. A Black Start Unit must be capable of maintaining frequency and voltage under 
+varying load. 
+ 
+c. A Black Start Unit must be able to maintain rated output for a period of time 
+identified by each Transmission Owner’s system restoration requirements, in 
+conjunction with the Transmission Provider. 
+ 
+d. A Fuel Assured Black Start Unit must meet the fuel assurance requirements as 
+specified in the PJM Manuals. 
+ 
+8. Each owner of Black Start Units or Black Start Plants must maintain procedures for the 
+start-up of the Black Start Units. 
+ 
+9. If a Black Start Unit is a generating unit with a high operating factor (subject to 
+Transmission Provider concurrence) with the ability to automatically remain operating at 
+reduced levels when disconnected from the grid, this ability must be demonstrated in accordance 
+with the criteria set forth in the PJM manuals. 
+ 
+10. No more than one Black Start Unit at a Black Start Plant may be subject to a Generator 
+Planned Outage or Generator Maintenance Outage at any one time without written approval of 
+the Transmission Provider and the Transmission Owner in the Zone receiving Black Start 
+Service from the Black Start Plant.  This restriction excludes outages on common plant 
+equipment that may make all units unavailable.  A Black Start Unit not selected for providing 
+Black Start Service in accordance with this Schedule 6A, section 4 and the PJM Manuals may be 
+substituted for a Black Start Unit that is subject to a Generator Planned Outage to permit a 
+concurrent planned outage of another critical Black Start Unit at the same Black Start Plant.  The 
+Black Start Unit used as a substitute shall not receive compensation for additional capital 
+expenditures to qualify for Black Start Service, will not increase the current Black Start Unit 
+capital recovery commitment period, must be connected at the same voltage level and cranking 
+path, must be similar age as the current Black Start Unit, must provide equivalent Black Start 
+Unit Capacity, and must have had a valid annual test within the previous 13 months.  Black Start 
+Unit substitutions may be permitted for reasons other than Generator Planned Outages if 
+requested by the Black Start Unit owner and if approved by the Transmission Provider; provided, 
+however, all requests for Black Start Unit substitutions must be supported by documentation and 
+information demonstrating operational or technical reasons for the substitution satisfactory to the 
+Transmission Provider and may only occur once within a 12-month period. 
+ 
+11. Concurrent planned outages at multiple Black Start Plants within a zone may be restricted 
+based on Transmission Owner requirements for Black Start Service availability.  Such 
+restrictions must be predefined and approved by Transmission Provider in accordance with the 
+PJM manuals. 
+ 
+Testing 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 6 
+ 
+12. To verify that they can be started and operated without being connected to the 
+Transmission System, Black Start Units shall be tested annually in accordance with the Tariff 
+and the PJM Manuals.  Fuel Assured Black Start Units that are dual fuel must conduct an annual 
+test on both fuels.  The Black Start Unit owner shall determine the time of the annual test.  
+ 
+13. Compensation under this Schedule 6A for energy output delivered to the Transmission 
+System during the annual test shall be provided for the Black Start Unit’s minimum run time at 
+the higher of the unit’s cost-capped offer or real-time Locational Marginal Price plus start-up and 
+no-load costs for up to two start attempts, if necessary.  For Black Start Units that are generating 
+units with a high operating factor (subject to Transmission Provider’s concurrence) with  the 
+ability to automatically remain operating at reduced levels when disconnected from the grid, an 
+opportunity cost will be provided to compensate the unit for lost revenues during testing.   
+ 
+14. All Black Start Units must have a successful annual test on record with the Transmission 
+Provider within the preceding 13 months.  A Black Start Unit receiving revenues under Section 5 
+or Section 6 above that does not have a successful annual test on record with the Transmission 
+Provider within the preceding 13 months will not qualify to receive Black Start Service revenues.  
+A Fuel Assured Black Start Unit that stores fuel on-site and fails in any month to store the fuel 
+and non-fuel consumables needed to meet its fuel assurance run hour requirements except for 
+allowable conditions specified in the PJM Manuals, and except when the Fuel Assured Black 
+Start Unit can also operate independently on 2 or more interstate pipelines, does not qualify to 
+receive Black Start revenues in that month. 
+ 
+15. If a Black Start Unit fails the annual test, the unit may be re-tested within a ten-day 
+period without financial penalty.  If the Black Start Unit does not successfully re-test within that 
+ten-day period, monthly Black Start Service revenues under this Schedule 6A will be forfeited by 
+that unit from the time of the first unsuccessful test until such time as the unit passes an annual 
+test.  If the Black Start Unit owner does not make the necessary repairs to enable the Black Start 
+Unit to pass the annual test within 90 days of the due date for the annual test pursuant to section 
+14 above, the Black Start Unit will immediately cease to qualify as a Black Start Unit and, if 
+applicable, will have failed to fulfill its commitment pursuant to section 5 or section 6 above, 
+whichever is applicable, of this Schedule 6A and will be subject to the additional forfeiture of 
+revenues set forth in section 6B of this Schedule 6A.  The 90 day period may be extended up to 1 
+year by the Transmission Provider in accordance with the PJM Manuals. If the 90 day period is 
+extended, the Black Start Unit owner will continue to forfeit all revenues starting in the month of 
+the first failed test until the Black Start Unit has demonstrated to the Transmission Provider that 
+a successful test has been completed.   
+ 
+Revenue Requirements 
+ 
+16. A Black Start Unit Owner’s annual Black Start Service revenue requirement shall be the 
+sum of the annual Black Start Service revenue requirements for each generator that is designated 
+as providing Black Start Service and has provided the Transmission Provider with a calculation 
+of its annual Black Start Service revenue requirements. A separate line item shall appear on the 
+participants’ Transmission Provider bill for Black Start Service charges and credits. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 7 
+ 
+17.  Black Start Service revenue requirements for each Black Start Unit shall be based, at the 
+election of the owner, on either (i) a FERC-approved rate for the recovery of the cost of 
+providing such service for the entire duration of the commitment term set forth in either section 5 
+or 6 of this Schedule 6A, as applicable, or (ii) the formula rates set forth in section 18 of this 
+Schedule 6A for the commitment term set forth in section 5 or 6 of this Schedule 6A as 
+applicable.  Each generator’s Black Start Service revenue requirements shall be an annual 
+calculation.   
+ 
+17A. Annual Review for all Black Start Units 
+ 
+Requests for Black Start Service revenue requirements and for changes to the Black Start Service 
+revenue requirements must be submitted to the Market Monitoring Unit for review and analysis, 
+with supporting data and documentation, pursuant to Tariff, Attachment M–Appendix, section III 
+and the PJM Manuals, with a copy to the Office of the Interconnection, by no later than May 3 of 
+each year. The Market Monitoring Unit and the Black Start Unit owner shall attempt to come to 
+agreement on the level of each component included in the Black Start Service revenue 
+requirements by no later than May 14 of each year.  By no later than May 21 of each year, the 
+Black Start Unit owner shall notify the Office of the Interconnection and the Market Monitoring 
+Unit in writing whether it agrees or disagrees with the Market Monitoring Unit’s determination 
+of the level of each component included in the Black Start Service revenue requirements.  The 
+Black Start Unit owner may also submit Black Start Service revenue requirements that it chooses 
+to the Office of the Interconnection by no later than May 21 of each year, provided that (i) it has 
+participated in good faith with the process described in this section and in Tariff, Attachment M-
+Appendix, section III (ii) the Black Start Service revenue requirements are no higher than the 
+level defined in any agreement reached by the Black Start Unit owner and the Market 
+Monitoring Unit that resulted from the foregoing process, and (iii) the Black Start Service 
+revenue requirements are accepted by the Office of the Interconnection subject to the criteria set 
+forth in the Tariff and PJM Manuals. 
+ 
+The Office of the Interconnection shall determine whether to accept the values submitted by the 
+Black Start Unit owner subject to the requirements of the Tariff and the PJM Manuals by no later 
+than May 27. If the Office of the Interconnection does not accept the values submitted by the 
+Black Start Unit owner in such case, the Black Start Unit owner may file its proposed values 
+with the Commission for approval.  Pursuant to Tariff, Attachment M-Appendix, section III, if 
+the Office of the Interconnection accepts the Black Start Service revenue requirements submitted 
+by the Black Start Unit owner in such case, the Market Monitoring Unit may petition the 
+Commission for an order that would require the Black Start Unit owner to utilize the values 
+determined by the Market Monitoring Unit or the Office of the Interconnection or such other 
+values as determined by the Commission.  The annual calculation of Black Start Service revenue 
+requirements shall become effective on June 1 of each year, except that no change to a Black 
+Start Service revenue requirement shall become effective until the existing revenue requirement 
+has been effective for at least twelve months.  Notwithstanding the foregoing, for the 2025/2026 
+Delivery Year the annual calculation of Black Start Service revenue requirements that became 
+effective on June 1, 2025 will be further updated on September 1, 2025 to reflect any FERC 
+approved changes in the Base Formula Rate equation regardless of whether the existing revenue 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 8 
+requirement has been effective for at least 12 months; and for the 2026/2027 Delivery Year, the 
+Black Start Service revenue requirement shall become effective June 1, 2026 regardless of 
+whether the existing revenue requirement has been effective for at least 12 months.  
+Notwithstanding the foregoing, the deadlines set forth in this section 17 shall not apply to a 
+Black Start Unit owner’s election to select a new method of recovery for its Fixed BSSC. 
+  
+17B. Initial Review for New Black Start Units or existing Black Starts Units that require 
+Fuel Assured Capital Cost 
+ 
+Requests for new Black Start Service revenue requirements and/or Fuel Assured Capital Costs 
+must be submitted to the Market Monitoring Unit for review and analysis, with supporting data 
+and documentation, pursuant to Tariff, Attachment M–Appendix, section III and the PJM 
+Manuals, with a copy to the Office of the Interconnection, by no later than 90 days after entering 
+Black Start Service or qualifying to be a Fuel Assured Black Start Unit. The Market Monitoring 
+Unit and the Black Start Unit owner shall attempt to come to agreement on the level of each 
+component included in the Black Start Service revenue requirements by no later than 90 days 
+after the Black Start Unit owner’s submittal of final black start capital costs (if applicable), 
+variable black start costs, and fuel storage cost documentation. By no later than 90 days of the 
+Black Start Unit owner’s submittal of final black start cost documentation, the Market 
+Monitoring Unit shall calculate the new Black Start Unit’s annual revenue requirement and 
+submit it to the Office of the Interconnection and the Black Start Unit owner. If more than three 
+Black Start Unit owners submit documentation within a 90-day period, the Market Monitoring 
+Unit shall complete the review of the first three submittals within 90 days and the next set of 
+three within the following three months and so on until all are complete. The Black Start Unit 
+owner shall notify the Office of the Interconnection and the Market Monitoring Unit in writing if 
+it disagrees with the Market Monitoring Unit’s determination of the level of any component 
+included in the Black Start Service revenue requirements within 7 days after the Market 
+Monitoring Unit’s submittal of the annual revenue requirement to the Office of the 
+Interconnection. The Black Start Unit owner shall also submit Black Start Service revenue 
+requirements that it proposes to the Office of the Interconnection provided that (i) it has 
+participated in good faith with the process described in this section and in Tariff, Attachment M-
+Appendix, section III; (ii) the Black Start Service revenue requirements are no higher than the 
+level defined in any agreement reached by the Black Start Unit owner and the Market 
+Monitoring Unit that resulted from the foregoing process; and (iii) the Black Start Service 
+revenue requirements are accepted by the Office of the Interconnection subject to the criteria set 
+forth in the Tariff and PJM Manuals. 
+ 
+The Office of the Interconnection shall determine whether to accept the values submitted by the 
+Black Start Unit owner subject to the requirements of the Tariff and the PJM Manuals by no later 
+than 30 days after its receipt of the Black Start Unit owner’s written notice of a disagreement. If 
+the Office of the Interconnection does not accept the values submitted by the Black Start Unit 
+owner in such case, the Black Start Unit owner may file its proposed values with the 
+Commission for approval. Pursuant to Tariff, Attachment M–Appendix, section III, if the Office 
+of the Interconnection accepts the Black Start Service revenue requirements submitted by the 
+Black Start Unit owner in such case, the Market Monitoring Unit may petition the Commission 
+for an order that would require the Black Start Unit owner to utilize the values determined by the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 9 
+Market Monitoring Unit or the Office of the Interconnection or such other values as determined 
+by the Commission. The annual calculation of Black Start Service revenue requirements shall 
+become effective the day the unit enters Black Start Service or becomes fuel assured.  
+ 
+18. The formula for calculating a generator’s annual Black Start Service revenue requirement 
+is: 
+ 
+{(Fixed BSSC) + (Variable BSSC) + (Training 
+Costs) + (Fuel Storage Costs)} * (1 + Z) 
+ 
+For units that have the demonstrated ability to operate at reduced levels when 
+automatically disconnected from the grid, the formula is revised to: 
+ 
+(Training Costs) * (1+ Z) 
+  
+Where: 
+ 
+Fixed BSSC 
+ 
+Black Start Units with a commitment established under section 5 of this Schedule 6A 
+shall calculate Fixed BSSC or “Fixed Black Start Service Costs” in accordance with the 
+following Base Formula Rate: 
+ 
+ Base Formula Rate: 
+ 
+  Fixed Rate *  Black Start Unit Capacity * X 
+ 
+ Where:  
+ 
+“Fixed Rate” is a fixed rate for providing Black Start Service (expressed in $/MW 
+day).  This Fixed Rate will be adjusted annually based on the Handy Whitman 
+index.  By March 31 of each year, PJM will post the adjusted Fixed Rate on the 
+PJM website. Beginning with the 2025/2026 Delivery Year, the Fixed Rate shall 
+be $272.62/MW day.  
+ 
+“Black Start Unit Capacity” is either: (i) the Black Start Unit’s installed capacity, 
+expressed in MW, for those Black Start Units which are not Fuel Assured Black 
+Start Units that are Generation Capacity Resources; (ii) the awarded MWs in the 
+Transmission Provider’s request for proposal process under the PJM Manuals, for 
+those Black Start Units, which are not Fuel Assured Black Start Units, that are 
+Energy Resources; (iii) the Fuel Assured Black Start Unit’s installed capacity for 
+fuel assured non-intermittent Capacity Resources; or (iv) the monthly 90% 
+confidence MW value calculated by the Transmission Provider for fuel assured 
+intermittent or hybrid Capacity Resources.  The 90% confidence MW value is 
+calculated using Black Start Unit historical data to determine the hourly MW 
+value the resource can provide each day in each month for 16 hours, which need 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 10 
+not be continuous.  The hourly MW value is then iterated until the confidence 
+level of the unit providing the MW value on a monthly basis for 16 hours is 90%. 
+ 
+“X” is the Black Start Service allocation factor unless a higher or lower value is 
+supported by the documentation of the actual costs of providing Black Start 
+Service.  For such units qualifying as Black Start Units on the basis of 
+demonstrated ability to operate at reduced levels when automatically disconnected 
+from the grid, X shall be zero.  For non-fuel assured Black Start Units with a 
+commitment established under Schedule 6A, X shall be .01 for Hydro units, .02 
+for CT units.  For fuel assured Black Start Units with a commitment established 
+under Schedule 6A, X shall be .02 for all units. 
+ 
+Black Start Units with a commitment established under section 6 above shall calculate 
+Fixed BSSC or “Fixed Black Start Service Costs” in accordance with one of the 
+following formulas, as applicable: 
+ 
+Capital Cost Recovery Rate – NERC-CIP Specific Recovery 
+ 
+ (Fixed Rate * Black Start NERC-CIP Unit Capacity * X) + (Incremental Black 
+Start NERC-CIP Capital Costs * CRF) + (Fuel Assurance Capital Costs * CRF) 
+ 
+Where: 
+ 
+“Fixed Rate” is a fixed rate for providing Black Start Service (expressed in $/MW 
+day).  This Fixed Rate will be adjusted annually based on the Handy Whitman 
+index.  By March 31 of each year, PJM will post the adjusted Fixed Rate on the 
+PJM website.  Beginning with the 2025/2026 Delivery Year, the Fixed Rate shall 
+be $272.62/MW day.  
+ 
+“Black Start NERC-CIP Unit Capacity” is the Black Start Unit’s installed 
+capacity, expressed in MW, but, for purposes of this calculation, capped at 100 
+MW for Hydro units, or 50 MW for CT units. 
+ 
+“Incremental Black Start NERC-CIP Capital Cost” are those capital costs 
+documented by the owner or accepted by the Commission for the incremental 
+equipment solely necessary to enable a Black Start Unit to maintain compliance 
+with mandatory Critical Infrastructure Protection Reliability Standards (as 
+approved by the Commission and administered by the applicable Electric 
+Reliability Organization). 
+ 
+“Fuel Assurance Capital Costs” are the new or additional capital costs 
+documented by the owner for the installation of equipment necessary for the unit 
+to meet the fuel assurance criteria specified in the PJM manuals. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 11 
+“CRF” or “Capital Recovery Factor” is equal to the levelized CRF as set forth in 
+the applicable CRF table posted on the PJM website in accordance with Tariff, 
+Schedule 6A, section 18 and Manual 15. 
+ 
+A Black Start Unit may elect to terminate forward cost recovery under this Capital Cost 
+Recovery Rate – NERC-CIP Specific Recovery at any time and seek cost recovery under 
+the Capital Cost Recovery Rate, pursuant to the terms and conditions set forth below. 
+ 
+Capital Cost Recovery Rate 
+ 
+(FERC-approved rate) + (Incremental Black Start Capital Costs * CRF) + (Fuel Assurance 
+Capital Costs * CRF) 
+ 
+ Where: 
+ 
+“FERC-approved rate” is the Black Start Unit’s current FERC-approved recovery of 
+costs to provide Black Start Service, if applicable.  To the extent that a Black Start Unit 
+owner is currently recovering black start costs pursuant to a FERC-approved rate, that 
+cost recovery will be included as a formulaic component for calculating the Black Start 
+Unit’s annual revenue requirement pursuant to this section 18.  However, under no 
+circumstances will PJM or the Black Start Unit owner restructure or modify that existing 
+FERC-approved rate without FERC approval. 
+ 
+“Incremental Black Start Capital Costs” are the new or additional capital costs 
+documented by the owner or accepted by the Commission for the incremental equipment 
+solely necessary to enable a unit to provide Black Start Service in addition to whatever 
+other product or services such unit may provide.  Such costs shall include those incurred 
+by a Black Start Unit owner in order to meet NERC Reliability Standards that apply to 
+Black Start Units solely on the basis of the provision of Black Start Service by such unit.  
+However, Incremental Black Start Capital Costs shall not include any capital costs that 
+the Black Start Unit owner is recovering for that unit pursuant to a FERC-approved 
+recovery rate. 
+ 
+“Fuel Assurance Capital Costs” are the new or additional capital costs documented by the 
+owner for the installation of equipment necessary for the unit to meet the fuel assurance 
+criteria specified in the PJM manuals. However, Fuel Assurance Capital Costs shall not 
+include any capital costs that the Fuel Assured Black Start Unit owner is recovering for 
+that unit pursuant to a FERC-approved recovery rate. 
+ 
+The Capital Recovery Factor (“CRF”) is equal to the Levelized CRF based on the age of 
+the Black Start Unit, which is modified to provide Black Start Service. 
+ 
+The CRF applicable to Black Start Capital Costs of Black Start Units selected for Black 
+Start Service prior to June 6, 2021, shall continue to be determined in accordance with 
+the following table: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 12 
+Age of 
+Black Start 
+Unit 
+Term of Black Start 
+Commitment 
+ 
+Levelized CRF 
+1 to 5 20 0.1180 
+6 to 10 15 0.1348 
+11 to 15 10 0.1767 
+16+ 5 0.3097 
+ 
+The CRF applicable to Black Start Capital Costs and/or for Fuel Assurance Capital Costs, 
+of Black Start Units selected for Black Start Service after June 6, 2021, shall be updated 
+annually on March 1 (if March 1 is not a Business day then the first Business Day after 
+March 1) for (i) federal income tax rates as utilized by the U.S. Internal Revenue Service 
+in effect at the time of the annual CRF update; (ii) average state tax rate; and (iii) debt 
+interest rates and shall be posted on the PJM website by March 31 each year as shown in 
+the table below.  Interested parties shall have until April 15 of each year to contest PJM’s 
+calculation of the annual CRF value before it becomes effective on June 1 of each year. 
+ 
+PJM determines annual CRF inputs March 1 (if March 1 is not a  
+Business day then the first  
+Business Day after March 1) 
+PJM posts annual CRF March 31 
+Deadline for contesting annual CRF April 15 
+Annual revenue requirement calculation May 3 through May 27 
+Annual revenue requirement with CRF in 
+effect 
+June 1 
+ 
+The CRF values shall be calculated for a recovery period based on the age of the Black 
+Start Unit using the equation below:   
+ 
+ 
+Where: 
+ 
+Formula 
+Symbol 
+ 
+Description 
+
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 13 
+r After Tax Weighted Average Cost of Capital (ATWACC), which equals 
+(equity percentage)(cost of equity) + (debt percentage)(debt interest rate)(1 
+– effective tax rate) 
+s Effective Tax Rate, which equals (1 – state tax rate)(federal tax rate) + state 
+tax rate 
+B Bonus depreciation percent in effect at the Black Start Unit in-service date 
+N Cost recovery period based on the age of the unit in years, as established in 
+the Age of Unit/Applicable Recovery Period table below 
+L The lesser of N or 16 years 
+Mj Modified Accelerated Cost Recovery System (MACRS) depreciation 
+ 
+ 
+The following assumptions are used in the calculation: 
+ 
+The current federal tax and depreciation rates are as established by U.S. Internal Revenue 
+Service;  
+The state tax rate is an average of the income tax rates for all the states in the PJM Region;  
+The capital investment necessary to make a unit qualify for Black Start Service is made up of 
+50 percent equity;  
+The capital investment necessary to make a unit qualify for Black Start Service is made up of 
+50 percent debt; 
+The debt interest rate is based on the most recent Net CONE quadrennial review after-tax 
+weighted average cost of capital (ATWACC) and shall be updated as follows: 
+The debt interest rate will be updated during the Net CONE quadrennial review; and 
+If the 2-year change in the Moody Utility Index for bonds rated Baa1 is more than 
+200 basis points, this change will be added to the interest rate used in the most recent 
+Net CONE quadrennial review and will be used as the current year’s debt interest 
+rate. 
+The debt term is equal to the applicable recovery period specified in the Age of 
+Unit/Applicable Recovery Period table below; and 
+The cost of equity shall be equal to an after tax internal rate of return on equity of 12%. 
+Any changes to the debt and equity percentages and after tax internal rate of return on equity 
+components stated above shall be included in revisions to this section 18. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 14 
+Age of the Unit (years) Incremental Black Start 
+Capital Costs Applicable 
+Recovery Period (years) 
+Fuel Assurance Capital 
+Costs Recovery Period 
+(years) 
+1-5 20 20 
+6-10 15 15 
+11-15 10 10 
+16+ 5 10 
+ 
+ In those circumstances where a Black Start Unit owner has elected to recover Incremental 
+Black Start Capital Costs and/or Fuel assurance Capital Costs, in addition to a FERC-approved 
+recovery rate, its applicable term of commitment shall be the greater of:  (i) the FERC-approved 
+recovery period, or; (ii) the applicable term of commitment as set forth in the Age of 
+Unit/Applicable Recovery Period table above. 
+  
+ After a Black Start Unit has recovered its allowable Incremental Black Start Capital 
+Costs, Incremental Black Start NERC-CIP Capital Costs, and/or Fuel assurance Capital Costs as 
+provided by the applicable Capital Cost Recovery Rate, and has satisfied its applicable 
+commitment period required under section 6 of this Schedule 6A, the Black Start Unit shall be 
+committed to providing black start in accordance with section 5 of this Schedule 6A and 
+calculate its Fixed BSSC in accordance with the Base Formula Rate. 
+ 
+Variable BSSC  
+ 
+All Black Start Units shall calculate Variable BSSC or “Variable Black Start Service 
+Costs” in accordance with the following formula: 
+  
+  Black Start Unit O&M * Y 
+Where: 
+ 
+“Black Start Unit O&M” are the operations and maintenance costs attributable to 
+supporting Black Start Service and must equal the annual variable O&M outlined in the 
+PJM Cost Development Guidelines set forth in the PJM Manuals. Such costs shall 
+include those incurred by a Black Start Owner in order to meet NERC Reliability 
+Standards that apply to the Black Start Unit solely on the basis of the provision of Black 
+Start Service by unit. 
+ 
+“Y” is 0.01, unless a higher or lower value is supported by the documentation of costs.  If 
+a value of Y is submitted for this cost, a (1-Y) factor must be applied to the Black Start 
+Unit’s O&M costs on the unit’s cost-based energy schedule, calculated based on the Cost 
+Development Guidelines in the PJM Manuals. 
+ 
+For units qualifying as Black Start Units on the basis of a demonstrated ability to operate 
+at reduced levels when automatically disconnected from the grid, there are no variable 
+costs associated with providing Black Start Service and the value for Variable BSSC 
+shall be zero. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 15 
+Black Start Units with the demonstrated ability to automatically remain operating, at 
+reduced levels, when disconnected from the grid may receive NERC compliance costs 
+associated with providing Black Start Service in addition to the formula above, if 
+approved in accordance with the procedures in section 17 of this Schedule 6A. 
+ 
+Training Costs:  
+ 
+All Black Start Units shall calculate Training Costs in accordance with the following 
+formula: 
+ 
+50 staff hours/year/plant*75/hour 
+ 
+Fuel Storage Costs: 
+ 
+Black Start Units that store liquefied or compressed natural gas, propane, or oil on site 
+shall calculate Fuel Storage Costs in accordance with the following formula:  
+ 
+{MTSL + [(# Run Hours) * (Fuel Burn Rate)]} * 
+(12 Month Forward Strip + Basis) * (Bond Rate)  
+ 
+Where: 
+ 
+Run Hours are the actual number of hours a Transmission Provider requires a 
+Black Start Unit to run.  Run Hours shall be at least 16 hours or as defined by the 
+Transmission Owner restoration plan, whichever is less. 
+ 
+“Fuel Burn Rate” is actual fuel burn rate for the Black Start Unit. 
+ 
+“12-Month Forward Strip” is the average of forward prices for the fuel burned in 
+the Black Start Unit traded the first Business Day on or following April 1. 
+ 
+“Basis” is the transportation costs from the location referenced in the forward 
+price data to the Black Start Unit plus any variable taxes. 
+ 
+“Bond rate” is the value determined with reference to the Moody's Utility Index 
+for bonds rated Baa1 reported the first Business Day on or following April 1. 
+ 
+“MTSL” is the “minimum tank suction level” and shall apply to oil fired Black 
+Start Units’ storage tanks that have an unusable volume of oil.  In the case where 
+a Black Start Unit shares a common fuel tank, the Black Start Unit will be eligible 
+for recovery of the Black Start Energy Tank Ratio of the MTSL in its fuel storage 
+calculation. 
+ 
+Black Start Energy Tank Ratio = {(Fuel Burn Rate * Minimum Run Hours) / 
+(Tank Capacity – MTSL)} 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 16 
+The MTSL fuel storage calculation shall be as follows: 
+{(Black Start Energy Tank Ratio * MTSL) + [(#Run Hours) * (Fuel Burn Rate)]} 
+* (12 Month Forward Strip + Basis) * (Bond Rate)   
+ 
+For units qualifying as Black Start Units on the basis of a demonstrated ability to operate 
+at reduced levels when automatically disconnected from the grid, there are no associated 
+fuel storage costs and the value for FSC shall be zero. 
+ 
+Z  
+Z shall be an incentive factor solely for Black Start Units with a commitment established 
+under section 5 above and shall be ten percent for non-fuel assured Black Start Units and 
+twenty percent for Fuel Assured Black Start Units.  For those Black Start Units that elect 
+to recover new or additional Black Start or Fuel Assurance Capital Costs under section 6 
+above, the incentive factor, Z, shall be equal to zero. 
+ 
+Every five years, PJM shall review the formula and its costs components set forth in this 
+section 18, and report on the results of that review to stakeholders.  
+ 
+19. Transmission Provider or its agent shall have the right to independently audit the 
+accounts and records of each Black Start Unit that is receiving payments for providing Black 
+Start Service.  
+ 
+20. PJM shall notify its Members when a Black Start Unit seeks to recover new or additional 
+Black Start NERC-CIP Capital Costs under section 18 of this Schedule 6A no later than thirty 
+(30) days prior to the effective date of the recovery.  At the written request of a PJM Member, 
+made simultaneously to the Market Monitoring Unit and PJM, with notice to the Black Start Unit 
+owner, the Market Monitoring Unit shall make available to the affected PJM Member for 
+inspection at the offices of the Market Monitoring Unit, all data supporting the requested new or 
+additional NERC-CIP specific Capital Costs.  The Black Start Unit owner may elect to attend 
+this review.  In all cases, the supporting data is to be held confidential and may not be 
+distributed. 
+ 
+21. The Market Monitoring Unit shall include a Black Start Service summary in its annual 
+State of the Market report which will set forth a descriptive summary of the new or additional 
+Black Start NERC-CIP Capital Costs requested by Black Start Units, and include a list of the 
+types of capital costs requested and the overall cost of such capital improvements on an 
+aggregate basis such that no data is attributable to an individual Black Start Unit. 
+ 
+Credits 
+ 
+22. For existing Black Start Units, monthly credits are provided to Black Start Unit owners 
+that submit to the Transmission Provider their annual revenue requirements established pursuant 
+to section 17A of this Schedule 6A.  The generator’s monthly credit is equal to 1/12 of its annual 
+Black Start Service revenue requirement for eligible critical Black Start Units.  For new Black 
+Start Unit owners, monthly credits will be held by the Office of the Interconnection in a non-
+interest bearing account until the Office of the Interconnection, or the Commission as applicable, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 17 
+accepts the owner’s annual revenue requirement pursuant to section 17B of this Schedule 6A. 
+New Black Start Unit owners will begin to receive monthly credits, including any monthly 
+credits held by the Office of the Interconnection back to the date the unit enters Black Start 
+Service and any required estimated annual revenue requirement true up after the Office of the 
+Interconnection, or the Commission as applicable, accepts the new Black Start Unit owner’s 
+annual revenue requirement.  
+ 
+22A.  For Fuel Assured Black Start Units that are recovering Fuel Assurance Capital Costs, 
+pursuant to section 17B of this Schedule 6A, shall have its monthly credits reduced, but not less 
+than zero, by the positive net value of the Day-ahead Energy Market and Real-time Energy 
+Market revenues from being committed using the fuel assurance fuel as further described in the 
+PJM manuals minus the cost of running on that fuel.  The Black Start Unit’s monthly credits 
+shall not be increased.  For Fuel Assured Black Start Units that are recovering Fuel Assurance 
+Capital Cost and the Fuel Assurance Capital Costs increased the Installed Capacity Rating 
+(ICAP) of the unit, monthly credits shall be reduced, but not less than zero, by the monthly 
+capacity revenues for the increased ICAP.  Monthly credits will only be reduced during the Fuel 
+Assurance Capital Cost recovery period. 
+ 
+23. Revenue requirements for jointly owned Black Start Units will be allocated to the owners 
+based on ownership percentage. 
+ 
+24. Transmission Provider shall not compensate generators for Black Start Service unless 
+they meet the Transmission Provider criteria for Black Start Service and the criteria for Black 
+Start Service in the Applicable Standards and provide Transmission Provider with all necessary 
+data in accordance with this Schedule 6A and the PJM manuals. 
+ 
+Charges 
+ 
+25. Zonal rates will be based on Black Start Service capability or share of generation units 
+designated by the Transmission Provider and allocated to network service customers and point-
+to-point reservations.  Zonal rates will include estimated annual revenue requirements for new 
+Black Start Units from the date the units enter Black Start Service to last day of the month 
+preceding the Office of the Interconnection’s acceptance of the unit’s annual revenue 
+requirement. The estimated annual revenue requirement will be based on the Black Start Unit 
+owner’s best estimate at the time the unit enters Black Start Service. Any estimated annual 
+revenue requirement true up will be included in the monthly bill after the Office of the 
+Interconnection accepts the new Black Start unit’s annual revenue requirement. 
+ 
+26. Revenue requirements for Black Start Units designated by the Transmission Provider as 
+critical (regardless of zonal location) will be allocated to the receiving Transmission Owner’s 
+zone.  Black Start Units that are shared and designated to serve multiple zones will have their 
+annual revenues allocated by Transmission Owner designated critical load percentage. 
+ 
+27. Purchasers of Black Start Service shall be charged for such service in accordance with the 
+following formulae. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 6A 
+Effective Date: 9/1/2025 - Docket #: ER25-2123-001 - Page 18 
+Monthly Charge for a purchaser receiving Network Integration Transmission Service or Point-to-
+Point Transmission Service to serve Non-Zone Load = Allocation Factor * Total Generation 
+Owner Monthly Black Start Service Revenue Requirement 
+ 
+Monthly Charge for a purchaser receiving Network Integration Transmission Service or Point-to-
+Point Transmission Service to serve Zone Load = Allocation Factor * Zonal Generation Owner 
+Monthly Black Start Service Revenue Requirement * Adjustment Factor 
+ 
+Where: 
+ 
+Purchaser serving Non-Zone Load is a Network Customer serving Non-Zone Network 
+Load or a Transmission Customer where the Point of Delivery is at the boundary of the 
+PJM Region. 
+ 
+Zonal Generation Owner Monthly Black Start Service Revenue Requirement is the sum 
+of the monthly share of Black Start Service revenue requirements for each generator 
+nominated by the Transmission Owners in that zone. 
+ 
+Total Generation Owner Monthly Black Start Service Revenue Requirement is the sum of 
+the Zonal Generation Owner Monthly Black Start Service Revenue Requirements for all 
+Zones in the PJM Region. 
+ 
+Allocation Factor is the monthly transmission use of each Network Customer or 
+Transmission Customer per Zone or Non-Zone, as applicable, on a megawatt basis 
+divided by the total transmission use in the Zone or in the PJM Region, as applicable, on 
+a megawatt basis. 
+ 
+For Network Customers, monthly transmission use on a megawatt basis is the sum of a 
+Network Customer’s daily values of DCPZ or DCPNZ (as those terms are defined in 
+Tariff, Part I, section 34.1) as applicable, for all days of the month.   
+ 
+For Transmission Customers, monthly transmission use on a megawatt basis is the sum of 
+the Transmission Customer’s hourly amounts of Reserved Capacity for each day of the 
+month (not curtailed by PJM) divided by the number of hours in the day. 
+ 
+Adjustment Factor is determined as the sum of the total monthly transmission use in the 
+PJM Region on a megawatt basis, exclusive of such use by Network Customers and 
+Transmission Customers serving Non-Zone Load, divided by the total monthly 
+transmission use in the PJM Region on a megawatt basis. 
+ 
+In the event that a single customer is serving load in more than one Zone, or serving Non-Zone 
+Load as well as load in one or more Zones, or is both a Network Customer and a Transmission 
+Customer, the Monthly Charge for such a customer shall be the sum of the Monthly Charges 
+determined by applying the appropriate formulae set forth in this Schedule 6A.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
+Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 1 
+SCHEDULE 7 
+Long-Term Firm and Short-Term Firm Point-To-Point 
+Transmission Service 
+ 
+1) The Transmission Customer shall pay each month for Reserved Capacity at the sum of the applicable charges set forth below for the Point of Delivery: 
+Summary of Charges 
+(in $/kW) 
+ 
+Point of Delivery 
+ 
+Yearly Charge 
+ 
+Monthly Charge 
+ 
+Weekly Charge 
+ 
+Daily On-Peak1/ 
+Charge 
+ 
+Daily Off-Peak2/ 
+Charge 
+Border of PJM3/ Border Yearly Charge 
+established pursuant to 
+section 11 below 
+Yearly Charge /12 Yearly Charge /52 Weekly Charge /5 Weekly Charge /7 
+AE Zone 23.809 1.984 0.4580 0.0920 0.0650 
+BGE Zone 15.675 1.306 0.3010 0.0600 0.0430 
+Delmarva Zone 19.378 1.615 0.3730 0.0750 0.0530 
+JCPL Zone 15.112 1.259 0.2906 0.0581 0.0414 
+MetEd Zone 15.112 1.259 0.2906 0.0581 0.0414 
+Penelec Zone 15.112 1.259 0.2906 0.0581 0.0414 
+PECO Zone 26.264 2.189 0.5051 0.1010 0.0722 
+PPL Zone: Total charge is the sum of 
+the components 
+PPL: * 
+AEC: 0.463 
+UGI: * 
+PPL: * 
+AEC: 0.039 
+UGI: * 
+PPL: * 
+AEC: 0.0089 
+UGI: * 
+PPL: * 
+AEC: 0.0018 
+UGI: * 
+PPL: * 
+AEC: 0.0013 
+UGI: * 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
+Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 2 
+Point of Delivery Yearly Charge Monthly Charge Weekly Charge Daily On-Peak1/ 
+Charge  
+Daily Off-Peak2/ 
+Charge  
+Pepco Zone 20.999 1.750 0.4040 0.0810 0.0580 
+PSE&G Zone 23.696 1.975 0.4557 0.0911 0.0651 
+AP Zone Rate Pursuant to 

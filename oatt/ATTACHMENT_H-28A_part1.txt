@@ -1,0 +1,1897 @@
+[ATTACHMENT H-28A - Part 1 of 2]
+
+Attachment H-28A 
+page 1 of 5 
+ 
+Formula Rate - Non-Levelized Rate Formula Template For the 12 months ended 12/31/2017 
+Utilizing FERC Form 1 Data 
+ 
+Mid-Atlantic Interstate Transmission, LLC 
+ (1) (2) (3)   (4)  (5) 
+ 
+Line  Allocated 
+No.  Amount 
+1 GROSS REVENUE REQUIREMENT [page 3, line 43, col 5]  
+       
+ REVENUE CREDITS (Note T) Total  Allocator   
+2 Account No. 451 (page 4, line 29)   TP    
+3 Account No. 454 (page 4, line 30)   TP    
+4 Account No. 456 (page 4, line 31)   TP    
+5 Revenues from Grandfathered Interzonal Transactions -  TP    
+6 Revenues from service provided by the ISO at a discount -  TP    
+7 TEC Revenue Attachment 11, Page 2, Line 3, Col. 12   TP    
+8 TOTAL REVENUE CREDITS (sum lines 2-7)       
+         
+9 True-up Adjustment with Interest Attachment 13, Line 28       
+         
+10 NET REVENUE REQUIREMENT (Line 1 - Line 8 + Line 9)       
+         
+         
+         
+ DIVISOR       Total 
+11 1 Coincident Peak (CP) (MW)    (Note A)  
+12 Average 12 CPs (MW)     (Note CC)  
+        
+   Total     
+13 Annual Rate ($/MW/Yr) (line 10 / line 11)      
+        
+   Peak Rate    Off-Peak Rate 
+   Total    Total 
+14 Point-to-Point Rate ($/MW/Year) (line 10 / line 12)      
+15 Point-to-Point Rate ($/MW/Month) (line 14/12)      
+16 Point-to-Point Rate ($/MW/Week) (line 14/52)      
+17 Point-to-Point Rate ($/MW/Day) (line 16/5; line 16/7)      
+18 Point-to-Point Rate ($/MWh) (line 14/4,160; line 14/8,760)      
+        
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R -
+-> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 2 
+Attachment H-28A 
+page 2 of 5 
+ 
+ Formula Rate - Non-Levelized  Rate Formula Template  For the 12 months ended 12/31/2017 
+Utilizing FERC Form 1 Data 
+ 
+Mid-Atlantic Interstate Transmission, LLC 
+(1) (2) (3) (4) (5) 
+    Transmission 
+Line  Source Company Total Allocator (Col 3 times Col 4) 
+No. RATE BASE:       
+ GROSS PLANT IN SERVICE       
+1 Production Attachment 3, Line 14, Col. 1 (Notes U & X) -  NA    
+2 Transmission Attachment 3, Line 14, Col. 2 (Notes U & X)   TP    
+3 Distribution Attachment 3, Line 14, Col. 3 (Notes U & X)   NA    
+4 General & Intangible Attachment 3, Line 14, Col. 4 & 5 (Notes U & X)   W/S    
+5 Common Attachment 3, Line 14, Col. 6 (Notes U & X)   CE    
+6 TOTAL GROSS PLANT (sum lines 1-5)   GP= %   
+         
+ ACCUMULATED DEPRECIATION       
+7 Production Attachment 4, Line 14, Col. 1 (Notes U & X)   NA    
+8 Transmission Attachment 4, Line 14, Col. 2 (Notes U & X)   TP    
+9 Distribution Attachment 4, Line 14, Col. 3 (Notes U & X)   NA    
+10 General & Intangible Attachment 4, Line 14, Col. 4 & 5 (Notes U & X)   W/S    
+11 Common Attachment 4, Line 14, Col. 6 (Notes U & X)   CE    
+12 TOTAL ACCUM. DEPRECIATION (sum lines 7-11)       
+         
+ NET PLANT IN SERVICE        
+13 Production (line 1- line 7)       
+14 Transmission (line 2- line 8)       
+15 Distribution (line 3 - line 9)       
+16 General & Intangible (line 4 - line 10)       
+17 Common (line 5 - line 11)       
+18 TOTAL NET PLANT (sum lines 13-17)   NP= %   
+         
+ ADJUSTMENTS TO RATE BASE       
+19 Account No. 281 (enter negative) Attachment 5, Line 3, Col. 1 (Notes F & Y & DD & EE)   NA    
+20 Account No. 282 (enter negative) Attachment 5, Line 3, Col. 2 (Notes F & Y & DD & EE)   NP    
+21 Account No. 283 (enter negative) Attachment 5, Line 3, Col. 3 (Notes F & Y & DD & EE)   NP    
+22 Account No. 190 Attachment 5, Line 3, Col. 4 (Notes F & Y & DD & EE)   NP    
+23 Account No. 255 (enter negative) Attachment 5, Line 3, Col. 5 (Notes F & Y & DD & EE)   NP    
+24 Unfunded Reserve Plant-related (enter negative) Attachment 14, Line 9, Col. G (Note Y)   DA 1.00000   
+25 Unfunded Reserve Labor-related (enter negative) Attachment 14, Line 10, Col. G (Note Y)   DA 1.00000   
+26 CWIP 216.b (Notes X & Z)   DA 1.00000   
+27 Unamortized Regulatory Asset Attachment 16a, 16b, 16c, line 15, Col. 7 (Notes X)   DA 1.00000   
+28 Unamortized Abandoned Plant Attachment 17, Line 15, Col. 7 (Notes X & BB)   DA 1.00000   
+29 TOTAL ADJUSTMENTS (sum lines 19-28 )       
+         
+30 LAND HELD FOR FUTURE USE 214.x.d (Attachment 14, Line 1, Col. D) (Notes G & Y)   TP    
+         
+31 WORKING CAPITAL (Note H)        
+32 CWC 1/8*(Page 3, Line 15 minus Page 3, Lines 11 & 12)       
+33 Materials & Supplies (Note G) 227.8.c & .16.c (Attachment 14, Line 2, Col. D) (Note 
+Y) 
+  TE    
+34 Prepayments (Account 165) 111.57.c (Attachment 14, Line 3, Col. D) (Notes B & Y)   GP    
+35 TOTAL WORKING CAPITAL (sum lines 32 - 34)       
+        
+36 RATE BASE (sum lines 18, 29, 30, & 35)       
+         
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R -
+-> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 3 
+Attachment H-28A 
+page 3 of 5 
+ 
+ Formula Rate - Non-Levelized  Rate Formula Template For the 12 months ended 12/31/2017 
+Utilizing FERC Form 1 Data 
+ 
+Mid-Atlantic Interstate Transmission, LLC 
+(1) (2) (3) (4)  (5) 
+     Transmission 
+Line  Source Company Total Allocator  (Col 3 times Col 4) 
+No.     
+ O&M         
+1   Transmission  321.112.b (Attachment 20, page 1, line 112)   TE    
+2      Less LSE Expenses Included in Transmission O&M Accounts (Note W)   DA 1.00000   
+3      Less Account 565 321.96.b   DA 1.00000   
+4      Less Account 566 321.97.b   DA 1.00000   
+5   A&G 323.197.b (Attachment 20, page 2, line 197)   W/S    
+6      Less FERC Annual Fees    W/S    
+7      Less EPRI & Reg. Comm. Exp. & Non-safety Ad. (Note I)   W/S    
+8      Plus Transmission Related Reg. Comm. Exp. (Note I)   TE    
+9      PBOP Expense Adjustment in Year Attachment 6, Line 9   DA 1.00000   
+10   Common 356.1   CE    
+11 Account 407.3 Amortization of Regulatory Assets Attachment 16a, 16b, 16c, Line 15, Col. 5   DA 1.00000   
+12 Account 566 Amortization of Regulatory Assets 321.97.b. (notes)   DA 1.00000   
+13    Acct. 566 Miscellaneous Transmission Expense (less amortization of regulatory asset) 321.97.b - line 12   DA 1.00000   
+14 Total Account 566 (sum lines 12 & 13, ties to 321.97.b)       
+15 TOTAL O&M (sum lines 1, 5,8, 9, 10, 11, 14 less 2, 3, 4, 6, 7)       
+         
+ DEPRECIATION AND AMORTIZATION EXPENSE        
+16   Transmission  336.7.b (Note U)   TP    
+17   General & Intangible 336.1.f & 336.10.f (Note U)   W/S    
+18   Common 336.11.b (Note U)   CE    
+19   Amortization of Abandoned Plant Attachment 17, Line 15, Col. 5 (Note BB)   DA 1.00000   
+20 TOTAL DEPRECIATION (sum lines 16 -19)       
+         
+  TAXES OTHER THAN INCOME TAXES (Note J)       
+   LABOR RELATED        
+21           Payroll 263.i (Attachment 7, line 1z)   W/S    
+22           Highway and vehicle 263.i (Attachment 7, line 2z)   W/S    
+23   PLANT RELATED         
+24          Property 263.i (Attachment 7, line 3z)   GP    
+25          Gross Receipts 263.i (Attachment 7, line 4z)   NA    
+26          Other 263.i (Attachment 7, line 5z)   GP    
+27          Payments in lieu of taxes Attachment 7, line 6z   GP    
+28 TOTAL OTHER TAXES (sum lines 21 - 27)       
+         
+  INCOME TAXES (Note K)       
+29      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = %      
+30      CIT=(T/1-T) * (1-(WCLTD/R)) = %      
+        where WCLTD=(page 4, line 22) and R= (page 4, line 25)      
+        and FIT, SIT & p are as given in footnote K.       
+31       1 / (1 - T) = (from line 29)       
+32 Amortized Investment Tax Credit (266.8.f) (enter negative)       
+33 Tax Effect of Permanent Differences and AFUDC Equity (Attachment 15, Line 1, Col. 3) [Notes D & Y]       
+34 (Excess)/Deficient Deferred Income Taxes (Attachment 15, Lines 2 & 3, Col. 3) [Notes E & Y]       
+35 Income Tax Calculation = line 30 * line 40   NA    
+36 ITC adjustment (line 31 * line 32)   NP    
+37 Permanent Differences and AFUDC Equity Tax Adjustment (line 31 * line 33)   DA 1.00000   
+38 (Excess)/Deficient Deferred Income Tax Adjustment (line 31 * line 34)   DA 1.00000   
+39 Total Income Taxes sum lines 35 through 38       
+          
+40 RETURN  [Rate Base (page 2, line 36) * Rate of 
+Return (page 4, line 25)] 
+  NA    
+       
+         
+41 GROSS REV. REQUIREMENT (WITHOUT INCENTIVE) (sum lines 15, 20, 28, 39, 40)       
+        
+         
+42 ADDITIONAL INCENTIVE REVENUE Attachment 11, page 2, Line 4, col 11 
+(Note AA) 
+      
+         
+43 GROSS REV. REQUIREMENT  (line 41 + line 42)       
+         
+         
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R -
+-> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 4 
+Attachment H-28A 
+page 4 of 5 
+ 
+ Formula Rate - Non-Levelized  Rate Formula Template  For the 12 months ended 12/31/2017 
+ Utilizing FERC Form 1 Data 
+ Mid-Atlantic Interstate Transmission, LLC 
+       SUPPORTING CALCULATIONS AND NOTES 
+Line (1) (2) (3) (4)  (5)  (6)   
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES         
+1 Total transmission plant (page 2, line 2, column 3)         
+2 Less transmission plant excluded from ISO rates (Note M)         
+3 Less transmission plant included in OATT Ancillary Services (Note N )         
+4 Transmission plant included in ISO rates (line 1 less lines 2 & 3)        
+5 Percentage of transmission plant included in ISO Rates (line 4 divided by line 1)   TP=    
+           
+ TRANSMISSION EXPENSES         
+           
+6 Total transmission expenses (page 3, line 1, column 3)         
+7 Less transmission expenses included in OATT Ancillary Services (Note L)         
+8 Included transmission expenses (line 6 less line 7)         
+9 Percentage of transmission expenses after adjustment (line 8 divided by line 6)       
+10 Percentage of transmission plant included in ISO Rates (line 5)    TP     
+11 Percentage of transmission expenses included in ISO Rates (line 9 times line 10)   TE=    
+           
+ WAGES & SALARY ALLOCATOR (W&S)         
+  Form 1 
+Reference 
+$ TP  Allocation   
+12 Production 354.20.b - 0.00  -     
+13 Transmission 354.21.b -   -     
+14 Distribution 354.23.b - 0.00  -  W&S Allocator   
+15 Other 354.24,25,26.b - 0.00  -  ($ / Allocation)   
+16 Total (sum lines 12-15)  -   - =  = WS  
+           
+ COMMON PLANT ALLOCATOR (CE) (Note O)         
+   $   % Electric  W&S Allocator   
+17 Electric 200.3.c -   (line 17 / line 20) (line 16)  CE 
+18 Gas 201.3.d -    *  =  
+19 Water 201.3.e -        
+20 Total (sum lines 17 - 19)  -        
+           
+ RETURN (R)       $   
+           
+21  Preferred Dividends (118.29c) (positive number)    -   
+           
+           
+    (Note C)  Cost     
+   $ %  (Note P)  Weighted  
+22 Long Term Debt (112.24.c) (Attachment 8, Line 14, Col. 7) (Note X) $ %     = 
+WCLTD 
+23 Preferred Stock (112.3d) (Attachment 8, Line 14, Col. 2) (Note X) $ %       
+24 Common Stock (Attachment 8, Line 14, Col. 6) (Note X) $ %  0.103     
+25 Total (sum lines 22-24)  $      = R  
+           
+ REVENUE CREDITS          
+ ACCOUNT 447 (SALES FOR RESALE) (310-
+311) 
+(Note Q)      
+26 a. Bundled Non-RQ Sales for Resale (311.x.h)     -   
+27 b. Bundled Sales for Resale included in Divisor on page 1     -   
+28 Total of (a)-(b)      -   
+          
+29 ACCOUNT 451 (MISCELLANEOUS SERVICE REVENUE) (Note S) (300.17.b) (Attachment 21, line 
+1z) 
+     
+          
+30 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY) (Note R) (300.19.b) (Attachment 21, line 
+2z) 
+     
+          
+31 ACCOUNT 456 (OTHER ELECTRIC REVENUE) (Note V) (330.x.n) Attachment 21, line 3z)      
+          
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 5 
+  Attachment H-28A 
+  page 5 of 5 
+Formula Rate - Non-Levelized Rate Formula Template For the 12 months ended 12/31/2017 
+ Utilizing FERC Form 1 Data  
+ 
+Mid-Atlantic Interstate Transmission, LLC 
+ 
+General Note:  References to pages in this formulary rate are indicated as:  (page#, line#, col.#) 
+References to data from FERC Form 1 are indicated as:  #.y.x (page, line, column) 
+Note  
+Letter  
+A As provided by PJM and in effect at the time of the annual rate calculations pursuant to Section 34.1 of the PJM OATT. Includes combined CPs for Met-Ed and Penelec zones. 
+B Prepayments shall exclude prepayments of income taxes. 
+C In its order approving the transfer of Penelec’s and Met-Ed’s transmission assets to MAIT, the Commission approved MAIT’s commitment to apply a 50 percent equity/50 percent debt 
+capital structure for ratemaking purposes for a two-year transition period.  Pennsylvania Electric, 154 FERC ¶ 61,109 at P 51.  Consequently, for the first two years (i.e., calendar years 
+2017 and 2018) the hypothetical capital structure will be used instead of the actual calculation.  Per the Settlement Agreement in docket number ER17-211-000, beginning in calendar year 
+2019, the equity component of MAIT’s capital structure to be used in calculating charges under the formula rate shall be the lower of (i) MAIT’s actual equity component as calculated in 
+accordance with Attachment 8 or (ii) 60%.  
+D Includes the annual income tax cost or benefits due to permanent differences or differences between the amounts of expenses or revenues recognized in one period for ratemaking 
+purposes and the amounts recognized for income tax purposes which do not reverse in one or more other periods, including the cost of income taxes on the Allowance for Other Funds 
+Used During Construction. 
+E Upon enactment of changes in tax law, income tax rates (and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, 
+resulting in excess or deficient accumulated deferred taxes for schedule M balances not taken directly to the P&L.  Such excess or deficient deferred taxes attributed to the transmission 
+function will be based upon tax records and calculated in the calendar year in which the excess or deficient amount was measured and recorded for financial reporting purposes.  Amounts 
+to be included will be January 1, 2017 and thereafter.  
+F The balances in Accounts 190, 281, 282 and 283, should exclude all FASB 106 or 109 related amounts.  For example, any and all amounts in contra accounts identified as regulatory 
+assets or liabilities related to FASB 106 or 109 should be excluded.  The balance of Account 255 is reduced by prior flow throughs and excluded if the utility chose to utilize amortization 
+of tax credits against taxable income as discussed in Note K.  Account 281 is not allocated.  
+G Identified in Form 1 as being only transmission related. 
+H Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 15, column 5 minus amortization of regulatory assets (page 3, lines 11 & 
+12, col. 5).  Prepayments are the electric related prepayments booked to Account No. 165 and reported on Page 111, line 57 in the Form 1. 
+I Line 7 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1.  
+Line 8 - Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h.  
+J Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year.  Taxes related to income are excluded.  Gross receipts taxes are 
+not included in transmission revenue requirement in the Rate Formula Template, since they are recovered elsewhere. 
+K The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state 
+income taxes".  If the utility is taxed in more than one state it must attach a work paper showing the name of each state and how the blended or composite SIT was developed.  
+Furthermore, a utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its 
+income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, line 31) 
+  Inputs Required: FIT = %  
+  SIT= % (State Income Tax Rate or Composite SIT) 
+  p =  (percent of federal income tax deductible for state purposes) 
+L Removes dollar amount of transmission expenses included in the OATT ancillary services rates, including Account Nos. 561.1 - 561.3, and 561.BA, and related to generation step-up 
+facilities, which are deemed included in OATT ancillary services.  For these purposes, generation step-up facilities are those facilities at a generator substation on which there is no 
+through-flow when the generator is shut down. 
+M Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of 
+seven-factor test). 
+N Removes dollar amount of transmission plant included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT 
+ancillary services.  For these purposes, generation step-up facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down. 
+O Enter dollar amounts 
+P Debt cost rate will be set at 4.5% until such time as debt is issued by MAIT.  Once debt is issued, the long-term debt cost rate will be the weighted average of the rates for all outstanding 
+debt instruments, calculated within Attachment 10, col. j.  Consistent with Note C, there will be no preferred stock cost, consistent with MAIT’s commitment to use a hypothetical 
+50%/50% capital structure until calendar year 2019.  Thereafter, Preferred cost rate = preferred dividends (line 21) / preferred outstanding (line 23).  No change in ROE may be made 
+absent a filing with FERC under Section 205 or Section 206 of the Federal Power Act.  Per the Settlement Agreement in Docket No. ER17-211-000, MAIT's stated ROE is set to 10.30% 
+(9.8% base ROE plus 50 basis point adder for RTO participation). 
+Q Line 28 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1 and all other uses are to be included in the 
+divisor. 
+R Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+S Excludes revenues unrelated to transmission services. 
+T The revenues credited on page 1, lines 2-6 shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for service under this tariff) 
+reflecting the Transmission Owner's integrated transmission facilities.  They do not include revenues associated with FERC annual charges, gross receipts taxes, ancillary services, or 
+facilities not included in this template (e.g., direct assignment facilities and GSUs) which are not recovered under this Rate Formula Template.  The revenue on line 7 is supported by it 
+own reference. 
+U Plant in Service, Accumulated Depreciation, and Depreciation Expense amounts exclude Asset Retirement Obligation amounts unless authorized by FERC. 
+V On Page 4, Line 31, enter revenues from RTO settlements that are associated with NITS and firm Point-to-Point Service for which the load is not included in the divisor to derive Met-Ed's 
+and Penelec's zonal rates.  Exclude non-firm Point-to-Point revenues and revenues related to RTEP projects. 
+W Account Nos. 561.4, 561.8, and 575.7 consist of RTO expenses billed to load-serving entities and are not included in Transmission Owner revenue requirements. 
+X Calculate using a 13 month average balance. 
+Y Calculate using average of beginning and end of year balance. 
+Z Includes only CWIP authorized by the Commission for inclusion in rate base. 
+AA Any actual ROE incentive must be approved by the Commission; therefore, line will remain zero until a project(s) is granted an ROE incentive adder. 
+BB Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of abandoned plant.  Utility must submit 
+a Section 205 filing to recover the cost of abandoned plant. 
+CC Peak as would be reported on page 401, column d of Form 1 at the time of Met-Ed's and Penelec's zonal peak for the twelve month period ending October 31 of the calendar year used to 
+calculate rates.  The projection year will utilize the most recent preceding 12-month period at the time of the filing. 
+DD 
+EE 
+Includes transmission-related balance only. 
+The settlement filed in Docket No. ER20-1951-003 on October 18, 2022 specifies the calculation of certain ADIT balances. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; 
+R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 6 
+Attachment H-28A, Attachment 1 
+page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+ 
+Schedule 1A Rate Calculation 
+ 
+1 $ Attachment H-28A, Page 4, Line 7 
+2 $ Revenue Credits for Sched 1A - Note A 
+ 3  Net Schedule 1A Expenses (Line 1 - Line 2) 
+ 
+ 4  Annual MWh in Met-Ed and Penelec Zones - Note B 
+ 5  Schedule 1A rate $/MWh (Line 3/ Line 4) 
+ 
+Note:   
+A  Revenues received pursuant to PJM Schedule 1A revenue allocation procedures for 
+transmission service outside of Met-Ed's and Penelec's zones during the year used to 
+calculate rates under Attachment H-28A. 
+ 
+B  Load expressed in MWh consistent with load used for billing under Schedule 1A for the 
+Met-Ed and Penelec zones.  Data from RTO settlement systems for the calendar year 
+prior to the rate year. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; 
+R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 7 
+Attachment H-28A, Attachment 2 
+  Incentive ROE Calculation   page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+Return Calculation 
+      Source Reference  
+        
+1  Rate Base   Attachment H-28A, page 2, Line 36, Col. 5  
+        
+        
+2  Preferred Dividends  enter positive Attachment H-28A, page 4, Line 21, Col. 6  
+        
+  Common Stock     
+3   Proprietary Capital   Attachment 8, Line 14, Col. 1  
+4          Less Preferred Stock    Attachment 8, Line 14, Col. 2  
+5          Less Accumulated Other Comprehensive Income Account 219 Attachment 8, Line 14, Col. 4  
+6          Less Account 216.1 & Goodwill   Attachment 8, Line 14, Col. 3 & 5  
+7   Common Stock   Attachment 8, Line 14, Col. 6  
+        
+        
+  Capitalization     
+8          Long Term Debt   Attachment H-28A, page 4, Line 22, Col. 3  
+9          Preferred Stock   Attachment H-28A, page 4, Line 23, Col. 3  
+10          Common Stock    Attachment H-28A, page 4, Line 24, Col. 3  
+11          Total Capitalization   Attachment H-28A, page 4, Line 25, Col. 3  
+  
+12          Debt %  Total Long Term Debt Attachment H-28A, page 4, Line 22, Col. 4 % 
+13          Preferred %  Preferred Stock Attachment H-28A, page 4, Line 23, Col. 4 % 
+14          Common %  Common Stock Attachment H-28A, page 4, Line 24, Col. 4 % 
+  
+15          Debt Cost  Total Long Term Debt Attachment H-28A, page 4, Line 22, Col. 5  
+16          Preferred Cost  Preferred Stock Attachment H-28A, page 4, Line 23, Col. 5  
+17          Common Cost  Common Stock 10.30%  0.1030 
+        
+18          Weighted Cost of Debt  Total Long Term Debt (WCLTD) (Line 12 * Line 15)  
+19          Weighted Cost of Preferred  Preferred Stock (Line 13 * Line 16)  
+20          Weighted Cost of Common  Common Stock (Line 14 * Line 17)  
+21  Rate of Return on Rate Base ( ROR )  (Sum Lines 18 to 20)  
+        
+22  Investment Return = Rate Base * Rate of 
+Return 
+ (Line 1 * Line 21)  
+ 
+Income Taxes 
+ 
+  Income Tax Rates 
+23        T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = Attachment H-28A, page 3, Line 29, Col. 3 % 
+24        CIT=(T/1-T) * (1-(WCLTD/R)) = Calculated  
+ 
+ 
+25         1 / (1 - T) = (from line 23) Attachment H-28A, page 3, Line 31, Col. 3  
+26   Amortized Investment Tax Credit (266.8.f) (enter negative) Attachment H-28A, page 3, Line 32, Col. 3  
+27   Tax Effect of Permanent Differences and AFUDC Equity Attachment H-28A, page 3, Line 33, Col. 3  
+28   (Excess)/Deficient Deferred Income Taxes Attachment H-28A, page 3, Line 34, Col. 3  
+29   Income Tax Calculation (line 22 * line 24)  
+30   ITC adjustment (line 25 * line 26)  
+31   Permanent Differences and AFUDC Equity Tax Adjustment Attachment H-28A, page 3, Line 37, Col. 3  
+32   (Excess)/Deficient Deferred Income Tax Adjustment Attachment H-28A, page 3, Line 38, Col. 3  
+33   Total Income Taxes Sum lines 29 to 32  
+ 
+Increased Return and Taxes 
+ 
+34   Return and Income taxes with increase in ROE (Line 22 + Line 33)  
+ 
+35   Return without incentive adder Attachment H-28A, Page 3, Line 40, Col. 5  
+36   Income Tax without incentive adder Attachment H-28A, Page 3, Line 39, Col. 5  
+37   Return and Income taxes without increase in ROE Line 35 + Line 36  
+38   Return and Income taxes with increase in ROE Line 34  
+39   Incremental Return and incomes taxes for increase in ROE Line 38 - Line 37  
+40   Rate Base Line 1  
+41   Incremental Return and incomes taxes for increase in ROE divided by rate base Line 39 / Line 40  
+ 
+Notes: 
+ Line 17 to include an incentive ROE that is used only to determine the increase in return and incomes taxes associated with a specific increase in ROE.  Any actual 
+ROE incentive must be approved by the Commission.  Until an ROE incentive is approved, line 17 will reflect the current ROE. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; 
+R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 8 
+Attachment H-28A, Attachment 3 
+page 1 of 1 
+ 
+ Gross Plant Calculation For the 12 months ended 12/31/2017 
+    [1] [2] [3] [4] [5] [6] [7] 
+    Production Transmission Distribution Intangible General Common Total 
+           
+1 December 2016         
+2 January 2017         
+3 February 2017         
+4 March 2017         
+5 April 2017         
+6 May 2017         
+7 June 2017         
+8 July 2017         
+9 August 2017         
+10 September 2017         
+11 October 2017         
+12 November 2017         
+13 December 2017         
+           
+14 13-month Average [A] [C]        
+           
+    Production Transmission Distribution Intangible General Common Total 
+           
+   [B] 205.46.g 207.58.g 207.75.g 205.5.g 207.99.g 356.1  
+15 December 2016         
+16 January 2017         
+17 February 2017         
+18 March 2017         
+19 April 2017         
+20 May 2017         
+21 June 2017         
+22 July 2017         
+23 August 2017         
+24 September 2017         
+25 October 2017         
+26 November 2017         
+27 December 2017         
+           
+28 13-month Average  -       
+           
+           
+ Asset Retirement Costs  
+    Production Transmission Distribution Intangible General Common  
+          
+   [B] 205.44.g 207.57.g 207.74.g company records 207.98.g company records  
+29 December 2016         
+30 January 2017         
+31 February 2017         
+32 March 2017         
+33 April 2017         
+34 May 2017         
+35 June 2017         
+36 July 2017         
+37 August 2017         
+38 September 2017         
+39 October 2017         
+40 November 2017         
+41 December 2017         
+          
+42 13-month Average  - - - -  
+           
+Notes: 
+[A] Included on Attachment H-28A, page 2, lines 1-6, Col. 3 
+[B] Reference for December balances as would be reported in FERC Form 1. 
+[C] Balance excludes Asset Retirements Costs 
+[D] Met-Ed retained 34.5 kV lines 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; 
+R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 9 
+Attachment H-28A, Attachment 4 
+page 1 of 1 
+ 
+ Accumulated Depreciation Calculation For the 12 months ended 12/31/2017 
+    [1] [2] [3] [4] [5] [6] [7] 
+    Production Transmission Distribution Intangible General Common Total 
+           
+1 December 2016         
+2 January 2017         
+3 February 2017         
+4 March 2017         
+5 April 2017         
+6 May 2017         
+7 June 2017         
+8 July 2017         
+9 August 2017         
+10 September 2017         
+11 October 2017         
+12 November 2017         
+13 December 2017         
+           
+14 13-month Average [A] [C]        
+           
+    Production Transmission Distribution Intangible General Common Total 
+           
+   [B] 219.20-24.c 219.25.c 219.26.c 200.21.c 219.28.c 356.1  
+15 December 2016         
+16 January 2017         
+17 February 2017         
+18 March 2017         
+19 April 2017         
+20 May 2017         
+21 June 2017         
+22 July 2017         
+23 August 2017         
+24 September 2017         
+25 October 2017         
+26 November 2017         
+27 December 2017         
+           
+28 13-month Average  -       
+ 
+ 
+ Reserve for Depreciation of Asset Retirement Costs  
+    Production Transmission Distribution Intangible General Common  
+   
+   [B]  Company Records     
+29 December 2016         
+30 January 2017         
+31 February 2017         
+32 March 2017         
+33 April 2017         
+34 May 2017         
+35 June 2017         
+36 July 2017         
+37 August 2017         
+38 September 2017         
+39 October 2017         
+40 November 2017         
+41 December 2017         
+           
+42 13-month Average       
+ 
+Notes: 
+[A] Included on Attachment H-28A, page 2, lines 7-11, Col. 3 
+[B] Reference for December balances as would be reported in FERC Form 1. 
+[C] Balance excludes reserve for depreciation of asset retirement costs 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; 
+R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 10 
+Attachment H-28A, Attachment 5 
+page 1 of 1 
+      ADIT Calculation  For the 12 months ended 12/31/2017 
+             
+    [1] [2] [3] [4] [5] [6]    
+ADIT Transmission Total (including Plant & Labor Related Transmission ADITs and applicable transmission adjustments from notes below    
+    Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255 Total    
+    (enter negative) (enter negative) (enter negative)  (enter negative)     
+     [C] [D] [E] [F]     
+1 December 31 2016  -         
+2 December 31 2017  -         
+             
+3 Begin/End Average [A] -         
+             
+             
+    Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255 Total    
+ ADIT Total Transmission-related only, including Plant & Labor Related Transmission ADITs (prior to adjustments from notes below)    
+   [B] 273.8.k 275.2.k 277.9.k  234.8.c  267.h      
+4 December 31 2016           
+5 December 31 2017           
+             
+6 Begin/End Average -         
+             
+             
+Notes:            
+[A]  Beginning/Ending Average with adjustments for FAS143, FAS106, FAS109, CIACs and normalization to populate Appendix H-28A, page 2, lines 19-23, col. 3 for accounts 281, 
+282, 283, 190, and 255, respectively 
+   
+[B]  Reference for December balances as would be reported in FERC Form 1.    
+[C]  FERC Account No. 282 is adjusted for the following items.    
+    
+    
+ FAS 143 - ARO FAS 106 FAS 109 CIAC Other [H] Other [H] Normalization [G]  EDIT FAS109 [I] Other FAS109 [I] 
+2016 - -   - - -    
+2017 - -         
+[D]  FERC Account No. 283 is adjusted for the following items.        
+           
+           
+ FAS 143 - ARO FAS 106 FAS 109 CIAC Other [H] Other [H] Normalization [G]  EDIT FAS109 [I] Other FAS109 [I] 
+2016 - -   - - -    
+2017 - -         
+[E]  FERC Account No. 190 is adjusted for the following items:      
+           
+ FAS 143 - ARO FAS 106 FAS 109 CIAC Other [H] 
+ 
+Other [H] 
+ 
+Normalization [G]  EDIT FAS109 [I] Other FAS109 [I] 
+2016 - - -        
+2017 - - -        
+          
+[F]  See Attachment H-28A, page 5, note K; A utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and 
+reduce rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f). 
+   
+[G]  Taken from Attachment 5a, page 2, col. 4.    
+[H]  Include any additional adjustments to ADIT items as may be recognized in the future to be proper for PTRR/ATRR calculation purposes.    
+[I]  FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Attachment 15a total. Other FAS109 does not include EDIT.    
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 11 
+Attachment H-28A, Attachment 5a 
+page 1 of 2 
+For the 12 months ended 12/31/2017 
+ADIT Normalization Calculation 
+[1]  [2] [3] [4] [5] [6] [7] [8] [9] 
+  
+2017 Quarterly Activity and Balances 
+          
+Beginning 190 (including 
+adjustments) 
+ 
+Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+          
+          
+Beginning 190 (including 
+adjustments) 
+ 
+Pro-rated Q1  Pro-rated Q2  Pro-rated Q3  Pro-rated Q4 
+ 
+          
+          
+          
+Beginning 282 (including 
+adjustments) 
+ 
+Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+          
+          
+Beginning 282 (including 
+adjustments) 
+ 
+Pro-rated Q1  Pro-rated Q2  Pro-rated Q3  Pro-rated Q4  
+          
+          
+          
+Beginning 283 (including 
+adjustments) 
+ 
+Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+          
+          
+Beginning 283 (including 
+adjustments) 
+ 
+Pro-rated Q1  Pro-rated Q2  Pro-rated Q3  Pro-rated Q4 
+ 
+          
+          
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 12 
+Attachment H-28A, Attachment 5a 
+page 2 of 2 
+For the 12 months ended 12/31/2017 
+ADIT Normalization Calculation 
+  [1]  [2] [3] [4] [5] 
+2017 Activity  
+FERC Form 1 - 
+Year-End (sourced 
+from Attachment 5, 
+page 1, line 5)  
+Prorated year-end 
+less FERC Form 1 
+Year-end 
+Sum of FAS143, 
+FAS106, FAS109, 
+CIAC and Other from 
+Attachment 5, page 1, 
+notes 
+Total Normalization to 
+Attachment 5 (col. 2 - 
+col. 3) 
+Ending Balance for 
+formula rate (col. 1 - 
+col. 3. - col. 4) 
+         
+         
+         
+         
+Pro-rated Total Pro-rated Ending 190        
+         
+         
+         
+         
+         
+         
+Pro-rated Total Pro-rated Ending 282        
+         
+         
+         
+         
+         
+         
+Pro-rated Total Pro-rated Ending 283        
+         
+         
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 13 
+Attachment H-28A, Attachment 5b 
+page 1 of 3 
+For the 12 months ended 12/31/2017 
+ 
+ ADIT Detail  
+     
+ COLUMN A COLUMN B COLUMN C COLUMN D 
+     
+  BALANCE AS BALANCE AS AVERAGE  
+  OF 12-31-16 OF 12-31-17 BALANCE 
+     
+ ACCOUNT 255:    
+     
+     
+     
+     
+1 TOTAL ACCOUNT 255    
+     
+     
+ ACCOUNT 282:    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+2 TOTAL ACCOUNT 282    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 14 
+Attachment H-28A, Attachment 5b 
+page 2 of 3 
+For the 12 months ended 12/31/2017 
+ 
+ ADIT Detail    
+     
+ COLUMN A COLUMN B COLUMN C COLUMN D 
+     
+  BALANCE AS BALANCE AS AVERAGE  
+  OF 12-31-16 OF 12-31-17 BALANCE 
+     
+ ACCOUNT 283:    
+     
+     
+     
+     
+     
+     
+     
+     
+3 TOTAL ACCOUNT 283    
+     
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 15 
+Attachment H-28A, Attachment 5b 
+page 3 of 3 
+ For the 12 months ended 12/31/2017 
+ 
+ ADIT Detail    
+     
+ COLUMN A COLUMN B COLUMN C COLUMN D 
+     
+  BALANCE AS BALANCE AS AVERAGE  
+  OF 12-31-16 OF 12-31-17 BALANCE 
+     
+ ACCOUNT 190:    
+     
+     
+     
+     
+     
+     
+4 TOTAL ACCOUNT 190    
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 16 
+Attachment H-28A, Attachment 6 
+page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+1  Calculation of PBOP Expenses    
+      
+2  MAIT Amount   Source 
+3  Total FirstEnergy PBOP expenses  (108,686,300)  FirstEnergy 2015 Actuarial Study 
+4  Labor dollars (FirstEnergy) 2,024,261,894  FirstEnergy 2015 Actual: Company Records 
+5  cost per labor dollar (line 3 / line 4) -$0.0537   
+6  labor (labor not capitalized) current year   MAIT Labor: Company Records 
+7  PBOP Expense for current year (line 5 * line 6) $   
+8  PBOP expense in Account 926 for current year   MAIT Account 926: Company Records 
+9  PBOP Adjustment for Attachment H-28A, page 3, line 9 (line 7 - line 8)    
+      
+      
+10  Lines 3-4 cannot change absent a Section 205 or 206 filing approved or accepted by FERC in a separate proceeding 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 17 
+Attachment H-28A, Attachment 7 
+page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+ Taxes Other than Income Calculation   
+    
+  [A] Dec 31, 2017 
+1 Payroll Taxes   
+1a  263.i - 
+1b  263.i - 
+1c  263.i - 
+1z Payroll Taxes Total  - 
+    
+2 Highway and Vehicle Taxes   
+2a  263.i - 
+2z Highway and Vehicle Taxes  - 
+    
+3 Property Taxes   
+3a  263.i - 
+3b   - 
+3c   - 
+3z Property Taxes  - 
+    
+4 Gross Receipts Tax   
+4a  263.i - 
+4z Gross Receipts Tax  - 
+    
+5 Other Taxes   
+5a  263.i - 
+5b  263.i - 
+5c   - 
+5z Other Taxes  - 
+    
+6z Payments in lieu of taxes   
+    
+7 Total other than income taxes (sum lines 1z, 2z, 3z, 4z, 5z, 6z)  
+[tie to 114.14c] $ 
+ 
+ 
+ 
+Notes: 
+[A] Reference for December balances as would be reported in FERC Form 1. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 18 
+Attachment H-28A, Attachment 8 
+ 
+page 1 of 1 
+ Capital Structure Calculation For the 12 months ended 12/31/2017 
+           
+    [1] [2] [3] [4] [5] [6] [7] 
+    Proprietary Preferred Stock Account 216.1 Account 219 Goodwill Common Stock Long Term Debt 
+    Capital       
+   [A] 112.16.c 112.3.d 112.12.c 112.15.c 233.5.f (1) - (2) - (3) - (4) - (5) 112.24.c 
+1 December 2016         
+2 January 2017         
+3 February 2017         
+4 March 2017         
+5 April 2017         
+6 May 2017         
+7 June 2017         
+8 July 2017         
+9 August 2017         
+10 September 2017         
+11 October 2017         
+12 November 2017         
+13 December 2017         
+           
+14 13-month Average        
+           
+           
+Notes:          
+[A] Reference for December balances as would be reported in FERC Form 1.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 19 
+Attachment H-28A, Attachment 9 
+page 1 of 1 
+ Stated Value Inputs For the 12 months ended 12/31/2017 
+Formula Rate Protocols 
+Section VIII.A 
+ 
+ 
+1. Rate of Return on Common Equity ("ROE") 
+ 
+MAIT's stated ROE is set to: 10.3%  
+ 
+ 
+2. Postretirement Benefits Other Than Pension ("PBOP") 
+ *sometimes referred to as Other Post Employment Benefits, or "OPEB" 
+Total FirstEnergy PBOP expenses  -$108,686,300  
+Labor dollars (FirstEnergy) $2,024,261,894  
+  
+3. Depreciation Rates  
+  
+FERC Account Depr %  
+352 1.28%  
+353 2.05%  
+354 1.39%  
+355 2.32%  
+356 2.68%  
+356.1 1.27%  
+358 2.52%  
+359 0.87%  
+390.1 2.90%  
+390.2 1.24%  
+391.1 0.63%  
+391.2 18.82%  
+392 4.84%  
+393 0.01%  
+394 4.62%  
+395 0.00%  
+396 0.47%  
+397 1.80%  
+398 0.32%  
+303 14.29%  
+   
+4. Net Plant Allocator   
+If the Net Plant (NP) allocator becomes anything other than 1.000 (or 100%), MAIT must make a Section 205 filing to seek 
+approval of any new depreciation or amortization rates applicable to production and/or distribution plant accounts.   
+   
+5. Land Rights   
+If Land Rights (Account 350) are acquired by MAIT, it must make a Section 205 filing to establish the appropriate depreciation 
+rate. 
+   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula 
+Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 20 
+Attachment H-28A, Attachment 10 
+page 1 of 1 
+For the 12 months ended 12/31/2017 
+Debt Cost Calculation 
+TABLE 1: Summary Cost of Long Term Debt                      
+                       
+CALCULATION OF COST OF DEBT                      
+                       
+YEAR ENDED 12/31/2017                      
+                       
+  (a)  (b)  (c)  (d)  (e)  (f)  (g)  (h)  (i)  (j)   
+                       
+          Net    Average Net      Weighted   
+          Amount  Months  Outstanding  Weighted  Effective  Debt Cost   
+  Issue  Maturity  ORIGINAL  Net Proceeds  Outstanding  Outstanding  in Year*  Outstanding  Cost Rate  at t = N   
+ t=N Date  Date  ISSUANCE  At Issuance  at t=N  at t=N  z*  Ratios  (Table 2, Col. ll)  (h) * (i)   
+Long Term Debt Cost at Year Ended: 12/31/2017     (table 2,  
+col. cc) 
+ (table 2,  
+col. hh) 
+     ((col e. * 
+col. F)/12) 
+ (col. g/ 
+col. g total) 
+      
+First Mortgage Bonds:                       
+(1) x.xx%, Senior Unsecured Notes  xx/xx/xxxx  xx/xx/xxxx  $  -  $  -  $  -    $  -         
+(2) x.xx%, Senior Unsecured Notes  xx/xx/xxxx  xx/xx/xxxx  $  -  $  -  $  -    $  -         
+                       
+                       
+                       
+                       
+                       
+Total      $  -    $  -    $  -        ** 
+                       
+t = time 
+The current portion of long term debt is included in the Net Amount Outstanding at t = N in these calculations. 
+The outstanding amount (column (e)) for debt retired during the year is the outstanding amount at the last month it was outstanding. 
+*  z = Average of monthly balances for months outstanding during the year (average of the balances for the 12 months of the year, with zero in months that the issuance is not outstanding in a month.). 
+Interim (individual debenture) debt cost calculations shall be taken to four decimals in percentages (7.2300%, 5.2582%); Final Total Weighted Average Debt Cost for the Formula Rate shall be rounded to two decimals of a percent (7.03%). 
+** This Total Weighted Average Debt Cost will be shown on page 4, line 22, column 5 of formula rate Attachment H-28A. 
+ TABLE 2: Effective Cost Rates For Traditional Front-Loaded Debt Issuances: 
+                          
+ YEAR ENDED 12/31/2017                        
+   (aa)   (bb)  (cc)  (dd)  (ee)  (ff)  (gg)  (hh)  (ii) (jj)  (kk)  (ll) 
+          (Discount)    Loss/Gain on  Less 
+Related 
+   Net     Effective 
+Cost Rate 
+ Long Term Debt   Issue   Maturity  Amount  Premium  Issuance  Reacquired  ADIT  Net  Proceeds Coupon  Annual  (Yield to 
+Maturity 
+ Issuances Affiliate Date   Date  Issued  at Issuance  Expense  Debt    Proceeds  Ratio Rate  Interest  at Issuance, 
+t = 0) 
+                  (col. cc + col. 
+dd + col. ee + 
+col. ff) 
+ ((col. hh / col. 
+cc)*100) 
+  (col. cc * col. jj)   
+                          
+(1) x.xx%, Senior 
+Unsecured Notes 
+ 
+xx/xx/xxxx   xx/xx/xxxx  $ -  $ -     -  xxx  $ -     $ -   
+(2) x.xx%, Senior 
+Unsecured Notes 
+ 
+xx/xx/xxxx   xx/xx/xxxx  $ -           $-     $ -   
+                          
+                       -   
+                          
+                          
+ TOTALS       $ -   -  $ -  -  xxx  $ -     $ -   
+ 
+ * YTM at issuance calculated from an acceptable bond table or from YTM = Internal Rate of Return (IRR) calculation 
+ Effective Cost Rate of Individual Debenture (YTM at issuance):  the t=0 Cashflow C0 equals Net Proceeds column (gg); Semi-annual (or other) interest cashflows (Ct=1, Ct=2, etc.). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 21 
+Attachment H-28A, Attachment 11 
+page 1 of 2 
+For the 12 months ended 12/31/2017 
+Transmission Enhancement Charge (TEC) Worksheet 
+To be completed in conjunction with Attachment H-28A 
+      Columns 5-9 (page 1) only applies with incentive ROE project(s) (Note F) 
+           
+ (1) (2) (3) (4)  (5) (6) (7) (8) (9) 
+           
+Line  Reference Transmission Allocator  Line  Reference Transmission Allocator 
+No.      No.     
+           
+1 Gross Transmission Plant - Total Attach. H-28A, p. 2, line 2, col. 5 (Note A) $        
+2 Net Transmission Plant - Total Attach. H-28A, p. 2, line 14, col. 5 (Note B) $        
+           
+ O&M EXPENSE          
+3 Total O&M Allocated to Transmission Attach. H-28A, p. 3, line 15, col. 5 $        
+4 Annual Allocation Factor for O&M (line 3 divided by line 1, col. 3) % %       
+           
+ GENERAL, INTANGIBLE, AND COMMON (G,I, & C) DEPRECIATION EXPENSE          
+5 Total G, I, & C depreciation expense Attach. H-28A, p. 3, lines 17 & 18, col. 5 $        
+6 Annual allocation factor for G, I, & C depreciation expense (line 5 divided by line 1, col. 3)         
+           
+ TAXES OTHER THAN INCOME TAXES          
+7 Total Other Taxes Attach. H-28A, p. 3, line 28, col. 5 $        
+8 Annual Allocation Factor for Other Taxes (line 7 divided by line 1, col. 3) % %       
+           
+9 Annual Allocation Factor for Expense Sum of line 4, 6, & 8         
+           
+ INCOME TAXES      INCOME TAXES    
+10 Total Income Taxes Attach. H-28A, p. 3, line 39, col. 5 $   10b Total Income Taxes Attachment 2, line 33   
+11 Annual Allocation Factor for Income Taxes (line 10 divided by line 2, col. 3) % %  11b Annual Allocation Factor for Income Taxes (line 10b divided by line 2, col. 3)   
+           
+ RETURN      RETURN    
+12 Return on Rate Base Attach. H-28A, p. 3, line 40, col. 5 $   12b Return on Rate Base Attachment 2, line 22   
+13 Annual Allocation Factor for Return on Rate Base (line 12 divided by line 2, col. 3) % %  13b Annual Allocation Factor for Return on Rate Base (line 12b divided by line 2, col. 3) % % 
+           
+14 Annual Allocation Factor for Return Sum of line 11 and 13  %  14b Annual Allocation Factor for Return Sum of line 11b and 13b   
+           
+      15 Additional Annual Allocation Factor for Return Line 14 b, col. 9 less line 14, col. 4   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 22 
+Attachment H-28A, Attachment 11 
+page 2 of 2 
+For the 12 months ended 12/31/2017 
+ 
+Transmission Enhancement Charge (TEC) Worksheet 
+To be completed in conjunction with Attachment H-28A 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) 
+Line No. Project Name 
+RTEP  
+Project Number 
+Project Gross 
+Plant 
+Annual Allocation 
+Factor for Expense 
+Annual Expense 
+Charge Project Net Plant 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual 
+Revenue 
+Requirement 
+Additional 
+Incentive Annual 
+Allocation Factor 
+for Return 
+ (Note F) 
+Total Annual 
+Revenue 
+Requirement 
+True-up 
+Adjustment 
+Net Revenue 
+Requirement 
+with True-up 
+   (Note C & H) (Page 1, line 9) 
+(Col. 3 * 
+ Col. 4) (Note D & H) Page 1, line 14 
+(Col. 6 * 
+ Col. 7) (Note E) 
+(Sum  
+Col. 5, 8, & 9) 
+(Col. 6 *  
+Page 1, line 15, Col. 
+9) 
+(Sum 
+ Col. 10 & 11) (Note G) 
+(Sum  
+Col. 12 & 13) 
+               
+2a Project 1      %        
+2b Project 2      %        
+2c Project 3      %        
+2d               
+2e               
+2f               
+2g               
+2h               
+2i               
+2j               
+2k               
+2l               
+2m               
+2n               
+2o               
+2p               
+2q               
+               
+               
+               
+ 
+3 Transmission Enhancement Credit taken to Attachment H-28A Page 1, Line 7 
+4 Additional Incentive Revenue taken to Attachment H-28A, Page 3, Line 42 
+Notes 
+A Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-28A.  
+B Net Transmission Plant is that identified on page 2 line 14 of Attachment H-28A. 
+C Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 above.  This value includes subsequent capital investments required to maintain the project in-service. 
+D Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-28A, page 3, line 16. 
+F Any actual ROE incentive must be approved by the Commission 
+G True-up adjustment is calculated on the project true-up schedule, attachment 12 column j 
+H Based on a 13-month average 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 23 
+Attachment H-28A, Attachment 11a 
+page 1 of 2 
+For the 12 months ended 12/31/2017 
+TEC Worksheet Support 
+Net Plant Detail 
+ 
+Line 
+No.  Project Name RTEP Project Number Project Gross Plant Dec-16 Jan-17 Feb-17 Mar-17 Apr-17 May-17 Jun-17 Jul-17 Aug-17 Sep-17 Oct-17 Nov-17 Dec-17  
+    (Note A)               
+                   
+2a  Project 1                 
+2b  Project 2                 
+2c  Project 3                 
+2d                   
+2e                   
+2f                   
+2g                   
+2h                   
+2i                   
+2j                   
+2k                   
+2l                   
+2m                   
+2n                   
+2o                   
+2p                   
+2q                   
+                   
+                   
+ 
+NOTE: 
+[A] Project Gross Plant is the total capital investment for the project, including subsequent capital investments required to maintain the project in-service. Utilizing a 13-month Average. 
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 24 
+Attachment H-28A, Attachment 11a 
+page 2 of 2 
+For the 12 months ended 12/31/2017 
+ 
+TEC Worksheet Support 
+Net Plant Detail 
+ 
+ 
+Accumulated 
+Depreciation Dec-16 Jan-17 Feb-17 Mar-17 Apr-17 May-17 Jun-17 Jul-7 Aug-17 Sep-17 Oct-17 Nov-17 Dec-17  Project Net Plant 
+(Note B) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D)  (Note B & C) 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+ 
+NOTE: 
+[B] Utilizing a 13-month average. 
+[C] Taken to Attachment 11, Page 2, Col. 6 
+[D] Company records 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 25 
+ 
+Attachment H-28A, Attachment 12 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+TEC - True-up 
+To be completed after Attachment 11 for the True-up Year is updated using actual data 
+ 
+ (a) (b) (c)  (d) (e) (f) (g) (h) (i) (j) 
+Line  
+No. Project Name 
+RTEP 
+Project 
+Number 
+Actual 
+Revenues for 
+Appendix D 
+Projected 
+Annual 
+Revenue 
+Requirement 
+% of Total 
+Revenue 
+Requirement 
+Revenue 
+Received 
+Actual Annual 
+Revenue 
+Requirement 
+True-up 
+Adjustment 
+Principal 
+Over/(Under) 
+Applicable 
+Interest Rate 
+on 
+Over/(Under) 
+Total True-up 
+Adjustment with 
+Interest 
+Over/(Under) 
+    
+Projected 
+Attachment 11 
+p 2 of 2, col. 14 
+Col d, line 2/ 
+Col. d, line 3 
+Col c, line 1* 
+Col e 
+Actual 
+Attachment 11 
+p 2 of 2, col. 14 Col. F–Col. G 
+Col. H line 2x/ 
+Col. H line 3* 
+Col. J line 4 Col. h + Col. I 
+1 [A] Actual RTEP Credit Revenues for true-up Year           
+            
+2a  Project 1   - - - - -   
+2b  Project 2    - -  -   
+2c  Project 3    - -  -   
+            
+            
+            
+            
+            
+            
+            
+            
+           
+3 Sub Total          
+           
+4 Total Interest (Sourced from Attachment 13a, line 30)          
+ 
+ 
+ 
+NOTE 
+[A] Amount included in revenues reported on pages 328-330 of FERC Form 1 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 26 
+Attachment H-28A, Attachment 13 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+Net Revenue Requirement True-up with Interest 
+ 
+ 
+Reconciliation Revenue 
+Requirement For Year 2015 
+Available May 1, 2016 
+ 
+2015 Revenue Requirement 
+Collected by PJM Based on Forecast 
+filed on Oct 31, 2014 
+ 
+True-up Adjustment- 
+Over (Under) 
+Recovery 
+ 
+       
+1 $ - $ = $  
+ 
+  Over (Under) Recovery Plus 
+Interest 
+ Average Monthly 
+Interest Rate Months Calculated Interest Amortization 
+Surcharge (Refund) 
+Owed 
+         
+2 Interest Rate on Amount of Refunds or Surcharges [A]  %     
+ 
+An over or under collection will be recovered prorata over 2015, held for 2016 and returned prorata over 2017 
+ 
+ Calculation of Interest     Monthly   
+3 January Year 2015 - % 12 -  - 
+4 February Year 2015 - % 11 -  - 
+5 March Year 2015 - % 10 -  - 
+6 April Year 2015 - % 9 -  - 
+7 May Year 2015 - % 8 -  - 
+8 June Year 2015 - % 7 -  - 
+9 July Year 2015 - % 6 -  - 
+10 August Year 2015 - % 5 -  - 
+11 September Year 2015 - % 4 -  - 
+12 October Year 2015 - % 3 -  - 
+13 November Year 2015 - % 2 -  - 
+14 December Year 2015 - % 1 -  - 
+      -  - 
+ 
+      Annual   
+15 January through December Year 2016 - % 12 -  - 
+ 
+ 
+ Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months   Monthly   
+16 January Year 2017 - %  - - - 
+17 February Year 2017 - %  - - - 
+18 March Year 2017 - %  - - - 
+19 April Year 2017 - %  - - - 
+20 May Year 2017 - %  - - - 
+21 June Year 2017 - %  - - - 
+22 July Year 2017 - %  - - - 
+23 August Year 2017 - %  - - - 
+24 September Year 2017 - %  - - - 
+25 October Year 2017 - %  - - - 
+26 November Year 2017 - %  - - - 
+27 December Year 2017 - %  - - - 
+      - - - 
+ 
+28 True-UP with interest     $ -  
+29 Less Over(Under)Recovery     $ -  
+30 Total Interest     $ -  
+         
+[A] Interest rate equal to: (i) MAIT's actual short-term debt costs capped at the interest rate determined by 18 C.F.R. 35.19a; or (ii) the interest rate determined by 18 C.F.R. 35.19, if MAIT 
+does not have short term debt 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 27 
+Attachment H-28A, Attachment 13a 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+TEC Revenue Requirement True-up with Interest 
+ 
+ TEC Reconciliation 
+Revenue 
+Requirement For Year 
+2015 
+Available May 1,2016 
+ 
+TEC 2015 Revenue Requirement 
+Collected by PJM Based on Forecast 
+filed on Oct 31,2014 
+ True-up 
+Adjustment- 
+Over (Under) 
+Recovery 
+ 
+1 $ - $ = $  
+ 
+  Over (Under) Recovery Plus 
+Interest 
+ Average Monthly 
+Interest Rate Months Calculated Interest Amortization 
+Surcharge (Refund) 
+Owed 
+         
+2 Interest Rate on Amount of Refunds or Surcharges [A]  %     
+ 
+An over or under collection will be recovered prorata over 2015, held for 2016 and returned prorata over 2017 
+ 
+ Calculation of Interest     Monthly   
+3 January Year 2015 - % 12 -  - 
+4 February Year 2015 - % 11 -  - 
+5 March Year 2015 - % 10 -  - 
+6 April Year 2015 - % 9 -  - 
+7 May Year 2015 - % 8 -  - 
+8 June Year 2015 - % 7 -  - 
+9 July Year 2015 - % 6 -  - 
+10 August Year 2015 - % 5 -  - 
+11 September Year 2015 - % 4 -  - 
+12 October Year 2015 - % 3 -  - 
+13 November Year 2015 - % 2 -  - 
+14 December Year 2015 - % 1 -  - 
+      -  - 
+ 
+      Annual   
+15 January through December Year 2016 - % 12 -  - 
+ 
+ 
+ Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months   Monthly   
+16 January Year 2017 - %  - - - 
+17 February Year 2017 - %  - - - 
+18 March Year 2017 - %  - - - 
+19 April Year 2017 - %  - - - 
+20 May Year 2017 - %  - - - 
+21 June Year 2017 - %  - - - 
+22 July Year 2017 - %  - - - 
+23 August Year 2017 - %  - - - 
+24 September Year 2017 - %  - - - 
+25 October Year 2017 - %  - - - 
+26 November Year 2017 - %  - - - 
+27 December Year 2017 - %  - - - 
+      -  - 
+ 
+28 True-UP with interest     $ -  
+29 Less Over (Under) Recovery     $ -  
+30 Total Interest     $ -  
+         
+[A] Interest rate equal to: (i) MAIT's actual short-term debt costs capped at the interest rate determined by 18 C.F.R. 35.19a; or (ii) the interest rate determined by 18 C.F.R. 35.19, if MAIT 
+does not have short term debt 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - 
+MAIT Formula Rate Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 28 
+Attachment H-28A, Attachment 14 
+Page 1 of 1 
+For the 12 months ended 12/31/2017 
+ 
+ Other Rate Base Items 
+        
+ COLUMN A COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G 
+        
+  BALANCE AS BALANCE AS AVERAGE    
+Line No. Description OF 12-31-16 OF 12-31-17 BALANCE    
+1 Land Held for Future Use (214.x.d)    -    
+2 Materials & Supplies (227.8.c & .16.c)   -    
+3 Prepayments: Account 165 (111.57.c) - Note [A]   -    
+        
+  Unfunded Reserves 
+  TRANSMISSION TOTAL 
+(Col D times Col F) 
+Line No. Description 
+BALANCE AS 
+OF 12-31-16 
+BALANCE AS 
+OF 12-31-17 
+AVERAGE 
+BALANCE 
+ALLOCATION 
+FACTOR  
+  Account 228.1      
+4a Property Insurance (Self insurance not covered by property insurance)    GP   
+4b [Insert Item Included in Account 228.1 that are not allocated to transmission]    Other 0  
+4c [Insert Item Included in Account 228.1 that are not allocated to transmission]    Other 0  
+4z Total Account 228.1 (112.27.c)       
+        
+  Account 228.2      
+5a Workman's Compensation    W/S   
+5b Probable liabilities not covered by insurance for death or injuries to employees and others    W/S   
+5c Probable liabilities not covered by insurance for damages to property neither owned nor held under lease 
+by the utility    GP   
+5d [Insert Item Included in Account 228.2 that are not allocated to transmission]    Other 0  
+5e [Insert Item Included in Account 228.2 that are not allocated to transmission]    Other 0  
+5z Total Account 228.2 (112.28.c)       
+  Account 228.3      
+6a Year-End Vacation Pay Accrual    W/S   
+6b Year-End Deferred Compensation Accrual    W/S   
+6c Year-End Sick Pay Accrual    W/S   
+6d Year-End Incentive Compensation Accrual    W/S   
+6e Year-End Severance Pay Accrual    W/S   
+6f Year-End PBOP/OPEB Accrual not included in established trusts    W/S   
+6g [Insert Item Included in Account 228.3 that are not allocated to transmission]    Other 0  
+6h [Insert Item Included in Account 228.3 that are not allocated to transmission]    Other 0  
+6z Total Account 228.3 (112.29.c )       
+  Account 228.4      
+7a Year-End Vacation Pay Accrual    W/S   
+7b Year-End Deferred Compensation Accrual    W/S   
+7c Year-End Sick Pay Accrual    W/S   
+7d Year-End Incentive Compensation Accrual    W/S   
+7e Year-End Severance Pay Accrual    W/S   
+7f Year-End PBOP/OPEB Accrual not included in established trusts    W/S   
+7g [Insert Item Included in Account 228.4 that are not allocated to transmission]    Other 0  
+7h [Insert Item Included in Account 228.4 that are not allocated to transmission]    Other 0  
+7z Total Account 228.4 (112.30.c)       
+  Account 242      
+8a Year-End Vacation Pay Accrual    W/S   
+8b Year-End Deferred Compensation Accrual    W/S   
+8c Year-End Sick Pay Accrual    W/S   
+8d Year-End Incentive Compensation Accrual    W/S   
+8e Year-End Severance Pay Accrual    W/S   
+8f Year-End PBOP/OPEB Accrual not included in established trusts    W/S   
+8g [Insert Item Included in Account 242 that are not allocated to transmission]    Other 0  
+8h [Insert Item Included in Account 242 that are not allocated to transmission]    Other 0  
+8z Total Account 242 (113.48.c)       
+        
+9 Total Unfunded Reserves Plant-related (items with GP allocator) - Note [B]    GP   
+10 Total Unfunded Reserves Labor-related (items with W/S allocator) - Note [C]    W/S   
+        
+Notes:        
+[A] Prepayments shall exclude prepayments of income taxes.       
+[B] Column G balance taken to Attachment H-28A, page 2, line 24, col. 3       
+[C] Column G balance taken to Attachment H-28A, page 2, line 25, col. 3       
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 29 
+Attachment H-28A, Attachment 15 
+Page 1 of 1 
+For the 12 months ended 12/31/ 
+Income Tax Adjustments 
+ [1] [2] [3]   [4] 
+                2019    
+    Annual [C]   Reference 
+1 Tax adjustment for Permanent Differences & AFUDC Equity [A]    MAIT Company Records 
+2 Amortized Excess Deferred Taxes (enter negative) [B]     Attachment 15a, Line 
+40, Column H 
+3 Amortized Deficient Deferred Taxes [B]     Attachment 15a, Line 
+40, Column H 
+ 
+ 
+Notes:  
+[A] AFUDC equity component is the gross cumulative annual amount based upon tax records of capitalized AFUDC equity embedded in the gross plant attributable to the transmission function. 
+[B] Upon enactment of changes in tax law, income tax rates and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, resulting in excess or deficient 
+accumulated deferred taxes for schedule M balances not directly taken to the P&L. Such excess or deficient deferred taxes attributed to the transmission function will be based upon tax records and calculated in the 
+calendar Year in which the excess or deficient amount was measured and recorded for financial reporting purposes. Amounts to be included will be January 1, 2017 and thereafter. The amount located within Column 3, 
+line 2 and line 3, is the net impact of excess and deficient amortization. 
+[C] Column 3 Annual amount for line 1 included on Attachment H-28A, page 3, line 33; Annual amount for lines 2-3 taken to Attachment H-28A, page 3, line 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 30 
+ 
+             Attachment H-28A, Attachment 15a 
+             page 1 of 3 
+       
+      For the 12 months ended 12/31/ 
+  
+     
+       
+  Permanent Excess/Deficient ADIT Worksheet    
+  To be completed in conjunction with Attachment H-28A    
+              
+ COLUMN A COLUMN B  COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+Line 
+No. Vintage (Note A) Description 
+ 
+(Excess)/Deficient ADIT Transmission 
+Remeasured Balance as of 12/31/XX 
+(Attachment 15b Col. J) 
+(Excess)/Deficient ADIT 
+Transmission - Beg Balance of 
+Year 
+(Note C) 
+Current Period Other Activity 
+(Note D) 
+Amortization Period  
+(Note E) 
+Years Remaining at 
+Year End 
+Amortization 
+(Note F) 
+(Excess)/Deficient ADIT 
+Transmission - Ending Balance 
+of Year (Note G) 
+(Col. D + Col. E) - Col. H 
+Protected / Unprotected 
+Regulatory Asset (Account 
+182.3) or Regulatory Liability 
+(Account 254) 
+Amortized to Account 410.1 or Account 411.1 
+  Non-property (Note B):            
+1  Account 190            
+1a 2017 TCJA                                                       -                                                   -          
+              
+2  Account 282            
+2a 2017 TCJA                                                       -                                                   -          
+              
+3  Account 283            
+3a 2017 TCJA                                                       -                                                   -          
+                                               -       
+4 2017 TCJA Non-property gross up for Taxes                                                     -                                                   -          
+                   
+5 2017 TCJA Total Non-Property                                                      -                                         -                                               -                                           -                                         -       
+                Property (Note B):            
+6 2017 TCJA Property Book-Tax Timing Difference - Account 190                                                     -         ARAM   ARAM                                         -    Protected Asset 410.1 
+7 2017 TCJA Property Book-Tax Timing Difference - Account 190                                                     -         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+8 2017 TCJA Property Book-Tax Timing Difference - Account 190                                                     -         ARAM   ARAM                                         -    Protected Liability 411.1 
+9 2017 TCJA Property Book-Tax Timing Difference - Account 190                                                     -         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+10 2017 TCJA Property Book-Tax Timing Difference - Account 282                                                     -         ARAM   ARAM                                         -    Protected Asset 410.1 
+11 2017 TCJA Property Book-Tax Timing Difference - Account 282                                                     -         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+12 2017 TCJA Property Book-Tax Timing Difference - Account 282                                                     -         ARAM   ARAM                                         -    Protected Liability 411.1 
+13 2017 TCJA Property Book-Tax Timing Difference - Account 282                                                     -         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+14 2017 TCJA Property Book-Tax Timing Difference - Account 283                                                     -         ARAM   ARAM                                         -    Protected Asset 410.1 
+15 2017 TCJA Property Book-Tax Timing Difference - Account 283                                                     -         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+16 2017 TCJA Property Book-Tax Timing Difference - Account 283                                                     -         ARAM   ARAM                                         -    Protected Liability 411.1 
+17 2017 TCJA Property Book-Tax Timing Difference - Account 283                                                     -         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+18 2017 TCJA Property Gross up for Taxes                                                      -                                                 -          
+19 2017 TCJA Total Property (Total of lines 6 thru 18)                                                     -                                         -                                               -                                           -                                         -       
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 31 
+ 
+ 
+ 
+ 
+             Attachment H-28A, Attachment 15a 
+             page 2 of 3 
+             For the 12 months ended 12/31/ 
+              
+ COLUMN A COLUMN B  COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+Line 
+No. Vintage (Note A) Description 
+ 
+(Excess)/Deficient ADIT Transmission 
+Remeasured Balance as of 12/31/XX 
+(Attachment 15b Col. J) 
+(Excess)/Deficient ADIT 
+Transmission - Beg Balance of 
+Year 
+(Note C) 
+Current Period Other Activity 
+(Note D) 
+Amortization Period  
+(Note E) 
+Years Remaining at 
+Year End 
+Amortization 
+(Note F) 
+(Excess)/Deficient ADIT 
+Transmission - Ending Balance 
+of Year (Note G) 
+(Col. D + Col. E) - Col. H 
+Protected / Unprotected 
+Regulatory Asset (Account 
+182.3) or Regulatory Liability 
+(Account 254) 
+Amortized to Account 410.1 or Account 411.1 
+  Non-property (Note B):            
+20  Account 190            
+20a                                                       -          
+              
+21  Account 282            
+21a                                                       -          
+              
+22  Account 283            
+22a                                                       -          
+                                               -       
+23   Non-property gross up for Taxes                                                 -                                               -          
+                   
+24   Total Non-Property                                                      -                                         -                                               -                                           -                                         -       
+                Property (Note B):            
+25   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM                                         -    Protected Asset 410.1 
+26   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+27   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM                                         -    Protected Liability 411.1 
+28   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+29   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM                                         -    Protected Asset 410.1 
+30   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+31   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM                                         -    Protected Liability 411.1 
+32   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+33   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM                                         -    Protected Asset 410.1 
+34   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM                                         -    Unprotected Liability 411.1 
+35   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM                                         -    Protected Liability 411.1 
+36   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM                                         -    Unprotected Asset 410.1 
+37   Property Gross up for Taxes                                                  -          
+38   Total Property (Total of lines 25 thru 37)                                                     -                                         -                                               -                                           -                                         -       
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-28A - MAIT Formula Rate 
+Template 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 32 
+ 
+ 
+ 
+ 
+ 
+ 
+             Attachment H-28A, Attachment 15a 
+             page 3 of 3 
+             For the 12 months ended 12/31/ 
+              
+ COLUMN A COLUMN B  COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+Line 
+No. Vintage (Note A) Description 
+ 
+          Amortization 
+(Note F) 
+(Excess)/Deficient ADIT 
+Transmission - Ending Balance 
+of Year (Note G) 
+Protected / Unprotected 
+Regulatory Asset (Account 
+182.3) or Regulatory Liability 
+(Account 254) 
+Amortized to Account 410.1 or Account 411.1 
+              
+39  Deferral of Amortized Excess/Deficient ADITs  (Note H)             
+              
+40  Total Non-Property & Property Amortization, excluding gross up for taxes (Total of lines 5, 19, 24, 38, 39 less lines 4, 18, 23, 37) (Note I)                                        -     Protected, Unprotected Liability 411.1 
+              
+41  Total 20XX FAS109 (Total of lines 5, 19, 24, 38) (Note J)                                             -       
+              
+42  Total 20XX FAS109 (Attachment 5) (Note J)        #DIV/0!    
+              
+Notes:             
+A Excess/deficient ADIT will be tracked separately for each federal or state tax rate change, to be identified by the appropriate vintage in column A.  MAIT will modify Attachment 15a to add an additional page for each additional vintage without pursuing a Federal Power Act Section 205 filing.  
+B Upon a tax rate change (federal or state), the Company remeasures its deferred tax assets and liabilities to the new applicable corporate tax rate.  For schedule M items not directly taken to the P&L, the result of this remeasurement is a change to the net deferred tax assets/liabilities recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from customers.  The remeasurement is effectuated within PowerTax and 

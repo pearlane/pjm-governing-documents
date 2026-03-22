@@ -1,0 +1,381 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+SCHEDULE 9.1:  
+ 
+EFFECTIVE LOAD CARRYING CAPABILITY ANALYSIS  
+FOR DELIVERY YEARS THROUGH THE 2024/2025 DELIVERY YEAR 
+ 
+A. Overview of Effective Load Carrying Capability Analysis 
+ 
+The inputs of the effective load carrying capability analysis include: 
+-Historical weather and load data; 
+-Historical output of existing Variable Resources; 
+-Estimates of putative historical output for planned Variable Resources; 
+-Forced outage patterns for Unlimited Resources;  
+-Resource deployment forecast; and 
+-Modeling parameters for Limited Duration Resources and Combination Resources.  
+ 
+The outputs of the effective load carrying capability analysis include: 
+-The ELCC Portfolio UCAP, in MW; 
+-ELCC Class UCAP values, in MW; and 
+-ELCC Class Rating values, in percent.  
+ 
+B.  ELCC Classes 
+ 
+(1)  (a) The following are the ELCC Classes for Variable Resources:   
+ 
+- Tracking Solar Class 
+- Fixed-Tilt Solar Class 
+- Onshore Wind Class 
+- Offshore Wind Class 
+- Landfill Gas Class 
+- Intermittent Hydropower Class  
+- Other Variable Resource Class 
+(b) The following are the types of ELCC Classes for Limited Duration Resources:   
+- The type of Capacity Storage Resource Classes 
+- The type of Other Limited Duration Resource Classes 
+Within those types, the following are the specific ELCC Classes for Limited Duration 
+Resources: 
+- Capacity Storage Resource Class (4-Hour Duration) 
+- Capacity Storage Resource Class (6-Hour Duration) 
+- Capacity Storage Resource Class (8-Hour Duration) 
+- Capacity Storage Resource Class (10-Hour Duration) 
+- Other Limited Duration Class (4-Hour Duration) 
+- Other Limited Duration Class (6-Hour Duration) 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 2 
+- Other Limited Duration Class (8-Hour Duration) 
+- Other Limited Duration Class (10-Hour Duration) 
+(c)  The following are the ELCC Classes for Combination Resources: 
+- The types of Hybrid Resource Classes, as further specified below 
+- Hydropower With Non-Pumped Storage Class 
+- Complex Hybrid Class 
+- The types of Other Limited Duration Combination Classes, as further specified below 
+(2) PJM shall establish Hybrid Resource Classes for all “open-loop” combinations of each 
+Capacity Storage Resource class and each Variable Resource class, as well as all “closed-loop” 
+combinations of each Capacity Storage Resource class and each Variable Resource class.  An 
+“open-loop” resource is physically and contractually capable of charging from the grid, while a 
+“closed-loop” resource is not. 
+(3) PJM shall establish “Other Limited Duration Combination Classes” for all combinations of 
+each Variable Resource Class and each Other Limited Duration Resource Class, and for 
+combinations of an Unlimited Resource with each Other Limited Duration Resource Class.   
+(4) For a given Delivery Year, ELCC Class Ratings will not be calculated for any ELCC Class to 
+the extent that no member of the class is expected to provide, or offer to provide capacity, in the 
+applicable Delivery Year.  PJM will determine the ELCC Class Ratings for an ELCC Class when 
+any one of the following criteria are met: 
+(a)  An Existing Generation Capacity Resource is in such class; or 
+(b)  A Planned Generation Capacity Resource has submitted timely and valid data 
+through the ELCC data submission process and is in such class; or 
+(c)  The resource deployment forecast contains a resource in such class. 
+(5) (a) For each ELCC Resource, except an ELCC Resource that is a Capacity Storage 
+Resource or includes a Capacity Storage Resource component, PJM shall determine the ELCC 
+Class of which such resource is a member by matching the physical characteristics of such 
+resource with the definition of the ELCC Class.   
+ 
+(b) For each ELCC Resource that is a Capacity Storage Resource or includes a Capacity 
+Storage Resource component, PJM shall determine, by matching the physical characteristics of 
+such resource with the definition of the ELCC Class, the type of ELCC Class of which such 
+resource is a member; provided however, the Generation Capacity Resource Provider shall 
+choose the specific ELCC Class within the type ELCC Class identified by PJM that corresponds 
+to the chosen characteristic duration.  
+ 
+If the Generation Capacity Resource Provider fails to choose, PJM will choose a specific ELCC 
+Class to assign to such resource.  The election of the specific ELCC Class corresponding to the 
+chosen characteristic duration shall be for a term of five consecutive Delivery Years.  After such 
+five Delivery Year period, a Generation Capacity Resource Provider may request a change in the 
+ELCC Class, based on choosing a different characteristic duration, by submitting to the Office of 
+the Interconnection a written request to switch ELCC Classes and provide documentation 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 3 
+supporting such change.  A Generation Capacity Resource Provider must submit such a request, 
+and supporting documentation, by August 15 prior to the calendar year for the RPM Auction in 
+which the ELCC Resource intends to submit a Sell Offer or otherwise commit to provide 
+capacity, except for Delivery Years prior to the 2025/2026 Delivery Year such required 
+information must be provided to the Office of the Interconnection in accordance with the PJM 
+Manuals.  The Office of the Interconnection shall provide no later than following November 15 
+written notification to the Generation Capacity Resource Provider of its determination.  If the 
+request is granted, the ELCC Resource shall be considered in the new ELCC Class starting with 
+the next Delivery Year for which no RPM Auction has been conducted and for subsequent 
+Delivery Years.  If the request is denied, the Office of the Interconnection shall include in the 
+notice a written explanation for the denial. 
+ 
+(6) Mixed-technology resources are composed of components with different generation 
+technologies, at least one of which would be an ELCC Resource, behind a single Point of 
+Interconnection.  For a mixed-technology resource composed of components that do not have 
+significant interaction, the components are eligible to participate as separate resources. A mixed-
+technology resource composed of components that have significant interaction must participate 
+as a single Combination Resource (or, if the components would all be Variable Resources, then 
+as a single Variable Resource).   
+ 
+The Generation Capacity Resource Provider of a mixed-technology resource eligible to 
+participate as either a single ELCC Resource or as multiple stand-alone resources shall elect, for 
+a term of five consecutive Delivery Years, whether PJM is to model it as a single ELCC 
+Resource or as multiple stand-alone resources.  After such five Delivery Year period, a 
+Generation Capacity Resource Provider may request a change in such modelling approach by 
+submitting to the Office of the Interconnection a written request to change the modelling 
+approach and provide documentation supporting such change.  A Generation Capacity Resource 
+Provider must submit such a request, and supporting documentation, by August 15 prior to the 
+calendar year for the RPM Auction in which the ELCC Resource(s) intend(s) to submit a Sell 
+Offer or otherwise commit to provide capacity, except for Delivery Years prior to the 2025/2026 
+Delivery Year such required information must be provided to the Office of the Interconnection in 
+accordance with the PJM Manuals.  The Office of the Interconnection shall provide no later than 
+following November 15 written notification to the Generation Capacity Resource Provider of its 
+determination.  If the request is granted, the ELCC Resource(s) shall be modelled as requested 
+starting with the next Delivery Year for which no RPM Auction has been conducted and for 
+subsequent Delivery Years.  If the request is denied, the Office of the Interconnection shall 
+include in the notice a written explanation for the denial. 
+ 
+C.  Calculation of ELCC Portfolio UCAP 
+ 
+The effective load carrying capability analysis shall identify a scenario in which the aggregate 
+installed capacity “Y” of a group of Unlimited Resources with no outages yields the same annual 
+loss of load expectation as the one produced by the scenario with all ELCC Resources that are 
+expected to offer in a given RPM Auction, or otherwise provide capacity, in the Delivery Year 
+being analyzed.  The ELCC Portfolio UCAP shall be the value “Y”. 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 4 
+D.  Allocation from ELCC Portfolio UCAP to ELCC Class UCAP  
+ 
+The ELCC Portfolio UCAP shall be allocated, as specified in the PJM Manuals, to each ELCC 
+Class UCAP according to:   
+(1) The reliability value of the subject ELCC Class evaluated in the absence of other ELCC 
+Classes, minus  
+(2) a quantity that is proportional to the product of:  
+(a) the difference between the reliability value of the subject ELCC Class when evaluated 
+in the presence of the entire portfolio of ELCC Classes and the reliability value of the 
+subject ELCC Class when evaluated in the absence of the other ELCC Classes, and  
+(b) the difference between the total reliability value of all the ELCC Classes in the model 
+when evaluated jointly and the sum of the reliability values determined individually for 
+each ELCC Class by evaluating the subject ELCC Class in the absence of other ELCC 
+Classes.      
+E. Calculation of ELCC Class Rating 
+ 
+(1)  The ELCC Class Rating of Variable Resources and Limited Duration Resources shall be 
+the ratio of the applicable ELCC Class UCAP to the aggregate Effective Nameplate Capacity of 
+the modeled ELCC Resources of that ELCC Class that are expected to offer in a given RPM 
+Auction, or otherwise provide capacity, in the Delivery Year being analyzed.   
+(2)  For Combination Resources, there shall be an ELCC Class Rating for each component.   
+(i) For a Combination Resource with a Limited Duration Resource component and a 
+Variable Resource component, the Limited Duration Resource component ELCC Class 
+Rating shall be equal to the quotient of (1) the Combination Resource ELCC Class UCAP 
+minus the [product of the Variable Resource ELCC Class Rating and the aggregate 
+Effective Nameplate Capacity of all the Variable Resource components within the subject 
+Combination Resource class] divided by (2) the aggregate equivalent Effective 
+Nameplate Capacity of all the Limited Duration Resource components within the subject 
+Combination Resource class, and the Variable Resource component ELCC Class Rating 
+shall be equal to the ELCC Class Rating for the ELCC Class to which the Variable 
+Resource component would belong if it were not a component of the Combination 
+Resource. 
+(ii) For a Combination Resource with a Limited Duration Resource component and an 
+Unlimited Resource component, the Limited Duration Resource component ELCC Class 
+Rating shall be equal to the ELCC Class Rating for the ELCC Class to which the Limited 
+Duration Resource component would belong if it were not a component of the 
+Combination Resource, and the Unlimited Resource component would not have an ELCC 
+Class Rating. 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 5 
+(3) For ELCC Resources in the Hydropower with Non-Pumped Storage Class and in the 
+Complex Hybrid Class, no ELCC Class Rating is determined.  A resource-specific ELCC rating 
+is determined for each such resource. 
+F. Calculation of Accredited UCAP and ELCC Resource Performance Adjustment  
+ 
+(1) (a) For Variable Resources and Limited Duration Resources, Accredited UCAP values 
+shall be equal to the product of: 
+(i) the Effective Nameplate Capacity; 
+(ii) the applicable ELCC Class Rating; and 
+(iii) the ELCC Resource Performance Adjustment. 
+(b) For Combination Resources, Accredited UCAP values shall be equal to the sum of the 
+Accredited UCAP of each component, but not to exceed the Maximum Facility Output of 
+the resource, where:   
+(i) The value for a Variable Resource component shall be determined in 
+accordance with subsection (a) above.   
+(ii) The value for a Limited Duration Resource component shall be equal to the 
+product of: 
+(A) the Effective Nameplate Capacity determined for the Limited 
+Duration Resource component; 
+(B) [one minus the EFORd for the Limited Duration Resource 
+component]; and 
+(C) the applicable Limited Duration Resource component ELCC Class 
+Rating as determined in Section E(2)(i). 
+(iii) The value for an Unlimited Resource component shall be equal to the product 
+of the installed capacity of the Unlimited Resource component and [one minus the 
+EFORd for the Unlimited Resource component]. 
+(iv) The Accredited UCAP for Hydropower With Non-Pumped Storage, and for 
+each member of an ELCC Class whose members are so distinct from one another 
+that a single ELCC Class Rating fails to capture their physical characteristics, 
+shall be based on a resource-specific effective load carrying capability analysis 
+based on the resource’s unique parameters. 
+(2) The ELCC Resource Performance Adjustment shall be calculated according to the 
+following methods, as further detailed in the PJM Manuals:  
+ 
+(a) For a Variable Resource: based on a metric consisting of the average of (1) actual 
+output during the 200 highest coincident peak load hours over the preceding ten years, 
+regardless of the years in which they occur, and (2) actual output during the 200 highest 
+coincident peak putative net load hours over the preceding ten years, regardless of the 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 6 
+years in which they occur, where putative net load is actual load minus the putative 
+hourly output of Variable Resources based on the resource mix of the target year.  For 
+Planned Resources or resources less than 10 years old, estimated hypothetical historical 
+output will be used to develop this metric. For a given resource or component, the 
+Performance Adjustment shall equal the ratio of such metric to the average (weighted by 
+the Effective Nameplate Capacity) of such metrics for all units in the applicable Variable 
+Resource ELCC Class.   
+(b) For Limited Duration Resources: based on EFORd.  
+(c) For Combination Resources with only an Unlimited Resource component and a 
+Limited Duration Resource component: based on EFORd.  
+(d) For Combination Resources with a Variable Resource component (except for 
+Hydropower With Non-Pumped Storage): (1) based on the direct metered or estimated 
+output of the Variable Resource component, which is then assessed according to the 
+methodology described in subsection (a) above for Variable Resources and in accordance 
+with the PJM Manuals; and (2) based on the EFORd that is applicable to the Limited 
+Duration Resource component.  
+(e) For Hydropower With Non-Pumped Storage and other Combination Resources that 
+do not fall into the above categories: based on EFORd. 
+G. Installed Capacity of ELCC Resources 
+ 
+Rules and procedures for technically determining and demonstrating the installed capacity of 
+ELCC Resources shall be developed by the Office of the Interconnection and maintained in the 
+PJM Manuals.  The installed capacity of a Limited Duration Resource is based on the sustained 
+level of output that the unit can provide and maintain over a continuous period, whereby the 
+duration of that period matches the characteristic duration of the corresponding ELCC Class, 
+with consideration given to ambient conditions expected to exist at the time of PJM system peak 
+load, as described in the PJM Manuals.  The installed capacity of a Combination Resource (other 
+than Hydropower With Non-Pumped Storage) is based on the lesser of the Maximum Facility 
+Output or the sum of the equivalent Effective Nameplate Capacity values of the resource’s 
+constituent components considered on a stand-alone basis. 
+H. Details of the Effective Load Carrying Capability Methodology 
+ 
+The effective load carrying capability analysis shall compare expected hourly load levels (based 
+on historical weather) with the expected hourly output of the expected future resource mix in 
+order to identify the relative resource adequacy value of the portfolio of all ELCC Classes, as 
+well of each individual ELCC Class, compared to a group of Unlimited Resources with no 
+outages.  In performing this analysis, the model inputs shall be scaled to meet the annual loss of 
+load expectation of the Office of the Interconnection.  The effective load carrying capability 
+analysis shall compare hourly values for: (i) expected load based on historical weather; (ii) 
+expected Variable Resource output; and (iii) expected output of Limited Duration Resources and 
+of Combination Resources as described below.  These expected quantities are based on actual 
+values for load and actual and putative values for Variable Resource output (standalone or as a 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 7 
+component of Combination Resources) after June 1, 2012 (inclusive) through the most recent 
+Delivery Year for which complete data exist. For resources that have not existed each year since 
+June 1, 2012, putative output is an estimate of the hourly output that resource would have 
+produced in a historical hour if that resource had existed in that hour.  This putative output 
+estimate is developed based on historical weather data consistent with the particular site 
+conditions for each such resource in accordance with the PJM Manuals.  
+The effective load carrying capability analysis shall simulate forced outages of Unlimited 
+Resources based on actual historical data, and shall simulate the output of Limited Duration 
+Resources and Combination Resources based on their Office of the Interconnection-validated 
+parameters, including the putative output of the Variable Resource component of Combination 
+Resources, as described above.  Forced outages of Limited Duration Resources and Combination 
+Resources shall not be simulated in the effective load carrying capability analysis.  
+The quantity of deployed resources studied in the analysis shall be based on resource deployment 
+forecasts and, where applicable, on available information based on Sell Offers submitted in RPM 
+Auctions or Fixed Resource Requirement plans for the applicable Delivery Year.  
+The ELCC Class UCAP and other results of the effective load carrying capability analysis shall 
+be based on the total Effective UCAP of the ELCC Class as a whole.  
+The ELCC Class UCAP and corresponding ELCC Class Rating values may increase or decrease 
+from year to year as the expected resource mix and load shape change.  
+Energy Resources are not included in the effective load carrying capability analysis.  Generating 
+units that are expected to only offer or otherwise provide a portion of their Accredited UCAP for 
+that Delivery Year are represented in the analysis in proportion to the expected quantity offered 
+or delivered divided by the Accredited UCAP. 
+I. Methodology to Simulate Output of Certain Resources in the Effective Load 
+Carrying Capability Model 
+ 
+The effective load carrying capability analysis shall simulate the output of Limited Duration 
+Resources and Combination Resources based on their physical parameters, including limited 
+storage capability, and shall simulate the deployment of Demand Resources.  The analysis shall 
+simulate output from the subject Limited Duration Resources and Combination Resources in 
+hours in which all output from Unlimited Resources and available output from Variable 
+Resources is insufficient to meet load.  The output of the subject Limited Duration Resources 
+and Combination Resources shall be simulated on an hour-by-hour basis in proportion to their 
+Effective Nameplate Capacity without foresight to future hours.  The simulated deployment of 
+Demand Resources shall be such that there is adequate Primary Reserves provided by economic 
+resources, if sufficient simulated Demand Resources are available. Primary Reserves shall be 
+assigned to generation resources in order to maximize simulated reliability, provided that 
+assignments to Limited Duration Resources and Combination Resources shall be pro rata 
+according to their Effective Nameplate Capacity.  Primary Reserves shall be exhausted prior to 
+identifying a loss of load event in the analysis.  Energy Storage Resource charging is during 
+hours with sufficient margin, including between daily peaks if necessary.  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 8 
+J. Administration of Effective Load Carrying Capability Analysis 
+ 
+The Office of the Interconnection shall post final ELCC Class Rating values at least once per 
+year in a report that also includes appropriate details regarding methodology and inputs.  The 
+Office of the Interconnection shall post this report and shall communicate ELCC Resource 
+Performance Adjustment values to applicable Generation Capacity Resource Providers no later 
+than five months prior to the start of the target Delivery Year, as described in the PJM Manuals.  
+Starting with the 2023/2024 Delivery Year, Accredited UCAP values for the applicable Delivery 
+Year shall establish the maximum Unforced Capacity that an ELCC Resource can physically 
+provide or offer to provide in the applicable Delivery Year.   
+The Office of the Interconnection shall also post preliminary ELCC Class Rating values for nine 
+subsequent Delivery Years.  For any Delivery Year for which a final ELCC Class Rating has not 
+been posted and a preliminary ELCC Class Rating has been posted, the Accredited UCAP of an 
+ELCC Resource for such Delivery Year shall be based on the most recent preliminary ELCC 
+Class Rating value for that Delivery Year, together with the most recently calculated ELCC 
+Resource Performance Adjustment value for that ELCC Resource.  Except to the extent specified 
+above or otherwise specified, the preliminary ELCC Class Rating values for future years are 
+non-binding and are only for indicative purposes.  A Generation Capacity Resource Provider can 
+offer or provide capacity from an ELCC Resource that is not subject to a capacity market must 
+offer obligation (as specified in Tariff, Attachment DD, Section 6.6) at a level less than the 
+Accredited UCAP for such resource.   
+In order to facilitate the effective load carrying capability analysis, the Generation Capacity 
+Resource Provider of each ELCC Resource must submit to the Office of the Interconnection the 
+required information as specified in the PJM Manuals by no later than August 15 prior to the 
+calendar year for the RPM Auction in which the ELCC Resource intends to submit a Sell Offer 
+or otherwise commit to provide capacity, except for Delivery Years prior to the 2026/2027 
+Delivery Year such required information must be provided to the Office of the Interconnection in 
+accordance with the PJM Manuals.  The required information may include relevant physical 
+parameters, relevant historical data such as weather data and actual or estimated historical energy 
+output, and documentation supporting such parameters and historical data.  The relevant physical 
+parameters are those that are incorporated into the effective load carrying capability analysis.  
+The parameters required for Hydropower With Non-Pumped Storage shall include Ordinary 
+Water Storage and any applicable Exigent Water Storage.  Submitted parameters must indicate 
+the expected duration for which any submitted physical parameters are valid. 
+The Office of the Interconnection shall evaluate, validate, and approve the foregoing information 
+in accordance with the process set forth in the PJM Manuals.  In evaluating the validity of 
+submitted information, the Office of the Interconnection may assess the consistency of such 
+information with observed conditions.  If the Office of the Interconnection observes that the 
+information provided by the Generation Capacity Resource Provider of the ELCC Resource is 
+inconsistent with observed conditions, the Office of the Interconnection will coordinate with the 
+Generation Capacity Resource Provider of the ELCC Resource to understand the information 
+and observed conditions before making a determination regarding the validity of the applicable 
+parameters.  The Office of the Interconnection may engage the services of a consultant with 
+technical expertise to evaluate the foregoing information.  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 9.1 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 9 
+After the Office of the Interconnection has completed its evaluation of the foregoing information, 
+the Office of the Interconnection shall notify the Generation Capacity Resource Provider in 
+writing whether the submitted information is considered invalid by no later than September 1 
+following the submission of the information. The Office of the Interconnection’s determination 
+on the validity of the foregoing information shall continue for the applicable Delivery Year and, 
+if requested, for such longer period as the Office of the Interconnection may determine is 
+supported by the data.  
+In the event that the Office of the Interconnection is unable to validate any of the required 
+information, physical parameters, supporting documentation, or other related information 
+submitted by the Generation Capacity Resource Provider of an ELCC Resource, then the Office 
+of the Interconnection shall calculate Accredited UCAP values for that ELCC Resource based 
+only on the validated information.  Such ELCC Resource shall not be permitted to offer or 
+otherwise provide capacity above such Accredited UCAP values until the Office of the 
+Interconnection determines new Accredited UCAP values for such resource. 
+Generation Capacity Resource Providers of ELCC Resources that are hydropower plants with 
+water storage must provide documentation to support the physical parameters provided for 
+expected load carrying capability analysis modeling, as specified in the PJM Manuals. This 
+documentation must: (a) support the plant’s physical capabilities; (b) demonstrate that the 
+parameters do not violate any federal, state, river basin, or other applicable authority operating 
+limitations of the plant; and (c) demonstrate full authorization from FERC, any river basin 
+commissions, and any other applicable authorities to meet those capabilities. 
+ 
+ 
+

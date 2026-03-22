@@ -1,0 +1,749 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+SCHEDULE 6 
+ 
+PROCEDURES FOR DEMAND RESOURCES AND ENERGY EFFICIENCY 
+ 
+A. Parties can partially or wholly offset the amounts payable for the Locational 
+Reliability Charge with Demand Resources that are operated under the direction of the 
+Office of the Interconnection.  FRR Entities may reduce their capacity obligations with 
+Demand Resources that are operated under the direction of the Office of the 
+Interconnection and detailed in such entity’s FRR Capacity Plan.  Demand Resources 
+qualifying under the criteria set forth below may be offered for sale or designated as Self-
+Supply in the Base Residual Auction, included in an FRR Capacity Plan, or offered for 
+sale in any Incremental Auction, for any Delivery Year for which such resource qualifies.  
+Qualified Demand Resources generally fall in one of two categories, i.e., Guaranteed 
+Load Drop or Firm Service Level, as further specified in section G below and the PJM 
+Manuals.  Qualified Demand Resources may be provided by a Curtailment Service 
+Provider, notwithstanding that such Curtailment Service Provider is not a Party to this 
+Agreement.  Such Curtailment Service Providers must satisfy the requirements hereof 
+and the PJM Manuals. 
+ 
+1. A Party must formally notify, in accordance with the requirements of the 
+PJM Manuals and section F hereof, as applicable, the Office of the 
+Interconnection of the Demand Resource Registration that it is placing under the 
+direction of the Office of the Interconnection.  A Party must further notify the 
+Office of the Interconnection whether the Demand Resource Registration is linked 
+to a Summer-Period Demand Resource or an Annual Demand Resource. 
+ 
+2. A Demand Resource Registration must achieve its full load reduction 
+within the following time period: 
+ 
+(a) For the 2015/2016 Delivery Year and subsequent Delivery Years, a Demand 
+Resource Registration must be able to fully respond to a Load Management Event 
+within 30 minutes of notification from the Office of the Interconnection.  This 
+default 30 minute prior notification shall apply unless a Curtailment Service Provider 
+obtains an exception from the Office of the Interconnection due to physical 
+operational limitations that prevent the Demand Resource Registration from 
+reducing load within that timeframe.  In such case, the Curtailment Service Provider 
+shall submit a request for an exception to the 30 minute prior notification requirement 
+to the Office of the Interconnection, at the time the Registration Form for that 
+Demand Resource Registration is submitted in accordance with Tariff, 
+Attachment K-Appendix.  The only alternative notification times that the Office 
+of Interconnection will permit, upon approval of an exception request, are 60 
+minutes and 120 minutes prior to a Load Management Event.  The Curtailment 
+Service Provider shall indicate in writing, in the appropriate application, that it 
+seeks an exception to permit a prior notification time of 60 minutes or 120 
+minutes, and the reason(s) for the requested exception.  A Curtailment Service 
+Provider shall not submit a request for an exception to the default 30 minute 
+notification period unless it has done its due diligence to confirm that the Demand 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+Resource Registration is physically incapable of responding within that timeframe 
+based on one or more of the reasons set forth below and as may be further defined 
+in the PJM Manuals and has obtained detailed data and documentation to support 
+this determination.    
+ 
+In order to establish that a Demand Resource Registration is reasonably expected to 
+be physically unable to reduce load in that timeframe, the Curtailment Service Provider that 
+submitted the Demand Resource Registration must demonstrate that:  
+ 
+(i) The manufacturing processes for the Demand Resource Registration require 
+gradual reduction to avoid damaging major industrial equipment used in the 
+manufacturing process, or damage to the product generated or feedstock used in the 
+manufacturing process;  
+ 
+(ii) Transfer of load to back-up generation requires time-intensive manual process 
+taking more than 30 minutes;  
+ 
+(iii) On-site safety concerns prevent location from implementing reduction plan in 
+less than 30 minutes; or, 
+ 
+(iv) The Demand Resource Registration is comprised of mass market residential 
+customers or Small Commercial Customers which collectively cannot be notified of a 
+Load Management Event within a 30-minute timeframe due to unavoidable 
+communications latency, in which case the requested notification time shall be no 
+longer than 120 minutes.  
+ 
+The Office of the Interconnection may request data and documentation from the 
+Curtailment Service Provider and such Curtailment Service Provider shall provide to the Office 
+of the Interconnection within three (3) Business Days of a request therefor, a copy of all of the data 
+and documentation supporting the exception request. Failure to provide a timely response to such 
+request shall cause the exception to terminate the following Operating Day. 
+ 
+At its sole option and discretion, the Office of the Interconnection may review the data 
+and documentation provided by the Curtailment Service Provider to determine if the Demand 
+Resource Registration has met one or more of the criteria above.  The Office of the 
+Interconnection will notify the Curtailment Service Provider in writing of its determination by no 
+later than ten (10) Business Days after receipt of the data and documentation.   
+ 
+The Curtailment Service Provider shall provide written notification to the Office of the 
+Interconnection of a material change to the facts that supported its exception request within three 
+(3) Business Days of becoming aware of such material change in facts, and, if the Office of 
+Interconnection determines that the physical limitation criteria above are no longer being met, 
+the Demand Resource Registration shall be subject to the default notification period of 30 
+minutes  immediately upon such determination. 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 3 
+3. The initiation of load reduction, upon the request of the Office of the 
+Interconnection, must be within the authority of the dispatchers of the Party.  No 
+additional approvals should be required. 
+ 
+4. The initiation of load reduction upon the request of the Office of the 
+Interconnection is considered a pre-emergency or emergency action and must be 
+implementable prior to a voltage reduction. 
+ 
+5. A Curtailment Service Provider intending to offer for sale or designate for self-
+supply, a Demand Resource in any RPM Auction, or intending to include a Demand 
+Resource in any FRR Capacity Plan must demonstrate, to PJM’s satisfaction, that such 
+resource shall have the capability to provide a reduction in demand, or otherwise control 
+load, on or before the start of the Delivery Year for which such resource is committed.  
+As part of such demonstration, each such Curtailment Service Provider shall submit a 
+Demand Resource Sell Offer Plan in accordance with the standards and procedures set 
+forth in RAA, Schedule 6, section A-1; RAA, Schedule 8.1 (as to FRR Capacity Plans) 
+and the PJM Manuals, no later than 30 days prior to, as applicable, the RPM Auction in 
+which such resource is to be offered, or the deadline for submission of the FRR Capacity 
+Plan in which such resource is to be included.  PJM may verify the Curtailment Service 
+Provider’s adherence to the Demand Resource Sell Offer Plan at any time.  A 
+Curtailment Service Provider with a PJM-approved Demand Resource Sell Offer Plan 
+will be permitted to offer up to the approved Demand Resource quantity into the subject 
+RPM Auction or include such resource in its FRR Capacity Plan. 
+ 
+6. Selection of a Demand Resource in an RPM Auction results in commitment of 
+capacity to the PJM Region.  Demand Resources that are so committed must be linked to 
+registrations participating in the Full Program Option or Capacity Only Option of the 
+Emergency Load Response and Pre-Emergency Load Response Program and thus 
+available for dispatch during PJM-declared pre-emergency events and emergency events.  
+ 
+A-1. A Demand Resource Sell Offer Plan shall consist of a completed template 
+document in the form posted on the PJM website, requiring the information set forth 
+below and in the PJM Manuals, and a Demand Resource Officer Certification Form 
+signed by an officer of the Demand Resource Provider that is duly authorized to provide 
+such a certification.  The Demand Resource Sell Offer Plan must provide information that 
+supports the Demand Resource Provider’s intended Demand Resource Sell Offers and 
+demonstrates that the Demand Resources are being offered with the intention that the 
+MW quantity that clears the auction is reasonably expected to be physically delivered 
+through Demand Resource registrations for the relevant Delivery Year.  The Demand 
+Resource Sell Offer Plan shall include all Existing Demand Resources and all Planned 
+Demand Resources that the Demand Resource Provider intends to offer into an RPM 
+Auction or include in an FRR Capacity Plan. 
+ 
+1.  Demand Resource Sell Offer Plan Template.  The Demand Resource Sell 
+Offer Plan template, in the form provided on the PJM website, shall require the 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 4 
+Demand Resource Provider to provide the following information and such other 
+information as specified in the PJM Manuals:    
+ 
+(a) Summary Information. The completed template shall include the 
+Demand Resource Provider’s company name, contact information, and the 
+Nominated DR Value in ICAP MWs by Zone/sub-Zone that the Demand 
+Resource Provider intends to offer, stated separately for Existing Demand 
+Resources and Planned Demand Resources.  The total Nominated DR 
+Value in MWs for each Zone/sub-Zone shall be the sum of the Nominated 
+DR Value of Existing Demand Resources and the Nominated DR Value of 
+Planned Demand Resources, and shall be the maximum MW amount the 
+Provider intends to offer in the RPM Auction for the indicated Zone/sub-
+Zone, provided that nothing herein shall preclude the Demand Resource 
+Provider from offering in the auction a lesser amount than the total 
+Nominated DR Value shown in its Demand Resource Sell Offer Plan. 
+ 
+(b) Existing Demand Resources.  The Demand Resource Provider 
+shall identify all Existing Demand Resources by identifying end-use 
+customer sites that are currently registered with PJM (even if not 
+registered by such Demand Resource Provider) and that the Demand 
+Resource Provider reasonably expects to have under a contract to reduce 
+load based on PJM dispatch instructions by the start of the auction 
+Delivery Year.   
+ 
+(c) Planned Demand Resources.  The Demand Resource Provider shall 
+provide the details of, and key assumptions underlying, the Planned 
+Demand Resource quantities (i.e., all Demand Resource quantities in 
+excess of Existing Demand Resource quantities) contained in the Demand 
+Resource Sell Offer Plan, including: 
+ 
+(i) key program attributes and assumptions used to develop the 
+Planned Demand Resource quantities, including, but not limited to, 
+discussion of:  
+● method(s) of achieving load reduction at customer site(s);  
+● equipment to be controlled or installed at customer site(s), 
+if any;  
+● plan and ability to acquire customers;  
+● types of customer targeted;  
+● support of market potential and market share for the target 
+customer base, with adjustments for Existing Demand 
+Resource customers within this market and the potential for 
+other Demand Resource Providers targeting the same 
+customers; and  
+● assumptions regarding regulatory approval of program(s), 
+if applicable. 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 5 
+ 
+(ii) Zone/sub-Zone information by end-use customer segment for all 
+Nominated DR Values for which an end-use customer site is not 
+identified, to include the number in each segment of end-use customers 
+expected to be registered for the subject Delivery Year, the average Peak 
+Load Contribution per end-use customer for such segment, and the 
+average Nominated DR Value per customer for such segment.  End-use 
+customer segments may include residential, commercial, small industrial, 
+medium industrial, and large industrial, as identified and defined in the 
+PJM Manuals, provided that nothing herein or in the Manuals shall 
+preclude the Provider from identifying more specific customer segments 
+within the commercial and industrial categories, if known.   
+ 
+(iii) Information by end-use customer site to the extent required by 
+subsection A-1(1)(c)(iv) or, if not required by such subsection, to the 
+extent known at the time of the submittal of the Demand Resource Sell 
+Offer Plan, to include: customer EDC account number (if known), 
+customer name, customer premise address, Zone/sub-Zone in which the 
+customer is located, end-use customer segment, current Peak Load 
+Contribution value (or an estimate if actual value not known) and an 
+estimate of expected Peak Load Contribution for the subject Delivery 
+Year, and an estimated Nominated DR Value.   
+ 
+(iv) End-use customer site-specific information shall be required for 
+any Zones or sub-Zones identified by PJM pursuant to this subsection for 
+the portion, if any, of a Demand Resource Provider’s intended offer in 
+such Zones or sub-Zones that exceeds a Sell Offer threshold determined 
+pursuant to this subsection, as any such excess quantity under such 
+conditions should reflect Planned Demand Resources from end-use 
+customer sites that the Provider has a high degree of certainty it will 
+physically deliver for the subject Delivery Year.  In accordance with the 
+procedures in subsection A-1(3) below, PJM shall identify, as requiring 
+site-specific information, all Zones and sub-Zones that comprise any LDA 
+group (from a list of LDA groups stated in the PJM Manuals) in which 
+[the quantity of cleared Demand Resources from the most recent Base 
+Residual Auction] plus [the quantity of Demand Resources included in 
+FRR Capacity Plans for the Delivery Year addressed by the most recent 
+Base Residual Auction] in any Zone or sub-Zone of such LDA group 
+exceeds the greater of: 
+   
+● the maximum Demand Resources quantity registered with 
+PJM  for such Zone for any Delivery Year from the current 
+(at time of plan submission) Delivery Year and the two 
+preceding Delivery Years; and 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 6 
+● the potential Demand Resource quantity for such Zone 
+estimated by PJM based on an independent published 
+assessment of demand response potential that is reasonably 
+applicable to such Zone, as identified in the PJM Manuals.  
+ 
+For each such Zone and sub-Zone, the Sell Offer threshold for each 
+Demand Resource Provider shall be the higher of: 
+ 
+● the Demand Resource Provider’s maximum Demand 
+Resource quantity registered with PJM for such Zone/sub-
+Zone over the current Delivery Year (at the time of plan 
+submission) and two preceding Delivery Years; 
+ 
+● the Demand Resource Provider’s maximum for any single 
+Delivery Year of [such provider’s cleared Demand 
+Resource quantity] plus [such provider’s quantity of 
+Demand Resources included in FRR Capacity Plans] from 
+the three forward Delivery Years addressed by the three 
+most recent Base Residual Auctions for such Zone/sub-
+Zone; and 
+ 
+● 10 MW. 
+ 
+(d) Schedule.  The Demand Resource Provider shall provide an 
+approximate timeline for procuring end-use customer sites as needed to 
+physically deliver the total Nominated DR Value (for both Existing 
+Demand Resources and Planned Demand Resources) by Zone/sub-Zone in 
+the Demand Resource Sell Offer Plan.  The Demand Resource Provider 
+must specify the cumulative number of customers and the cumulative 
+Nominated DR Value associated with each end-use customer segment 
+within each Zone/sub-Zone that the Demand Resource Provider expects 
+(at the time of plan submission) to have under contract as of June 1 each 
+year between the time of the auction and the subject Delivery Year. 
+ 
+2.  Demand Resource Officer Certification Form.  Each Demand Resource Sell 
+Offer Plan must include a Demand Resource Officer Certification, signed by an 
+officer of the Demand Resource Provider that is duly authorized to provide such a 
+certification, in the form shown in the PJM Manuals, which form shall include the 
+following certifications: 
+ 
+(a) that the signing officer has reviewed the Demand Resource Sell Offer Plan and 
+the information supplied to PJM in support of the Plan is true and correct as of the 
+date of the certification;  
+ 
+(b) that the Sell Offer Plan does not include any Critical Natural Gas 
+Infrastructure facilities, and 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 7 
+ 
+(c) that the Demand Resource Provider is submitting the Plan with the reasonable 
+expectation, based upon its analyses as of the date of the certification, to 
+physically deliver all megawatts that clear the RPM Auction through Demand 
+Resource registrations by the specified Delivery Year. 
+ 
+As set forth in the form provided in the PJM Manuals, the certification shall 
+specify that it does not in any way abridge, expand, or otherwise modify the current provisions of 
+the PJM Tariff, Operating Agreement and/or RAA, or the Demand Resource Provider’s rights 
+and obligations thereunder, including the Demand Resource Provider’s ability to adjust capacity 
+obligations through participation in PJM incremental auctions and bilateral transactions.  
+ 
+3.  Procedures.  No later than December 1 prior to the Base Residual Auction for a 
+Delivery Year, PJM shall post to the PJM website a list of Zones and sub-Zones, 
+if any, for which end-use customer site-specific information shall be required 
+under the conditions specified in subsection A-1(1)(c)(iv) above for all RPM 
+Auctions conducted for such Delivery Year.  Once so identified, a Zone or sub-
+Zone shall remain on the list for future Delivery Years until the threshold 
+determined under subsection A-1(1)(c)(iv) above is not exceeded for three 
+consecutive Delivery Years.  No later than 30 days prior to the RPM Auction in 
+which a Demand Resource Provider intends to offer a Demand Resource, the 
+Demand Resource Provider shall submit to PJM a completed Demand Resource 
+Sell Offer Plan template and a Demand Resource Officer Certification Form 
+signed by a duly authorized officer of the Provider.  PJM will review all 
+submitted DR Sell Offer Plans.  No later than 10 Business Days prior to the 
+subject RPM Auction, PJM shall notify any Demand Resource Providers that 
+have identified the same end-use customer site(s) in their respective DR Sell Offer 
+Plans for the same Delivery Year.  In such event, the MWs associated with such 
+site(s) will not be approved for inclusion in a Sell Offer in an RPM Auction by 
+any of the Demand Resource Providers, unless a Demand Resource Provider 
+provides a letter of support from the end-use customer indicating that it is likely to 
+execute a contract with that Demand Resource Provider for the relevant Delivery 
+Year, or provides other comparable evidence of likely commitment.  Such letter 
+of support or other supporting evidence must be provided to PJM no later than 7 
+Business Days prior to the subject RPM Auction.  If an end-use customer 
+provides letters of support for the same site for the same Delivery Year to 
+multiple Demand Resource Providers, the MWs associated with such end-use 
+customer site shall not be approved as a Demand Resource for any of the Demand 
+Resource Providers.  No later than 5 Business Days prior to the subject RPM 
+Auction, PJM will notify each Demand Resource Provider of the approved 
+Demand Resource quantity, by Zone/sub-Zone, that such Demand Resource 
+Provider is permitted to offer into such RPM Auction. 
+ 
+B. The Unforced Capacity value of a Demand Resource will be determined: 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 8 
+(1) for Delivery Years through the 2024/2025 Delivery Year, as the product of the 
+Nominated Value of the Demand Resource times the Forecast Pool Requirement.  
+Nominated Values shall be determined and reviewed in accordance with sections I and J, 
+respectively, and the PJM Manuals.   
+ 
+(2) for the 2025/2026 Delivery Year and subsequent Delivery Years, in accordance with 
+RAA, Schedule 9.2. Nominated Values shall be determined and reviewed in accordance 
+with sections I and J, respectively, and the PJM Manuals.   
+ 
+C. Demand Resources offered and cleared in a Base Residual or Incremental Auction shall 
+receive the corresponding Capacity Resource Clearing Price as determined in such 
+auction, in accordance with Tariff, Attachment DD.  For Delivery Years beginning with 
+the Delivery Year that commences on June 1, 2013, any Demand Resources located in a 
+Zone with multiple LDAs shall receive the Capacity Resource Clearing Price applicable 
+to the location of such resource within such Zone, as identified in such resource’s offer.  
+Further, the Curtailment Service Provider shall register its resource in the same location 
+within the Zone as specified in its cleared sell offer, and shall be subject to deficiency 
+charges under Tariff, Attachment DD to the extent it fails to provide the resource in such 
+location consistent with its cleared offer.   
+ 
+D. The Party, Electric Distributor, or Curtailment Service Provider that establishes a 
+contractual relationship (by contract or tariff rate) with a customer for load reductions is 
+entitled to receive the compensation specified in section C for a committed Demand 
+Resource, notwithstanding that such provider is not the customer’s energy supplier.  
+ 
+E. Any Party hereto shall demonstrate that its Demand Resources performed during periods 
+when load management procedures were invoked by the Office of the Interconnection.  
+The Office of the Interconnection shall adopt and maintain rules and procedures for 
+verifying the performance of such resources, as set forth in section K hereof and the PJM 
+Manuals.  In addition, committed Demand Resources that do not comply with the 
+directions of the Office of the Interconnection to reduce load during an emergency shall 
+be subject to the penalty charge set forth in Tariff, Attachment DD. 
+ 
+F. Parties may elect to place Demand Resources associated with Behind The Meter 
+Generation under the direction of the Office of the Interconnection for a Delivery Year by 
+submitting a Sell Offer for such resource (as Self Supply, or with an offer price) in the 
+Base Residual Auction for such Delivery Year.  This election shall remain in effect for 
+the entirety of such Delivery Year.  In the event such an election is made, such Behind 
+The Meter Generation will not be netted from load for the purposes of calculating the 
+Daily Unforced Capacity Obligations under this Agreement. 
+ 
+G. PJM measures Demand Resource Registrations in the following ways: 
+ 
+Firm Service Level (FSL) – Load management achieved by an end-use customer 
+reducing its load to a pre-determined level (the Firm Service Level), upon notification 
+from the Curtailment Service Provider’s market operations center or its agent. 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 9 
+ 
+Guaranteed Load Drop (GLD) – Load management achieved by an end-use customer 
+reducing its load by a pre-determined amount (the Guaranteed Load Drop), upon 
+notification from the Curtailment Service Provider’s market operations center or its 
+agent. Typically, the load reduction is achieved through running customer-owned backup 
+generators, or by shutting down process equipment. 
+ 
+H. Each Curtailment Service Provider must satisfy (or contract with another LSE, 
+Curtailment Service Provider, or electric distribution company to provide) the following 
+requirements: 
+ 
+● A point of contact with appropriate backup to ensure single call notification from 
+PJM and timely execution of the notification process; 
+ 
+● Supplemental status reports, detailing Demand Resources available, as requested 
+by PJM; 
+ 
+● Entry of customer-specific Demand Resource Registration information, for 
+planning and verification purposes, into the designated PJM electronic system.  
+ 
+● Customer-specific compliance and verification information for each PJM-initiated 
+Demand Resource event or test event, as well as aggregated Provider load drop data for 
+Provider-initiated events, in accordance with established reporting guidelines. 
+ 
+● Load drop estimates for all Load Management events and test events, prepared in 
+accordance with the PJM Manuals. 
+ 
+I. The Nominated Values (summer or winter) for each Demand Resource Registration shall 
+be determined consistent with the process described below.   
+ 
+The summer Nominated Value for Firm Service Level customer(s) on a registration will 
+be based on the peak load contribution for the customer(s), as typically determined by the 
+5CP methodology utilized by the electric distribution company to determine ICAP 
+obligation values.  The  summer Nominated Value  for a registration shall equal the total 
+peak load contribution for the customers on the registration minus the summer Firm 
+Service Level multiplied by the loss factor.  The winter Nominated Value for Firm 
+Service Level customer(s) on a registration shall equal the total Winter Peak Load for 
+customers on the registration multiplied by Zonal Winter Weather Adjustment Factor 
+minus winter Firm Service level and then the result is multiplied by the loss factor.   
+ 
+The summer Nominated Value for a Guaranteed Load Drop customer on a 
+registrationshall equal the summer guaranteed load drop amount, adjusted for system 
+losses and shall not exceed the customer’s Peak Load Contribution, as established by the 
+customer’s contract with the Curtailment Service Provider. The winter Nominated Value 
+for a Guaranteed Load Drop customer on a registration shall be the winter guaranteed 
+load drop amount, adjusted for system losses, and shall not exceed the customer’s Winter 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 10 
+Peak Load multiplied by Zonal Winter Weather Adjustment Factor multiplied by the loss 
+factor, as established by the customer’s contract with the Curtailment Service Provider.  
+ 
+Customer-specific Demand Resource Registration information (EDC account number, 
+peak load contribution, Winter Peak Load, notification period, etc.) will be entered into 
+the designated PJM electronic system to establish nominated values.  Each Demand 
+Resource Registration should be linked to a Demand Resource.  Additional data may be 
+required, as defined in sections J and K and the PJM Manuals. 
+ 
+J. Nominated Values shall be reviewed based on documentation of customer-specific data 
+and Demand Resource Registration information, to verify the amount of load 
+management available and to set a summer or winter, Nominated Value.  Data is 
+provided by both the zone EDC and the Curtailment Service Provider in the designated 
+PJM electronic system, and must include the EDC meter number or other unique 
+customer identifier, Peak Load Contribution (5CP), Winter Peak Load, contract firm 
+service level or guaranteed load drop values, applicable loss factor, zone/area location of 
+the load drop, number of active participants, etc.  Such data must be uploaded and 
+approved prior to the first day of the Delivery Year for which such Demand Resource 
+Registration is effective.  Curtailment Service Providers must provide this information 
+concurrently to host EDCs. 
+ 
+For Firm Service Level and Guaranteed Load Drop customers, the 5CP values, for the 
+zone and affected customers, will be adjusted to reflect an “unrestricted” peak for a zone, 
+based on information provided by the Curtailment Service Provider.  Load drop levels 
+shall be estimated in accordance with guidelines in the PJM Manuals. 
+ 
+The daily Nominated Value of a Demand Resource with a Capacity Performance 
+commitment (which may consist of an Annual Demand Resource with a Capacity 
+Performance commitment and/or Summer Period Demand Resource with a Capacity 
+Performance commitment) shall equal the sum of the summer Nominated Values of the 
+registrations linked to such Demand Resource for the summer period of June through 
+October and May of the Delivery Year, and shall equal the lesser of (i) the sum of the 
+summer Nominated Values of the registrations linked to such Demand Resource or (ii) 
+the sum of the winter Nominated Values of the registrations linked to such Demand 
+Resource for the non-summer period of November through April of the Delivery Year. 
+ 
+K. Compliance is the process utilized to review Provider performance during PJM-initiated 
+Load Management events and tests. Compliance will be established for each Provider on 
+an event specific basis for the Curtailment Service Provider’s Demand Resource 
+Registrations dispatched by the Office of the Interconnection during such event.  PJM 
+will establish and communicate reasonable deadlines for the timely submittal of event 
+data to expedite compliance reviews.  Compliance reviews will be completed as soon 
+after the event as possible, with the expectation that reviews of a single event will be 
+completed within two months of the end of the month in which the event took place.  
+Curtailment Service Providers are responsible for the submittal of compliance 
+information to PJM for each PJM-initiated event and test during the compliance period.   
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 11 
+ 
+Compliance is measured for Market Participant Bonus Performance, as applicable, and 
+Non-Performance Charges.  Non-Performance Charges are assessed for the defined 
+obligation period of each Demand Resource as defined in RAA, Article 1, subject to the 
+following requirements:   
+ 
+Compliance is checked on an individual customer basis for Firm Service Level, by 
+comparing actual load during the event to the firm service level.  Current load for a 
+statistical sample of end-use customers may be used for compliance for residential non-
+interval metered registrations in accordance with the PJM Manuals and subject to PJM 
+approval. Curtailment Service Providers must submit actual customer load levels (for the 
+event period) for the compliance report.  Compliance for FSL will be based on: 
+ 
+Summer (June through October and the following May of a Delivery Year)- End 
+use customer’s current Delivery Year peak load contribution (“PLC”) minus the 
+metered load (“Load”) multiplied by the loss factor (“LF”). The calculation is 
+represented by: 
+ 
+(PLC) - (Load *LF) 
+ 
+Winter (November through April of a Delivery Year)– End use customer’s Winter 
+Peak Load (“WPL”) multiplied by Zonal Winter Weather Adjustment Factor 
+(“ZWWAF”) multiplied by LF, minus the metered load (“Load”) multiplied by 
+the LF.  The calculation is represented by: 
+ 
+(WPL * ZWWAF * LF) – (Load * LF) 
+ 
+ 
+Compliance is checked on an individual customer basis for  Guaranteed Load Drop.  
+Current load for a statistical sample of end-use customers may be used for compliance for 
+residential non-interval metered registrations in accordance with the PJM Manuals and 
+subject to PJM approval.  Guaranteed Load Drop compliance will be based on: 
+ 
+(i) the lesser of (a) comparison load used to best represent what the load would have 
+been if PJM did not declare a Load Management Event or the CSP did not initiate 
+a test as outlined in the PJM Manuals, minus the Load and then multiplied by the 
+LF, or (b) For a summer event, the PLC minus the Load multiplied by the LF.  A 
+summer load reduction will only be recognized for capacity compliance if the 
+Load multiplied by the LF is less than the PLC.  For a non-summer event, the 
+WPL multiplied the ZWWAF multiplied by LF,  minus the Load multiplied by 
+the LF. A non-summer load reduction will only be recognized for capacity 
+compliance if the Load multiplied by the LF is less than the WPL multiplied by 
+the ZWWAF multiplied by LF. 
+(ii) Curtailment Service Providers must submit actual loads and comparison loads for 
+all hours during the day of the Load Management Event or the Load Management 
+performance test, and for all hours during any other days as required by the Office 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 12 
+of the Interconnection to calculate the load reduction.  Comparison loads must be 
+developed from the guidelines in the PJM Manuals, and note which method was 
+employed. 
+(iii) Methodologies for establishing comparison load for Guaranteed Load Drop end-
+use customers are described in greater detail in Manual M-19, PJM Manual for 
+Load Forecasting and Analysis, at Attachment A: Load Drop Estimate Guidelines. 
+ 
+Load reduction compliance is determined on an hourly basis for a Demand Resource 
+Registration linked to an Annual Demand Resource with a Capacity Performance 
+commitment, for each FSL and GLD customer dispatched by the Office of the 
+Interconnection for at least 30 minutes of the clock hour (i.e., “partial dispatch 
+compliance hour”).  Curtailment Service Provider may submit 1 minute load data for use 
+in capacity compliance calculations for partial dispatch compliance hours subject to PJM 
+approval and in accordance with the PJM Manuals where: (a) metering meets all Tariff 
+and Manual requirements, (b) 1 minute load data shall be submitted to PJM for all 
+locations on the registration, and (c) 1 minute load data measures energy consumption 
+over the minute. The registered capacity commitment for a Demand Resource 
+Registration with a Capacity Performance commitment is not prorated based on the 
+number of minutes dispatched during the clock hours.  The actual hourly load reduction 
+for the hour ending that includes a Performance Assessment Interval(s) is flat-profiled 
+over the set of dispatch intervals in the hour in accordance with the PJM Manuals.  
+ 
+A Demand Resource Registration may not reduce their load below zero (i.e., export 
+energy into the system). No compliance credit will be given for an incremental load drop 
+below zero.   
+ 
+For a Performance Assessment Interval, compliance will be totaled over all dispatched 
+registrations for FSL and GLD customers linked to a Provider’s Annual Demand 
+Resource with a Capacity Performance commitment to determine the Actual Performance 
+for such Demand Resource in accordance with Tariff, Attachment DD, section 10A, and 
+PJM Manuals.  The Expected Performance for such Demand Resource shall be equal to 
+the Provider’s committed capacity on the Demand Resource, adjusted to account for any 
+linked registrations that were not dispatched by PJM.  A Provider’s Demand Resources’ 
+initial Performance Shortfalls  shall be netted for all the seller’s Demand Resources in the 
+Emergency Action Area to determine a net Emergency Action Area Performance 
+Shortfall which is then allocated to the Capacity Market Seller’s Demand Resources in 
+accordance with Tariff, Attachment DD, section 10A, and PJM Manuals.    
+ 
+ 
+L. Energy Efficiency Resources – all provisions in RAA, Schedule 6, section L and Tariff, 
+Attachment DD-1, section L shall be effective only through the 2025/2026 Delivery 
+Year. Thereafter, no Energy Efficiency Resources shall qualify to be offered into the 
+RPM Auctions beginning with the 2026/2027 Delivery Year.  
+ 
+1. An Energy Efficiency Resource is a project, including installation of more 
+efficient devices or equipment or implementation of more efficient processes or 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 13 
+systems, exceeding then-current building codes, appliance standards, or other 
+relevant standards, designed to achieve a continuous (during peak summer and 
+winter periods as described herein) reduction in electric energy consumption at 
+the end-use customer’s retail site that is not reflected in the peak load forecast 
+prepared for the Delivery Year for which the Energy Efficiency Resource is 
+proposed, and that is fully implemented at all times during such Delivery Year, 
+without any requirement of notice, dispatch, or operator intervention. 
+ 
+2. An Energy Efficiency Resource may be offered as a Capacity Resource in the 
+Base Residual or Incremental Auctions for any Delivery Year beginning on or 
+after June 1, 2011.  No later than 30 days prior to the auction in which the 
+resource is to be offered, the Capacity Market Seller shall submit to the Office of 
+the Interconnection a notice of intent to offer the resource into such auction and a 
+measurement and verification plan.  The notice of intent shall include all pertinent 
+project design data, including but not limited to the peak-load contribution of 
+affected customers, a full description of the equipment, device, system or process 
+intended to achieve the load reduction, the load reduction pattern, the project 
+location, the project development timeline, and any other relevant data. Such 
+notice also shall state the seller’s proposed Nominated Energy Efficiency Value. 
+   
+ 
+• For the 2018/2019 Delivery Year and subsequent Delivery Years and for any 
+Annual Energy Efficiency Resource committed as a Capacity Performance 
+Resource, the seller’s proposed Nominated Energy Efficiency Value for any 
+Annual Energy Efficiency Resources, shall be the expected average load 
+reduction, for all days from June 1 through August 31, inclusive, of such 
+Delivery Year that is not a weekend or federal holiday, between the hour 
+ending 15:00 EPT and the hour ending 18:00 EPT.  In addition, the expected 
+average load reduction for all days from January 1 through February 28, 
+inclusive, of such Delivery Year that is not a weekend or federal holiday, 
+between the hour ending 8:00 EPT and the hour ending 9:00 EPT and between 
+the hour ending 19:00 EPT and the hour ending 20:00 EPT shall not be less 
+than the Nominated Energy Efficiency Value; and 
+ 
+• For the 2020/2021 Delivery Year and subsequent Delivery Years, the seller’s 
+proposed Nominated Energy Efficiency Value for any Summer-Period Energy 
+Efficiency Resource shall be the expected average load reduction between the 
+hour ending 15:00 EPT and the hour ending 18:00 EPT during all days from 
+June 1 through August 31, inclusive, of such Delivery Year that is not a 
+weekend or federal holiday. 
+ 
+The measurement and verification plan shall describe the methods and 
+procedures, consistent with the PJM Manuals, for determining the amount of 
+the load reduction and confirming that such reduction is achieved.  The Office 
+of the Interconnection shall determine, upon review of such notice, the 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 14 
+Nominated Energy Efficiency Value that may be offered in the Reliability 
+Pricing Model Auction. 
+ 
+3. An Energy Efficiency Resource may be offered with a price offer or as Self-
+Supply.  If an Energy Efficiency Resource clears the auction, it shall receive the 
+applicable Capacity Resource Clearing Price, subject to section 5 below.  A 
+Capacity Market Seller offering an Energy Efficiency Resource must comply with 
+all applicable credit requirements as set forth in Tariff, Attachment Q.  The 
+Unforced Capacity value of an Energy Efficiency Resource offered into an RPM 
+Auction or committed in a FRR Capacity Plan shall be the Nominated Energy 
+Efficiency Value times the Forecast Pool Requirement. 
+ 
+4. An Energy Efficiency Resource that clears an auction for a Delivery Year may be 
+offered in auctions for up to three additional consecutive Delivery Years, but shall 
+not be assured of clearing in any such auction; provided, however, an Energy 
+Efficiency Resource may not be offered for any Delivery Year in which any part 
+of the peak season is beyond the expected life of the equipment, device, system, 
+or process providing the expected load reduction; and provided further that a 
+Capacity Market Seller that offers and clears an Energy Efficiency Resource in a 
+BRA may elect a New Entry Price Adjustment on the same terms as set forth in 
+Tariff, Attachment DD, section 5.14(c). 
+ 
+5. For every Energy Efficiency Resource clearing an RPM Auction for a Delivery 
+Year, the Capacity Market Seller shall submit to the Office of the Interconnection, 
+by no later than 30 days prior to each Auction an updated project status and 
+measurement and verification plan subject to the criteria set forth in the PJM 
+Manuals.  
+ 
+6. For every Energy Efficiency Resource clearing an RPM Auction for a Delivery 
+Year, the Capacity Market Seller shall submit to the Office of the Interconnection, 
+by no later than the start of such Delivery Year, an updated project status and 
+detailed measurement and verification data meeting the standards for precision 
+and accuracy set forth in the PJM Manuals.  The final value of the Energy 
+Efficiency Resource during such Delivery Year shall be as determined by the 
+Office of the Interconnection based on the submitted data.   
+ 
+7. The Office of the Interconnection may audit, at the Capacity Market Seller’s 
+expense, any Energy Efficiency Resource committed to the PJM Region.  The 
+audit may be conducted any time including the Performance Hours of the 
+Delivery Year. 
+ 
+8.   For RPM Auctions for the 2021/2022 Delivery Year and subsequent Delivery 
+Years, if a Relevant Electric Retail Regulatory Authority receives FERC 
+authorization to qualify or prohibit Energy Efficiency Resource participation in a 
+specific area(s) of the PJM Region, the following process applies: 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 15 
+(a)  The Office of the Interconnection will publicly post a reference to the 
+FERC authorization of a Relevant Electric Retail Regulatory Authority order, 
+ordinance or resolution that qualifies or prohibits Energy Efficiency Resource 
+participation, the applicable electric distribution company(ies), and the applicable 
+auction(s) and/or Delivery Year(s). 
+(b)  A Capacity Market Seller that intends to offer or certify Energy Efficiency 
+Resources must identify and itemize all resources that are located in the 
+jurisdiction of a Relevant Electric Retail Regulatory Authority authorized by 
+FERC to qualify or prohibit Energy Efficiency Resource participation within the 
+Zone or LDA, as required, and those outside of the area but within the Zone or 
+LDA, as required. 
+(c)  A Capacity Market Seller that intends to offer or certify Energy Efficiency 
+Resources must identify and itemize all Energy Efficiency Resources to be 
+offered as part of its Energy Efficiency  measurement and verification plan and 
+certified post-installation measurement and verification report. The Office of 
+Interconnection will provide a list to the relevant electric distribution company for 
+the specific area(s) to review for compliance with the Relevant Electric Retail 
+Regulatory Authority of Capacity Market Sellers that are: 
+(i) offering Energy Efficiency Resources in an RPM Auction within 
+two (2) Business Days after the deadline for submitting an energy 
+efficiency measurement and verification plan for such RPM 
+Auction; and 
+(ii)  certifying Energy Efficiency Resources with a Delivery Year post-
+installation measurement and verification report, within two (2) 
+Business Days of receipt of such Delivery Year post-installation 
+measurement and verification report.The relevant electric 
+distribution company for the specific area(s) shall review for 
+compliance with rules from a Relevant Electric Retail Regulatory 
+Authority authorized by FERC to qualify or prohibit Energy 
+Efficiency Resource. 
+ 
+(d) The relevant electric distribution company for the specific area(s) shall 
+review for compliance with rules from a Relevant Electric Retail Regulatory 
+Authority authorized by FERC to qualify or prohibit Energy Efficiency Resource 
+participation and provide a response to the Office of the Interconnection within 
+five (5) Business Days after receiving the list of Capacity Market Sellers offering 
+Energy Efficiency Resources. The Office of the Interconnection will not allow a 
+Capacity Market Seller to offer or certify Energy Efficiency Resources if an 
+electric distribution company denies such Capacity Market Seller to deliver 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 16 
+Energy Efficiency Resources in compliance with rules of a Relevant Electric 
+Retail Regulatory Authority authorized by FERC to qualify or prohibit Energy 
+Efficiency Resource participation.  
+(9)  For RPM Auctions for the 2021/2022 Delivery Year and subsequent Delivery 
+Years, a Capacity Market Seller of Energy Efficiency Resources that cannot 
+satisfy its RPM obligations in any Delivery Year due to the prohibition of 
+participation by a Relevant Electric Retail Regulatory Authority authorized by 
+FERC to prohibit participation of such resources may be relieved of its Capacity 
+Resource Deficiency Charge by notifying the Office of the Interconnection by no 
+later than seven (7) calendar days prior to the posting of the planning parameters 
+for the Third Incremental Auction of that Delivery Year. After providing such 
+notice, the affected Capacity Market Seller may elect to be relieved of its RPM 
+commitment, and shall not be required to obtain replacement capacity for the 
+resource, and no charges shall be assessed by the Office of the Interconnection for 
+the Capacity Market Seller’s deficiency in satisfying its RPM obligation for the 
+resource for such Delivery Year. In such case, however, the Capacity Market 
+Seller shall not be entitled to, nor be paid, any RPM revenues for such resource 
+for that Delivery Year. The Office of the Interconnection will apply 
+corresponding adjustments to the quantity of Buy Bids or Sell Offers in the 
+Incremental Auctions for such Delivery Years in accordance with Tariff, 
+Attachment DD, sections 5.12(b)(ii) and 5.12(b)(iii). 
+ 
+

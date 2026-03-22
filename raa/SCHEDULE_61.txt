@@ -1,0 +1,465 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 1 
+SCHEDULE 6.1 
+ 
+PRICE RESPONSIVE DEMAND 
+ 
+A. As more fully set forth in this Schedule 6.1 and the PJM Manuals, for any Delivery Year 
+beginning on or after June 1, 2015 (subject to a transition plan, as set forth below), any PRD 
+Provider, including any FRR Entity, may commit that certain loads identified by such PRD 
+Provider shall not exceed a specified demand level at specified prices during Maximum 
+Generation Emergencies for the 2020/2021 and 2021/2022 Delivery Years or at specified prices 
+during a Performance Assessment Interval for the 2022/2023 Delivery Year and subsequent 
+Delivery Years, as a consequence of the implementation of Price Responsive Demand.  Based on 
+information provided by the PRD Provider in a PRD Plan (and, to the extent such plan identifies 
+a PRD Reservation Price, based on the clearing price in the Base Residual Auction or Third 
+Incremental Auction, as applicable), the Office of the Interconnection shall determine the 
+Nominal PRD Value for the specified loads identified by such PRD Provider by Zone (or sub-
+Zonal LDA, if applicable).  The Office of the Interconnection shall adjust the PJM Region 
+Reliability Requirement and LDA Reliability Requirements, as applicable, to reflect committed 
+PRD.  Actual PRD reductions in response to price shall be added back in determining peak load 
+contributions as set forth in the PJM Manuals.  Any PRD Provider that fails to fully honor its 
+PRD commitments for a Delivery Year shall be assessed compliance charges. 
+B. End-use customer loads identified in a PRD Plan or PRD registration for a Delivery Year 
+as Price Responsive Demand may not, for such Delivery Year, (i) be registered as Economic 
+Load Response, Pre-Emergency Load Response or Emergency Load Response; (ii) be used as 
+the basis of any Demand Resource Sell Offer or Energy Efficiency Resource Sell Offer in any 
+RPM Auction; (iii) be identified in a PRD Plan or PRD registration of any other PRD Provider; 
+or (iv) include Critical Natural Gas Infrastructure.     
+C. Any PRD Provider seeking to commit PRD hereunder for a Delivery Year must submit to 
+the Office of the Interconnection a PRD Plan identifying and supporting the Nominal PRD Value 
+(for the 2020/2021 and 2021/2022 Delivery Years, calculated as the difference between the PRD 
+Provider’s Zonal Expected Peak Load Value of PRD and the Maximum Emergency Service 
+Level of Price Responsive Demand or for the 2022/2023 Delivery Year and subsequent Delivery 
+Years, calculated as the peak load contribution minus Firm Service Level times loss factor for 
+each Zone (or sub-Zonal LDA, if applicable) for which such PRD is committed; such 
+information shall be provided on a PRD Substation level to the extent available at the time the 
+PRD Plan is submitted.  Such plan must be submitted no later than (a) March 17, 2019 for the 
+Base Residual Auction for the 2022/2023 Delivery Year or (b) the January 15 that last precedes 
+the Base Residual Auction for the 2023/2024 and subsequent Delivery Years for which such 
+PRD is committed; any submitted plan that does not contain, by such applicable deadline, all 
+information required hereunder shall be rejected.  A PRD Provider may submit a PRD Plan, or a 
+modified PRD Plan, by the January 15 last preceding the Third Incremental Auction for such 
+Delivery Year requesting approval of additional Price Responsive Demand but only in the event, 
+and to the extent, that the final peak load forecast for the relevant LDA for such Delivery Year 
+exceeds the preliminary peak load forecast for such LDA and Delivery Year.  Notwithstanding 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 2 
+the foregoing, any PRD Plan submitted and approved for the 2022/2023 Delivery Year may be 
+withdrawn or modified no later than 30 days prior to the commencement of the Base Residual 
+Auction.  The Office of the Interconnection shall revise such requests (as adjusted, to the extent a 
+PRD Reservation Price is specified, for the results of the Third Incremental Auction) for 
+additional Price Responsive Demand downward, in accordance with rules in the PJM Manuals, if 
+the submitted requests (as adjusted) in the aggregate exceed the increase in the load forecast in 
+the LDA modeled.  The Office of the Interconnection shall advise the PRD Provider, following 
+the Third Incremental Auction, of its acceptance of, or any downward adjustment to, the 
+Nominal PRD Value based on its review of the PRD Plan and the results of the auction.  
+Approval of the PRD Plan by the Office of the Interconnection shall establish a firm 
+commitment by the PRD Provider to the specified Nominal PRD Value of Price Responsive 
+Demand at each Zone (or sub-Zonal LDA, if applicable) during the relevant Delivery Year 
+(subject to any PRD Reservation Price), and may not be uncommitted or replaced by any 
+Capacity Resource.  Although the PRD Plan may include reasonably supported forecasts and 
+expectations concerning the development of Price Responsive Demand for a Delivery Year, the 
+PRD Provider’s commitment to a Nominal PRD Value for such Delivery Year shall not depend 
+or be conditioned upon realization of such forecasts or expectations. 
+D. All submitted PRD Plans must comply with the requirements and criteria in the PJM 
+Manuals for such plans, including assumptions and standards specified in the PJM Manuals for 
+estimates of expected load levels (prior to 2022/2023 Delivery Year) and estimates of peak load 
+contribution (for the 2022/2023 Delivery Year and subsequent Delivery Years) as described in 
+paragraph C.  The PRD Plan shall explain and justify the methods used to determine the Nominal 
+PRD Value.  All assumptions and relevant variables affecting the Nominal PRD Value must be 
+clearly stated.  The PRD Plan must include sufficient data to allow a third party to audit the 
+procedures and verify the Nominal PRD Value.  Any non-compliance with a Nominal PRD 
+Value for a prior Delivery Year shall be identified and taken into account.  In addition, each 
+submitted PRD Plan must include: 
+(i) documentation, in the form specified in the PJM Manuals, that the PRD Provider has in 
+place contractual arrangements with the relevant end-use customers establishing a time-varying 
+retail rate structure that conforms to any RERRA requirements, and adheres to PRD 
+implementation standards specified in the PJM Manuals; in such cases, the PRD Provider shall 
+provide the Office of the Interconnection copies of its applicable contracts with end-use 
+customers (including any proposed contracts) within ten Business Days after a request for such 
+contracts, or its PRD Plan shall be rejected;   
+(ii) prior to the 2022/2023 Delivery Year the expected peak load value that would apply, 
+absent load reductions in response to price, to the end-use customer loads at a PRD Substation 
+level, including applicable peak-load contribution data for such customers, to the extent available 
+and otherwise at a Zonal (or sub-Zonal LDA if applicable) level.  For the 2022/2023 Delivery 
+Year and subsequent Delivery Years, estimates of Peak Load Contribution at a PRD Substation 
+level, to the extent available and otherwise at a Zonal (or sub-Zonal LDA if applicable) level; 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 3 
+(iii) the Maximum Emergency Service Level (prior to the 2022/2023 Delivery Year) or Firm 
+Service Levels (for the 2022/2023 Delivery Year and subsequent Delivery Years) of the 
+identified load given the load’s price-responsive characteristics, at a PRD Substation level if 
+available and otherwise at a Zonal (or sub-Zonal LDA if applicable) level; 
+(iv) Price-consumption curves (“PRD Curves”) at a PRD Substation level if available and 
+otherwise at a Zonal (or sub-Zonal LDA if applicable) level that detail the base consumption 
+level of the identified loads; and the decreasing consumption levels at increasing prices, provided 
+that all identified load reductions must be capable of full implementation within 15 minutes of 
+declaration of a Maximum Generation Emergency (prior to 2022/2023 Delivery Year) or 
+Performance Assessment Interval (for the 2022/2023 Delivery Year and subsequent Delivery 
+Years) by the Office of the Interconnection, and provided further that the specified prices may 
+not exceed the maximum energy offer price cap under the PJM Tariff and Operating Agreement; 
+(v) the estimated Nominal PRD Value of the Price Responsive Demand at a PRD Substation 
+level if available and otherwise at a Zonal (or sub-Zonal LDA if applicable) level;  
+(vi) specifications of equipment used to satisfy the advanced metering and Supervisory 
+Control criteria for eligible Price Responsive Demand, including a timeline and milestones 
+demonstrating that such equipment shall be available and operational for the start of the relevant 
+Delivery Year.  Such equipment shall comply with applicable RERRA requirements and shall be 
+designed to meet all PRD requirements, including, without limitation, meter reading 
+requirements and Supervisory Control requirements, specified in the PJM Manuals.  The PRD 
+Provider shall demonstrate in the PRD Plan that the Supervisory Control equipment enables an 
+automated load response by Price Responsive Demand to the price trigger; provided, however, 
+that the PRD Provider may request in the PRD Plan an exception to the automation requirement 
+for any individual registered end-use customer that is located at a single site and that has 
+Supervisory Control over processes by which load reduction would be accomplished; and 
+provided further that nothing herein relieves such end-use customer of the obligation to respond 
+within 15 minutes to declaration of a Maximum Generation Emergency (prior to 2022/2023 
+Delivery Year) or a Performance Assessment Interval (for the 2022/2023 Delivery Year and 
+subsequent Delivery Years) in accordance with applicable PRD Curves.  In addition to the above 
+requirements and those in the PJM Manuals for metering equipment and associated data, 
+metering equipment shall provide integrated hourly kWh values on an electric distribution 
+company account basis and shall either meet the electric distribution company requirements for 
+accuracy or have a maximum error of two percent over the full range of the metering equipment 
+(including potential transformers and current transformers).  The installed metering equipment 
+must be that used for retail electric service; or metering equipment owned by the end-use 
+customer or PRD Provider that is approved by PJM and either  read electronically by PJM or 
+read by the customer or PRD Provider and forwarded to PJM, in either case in accordance with 
+requirements set forth in the PJM Manuals; and 
+ 
+(vii) any RPM Auction clearing price below which the PRD Provider does not choose to 
+commit PRD (“PRD Reservation Price”), specifying the relevant auction, Zone (or sub-Zonal 
+LDA if applicable), and, if applicable, a range of up to ten pairs of PRD commitment levels and 
+associated minimum RPM Auction clearing prices; provided however that the Office of the 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 4 
+Interconnection may interpolate PRD commitment levels based on clearing prices between prices 
+specified by the PRD Provider.  
+ 
+E. Each PRD Provider that commits Price Responsive Demand through an accepted PRD 
+Plan must, no later than one day before the tenth Business Day prior to the start of the Delivery 
+Year for which such PRD is committed, register with PJM, in the form and manner specified in 
+the PJM Manuals, sufficient PRD-eligible load at a PRD Substation level to satisfy its Nominal 
+PRD Value commitment.  All information required in the PRD Plan to be at a PRD Substation 
+level if available at the time of submission of the PRD Plan that was not provided at the time of 
+submission of such plan must be provided with the registration.  The PRD Provider shall also 
+identify in the registration each individual end-use customer with a peak load contribution of 10 
+kW or greater included in such Price Responsive Demand, the peak load contribution, Maximum 
+Emergency Service Level (prior to the 2022/2023 Delivery Year), and Firm Service Levels (for 
+the 2022/2023 Delivery Year and subsequent Delivery Years) for such customers.  PJM shall 
+provide notification of such PRD registrations to the applicable electric distribution 
+company(ies).  The PRD Provider shall maintain, and provide to the Office of the 
+Interconnection upon request, an identification of all individual end-use customers with a peak 
+load contribution of less than 10kW included in such Price Responsive Demand, and the peak 
+load contribution, Maximum Emergency Service Level (prior to the 2022/2023 Delivery Year), 
+and Firm Service Levels (for the 2022/2023 Delivery Year and subsequent Delivery Years) of 
+such customers.  The PRD Provider must maintain its PRD Substation-level registration of PRD-
+eligible load at the level of its Zonal (or sub-zonal LDA, if applicable) Nominal PRD Value 
+commitment during each day of the Delivery Year for which such commitment was made.  The 
+PRD Provider may change the end-use customer registered to meet the PRD Provider’s 
+commitment during the Delivery Year, but such PRD Provider must always in the aggregate 
+register sufficient Price Responsive Demand to meet or exceed the Zonal (or sub-Zonal LDA, if 
+applicable) committed Nominal PRD Value level.  A PRD Provider must timely notify the 
+Office of the Interconnection, in accordance with the PJM Manuals, of all changes in PRD 
+registrations.  Such notification must remove from the PRD Provider’s registration(s) any end-
+use customer load that no longer meets the eligibility criteria for PRD, effective as of the first 
+day that such end-use customer load is no longer PRD-eligible.    
+F.   Each PRD Provider shall be required to identify its committed Price Responsive 
+Demand as price-sensitive demand at a PRD Substation level in the Real-Time Energy Market.  
+The most recent PRD Curve submitted by the PRD Provider in its PRD Plan or PRD registration 
+shall be used for such purpose unless and until changed by the PRD Provider in accordance with 
+the market rules of the Office of the Interconnection, provided that any changes to PRD Curves 
+must be consistent with the PRD Provider’s commitment of Price Responsive Demand 
+hereunder.     
+G. The PRD Provider shall receive a  Price Responsive Demand Credit for such registrations 
+during the Delivery Year, in such Zone for such day, determined as follows: 
+ 
+PRD Credit =  [( Share of Zonal Nominal PRD Value committed in Base Residual 
+Auction  * (FZWNSP/FZPLDY) * Final Zonal RPM  Scaling Factor * FPR * 
+Final Zonal Capacity Price) + (Share of Zonal Nominal PRD Value committed in 
+Third Incremental Auction * (FZWNSP/FZPLDY) * Final Zonal RPM  Scaling 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 5 
+Factor * FPR * Final Zonal Capacity Price * Third Incremental Auction 
+Component of Final Zonal Capacity Price stated as a Percentage)]. 
+For the 2022/2023 Delivery Year and subsequent Delivery Years, the factor equal to 
+FZWNSP/FZPLDY is eliminated in the calculation of the LSE PRD Credit 
+ 
+Where: 
+Share of Zonal Nominal PRD Value Committed in Base Residual Auction = Nominal 
+PRD Value for such registration/Total Zonal Nominal PRD Value of all Price Responsive 
+Demand registered by the PRD Provider of such registration *Zonal Nominal PRD Value 
+committed in the Base Residual Auction by the PRD Provider of such registration . 
+ 
+ Share of Zonal Nominal PRD Value Committed in Third Incremental Auction = 
+Nominal PRD Value for such registration/Total Zonal Nominal PRD Value of all Price 
+Responsive Demand registered by the PRD Provider of such registration *Zonal Nominal 
+PRD Value committed in the Third Incremental Auction by the PRD Provider of such 
+registration. 
+ 
+FZPLDY = Final Zonal Peak Load Forecast for such Delivery Year; and 
+FZWNSP = Zonal Weather-Normalized Peak Load for the summer concluding prior to 
+the commencement of such Delivery Year; 
+And where the PRD registration is associated with a sub-Zone, the Share of the Nominal PRD 
+Value Committed in Base Residual Auction or Third Incremental Auction will be based on the 
+Nominal PRD Values committed and registered in a sub-Zone. A PRD Provider will receive a 
+PRD Credit for each approved Price Responsive Demand registration that is effective on a given 
+day.  The total daily credit to a PRD Provider in a Zone shall be the sum of the credits received 
+as a result of all approved registrations in the Zone on a given day.  
+H. A PRD Provider may transfer all or part of its PRD commitment for a Delivery Year in a 
+Zone (or sub-Zonal LDA) to another PRD Provider for its use in the same Zone or sub-Zonal 
+LDA, through notice of such transfer provided by both the transferor and transferee PRD 
+Providers to the Office of the Interconnection in the form and manner specified in the PJM 
+Manuals.  From and after the effective date of such transfer, and to the extent of such transfer, 
+the transferor PRD Provider shall be relieved of its PRD commitment and credit requirements, 
+shall not be liable for PRD compliance charges, and shall not be entitled to a Price Responsive 
+Demand Credit; and the transferee PRD Provider, to the extent of such transfer, shall assume 
+such PRD commitment, credit requirements, obligation for compliance charges and shall be 
+entitled to a Price Responsive Demand Credit.   
+I. Any PRD Provider that commits Price Responsive Demand and does not register and 
+maintain registration of sufficient PRD-eligible load, (including, without limitation, failing to 
+install or maintain the required advanced metering or Supervisory Control facilities) in a Zone 
+(or sub-Zonal LDA, if applicable) to satisfy in full its Nominal PRD Value commitment in such 
+Zone (or sub-Zonal LDA) on each day of the Delivery Year for which such commitment is made 
+shall be assessed a compliance charge for each day that the registered Price Responsive Demand 
+is less than the committed Nominal PRD Value.  Such daily penalty shall equal: 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 6 
+[MW Shortfall] * [Forecast Pool Requirement] * [(Weighted Final Zonal Capacity Price in 
+$/MW-day)  
+ + higher of (0.2 * Weighted Final Zonal Capacity Price) or ($20/MW-day)] 
+Where:  MW Shortfall = Daily Nominal PRD Value committed in such PRD Provider’s PRD 
+Plan (including any permitted amendment to such plan) for the relevant Zone or sub-Zonal LDA  
+– Daily Nominal PRD Value as a result of PRD registration for such Zone or sub-Zonal LDA; 
+and  
+Weighted Final Zonal Capacity Price is the average of the Final Zonal Capacity Price and the 
+price component of the Final Zonal Capacity Price attributable to the Third Incremental Auction, 
+weighted by the Nominal PRD Values committed by such PRD Provider in connection with the 
+Base Residual Auction and those committed by such PRD Provider in connection with the Third 
+Incremental Auction. 
+The MW Shortfall shall not be reduced through replacement of the Price Responsive Demand by 
+any Capacity Resource or Excess Commitment Credits, provided, however, that the PRD 
+Provider may register additional PRD-eligible end-use customer load to satisfy its PRD 
+commitment. 
+J. PRD Providers shall be responsible for verifying the performance of their PRD loads 
+during each maximum emergency event (prior to the 2022/2023 Delivery Year) and Performance 
+Assessment Interval (for the 2022/2023 Delivery Year and subsequent Delivery Years) declared 
+by the Office of the Interconnection.  PRD Providers shall demonstrate that the identified PRD 
+loads performed in accordance with the PRD Curves submitted at a PRD Substation level in the 
+PRD Plan or PRD registration; provided, however, prior to the 2022/2023 Delivery Year, the 
+previously submitted Maximum Emergency Service Level (“MESL”) value shall be adjusted by 
+a ratio equal to the amount by which the actual Zonal load during the declared event exceeded 
+the PJM load forecast underlying the previously submitted MESL value.  In accordance with 
+procedures and deadlines specified in the PJM Manuals, the PRD Providers must submit actual 
+customer load levels for all hours during the declared event and all other information reasonably 
+required by the Office of the Interconnection to verify performance of the committed PRD loads.  
+K. Prior to the 2022/2023 Delivery Year, if the identified loads submitted for a Zone (or sub-
+Zonal LDA) by a PRD Provider exceed during any Emergency the aggregate MESL specified in 
+all PRD registrations of such PRD Provider that have a PRD Curve specifying a price at or 
+below the highest Real-time LMP recorded during such Emergency, the PRD Provider that 
+committed such loads as Price Responsive Demand shall be assessed a compliance charge 
+hereunder.  The charge shall be based on the net performance during an Emergency of the loads 
+that were identified as Price Responsive Demand for such Delivery Year in the PRD registrations 
+submitted by such PRD Provider in each Zone (or sub-Zonal LDA, if applicable) and that 
+specified a price at the MESL that is at or below the highest Real-Time LMP recorded during 
+such Emergency.  The compliance charge hereunder shall equal: 
+[MW Shortfall] * [Forecast Pool Requirement] * [(Weighted Final Zonal Capacity Price in 
+$/MW-day)  
+ + higher of (0.2 * Final Zonal Capacity Price) or ($20/MW-day)] * 365 days 
+Where:  MW Shortfall = [highest hourly integrated aggregate metered load for such PRD 
+Provider’s PRD load in the Zone or sub-Zonal LDA meeting the price condition specified above] 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 7 
+– {(aggregate MESL for the Zone or sub-Zonal LDA) * the higher of [1.0] or [(actual Zonal load 
+– actual total PRD load in Zone) / (Final Zonal Peak Load Forecast – final Zonal Expected Peak 
+Load Value of PRD in total for all PRD load in Zone meeting the price condition specified 
+above)]}.   
+For purposes of the above provision, the MW Shortfall for any portion of the Emergency event 
+that is less than a full clock hour shall be treated as a shortfall for a full clock hour unless either:  
+(i) the load was reduced to the adjusted MESL level within 15 minutes of the emergency 
+procedures notification, regardless of the response rate submitted, or (ii) the hourly integrated 
+value of the load was at or below the adjusted MESL.  Such MW shortfall shall not be reduced 
+through replacement of the Price Responsive Demand by any Capacity Resource or Excess 
+Commitment Credits; provided, however, that the performance and MW Shortfalls of all PRD-
+eligible load registered by the PRD Provider, including any additional or replacement load 
+registered by such PRD Provider, provided that it meets the price condition specified above, shall 
+be reflected in the calculation of the overall MW Shortfall.  Any greater MW Shortfall during a 
+subsequent Emergency for such Zone or sub-Zonal LDA during the same Delivery Year shall 
+result in a further charge hereunder, limited to the additional increment of MW Shortfall.  As 
+appropriate, the MW Shortfall for non-compliance during an Emergency shall be adjusted 
+downward to the extent such PRD Provider also was assessed a compliance penalty for failure to 
+register sufficient PRD to satisfy its PRD commitment. 
+ 
+L. PRD Providers that register Price Responsive Demand shall be subject to test at least 
+once per year to demonstrate the ability of the registered Price Responsive Demand to reduce to 
+the specified Maximum Emergency Service Level prior to the 2022/2023 Delivery Year or the 
+Firm Service Level for the 2022/2023 Delivery Year and subsequent Delivery Years, and such 
+PRD Providers shall be assessed a compliance charge to the extent of failure by the registered 
+Price Responsive Demand during such test to reduce to the relevant service level, in accordance 
+with the following: 
+ 
+(i) 
+(a) Prior to the 2022/2023 Delivery Year, if the Office of the Interconnection does 
+not declare during the relevant Delivery Year a Maximum Generation Emergency that 
+requires the registered PRD to reduce to the Maximum Emergency Service Level then 
+such registered PRD must demonstrate that it was tested for a one-hour period during any 
+hour when a Maximum Generation Emergency may be called during June through 
+October or the following May of the relevant Delivery Year.  If a Maximum Generation 
+Emergency that requires the registered PRD to reduce to the Maximum Emergency 
+Service Level is called during the relevant Delivery Year, then no compliance charges 
+will be assessed hereunder. 
+ 
+(b) For the 2022/2023 Delivery Year, if the Office of the Interconnection does not declare 
+an Emergency Action triggering a Performance Assessment Interval during the relevant 
+Delivery Year or is not measured for compliance at a Performance Assessment Interval, 
+then such registered PRD must demonstrate that it was tested for a one hour period 
+between 10:00 AM EPT to 10:00 PM EPT during June through October or the following 
+May of the relevant Delivery Year. If a PRD registration is measured for compliance for 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 8 
+a Performance Assessment Interval in a Delivery Year, then no PRD Test Failure 
+Charges will be assessed for such PRD registration. 
+ 
+(c) For the 2023/2024 Delivery Year and subsequent Delivery Years, if the registered 
+PRD is not required to reduce the load for a Performance Assesment Interval during the 
+relevant Delivery Year, then such registered PRD shall test for a two hour period between 
+11:00 EPT to 18:00 EPT on a weekday that is a non-NERC holiday during the relevant 
+Delivery Year and in accordance with the following provisions.  The Office of 
+Interconnection shall schedule, on an alternating basis, one test during June through 
+October or November through March for each Delivery Year that a test is required.  The 
+date and time of such test shall be selected by the Office of the Interconnection and notice 
+of such test shall be provided to the PRD Provider in accordance with the procedure 
+described in this section L.ii(b).  If a PRD registration is measured for compliance for a 
+Performance Assessment Interval in a Delivery Year, then no PRD Test Failure Charges 
+will be assessed for such PRD registration. 
+ 
+(ii)  
+ 
+(a) Prior to the 2023/2024 Delivery Year, all PRD registered in a Zone must be tested 
+simultaneously except that, when less than 25 percent (by megawatts) of a PRD 
+Provider’s total PRD registered in a Zone fails a test, the PRD Provider may conduct a re-
+test limited to all registered PRD that failed the prior test, provided that such re-test must 
+be at the same time of day and under approximately the same weather conditions as the 
+prior test, and provided further that all affiliated registered PRD must test simultaneously, 
+where affiliated means registered PRD that has any ability to shift load and that is owned 
+or controlled by the same entity.  If less than 25 percent of a PRD Provider’s total PRD 
+registered in a Zone fails the test and the PRD Provider chooses to conduct a retest, the 
+PRD Provider may elect to maintain the performance compliance result for registered 
+PRD achieved during the test if the PRD Provider: (1) notifies the Office of the 
+Interconnection 48 hours prior to the re-test under this election; and (2) the PRD Provider 
+retests affiliated registered PRD under this election as set forth in the PJM Manuals. 
+ 
+(b) For the 2023/2024 Delivery Year and subsequent Delivery Years, all PRD registered 
+in a zone will be tested simultaneously for two hours. The Office of the Interconnection 
+may, at its discretion, cancel a test and retest to ensure system reliability.  
+ 
+If less than 25 percent (by megawatts) of a PRD Provider’s total PRD registered in a 
+Zone fails a test, the PRD Provider may conduct re-tests limited to all registered PRD that 
+failed the prior test, provided that such re-test must be at the same time of day and under 
+approximately the same weather conditions as the prior test, and provided further that all 
+affiliated registered PRD must test simultaneously, where affiliated means registered 
+PRD that has any ability to shift load and that is owned or controlled by the same entity. 
+The PRD Provider may elect to maintain the performance compliance result for 
+registered PRD achieved during the test if the PRD Provider: (1) notifies the Office of the 
+Interconnection 48 hours prior to the re-test under this election; and (2) the PRD Provider 
+retests affiliated registered PRD under this election as set forth in the PJM Manuals.  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 9 
+ 
+If 25 percent or more (by megawatts) of a PRD Provider’s total PRD registered in a Zone 
+fails the test the PRD Provider may request PJM to schedule a one-time retest limited to 
+all registrations that failed the prior test, provided that all affiliated registrations must test 
+simultaneously where affiliated means registered PRD that has any ability to shift load 
+and that is owned or controlled by the same entity. The request must be made before the 
+46th day after the test. The Office of the Interconnection will select the date and time of 
+the retest during the same season period (except if test was conducted in March in which 
+case retest can be conducted in May) and notice is provided consistent with the following 
+procedure. 
+ 
+(c) Notification of the initial Office of the Interconnection scheduled test will be provided 
+as follows:  
+ 
+On the first business day of a week, PJM will provide notice of all zones to be tested 
+during the following two week test window. The test window opens the first business day 
+of the week following the notice. By 10:00 EPT the day before the test, the Office of the 
+Interconnection will post on its website the test date. The Office of the Interconnection 
+will also notify the PRD Providers the test date. On test date, PRD Providers will receive 
+start time through web service communications and as defined in the PJM Manuals.  
+ 
+Notification of any scheduled retest by the Office of the Interconnection will be provided 
+as follows:  
+ 
+By 10:00 EPT the day before the retest, the Office of the Interconnection will post the 
+retest date on its website. PJM will also notify the PRD Providers the retest date. On 
+retest date PRD Providers will receive start time through web service communications 
+and as defined in the PJM Manuals. 
+ 
+(iii) A PRD Provider that registered PRD shall be assessed a PRD Test Failure Charge equal 
+to the net PRD capability testing shortfall in a Zone during such test in the aggregate of all of 
+such PRD Provider’s registered PRD in such Zone times the PRD Test Failure Charge Rate.  
+Prior to the 2022/2023 Delivery Year, the net capability testing shortfall in such Zone shall be 
+the following megawatt quantity, converted to an Unforced Capacity basis using the applicable 
+Forecast Pool Requirement:   
+ 
+MW Shortfall = [hourly integrated aggregate metered load for such PRD Provider’s PRD load in 
+the Zone or sub-Zonal LDA] – {(aggregate MESL for the Zone or sub-Zonal LDA) * the higher 
+of [1.0] or [(actual Zonal load – actual total PRD load in Zone) / (Final Zonal Peak Load 
+Forecast – final Zonal Expected Peak Load Value of PRD in total for all PRD load in Zone]}. 
+ 
+The net PRD capability testing shortfall in such Zone shall be reduced by the PRD Provider’s 
+summer daily average of the MW shortfalls determined for compliance charge purposes under 
+section I of this Schedule 6.1 in such Zone for such PRD Provider’s registered PRD. 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 6.1 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 10 
+For the 2022/2023 Delivery Year and subsequent Delivery Years, the MW testing shortfall for a 
+PRD registration is equal to the nominal load reduction value of such registration, capped at the 
+daily Nominal PRD Value committed by such registration on the day of the test, minus the actual 
+hourly load reduction for such registration.  The test compliance results of the PRD Provider’s 
+registrations in a Zone that were expected to test are aggregated to determine a PRD Provider’s 
+net zonal testing shortfall. 
+ 
+(iv) The PRD Test Failure Charge Rate shall equal such PRD Provider’s Weighted Final 
+Zonal Capacity Price in such Zone plus the greater of (0.20 times the Weighted Final Zonal 
+Capacity Price in such Zone or $20/MW-day) times the number of days in the Delivery Year, 
+where the Weighted Final Zonal Capacity Price is the average of the Final Zonal Capacity Price 
+and the price component of the Final Zonal Capacity Price attributable to the Third Incremental 
+Auction, weighted by the Nominal PRD Values committed by such PRD Provider in connection 
+with the Base Residual Auction and those committed by such PRD Provider in connection with 
+the Third Incremental Auction. 
+ 
+M. The revenue collected from assessment of the charges assessed under subsections I, K, 
+and L of this Schedule 6.1 shall be distributed on a pro-rata basis to all entities that committed 
+Capacity Resources in the RPM Auctions for the Delivery Year for which the compliance charge 
+is assessed, pro rata based on each such entity’s revenues from Capacity Market Clearing Prices 
+in such auctions, net of any compliance charges incurred by such entity. 
+N. For the 2022/2023 Delivery Year and subsequent Delivery Years, a PRD Provider is 
+subject to a Non-Performance Assessment in accordance with the PJM Tariff, Attachment DD, 
+section 10A.  Compliance is measured for a PRD registration upon declaration of a Performance 
+Assessment Interval in same sub-Zone/Zone of such PRD registration and when the PRD Curve 
+associated with such registration in the PJM Real-time Energy Market has a price point at or 
+below the Real-time LMP recorded during the Performance Assessment Interval. A PRD 
+registration with an approved exception to the automation requirement will not have compliance 
+measured during Performance Assessment Intervals that fall within the 15 minute response 
+allowance. The actual load reduction provided by the registration for the Performance 
+Assessment Interval is calculated as the registration’s peak load contribution minus (the metered 
+load multiplied by the loss factor). A load reduction will only be recognized if metered load 
+multiplied by the loss factor is less than the peak load contribution.  When five minute revenue 
+meter data is not available to determine compliance of a PRD registration for a Performance 
+Assessment Interval, the actual load reduction for a Performance Assessment Interval is 
+calculated as the actual hourly load reduction for the hour ending that includes the Performance 
+Assessment Interval(s) multiplied (twelve divided by the number of five minute intervals the 
+PRD registration was to be measured for compliance). The actual load reduction for a 
+registration for a Performance Assessment Interval is capped at the peak load contribution of the 
+registration.  If the PRD Provider fails to submit actual metered data for the registration for all 
+hours during the day of a Performance Assessment Interval, the actual load reduction for such 
+registration will be equal to zero MW.   
+

@@ -1,0 +1,46 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 4.1 
+Effective Date: 12/12/2023 - Docket #: ER24-99-000 - Page 1 
+SCHEDULE 4.1 
+ 
+DETERMINATION OF THE FORECAST POOL REQUIREMENT 
+ 
+ A. Through the 2024/2025 Delivery Year, the Forecast Pool Requirement shall be 
+determined in accordance with the following: 
+ 
+Based on the guidelines set forth in RAA, Schedule 4, the Forecast Pool Requirement shall be 
+determined as set forth in this Schedule 4.1 on an unforced capacity basis. 
+ 
+  FPR = (1 + IRM) * (1- Pool-wide average EFOR D)   
+ 
+ where 
+ 
+average EFORD = the average equivalent demand forced outage rate for the PJM 
+Region, stated in percent and determined in accordance with Section B hereof 
+ 
+IRM = the PJM Region Installed Reserve Margin approved by the PJM Board for 
+that Planning Period, stated in percent.  Studies by the Office of the 
+Interconnection to determine IRM shall not exclude outages that are deemed to be 
+outside plant management control under NERC guidelines. 
+ 
+ B. Through the 2024/2025 Delivery Year, the PJM Region equivalent demand forced 
+outage rate ("average EFORD") shall be determined as the capacity weighted EFOR D for all units 
+expected to serve loads within the PJM Region during the Delivery Year, as determined pursuant 
+to RAA, Schedule 5. 
+ 
+ C. Beginning with the 2025/2026 Delivery Year, the Forecast Pool Requirement 
+shall be determined in accordance with the following: 
+ 
+Based on the guidelines set forth in RAA, Schedule 4, the Forecast Pool Requirement shall be 
+determined as set forth in this Schedule 4.1 on an unforced capacity basis. 
+ 
+FPR = (1 + IRM) * (Pool-wide average Accredited UCAP Factor)  
+ 
+where 
+ 
+Pool-wide average Accredited UCAP Factor = the ratio of the total Accredited UCAP to 
+total installed capacity of all resources, as determined pursuant to RAA, Schedule 9.2, 
+that are included in the determination of the Forecast Pool Requirement, stated in percent  
+  
+IRM = the PJM Region Installed Reserve Margin approved by the PJM Board for that 
+Planning Period, stated in percent.   
+

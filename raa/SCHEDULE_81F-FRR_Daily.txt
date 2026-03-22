@@ -1,0 +1,90 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.F-FRR Daily 
+Unforced Capacity Obligations  
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 1 
+F. FRR Daily Unforced Capacity Obligations and Deficiency Charges   
+ 
+1. This subsection 1 is effective through the 2024/2025 Delivery Year.  For each billing 
+month during a Delivery Year, the Daily Unforced Capacity Obligation of an FRR Entity shall 
+be determined on a daily basis for each Zone as follows: 
+ 
+Daily Unforced Capacity Obligation = [(OPL * Final Zonal FRR Scaling Factor) – Nominal 
+PRD Value committed by the FRR Entity] * FPR  
+ 
+where: 
+ 
+OPL  = Obligation Peak Load, defined as: 
+ 
+the daily summation of the weather-adjusted coincident summer peak, last preceding the 
+Delivery Year, of the end-users in such Zone (net of operating Behind The Meter 
+Generation, but not to be less than zero) for which such Party was responsible on that 
+billing day, as determined in accordance with the procedures set forth in the PJM 
+Manuals 
+ 
+Final Zonal FRR Scaling Factor = FZPLDY/FZWNSP; 
+ 
+FZPLDY = Final Zonal Peak Load Forecast for such Delivery Year; and 
+ 
+FZWNSP = Zonal Weather-Normalized Peak Load for the summer concluding prior to the 
+commencement of such Delivery Year. 
+ 
+1A.  This subsection 1A is effective beginning with the 2025/2026 Delivery Year.  For each 
+billing month during a Delivery Year, the Daily Unforced Capacity Obligation of an FRR Entity 
+shall be determined on a daily basis for each Zone as follows: 
+ 
+Daily Unforced Capacity Obligation = [(OPL * Final Zonal FRR Scaling Factor) – Nominal 
+PRD Value committed by the FRR Entity] * FPR 
+ 
+where: 
+ 
+OPL = Obligation Peak Load, defined as: 
+ 
+the daily summation of the weather-adjusted coincident summer peak, last preceding the 
+Delivery Year, of the end-users in such Zone (net of operating Behind The Meter Generation, but 
+not to be less than zero) for which such Party was responsible on that billing day, as determined 
+in accordance with the procedures set forth in the PJM Manuals, and as adjusted further to 
+include the Obligation Peak Load associated with any Load Adjustment that may be allocated to 
+“zone/area”; 
+ 
+Final Zonal FRR Scaling Factor = [FZPLDY - FZLA] / FZWNSP; 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 8.1 --> RAA SCHEDULE 8.1.F-FRR Daily 
+Unforced Capacity Obligations  
+Effective Date: 8/31/2024 - Docket #: ER24-2447-003 - Page 2 
+FZPLDY = Final Zonal Peak Load Forecast for such Delivery Year; and 
+ 
+FZLA = Final Zonal MW quantity of Load Adjustment for such Delivery Year; and 
+ 
+FZWNSP = Zonal Weather-Normalized Peak Load for the summer concluding prior to the 
+commencement of such Delivery Year. 
+ 
+2. An FRR Entity shall be assessed an FRR Capacity Deficiency Charge in each Zone 
+addressed in such entity’s FRR Capacity Plan for each day during a Delivery Year that it fails to 
+satisfy its Daily Unforced Capacity Obligation in each Zone.  Through the 2024/2025 Delivery 
+Year, such FRR Capacity Deficiency Charge shall be in an amount equal to the deficiency below 
+such FRR Entity’s Daily Unforced Capacity Obligation for such Zone times (1.20 times the 
+Capacity Resource Clearing Price resulting from all RPM Auctions for such Delivery Year for 
+the LDA encompassing such Zone, weight-averaged for the Delivery Year based on the prices 
+established and quantities cleared in such auctions).  Effective with the 2025/2026 Delivery Year 
+and subsequent Delivery Years, such FRR Capacity Deficiency Charge shall equal the deficiency 
+below such FRR Entity’s Daily Unforced Capacity Obligation for such Zone times the price 
+level corresponding to Point (1) of the Variable Resource Requirement curve, as provided in 
+Tariff, Attachment DD, section 5.10(a)(i), for the Locational Deliverability Area encompassing 
+the Zone of the FRR Entity.  
+ 
+3. If an FRR Entity acquires load that is not included in the Preliminary Zonal Peak Load 
+Forecast such acquired load shall be treated in the same manner as provided in Sections H.1 and 
+H.2 of this Schedule. 
+ 
+4. The shortages in meeting the minimum requirement within the constrained zones and the 
+shortage in meeting the total obligation are first calculated. The shortage in the unconstrained 
+area is calculated as the total shortage less shortages in constrained zones and excesses in 
+constrained zones (the shortage is zero if this is a negative number). The Capacity Deficiency 
+Charge is charged to the shortage in each zone and in the unconstrained area separately. This 
+procedure is used to allow the use of capacity excesses from constrained zones to reduce 
+shortage in the unconstrained area and to disallow the use of capacity excess from unconstrained 
+area to reduce shortage in constrained zones. 
+ 
+ 
+ 
+

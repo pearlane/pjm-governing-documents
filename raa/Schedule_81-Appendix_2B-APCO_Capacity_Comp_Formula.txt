@@ -1,0 +1,129 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula 
+Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 21 
+    Appendix 2 
+APPALACHIAN POWER COMPANY Page 16  
+BLANK FORMULA RATE TEMPLATE 1 of 2 
+PRODUCTION-RELATED DEPRECIATION EXPENSE  
+12 Months Ending 12/31/####  
+  Depreciation   
+  Expense Demand Energy 
+  (1) (2) (3) 
+ PRODUCTION PLANT    
+ Depreciation and Amortization    
+1. Steam $ $ $ 
+     
+2. Nuclear $ $ $ 
+     
+3. Hydro – Conventional $ $ $ 
+        
+4. Hydro – Pump  Storage l $ $ $ 
+        
+5. Int.  Comb. $ $ $ 
+        
+6. Other Production $ $ $ 
+        
+     
+        
+7. Generator Step Up Related Depreciation (Note A) $ $ $ 
+        
+8. Production Related General & Intangible Plant  (Note B) $ $ $ 
+     
+     
+        
+9. Total Production $ $ $ 
+     
+     
+Note: 
+Lines 1 through 6 will be Depreciation Expense reported on P.336 of 
+the  
+ 
+FF1 excluding the amortization of acquisition adjustments.  See 
+Workpaper 6d.  
+   
+ 
+Line 8 will be total General & Intangible Plant (from P.336 of the FF1, 
+adjusted for  
+ amortization adjustments) times ratio of Production Related General  
+ Plant to total General Plant computed on P.7, L. 26, Col.(3)  
+   
+ Depreciation expense excludes amounts associated with ARO.  
+   
+Note A: Line 7  , see P.3, L.5  
+ 
+Note B:     
+A Production Related General & Intangible Plant     
+B General Plant  WP 6d $ 
+C Intangible Plant WP 6d $ 
+D Total General & Intangible Plant Ln. b + Ln. c $ 
+ 
+ 
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula 
+Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 22 
+ 
+ 
+  
+  
+ 
+ 
+Appendix 2 
+Page 16 (con’t) 
+2 of 2 
+E Production Demand Labor Allocator Pg. 7, Ln. 26 % 
+F Production Demand Related General & Intangible  Ln. d  x  Ln. e $ 
+G Production Energy Labor Allocator  Pg. 7, Ln. 26 % 
+H Production Energy Related General & Intangible Ln. d  x  Ln. g $ 
+I Total Production Related General & Intangible Plant Ln. f + Ln. h $ 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp Formula 
+Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 23 
+ Appendix 2 
+APPALACHIAN POWER COMPANY Page 17 
+BLANK FORMULA RATE TEMPLATE  
+RPODUCTION RELATED TAXES OTHER THAN INCOME TAXES  
+12 Months Ending 12/31/####  
+  SYSTEM . PRODUCTION 
+  REFERENCE AMOUNT % AMOUNT 
+   (1) (2) (3) 
+ 
+PRODUCTION RELATED TAXES OTHER THAN 
+INCOME     
+      
+1  Labor Related Note A $ 
+Note 
+B $ 
+        
+2  Property Related Note A $ 
+Note 
+C $ 
+        
+3  Other Note A $ 
+Note 
+C $ 
+        
+4  Production Note A $   $ 
+        
+5  Gross Receipts / Distribution Related Note A $ 
+Note 
+D $ 
+        
+6  TOTAL TAXES OTHER THAN INCOME TAXES Sum L.1 : L.5 $  $ 
+Note A: See Workpaper 8c.   
+      
+Note B: Total (Col. (1), L.1) allocated on the basis of wages & salaries in    
+ Electric O & M Expenses (excl. A & G), P.354, Col.(b) and Services    
+ shown on Worksheets WP-9a and WP-9b.     
+  Amount %   
+ (1)  Total W & S (excl. A & G) $ %   
+ (2)  Production W & S $ %   
+        
+      
+Note C: Allocated on the basis of Gross Plant Investment from      
+ Schedule P. 6, Ln.7     
+      
+Note D: Not allocated to wholesale     
+

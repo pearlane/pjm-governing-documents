@@ -1,0 +1,933 @@
+ATTACHMENT H-32B 
+AMP Transmission, LLC  
+Formula Rate Implementation Protocols  
+ATTACHMENT H-32B-1 
+ANNUAL TRUE-UP, INFORMATION EXCHANGE,  
+AND CHALLENGE PROCEDURES 
+(CALENDAR YEAR BASIS) 
+The Formula Rate Template (“Template”) (Attachment H-32A), and these Formula 
+Rate Implementation Protocols (“Protocols”) together comprise the Formula Rate of AMP 
+Transmission, LLC (“AMPT”) for transmission revenue requirement determinations under the 
+PJM Interconnection, LLC (“PJM”) Open Access Transmission Tariff (“PJM Tariff”).1/  AMPT 
+shall follow the instructions specified in the Formula Rate to calculate its Transmission 
+Revenue Requirement, initially on a projected basis (the Projected Transmission Revenue 
+Requirement), and, when actual data are available, on an actual basis (the Actual Transmission 
+Revenue Requirement), utilizing its Formula Rate Template for such calculations. The 
+Projected Transmission Revenue Requirement and the Actual Transmission Revenue 
+Requirement each shall be determined for January 1 to December 31 of a given calendar year 
+(the “Rate Year”).  The Formula Rate shall become effective for recovery of AMPT’s 
+Transmission Revenue Requirement upon the effective date for incorporation into the PJM 
+Tariff through a filing by PJM and AMPT with the Federal Energy Regulatory Commission 
+(“FERC” or “Commission”) under the Federal Power Act (“FPA”), 16 U.S.C. § 824d.  
+_____________________ 
+1/   These protocols shall be applied to AMPT’s transmission revenue requirement determinations in PJM Zones in 
+which all other Transmission Owners calculate their transmission revenue requirements on a calendar year 
+basis.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 2 
+Section 1. Annual Projection  
+a. No later than October 31 preceding a Rate Year, and each subsequent Rate Year, AMPT 
+shall determine its Projected Transmission Revenue Requirement (“PTRR”) for the 
+upcoming Rate Year in accordance with the Formula Rate, which shall include the True-Up 
+Adjustment described and defined in Section 2 below, if applicable (the PTRR and any 
+applicable True-Up Adjustment together comprising the “Annual Projection”).  AMPT 
+shall cause an electronic version of the Annual Projection to be posted in both a Portable 
+Document Format (“PDF”) and fully-functioning Excel file at a publicly accessible 
+location on PJM’s internet website and OASIS.  The date on which the posting occurs 
+shall be that year’s “Annual Projection Publication Date.” 
+b. The posting of the Annual Projection shall:  
+(i) Provide the Formula Rate calculations and all inputs thereto, as well as 
+supporting documentation and workpapers for data that are used in the 
+Annual Projection; 
+(ii) Include all inputs in sufficient detail to identify the components of AMPT’s 
+Annual Projection, explanations of the bases for the projections and input 
+data, and sufficient detail and explanation to enable Interested Parties 2/ to 
+replicate the calculation of the Annual Projection; 
+__________________________ 
+2/ As used in these Protocols, “Interested Parties” shall include but not be limited to: (i) any Eligible Customer 
+under the PJM Tariff; (ii) any regulatory agency with rate jurisdiction over a public utility located within the PJM 
+footprint; (iii) any consumer advocate authorized by state law to review and contest the rates for any such public 
+utility; and (iv) any party with standing under FPA section 205 or section 206. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 3 
+(iii) With respect to any Accounting Changes (as that term is defined in Section 
+3.e.iii.A): 
+A. Identify any Accounting Changes including: 
+i. The initial implementation of an accounting 
+standard or policy; 
+ii. The initial implementation of accounting practices 
+for unusual or unconventional items where FERC 
+has not provided specific accounting direction; 
+iii. Correction of errors and prior period adjustments 
+that impact the Annual Projection calculation; and 
+iv. The implementation of new estimation methods or 
+policies that change prior estimates.  
+B. Identify items included in the Annual Projection at an 
+amount other than on a historic cost basis (e.g., fair value 
+adjustments);  
+C. Identify any reorganization or merger transaction during 
+the previous year and explain the effect of the accounting 
+for such transaction(s) on inputs to the Annual Projection; 
+and 
+D. Provide, for each item identified pursuant to Sections 
+1.b.iii.A through 1.b.iii.C of these Protocols, a narrative 
+explanation of the individual impact of such changes on the 
+Annual Projection. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 4 
+(iv) Include the following information related to affiliate cost allocation:  
+A. A detailed description of the methodologies used to allocate 
+and directly assign costs between AMPT and its affiliates by 
+service category or function, including any changes to such 
+cost allocation methodologies from the prior year, and the 
+reasons for those changes; and   
+B. The magnitude of such costs that have been allocated or 
+directly assigned between AMPT and each affiliate by 
+service category or function.  
+c. If the date for making the posting of the Annual Projection should fall on a weekend or a 
+holiday recognized by FERC, then the posting shall be made no later than the next 
+business day.3/  Within five (5) calendar days of the posting, PJM shall provide notice of 
+such posting via the PJM Members Committee email subscription (“PJM Exploder List”).  
+Interested Parties can subscribe to the PJM Exploder List on the PJM website.  
+d. Together with the posting of the Annual Projection, AMPT shall cause to be posted on the 
+PJM internet website and OASIS, and distributed to the PJM Exploder List, the time, date, 
+location, and remote-access information for a stakeholder meeting with Interested Parties 
+in order for AMPT to explain its Annual Projection and to provide Interested Parties an 
+opportunity to seek information and clarifications regarding the Annual Projection 
+(“Annual Projection Meeting”). The Annual Projection Meeting shall be held no fewer  
+_________________________ 
+3/ For the purposes of these Protocols, if any deadline included in these Protocols should fall on a weekend or a 
+holiday recognized by FERC, then the deadline shall be extended to no later than the next business day. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 5 
+ than twenty (20) business days and no more than thirty (30) business days after the posting 
+of the Annual Projection.  Notice of the Annual Projection Meeting shall be provided via 
+the PJM Exploder List no fewer than seven (7) calendar days prior to the meeting.  AMPT 
+will provide remote access to the Annual Projection Meeting in order to ease burdens 
+(e.g., travel costs) to ensure all Interested Parties have the opportunity to participate. 
+e. To the extent AMPT agrees to make changes in the Annual Projection for a given Rate 
+Year, such revised Annual Projection shall be promptly posted at a publicly accessible 
+location on PJM’s internet website and OASIS, and e-mailed to the PJM Exploder List.  
+Changes posted prior to November 30 preceding the Rate Year, or the next business day 
+if November 30 is not a business day (or such later date as can be accommodated under 
+PJM’s billing practices), shall be reflected in the Annual Projection for the Rate Year; 
+changes posted after that date will be reflected, as appropriate, in the True-Up 
+Adjustment for the Rate Year. 
+f. The PTRR, including the True-Up Adjustment, for each Rate Year shall be subject to 
+review, challenge, true-up, and refunds or surcharges with interest, to the extent and in 
+the manner provided in these Protocols. 
+Section 2. True-Up Adjustment 
+a. Using data included in its informational FERC Form No. 1 Document 4/ for the preceding 
+calendar year, AMPT will calculate the amount of under- or over-collection of its Actual 
+Transmission Revenue Requirement (“ATRR”) during the preceding Rate Year (“True- 
+______________________ 
+4/ Although AMPT is not required to file a FERC Form 1, it will include in its Annual Update and file with the 
+Commission on an informational basis each year a document (the “FERC Form 1 Document”) that presents its 
+financial and operating data for the previous year in the format of, and in accordance with the instructions to, 
+the FERC Form 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 6 
+Up Adjustment”).  The True-Up Adjustment shall be the sum of the True-Up Adjustment 
+Over/Under Recovery as determined in Section 2(b) and the Interest on the True-Up 
+Adjustment Over/Under Recovery as determined in Section 2(c). 
+b. The amount collected as AMPT’s transmission revenue requirement during the preceding 
+calendar year will be compared to AMPT’s ATRR for the preceding Rate Year calculated 
+in accordance with AMPT’s Formula Rate and based upon (i) AMPT’s informational 
+FERC Form No. 1 Document for that same Rate Year, (ii) any FERC orders specifically 
+applicable to AMPT’s calculation of its Transmission Revenue Requirement, (iii) the 
+books and records of AMPT, which shall be maintained consistent with the FERC 
+Uniform System of Accounts (“USofA”), (iv) FERC accounting policies and practices 
+applicable to the calculation of annual revenue requirements under formula rates, and (v) 
+any aspects of the PJM Tariff Governing Documents 5/ that apply to the calculation of 
+annual revenue requirements under individual transmission owner formula rates, to 
+determine any over- or under-recovery (“True-Up Adjustment Over/Under Recovery”). 
+c. Interest on any True-Up Adjustment Over/Under Recovery shall be calculated for the 
+thirty-six (36) months during which the over or under recovery in the revenue 
+requirement remains outstanding (i.e., from January 1 of the Rate Year being trued-up 
+through December 31 of the year in which the True-Up Adjustment Over/Under recovery 
+is credited or collected). The interest rate to be applied to the True-Up Adjustment 
+Over/Under  Recovery  amounts  will be determined  using  the average monthly FERC  
+_______________________ 
+5/ “PJM Tariff Governing Documents” include the PJM Tariff, Bylaws, Criteria, and Membership Agreements.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 7 
+ Interest Rate (as determined pursuant to 18 C.F.R. § 35.19a) for the twenty (20) months 
+from the beginning of the Rate Year being trued-up through August 31 of the following 
+year. 
+Section 3. Annual Update 
+a. On or before June 1 of the year following each Rate Year, AMPT shall calculate its 
+ATRR and the True-Up Adjustment as described in Section 2 (the ATRR and the True-
+Up Adjustment together comprising the “Annual Update”) for such Rate Year and, 
+together with such other information described in this Section 3, shall cause such Annual 
+Update to be posted, in both a PDF and fully-functioning Excel format, at a publicly 
+accessible location on PJM’s internet website and OASIS.  Within five (5) calendar days 
+of such posting, PJM shall provide notice of such posting via the PJM Exploder List. 
+b. If the date for making the Annual Update posting should fall on a weekend or a holiday 
+recognized by the FERC, then the posting shall be due on the next business day. 
+c. The date on which the posting occurs shall be that year’s “Annual Update Publication 
+Date.” 
+d. Together with the posting of the Annual Update, AMPT shall cause to be posted on the 
+PJM website and OASIS the time, date, location, and remote-access information for a 
+stakeholder meeting with Interested Parties in order for AMPT to explain its Annual 
+Update and to provide Interested Parties an opportunity to seek information and 
+clarifications regarding the Annual Update (“Annual Update Meeting”).  The Annual 
+Update Meeting shall be held between a date that is not sooner than twenty (20) business 
+days after the Annual Update Publication Date and September 1, provided that notice of 
+the Annual Update Meeting shall be given via the PJM Exploder List no fewer than seven 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 8 
+(7) calendar days prior to the meeting.  AMPT will provide remote access to the Annual 
+Update Meeting in order to ease burdens (e.g., travel costs) to ensure all Interested Parties 
+have the opportunity to participate. 
+e. The Annual Update posting for the Rate Year: 
+(i) Shall provide, via the Formula Rate worksheets, sufficiently detailed 
+supporting documentation for data (and all adjustments thereto or 
+allocations thereof) used in the Formula Rate that are not stated in the 
+FERC Form No. 1 Document;6/ 
+(ii) Shall provide sufficient detail and sufficient explanation to enable 
+Interested Parties to replicate the calculation of the Annual Update results 
+from the FERC Form No. 1 Document and verify that each input to the 
+Template is consistent with the requirements of the Formula Rate; 
+(iii) Shall identify: 
+A. Any change in accounting that affects inputs to the Template or the 
+resulting charges billed under the Formula Rate (“Accounting 
+Change”), including: 
+i. The initial implementation of an accounting 
+standard or policy; 
+__________________ 
+6/ It is the intent of the Formula Rate, including the supporting explanations and allocations described therein, that 
+each input to the Formula Rate for purposes of determining the actual Net Revenue Requirement for a given 
+Rate Year will be either taken directly from the FERC Form No. 1 Document or reconcilable to the FERC Form 
+No. 1 Document by the application of clearly identified and supported information.  If the Form No. 1 is 
+superseded, the successor form(s) shall be utilized and supplemented as necessary to provide equivalent 
+information as that provided in the Form No. 1. If the FERC Form No. 1 is discontinued, equivalent information 
+as that provided in the FERC Form No. 1 shall be utilized. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 9 
+ii. The initial implementation of accounting practices 
+for unusual or unconventional items where FERC 
+has not provided specific accounting direction; 
+iii. Correction of errors and prior period adjustments 
+that impact the True-Up Adjustment calculation; 
+and 
+iv. The implementation of new estimation methods or 
+policies that change prior estimates.  
+B. Any items included in the Annual Update at an amount 
+other than on a historic cost basis (e.g., fair value 
+adjustments); 
+C. Any reorganization or merger transaction during the 
+previous year and an explanation of the effect of the 
+accounting for such transaction(s) on inputs to the Annual 
+Update; and  
+D. For each item identified pursuant to Sections 3.e.iii.A – C 
+of these Protocols, the individual impact (in narrative 
+format) of such changes on the Annual Update; 
+(iv) Shall be subject to review and challenge in accordance with the 
+procedures set forth in Sections 4, 5, and 6 of these Protocols; 
+(v) Shall be subject to review and challenge in accordance with the procedures 
+set forth in these Protocols with respect to the prudence of any costs and 
+expenditures included for recovery in the Annual Update; provided, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 10 
+however, that nothing in these Protocols is intended to modify the 
+Commission’s applicable precedent with respect to the burden of going 
+forward or burden of proof under formula rates in such prudence 
+challenges; and 
+(vi) Shall not seek to modify the Formula Rate and shall not be subject to 
+challenge by any Interested Party seeking to modify the Formula Rate 
+(i.e., any modifications to the Formula Rate will require, as applicable, 
+appropriate FPA filings or the initiation of an FPA investigation). 
+f. The following Formula Rate inputs shall be stated values to be used in the Formula Rate 
+until changed pursuant to a filing with the Commission requesting such change: 
+(i) Margin Factor; (ii) costs subject to deferred cost recovery; and (iii) amortization period 
+over which deferred costs are recovered.  
+g. Example – Timelines for 2019 Annual Projection and 2020 Annual Update: 
+On or before October 31, 2018, AMPT will determine the PTRR for the 2019 Rate Year.  
+AMPT will post the Annual Projection for the 2019 Rate Year in accordance with 
+Section 1 above.  On or before June 1, 2020, AMPT will post its Annual Update, 
+consisting of the ATRR and True-Up Adjustment for the 2019 Rate Year determined 
+pursuant to Section 2 above.  Such True-Up Adjustment will be reflected in the Annual 
+Projection of AMPT’s Transmission Revenue Requirement for the 2021 Rate Year 
+posted on or before October 31, 2020. 
+Section 4. Annual Review Procedures 
+Each Annual Update and Annual Projection shall be subject to the following review 
+procedures (“Annual Review Procedures”): 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 11 
+a. Interested Parties shall have up to the later of two-hundred-ten (210) calendar days after 
+the applicable Publication Date, or thirty (30) calendar days after the receipt of all 
+responses to timely submitted information requests (unless such period is extended with 
+the written consent of AMPT or by FERC order) (“Review Period”), to review the 
+calculations and to notify AMPT in writing of any specific challenges to the Annual 
+Update or Annual Projection (“Preliminary Challenge”), including challenges related to 
+Accounting Changes.  An Interested Party submitting a Preliminary Challenge must 
+specify the inputs, supporting explanations, allocations, calculations, or other information 
+to which it objects, and provide an appropriate explanation and documents to support its 
+challenge.  AMPT shall cause to be posted all Preliminary Challenges at a publicly 
+accessible location on PJM’s internet website and OASIS, and a link to the website will 
+be e-mailed to the PJM Exploder List. 
+b. In the event of a Preliminary Challenge, AMPT will appoint a senior representative to 
+work with the Interested Party (or its representatives) toward a resolution of the dispute. 
+c. AMPT shall respond in writing to a Preliminary Challenge within twenty (20) business 
+days of receipt, and its response shall notify the challenging party of the extent to which 
+AMPT agrees or disagrees with the challenge.  If AMPT disagrees with the Preliminary 
+Challenge, it will provide the Interested Party with an explanation supporting the 
+challenged inputs, explanations, allocations, calculations, or other information.  AMPT 
+shall promptly cause to be posted its responses to all Preliminary Challenges at a publicly 
+accessible location on PJM’s internet website and OASIS, and a link to the website will 
+be e-mailed to the PJM Exploder List.  Notwithstanding the foregoing, Preliminary 
+Challenges and responses to Preliminary Challenges that include material deemed by 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 12 
+AMPT to be confidential information will not be publicly posted but will be made 
+available to requesting parties pursuant to a confidentiality agreement to be executed by 
+AMPT and the requesting party. 
+d. AMPT shall respond to all Preliminary Challenges submitted during the Review Period 
+by no later than thirty (30) calendar days after the end of the Review Period. 
+e. Interested Parties shall have up to one-hundred-fifty (150) calendar days after each 
+annual Publication Date (unless such period is extended with the written consent of 
+AMPT or by FERC order) to serve reasonable information requests on AMPT 
+(“Discovery Period”).   
+f. Information requests shall be limited to what is necessary to determine: (i) the extent, 
+effect, or impact of an Accounting Change; (ii) whether the Annual Update or Annual 
+Projection fails to include data properly recorded in accordance with the Protocols; 
+(iii) the proper application of the Template and procedures in the Protocols; (iv) the 
+accuracy of data and consistency with the Formula Rate of the charges shown in the 
+Annual Update or Annual Projection; (v) the prudence of the actual costs and 
+expenditures, including procurement methods and cost control methodologies; (vi) the 
+effect of any change to the underlying USofA or FERC Form No. 1 Document; and (vii) 
+any other information that may reasonably have substantive effect on the calculation of 
+the charge pursuant to the Formula Rate.  The information requests shall not otherwise be 
+directed to ascertaining whether the Formula Rate is just and reasonable.  Information 
+requests shall not solicit information concerning costs or allocations where the costs or 
+allocation methods have been determined to be appropriate by FERC in the context of 
+prior AMPT Annual Updates, except that such information requests shall be permitted if 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 13 
+they (i) seek to determine if there has been a change in circumstances, (ii) are in 
+connection with corrections pursuant to Section 6 of these Protocols, or (iii) relate to 
+costs or allocations that have not previously been challenged and adjudicated by FERC. 
+g. AMPT shall make a good faith effort to respond to reasonable information requests 
+pertaining to the Annual Update or Annual Projection within fifteen (15) business days of 
+receipt of such requests.  AMPT shall respond to all reasonable information requests no 
+later than thirty (30) calendar days after the end of the Discovery Period.  AMPT will 
+cause to be posted on the PJM website and OASIS all information requests from 
+Interested Parties and AMPT’s response(s) to such requests, and a link to the website will 
+be e-mailed to the PJM Exploder List.  Notwithstanding the foregoing, information and 
+document requests and responses to information and document requests that include 
+material deemed by AMPT to be confidential information will not be publicly posted but 
+will be made available to requesting parties pursuant to a confidentiality agreement to be 
+executed by AMPT and the requesting party.  Voluminous materials will be made 
+available at a physical AMPT site. 
+h. AMPT shall not claim that responses to information and document requests provided 
+pursuant to these Protocols are subject to any settlement privilege in any subsequent 
+FERC proceeding addressing AMPT’s Annual Update or Annual Projection. 
+i. To the extent AMPT and any Interested Party(ies) are unable to resolve disputes related 
+to information requests submitted in accordance with these Annual Review Procedures, 
+AMPT or the Interested Party may petition the FERC to appoint an Administrative Law 
+Judge as a discovery master to resolve the discovery dispute(s) in accordance with these 
+Protocols and consistent with the FERC’s discovery rules. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 14 
+j. Preliminary Challenges or Formal Challenges (as described in Sections 4 and 5) related to 
+Accounting Changes shall be treated in the same manner under these Protocols as other 
+challenges to the Annual Update or Annual Projection.  Failure to make a Preliminary 
+Challenge with respect to an Accounting Change in an Annual Update or Annual 
+Projection shall not act as a bar with respect to a Formal Challenge with respect to that 
+Annual Update or Annual Projection provided that the Interested Party submitted a 
+Preliminary Challenge with respect to one or more other issues.  Nor shall such failure bar 
+a subsequent Preliminary Challenge related to a subsequent Annual Update or Annual 
+Projection to the extent such Accounting Change affects the subsequent Annual Update 
+or Annual Projection. 
+k. If a change made by AMPT to its accounting policies, practices, or procedures, or the 
+application of the Formula Rate, is found by the FERC to be unjust, unreasonable, or 
+unduly discriminatory or preferential, then the calculation of the charges to be assessed 
+during the Rate Year then under review, and the charges to be assessed during any 
+subsequent Rate Years, including any True-up Adjustments, shall not include such 
+change, but shall include any remedy that may be prescribed by FERC in the exercise of 
+its discretion as of the effective date of such remedy, to ensure that the Formula Rate 
+continues to operate in a manner that is just, reasonable, and not unduly discriminatory or 
+preferential.  
+Section 5. Resolution of Challenges 
+a. Interested Parties shall have up to two-hundred-seventy (270) days following the 
+applicable Publication Date (unless such period is extended with the written consent of 
+AMPT or by FERC order), to file a challenge with the FERC (“Formal Challenge”).  Such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 15 
+Formal Challenge shall be submitted in the same docket as the AMPT informational filing 
+and shall be served on AMPT by electronic service on the date of such filing in accordance 
+with Section 385.2010(f)(3) of the Commission’s regulations. Subject to any applicable 
+confidentiality and Critical Energy Infrastructure Information restrictions, all information 
+and correspondence produced by AMPT pursuant to these Protocols may be included in 
+any Formal Challenge or other FERC proceeding relating to the Formula Rate. 
+b. Formal Challenges are to be filed pursuant to these Protocols, rather than under Rule 206, 
+and shall: 
+(i) Clearly identify the action or inaction which is alleged to violate the 
+Formula Rate Template or Protocols; 
+(ii) Explain how the action or inaction violates the filed rate Template or 
+Protocols; 
+(iii) Set forth the business, commercial, economic or other issues presented by 
+the action or inaction as such relate to or affect the party filing the Formal 
+Challenge, including 
+A. The extent or effect of an Accounting Change; 
+B. Whether the Annual Update or Annual Projection fails to 
+include data properly recorded in accordance with these 
+Protocols; 
+C. The proper application of the Template and procedures in 
+these Protocols; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 16 
+D. The accuracy of the data and consistency with the Formula 
+Rate of the charges shown in the Annual Update or Annual 
+Projection; 
+E. The prudence of actual costs and expenditures; 
+F. The effect of any change to the underlying USofA or the 
+FERC Form No. 1 Document; or 
+G. Any other information that may reasonably have substantive 
+effect on the calculation of the charge pursuant to the 
+Formula Rate. 
+(iv) Make a good faith effort to quantify the financial impact or burden (if any) 
+created for the party filing the Formal Challenge as a result of the action or 
+inaction; 
+(v) State whether the issues presented are pending in an existing Commission 
+proceeding or a proceeding in any other forum in which the filing party is 
+a party, and if so, provide an explanation why timely resolution cannot be 
+achieved in that forum; 
+(vi) State the specific relief or remedy requested, including any request for stay 
+or extension of time, and the basis for that relief; 
+(vii) Include all documents that support the facts in the Formal Challenge in 
+possession of, or otherwise attainable by, the filing party, including, but 
+not limited to, contracts and affidavits; and  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 17 
+(viii) State whether the filing party utilized the Preliminary Challenge 
+procedures described in these Protocols to dispute the action or inaction 
+raised by the Formal Challenge, and, if not, describe why not. 
+c. Preliminary and Formal Challenges shall be limited to issues that may be necessary to 
+determine: (i) the extent or effect of an Accounting Change; (ii) whether the Annual 
+Update or Annual Projection fails to include data properly recorded in accordance with 
+these Protocols; (iii) the proper application of the Formula Rate and procedures in these 
+Protocols; (iv) the accuracy of data and consistency with the Formula Rate of the 
+calculations shown in the Annual Update and Annual Projection; (v) the prudence of 
+actual costs and expenditures; (vi) the effect of any change to the underlying USofA or 
+FERC Form No. 1 Document; or (vii) any other information that may reasonably have 
+substantive effect on the calculation of the charge pursuant to the Formula Rate. 
+d. Failure to raise an issue in a Preliminary Challenge shall not bar an Interested Party from 
+raising that issue in a Formal Challenge, provided the Interested Party submitted a 
+Preliminary Challenge during the Review Period with respect to one or more other issues.  
+Failure to pursue an issue through a Preliminary Challenge or to lodge a Formal 
+Challenge regarding any issue as to a given Annual Update shall bar pursuit of such issue 
+with respect to that Annual Update, but shall not bar pursuit of such issue or the lodging 
+of a Formal Challenge as to such issue as it relates to a subsequent Annual Update. 
+e. Any response by AMPT to a Formal Challenge must be submitted to the FERC within 
+thirty (30) calendar days of the date of the filing of the Formal Challenge (or such later 
+date as FERC may establish), and shall be served on the filing party(ies) and the PJM 
+Exploder List on the date of such filing. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 18 
+f. In any Formal Challenge proceeding concerning an Annual Update (including 
+corrections), Annual Projection, or Accounting Change(s), AMPT shall demonstrate the 
+justness and reasonableness of the rate resulting from its application of the Formula Rate 
+by demonstrating that it has correctly applied the terms of the Formula Rate consistent 
+with these Protocols and that it followed the applicable requirements and procedures in 
+applying the Formula Rate.  Nothing herein is intended to alter the burdens applied by 
+FERC with respect to prudence challenges. 
+g. Except as specifically provided herein, nothing herein shall be deemed to limit in any 
+way the right of AMPT to file unilaterally, pursuant to the FPA and the regulations 
+thereunder, an application seeking changes to the Formula Rate or to any of the stated 
+value inputs requiring a prior filing under these Protocols (including, but not limited to, 
+the Margin Factor, and the scope of and amortization period for any deferred costs), or 
+the right of any other party or the Commission to seek such changes pursuant to the FPA 
+and the regulations thereunder. 
+Section 6. Changes to Annual Updates  
+If AMPT determines or concedes that corrections to the Annual Update are required, 
+whether under Section 4 or 5 of these Protocols, including but not limited to those requiring 
+corrections to its FERC Form No. 1 Document, or input data used for a Rate Year that would 
+have affected the Annual Update for that Rate Year, such corrections shall be reflected as 
+adjustments in the Annual Update for the next Rate Year, with interest calculated in accordance 
+with the FERC Interest Rate (as determined pursuant to 18 C.F.R. § 35.19a).  This reconciliation 
+mechanism shall apply in lieu of mid-Rate Year adjustments. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 19 
+ATTACHMENT H-32B 
+AMP Transmission, LLC  
+Formula Rate Implementation Protocols  
+ 
+ATTACHMENT H-32B-2 
+ANNUAL TRUE-UP, INFORMATION EXCHANGE,  
+AND CHALLENGE PROCEDURES 
+(NON-CALENDAR YEAR BILLING ZONES) 
+The Formula Rate Template (“Template”) (Attachment H-32A), and these Formula Rate 
+Implementation Protocols for Non-Calendar Year Billing Zones (“Protocols”) together comprise 
+the Formula Rate of AMP Transmission, LLC (“AMPT”) for transmission revenue requirement 
+determinations under the PJM Interconnection, LLC (“PJM”) Open Access Transmission Tariff 
+(“PJM Tariff”) in zones in which billing is performed on other than a calendar year basis. For 
+transmission zones in which billing is performed on a calendar year basis, the protocols set forth 
+in Attachment H-32B-1 shall apply.   
+AMPT shall follow the instructions specified in the Formula Rate to calculate its 
+Transmission Revenue Requirement, initially on a projected basis (the Projected Transmission 
+Revenue Requirement), and, when actual data are available, on an actual basis (the Actual 
+Transmission Revenue Requirement), utilizing its Formula Rate Template for such calculations. 
+The Projected Transmission Revenue Requirement (“PTRR”) and the Actual Transmission 
+Revenue Requirement (“ATRR”) each shall be determined for January 1 to December 31 of a 
+given calendar year (the “Financial Year”).  The PTRR will be recovered through charges to 
+customers assessed during the twelve-month billing period used in the zone (the “Rate Year”).  
+For purposes of clarity, a given Financial Year may be referred to in these Protocols as 
+“Financial Year n” and the Rate Year in which the PTRR for Financial Year n is recovered may 
+be referred to as “Rate Year n.”  The Formula Rate shall become effective for recovery of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 20 
+AMPT’s Transmission Revenue Requirement upon the effective date for incorporation into the 
+PJM Tariff through a filing by PJM and AMPT with the Federal Energy Regulatory Commission 
+(“FERC” or “Commission”) under the Federal Power Act (“FPA”), 16 U.S.C. § 824d.  
+Section 1. Annual Projection  
+a. No later than sixty (60) days before the start of a Rate Year, and each subsequent 
+Rate Year, AMPT shall determine its PTRR for the then-current Financial Year which shall be 
+recovered through charges during the upcoming Rate Year in accordance with the Formula Rate, 
+and which shall include the True-Up Adjustment described and defined in Section 2 below (the 
+PTRR and any applicable True-Up Adjustment together comprising the “Annual Projection”).  
+For example, for a Rate Year beginning on June 1, 2020, the PTRR would be calculated based 
+upon the Financial Year January 1, 2020 through December 31, 2020.  AMPT shall cause an 
+electronic version of the Annual Projection to be posted in both a Portable Document Format 
+(“PDF”) and fully-functioning Excel file at a publicly accessible location on PJM’s internet 
+website and OASIS.  The date on which the posting occurs shall be that year’s “Annual 
+Projection Publication Date.” 
+b. The posting of the Annual Projection shall:  
+(i) Provide the Formula Rate calculations and all inputs thereto, as well as supporting 
+documentation and workpapers for data that are used in the Annual Projection; 
+(ii) Include all inputs in sufficient detail to identify the components of AMPT’s 
+Annual Projection, explanations of the bases for the projections and input data, and sufficient 
+detail and explanation to enable “Interested Parties” [defined as including but not limited to: (i) 
+any Eligible Customer under the PJM Tariff; (ii) any regulatory agency with rate jurisdiction 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 21 
+over a public utility located within the PJM footprint; (iii) any consumer advocate authorized by 
+state law to review and contest the rates for any such public utility; and (iv) any party with 
+standing under FPA section 205 or section 206] to replicate the calculation of the Annual 
+Projection; 
+(iii) With respect to any Accounting Changes (as that term is defined in Section 
+3.e.iii.A): 
+A. Identify any Accounting Changes including: 
+i. The initial implementation of an accounting standard or policy; 
+ii. The initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific accounting 
+direction; 
+iii. Correction of errors and prior period adjustments that impact the 
+Annual Projection calculation; and 
+iv. The implementation of new estimation methods or policies that 
+change prior estimates.  
+B. Identify items included in the Annual Projection at an amount other than 
+on a historic cost basis (e.g., fair value adjustments);  
+C. Identify any reorganization or merger transaction during the previous year 
+and explain the effect of the accounting for such transaction(s) on inputs to the Annual 
+Projection; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 22 
+D. Provide, for each item identified pursuant to Section 1.b.iii.A - C of these 
+Protocols, a narrative explanation of the individual impact of such changes on the Annual 
+Projection. 
+(iv) Include the following information related to affiliate cost allocation:  
+A. A detailed description of the methodologies used to allocate and directly 
+assign costs between AMPT and its affiliates by service category or function, including 
+any changes to such cost allocation methodologies from the prior year, and the reasons 
+for those changes; and   
+B. The magnitude of such costs that have been allocated or directly assigned 
+between AMPT and each affiliate by service category or function.  
+c. If the date for making the posting of the Annual Projection should fall on a 
+weekend or a holiday recognized by FERC, then the posting shall be made no later than the next 
+business day.  For the purposes of these Protocols, if any deadline included in these Protocols 
+should fall on a weekend or a holiday recognized by FERC, then the deadline shall be extended 
+to no later than the next business day.  Within five (5) calendar days of the posting, PJM shall 
+provide notice of such posting via the PJM Members Committee email subscription (“PJM 
+Exploder List”).  Interested Parties can subscribe to the PJM Exploder List on the PJM website.  
+d. Together with the posting of the Annual Projection, AMPT shall cause to be 
+posted on the PJM internet website and OASIS, and distributed to the PJM Exploder List, the 
+time, date, location, and remote-access information for a stakeholder meeting with Interested 
+Parties in order for AMPT to explain its Annual Projection and to provide Interested Parties an 
+opportunity to seek information and clarifications regarding the Annual Projection (“Annual 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 23 
+Projection Meeting”). The Annual Projection Meeting shall be held no fewer than twenty (20) 
+business days and no more than thirty (30) business days after the posting of the Annual 
+Projection.  Notice of the Annual Projection Meeting shall be provided via the PJM Exploder 
+List no fewer than seven (7) calendar days prior to the meeting.  AMPT will provide remote 
+access to the Annual Projection Meeting in order to ease burdens (e.g., travel costs) to ensure all 
+Interested Parties have the opportunity to participate. 
+e. To the extent AMPT agrees to make changes in the Annual Projection for a given 
+Financial Year, such revised Annual Projection shall be promptly posted at a publicly accessible 
+location on PJM’s internet website and OASIS, and e-mailed to the PJM Exploder List.  Changes 
+posted earlier than thirty (30) days before the start of the Rate Year, or the next business day if 
+such date is not a business day (or such later date as can be accommodated under PJM’s billing 
+practices), shall be reflected in the Annual Projection to be charged during the Rate Year; 
+changes posted after that date will be reflected, as appropriate, in the True-Up Adjustment for the 
+Financial Year. 
+f. The PTRR, including the True-Up Adjustment, for each Financial Year, shall be 
+subject to review, challenge, true-up, and refunds or surcharges with interest, to the extent and in 
+the manner provided in these Protocols. 
+Section 2. True-Up Adjustment 
+a. Although AMPT is not required to file a FERC Form 1, it will include in its 
+Annual Update, as defined below, and file with the Commission on an informational basis each 
+year a document (the “FERC Form 1 Document”) that presents its financial and operating data 
+for the previous year in the format of, and in accordance with the instructions to, the FERC Form 
+1.  Using data included in its informational FERC Form No. 1 Document for the preceding 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 24 
+Financial Year n, AMPT will calculate the amount of under- or over-collection of its ATRR to 
+be recovered during the Rate Year n+2 (“True-Up Adjustment”).  The True-Up Adjustment shall 
+be the sum of the True-Up Adjustment Over/Under Recovery as determined in Section 2(b) and 
+the Interest on the True-Up Adjustment Over/Under Recovery as determined in Section 2(c).   
+b. The amount collected for AMPT’s transmission revenue requirement during the 
+any Rate Year will be compared to AMPT’s ATRR for the corresponding Financial Year 
+calculated in accordance with AMPT’s Formula Rate and based upon (i) AMPT’s informational 
+FERC Form No. 1 Document for that same Financial Year, (ii) any FERC orders specifically 
+applicable to AMPT’s calculation of its Transmission Revenue Requirement, (iii) the books and 
+records of AMPT, which shall be maintained consistent with the FERC Uniform System of 
+Accounts (“USofA”), (iv) FERC accounting policies and practices applicable to the calculation 
+of annual revenue requirements under formula rates, and (v) any aspects of the PJM Tariff 
+Governing Documents, which include the PJM Tariff, Bylaws, Criteria, and Membership 
+Agreements, that apply to the calculation of annual revenue requirements under individual 
+transmission owner formula rates, to determine any over- or under-recovery (“True-Up 
+Adjustment Over/Under Recovery”).   
+c. Interest on any True-Up Adjustment Over/Under Recovery shall be calculated for 
+the time period during which the over or under recovery in the revenue requirement remains 
+outstanding. For example, the True-Up Adjustment Over/Under Recovery for Financial Year n 
+shall be collected or refunded with interest in Rate Year n+2.  The interest rate to be applied to 
+the True-Up Adjustment Over/Under Recovery amounts will be determined using the average 
+monthly FERC Interest Rate (as determined pursuant to 18 C.F.R. § 35.19a) for the twenty (20) 
+months from the beginning of Rate Year n. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 25 
+Section 3. Annual Update 
+a. On or before sixty days prior to the start of Rate Year n, AMPT shall calculate 
+and post the PTRR for Financial Year n, the ATRR for Financial Year n-2,  and the True Up 
+Adjustment for Financial Year n-2 (“Annual Update”).   AMPT shall cause such Annual Update 
+to be posted, in both a PDF and fully-functioning Excel format, at a publicly accessible location 
+on PJM’s internet website and OASIS.  Within five (5) calendar days of such posting, PJM shall 
+provide notice of such posting via the PJM Exploder List.  There will not be a True-Up 
+Adjustment until this rate has been in effect for two Rate Years. 
+b. If the date for making the Annual Update posting should fall on a weekend or a 
+holiday recognized by the FERC, then the posting shall be due on the next business day. 
+c. The date on which the posting occurs shall be that year’s “Annual Update 
+Publication Date.” 
+d. Together with the posting of the Annual Update, AMPT shall cause to be posted 
+on the PJM website and OASIS the time, date, location, and remote-access information for a 
+stakeholder meeting with Interested Parties in order for AMPT to explain its Annual Update and 
+to provide Interested Parties an opportunity to seek information and clarifications regarding the 
+Annual Update (“Annual Update Meeting”).  The Annual Update Meeting shall be held between 
+a date that is not sooner than twenty (20) business days and no later than ninety (90) business 
+days after the Annual Update Publication Date, provided that notice of the Annual Update 
+Meeting shall be given via the PJM Exploder List no fewer than seven (7) calendar days prior to 
+the meeting.  AMPT will provide remote access to the Annual Update Meeting in order to ease 
+burdens (e.g., travel costs) to ensure all Interested Parties have the opportunity to participate. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 26 
+e. The Annual Update posting for the Rate Year: 
+(i) Shall provide, via the Formula Rate worksheets, sufficiently detailed supporting 
+documentation for data (and all adjustments thereto or allocations thereof) used in the Formula 
+Rate that are not stated in the FERC Form No. 1 Document.  It is the intent of the Formula Rate, 
+including the supporting explanations and allocations described therein, that each input to the 
+Formula Rate for purposes of determining the actual Net Revenue Requirement for a given Rate 
+Year will be either taken directly from the FERC Form No. 1 Document or reconcilable to the 
+FERC Form No. 1 Document by the application of clearly identified and supported information.  
+If the Form No. 1 is superseded, the successor form(s) shall be utilized and supplemented as 
+necessary to provide equivalent information as that provided in the Form No. 1. If the FERC 
+Form No. 1 is discontinued, equivalent information as that provided in the FERC Form No. 1 
+shall be utilized; 
+(ii) Shall provide sufficient detail and sufficient explanation to enable Interested 
+Parties to replicate the calculation of the Annual Update results from the FERC Form No. 1 
+Document and verify that each input to the Template is consistent with the requirements of the 
+Formula Rate; 
+(iii) Shall identify: 
+A. Any change in accounting that affects inputs to the Template or the 
+resulting charges billed under the Formula Rate (“Accounting Change”), including: 
+i. The initial implementation of an accounting standard or policy; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 27 
+ii. The initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific accounting 
+direction; 
+iii. Correction of errors and prior period adjustments that impact the 
+True-Up Adjustment calculation; and 
+iv. The implementation of new estimation methods or policies that 
+change prior estimates.  
+B. Any items included in the Annual Update at an amount other than on a 
+historic cost basis (e.g., fair value adjustments); 
+C. Any reorganization or merger transaction during the previous Financial 
+Year and an explanation of the effect of the accounting for such transaction(s) on inputs 
+to the Annual Update; and  
+D. For each item identified pursuant to Sections 3.e.iii.A – C of these 
+Protocols, the individual impact (in narrative format) of such changes on the Annual 
+Update; 
+(iv) Shall be subject to review and challenge in accordance with the procedures set 
+forth in Sections 4, 5, and 6 of these Protocols; 
+(v) Shall be subject to review and challenge in accordance with the procedures set 
+forth in these Protocols with respect to the prudence of any costs and expenditures included for 
+recovery in the Annual Update; provided, however, that nothing in these Protocols is intended to 
+modify the Commission’s applicable precedent with respect to the burden of going forward or 
+burden of proof under formula rates in such prudence challenges; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 28 
+(vi) Shall not seek to modify the Formula Rate and shall not be subject to challenge by 
+any Interested Party seeking to modify the Formula Rate (i.e., any modifications to the Formula 
+Rate will require, as applicable, appropriate FPA filings or the initiation of an FPA 
+investigation). 
+f. The following Formula Rate inputs shall be stated values to be used in the 
+Formula Rate until changed pursuant to a filing with the Commission requesting such change: 
+(i) Margin Factor; (ii) costs subject to deferred cost recovery; and (iii) amortization period over 
+which deferred costs are recovered.  
+Section 4. Annual Review Procedures 
+Each Annual Update shall be subject to the following review procedures (“Annual 
+Review Procedures”): 
+a. Interested Parties shall have up to the later of two-hundred-ten (210) calendar 
+days after the applicable Publication Date, or thirty (30) calendar days after the receipt of all 
+responses to timely submitted information requests (unless such period is extended with the 
+written consent of AMPT or by FERC order) (“Review Period”), to review the calculations and 
+to notify AMPT in writing of any specific challenges to the Annual Update (“Preliminary 
+Challenge”), including challenges related to Accounting Changes.  An Interested Party 
+submitting a Preliminary Challenge must specify the inputs, supporting explanations, allocations, 
+calculations, or other information to which it objects, and provide an appropriate explanation and 
+documents to support its challenge.  AMPT shall cause to be posted all Preliminary Challenges at 
+a publicly accessible location on PJM’s internet website and OASIS, and a link to the website 
+will be e-mailed to the PJM Exploder List. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 29 
+b. In the event of a Preliminary Challenge, AMPT will appoint a senior 
+representative to work with the Interested Party (or its representatives) toward a resolution of the 
+dispute. 
+c. AMPT shall respond in writing to a Preliminary Challenge within twenty (20) 
+business days of receipt, and its response shall notify the challenging party of the extent to which 
+AMPT agrees or disagrees with the challenge.  If AMPT disagrees with the Preliminary 
+Challenge, it will provide the Interested Party with an explanation supporting the challenged 
+inputs, explanations, allocations, calculations, or other information.  AMPT shall promptly cause 
+to be posted its responses to all Preliminary Challenges at a publicly accessible location on 
+PJM’s internet website and OASIS, and a link to the website will be e-mailed to the PJM 
+Exploder List.  Notwithstanding the foregoing, Preliminary Challenges and responses to 
+Preliminary Challenges that include material deemed by AMPT to be confidential information 
+will not be publicly posted but will be made available to requesting parties pursuant to a 
+confidentiality agreement to be executed by AMPT and the requesting party. 
+d. AMPT shall respond to all Preliminary Challenges submitted during the Review 
+Period by no later than thirty (30) calendar days after the end of the Review Period. 
+e. Interested Parties shall have up to one-hundred-fifty (150) calendar days after 
+each annual Publication Date (unless such period is extended with the written consent of AMPT 
+or by FERC order) to serve reasonable information requests on AMPT (“Discovery Period”).   
+f. Information requests shall be limited to what is necessary to determine: (i) the 
+extent, effect, or impact of an Accounting Change; (ii) whether the Annual Update fails to 
+include data properly recorded in accordance with the Protocols; (iii) the proper application of 
+the Template and procedures in the Protocols; (iv) the accuracy of data and consistency with the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 30 
+Formula Rate of the charges shown in the Annual Update; (v) the prudence of the actual costs 
+and expenditures, including procurement methods and cost control methodologies; (vi) the effect 
+of any change to the underlying USofA or FERC Form No. 1 Document; and (vii) any other 
+information that may reasonably have substantive effect on the calculation of the charge pursuant 
+to the Formula Rate.  The information requests shall not otherwise be directed to ascertaining 
+whether the Formula Rate is just and reasonable.  Information requests shall not solicit 
+information concerning costs or allocations where the costs or allocation methods have been 
+determined to be appropriate by FERC in the context of prior AMPT Annual Updates, except 
+that such information requests shall be permitted if they (i) seek to determine if there has been a 
+change in circumstances, (ii) are in connection with corrections pursuant to Section 6 of these 
+Protocols, or (iii) relate to costs or allocations that have not previously been challenged and 
+adjudicated by FERC. 
+g. AMPT shall make a good faith effort to respond to reasonable information 
+requests pertaining to the Annual Update within fifteen (15) business days of receipt of such 
+requests.  AMPT shall respond to all reasonable information requests no later than thirty (30) 
+calendar days after the end of the Discovery Period.  AMPT will cause to be posted on the PJM 
+website and OASIS all information requests from Interested Parties and AMPT’s response(s) to 
+such requests, and a link to the website will be e-mailed to the PJM Exploder List.  
+Notwithstanding the foregoing, information and document requests and responses to information 
+and document requests that include material deemed by AMPT to be confidential information 
+will not be publicly posted but will be made available to requesting parties pursuant to a 
+confidentiality agreement to be executed by AMPT and the requesting party.  Voluminous 
+materials will be made available at a physical AMPT site. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 31 
+h. AMPT shall not claim that responses to information and document requests 
+provided pursuant to these Protocols are subject to any settlement privilege in any subsequent 
+FERC proceeding addressing AMPT’s Annual Update. 
+i. To the extent AMPT and any Interested Party(ies) are unable to resolve disputes 
+related to information requests submitted in accordance with these Annual Review Procedures, 
+AMPT or the Interested Party may petition the FERC to appoint an Administrative Law Judge as 
+a discovery master to resolve the discovery dispute(s) in accordance with these Protocols and 
+consistent with the FERC’s discovery rules. 
+j. Preliminary Challenges or Formal Challenges (as described in Sections 4 and 5) 
+related to Accounting Changes shall be treated in the same manner under these Protocols as other 
+challenges to the Annual Update.  Failure to make a Preliminary Challenge with respect to an 
+Accounting Change in an Annual Update shall not act as a bar with respect to a Formal 
+Challenge with respect to that Annual Update provided that the Interested Party submitted a 
+Preliminary Challenge with respect to one or more other issues.  Nor shall such failure bar a 
+subsequent Preliminary Challenge related to a subsequent Annual Update to the extent such 
+Accounting Change affects the subsequent Annual Update. 
+k. If a change made by AMPT to its accounting policies, practices, or procedures, or 
+the application of the Formula Rate, is found by the FERC to be unjust, unreasonable, or unduly 
+discriminatory or preferential, then the calculation of the charges to be assessed during the Rate 
+Year then under review, and the charges to be assessed during any subsequent Rate Years, 
+including any True-up Adjustments, shall not include such change, but shall include any remedy 
+that may be prescribed by FERC in the exercise of its discretion as of the effective date of such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 32 
+remedy, to ensure that the Formula Rate continues to operate in a manner that is just, reasonable, 
+and not unduly discriminatory or preferential.  
+Section 5. Resolution of Challenges 
+a. Interested Parties shall have up to two-hundred-seventy (270) days following the 
+applicable Publication Date (unless such period is extended with the written consent of AMPT or 
+by FERC order), to file a challenge with the FERC (“Formal Challenge”).  Such Formal 
+Challenge shall be submitted in the same docket as the AMPT informational filing and shall be 
+served on AMPT by electronic service on the date of such filing in accordance with Section 
+385.2010(f)(3) of the Commission’s regulations. Subject to any applicable confidentiality and 
+Critical Energy Infrastructure Information restrictions, all information and correspondence 
+produced by AMPT pursuant to these Protocols may be included in any Formal Challenge or 
+other FERC proceeding relating to the Formula Rate. 
+b. Formal Challenges are to be filed pursuant to these Protocols, rather than under 
+Rule 206, and shall: 
+(i) Clearly identify the action or inaction which is alleged to violate the Formula Rate 
+Template or Protocols; 
+(ii) Explain how the action or inaction violates the filed rate Template or Protocols; 
+(iii) Set forth the business, commercial, economic or other issues presented by the 
+action or inaction as such relate to or affect the party filing the Formal Challenge, including 
+A. The extent or effect of an Accounting Change; 
+B. Whether the Annual Update fails to include data properly recorded in 
+accordance with these Protocols; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 33 
+C. The proper application of the Template and procedures in these Protocols; 
+D. The accuracy of the data and consistency with the Formula Rate of the 
+charges shown in the Annual Update; 
+E. The prudence of actual costs and expenditures; 
+F. The effect of any change to the underlying USofA or the FERC Form No. 
+1 Document; or 
+G. Any other information that may reasonably have substantive effect on the 
+calculation of the charge pursuant to the Formula Rate. 
+(iv) Make a good faith effort to quantify the financial impact or burden (if any) 
+created for the party filing the Formal Challenge as a result of the action or inaction; 
+(v) State whether the issues presented are pending in an existing Commission 
+proceeding or a proceeding in any other forum in which the filing party is a party, and if so, 
+provide an explanation why timely resolution cannot be achieved in that forum; 
+(vi) State the specific relief or remedy requested, including any request for stay or 
+extension of time, and the basis for that relief; 
+(vii) Include all documents that support the facts in the Formal Challenge in possession 
+of, or otherwise attainable by, the filing party, including, but not limited to, contracts and 
+affidavits; and  
+(viii) State whether the filing party utilized the Preliminary Challenge procedures 
+described in these Protocols to dispute the action or inaction raised by the Formal Challenge, 
+and, if not, describe why not. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 34 
+c. Preliminary and Formal Challenges shall be limited to issues that may be 
+necessary to determine: (i) the extent or effect of an Accounting Change; (ii) whether the Annual 
+Update fails to include data properly recorded in accordance with these Protocols; (iii) the proper 
+application of the Formula Rate and procedures in these Protocols; (iv) the accuracy of data and 
+consistency with the Formula Rate of the calculations shown in the Annual Update; (v) the 
+prudence of actual costs and expenditures; (vi) the effect of any change to the underlying USofA 
+or FERC Form No. 1 Document; or (vii) any other information that may reasonably have 
+substantive effect on the calculation of the charge pursuant to the Formula Rate. 
+d. Failure to raise an issue in a Preliminary Challenge shall not bar an Interested 
+Party from raising that issue in a Formal Challenge, provided the Interested Party submitted a 
+Preliminary Challenge during the Review Period with respect to one or more other issues.  
+Failure to pursue an issue through a Preliminary Challenge or to lodge a Formal Challenge 
+regarding any issue as to a given Annual Update shall bar pursuit of such issue with respect to 
+that Annual Update, but shall not bar pursuit of such issue or the lodging of a Formal Challenge 
+as to such issue as it relates to a subsequent Annual Update. 
+e. Any response by AMPT to a Formal Challenge must be submitted to the FERC 
+within thirty (30) calendar days of the date of the filing of the Formal Challenge (or such later 
+date as FERC may establish), and shall be served on the filing party(ies) and the PJM Exploder 
+List on the date of such filing. 
+f. In any Formal Challenge proceeding concerning an Annual Update (including 
+corrections), or Accounting Change(s), AMPT shall demonstrate the justness and reasonableness 
+of the rate resulting from its application of the Formula Rate by demonstrating that it has 
+correctly applied the terms of the Formula Rate consistent with these Protocols and that it 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 35 
+followed the applicable requirements and procedures in applying the Formula Rate.  Nothing 
+herein is intended to alter the burdens applied by FERC with respect to prudence challenges. 
+g. Except as specifically provided herein, nothing herein shall be deemed to limit in 
+any way the right of AMPT to file unilaterally, pursuant to the FPA and the regulations 
+thereunder, an application seeking changes to the Formula Rate or to any of the stated value 
+inputs requiring a prior filing under these Protocols (including, but not limited to, the Margin 
+Factor, and the scope of and amortization period for any deferred costs), or the right of any other 
+party or the Commission to seek such changes pursuant to the FPA and the regulations 
+thereunder. 
+Section 6. Changes to Annual Updates  
+If AMPT determines or concedes that corrections to the Annual Update are required, 
+whether under Section 4 or 5 of these Protocols, including but not limited to those requiring 
+corrections to its FERC Form No. 1 Document, or input data used for a Financial Year that 
+would have affected the Annual Update for that Rate Year, such corrections shall be reflected as 
+adjustments in the Annual Update for the next Rate Year, with interest calculated in accordance 
+with the FERC Interest Rate (as determined pursuant to 18 C.F.R. § 35.19a). This reconciliation 
+mechanism shall apply in lieu of mid-Rate Year adjustments. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32C - AMPT ATR Requirement and Rates 
+Effective Date: 1/3/2023 - Docket #: Er23-286-000 - Page 1 

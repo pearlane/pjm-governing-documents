@@ -1,0 +1,98 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 5 
+Effective Date: 12/12/2023 - Docket #: ER24-99-000 - Page 1 
+SCHEDULE 5 
+ 
+FORCED OUTAGE RATE CALCULATION 
+ 
+A. The equivalent demand forced outage rate ("EFOR D") shall be calculated as follows: 
+ 
+ EFOR D (%) = {(ff * FOH + fp * EFPOH) / (SH + ff * FOH)} * 100 
+ 
+ where 
+    f f = full outage factor 
+    f p = partial outage factor 
+    FOH = full forced outage hours 
+    EFPOH = equivalent forced partial outage hours 
+    SH = service hours 
+ 
+B. Calculation of EFOR D for individual Generation Capacity Resources. 
+ 
+For Delivery Years through the 2024/2025 Delivery Year, EFORD shall be calculated at least one 
+month prior to the start of the Third Incremental Auction for: (i) each Generation Capacity 
+Resource for which a sell offer will be submitted in such Third Incremental Auction; and (ii) 
+each Generation Capacity Resource previously committed to serve load in such Delivery Year 
+pursuant to an FRR Capacity Plan or prior auctions for such Delivery Year.   
+ 
+Such calculation shall be based upon such resource’s service history in the twelve (12) 
+consecutive months ending September 30 last preceding such auction.  Historical data shall be 
+based on official reports of the Parties under rules and practices set forth in the PJM Manuals.  
+Such rate shall also include (i) an adjustment, if any, for capacity unavailable due to energy 
+limitations determined in accordance with definitions and criteria set forth in the PJM Manuals 
+and (ii) any other adjustments approved by the Members Committee to adjust the parameters of a 
+designated unit.  For purposes of the calculations under this Paragraph B, outages deemed to be 
+outside plant management control in accordance with NERC guidelines shall be considered. 
+ 
+1. The EFOR D of a unit in service twelve or more full calendar months prior to the 
+calculation month shall be the average rate experienced by such unit during the 
+twelve-month period specified above.  Historical data shall be based on official 
+reports of the Parties under rules and practices set forth in the PJM Manuals. 
+ 
+2. The EFOR D of a unit in service at least one full calendar month but less than the 
+twelve-month period specified above shall be the average of the EFOR D 
+experienced by the unit weighted by full months of service, and the class average 
+rate for units with that capability and of that type weighted by a factor of 
+[(twelve) minus (the number of months the unit was in service)].  Historical data 
+shall be based on official reports of the Parties under rules and practices set forth 
+in the PJM Manuals. 
+ 
+C. Calculation of average EFOR D for the PJM Region    
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA SCHEDULE 5 
+Effective Date: 12/12/2023 - Docket #: ER24-99-000 - Page 2 
+ 
+For Delivery Years through the 2024/2025 Delivery Year, the forecast average EFOR D for the 
+PJM Region in a Delivery Year shall be the average of the forced outage rates, weighted for unit 
+capability and expected time in service, attributable to all of the Generation Capacity Resources 
+within the PJM Region, that are planned to be in service during the Delivery Year, including 
+Generation Capacity Resources purchased from specified units and excluding Generation 
+Capacity Resources sold outside the PJM Region from specified units.  Such rate shall also 
+include (i) an adjustment, if any, for capacity unavailable due to energy limitations determined in 
+accordance with definitions and criteria set forth in the PJM Manuals and (ii) any other 
+adjustments developed by the Office of Interconnection and maintained in the PJM Manuals to 
+adjust the parameters of a designated unit when such parameters are or will be used to determine 
+a future PJM Region reserve requirement and such adjustment is required to more accurately 
+predict the future performance of such unit in light of extraordinary circumstances.  For the 
+purposes of this Schedule, the average EFOR D shall be the average of the capacity-weighted 
+EFORDs of all units committed to serve load in the PJM Region; and for purposes of the EFOR D 
+calculations under this Paragraph C outages deemed to be outside plant management control in 
+accordance with NERC guidelines shall be considered.  All rates shall be in percent. 
+ 
+1. The EFOR D of a unit not yet in service or which has been in service less than one 
+full calendar year at the time of forecast shall be the class average rate for units 
+with that capability and of that type, as estimated and used in the calculation of 
+the Forecast Pool Requirement. 
+ 
+2. The EFOR D of a unit in service five or more full calendar years at the time of 
+forecast shall be the average rate experienced by such unit during the five most 
+recent calendar years.  Historical data shall be based on official reports of the 
+Parties under rules and practices developed by the Office of Interconnection and 
+maintained in the PJM Manuals. 
+ 
+3. The EFOR D of a unit in service at least one full calendar year but less than five 
+full calendar years at the time of the forecast shall be determined as follows: 
+ 
+ Full Calendar 
+ Years of Service 
+ 
+1 One-fifth the rate experienced during the calendar year, 
+plus four-fifths the class average rate. 
+ 
+2 Two-fifths the average rate experienced during the two 
+calendar years, plus three-fifths the class average rate. 
+ 
+3 Three-fifths the average rate experienced during the three 
+calendar years, plus two-fifths the class average rate. 
+ 
+4 Four-fifths the average rate experienced during the four 
+calendar years, plus one-fifth the class average rate. 
+

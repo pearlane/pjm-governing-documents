@@ -1,0 +1,1137 @@
+[SCHEDULE 1 SECTION 1-MARKET OPERATIONS - Part 1 of 4]
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.1 Introduction 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+1.1 Introduction. 
+ 
+This Schedule sets forth the scheduling, other procedures, and certain general provisions 
+applicable to the operation of the PJM Interchange Energy Market within the PJM Region.  This 
+Schedule addresses each of the three time-frames pertinent to the daily operation of the PJM 
+Interchange Energy Market:  Prescheduling, Scheduling, and Dispatch.  This schedule also 
+addresses the settlement of transactions in the single PJM Interchange Energy Market at two 
+component settlement prices:  Day-Ahead prices and Real-Time prices.   
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.2 Cost-based Offers 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+1.2 Cost-based Offers.  
+ 
+Unless otherwise specified in this Agreement, all cost-based offers for energy or other services to 
+be sold on the PJM Interchange Energy Market from generating resources shall not exceed the 
+variable cost of producing such energy or other service, as determined in accordance with 
+Schedule 2 to this Agreement and applicable regulatory standards, requirements and 
+determinations; provided that, a Market Seller may offer to the PJM Interchange Energy Market 
+the right to call on energy from a resource the output of which has been sold on a bilateral basis, 
+with the rate for such energy if called equal to the curtailment rate specified in the bilateral 
+contract. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.2A Transmission Losses 
+Effective Date: 8/1/2012 - Docket #: EL12-71-001 - Page 1 
+1.2A Transmission Losses. 
+ 
+1.2A.1  Description of Transmission Losses. 
+ 
+Transmission losses refer to the loss of energy in the transmission of electricity from generation 
+resources to load, which is dissipated as heat through transformers, transmission lines and other 
+transmission facilities. 
+ 
+1.2A.2  Inclusion of Transmission Losses. 
+ 
+Whenever in this Schedule 1, transmission losses are included in the determination of a charge, 
+credit, load (including deviations), or demand reduction, it is explicitly so stated and such 
+included losses shall be those losses incurred on all Transmission Facilities (to facilitate such 
+calculation, Transmission Owners shall ensure that all such facilities are included in the PJM 
+network model) and those losses incurred on generator step-up transformers that a Market Seller 
+has not elected to remove from the loss calculation.  Absent such explicit statement, such losses 
+are not included in the determination. 
+ 
+1.2A.3  Other Losses. 
+ 
+Losses incurred on facilities other than those addressed in the preceding section may be included 
+in the determination of charges, credits, load (including real-time deviations) or demand 
+reductions, as determined by electric distribution companies, unless this Schedule explicitly 
+excludes such losses. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.3 Definitions 
+Effective Date: 3/1/2017 - Docket #: ER18-71-000 - Page 1 
+1.3 [Reserved for Future Use] 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4 Market Buyers. 
+Effective Date: 5/8/2023 - Docket #: ER23-1265-000 - Page 1 
+1.4 Market Participant. 
+ 
+1.4.1 Qualification. 
+ 
+(a) To become a Market Participant, an Applicant shall submit an application to the Office of 
+the Interconnection, in such form as shall be established by the Office of the Interconnection, and 
+such further information detailed in Tariff, Attachment Q. 
+ 
+(b) An Applicant that is or will be a Load Serving Entity or that will purchase on behalf of or 
+for ultimate delivery to a Load Serving Entity shall establish to the satisfaction of the Office of 
+the Interconnection that the end-users that will be served through energy and related services 
+purchased in the PJM Interchange Energy Market, are located electrically within the PJM 
+Region, or will be brought within the PJM Region prior to any purchases from the PJM 
+Interchange Energy Market.  Such Applicant shall further demonstrate that:  
+ 
+i) The Load Serving Entity for the end users is or will be obligated to meet 
+the requirements of the Reliability Assurance Agreement, as applicable; and  
+ 
+ii) The Load Serving Entity for the end users has or will have arrangements 
+in place for Network Transmission Service or Point-To-Point Transmission 
+Service for all PJM Interchange Energy Market purchases. 
+ 
+(c) An Applicant that is a Market Buyer and is not a Load Serving Entity or purchasing on 
+behalf of or for ultimate delivery to a Load Serving Entity shall demonstrate that: 
+ 
+i) The Applicant has obtained or will obtain Network Transmission Service 
+or Point-to-Point Transmission Service for all PJM Interchange Energy Market 
+purchases; and 
+ 
+ii) The Applicant’s PJM Interchange Energy Market purchases will 
+ultimately be delivered to a load in another Control Area that is recognized by 
+NERC and that complies with NERC’s standards for operating and planning 
+reliable bulk electric systems. 
+ 
+(d) An Applicant shall not be required to obtain transmission service for purchases from the 
+PJM Interchange Energy Market to cover quantity deviations from its sales in the Day-ahead 
+Energy Market. 
+ 
+(e) An Applicant applying to become a Market Participant shall demonstrate that it: 
+ 
+i) is capable of complying with all applicable metering, data storage and 
+transmission, and other reliability, operation, planning and accounting standards 
+and requirements for the operation of the PJM Region and the PJM Markets, as 
+applicable; 
+ 
+ii) meets the creditworthiness standards established by the Office of the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4 Market Buyers. 
+Effective Date: 5/8/2023 - Docket #: ER23-1265-000 - Page 2 
+Interconnection and/or PJMSettlement, or has provided cash or a Credit Support 
+Document acceptable to the Office of the Interconnection and/or PJMSettlement; 
+and 
+ 
+iii) has paid all applicable fees and reimbursed the Office of the 
+Interconnection and/or PJMSettlement for all unusual or extraordinary costs of 
+processing and evaluating its application to become a Market Participant, and has 
+agreed in its application to subject any disputes arising from its application to the 
+PJM Dispute Resolution Procedures. 
+ 
+(f) The Applicant shall become a Market Participant upon a final favorable determination on 
+its application by the Office of the Interconnection as specified below, which determination shall 
+be made by the Office of the Interconnection in conjunction with input from PJMSettlement, and 
+execution by the Applicant of counterparts of this Agreement. 
+ 
+1.4.2 Submission of Information. 
+ 
+The Applicant shall furnish all information reasonably requested by the Office of the 
+Interconnection and/or PJMSettlement in order to determine the Applicant’s qualification to be a 
+Market Participant and whether the entity should be allowed to remain a Market Participant.  The 
+Office of the Interconnection and/or PJMSettlement may waive the submission of information 
+relating to any of the foregoing criteria, to the extent the information in the Office of the 
+Interconnection’s and/or PJMSettlement’s possession is sufficient to evaluate the application 
+against such criteria. 
+ 
+1.4.3 Fees and Costs. 
+ 
+The Office of the Interconnection shall require all Applicants seeking to become a Market 
+Participant to pay a uniform application fee, initially in the amount of $2,000, to defray the 
+ordinary costs of processing such applications.  The application fee shall be revised from time to 
+time as the Office of the Interconnection shall determine to be necessary to recover its ordinary 
+costs of processing applications.  Any unusual or extraordinary costs incurred by the Office of 
+the Interconnection in processing an application shall be reimbursed by the Applicant. 
+ 
+1.4.4 Office of the Interconnection Determination. 
+ 
+Upon submission of the information specified above, and such other information as shall 
+reasonably be requested by the Office of the Interconnection and/or PJMSettlement, the Office of 
+the Interconnection and/or PJMSettlement shall undertake an evaluation to determine whether 
+the Applicant meets the criteria specified above, and in accordance with Tariff, Attachment Q.   
+ 
+As soon as practicable, but in any event not later than ninety (90) days after submission of the 
+foregoing information, or such later date as may be necessary to satisfy the requirements of the 
+Agreements, the Office of the Interconnection shall notify the Applicant and the Members 
+Committee of its determination, along with a written summary of the basis for the determination, 
+and whether there are any actions the Applicant can take that might cause the Office of the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4 Market Buyers. 
+Effective Date: 5/8/2023 - Docket #: ER23-1265-000 - Page 3 
+Interconnection to change its determination, including but not limited to providing even further 
+supplemental information, providing additional Restricted Collateral, the discontinuance of 
+certain behaviors, implementing additional monitoring, and implementing of process or policy 
+changes.  The Office of the Interconnection and/or PJMSettlement shall respond promptly to any 
+reasonable and timely request by an Applicant or a Member for additional information regarding 
+the basis for the Office of the Interconnection’s determination, and shall take such action as it 
+shall deem appropriate in response to any request for reconsideration or other action submitted to 
+the Office of the Interconnection not later than thirty (30) calendar days from the initial 
+notification to the Members Committee. Notifications to the Members Committee shall be in 
+compliance with Operating Agreement, section 18.17.1. 
+ 
+1.4.5 Existing Participants. 
+ 
+A Member that was previously qualified to participate as a Market Participant shall not 
+automatically continue to be qualified to participate as a Market Participant under the 
+Agreements. Rather, in order to retain its eligibility to continue to participate as a Market 
+Participant in the PJM Markets, a Market Participant shall be subject to the requirements and 
+ongoing risk evaluation in accordance with Tariff, Attachment Q. 
+ 
+1.4.6 Withdrawal. 
+ 
+(a) An Internal Market Buyer that is a Load Serving Entity may withdraw from this 
+Agreement by giving written notice to the Office of the Interconnection specifying an effective 
+date of withdrawal not earlier than the effective date of (i) its withdrawal from the Reliability 
+Assurance Agreement, or (ii) the assumption of its obligations under the Reliability Assurance 
+Agreement by an agent that is a Market Buyer. 
+ 
+(b) An External Market Buyer or an Internal Market Buyer that is not a Load Serving Entity 
+may withdraw from this Agreement by giving written notice to the Office of the Interconnection 
+specifying an effective date of withdrawal at least one day after the date of the notice. 
+ 
+(c) Withdrawal from this Agreement shall not relieve a Market Participant of any obligation 
+to pay for electric energy or related services purchased from the PJM Markets prior to such 
+withdrawal, to pay its share of any fees and charges incurred or assessed by the Office of the 
+Interconnection and/or PJMSettlement prior to the date of such withdrawal, maintain and/or 
+provide sufficient credit support until all of its transactions in the PJM Markets have been 
+satisfied, or to fulfill any obligation to provide indemnification for the consequences of acts, 
+omissions or events occurring prior to such withdrawal; and provided, further, that withdrawal 
+from this Agreement shall not relieve any Market Participant of any obligations it may have 
+under, or constitute withdrawal from, any other Related PJM Agreement. 
+ 
+(d) A Market Participant that has withdrawn from this Agreement may reapply to become a 
+Market Participant in accordance with the provisions of this section 1.4, provided it is not in 
+default of any obligation incurred under the Agreements. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4 Market Buyers. 
+Effective Date: 5/8/2023 - Docket #: ER23-1265-000 - Page 4 
+1.4.7 Limitation, Suspension, and Termination. 
+ 
+The Office of the Interconnection requires that Market Participants certify and provide 
+information required and requested by the Office of the Interconnection and/or 
+PJMSettlement at least annually as indicated in section 1.4.1, 1.4.2 and 1.4.4 above and 
+Tariff, Attachment Q.  If the Office of the Interconnection determines that the entity no 
+longer satisfies its requirements to be a Market Participant, the Office of the Interconnection 
+may limit and/or suspend that entity’s activity in the PJM Markets until such time as it can 
+satisfy the requirements, and if the requirements are not satisfied the Office of the 
+Interconnection may terminate that entity’s approval to be a Market Participant.  As soon as 
+practicable, the Office of the Interconnection shall notify the entity and the Members 
+Committee of its determination, along with a written summary of the basis for the 
+determination, and whether there are any actions the entity can take that might cause the 
+Office of the Interconnection to change its determination, including but not limited to 
+providing even further additional information, providing additional Restricted Collateral, the 
+discontinuance of certain behaviors, implementing additional monitoring, and implementing 
+of process or policy changes. The Office of the Interconnection shall respond promptly to 
+any reasonable and timely request by a Member for additional information regarding the 
+basis for the Office of the Interconnection’s determination, and shall take such action as it 
+shall deem appropriate in response to any request for reconsideration or other action 
+submitted to the Office of the Interconnection not later than thirty (30) calendar days from 
+the initial notification to the Members Committee.  Notifications to the Members Committee 
+shall be in compliance with Operating Agreement, section 18.17.1. 
+ 
+1.4.8.  Re-entry of Defaulting Market Participant.  
+ 
+An Applicant who previously defaulted on any obligations owed to PJM and/or PJMSettlement 
+that resulted in a loss to any PJM Market which was never cured, or who is not eligible for 
+reinstatement to PJM membership pursuant to Operating Agreement, section 15.1, shall not be 
+allowed to re-enter the PJM Markets.  In addition, PJM will evaluate relevant factors to 
+determine if an Applicant seeking to participate in the PJM Markets under a different name, 
+affiliation, or organization should be treated as the same Market Participant that experienced a 
+previous default that resulted in a loss to the PJM Markets under this provision. Such factors 
+may include, but are not limited to, the interconnectedness of the business relationships, overlap 
+in relevant personnel, similarity of business activities, overlap of customer base, and the 
+business engaged in prior to the attempted re-entry. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> 
+OA  SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4A Energy Storage Resource 
+Participation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-004 - Page 1 
+1.4A Energy Storage Resource Participation Model.  
+ 
+1.4A.1 Qualification. 
+ 
+ (a) An Energy Storage Resource may opt into and out of the Energy Storage 
+Resource Participation Model on an annual basis, in accordance with the procedures and 
+processes defined in the PJM Manuals. 
+ 
+(b) Energy that an Energy Storage Resource Model Participant purchases 
+from the PJM Interchange Energy Market must be Direct Charging Energy. 
+ 
+(c) An Energy Storage Resource utilizing the Energy Storage Resource 
+Participation Model shall arrange for Network Transmission Service or Point-to-Point 
+Transmission Service for purchases of Non-Dispatched Charging Energy.  Network 
+Transmission Service and Point-to-Point Transmission Service are not required for 
+purchases of Dispatched Charging Energy. 
+ 
+(d) Energy Storage Resource Model Participants shall be eligible to be dispatched 
+for positive and negative megawatts as otherwise applicable, to set price at positive and 
+negative megawatt points on their offer curve as otherwise applicable, and to self-
+schedule positive and negative megawatt quantities, pursuant to the requirements of the 
+PJM Manuals.  Energy Storage Resources in Continuous Mode shall specify a single 
+energy offer curve with monotonically increasing dollar values including both positive 
+and negative megawatt quantities.  
+ 
+(e) Energy Storage Resource Model Participants shall be responsible for their own 
+State of Charge Management, provided that they must comply with PJM operational 
+orders regardless of the incidental impact on State of Charge. 
+ 
+(f) Energy Storage Resource Model Participants may offer quantities (including 
+charging and discharging) equivalent to 0.1 MW or greater into all applicable PJM 
+markets. 
+ 
+(g) In order to properly distinguish Direct Charging Energy from Load Serving 
+Charging Energy, Energy Storage Resources that are distribution-connected or co-located 
+with end-use load shall include systems that are capable of measuring the below 
+categories of electric energy, unless a different configuration is agreed to by the electric 
+distribution company, the Energy Storage Resource, and PJM. The categories are: i) 
+electric energy that is withdrawn from the grid and stored in the Energy Storage 
+Resource; ii) electric energy that is generated on-site by a resource other than the Energy 
+Storage Resource (if any exists) and stored in the Energy Storage Resource; iii) electric 
+energy that is discharged by the Energy Storage Resource and injected onto the grid; iv) 
+electric energy that is discharged from the Energy Storage Resource and consumed by 
+on-site end-use load that is not Station Power (if any such on-site end-use load exists). 
+The measurement systems shall comply with the accuracy requirements for meters as 
+described in the PJM Manual 01. Additional details for the configuration of such 
+measurement systems under various specific configurations are specified in PJM Manual 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> 
+OA  SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4A Energy Storage Resource 
+Participation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-004 - Page 2 
+14D. 
+ 
+If the distribution utility is unwilling or unable to net out from the host customer’s retail 
+bill Direct Charging Energy associated with an Energy Storage Resource that is 
+distribution-connected or co-located with end-use load that is not Station Power, PJM 
+shall not bill the Energy Storage Resource for any Direct Charging Energy. 
+Energy Storage Resources shall only be credited for sale transactions of electric energy in 
+PJM markets if that same sale transaction of electric energy is not also credited at retail. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4B DER Aggregator Participation Model 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+1.4B DER Aggregator Participation Model 
+ 
+ (a) DER Aggregators providing capacity using a DER Capacity Aggregation Resource 
+shall be subject to the Day-ahead Energy Market must-offer requirement described in Tariff, 
+Attachment K-Appendix, section 1.10.1A(d) and Operating Agreement, Schedule 1, section 
+1.10.1A(d), based on the technology of the Component DER within the DER Aggregation 
+Resource linked to the DER Capacity Aggregation Resource, in accordance with the PJM Manuals. 
+ 
+ (b) DER Aggregation Resources are subject to offer price cap and associated three 
+pivotal supplier test provisions of Operating Agreement, Schedule 1, section 6.4. 
+ 
+ (c) A DER Capacity Aggregation Resource shall be subject to a MOPR Floor Offer 
+Price in accordance with the provisions applicable to MOPR Floor Offer Price for Generation 
+Capacity Resources, as described in Tariff, Attachment DD, section 5.14(h-2), and Market Seller 
+Offer Cap for Generation Capacity Resources in a manner consistent with the provisions applicable 
+to Market Seller Offer Cap for Generation Capacity Resources, as described in Tariff, Attachment 
+DD, section 6.4 and Tariff, Attachment M-Appendix, section II.E, based on the underlying 
+technology of the Component DER. 
+ 
+A DER Capacity Aggregation Resource may segment offers for the Component DER subject to 
+mitigation, based on the underlying technology of the Component DER in the DER Capacity 
+Aggregation Resource, and further described in the PJM Manuals.  
+   
+If a DER Capacity Aggregation Resource is subject to the Minimum Floor Offer Price pursuant to 
+Tariff, Attachment DD, sections 5.14(h-2), the Capacity Market Seller that owns or controls such 
+resources may submit a Sell Offer with a Minimum Floor Offer Price of no lower than the MW-
+weighted average of the applicable MOPR Floor Offer Prices (zero if not applicable) of the 
+aggregated resources in such Sell Offer.   
+ 
+ (d) Projected PJM Market Revenues for DER Capacity Aggregation Resources 
+subject to the Minimum Floor Offer Price or Market Seller Offer Cap shall be determined in 
+accordance with Tariff, Attachment DD, section 6.8(d-1).  The determination of PJM Market 
+Revenues by the Market Monitoring Unit or the Office of the Interconnection shall utilize either 
+the hourly output profiles, or the Projected EAS Dispatch, as appropriate. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4C Participation of Hybrid Resources 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+1.4C Participation of Hybrid Resources. 
+Hybrid Resources may participate in markets according to the following provisions in this 
+section 1.4C, as further detailed in the PJM Manuals. Hybrid Resources are settled in markets as 
+a single unit. 
+(a) Energy that the Market Participant of an Open-Loop Hybrid Resource purchases from the 
+PJM Interchange Energy Market for charging the storage component must be Direct Charging 
+Energy.  Direct Charging Energy shall not be purchased for charging the storage component of 
+Closed-Loop Hybrid Resources. 
+(b) The Market Participant of a Hybrid Resource with a storage component capable of charging 
+from the grid shall arrange for Network Integration Transmission Service or Point-to-Point 
+Transmission Service for purchases of Non-Dispatched Charging Energy.  Network Integration 
+Transmission Service and Point-to-Point Transmission Service are not required for purchases of 
+Dispatched Charging Energy. 
+(c) Hybrid Resources shall be eligible to be dispatched for positive megawatts as otherwise 
+applicable, to set price at positive megawatt points on their offer curve as otherwise applicable, 
+and to self-schedule positive megawatt quantities, pursuant to the requirements of the PJM 
+Manuals.  Such Hybrid Resources shall specify a single energy offer curve with monotonically 
+increasing dollar values.  Open-Loop Hybrid Resources shall be eligible to be dispatched for 
+negative megawatts (i.e., charging) as otherwise applicable, to set price at negative megawatt 
+points on their offer curve as otherwise applicable, and to self-schedule negative megawatt 
+quantities, pursuant to the requirements of the PJM Manuals.  In addition, such Hybrid 
+Resources operating in Continuous Mode shall specify a single energy offer curve with 
+monotonically increasing dollar values including both positive and negative megawatt quantities. 
+(d) Hybrid Resources with a storage component shall be responsible for management of their 
+own State of Charge, provided that they must comply with PJM operational orders regardless of 
+the incidental impact on State of Charge. 
+(e) Hybrid Resources may offer quantities equivalent to 0.1 MW or greater into all applicable 
+PJM markets. 
+(f) For a Hybrid Resource with a variable resource component and a storage component: during 
+intervals in which the storage component is not actively managing the net output of such 
+resource, the Market Participant of such resource shall indicate such status to PJM. 
+(g) In order to properly distinguish Direct Charging Energy from Load Serving Charging Energy, 
+Open-Loop Hybrid Resources that are distribution-connected or co-located with end-use load 
+shall include systems that are capable of measuring the below categories of electric energy, 
+unless a different configuration is agreed to by the electric distribution company, the Energy 
+Storage Resource, and PJM.  The categories are:  i) electric energy that is withdrawn from the 
+grid and stored in the energy storage component;  ii) electric energy that is generated on-site by a 
+resource other than the energy storage component and stored in the energy storage component;  
+iii) electric energy that is discharged by the energy storage component and injected onto the grid;  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4C Participation of Hybrid Resources 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 2 
+and iv) electric energy that is discharged from the energy storage component and consumed by 
+on-site end-use load that is not Station Power (if any such on-site end-use load exists).  The 
+measurement systems shall comply with the accuracy requirements for meters as described in 
+PJM Manual 01.  Additional details for the configuration of such measurement systems under 
+various specific configurations are specified in PJM Manual 14D. 
+If the distribution utility is unwilling or unable to net out from the host customer’s retail bill 
+Direct Charging Energy associated with an Open-Loop Hybrid Resource that is distribution-
+connected or co-located with end-use load that is not Station Power, then PJM shall not bill the 
+corresponding Market Participant for any Direct Charging Energy. 
+Market Participants shall only be credited for sale transactions in PJM markets of electric energy 
+produced from Open-Loop Hybrid Resources if that same sale transaction of electric energy is 
+not also credited at retail. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.4D Participation of Mixed Technology Fac 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+1.4D Participation of Mixed Technology Facilities. 
+A Mixed Technology Facility with components that are physically incapable of operating 
+independently are modeled and participate in capacity and energy markets as a single Hybrid 
+Resource.  A Mixed Technology Facility with a non-inverter generation component and an 
+intermittent component is eligible to participate as Co-Located Resources only. 
+For a Mixed Technology Facility that is eligible to participate in capacity and energy 
+markets as either a Hybrid Resource or as multiple Co-Located Resources, the modeling 
+classification chosen for the energy market and capacity market modeling shall match for the 
+applicable Delivery Year. 
+The Co-Located Resources at a single Mixed Technology Facility participate as separate 
+resources with separate market offers and settlements. 
+For a Mixed Technology Facility within the new resource queue process, the modeling 
+choice must be made with notice to the Office of the Interconnection no later than six (6) months 
+in advance of its initial start in the energy markets. 
+ For an existing Mixed Technology Facility that has no components that participate in the 
+capacity market, and that is eligible to participate in the energy markets as either a Hybrid 
+Resource or as multiple Co-Located Resources, the modeling classification can be changed once 
+per calendar year with notice to PJM by no later than May 30 for the upcoming January 1 to 
+December 31 participation months.  Once a status is chosen, it remains until another request is 
+received.   
+ For a Mixed Technology Facility that has components that participate in the capacity 
+market, and that is eligible to participate in the capacity market as either a Hybrid Resource or as 
+multiple Co-Located Resources, the modeling classification election must be indicated pursuant 
+to the rules outlined in RAA, Schedule 9.2. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5 Market Sellers 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+1.5 Market Sellers. 
+ 
+1.5.1 Qualification. 
+ 
+A Member that demonstrates to the Office of the Interconnection that the Member meets the 
+standards for the issuance of an order mandating the provision of transmission service under 
+section 211 of the Federal Power Act, as amended by the Energy Policy Act of 1992, may 
+become a Market Seller upon execution of this Agreement and submission to the Office of the 
+Interconnection of the applicable Offer Data in accordance with the provisions of this Schedule.  
+All Members that are Market Buyers shall become Market Sellers upon submission to the Office 
+of the Interconnection of the applicable Offer Data in accordance with the provisions of this 
+Schedule.  
+ 
+1.5.2 Withdrawal. 
+ 
+(a) A Market Seller may withdraw from this Agreement by giving written notice to the 
+Office of the Interconnection specifying an effective date of withdrawal at least one day after the 
+date of the notice; provided, however, that withdrawal shall not relieve a Market Seller of any 
+obligation to deliver electric energy or related services to the PJM Interchange Energy Market 
+pursuant to an offer made prior to such withdrawal, to pay its share of any fees and charges 
+incurred or assessed by PJMSettlement, on behalf of itself or the Office of the Interconnection 
+prior to the date of such withdrawal, or to fulfill any obligation to provide indemnification for the 
+consequences of acts, omissions, or events occurring prior to such withdrawal; and provided, 
+further, that withdrawal shall not relieve any entity that is a Market Seller and is also a Market 
+Buyer of any obligations it may have as a Market Buyer under, or constitute withdrawal as a 
+Market Buyer from, this Agreement or any other Related PJM Agreement. 
+ 
+(b) A Market Seller that has withdrawn from this Agreement may reapply to become a 
+Market Seller at any time, provided it is not in default with respect to any obligation incurred 
+under this Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 1 
+1.5A Economic Load Response Participant. 
+ 
+As used in this section 1.5A, the term “end-use customer” refers to an individual location or 
+aggregation of locations that consume electricity as identified by a unique electric distribution 
+company account number. 
+ 
+1.5A.1 Qualification. 
+ 
+A Member or Special Member that is an end-use customer, Load Serving Entity or Curtailment 
+Service Provider that has the ability to cause a reduction in demand as metered on an electric 
+distribution company account basis (or for non-interval metered residential Direct Load Control 
+customers, as metered on a statistical sample of electric distribution company accounts utilizing 
+current data, as described in the PJM Manuals) or has an On-Site Generator that enables demand 
+reduction may become an Economic Load Response Participant by complying with the 
+requirements of the applicable Relevant Electric Retail Regulatory Authority and all other 
+applicable federal, state and local regulatory entities together with this section 1.5A including, 
+but not limited to, section 1.5A.3 below.  A Member or Special Member may aggregate multiple 
+individual end-use customer sites to qualify as an Economic Load Response Participant, subject 
+to the requirements of section 1.5A.10 below. 
+ 
+1.5A.2 Special Member. 
+ 
+Entities that are not Members and desire to participate solely in the Real-time Energy Market by 
+reducing demand may become a Special Member by paying an annual membership fee of $500 
+plus 10% of each payment owed by PJMSettlement for a Load Reduction Event not to exceed 
+$5,000 in a calendar year.  For entities that become Special Members pursuant to this section, the 
+following obligations are waived:  (i) the $1,500 membership application fee set forth in 
+Operating Agreement, Schedule 1, section 1.4.3 and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.4.3; (ii) liability under Operating Agreement, section 15.2 for Member 
+defaults; (iii) thirty days notice for waiting period; and (iv) the requirement for 24/7 control 
+center coverage.  In addition, such Members shall not have voting privileges in committees or 
+sector designations, and shall not be permitted to form user groups.  On January 1 of a calendar 
+year, a Special Member under this section, at its sole election, may become a Member rather than 
+a Special Member subject to all rules governing being a Member, including regular application 
+and membership fee requirements. 
+ 
+1.5A.3 Registration. 
+ 
+1. Prior to participating in the PJM Interchange Energy Market or Ancillary Services 
+Market, Economic Load Response Participants must complete either the Economic Load 
+Response or Economic Load Response Regulation Only Registration Form posted on the Office 
+of the Interconnection’s website and submit such form to the Office of the Interconnection for 
+each end-use customer, or aggregation of end-use customers, pursuant to the requirements set 
+forth in the PJM Manuals.  The Curtailment Service Provide shall not include Critical Natural 
+Gas Infrastructure end-use customers in the registration.  Notwithstanding the below sub-
+provisions, Economic Load Response Regulation Only registrations and Economic Load 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 2 
+Response residential customer registrations not participating in the Day-ahead Energy Market 
+will not require the identification of the relevant Load Serving Entity, nor will such relevant 
+Load Serving Entity be notified of such registration or requested to verify such registration.  All 
+other below sub-provisions apply equally to Economic Load Response Regulation Only 
+registrations, and Economic Load Response residential customer registrations not participating in 
+the Day-ahead Energy Market, as well as Economic Load Response registrations. 
+ 
+ a. For end-use customers of an electric distribution company that distributed more 
+than 4 million MWh in the previous fiscal year: 
+ 
+i. After confirming that an entity has met all of the qualifications to be an Economic 
+Load Response Participant, the Office of the Interconnection shall notify the  
+relevant electric distribution company or Load Serving Entity, as determined 
+based upon the type of registration submitted (i.e., either an Economic Load 
+Response registration, Economic Load Response residential customer 
+registrations not participating in the Day-ahead Energy Market,  or an Economic 
+Load Response Regulation Only registration), of an Economic Load Response 
+Participant’s registration and request verification as to whether the load that may 
+be reduced is subject to another contractual obligation or to laws or regulations of 
+the Relevant Electric Retail Regulatory Authority that prohibit or condition the 
+end-use customer’s participation in PJM’s Economic Load Response Program.  
+The relevant electric distribution company or Load Serving Entity shall have ten 
+Business Days to respond.  A relevant electric distribution company or Load 
+Serving Entity which seeks to assert that the laws or regulations of the Relevant 
+Electric Retail Regulatory Authority prohibit or condition (which condition the 
+electric distribution company or Load Serving Entity asserts has not been 
+satisfied) the end-use customer's participation in PJM’s Economic Load Response 
+program shall provide to PJM, within the referenced ten Business Day review 
+period, either:  (a) an order, resolution or ordinance of the Relevant Electric Retail 
+Regulatory Authority prohibiting or conditioning the end-use customer's 
+participation, (b) an opinion of the Relevant Electric Retail Regulatory 
+Authority’s legal counsel attesting to the existence of a regulation or law 
+prohibiting or conditioning the end-use customer's participation, or (c) an opinion 
+of the state Attorney General, on behalf of the Relevant Electric Retail Regulatory 
+Authority, attesting to the existence of a regulation or law prohibiting or 
+conditioning the end-use customer's participation. 
+ 
+ii. In the absence of a response from the relevant electric distribution company or 
+Load Serving Entity within the referenced ten Business Day review period, the 
+Office of the Interconnection shall assume that the load to be reduced is not 
+subject to other contractual obligations or to laws or regulations of the Relevant 
+Electric Retail Regulatory Authority that prohibit or condition the end-use 
+customer’s participation in PJM’s Economic Load Response Program, and the 
+Office of the Interconnection shall accept the registration, provided it meets the 
+requirements of this section 1.5A. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 3 
+ b. For end-use customers of an electric distribution company that distributed  4 
+million MWh or less in the previous fiscal year: 
+ 
+i. After confirming that an entity has met all of the qualifications to be an Economic 
+Load Response Participant, the Office of the Interconnection shall notify the 
+relevant electric distribution company or Load Serving Entity, as determined 
+based upon the type of registration submitted (i.e., either an Economic Load 
+Response registration, Economic Load Response residential customer 
+registrations not participating in the Day-ahead Energy Market,  or an Economic 
+Load Response Regulation Only registration), of an Economic Load Response 
+Participant’s registration and request verification as to whether the load that may 
+be reduced is permitted to participate in PJM’s Economic Load Response 
+Program.  The relevant electric distribution company or Load Serving Entity shall 
+have ten Business Days to respond.  If the relevant electric distribution company 
+or Load Serving Entity verifies that the load that may be reduced is permitted or 
+conditionally permitted (which condition the electric distribution company or 
+Load Serving Entity asserts has been satisfied) to participate in the Economic 
+Load Response Program, then the electric distribution company or the Load 
+Serving Entity must provide to the Office of the Interconnection within the 
+referenced ten Business Day review period evidence from the Relevant Electric 
+Retail Regulatory Authority permitting or conditionally permitting the Economic 
+Load Response Participant to participate in the Economic Load Response 
+Program.  Evidence from the Relevant Electric Retail Regulatory Authority 
+permitting the Economic Load Response Participant to participate in the 
+Economic Load Response Program shall be in the form of either: (a) an order, 
+resolution or ordinance of the Relevant Electric Retail Regulatory Authority 
+permitting or conditionally permitting the end-use customer's participation, (b) an 
+opinion of the Relevant Electric Retail Regulatory Authority’s legal counsel 
+attesting to the existence of a regulation or law permitting or conditionally 
+permitting the end-use customer's participation, or (c) an opinion of the state 
+Attorney General, on behalf of the Relevant Electric Retail Regulatory Authority, 
+attesting to the existence of a regulation or law permitting or conditionally 
+permitting the end-use customer's participation. 
+ 
+ii. In the absence of a response from the relevant electric distribution company or 
+Load Serving Entity within the referenced ten Business Day review period, the 
+Office of the Interconnection shall reject the registration.  If it is able to do so in 
+compliance with this section 1.5A, including this subsection 1.5A.3, the 
+Economic Load Response Participant may submit a new registration for 
+consideration if a prior registration has been rejected pursuant to this subsection. 
+ 
+2. In the event that the end-use customer is subject to another contractual obligation, special 
+settlement terms may be employed to accommodate such contractual obligation.  The Office of 
+the Interconnection shall notify the end-use customer or appropriate Curtailment Service 
+Provider, or relevant electric distribution company and/or Load Serving Entity that the Economic 
+Load Response Participant has or has not met the requirements of this section 1.5A.  An end-use 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 4 
+customer that desires not to be simultaneously registered to reduce demand under the Emergency 
+Load Response and Pre-Emergency Load Response Programs and under this section, upon one-
+day advance notice to the Office of the Interconnection, may switch its registration for reducing 
+demand, if it has been registered to reduce load for 15 consecutive days under its current 
+registration. 
+ 
+1.5A.3.01 Economic Load Response Registrations in Effect as of August 28, 2009 
+ 
+1. For end-use customers of an electric distribution company that distributed more than 4 
+million MWh in the previous fiscal year: 
+ 
+ a. Effective as of the later of either August 28, 2009 (the effective date of Wholesale 
+Competition in Regions with Organized Electric Markets, Order 719-A, 128 FERC ¶ 61,059 
+(2009) (“Order 719-A”)) or the effective date of a Relevant Electric Retail Regulatory Authority 
+law or regulation prohibiting or conditioning (which condition the electric distribution company 
+or Load Serving Entity asserts has not been satisfied) the end-use customer’s participation in 
+PJM’s Economic Load Response Program, the existing Economic Load Response Participant’s 
+registration submitted to the Office of the Interconnection prior to August 28, 2009, will be 
+deemed to be terminated upon an electric distribution company or Load Serving Entity 
+submitting to the Office of the Interconnection either:  (a) an order, resolution or ordinance of the 
+Relevant Electric Retail Regulatory Authority prohibiting or conditioning the end-use customer’s 
+participation, (b) an opinion of the Relevant Electric Retail Regulatory Authority’s legal counsel 
+attesting to the existence of a regulation or law prohibiting or conditioning the end-use 
+customer’s participation, or (c) an opinion of the state Attorney General, on behalf of the 
+Relevant Electric Retail Regulatory Authority, attesting to the existence of a regulation or law 
+prohibiting or conditioning the end-use customer’s participation.   
+ 
+i. For registrations terminated pursuant to this section, all Economic Load 
+Response Participant activity incurred prior to the termination date of the 
+registration shall be settled by PJMSettlement in accordance with the terms and 
+conditions contained in the PJM Tariff, PJM Operating Agreement and PJM 
+Manuals. 
+ 
+2. For end-use customers of an electric distribution company that distributed 4 million 
+MWh or less in the previous fiscal year: 
+ 
+ a. Effective as of August 28, 2009 (the effective date of Order 719-A), an existing 
+Economic Load Response Participant's registration submitted to the Office of the Interconnection 
+prior to August 28, 2009, will be deemed to be terminated unless an electric distribution 
+company or Load Serving Entity verifies that the existing registration is permitted or 
+conditionally permitted (which condition the electric distribution company or Load Serving 
+Entity asserts has been satisfied) to participate in the Economic Load Response Program and 
+provides evidence to the Office of the Interconnection documenting that the permission or 
+conditional permission is pursuant to the laws or regulations of the Relevant Electric Retail 
+Regulatory Authority.  If the electric distribution company or Load Serving Entity verifies that 
+the existing registration is permitted or conditionally permitted (which condition the electric 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 5 
+distribution company or Load Serving Entity asserts has been satisfied) to participate in the 
+Economic Load Response Program, then, within ten Business Days of verifying such permission 
+or conditional permission, the electric distribution company or Load Serving Entity must provide 
+to the Office of the Interconnection evidence from the Relevant Electric Retail Regulatory 
+Authority permitting or conditionally permitting the Economic Load Response Participant to 
+participate in the Economic Load Response Program.  Evidence from the Relevant Electric 
+Retail Regulatory Authority permitting or conditionally permitting the Economic Load Response 
+Participant to participate in the Economic Load Response Program shall be in the form of either: 
+(a) an order, resolution or ordinance of the Relevant Electric Retail Regulatory Authority 
+permitting or conditionally permitting the end-use customer’s participation, (b) an opinion of the 
+Relevant Electric Retail Regulatory Authority’s legal counsel attesting to the existence of a 
+regulation or law permitting or conditionally permitting the end-use customer’s participation, or 
+(c) an opinion of the state Attorney General, on behalf of the Relevant Electric Retail Regulatory 
+Authority, attesting to the existence of a regulation or law permitting or conditionally permitting 
+the end-use customer’s participation. 
+ 
+i. For registrations terminated pursuant to this section, all Economic Load 
+Response Participant activity incurred prior to the termination date of the 
+registration shall be settled by PJMSettlement in accordance with the terms and 
+conditions contained in the PJM Tariff, PJM Operating Agreement and PJM 
+Manuals. 
+ 
+3. All registrations submitted to the Office of the Interconnection on or after August 28, 
+2009, including requests to extend existing registrations, will be processed by the Office of the 
+Interconnection in accordance with the provisions of this section 1.5A, including this subsection 
+1.5A.3. 
+ 
+1.5A.3. 02 Economic Load Response Regulation Only Registrations. 
+ 
+An Economic Load Response Regulation Only registration allows end-use customer 
+participation in the Regulation market only, and may be submitted by a Curtailment Service 
+Provider that is different than the Curtailment Service Provider that submits an Emergency Load 
+Response Program registration, Pre-Emergency Load Response Program registration or 
+Economic Load Response registration for the same end-use customer. An end-use customer that 
+is registered as Economic Load Response Regulation Only shall not be permitted to register 
+and/or participate in any other Ancillary Service markets at the same time, but may have a 
+second, simultaneously existing Economic Load Response registration to participate in the PJM 
+Interchange Energy Market as set forth in the PJM Manuals. 
+ 
+1.5A.4 Metering and Electronic Dispatch Signal. 
+ 
+a) The Curtailment Service Provider is responsible for ensuring that end-use customers have 
+metering equipment that provides integrated hourly kWh values on an electric distribution 
+company account basis.  For non-interval metered residential customers not participating in the 
+pilot program under section 1.5A.7 below, the Curtailment Service Provider must ensure that a 
+representative sample of residential customers has metering equipment that provides integrated 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 6 
+hourly kWh values on an electric distribution company account basis, as set forth in the PJM 
+Manuals.  The metering equipment shall either meet the electric distribution company 
+requirements for accuracy, or have a maximum error of two percent over the full range of the 
+metering equipment (including potential transformers and current transformers) and the metering 
+equipment and associated data shall meet the requirements set forth herein and in the PJM 
+Manuals. End-use customer reductions in demand  must be  metered by recording integrated 
+hourly values for On-Site Generators running to serve local load (net of output used by the On-
+Site Generator), or by metering load on an electric distribution company account basis and 
+comparing actual metered load to its Customer Baseline Load, calculated pursuant to Operating 
+Agreement, Schedule 1, section 3.3A and the parallel provisions of Tariff, Attachment K-
+Appendix, section 3.3A, or on an alternative metering basis approved by the Office of the 
+Interconnection and agreed upon by all relevant parties, including any Curtailment Service 
+Provider, electric distribution company and end-use customer.  To qualify for compensation for 
+such load reductions that are not metered directly by the Office of the Interconnection, hourly 
+data reflecting meter readings for each day during which the load reduction occurred and all 
+associated days to determine the reduction must be submitted to the Office of the Interconnection 
+in accordance with the PJM Manuals within 60 days of the load reduction. 
+ 
+Curtailment Service Providers that have end-use customers that will participate in the Regulation 
+market may be permitted to use Sub-metered load data instead of load data at the electric 
+distribution company account number level for Regulation measurement and verification as set 
+forth in the PJM Manuals and subject to the following:  
+ 
+a. Curtailment Service Providers, must clearly identify for the Office of the 
+Interconnection all electrical devices that will provide Regulation and identify all 
+other devices used for similar processes within the same Location that will not 
+provide Regulation.  The Location must contribute to management of frequency 
+control on the PJM electric grid or PJM shall deny use of Sub-metered load data 
+for the Location. 
+ 
+b. If the registration to participate in the Regulation market contains an aggregation 
+of Locations, the relevant Curtailment Service Provider will provide the Office of 
+the Interconnection with load data for each Location’s Sub-meter through an 
+after-the-fact load data submission process.   
+ 
+c. The Office of the Interconnection may conduct random, unannounced audits of all  
+Locations that are registered to participate in the Regulation market to ensure that 
+devices that are registered by the Curtailment Service Providers as providing  
+Regulation service are not otherwise being offset by a change in usage of other 
+devices within the same Location. 
+ 
+d. The Office of the Interconnection may suspend the Regulation market activity of 
+Economic Load Response Participants, including Curtailment Service Providers, 
+that do not comply with the Economic Load Response and Regulation market 
+requirements as set forth in Schedule 1 and the PJM Manuals, and may refer the 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 7 
+matter to the Market Monitoring Unit and/or the Federal Energy Regulatory 
+Commission Office of Enforcement.  
+ 
+b) Curtailment Service Providers shall be responsible for maintaining, or ensuring that 
+Economic Load Response Participants maintain, the capability to receive and act upon an 
+electronic dispatch signal from the Office of the Interconnection in accordance with any 
+standards and specifications contained in the PJM Manuals. 
+ 
+1.5A.5 On-Site Generators. 
+ 
+An Economic Load Response Participant that intends to use an On-Site Generator for the 
+purpose of reducing demand to participate in the PJM Interchange Energy Market shall represent 
+to the Office of the Interconnection in writing that it holds all necessary environmental permits 
+applicable to the operation of the On-Site Generator.  Unless notified otherwise, the Office of the 
+Interconnection shall deem such representation applies to each time the On-Site Generator is 
+used to reduce demand to enable participation in the PJM Interchange Energy Market and that 
+the On-Site Generator is being operated in compliance with all applicable permits, including any 
+emissions, run-time limits or other operational constraints that may be imposed by such permits. 
+ 
+1.5A.6 Variable-Load Customers. 
+ 
+The loads of an Economic Load Response Participant shall be categorized as variable or non-
+variable at the time the load is registered, based on hourly load data for the most recent 60 days 
+provided by the Market Participant in the registration process; provided, however, that any 
+alternative means of making such determination when 60 days of data is not available shall be 
+subject to review and approval by the Office of the Interconnection and provided further that 60 
+days of hourly load data shall not be required on an individual customer basis for non-interval 
+metered residential or Small Commercial Customers that provide Economic Load Response 
+through a direct load control program under which an electric distribution company, Load 
+Serving Entity, or CSP has direct control over such customer’s load, without reliance upon any 
+action by such customer to reduce load.  Non-Variable Loads shall be those for which the 
+Customer Baseline Load calculation and adjustment methods prescribed by Operating 
+Agreement, Schedule 1, section 3.3A.2 and the parallel provisions of Tariff, Attachment K-
+Appendix, section 3.3A.2 and Operating Agreement, Schedule 1, section 3.3A.3 and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 3.3A.3 result in a relative root mean 
+square hourly error of twenty percent or less compared to the actual hourly loads based on the 
+hourly load data provided in the registration process and using statistical methods prescribed in 
+the PJM Manuals.  All other loads shall be Variable Loads. 
+ 
+1.5A.7 Non-Hourly Metered Customer Pilot. 
+ 
+Non-hourly metered customers may participate in the PJM Interchange Energy Market as 
+Economic Load Response Participants on a pilot basis under the following circumstances.  The 
+Curtailment Service Provider or PJM must propose an alternate method for measuring hourly 
+demand reductions.  The Office of the Interconnection shall approve alternate measurement 
+mechanisms on a case-by-case basis for a time specified by the Office of the Interconnection 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 8 
+(“Pilot Period”).  Demand reductions by non-hourly metered customers using alternate 
+measurement mechanisms on a pilot basis shall be limited to a combined total of 500 MW of 
+reductions in the Emergency Load Response Program, Pre-Emergency Load Response Program 
+and the PJM Interchange Energy Market or Synchronized Reserve market.  With the sole 
+exception of the requirement for hourly metering as set forth in section 1.5A.4 above, non-hourly 
+metered customers that qualify as Economic Load Response Participants pursuant to this section 
+1.5A.7 shall be subject to the rules and procedures for participation by Economic Load Response 
+Participants in the PJM Interchange Energy Market, including, without limitation, the Net 
+Benefits Test and the requirement for dispatch by the Office of the Interconnection.  Following 
+completion of a Pilot Period, the alternate method shall be evaluated by the Office of the 
+Interconnection to determine whether such alternate method should be included in the PJM 
+Manuals as an accepted measurement mechanism for demand reductions in the PJM Interchange 
+Energy Market. 
+ 
+1.5A.8 Batch Load Economic Load Response Participant Resource Provision of 
+Synchronized Reserve or Secondary Reserve. 
+ 
+  (a) A Batch Load Economic Load Response Participant resource may provide 
+Synchronized Reserve or Secondary Reserve in the PJM Interchange Energy Market provided it 
+has pre-qualified by providing the Office of the Interconnection with documentation acceptable 
+to the Office of the Interconnection that shows six months of one minute incremental load 
+history of the Batch Load Economic Load Response Participant resource, or in the event such 
+history is unavailable, other such information or data acceptable to the Office of the 
+Interconnection to demonstrate that the resource meets the definition of “Batch Load Economic 
+Load Response Participant resource” pursuant to Operating Agreement, Schedule 1, section 
+1.3.1A.001 and the parallel provisions of Tariff, Attachment K-Appendix, section 1.3.1A.001.  
+This requirement is a one-time pre-qualification requirement for a Batch Load Economic Load 
+Response Participant resource. 
+ 
+  (b) A Batch Load Economic Load Response Participant resource that is consuming 
+energy at the start of a Synchronized Reserve Event, or, if committed to provide Secondary 
+Reserve, at the time of a dispatch instruction from the Office of the Interconnection to reduce 
+load, shall respond to the Office of the Interconnection’s calling of a Synchronized Reserve 
+Event, or to such instruction to reduce load, by reducing load as quickly as it is capable and by 
+keeping its consumption at or near zero megawatts for the entire length of the Synchronized 
+Reserve Event following the reduction, or, in the case of Secondary Reserve, until a dispatch 
+instruction that load reductions are no longer required.  A Batch Load Economic Load Response 
+Participant resource that has reduced its consumption of energy for its production processes to 
+minimal or zero megawatts before the start of a Synchronized Reserve Event (or, in the case of 
+Secondary Reserve, before a dispatch instruction to reduce load) shall respond to the Office of 
+the Interconnection’s calling of a Synchronized Reserve Event (or such instruction to reduce 
+load) by reducing any load that is present at the time the Synchronized Reserve Event is called 
+(or at the time of such instruction to reduce load) as quickly as it is capable, delaying the restart 
+of its production processes, and keeping its consumption at or near zero megawatts for the entire 
+length of the Synchronized Reserve Event following any such reduction (or, in the case of 
+Secondary Reserve, until a dispatch instruction that load reductions are no longer required).  
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 9 
+Failure to respond as described in this section shall be considered non-compliance with the 
+Office of the Interconnection’s dispatch instruction associated with a Synchronized Reserve 
+Event, or as applicable, associated with an instruction to a resource committed to provide 
+Secondary Reserve to reduce load. 
+ 
+1.5A.9 Day-ahead and Real-time Energy Market Participation. 
+ 
+Economic Load Response Participants shall be compensated under Operating Agreement, 
+Schedule 1, section 3.3A.5 and the parallel provisions of Tariff, Attachment K-Appendix, section 
+3.3A.5 and Operating Agreement, Schedule 1, section 3.3A.6 and the parallel provisions of 
+Tariff, Attachment K-Appendix, section 3.3A.6 only if they participate in the Day-ahead or Real-
+time Energy Markets as a dispatchable resource. 
+ 
+1.5A.10 Aggregation for Economic Load Response Registrations. 
+ 
+The purpose for aggregation is to allow the participation of end-use customers in the Energy 
+Market that can provide less than 0.1 megawatt of demand response when they currently have no 
+alternative opportunity to participate on an individual basis or can provide less than 0.1 
+megawatt of demand response in the Secondary Reserve, Synchronized Reserve or Regulation  
+markets when they currently have no alternative opportunity to participate on an individual basis. 
+Aggregations pursuant to section 1.5A.1 above shall be subject to the following requirements: 
+ 
+ i. All end-use customers in an aggregation shall be specifically identified; 
+ 
+ ii. All end-use customers in an aggregation shall be served by the same 
+electric distribution company or Load Serving Entity where the electric distribution 
+company is the Load Serving Entity for all end-use customers in the aggregation.  
+Residential customers that are part of an aggregate that does not participate in the Day- 
+Ahead Energy Market do not need to share the same Load Serving Entity.  If the 
+aggregation will provide Synchronized Reserves, all customers in the aggregation must 
+also be part of the same Synchronized Reserve sub-zone; 
+ 
+ iii. All end-use customers in an aggregation that settle at Transmission Zone, 
+existing load aggregate, or node prices shall be located in the same Transmission Zone, 
+existing load aggregate or at the same node, respectively; 
+ 
+ iv. A single CBL for the aggregation shall be used to determine settlements 
+pursuant to Operating Agreement, Schedule 1, section 3.3A.5 and the parallel provisions 
+of Tariff, Attachment K-Appendix, section 3.3A.5 and Operating Agreement, Schedule 1, 
+section 3.3A.6 and the parallel provisions of Tariff, Attachment K-Appendix, section 
+3.3A.6; 
+ 
+ v. If the aggregation will only provide energy to the market then only one 
+end-use customer within the aggregation shall have the ability to reduce more than 0.099 
+megawatt of load unless the Curtailment Service Provider, Load Serving Entity and PJM 
+approve. If the aggregation will provide an Ancillary Service to the market then only one 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.5A Economic Load Response Participant 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 10 
+end-use customer within the aggregation shall have the ability to reduce more than 0.099 
+megawatt of load unless the Curtailment Service Provider, Load Serving Entity and PJM 
+approve; 
+ 
+ vi. Each end-use customer site must meet the requirements for market 
+participation by an Economic Load Response Participant resource except for the 0.1 
+megawatt minimum load reduction requirement for energy or the 0.1 megawatt minimum 
+load reduction requirement for Ancillary Services; and 
+ 
+ vii. An end-use customer’s participation in the Energy and Ancillary Services 
+markets shall be administered under one economic registration. 
+ 
+1.5A.10.01 Aggregation for Economic Load Response Regulation Only Registrations 
+The purpose for aggregation is to allow the participation of end-use customers in the Regulation 
+market that can provide less than 0.1 megawatt of demand response when they currently have no 
+alternative opportunity to participate on an individual basis. Aggregations pursuant to section 
+1.5A.1 above shall be subject to the following requirements: 
+ 
+i. All end-use customers in an aggregation shall be specifically identified; 
+ii. All end-use customers in the aggregation must be served by the same electric 
+distribution company and must also be part of the same Transmission Zone; and  
+iii. Each end-use customer site must meet the requirements for market participation 
+by an Economic Load Response Participant resource except for the 0.1 megawatt 
+minimum load reduction requirement for Regulation service. 
+ 
+1.5A.11 Reporting 
+ 
+  (a) PJM will post on its website a report of demand response activity, and will 
+provide a summary thereof to the PJM Markets and Reliability Committee on an annual basis. 
+ 
+  (b) As PJM receives evidence from the electric distribution companies or Load 
+Serving Entities pursuant to section 1.5A.3 above, PJM will post on its website a list of those 
+Relevant Electric Retail Regulatory Authorities that the electric distribution companies or Load 
+Serving Entities assert prohibit or condition retail participation in PJM’s Economic Load 
+Response Program together with a corresponding reference to the Relevant Electric Retail 
+Regulatory Authority evidence that is provided to PJM by the electric distribution companies or 
+Load Serving Entities. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.6 Office of the Interconnection 
+Effective Date: 11/4/2014 - Docket #: ER14-623-001 - Page 1 
+1.6 Office of the Interconnection.  
+ 
+1.6.1 Operation of the PJM Interchange Energy Market. 
+ 
+The Office of the Interconnection shall operate the PJM Interchange Energy Market in 
+accordance with this Agreement.  
+ 
+1.6.2 Scope of Services.  
+ 
+The Office of the Interconnection shall perform the services pertaining to the PJM Interchange 
+Energy Market specified in this Agreement, including but not limited to the following:  
+ 
+i) Administer the PJM Interchange Energy Market as part of the PJM Region, including 
+scheduling and dispatching of generation resources, accounting for transactions, maintaining 
+appropriate records, and monitoring the compliance of Market Participants with the provisions of 
+this Agreement, all in accordance with applicable provisions of the Operating Agreement, and 
+the Schedules to this Agreement; 
+ 
+ii) Review and evaluate the qualification of entities to be Market Buyers, Market Sellers, or 
+Economic Load Response Participants under applicable provisions of this Agreement; 
+ 
+iii) Coordinate, in accordance with applicable provisions of this Agreement, the Reliability 
+Assurance Agreement, and the Consolidated Transmission Owners Agreement, maintenance 
+schedules for generation and transmission resources operated as part of the PJM Region; 
+ 
+iv) Provide or coordinate the provision of ancillary services necessary for the operation of 
+the PJM Region or the PJM Interchange Energy Market; 
+ 
+v) Determine and declare that an Emergency is expected to exist, exists, or has ceased to 
+exist, in all or any part of the PJM Region, or in another directly or indirectly interconnected 
+Control Area and serve as a primary point of contact for interested state or federal agencies;  
+ 
+vi) Administer (a) agreements for the transfer of energy in conditions constituting an 
+Emergency in the PJM Region or in an interconnected Control Area, and the mutual provision of 
+other support in such Emergency conditions with other interconnected Control Areas, and (b) 
+purchases of Emergency energy offered by Members from resources that are not Capacity 
+Resources in conditions constituting an Emergency in the PJM Region; 
+ 
+vii) Coordinate the curtailment or shedding of load, or other measures appropriate to alleviate 
+an Emergency, in order to preserve reliability in accordance with NERC, or Applicable Regional 
+Entity principles, guidelines and standards, and to ensure the operation of the PJM Region in 
+accordance with Good Utility Practice and this Agreement; 
+ 
+viii) Protect confidential information as specified in this Agreement; and  
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.6 Office of the Interconnection 
+Effective Date: 11/4/2014 - Docket #: ER14-623-001 - Page 2 
+ix) Send a representative to meetings of the Members Committee or other Committees, 
+subcommittees, or working groups specified in this Agreement or formed by the Members 
+Committee when requested to do so by the chair or other head of such committee or other group; 
+ 
+and 
+ 
+x) Coordinate with adjacent Control Areas on Coordinated Transaction Scheduling (“CTS”) 
+and forecast price calculations, in accordance with the procedures of Section 1.13 of this 
+Schedule 1 of this Agreement. 
+ 
+1.6.3 Records and Reports. 
+ 
+The Office of the Interconnection shall prepare and maintain such records and prepare such 
+reports, including, but not limited to quarterly budget reports, as are required to document the 
+performance of its obligations to the Market Participants hereunder in a form adopted by the 
+Office of the Interconnection upon consideration of the advice and recommendations of the 
+Members Committee.  The Office of the Interconnection shall also produce special reports 
+reasonably requested by the Members Committee and consistent with FERC’s standards of 
+conduct; provided, however, the Market Participants shall reimburse the Office of the 
+Interconnection for the costs of producing any such report.  Notwithstanding the foregoing, the 
+Office of the Interconnection shall not be required to disclose confidential or commercially 
+sensitive information in any such report. 
+ 
+1.6.4 PJM Manuals. 
+ 
+The Office of the Interconnection shall prepare, maintain and update the PJM Manuals consistent 
+with this Agreement.  The PJM Manuals shall be available for inspection by the Market 
+Participants, regulatory authorities with jurisdiction over the LLC or any Member, and the 
+public. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> 
+OA  SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.6A PJMSettlement 
+Effective Date: 11/4/2014 - Docket #: ER14-623-001 - Page 1 
+1.6A PJMSettlement 
+ 
+1.6A.1 Scope of Services 
+PJMSettlement shall perform the services pertaining to the PJM Interchange Energy 
+Market specified in this Agreement, including, but not limited to, the following: 
+ (i) PJMSettlement shall be the Counterparty to transactions (including 
+ancillary services transactions and Coordinated External Transactions) in the PJM 
+Interchange Energy Market administered by the Office of the Interconnection;  
+ (ii) PJMSettlement shall render bills to the Market Participants, receiving 
+payments from and disbursing payments to the Market Participants; and  
+ (iii) For purposes of clarity, PJMSettlement shall not be a Counterparty to (i) 
+any bilateral transactions between Market Participants, or (ii) with respect to self-
+supplied or self-scheduled transactions reported to the Office of the Interconnection.   
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 1 
+1.7 General. 
+ 
+1.7.1 Market Sellers. 
+ 
+Only Market Sellers shall be eligible to submit offers to the Office of the Interconnection for the 
+sale of electric energy or related services in the PJM Interchange Energy Market.  Market Sellers 
+shall comply with the prices, terms, and operating characteristics of all Offer Data submitted to 
+and accepted by the PJM Interchange Energy Market. 
+ 
+1.7.2 Market Buyers. 
+ 
+Only Market Buyers, Energy Storage Resources, and Market Participants purchasing Direct 
+Charging Energy to charge Open-Loop Hybrid Resources shall comply with all requirements for 
+making purchases from the PJM Interchange Energy Market. 
+ 
+1.7.2A Economic Load Response Participants. 
+ 
+Only Economic Load Response Participants shall be eligible to participate in the Real-time 
+Energy Market and the Day-ahead Energy Market by submitting offers to the Office of the 
+Interconnection to reduce demand. 
+ 
+1.7.2B Energy Storage Resources and Open-Loop Hybrid Resources. 
+ 
+Energy purchased from the PJM Interchange Energy Market by a Market Participant of an Open-
+Loop Hybrid Resource for charging such resource, or that an Energy Storage Resource purchases 
+from the PJM Interchange Energy Market, must be Direct Charging Energy.  Energy Storage 
+Resources and Open-Loop Hybrid Resources shall comply with all requirements for making 
+purchases from the PJM Interchange Energy Market. 
+ 
+1.7.3 Agents. 
+ 
+A Market Participant may participate in the PJM Interchange Energy Market through an agent, 
+provided that the Market Participant informs the Office of the Interconnection in advance in 
+writing of the appointment of such agent.  A Market Participant participating in the PJM 
+Interchange Energy Market through an agent shall be bound by all of the acts or representations 
+of such agent with respect to transactions in the PJM Interchange Energy Market, and shall 
+ensure that any such agent complies with the requirements of this Agreement. 
+ 
+1.7.4 General Obligations of the Market Participants. 
+ 
+(a) In performing its obligations to the Office of the Interconnection hereunder, each Market 
+Participant shall at all times (i) follow Good Utility Practice, (ii) comply with all applicable laws 
+and regulations, (iii) comply with the applicable principles, guidelines, standards and 
+requirements of FERC, NERC and each Applicable Regional Entity, (iv) comply with the 
+procedures established for operation of the PJM Interchange Energy Market and PJM Region 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA  
+SCHEDULE 1 SECTION 1 - MARKET OPERATIONS --> OA Schedule 1 Sec 1.7 General. 
+Effective Date: 3/31/2025 - Docket #: ER26-1099-000 - Page 2 
+and (v) cooperate with the Office of the Interconnection as necessary for the operation of the 
+PJM Region in a safe, reliable manner consistent with Good Utility Practice. 
+ 
+(b) Market Participants shall undertake all operations in or affecting the PJM Interchange 
+Energy Market and the PJM Region including but not limited to compliance with all Emergency 
+procedures, in accordance with the power and authority of the Office of the Interconnection with 
+respect to the operation of the PJM Interchange Energy Market and the PJM Region as 

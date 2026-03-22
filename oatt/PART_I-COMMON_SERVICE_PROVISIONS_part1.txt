@@ -1,0 +1,1433 @@
+[PART I-COMMON SERVICE PROVISIONS - Part 1 of 5]
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+I. COMMON SERVICE PROVISIONS 
+ 
+References to section numbers in this Part I refer to sections of this Part I, unless otherwise 
+specified. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions 
+Effective Date: 6/1/2017 - Docket #: ER17-1372-000 - Page 1 
+1. Definitions 
+ 
+Unless the context otherwise specifies or requires, capitalized terms used in this PJM Tariff shall 
+have the respective meanings assigned herein or in the Schedules hereto, or in the PJM Operating 
+Agreement or RAA if not otherwise defined in this PJM Tariff, for all purposes of this PJM 
+Tariff (such definitions to be equally applicable to both the singular and the plural forms of the 
+terms defined). Unless otherwise specified, all references herein to sections, Schedules, Exhibits 
+or Appendices are to sections, Schedules, Exhibits or Appendices of this Agreement.  As used in 
+this Agreement  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 1 
+Definitions – A - B 
+ 
+30-minute Reserve:  
+ 
+“30-minute Reserve” shall mean the reserve capability of generation resources that can be 
+converted fully into energy or Economic Load Response Participant resources whose demand 
+can be reduced within 30 minutes of a request from the Office of the Interconnection dispatcher, 
+and is comprised of Synchronized Reserve, Non-Synchronized Reserve and Secondary Reserve.  
+ 
+30-minute Reserve Requirement:  
+ 
+“30-minute Reserve Requirement” shall mean the megawatts required to be maintained in a 
+Reserve Zone or Reserve Sub-zone, as Secondary Reserve, absent any increase to account for 
+additional reserves scheduled to address operational uncertainty.  The 30-minute Reserve 
+Requirement is calculated in accordance with the PJM Manuals.  The requirement can be 
+satisfied by any combination of Synchronized Reserve, Non Synchronized Reserve or Secondary 
+Reserve resources.  
+ 
+Abnormal Condition: 
+ 
+“Abnormal Condition” shall mean any condition on the Interconnection Facilities which, 
+determined in accordance with Good Utility Practice, is: (i) outside normal operating parameters 
+such that facilities are operating outside their normal ratings or that reasonable operating limits 
+have been exceeded; and (ii) could reasonably be expected to materially and adversely affect the 
+safe and reliable operation of the Interconnection Facilities; but which, in any case, could 
+reasonably be expected to result in an Emergency Condition.  Any condition or situation that 
+results from lack of sufficient generating capacity to meet load requirements or that results solely 
+from economic conditions shall not, standing alone, constitute an Abnormal Condition. 
+ 
+Acceleration Request: 
+ 
+“Acceleration Request” shall mean a request pursuant to Operating Agreement, Schedule 1, 
+section 1.9.4A, and the parallel provisions of Tariff, Attachment K-Appendix, section 1.9.4A, to 
+accelerate or reschedule a transmission outage scheduled pursuant to Operating Agreement, 
+Schedule 1, section 1.9.2 or Operating Agreement, Schedule 1, section 1.9.4, and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 1.9.2 or Tariff, Attachment K-Appendix, 
+section 1.9.4. 
+ 
+Affected System: 
+ 
+“Affected System” shall mean an electric system other than the Transmission Provider’s 
+Transmission System that may be affected by a proposed interconnection or on which a proposed 
+interconnection or addition of facilities or upgrades may require modifications or upgrades to the 
+Transmission System. 
+ 
+Affected System Operator: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 2 
+“Affected System Operator” shall mean an entity that operates an Affected System or, if the 
+Affected System is under the operational control of an independent system operator or a regional 
+transmission organization, such independent entity. 
+ 
+Affiliate: 
+ 
+“Affiliate” shall mean any two or more entities, one of which Controls the other or that are under 
+common Control.  “Control,” as that term is used in this definition, shall mean the possession, 
+directly or indirectly, of the power to direct the management or policies of an entity.  Ownership 
+of publicly-traded equity securities of another entity shall not result in Control or affiliation for 
+purposes of the Tariff or Operating Agreement if the securities are held as an investment, the 
+holder owns (in its name or via intermediaries) less than 10 percent (10%) of the outstanding 
+securities of the entity, the holder does not have representation on the entity’s board of directors 
+(or equivalent managing entity) or vice versa, and the holder does not in fact exercise influence 
+over day-to-day management decisions.  Unless the contrary is demonstrated to the satisfaction 
+of the Members Committee, Control shall be presumed to arise from the ownership of or the 
+power to vote, directly or indirectly, ten percent or more of the voting securities of such entity. 
+ 
+Agreements: 
+ 
+“Agreements” shall mean the Amended and Restated Operating Agreement of PJM 
+Interconnection, L.L.C., the PJM Open Access Transmission Tariff, the Reliability Assurance 
+Agreement, and/or other agreements between PJM Interconnection, L.L.C. and its Members. 
+ 
+Ambient-Adjusted Rating: 
+ 
+“Ambient-Adjusted Rating” (AAR) shall mean a Transmission Facility Rating that:  
+ 
+(a) Applies to a time period of not greater than one hour. 
+(b) Reflects an up-to-date forecast of ambient air temperature across the time period to 
+which the rating applies. 
+(c) Reflects the absence of solar heating during nighttime periods, where the local 
+sunrise/sunset times used to determine daytime and nighttime periods are updated at 
+least monthly, if not more frequently. 
+(d) Is evaluated at least each hour, if not more frequently.   
+ 
+Ancillary Services: 
+ 
+“Ancillary Services” shall mean those services that are necessary to support the transmission of 
+capacity and energy from resources to loads while maintaining reliable operation of the 
+Transmission Provider’s Transmission System in accordance with Good Utility Practice. 
+ 
+Annual Demand Resource: 
+ 
+“Annual Demand Resource” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 3 
+ 
+Annual Energy Efficiency Resource: 
+ 
+“Annual Energy Efficiency Resource” shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+Annual Resource:  
+ 
+“Annual Resource” shall mean a Generation Capacity Resource, an Annual Energy Efficiency 
+Resource or an Annual Demand Resource.  
+ 
+Annual Resource Price Adder:  
+ 
+“Annual Resource Price Adder” shall mean, for Delivery Years starting June 1, 2014 and ending 
+May 31, 2017,  an addition to the marginal value of Unforced Capacity and the Extended 
+Summer Resource Price Adder as necessary to reflect the price of Annual Resources required to 
+meet the applicable Minimum Annual Resource Requirement. 
+ 
+Annual Revenue Rate: 
+ 
+“Annual Revenue Rate” shall mean the rate employed to assess a compliance penalty charge on a 
+Curtailment Service Provider under Tariff, Attachment DD, section 11. 
+ 
+Annual Transmission Costs: 
+ 
+“Annual Transmission Costs” shall mean the total annual cost of the Transmission System for 
+purposes of Network Integration Transmission Service shall be the amount specified in 
+Attachment H for each Zone until amended by the applicable Transmission Owner or modified 
+by the Commission. 
+ 
+Applicable Laws and Regulations: 
+ 
+“Applicable Laws and Regulations” shall mean all duly promulgated applicable federal, State 
+and local laws, regulations, rules, ordinances, codes, decrees, judgments, directives, or judicial or 
+administrative orders, permits and other duly authorized actions of any Governmental Authority 
+having jurisdiction over the relevant parties, their respective facilities, and/or the respective 
+services they provide. 
+ 
+Applicable Regional Entity: 
+ 
+“Applicable Regional Entity” shall mean the Regional Entity for the region in which a Network 
+Customer, Transmission Customer, New Service Customer, or Transmission Owner operates. 
+ 
+Applicable Standards: 
+ 
+“Applicable Standards” shall mean the requirements and guidelines of NERC, the Applicable 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 4 
+Regional Entity, and the Control Area in which the Customer Facility is electrically located; the 
+PJM Manuals; and Applicable Technical Requirements and Standards. 
+ 
+Applicable Technical Requirements and Standards: 
+ 
+“Applicable Technical Requirements and Standards” shall mean those certain technical 
+requirements and standards applicable to interconnections of generation and/or transmission 
+facilities with the facilities of an Interconnected Transmission Owner or, as the case may be and 
+to the extent applicable, of an Electric Distributor, as published by Transmission Provider in a 
+PJM Manual provided, however, that, with respect to any generation facilities with maximum 
+generating capacity of 2 MW or less (synchronous) or 5 MW or less (inverter-based) for which 
+the Interconnection Customer executes a Construction Service Agreement or Interconnection 
+Service Agreement on or after March 19, 2005, “Applicable Technical Requirements and 
+Standards” shall refer to the “PJM Small Generator Interconnection Applicable Technical 
+Requirements and Standards.”  All Applicable Technical Requirements and Standards shall be 
+publicly available through postings on Transmission Provider’s internet website. 
+ 
+Applicant: 
+ 
+“Applicant” shall mean an entity desiring to become a PJM Member, become a Market 
+Participant, engage in market activities, or to take Transmission Service that has submitted the 
+PJMSettlement credit application, PJMSettlement credit agreement and other required submittals 
+as set forth in Tariff, Attachment Q. 
+ 
+Application: 
+ 
+“Application” shall mean a request by an Eligible Customer for transmission service pursuant to 
+the provisions of the Tariff. 
+ 
+Attachment Facilities: 
+ 
+“Attachment Facilities” shall mean the facilities necessary to physically connect a Customer 
+Facility to the Transmission System or interconnected distribution facilities. 
+ 
+Attachment H: 
+ 
+“Attachment H” shall refer collectively to the Attachments to the PJM Tariff with the prefix  
+“H” that set forth, among other things, the Annual Transmission Rates for Network Integration 
+Transmission Service in the PJM Zones. 
+ 
+Auction Revenue Rights: 
+ 
+“Auction Revenue Rights” or “ARRs” shall mean the right to receive the revenue from the 
+Financial Transmission Right auction, as further described in Operating Agreement, Schedule 1, 
+section 7.4, and the parallel provisions of Tariff, Attachment K-Appendix, section 7.4. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 5 
+Auction Revenue Rights Credits: 
+ 
+“Auction Revenue Rights Credits” shall mean the allocated share of total FTR auction revenues 
+or costs credited to each holder of Auction Revenue Rights, calculated and allocated as specified 
+in Operating Agreement, Schedule 1, section 7.4.3, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 7.4.3. 
+ 
+Authorized Government Agency: 
+ 
+“Authorized Government Agency” means a regulatory body or government agency, with 
+jurisdiction over PJM, the PJM Market, or any entity doing business in the PJM Market, including, 
+but not limited to, the Commission, State Commissions, and state and federal attorneys general. 
+ 
+Avoidable Cost Rate: 
+ 
+“Avoidable Cost Rate” shall mean a component of the Market Seller Offer Cap calculated in 
+accordance with Tariff, Attachment DD, section 6. 
+ 
+Balancing Congestion Charges: 
+ 
+“Balancing Congestion Charges” shall be equal to the sum of congestion charges collected from 
+Market Participants that are purchasing energy in the Real-time Energy Market minus [the sum 
+of congestion charges paid to Market Participants that are selling energy in the Real-time Energy 
+Market plus any congestion charges calculated pursuant to the Joint Operating Agreement 
+between the Midcontinent Independent Transmission System Operator, Inc. and PJM 
+Interconnection, L.L.C. (PJM Rate Schedule FERC No. 38), plus any congestion charges 
+calculated pursuant to the Joint Operating Agreement Among and Between New York 
+Independent System Operator Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC 
+No. 45), plus any congestion charges calculated pursuant to agreements between the Office of 
+the Interconnection and other entities, plus any charges or credits calculated pursuant to 
+Operating Agreement, Schedule 1, section 3.8, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 3.8, as applicable)]. 
+ 
+Balancing Ratio: 
+ 
+“Balancing Ratio” shall have the meaning provided in Tariff, Attachment DD, section 10A. 
+ 
+Base Capacity Demand Resource:  
+ 
+“Base Capacity Demand Resource” shall have the meaning specified in the Reliability Assurance 
+Agreement. 
+ 
+Base Capacity Demand Resource Constraint: 
+ 
+“Base Capacity Demand Resource Constraint” for the PJM Region or an LDA, shall mean, for 
+the 2018/2019 and 2019/2020 Delivery Years, the maximum Unforced Capacity amount, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+determined by PJM, of Base Capacity Demand Resources and Base Capacity Energy Efficiency 
+Resources that is consistent with the maintenance of reliability.  As more fully set forth in the 
+PJM Manuals, PJM calculates the Base Capacity Demand Resource Constraint for the PJM 
+Region or an LDA, by first determining a reference annual loss of load expectation (“LOLE”) 
+assuming no Base Capacity Resources, including no Base Capacity Demand Resources or Base 
+Capacity Energy Efficiency Resources.  The calculation for the PJM Region uses a daily 
+distribution of loads under a range of weather scenarios (based on the most recent load forecast 
+and iteratively shifting the load distributions to result in the Installed Reserve Margin established 
+for the Delivery Year in question) and a weekly capacity distribution (based on the cumulative 
+capacity availability distributions developed for the Installed Reserve Margin study for the 
+Delivery Year in question).  The calculation for each relevant LDA uses a daily distribution of 
+loads under a range of weather scenarios (based on the most recent load forecast for the Delivery 
+Year in question) and a weekly capacity distribution (based on the cumulative capacity 
+availability distributions developed for the Installed Reserve Margin study for the Delivery Year 
+in question).  For the relevant LDA calculation, the weekly capacity distributions are adjusted to 
+reflect the Capacity Emergency Transfer Limit for the Delivery Year in question. 
+ 
+For both the PJM Region and LDA analyses, PJM then models the commitment of varying 
+amounts of Base Capacity Demand Resources and Base Capacity Energy Efficiency Resources 
+(displacing otherwise committed generation) as interruptible from June 1 through September 30 
+and unavailable the rest of the Delivery Year in question and calculates the LOLE at each DR 
+and EE level.  The Base Capacity Demand Resource Constraint is the combined amount of Base 
+Capacity Demand Resources and Base Capacity Energy Efficiency Resources, stated as a 
+percentage of the unrestricted annual peak load, that produces no more than a five percent 
+increase in the LOLE, compared to the reference value.  The Base Capacity Demand Resource 
+Constraint shall be expressed as a percentage of the forecasted peak load of the PJM Region or 
+such LDA and is converted to Unforced Capacity by multiplying [the reliability target 
+percentage] times [the Forecast Pool Requirement] times [the forecasted peak load of the PJM 
+Region or such LDA, reduced by the amount of load served under the FRR Alternative]. 
+ 
+Base Capacity Demand Resource Price Decrement: 
+ 
+“Base Capacity Demand Resource Price Decrement” shall mean, for the 2018/2019 and 
+2019/2020 Delivery Years, a difference between the clearing price for Base Capacity Demand 
+Resources and Base Capacity Energy Efficiency Resources and the clearing price for Base 
+Capacity Resources and Capacity Performance Resources, representing the cost to procure 
+additional Base Capacity Resources or Capacity Performance Resources out of merit order when 
+the Base Capacity Demand Resource Constraint is binding. 
+ 
+Base Capacity Energy Efficiency Resource: 
+ 
+“Base Capacity Energy Efficiency Resource” shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+Base Capacity Resource:  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+“Base Capacity Resource” shall mean a Capacity Resource as described in Tariff, Attachment 
+DD, section 5.5A(b). 
+ 
+Base Capacity Resource Constraint: 
+ 
+“Base Capacity Resource Constraint” for the PJM Region or an LDA, shall mean, for the 
+2018/2019 and 2019/2020 Delivery Years, the maximum Unforced Capacity amount, determined 
+by PJM, of Base Capacity Resources, including Base Capacity Demand Resources and Base 
+Capacity Energy Efficiency Resources, that is consistent with the maintenance of reliability.  As 
+more fully set forth in the PJM Manuals, PJM calculates the above Base Capacity Resource 
+Constraint for the PJM Region or an LDA, by first determining a reference annual loss of load 
+expectation (“LOLE”) assuming no Base Capacity Resources, including no Base Capacity 
+Demand Resources or Base Capacity Energy Efficiency Resources.  The calculation for the PJM 
+Region uses the weekly load distribution from the Installed Reserve Margin study for the 
+Delivery Year in question (based on the most recent load forecast and iteratively shifting the load 
+distributions to result in the Installed Reserve Margin established for the Delivery Year in 
+question) and a weekly capacity distribution (based on the cumulative capacity availability 
+distributions developed for the Installed Reserve Margin study for the Delivery Year in 
+question).  The calculation for each relevant LDA uses a weekly load distribution (based on the 
+Installed Reserve Margin study and the most recent load forecast for the Delivery Year in 
+question) and a weekly capacity distribution (based on the cumulative capacity availability 
+distributions developed for the Installed Reserve Margin study for the Delivery Year in 
+question).  For the relevant LDA calculation, the weekly capacity distributions are adjusted to 
+reflect the Capacity Emergency Transfer Limit for the Delivery Year in question.  Additionally, 
+for the PJM Region and relevant LDA calculation, the weekly capacity distributions are adjusted 
+to reflect winter ratings. 
+ 
+For both the PJM Region and LDA analyses, PJM models the commitment of an amount of Base 
+Capacity Demand Resources and Base Capacity Energy Efficiency Resources equal to the Base 
+Capacity Demand Resource Constraint (displacing otherwise committed generation).  PJM then 
+models the commitment of varying amounts of Base Capacity Resources (displacing otherwise 
+committed generation) as unavailable during the peak week of winter and available the rest of 
+the Delivery Year in question and calculates the LOLE at each Base Capacity Resource level.  
+The Base Capacity Resource Constraint is the combined amount of Base Capacity Demand 
+Resources, Base Capacity Energy Efficiency Resources and Base Capacity Resources, stated as a 
+percentage of the unrestricted annual peak load, that produces no more than a ten percent 
+increase in the LOLE, compared to the reference value.  The Base Capacity Resource Constraint 
+shall be expressed as a percentage of the forecasted peak load of the PJM Region or such LDA 
+and is converted to Unforced Capacity by multiplying [the reliability target percentage] times 
+[one minus the pool-wide average EFORd] times [the forecasted peak load of the PJM Region or 
+such LDA, reduced by the amount of load served under the FRR Alternative]. 
+ 
+Base Capacity Resource Price Decrement: 
+ 
+“Base Capacity Resource Price Decrement” shall mean, for the 2018/2019 and 2019/2020 
+Delivery Years, a difference between the clearing price for Base Capacity Resources and the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 8 
+clearing price for Capacity Performance Resources, representing the cost to procure additional 
+Capacity Performance Resources out of merit order when the Base Capacity Resource Constraint 
+is binding. 
+ 
+Base Load Generation Resource 
+ 
+“Base Load Generation Resource” shall mean a Generation Capacity Resource that operates at 
+least 90 percent of the hours that it is available to operate, as determined by the Office of the 
+Interconnection in accordance with the PJM Manuals. 
+ 
+Base Offer Segment: 
+ 
+“Base Offer Segment” shall mean a component of a Sell Offer based on an existing Generation 
+Capacity Resource, equal to the Unforced Capacity of such resource, as determined in 
+accordance with the PJM Manuals.  If the Sell Offers of multiple Market Sellers are based on a 
+single Existing Generation Capacity Resource, the Base Offer Segments of such Market Sellers 
+shall be determined pro rata based on their entitlements to Unforced Capacity from such 
+resource. 
+ 
+Base Residual Auction:  
+ 
+“Base Residual Auction” shall mean the auction conducted three years prior to the start of the 
+Delivery Year to secure commitments from Capacity Resources as necessary to satisfy any 
+portion of the Unforced Capacity Obligation of the PJM Region not satisfied through Self-
+Supply. 
+ 
+Batch Load Economic Load Response Participant Resource: 
+ 
+“Batch Load Economic Load Response Participant Resource” shall mean an Economic Load 
+Response Participant Resource that has a cyclical production process such that at most times 
+during the process it is consuming energy, but at consistent regular intervals, ordinarily for 
+periods of less than ten minutes, it reduces its consumption of energy for its production processes 
+to minimal or zero megawatts. 
+ 
+Behind The Meter Generation: 
+ 
+“Behind The Meter Generation” shall refer to a generation unit that delivers energy to load 
+without using the Transmission System or any distribution facilities (unless the entity that owns 
+or leases the distribution facilities has consented to such use of the distribution facilities and such 
+consent has been demonstrated to the satisfaction of the Office of the Interconnection); provided, 
+however, that Behind The Meter Generation does not include (i) at any time, any portion of such 
+generating unit’s capacity that is designated as a Generation Capacity Resource; or (ii) in an 
+hour, any portion of the output of such generating unit that is sold to another entity for 
+consumption at another electrical location or into the PJM Interchange Energy Market. 
+ 
+Black Start Service: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - A - B 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 9 
+ 
+“Black Start Service” shall mean the capability of generating units to start without an outside 
+electrical supply or the demonstrated ability of a generating unit with a high operating factor 
+(subject to Transmission Provider concurrence) to automatically remain operating at reduced 
+levels when disconnected from the grid. 
+ 
+Border Yearly Charge: 
+ 
+“Border Yearly Charge” shall mean the yearly charge determined in accordance with Tariff, 
+Schedule 7. 
+ 
+Breach: 
+ 
+“Breach” shall mean the failure of a party to perform or observe any material term or condition 
+of Tariff, Part IV or Tariff, Part VI, or any agreement entered into thereunder as described in the 
+relevant provisions of such agreement. 
+ 
+Breaching Party: 
+ 
+“Breaching Party” shall mean a party that is in Breach of Tariff, Part IV or Tariff, Part VI and/or 
+an agreement entered into thereunder. 
+ 
+Business Day: 
+ 
+“Business Day” shall mean a day in which the Federal Reserve System is open for business and 
+is not a scheduled PJM holiday. 
+ 
+Buy Bid: 
+ 
+“Buy Bid” shall mean a bid to buy Capacity Resources in any Incremental Auction. 
+ 
+Buyer-Side Market Power: 
+ 
+“Buyer-Side Market Power” shall mean the ability of Capacity Market Sellers with a Load 
+Interest to suppress RPM Auction clearing prices for the overall benefit of their (and/or affiliates) 
+portfolio of generation and load. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+Definitions – C - D 
+ 
+Canadian Guaranty: 
+ 
+“Canadian Guaranty” shall mean a Corporate Guaranty provided by an Affiliate of a Participant 
+that is domiciled in Canada, and meets all of the provisions of Tariff, Attachment Q. 
+ 
+Cancellation Costs: 
+ 
+“Cancellation Costs” shall mean costs and liabilities incurred in connection with: (a) cancellation 
+of supplier and contractor written orders and agreements entered into to design, construct and 
+install Attachment Facilities, Direct Assignment Facilities and/or Customer-Funded Upgrades, 
+and/or (b) completion of some or all of the required Attachment Facilities, Direct Assignment 
+Facilities and/or Customer-Funded Upgrades, or specific unfinished portions and/or removal of 
+any or all of such facilities which have been installed, to the extent required for the Transmission 
+Provider and/or Transmission Owner(s) to perform their respective obligations under Tariff, Part 
+IV and/or Tariff, Part VI. 
+ 
+Capacity: 
+ 
+“Capacity” shall mean the installed capacity requirement of the Reliability Assurance Agreement 
+or similar such requirements as may be established. 
+ 
+Capacity Emergency Transfer Limit: 
+ 
+“Capacity Emergency Transfer Limit” or “CETL” shall have the meaning provided in the 
+Reliability Assurance Agreement. 
+ 
+Capacity Emergency Transfer Objective: 
+ 
+“Capacity Emergency Transfer Objective” or “CETO” shall have the meaning provided in the 
+Reliability Assurance Agreement. 
+ 
+Capacity Export Transmission Customer: 
+ 
+“Capacity Export Transmission Customer” shall mean a customer taking point to point 
+transmission service under Tariff, Part II to export capacity from a generation resource located in 
+the PJM Region that has qualified for an exception to the RPM must-offer requirement as 
+described in Tariff, Attachment DD, section 6.6(g). 
+ 
+Capacity Import Limit: 
+ 
+“Capacity Import Limit” shall have the meaning provided in the Reliability Assurance 
+Agreement. 
+ 
+Capacity Interconnection Rights: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 2 
+ 
+“Capacity Interconnection Rights” shall mean the rights to input generation as a Generation 
+Capacity Resource into the Transmission System at the Point of Interconnection where the 
+generating facilities connect to the Transmission System. 
+ 
+Capacity Market Buyer: 
+ 
+“Capacity Market Buyer” shall mean a Member that submits bids to buy Capacity Resources in 
+any Incremental Auction.   
+ 
+Capacity Market Seller: 
+ 
+“Capacity Market Seller” shall mean a Member that owns, or has the contractual authority to 
+control the output or load reduction capability of, a Capacity Resource, that has not transferred 
+such authority to another entity, and that offers such resource in the Base Residual Auction or an 
+Incremental Auction. 
+ 
+Capacity Performance Resource: 
+ 
+“Capacity Performance Resource” shall mean a Capacity Resource as described in Tariff, 
+Attachment DD, section 5.5A(a). 
+ 
+Capacity Performance Transition Incremental Auction: 
+ 
+“Capacity Performance Transition Incremental Auction” shall have the meaning specified in 
+Tariff, Attachment DD, section 5.14D. 
+ 
+Capacity Resource: 
+ 
+“Capacity Resource” shall have the meaning provided in the Reliability Assurance Agreement. 
+ 
+Capacity Resource with State Subsidy:  
+ 
+“Capacity Resource with State Subsidy” shall mean (1) a Capacity Resource that is offered into 
+an RPM Auction or otherwise assumes an RPM commitment for which the Capacity Market 
+Seller receives or is entitled to receive one or more State Subsidies for the applicable Delivery 
+Year; (2) a Capacity Resource that has not cleared an RPM Auction for the Delivery Year for 
+which the Capacity Market Seller last received a State Subsidy (or any subsequent Delivery 
+Year) shall still be considered a Capacity Resource with State Subsidy upon the expiration of 
+such State Subsidy until the resource clears an RPM Auction; (3) a Capacity Resource that is the 
+subject of a bilateral transaction (including but not limited to those reported pursuant to Tariff, 
+Attachment DD, section 4.6) shall be deemed a Capacity Resource with State Subsidy to the 
+extent an owner of the facility supporting the Capacity Resource is entitled to a State Subsidy 
+associated with such facility even if the Capacity Market Seller is not entitled to a State Subsidy; 
+and (4) any Jointly Owned Cross-Subsidized Capacity Resource.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 3 
+Capacity Resource Clearing Price: 
+ 
+“Capacity Resource Clearing Price” shall mean the price calculated for a Capacity Resource that 
+offered and cleared in a Base Residual Auction or Incremental Auction, in accordance with 
+Tariff, Attachment DD, section 5.  
+ 
+Capacity Storage Resource: 
+ 
+“Capacity Storage Resource” shall mean any Energy Storage Resource that participates in the 
+Reliability Pricing Model or is otherwise treated as capacity in PJM’s markets such as through a 
+Fixed Resource Requirement Capacity Plan. 
+ 
+Capacity Transfer Right: 
+ 
+“Capacity Transfer Right” shall mean a right, allocated to LSEs serving load in a Locational 
+Deliverability Area, to receive payments, based on the transmission import capability into such 
+Locational Deliverability Area, that offset, in whole or in part, the charges attributable to the 
+Locational Price Adder, if any, included in the Zonal Capacity Price calculated for a Locational 
+Delivery Area. 
+ 
+Capacity Transmission Injection Rights: 
+ 
+“Capacity Transmission Injection Rights” shall mean the rights to schedule energy and capacity 
+deliveries at a Point of Interconnection of a Merchant Transmission Facility with the 
+Transmission System. Capacity Transmission Injection Rights may be awarded only to a 
+Merchant D.C. Transmission Facility and/or Controllable A.C. Merchant Transmission Facilities 
+that connects the Transmission System to another control area. Deliveries scheduled using 
+Capacity Transmission Injection Rights have rights similar to those under Firm Point-to-Point 
+Transmission Service or, if coupled with a generating unit external to the PJM Region that 
+satisfies all applicable criteria specified in the PJM Manuals, similar to Capacity Interconnection 
+Rights. 
+ 
+Charge Economic Maximum Megawatts: 
+ 
+“Charge Economic Maximum Megawatts” shall mean the greatest magnitude of megawatt power 
+consumption available for charging in economic dispatch by an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Continuous Mode or in Charge Mode.  Charge 
+Economic Maximum Megawatts shall be the Economic Minimum for an Energy Storage 
+Resource or Open-Loop Hybrid Resource in Charge Mode or in Continuous Mode. 
+ 
+Charge Economic Minimum Megawatts: 
+ 
+“Charge Economic Minimum Megawatts” shall mean the smallest magnitude of megawatt power 
+consumption available for charging in economic dispatch by an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Charge Mode.  Charge Economic Minimum 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 4 
+Megawatts shall be the Economic Maximum for an Energy Storage Resource or Open-Loop 
+Hybrid Resource in Charge Mode. 
+ 
+Charge Mode: 
+ 
+“Charge Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that only includes negative megawatt quantities (i.e., 
+the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource is only 
+withdrawing megawatts from the grid).   
+ 
+Charge Ramp Rate: 
+ 
+“Charge Ramp Rate” shall mean the Ramping Capability of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource in Charge Mode. 
+ 
+Cleared Capacity Resource with State Subsidy: 
+ 
+“Cleared Capacity Resource with State Subsidy” shall mean a Capacity Resource with State 
+Subsidy that has cleared in an RPM Auction for a Delivery Year that is prior to the 2022/2023 
+Delivery Year or, starting with 2022/2023 Delivery Year, the MWs (in installed capacity) 
+comprising a Capacity Resource with State Subsidy that have cleared an RPM Auction pursuant 
+to its Sell Offer at or above its resource-specific MOPR Floor Offer Price or the applicable 
+default New Entry MOPR Floor Offer Price and since then, any of those MWs (in installed 
+capacity) comprising a Capacity Resource with State Subsidy have been, the subject of a Sell 
+Offer into the Base Residual Auction or included in an FRR Capacity Plan at the time of the 
+Base Residual Auction for the relevant Delivery Year.   
+ 
+Closed-Loop Hybrid Resource: 
+ 
+“Closed-Loop Hybrid Resource” shall mean a Hybrid Resource that does not operate by 
+charging its storage component from the grid. 
+ 
+Cold/Warm/Hot Notification Time: 
+ 
+“Cold/Warm/Hot Notification Time” shall mean the time interval between PJM notification and 
+the beginning of the start sequence for a generating unit that is currently in its cold/warm/hot 
+temperature state. The start sequence may include steps such as any valve operation, starting feed 
+water pumps, startup of auxiliary equipment, etc. 
+ 
+Cold/Warm/Hot Start-up Time: 
+ 
+For all generating units that are not combined cycle units, “Cold/Warm/Hot Start-up Time” shall 
+mean the time interval, measured in hours, from the beginning of the start sequence to the point 
+after generator breaker closure, which is typically indicated by telemetered or aggregated State 
+Estimator megawatts greater than zero for a generating unit in its cold/warm/hot temperature 
+state. For combined cycle units, “Cold/Warm/Hot Start-up Time” shall mean the time interval 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 5 
+from the beginning of the start sequence to the point after first combustion turbine generator 
+breaker closure in its cold/warm/hot temperature state, which is typically indicated by 
+telemetered or aggregated State Estimator megawatts greater than zero. For all generating units, 
+the start sequence may include steps such as any valve operation, starting feed water pumps, 
+startup of auxiliary equipment, etc. Other more detailed actions that could signal the beginning of 
+the start sequence could include, but are not limited to, the operation of pumps, condensers, fans, 
+water chemistry evaluations, checklists, valves, fuel systems, combustion turbines, starting 
+engines or systems, maintaining stable fuel/air ratios, and other auxiliary equipment necessary 
+for startup. 
+ 
+Cold Weather Alert: 
+ 
+“Cold Weather Alert” shall mean the notice that PJM provides to PJM Members, Transmission 
+Owners, resource owners and operators, customers, and regulators to prepare personnel and 
+facilities for expected extreme cold weather conditions. 
+ 
+Collateral: 
+ 
+“Collateral” shall be a cash deposit, including any interest thereon, or a Letter of Credit issued 
+for the benefit of PJM or PJMSettlement, in an amount and form determined by and acceptable 
+to PJM or PJMSettlement, provided by a Participant to PJM or PJMSettlement as credit support 
+in order to participate in the PJM Markets or take Transmission Service.  “Collateral” shall also 
+include surety bonds, except for the purpose of satisfying the FTR Credit Requirement, in which 
+case only a cash deposit or Letter of Credit will be acceptable. 
+ 
+Collateral Call: 
+ 
+“Collateral Call” shall mean a notice to a Participant that additional Collateral, or possibly early 
+payment, is required in order to remain in, or to regain, compliance with Tariff, Attachment Q. 
+ 
+Co-Located Resource: 
+ 
+“Co-Located Resource” shall mean a component of a Mixed Technology Facility that operates in 
+the capacity, energy, and/or ancillary services market(s) as a separate resource from the other 
+components of such facility. 
+ 
+Commencement Date: 
+ 
+“Commencement Date” shall mean the date on which Interconnection Service commences in 
+accordance with an Interconnection Service Agreement. 
+ 
+Committed Offer: 
+ 
+The “Committed Offer” shall mean 1) for pool-scheduled resources, an offer on which a resource 
+was scheduled by the Office of the Interconnection for a particular clock hour for an Operating 
+Day, and 2) for self-scheduled resources, either the offer on which the Market Seller has elected 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 6 
+to schedule the resource or the applicable offer for the resource determined pursuant to Operating 
+Agreement, Schedule 1, section 6.4, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 6.4, or Operating Agreement, Schedule 1, section 6.6, and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 6.6, for a particular clock hour for an 
+Operating Day.  
+ 
+Completed Application: 
+ 
+“Completed Application” shall mean an application that satisfies all of the information and other 
+requirements of the Tariff, including any required deposit. 
+ 
+Compliance Aggregation Area (CAA): 
+ 
+“Compliance Aggregation Area” or “CAA” shall mean a geographic area of Zones or sub-Zones 
+that are electrically-contiguous and experience for the relevant Delivery Year, based on Resource 
+Clearing Prices of, for Delivery Years through May 31, 2018, Annual Resources and for the 
+2018/2019 Delivery Year and subsequent Delivery Years, Capacity Performance Resources, the 
+same locational price separation in the Base Residual Auction, the same locational price 
+separation in the First Incremental Auction, the same locational price separation in the Second 
+Incremental Auction, the same locational price separation in the Third Incremental Auction. 
+ 
+Component DER: 
+ 
+“Component DER” shall mean any resource, within the PJM Region, that is located on a 
+distribution system, any subsystem thereof, or behind a customer meter, and is used in a DER 
+Aggregation Resource by a DER Aggregator to participate in the energy, capacity, and/or 
+ancillary services markets of PJM through the DER Aggregator Participation Model.  A 
+Component DER may not exceed 5 MW.   
+ 
+Composite Energy Offer:  
+ 
+“Composite Energy Offer” for generation resources shall mean the sum (in $/MWh) of the 
+Incremental Energy Offer and amortized Start-Up Costs and amortized No-load Costs, and for 
+Economic Load Response Participant resources the sum (in $/MWh) of the Incremental Energy 
+Offer and amortized shutdown costs, as determined in accordance with Tariff, Attachment K-
+Appendix, section 2.4 and Tariff, Attachment K-Appendix, section 2.4A and the PJM Manuals. 
+ 
+Conditional Incremental Auction: 
+ 
+“Conditional Incremental Auction” shall mean an Incremental Auction conducted for a Delivery 
+Year if and when necessary to secure commitments of additional capacity to address reliability 
+criteria violations arising from the delay in a Backbone Transmission upgrade that was modeled 
+in the Base Residual Auction for such Delivery Year. 
+ 
+Conditioned State Support: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 7 
+“Conditioned State Support” shall mean any financial benefit required or incentivized by a state, 
+or political subdivision of a state acting in its sovereign capacity, that is provided outside of PJM 
+Markets and in exchange for the sale of a FERC-jurisdictional product conditioned on clearing in 
+any RPM Auction, where “conditioned on clearing in any RPM Auction” refers to specific 
+directives as to the level of the offer that must be entered for the relevant Generation Capacity 
+Resource in the RPM Auction or directives that the Generation Capacity Resource is required to 
+clear in any RPM Auction.  Conditioned State Support shall not include any Legacy Policy.   
+ 
+CONE Area: 
+ 
+“CONE Area” shall mean the areas listed in Tariff, Attachment DD, section 5.10(a)(iv)(A) and 
+any LDAs established as CONE Areas pursuant to Tariff, Attachment DD, section 
+5.10(a)(iv)(B).  
+ 
+Confidential Information: 
+ 
+“Confidential Information” shall mean any confidential, proprietary, or trade secret information 
+of a plan, specification, pattern, procedure, design, device, list, concept, policy, or compilation 
+relating to the present or planned business of a New Service Customer, Transmission Owner, or 
+other Interconnection Party or Construction Party, which is designated as confidential by the 
+party supplying the information, whether conveyed verbally, electronically, in writing, through 
+inspection, or otherwise, and shall include, without limitation, all information relating to the 
+producing party’s technology, research and development, business affairs and pricing, and any 
+information supplied by any New Service Customer, Transmission Owner, or other 
+Interconnection Party or Construction Party to another such party prior to the execution of an 
+Interconnection Service Agreement or a Construction Service Agreement. 
+ 
+Congestion Price: 
+ 
+“Congestion Price” shall mean the congestion component of the Locational Marginal Price, 
+which is the effect on transmission congestion costs (whether positive or negative) associated 
+with increasing the output of a generation resource or decreasing the consumption by a Demand 
+Resource, based on the effect of increased generation from or consumption by the resource on 
+transmission line loadings, calculated as specified in Operating Agreement, Schedule 1, section 
+2, and the parallel provisions of Tariff, Attachment K-Appendix, section 2. 
+ 
+Consolidated Transmission Owners Agreement, PJM Transmission Owners Agreement or 
+Transmission Owners Agreement: 
+ 
+“Consolidated Transmission Owners Agreement,” “PJM Transmission Owners Agreement” or 
+“Transmission Owners Agreement” shall mean the certain Consolidated Transmission Owners 
+Agreement dated as of December 15, 2005, by and among the Transmission Owners and by and 
+between the Transmission Owners and PJM Interconnection, L.L.C. on file with the 
+Commission, as amended from time to time. 
+ 
+Constraint Relaxation Logic:  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 8 
+ 
+“Constraint Relaxation Logic” shall mean the logic applied in the market clearing software 
+where the transmission limit is increased to prevent the Transmission Constraint Penalty Factor 
+from setting the Marginal Value of a transmission constraint.  
+ 
+Constructing Entity: 
+ 
+“Constructing Entity” shall mean either the Transmission Owner or the New Services Customer, 
+depending on which entity has the construction responsibility pursuant to Tariff, Part VI and the 
+applicable Construction Service Agreement; this term shall also be used to refer to an 
+Interconnection Customer with respect to the construction of the Customer Interconnection 
+Facilities. 
+ 
+Construction Party: 
+ 
+“Construction Party” shall mean a party to a Construction Service Agreement.  “Construction 
+Parties” shall mean all of the Parties to a Construction Service Agreement. 
+ 
+Construction Service Agreement: 
+ 
+“Construction Service Agreement” shall mean either an Interconnection Construction Service 
+Agreement or an Upgrade Construction Service Agreement. 
+ 
+Contingent Facilities: 
+ 
+“Contingent Facilities” shall mean those unbuilt Interconnection Facilities and Network 
+Upgrades upon which the Interconnection Request’s costs, timing, and study findings are 
+dependent and, if delayed or not built, could cause a need for restudies of the Interconnection 
+Request or a reassessment of the Interconnection Facilities and/or Network Upgrades and/or 
+costs and timing. 
+ 
+Continuous Mode: 
+ 
+“Continuous Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that includes both negative and positive megawatt 
+quantities (i.e., the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource 
+is capable of continually and immediately transitioning from withdrawing megawatt quantities 
+from the grid to injecting megawatt quantities onto the grid or injecting megawatts to 
+withdrawing megawatts).  Energy Storage Resource Model Participants or Open-Loop Hybrid 
+Resource operating in Continuous Mode are considered to have an unlimited ramp rate.  
+Continuous Mode requires Discharge Economic Maximum Megawatts to be zero or correspond 
+to an injection, and Charge Economic Maximum Megawatts to be zero or correspond to a 
+withdrawal. 
+ 
+Control Area: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 9 
+“Control Area” shall mean an electric power system or combination of electric power systems 
+bounded by interconnection metering and telemetry to which a common automatic generation 
+control scheme is applied in order to: 
+ 
+ (1) match the power output of the generators within the electric power system(s) and 
+energy purchased from entities outside the electric power system(s), with the load within the 
+electric power system(s); 
+ 
+ (2) maintain scheduled interchange with other Control Areas, within the limits of 
+Good Utility Practice; 
+ 
+ (3) maintain the frequency of the electric power system(s) within reasonable limits in 
+accordance with Good Utility Practice; and 
+ 
+ (4) provide sufficient generating capacity to maintain operating reserves in 
+accordance with Good Utility Practice. 
+ 
+Control Zone: 
+ 
+“Control Zone” shall have the meaning given in the Operating Agreement. 
+ 
+Controllable A.C. Merchant Transmission Facilities: 
+ 
+“Controllable A.C. Merchant Transmission Facilities” shall mean transmission facilities that (1) 
+employ technology which Transmission Provider reviews and verifies will permit control of 
+the amount and/or direction of power flow on such facilities to such extent as to effectively 
+enable the controllable facilities to be operated as if they were direct current transmission 
+facilities, and (2) that are interconnected with the Transmission System pursuant to Tariff, Part 
+IV and Tariff, Part VI. 
+ 
+Coordinated External Transaction: 
+ 
+“Coordinated External Transaction” shall mean a transaction to simultaneously purchase and sell 
+energy on either side of a CTS Enabled Interface in accordance with the procedures of Operating 
+Agreement, Schedule 1, section 1.13, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.13. 
+ 
+Coordinated Transaction Scheduling: 
+ 
+“Coordinated Transaction Scheduling” or “CTS” shall mean the scheduling of Coordinated 
+External Transactions at a CTS Enabled Interface in accordance with the procedures of 
+Operating Agreement, Schedule 1, section 1.13, and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.13. 
+ 
+Corporate Guaranty: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 10 
+“Corporate Guaranty” shall mean a legal document, in a form acceptable to PJM and/or 
+PJMSettlement, used by a Credit Affiliate of an entity to guaranty the obligations of another 
+entity. 
+ 
+Cost of New Entry: 
+ 
+“Cost of New Entry” or “CONE” shall mean the nominal levelized cost of a Reference Resource, 
+as determined in accordance with Tariff, Attachment DD, section 5. 
+ 
+Costs: 
+ 
+As used in Tariff, Part IV, Tariff, Part VI and related attachments, “Costs” shall mean costs and 
+expenses, as estimated or calculated, as applicable, including, but not limited to, capital 
+expenditures, if applicable, and overhead, return, and the costs of financing and taxes and any 
+Incidental Expenses. 
+ 
+Counterparty:  
+ 
+“Counterparty” shall mean PJMSettlement as the contracting party, in its name and own right 
+and not as an agent, to an agreement or transaction with a Market Participant or other entities, 
+including the agreements and transactions with customers regarding transmission service and 
+other transactions under the PJM Tariff and the Operating Agreement.  PJMSettlement shall not 
+be a counterparty to (i) any bilateral transactions between Members, or (ii) any Member’s self-
+supply of energy to serve its load, or (iii) any Member’s self-schedule of energy reported to the 
+Office of the Interconnection to the extent that energy serves that Member’s own load. 
+ 
+Credit Affiliate: 
+ 
+“Credit Affiliate” shall mean Principals, corporations, partnerships, firms, joint ventures, 
+associations, joint stock companies, trusts, unincorporated organizations or entities, one of which 
+directly or indirectly controls the other or that are both under common Control. “Control,” as that 
+term is used in this definition, shall mean the possession, directly or indirectly, of the power to 
+direct the management or policies of a person or an entity. 
+ 
+Credit Available for Export Transactions: 
+ 
+“Credit Available for Export Transactions” shall mean a designation of credit to be used for 
+Export Transactions that is allocated by each Market Participant from its Credit Available for 
+Virtual Transactions, and which reduces the Market Participant's Credit Available for Virtual 
+Transactions accordingly. 
+ 
+Credit Available for Virtual Transactions: 
+ 
+“Credit Available for Virtual Transactions” shall mean the Market Participant’s Working Credit 
+Limit for Virtual Transactions calculated on its credit provided in compliance with its Peak 
+Market Activity requirement plus available credit submitted above that amount, less any unpaid 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 11 
+billed and unbilled amounts owed to PJMSettlement, plus any unpaid unbilled amounts owed by 
+PJMSettlement to the Market Participant, less any applicable credit required for Minimum 
+Participation Requirements, FTRs, RPM activity,  or other credit requirement determinants as 
+defined in Tariff, Attachment Q. 
+ 
+Credit Breach: 
+ 
+“Credit Breach” shall mean (a) the failure of a Participant to perform, observe, meet or comply 
+with any requirements of Tariff, Attachment Q or other provisions of the Agreements, other than 
+a Financial Default, or (b) a determination by PJM and notice to the Participant that a Participant 
+represents an unreasonable credit risk to the PJM Markets; that, in either event, has not been 
+cured or remedied after any required notice has been given and any cure period has elapsed. 
+ 
+Credit-Limited Offer: 
+ 
+“Credit-Limited Offer” shall mean a Sell Offer that is submitted by a Market Participant in an 
+RPM Auction subject to a maximum credit requirement specified by such Market Participant. 
+ 
+Credit Support Default: 
+ 
+“Credit Support Default,” shall mean (a) the failure of any Guarantor of a Market Participant to 
+make any payment, or to perform, observe, meet or comply with any provisions of the applicable 
+Guaranty or Credit Support Document that has not been cured or remedied, after any required 
+notice has been given and an opportunity to cure (if any) has elapsed, (b) a representation made 
+or deemed made by a Guarantor in any Credit Support Document that proves to be false, 
+incorrect or misleading in any material respect when made or deemed made, (c) the failure of a 
+Guaranty or other Credit Support Document to be in full force and effect prior to the satisfaction 
+of all obligations of such Participant to PJM, without PJM’s consent, or (d) a Guarantor 
+repudiating, disaffirming, disclaiming or rejecting, in whole or in part, its obligations under the 
+Guaranty or challenging the validity of the Guaranty.  
+ 
+Credit Support Document:  
+ 
+“Credit Support Document” shall mean any agreement or instrument in any way guaranteeing or 
+securing any or all of a Participant’s obligations under the Agreements (including, without 
+limitation, the provisions of Tariff, Attachment Q), any agreement entered into under, pursuant 
+to, or in connection with the Agreements or any agreement entered into under, pursuant to, or in 
+connection with the Agreements and/or any other agreement to which PJM, PJMSettlement and 
+the Participant are parties, including, without limitation, any Corporate Guaranty, Letter of 
+Credit, or agreement granting PJM and PJMSettlement a security interest. 
+ 
+Critical Natural Gas Infrastructure:  
+ 
+“Critical Natural Gas Infrastructure” shall mean locations with electrical loads that are involved 
+in natural gas production, processing, intrastate and interstate transmission and distribution 
+pipeline facility as defined by NERC/FERC standard(s); and until such NERC/FERC standard(s) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 12 
+is developed, is defined as electric loads that are involved in natural gas production, processing, 
+intrastate and interstate transmission and distribution pipeline facility, which if curtailed, will 
+impact the delivery of natural gas to bulk-power system natural gas-fired generation. 
+ 
+Cross-Border: 
+ 
+When used to describe Network Integration Transmission Service, Network External Designated 
+Transmission Service or Point-to-Point Transmission Service, “Cross-Border” shall mean 
+transmission service where the capacity and/or energy is delivered from a resource that is not 
+part of the PJM Transmission System and/or to load that is not part of the PJM Transmission 
+System. 
+ 
+CTS Enabled Interface: 
+ 
+“CTS Enabled Interface” shall mean an interface between the PJM Control Area and an adjacent 
+Control Area at which the Office of the Interconnection has authorized the use of Coordinated 
+Transaction Scheduling (“CTS”). The CTS Enabled Interfaces between the PJM Control Area 
+and the New York Independent System Operator, Inc. Control Area shall be designated in the 
+Joint Operating Agreement Among and Between New York Independent System Operator Inc. 
+and PJM Interconnection, L.L.C., Schedule A (PJM Rate Schedule FERC No. 45).  The CTS 
+Enabled Interfaces between the PJM Control Area and the Midcontinent Independent System 
+Operator, Inc. shall be designated consistent with Attachment 3, section 2 of the Joint Operating 
+Agreement between Midcontinent Independent System Operator, Inc. and PJM Interconnection, 
+L.L.C. 
+ 
+CTS Interface Bid: 
+ 
+“CTS Interface Bid” shall mean a unified real-time bid to simultaneously purchase and sell 
+energy on either side of a CTS Enabled Interface in accordance with the procedures of Operating 
+Agreement, Schedule 1, section 1.13, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.13. 
+ 
+Curtailment: 
+ 
+“Curtailment” shall mean a reduction in firm or non-firm transmission service in response to a 
+transfer capability shortage as a result of system reliability conditions. 
+ 
+Curtailment Service Provider: 
+ 
+“Curtailment Service Provider” or “CSP” shall mean a Member or a Special Member, which 
+action on behalf of itself or one or more other Members or non-Members, participates in the PJM 
+Interchange Energy Market, Ancillary Services markets, and/or Reliability Pricing Model by 
+causing a reduction in demand. 
+ 
+Customer Facility: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 13 
+“Customer Facility” shall mean Generation Facilities or Merchant Transmission Facilities 
+interconnected with or added to the Transmission System pursuant to an Interconnection Request 
+under Tariff, Part IV. 
+ 
+Customer-Funded Upgrade: 
+ 
+“Customer-Funded Upgrade” shall mean any Network Upgrade, Local Upgrade, or Merchant 
+Network Upgrade for which cost responsibility (i) is imposed on an Interconnection Customer or 
+an Eligible Customer pursuant to Tariff, Part VI, section 217, or (ii) is voluntarily undertaken by 
+a New Service Customer in fulfillment of an Upgrade Request.  No Network Upgrade, Local 
+Upgrade or Merchant Network Upgrade or other transmission expansion or enhancement shall be 
+a Customer-Funded Upgrade if and to the extent that the costs thereof are included in the rate 
+base of a public utility on which a regulated return is earned. 
+ 
+Customer Interconnection Facilities: 
+ 
+“Customer Interconnection Facilities” shall mean all facilities and equipment owned and/or 
+controlled, operated and maintained by Interconnection Customer on Interconnection Customer’s 
+side of the Point of Interconnection identified in the appropriate appendices to the 
+Interconnection Service Agreement and to the Interconnection Construction Service Agreement, 
+including any modifications, additions, or upgrades made to such facilities and equipment, that 
+are necessary to physically and electrically interconnect the Customer Facility with the 
+Transmission System. 
+ 
+Daily Deficiency Rate: 
+ 
+“Daily Deficiency Rate” shall mean the rate employed to assess certain deficiency charges under 
+Tariff, Attachment DD, section 7, Tariff, Attachment DD, section 8, Tariff, Attachment DD, 
+section 9, or Tariff, Attachment DD, section 13. 
+ 
+Daily Unforced Capacity Obligation: 
+ 
+“Daily Unforced Capacity Obligation” shall mean the capacity obligation of a Load Serving 
+Entity during the Delivery Year, determined in accordance with  Reliability Assurance 
+Agreement, Schedule 8, or, as to an FRR entity, in Reliability Assurance Agreement, Schedule 
+8.1. 
+ 
+Day-ahead Congestion Price: 
+ 
+“Day-ahead Congestion Price” shall mean the Congestion Price resulting from the Day-ahead 
+Energy Market. 
+ 
+Day-ahead Energy Market: 
+ 
+“Day-ahead Energy Market” shall mean the schedule of commitments for the purchase or sale of 
+energy and payment of Transmission Congestion Charges developed by the Office of the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 14 
+Interconnection as a result of the offers and specifications submitted in accordance with 
+Operating Agreement, Schedule 1, section 1.10 and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.10. 
+ 
+Day-ahead Energy Market Injection Congestion Credits: 
+ 
+“Day-ahead Energy Market Injection Congestion Credits” shall mean those congestion credits 
+paid to Market Participants for supply transactions in the Day-ahead Energy Market including 
+generation schedules, Increment Offers, Up-to Congestion Transactions, import transactions, and 
+Day-Ahead Pseudo-Tie Transactions. 
+ 
+Day-ahead Energy Market Transmission Congestion Charges: 
+ 
+“Day-ahead Energy Market Transmission Congestion Charges” shall be equal to the sum of Day-
+ahead Energy Market Withdrawal Congestion Charges minus [the sum of Day-ahead Energy 
+Market Injection Congestion Credits plus any congestion charges calculated pursuant to the Joint 
+Operating Agreement between the Midcontinent Independent Transmission System Operator, 
+Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC No. 38), plus any congestion 
+charges calculated pursuant to the Joint Operating Agreement Among and Between New York 
+Independent System Operator Inc. and PJM Interconnection, L.L.C. (PJM Rate Schedule FERC 
+No. 45), plus any congestion charges calculated pursuant to agreements between the Office of 
+the Interconnection and other entities, as applicable)]. 
+ 
+Day-ahead Energy Market Withdrawal Congestion Charges: 
+ 
+“Day-ahead Energy Market Withdrawal Congestion Charges” shall mean those congestion 
+charges collected from Market Participants for withdrawal transactions in the Day-ahead Energy 
+Market from transactions including Demand Bids, Decrement Bids, Up-to Congestion 
+Transactions, Export Transactions, and Day-Ahead Pseudo-Tie Transactions. 
+ 
+Day-ahead Loss Price: 
+ 
+“Day-ahead Loss Price” shall mean the Loss Price resulting from the Day-ahead Energy Market. 
+ 
+Day-ahead Prices: 
+ 
+“Day-ahead Prices” shall mean the Locational Marginal Prices resulting from the Day-ahead 
+Energy Market. 
+ 
+Day-Ahead Pseudo-Tie Transaction:  
+ 
+“Day-Ahead Pseudo-Tie Transaction” shall mean a transaction scheduled in the Day-ahead 
+Energy Market to the PJM-MISO interface from a generator within the PJM balancing authority 
+area that Pseudo-Ties into the MISO balancing authority area. 
+ 
+Day-ahead Settlement Interval:  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 15 
+ 
+“Day-ahead Settlement Interval” shall mean the interval used by settlements, which shall be 
+every one clock hour.  
+ 
+Day-ahead System Energy Price: 
+ 
+“Day-ahead System Energy Price” shall mean the System Energy Price resulting from the Day-
+ahead Energy Market. 
+ 
+Deactivation: 
+ 
+“Deactivation” shall mean the retirement or mothballing of a generating unit governed by Tariff, 
+Part V. 
+ 
+Deactivation Avoidable Cost Credit: 
+ 
+“Deactivation Avoidable Cost Credit” shall mean the credit paid to Generation Owners pursuant 
+to Tariff, Part V, section 114. 
+ 
+Deactivation Avoidable Cost Rate: 
+ 
+“Deactivation Avoidable Cost Rate” shall mean the formula rate established pursuant to Tariff, 
+Part V, section 115. 
+ 
+Deactivation Date: 
+ 
+“Deactivation Date” shall mean the date a generating unit within the PJM Region is either retired 
+or mothballed and ceases to operate. 
+ 
+Decrement Bid: 
+ 
+“Decrement Bid” shall mean a type of Virtual Transaction that is a bid to purchase energy at a 
+specified location in the Day-ahead Energy Market.  A cleared Decrement Bid results in 
+scheduled load at the specified location in the Day-ahead Energy Market. 
+ 
+Default: 
+ 
+As used in the Interconnection Service Agreement and Construction Service Agreement, 
+“Default” shall mean the failure of a Breaching Party to cure its Breach in accordance with the 
+applicable provisions of an Interconnection Service Agreement or Construction Service 
+Agreement. 
+ 
+Delivering Party: 
+ 
+“Delivering Party” shall mean the entity supplying capacity and energy to be transmitted at 
+Point(s) of Receipt. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 16 
+ 
+Delivery Year: 
+ 
+“Delivery Year” shall mean the Planning Period for which a Capacity Resource is committed 
+pursuant to the auction procedures specified in Tariff, Attachment DD, or pursuant to an FRR 
+Capacity Plan under Reliability Assurance Agreement, Schedule 8.1. 
+ 
+Demand Bid: 
+ 
+“Demand Bid” shall mean a bid, submitted by a Load Serving Entity in the Day-ahead Energy 
+Market, to purchase energy at its contracted load location, for a specified timeframe and 
+megawatt quantity, that if cleared will result in energy being scheduled at the specified location 
+in the Day-ahead Energy Market and in the physical transfer of energy during the relevant 
+Operating Day.   
+ 
+Demand Bid Limit: 
+ 
+“Demand Bid Limit” shall mean the largest MW volume of Demand Bids that may be submitted 
+by a Load Serving Entity for any hour of an Operating Day, as determined pursuant to Operating 
+Agreement, Schedule 1, section 1.10.1B, and the parallel provisions of Tariff, Attachment K-
+Appendix, section 1.10.1B. 
+ 
+Demand Bid Screening: 
+ 
+“Demand Bid Screening” shall mean the process by which Demand Bids are reviewed against 
+the applicable Demand Bid Limit, and rejected if they would exceed that limit, as determined 
+pursuant to Operating Agreement, Schedule 1, section 1.10.1B, and the parallel provisions of 
+Tariff, Attachment K-Appendix, section 1.10.1B. 
+ 
+Demand Resource: 
+ 
+“Demand Resource” shall mean a resource with the capability to provide a reduction in demand. 
+ 
+Demand Resource Factor or DR Factor: 
+ 
+“Demand Resource Factor” or (“DR Factor”) shall have the meaning specified in the Reliability 
+Assurance Agreement. 
+ 
+DER Aggregation Resource: 
+ 
+“DER Aggregation Resource” shall be comprised of one or more Component DER.  A DER 
+Aggregation Resource is used by a DER Aggregator to participate in the energy, capacity, and/or 
+ancillary services markets of PJM through the DER Aggregator Participation Model.  A DER 
+Aggregation Resource is capable of satisfying a minimum energy and/or ancillary services 
+market offer of 100 kW.  The market participation eligibility of a DER Aggregation Resource 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 17 
+shall be determined in accordance with the physical and operational characteristics of the 
+underlying Component DER that comprise the DER Aggregation Resource. 
+ 
+DER Aggregator: 
+ 
+“DER Aggregator” shall mean an entity that is a Market Participant that: (i) uses one or more 
+DER Aggregation Resources to participate in the energy, capacity, and/or ancillary services 
+markets of PJM through the DER Aggregator Participation Model; and (ii) has a fully-executed 
+DER Aggregator Participation Service Agreement. 
+ 
+DER Aggregator Participation Model: 
+ 
+“DER Aggregator Participation Model” shall mean the participation model described in Tariff, 
+Attachment K-Appendix, section 1.4B. 
+ 
+DER Capacity Aggregation Resource: 
+ 
+“DER Capacity Aggregation Resource” shall mean one or more DER Aggregation Resource that 
+participates in the Reliability Pricing Model, capable of satisfying a minimum capacity market 
+offer of 100 kW, or is otherwise treated as capacity in PJM’s markets, such as through a Fixed 
+Resource Requirement Capacity Plan, for the 2028/2029 Delivery Year and all subsequent 
+Delivery Years.   
+ 
+Designated Agent: 
+ 
+“Designated Agent” shall mean any entity that performs actions or functions on behalf of the 
+Transmission Provider, a Transmission Owner, an Eligible Customer, or the Transmission 
+Customer required under the Tariff. 
+ 
+Designated Entity: 
+ 
+“Designated Entity” shall have the same meaning provided in the Operating Agreement. 
+ 
+Direct Assignment Facilities: 
+ 
+“Direct Assignment Facilities” shall mean facilities or portions of facilities that are constructed 
+for the sole use/benefit of a particular Transmission Customer requesting service under the 
+Tariff.  Direct Assignment Facilities shall be specified in the Service Agreement that governs 
+service to the Transmission Customer and shall be subject to Commission approval. 
+ 
+Direct Charging Energy: 
+ 
+“Direct Charging Energy” shall mean the energy that an Energy Storage Resource or Open-Loop 
+Hybrid Resource purchases from the PJM Interchange Energy Market and (i) later resells to the 
+PJM Interchange Energy Market; or (ii) is lost to conversion inefficiencies, provided that such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 18 
+inefficiencies are an unavoidable component of the conversion, storage, and discharge process 
+that is used to resell energy back to the PJM Interchange Energy Market. 
+ 
+Direct Load Control: 
+ 
+“Direct Load Control” shall mean load reduction that is controlled directly by the Curtailment 
+Service Provider’s market operations center or its agent, in response to PJM instructions. 
+ 
+Discharge Economic Maximum Megawatts: 
+ 
+“Discharge Economic Maximum Megawatts” shall mean the maximum megawatt power output 
+available for discharge in economic dispatch by an Energy Storage Resource Model Participant 
+or Open-Loop Hybrid Resource in Continuous Mode or in Discharge Mode. Discharge 
+Economic Maximum Megawatts shall be the Economic Maximum for an Energy Storage 
+Resource or Open-Loop Hybrid Resource in Discharge Mode or in Continuous Mode. 
+ 
+Discharge Economic Minimum Megawatts: 
+ 
+“Discharge Economic Minimum Megawatts” shall mean the minimum megawatt power output 
+available for discharge in economic dispatch by an Energy Storage Resource Model Participant 
+or Open-Loop Hybrid Resource in Discharge Mode.  Discharge Economic Minimum Megawatts 
+shall be the Economic Minimum for an Energy Storage Resource or Open-Loop Hybrid 
+Resource in Discharge Mode. 
+ 
+Discharge Mode: 
+ 
+“Discharge Mode” shall mean the mode of operation of an Energy Storage Resource Model 
+Participant or Open-Loop Hybrid Resource that only includes positive megawatt quantities (i.e., 
+the Energy Storage Resource Model Participant or Open-Loop Hybrid Resource is only injecting 
+megawatts onto the grid).   
+ 
+Discharge Ramp Rate: 
+ 
+“Discharge Ramp Rate” shall mean the Ramping Capability of an Energy Storage Resource 
+Model Participant or Open-Loop Hybrid Resource in Discharge Mode. 
+ 
+Dispatch Rate: 
+ 
+“Dispatch Rate” shall mean the control signal, expressed in dollars per megawatt-hour, 
+calculated and transmitted continuously and dynamically to direct the output level of all 
+generation resources dispatched by the Office of the Interconnection in accordance with the 
+Offer Data. 
+ 
+Dispatched Charging Energy:   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions – C-D 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 19 
+“Dispatched Charging Energy” shall mean Direct Charging Energy that an Energy Storage 
+Resource Model Participant or Open-Loop Hybrid Resource receives from the electric grid 
+pursuant to PJM dispatch while providing one of the following services in the PJM markets: 
+Energy Imbalance Service pursuant to Tariff, Schedule 4; Regulation; Tier 2 Synchronized 
+Reserves; or Reactive Service.  Energy Storage Resource Model Participants and Open-Loop 
+Hybrid Resource shall be considered to be providing Energy Imbalance Service when they are 
+dispatchable by PJM in real-time.   
+ 
+Dynamic Schedule: 
+ 
+“Dynamic Schedule” shall have the same meaning provided in the Operating Agreement. 
+ 
+Dynamic Transfer: 
+ 
+“Dynamic Transfer” shall have the same meaning provided in the Operating Agreement. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 1 
+Definitions – E - F 
+ 
+Economic-based Enhancement or Expansion: 
+ 
+“Economic-based Enhancement or Expansion” shall have the same meaning provided in the 
+Operating Agreement. 
+ 
+Economic Load Response Participant: 
+ 
+“Economic Load Response Participant” shall mean a Member or Special Member that qualifies 
+under Operating Agreement, Schedule 1, section 1.5A, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 1.5A, to participate in the PJM Interchange Energy Market 
+and/or Ancillary Services markets through reductions in demand. 
+ 
+Economic Maximum: 
+ 
+“Economic Maximum” shall mean the highest incremental MW output level, submitted to PJM 
+market systems by a Market Participant, that a unit can achieve while following economic 
+dispatch.   
+ 
+Economic Minimum: 
+ 
+“Economic Minimum” shall mean the lowest incremental MW output level, submitted to PJM 
+market systems by a Market Participant, that a unit can achieve while following economic 
+dispatch. 
+ 
+Effective FTR Holder: 
+ 
+“Effective FTR Holder” shall mean: 
+ 
+(i) For an FTR Holder that is either a (a) privately held company, or (b) a municipality or 
+electric cooperative, as defined in the Federal Power Act, such FTR Holder, together with 
+any Affiliate, subsidiary or parent of the FTR Holder, any other entity that is under common 
+ownership, wholly or partly, directly or indirectly, or has the ability to influence, directly or 
+indirectly, the management or policies of the FTR Holder; or  
+ 
+(ii) For an FTR Holder that is a publicly traded company including a wholly owned 
+subsidiary of a publicly traded company, such FTR Holder, together with any Affiliate, 
+subsidiary or parent of the FTR Holder, any other PJM Member has over 10% common 
+ownership with the FTR Holder, wholly or partly, directly or indirectly, or has the ability to 
+influence, directly or indirectly, the management or policies of the FTR Holder; or  
+ 
+(iii)  an FTR Holder together with any other PJM Member, including also any Affiliate, 
+subsidiary or parent of such other PJM Member, with which it shares common ownership, 
+wholly or partly, directly or indirectly, in any third entity which is a PJM Member (e.g., a 
+joint venture). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 1. 
+Definitions --> OATT Definitions - E - F 

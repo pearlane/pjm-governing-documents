@@ -1,0 +1,86 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity 
+Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 19 
+ 
+APPALACHIAN POWER COMPANY Appendix 2 
+BLANK FORMULA RATE TEMPLATE  Page 15 
+CLASSIFICATION OF FIXED AND VARIABLE PRODUCTION EXPENSES  1 of 2 
+    
+Line  FERC Account Energy Demand 
+No. Description No. Related Related 
+  1 POWER PRODUCTION EXPENSES    
+  2 Steam Power Generation    
+  3 Operation supervision and engineering 500 - Xx 
+  4 Fuel 501 Xx - 
+  5 Steam expenses 502 - Xx 
+  6 Steam from other sources 503 Xx - 
+  7 Steam transferred-Cr. 504 Xx - 
+  8 Electric expenses 505 - Xx 
+  9 Miscellaneous steam power expenses 506 - Xx 
+ 10 Rents 507 - Xx 
+ 11 Allowances 509  Xx - 
+ 12  Maintenance supervision and engineering 510 Xx - 
+ 13  Maintenance of structures 511 - Xx 
+ 14  Maintenance of boiler plant 512 Xx - 
+ 15  Maintenance of electric plant 513 Xx - 
+ 16  Maintenance of miscellaneous steam plant 514 - Xx 
+ 17      Total steam power generation expenses    
+ 18  Nuclear Power    
+ 19  Operation supervision and engineering 517   Xx 
+ 20  Coolants and Water 519   Xx 
+ 21  Steam Expenses 520   Xx 
+ 22  Steam from other sources 521   Xx 
+ 23  Less: ; Steam Transferred 522   Xx 
+ 24  Electric Expenses 523   Xx 
+ 25  Miscellaneous Nuclear Power Expense 524   Xx 
+ 26  Rents 525   Xx 
+ 27  Maintenance supervision and engineering 528  Xx   
+ 28  Maintenance of structures 529   Xx 
+ 29  Maintenance of Reactor Plant Equip 530  Xx  
+ 30  Maintenance of electric plant 531  Xx  
+ 31  Maintenance of Misc Nuclear Plant 532  Xx  
+ 32      Total power production expenses Nuclear    
+ 33  Hydraulic Power Generation    
+ 34  Operation supervision and engineering 535 - Xx 
+ 35  Water for power 536 - Xx 
+ 36  Hydraulic expenses 537 - Xx 
+ 37  Electric expenses 538 - Xx 
+ 38  Misc. hydraulic power generation expenses 539 - Xx 
+ 39  Rents 540 - Xx 
+ 40  Maintenance supervision and engineering 541 - Xx 
+ 41  Maintenance of structures 542 - Xx 
+ 42  Maintenance of reservoirs, dams and waterways 543 - xx 
+ 43  Maintenance of electric plant 544 Xx - 
+ 44  Maintenance of miscellaneous hydraulic plant 545 - xx 
+ 45      Total hydraulic power generation expenses    
+ 46  Other Power Generation    
+ 47  Operation supervision and engineering 546 - xx 
+    
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity 
+Comp Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 20 
+ 
+Appendix 2               
+Page 15 (con’t) 
+    2 of 2 
+Line  FERC Account Energy Demand 
+No. Description No. Related Related 
+48  Fuel 547 Xx - 
+49  Generation expenses 548 - Xx 
+50  Miscellaneous other power generation expenses 549 - xx 
+51  Rents 550 - xx 
+52 Maintenance supervision and engineering 551 - xx 
+53  Maintenance of structures 552 - xx 
+54  Maintenance of generation and electric plant 553 - xx 
+55  Maintenance of misc. other power generation plant 554 - xx 
+56      Total other power generation expenses    
+57  Other Power Supply Expenses    
+58  Purchased power 555 Xx xx 
+59  System control and load dispatching 556 - xx 
+60  Other expenses 557 - xx 
+61  Station equipment operation expense (Note A) 562  - xx 
+62  Station equipment maintenance expense (Note A) 570  - xx 
+Note A:  Restricted to expenses related to Generator Step-up Transformers and Other Generator related expenses. 
+ See Note D, Page 6    
+

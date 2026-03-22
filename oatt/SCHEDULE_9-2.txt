@@ -1,0 +1,78 @@
+SCHEDULE 9-2 
+Financial Transmission Rights Administration Service 
+ 
+a) Financial Transmission Rights Administration Service comprises all of the activities of 
+PJM associated with administering the Financial Transmission Rights (“FTRs”) provided for 
+under Tariff, Attachment K including, but not limited to, coordination of FTR bilateral trading, 
+administration of FTR auctions, support of PJM’s on-line, internet-based FTR reporting tool, and 
+analyses to determine what total combination of FTRs can be outstanding and accommodated by 
+the PJM system at a given time.  PJM provides this service to entities that hold FTRs or that 
+submit offers to sell or bids to buy FTRs. 
+ 
+b) PJM will charge each user of Financial Transmission Rights Administration Service each 
+month a charge equal to: (i) the FTR Service Rate, Component 1, as defined below, times the 
+FTR Holder’s total FTRs in megawatt-hours during such month; plus (ii) the FTR Service Rate, 
+Component 2, as defined below, times the sum of (1) the number of hours in all bids to buy 
+Financial Transmission Rights Obligations submitted by such user during such month, plus (2) 
+five times the number of hours in all bids to buy Financial Transmission Rights Options 
+submitted by such user during such month.  Component 1 of this charge applies to all bids 
+submitted into any round of the Long-term, Annual, or monthly FTR Auctions; Component 2 of 
+this charge applies to all bids submitted into any round of the Annual FTR Auction and to all 
+bids submitted into the applicable monthly FTR Auction. 
+ 
+c) The Financial Transmission Rights Administration Service Rate shall be calculated 
+monthly, in accordance with the following formulae: 
+FTR Service Rate, Component 1 = 
+ 
+Monthly FTR MWh Cost 
+Monthly FTR MWh Determinants 
+ 
+FTR Service Rate, Component 2 = 
+ 
+Monthly FTR Bid/Offer Hours Cost 
+Monthly FTR Bid/Offer Hours Determinants 
+ 
+where: 
+ 
+“Monthly FTR MWh Cost” equals 0.6 times the sum of:  FTR Cost Component A.1 plus 
+FTR Cost Component A.2 plus FTR Cost Component A.3, as defined below. 
+ 
+“Monthly FTR Bid/Offer Hour Cost” equals 0.4 times the sum of:  FTR Cost Component 
+A.1 plus FTR Cost Component A.2 plus FTR Cost Component A.3, as defined below. 
+ 
+“FTR Cost Component A.1” equals the product of: 2.4% times the Actual Costs for all 
+Divisions in the month for which the Financial Transmission Rights Administration 
+Service Rate is being calculated.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-2 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 2 
+“FTR Cost Component A.2” equals the Overhead Allocation to Financial Transmission 
+Rights Administration Service determined pursuant to Schedule 9-5 of PJM’s Actual 
+Costs for Management Service Cost during the month for which the Financial 
+Transmission Rights Administration Service Rate is being calculated. 
+ 
+“FTR Cost Component A.3” equals PJM’s Actual Costs for the Non-Divisional Costs 
+that are assigned to Financial Transmission Rights Administration Service for the month 
+for which the Financial Transmission Rights Administration Service Rate is being 
+calculated. 
+ 
+and where 
+ 
+“Monthly FTR MWh Determinants” equals the total amount of Financial Transmission 
+Rights, in MWs, in effect each hour for all holders of Financial Transmission Rights 
+during the month for which the Financial Transmission Rights Administration Service 
+Rate is being calculated, summed for each hour of such month. 
+ 
+“Monthly FTR Bid/Offer Hour Determinants” equals the sum of (1) the total number of 
+hours of all Financial Transmission Rights Obligation bids, plus (2) five times the total 
+number of hours of all Financial Transmission Rights Option bids, for all bidders for all 
+FTR auctions conducted during the month for which the Financial Transmission Rights 
+Administration Service Rate is being calculated. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-3 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 1 

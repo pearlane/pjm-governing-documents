@@ -1,0 +1,2760 @@
+[ATTACHMENT H-2A - Part 1 of 5]
+
+Attachment H-2A shall be implemented pursuant to the Formula Rate Implementation 
+Protocols set forth in Attachment H-2B.  Service utilizing other facilities will be provided 
+at rates determined on a case-by-case basis.  
+2.  The revenue requirement in (1) shall be effective until amended by Baltimore Gas and 
+Electric Company (BGE) or modified by the Commission. 
+3. In addition to the rate set forth in Section 1 of this Attachment, the Network Customer 
+purchasing Network Integration Transmission Service shall pay for transmission 
+congestion charges, in accordance with the provisions of the Tariff, and any amounts 
+necessary to reimburse the Transmission Owners for any amounts payable by them as 
+sales, excise, “Btu,” carbon, value-added or similar taxes (other than taxes based upon or 
+measured by net income) with respect to the amounts payable pursuant to the Tariff. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 1 
+   ATTACHMENT H-2A     
+Baltimore Gas and Electric Company      
+Formula Rate   Notes FERC Form 1  Page # or Instruction   
+Shaded cells are input cells      
+Allocators             
+ Wages & Salary Allocation Factor      
+1  Direct Transmission Wages Expense   p354-355.21.b   0 
+1a  Exelon Business Services Company Transmission Wages Expense   p354 - p355 footnotes  0 
+1b  Total Transmission Wages Expense   (Line 1 + 1a)  0 
+2  Total Direct Wages Expense   p354-355.28.b   0 
+2a  Total Exelon Business Services Company Wages Expense   p354 - p355 footnotes  0 
+2b  Total Wages Expense   (Line 2 + 2a)  0 
+3  Less Direct A&G Wages Expense   p354-355.27.b   0 
+3a  Less Exelon Business Services Company A&G Wages Expense   p354 - p355 footnotes  0 
+4  Total     (Line 2b - 3 - 3a)   0 
+        
+5 Wages & Salary Allocator     (Line 1b / 4)   #DIV/0! 
+ Plant Allocation Factors      
+6  Electric Plant in Service   p204-207.104.g (See Attachment 9A, line 14, column n)  0  
+7  Common Plant In Service - Electric  (Note A) (Line 24)  0 
+8  Total Plant In Service     (Sum Lines 6 & 7)   0 
+9  Accumulated Depreciation (Total Electric Plant)   p219.29.c (See Attachment 9A, line 42, column b)   0  
+10  Accumulated Intangible Amortization  (Note A) p200-201.21.c (See Attachment 9, line 16, column h)   0  
+11  Accumulated Common Amortization - Electric  (Note A) p356 (See Attachment 9, line 16, column i)  0 
+12  Accumulated Common Plant Depreciation - Electric  (Note A) p356 (See Attachment 9, line 16, column g)  0  
+13  Total Accumulated Depreciation     (Sum Lines 9 to 12)   0 
+        
+14  Net Plant     (Line 8 - 13)   0 
+15  Transmission Gross Plant   (Line 29 - Line 28)  #DIV/0! 
+16 Gross Plant Allocator     (Line 15 / 8)   #DIV/0! 
+17  Transmission Net Plant   (Line 39 - Line 28)  #DIV/0! 
+18 Net Plant Allocator     (Line 17 / 14)   #DIV/0! 
+        
+Plant Calculations           
+ Plant In Service      
+19  Transmission Plant In Service   p204-207.58.g (See Attachment 9, line 16, column b and Attachment 9a, line 14, column f)  0  
+20  This Line Intentionally Left Blank This Line Intentionally Left Blank   0  
+21  This Line Intentionally Left Blank This Line Intentionally Left Blank    0  
+22  Total Transmission Plant In Service   (Line 19)  0 
+        
+23  General & Intangible   P204-207.5.g & p204-207.99.g (See Attachment 9, line 16, column c less Attachment 9a, line 14, columns q and r)  0 
+24  Common Plant (Electric Only)  (Notes A) p356 (See Attachment 9, line 16, column d)  0  
+25  Total General & Common     (Line 23 + 24)   0 
+26  Wage & Salary Allocation Factor   (Line 5)  #DIV/0! 
+27  General & Common Plant Allocated to Transmission     (Line 25 * 26)   #DIV/0! 
+         
+28  Plant Held for Future Use (Including Land)   (Note C) p214 (Attachment 9, line 30, column c)    0 
+        
+29 TOTAL Plant In Service     (Line 22 + 27 + 28)   #DIV/0! 
+        
+ Accumulated Depreciation      
+30  Transmission Accumulated Depreciation   p219.25.c (See Attachment 9, line 16, column e and Attachment 9a, line 42, column g)  0  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 2 
+        
+31  Accumulated General Depreciation   p219.28.c (See attachment 9, line 16, column f)  0 
+32  Accumulated Intangible Amortization   p200-201.21.c (See Attachment 9, line 16, column h less Attachment 9a, line 42, columns f and g)  0 
+33  Accumulated Common Amortization - Electric   (Line 11)  0 
+34  Common Plant Accumulated Depreciation (Electric Only)   (Notes A) (Line 12)  0 
+35  Total Accumulated Depreciation   (Sum Lines 31 to 34)  0 
+36  Wage & Salary Allocation Factor   (Line 5)  #DIV/0! 
+37  General & Common Allocated to Transmission     (Line 35 * 36)   #DIV/0! 
+        
+38 TOTAL Accumulated Depreciation     (Line 30 + 37)   #DIV/0! 
+        
+39 TOTAL Net Property, Plant & Equipment     (Line 29 - 38)   #DIV/0! 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 3 
+Adjustment To Rate Base           
+ Accumulated Deferred Income Taxes      
+40a  Account No. 190 (ADIT) Projected Activity (Note W) Attachment 1A – ADIT Summary, Line 24  #DIV/0! 
+40b  Account No. 281 (ADIT - Accel. Amort) Projected Activity (Note W) Attachment 1A – ADIT Summary, Line 48   
+40c  Account No. 282 (ADIT - Other Property) Projected Activity (Note W) Attachment 1A – ADIT Summary, Line 72   
+40d  Account No. 283 (ADIT - Other) Projected Activity (Note W) Attachment 1A – ADIT Summary, Line 96   
+40e  Account No. 255 (Accum. Deferred Investment Tax Credits) Projected Activity (Note T) Attachment 1A – ADIT Summary, Line 120   
+40f  Accumulated Deferred Income Taxes Allocated To Transmission   Line 40a + 40b + 40c + 40d + 40e   
+        
+ Unamortized Deficient / (Excess) ADIT      
+41a  Unamortized Deficient / (Excess) ADIT (Federal) Projected Activity (Note X) Attachment 1D - ADIT Rate Base Adjustment, Line 76   
+41b  Unamortized Deficient / (Excess) ADIT (State) Projected Activity (Note X) Attachment 1D - ADIT Rate Base Adjustment, Line 152   
+42  Unamortized Deficient / (Excess) ADIT Allocated to Transmission   Line 41a + 41b   
+        
+43  Adjusted Accumulated Deferred Income Taxes Allocated To Transmission   Line 40f + 42   
+        
+ Unfunded Reserves      
+44  Total Reserves Account Balance Attributable to Transmission Enter Negative Attachment 5  #DIV/0! 
+  
+Abandonment Transmission Projects 
+     
+44a   Unamortized Abandoned Transmission Projects  (Note R) Attachment 9, line 30, column h  #DIV/0! 
+       
+ Transmission CWIP in Rate Base      
+44b          Transmission CWIP in Rate Base  (Note AB) Attachment 9, line 30, column b  0 
+       
+ Prepayments      
+45  Prepayments    (Note A) Attachment 9, line 30, column f  #DIV/0! 
+46  Total Prepayments Allocated to Transmission     (Line 45)   #DIV/0! 
+        
+ Materials and Supplies      
+47  Undistributed Stores Exp  (Note A) p227.6.c & 16.c (See Attachment 9, line 30, column e)  0 
+48  Wage & Salary Allocation Factor     (Line 5)   #DIV/0! 
+49  Total Transmission Allocated   (Line 47 * 48)  #DIV/0! 
+50  Transmission Materials & Supplies  (Note U) p227.8.c+ p227.5.c (See Attachment 9, line 30, column d)  0  
+51  Total Materials & Supplies Allocated to Transmission     (Line 49 + 50)   #DIV/0! 
+        
+ Cash Working Capital      
+52  Operation & Maintenance Expense   (Line 84)  #DIV/0! 
+53  1/8th Rule   x 1/8  12.5% 
+54  Total Cash Working Capital Allocated to Transmission   (Line 52 * 53)   #DIV/0! 
+        
+ Network Credits      
+55  Outstanding Network Credits  (Note N) From PJM  0 
+56    Less Accumulated Depreciation Associated with Facilities with Outstanding Network Credits (Note N) From PJM  0 
+57  Net Outstanding Credits   (Line 55 - 56)  0 
+        
+58 TOTAL Adjustment to Rate Base     (Line 43 + 44 + 44a + 44b + 46 + 51 + 54 - 57)   #DIV/0! 
+        
+59 Rate Base     (Line 39 + 58)   #DIV/0! 
+        
+O&M               
+ Transmission O&M      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 4 
+60  Transmission O&M   p320-323.112.b  0  
+61  Less extraordinary property losses   Attachment 5  0 
+62  Plus amortization of extraordinary property losses   Attachment 5  0 
+63   Less Account 565   p320-323.96.b  0 
+64   Plus Schedule 12 payments billed to Transmission Owner and booked to Account 565 (Note O) PJM Data  0 
+65   Plus Transmission Lease Payments  (Note A) P200-201.4.c  0 
+66  Transmission O&M     (Lines 60 - 61 + 62 - 63 + 64 + 65)   0 
+        
+ Allocated General & Common Expenses      
+67  Common Plant O&M  (Note A) p356  0 
+68  Total A&G   p320-323.197.b  0  
+68a    For informational purposes: PBOP expense in FERC Account 926  (Note S) (Attachment 5)  0 
+69    Less Property Insurance Account 924   p320-323.185.b  0  
+70    Less Regulatory Commission Exp Account 928  (Note E) p320-323.189.b  0  
+71    Less General Advertising Exp Account 930.1   p320-323.191.b  0  
+72    Less EPRI Dues  (Note D) p352-353  0  
+73  General & Common Expenses     (Lines 67 + 68) -  Sum (69 to 72)   0 
+74  Wage & Salary Allocation Factor   (Line 5)  #DIV/0! 
+75  General & Common Expenses Allocated to Transmission   (Line 73 * 74)   #DIV/0! 
+        
+ Directly Assigned A&G      
+76  Regulatory Commission Exp Account 928  (Note G) p320-323.189.b  0  
+77  General Advertising Exp Account 930.1   (Note K) p320-323.191.b  0 
+78  Subtotal - Transmission Related   (Line 76 + 77)  0 
+        
+79  Property Insurance Account 924   p320-323.185.b  0 
+80  General Advertising Exp Account 930.1  (Note F) p320-323.191.b  0 
+81  Total     (Line 79 + 80)   0 
+82  Gross Plant Allocation Factor   (Line 16)  #DIV/0! 
+83  A&G Directly Assigned to Transmission     (Line 81 * 82)   #DIV/0! 
+        
+84  Total Transmission O&M     (Line 66 + 75 + 78 + 83)   #DIV/0! 
+ 
+Depreciation & Amortization Expense           
+ Depreciation Expense      
+85  Transmission Depreciation Expense   Attachment 5  0  
+85a   Transmission Amortization Expense   (Note R) Attachment 9   #DIV/0! 
+        
+86  General Depreciation   Attachment 5  0 
+87  Intangible Amortization   (Note A) Attachment 5  0 
+88  Total   (Line 86 + 87)  0 
+89  Wage & Salary Allocation Factor     Line 5   #DIV/0! 
+90  General Depreciation Allocated to Transmission   (Line 88 * 89)  #DIV/0! 
+91  Common Depreciation - Electric Only  (Note A) Attachment 5   0 
+92  Common Amortization - Electric Only   (Note A) Attachment 5   0 
+93  Total   (Line 91 + 92)  0 
+94  Wage & Salary Allocation Factor     (Line 5)   #DIV/0! 
+95  Common Depreciation - Electric Only Allocated to Transmission  (Line 93 * 94)  #DIV/0! 
+96 Total Transmission Depreciation & Amortization     (Line 85 + 85a + 90 + 95)   #DIV/0! 
+        
+Taxes Other than Income             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 5 
+97 Taxes Other than Income   Attachment 2  #DIV/0! 
+98 Total Taxes Other than Income     (Line 97)   #DIV/0! 
+        
+Return / Capitalization Calculations           
+ Long Term Interest      
+99  Long Term Interest   p114-117.62.c through 67.c   0 
+100    Less LTD Interest on Securitization Bonds   (Note P) Attachment 8   0 
+101  Long Term Interest   (Line 99 - 100)  0 
+       
+102 Preferred Dividends   enter positive p118-119.29.c  -- 
+        
+ Common Stock      
+103  Proprietary Capital   p112-113.16.c   0 
+104    Less Preferred Stock  enter negative (Line 113)  0 
+105    Less Account 216.1   enter negative p112-113.12.c   0 
+105a    Less Account 219  enter negative p112-113.15.c   
+106  Common Stock  (Note Y) (Sum Lines 103 to 105a)  0 
+        
+ Capitalization      
+107  Long Term Debt   p112-113.18.d through 21.d   0 
+108    Less Loss on Reacquired Debt   enter negative p110-111.81.c   0 
+109    Plus Gain on Reacquired Debt  enter positive p112-113.61.c   0 
+110    Less ADIT associated with Gain or Loss  enter negative Attachment 1B – ADIT EOY, Line 7  0 
+111    Less LTD on Securitization Bonds (Note P) enter negative Attachment 8  0 
+112  Total Long Term Debt    (Note Z) (Sum Lines 107 to 111)   0 
+113  Preferred Stock  (Note AA) p112-113.3.c   0 
+114  Common Stock   (Line 106)  0 
+115  Total  Capitalization     (Sum Lines 112 to 114)   0 
+        
+116  Debt % Total Long Term Debt  (Line 112 / 115)  0% 
+117  Preferred % Preferred Stock  (Line 113 / 115)  0% 
+118  Common % Common Stock  (Line 114 / 115)  0% 
+        
+119  Debt Cost Total Long Term Debt  (Line 101 / 112)  0.0000 
+120  Preferred Cost Preferred Stock  (Line 102 / 113)  0.0000 
+121  Common Cost Common Stock (Note J) Fixed  0.1050 
+        
+122  Weighted Cost of Debt Total Long Term Debt (WCLTD)  (Line 116 * 119)  0.0000 
+123  Weighted Cost of Preferred Preferred Stock  (Line 117 * 120)  0.0000 
+124   Weighted Cost of Common Common Stock   (Line 118 * 121)   0.0000 
+125 Total Return ( R )   (Sum Lines 122 to 124)  0.0000 
+        
+126 Investment Return = Rate Base * Rate of Return     (Line 59 * 125)   #DIV/0! 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 6 
+Composite Income Taxes          
+  Income Tax Rates      
+127  FIT=Federal Income Tax Rate  (Note I)   0.00% 
+128  SIT=State Income Tax Rate or Composite  (Note I)   0.00% 
+129  p (percent of federal income tax deductible for state purposes) Per State Tax Code  0.00% 
+130  T  T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   0.00% 
+131  T/ (1-T)     0.00% 
+132  Tax Gross-Up Factor 1/(1-T)     
+        
+ Investment Tax Credit Adjustment  (Note T)    
+133  Investment Tax Credit Amortization  enter negative Attachment 1B – ADIT EOY  0  
+134  Tax Gross-Up Factor [1/(1-T)]   (Line 132)  0.00 
+135  ITC Adjustment Allocated to Transmission    [Line 133 *134]   #DIV/0! 
+ Other Income Tax Adjustment       
+136a  Tax Adjustment for AFUDC Equity Component of Transmission Depreciation Expense  (Note V) Attachment 5, Line 136a  0 
+136b  Amortization Deficient / (Excess) Deferred Taxes (Federal) - Transmission Component  (Note V) Attachment 5, Line 136b   
+136c  Amortization Deficient / (Excess) Deferred Taxes (State) - Transmission Component  (Note V) Attachment 5, Line 136c   
+136d  Amortization of Other Flow-Through Items - Transmission Component  (Note V) Attachment 5, Line 136d   
+136e  Other Income Tax Adjustments - Expense / (Benefit)   (Line 136a + 136b + 136c + 136d)   
+136f  Tax Gross-Up Factor [1/(1-T)]   (Line 132)   
+136g  Other Income Tax Adjustment   (Line 136e*136f)   
+      
+136h Income Tax Component =   CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = [Line 131 * 126 * (1-(122 / 125))]  #DIV/0! 
+137 Total Income Taxes     (Line 135 + 136g + 136h)   #DIV/0! 
+REVENUE REQUIREMENT           
+ Summary      
+138  Net Property, Plant & Equipment   (Line 39)  #DIV/0! 
+139  Adjustment to Rate Base   (Line 58)  #DIV/0! 
+140  Rate Base     (Line 59)   #DIV/0! 
+141  O&M   (Line 84)  #DIV/0! 
+142  Depreciation & Amortization   (Line 96)  #DIV/0! 
+143  Taxes Other than Income   (Line 98)  #DIV/0! 
+144  Investment Return   (Line 126)  #DIV/0! 
+145  Income Taxes   (Line 137)  #DIV/0! 
+146   Gross Revenue Requirement     (Sum Lines 141 to 145)   #DIV/0! 
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities     
+147  Transmission Plant In Service   (Line 19)  0 
+148  Excluded Transmission Facilities   (Note M) Attachment 5  0 
+149  Included Transmission Facilities   (Line 147 - 148)  0 
+150  Inclusion Ratio   (Line 149 / 147)  #DIV/0! 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 7 
+151  Gross Revenue Requirement     (Line 146)  #DIV/0! 
+152  Adjusted Gross Revenue Requirement   (Line 150 * 151)  #DIV/0! 
+ Revenue Credits & Interest on Network Credits      
+153  Revenue Credits   Attachment 3   -  
+154  Interest on Network Credits  (Note N) PJM Data   -  
+155   Net Revenue Requirement     (Line 152 - 153 + 154)   #DIV/0! 
+ Net Plant Carrying Charge      
+156  Net Revenue Requirement   (Line 155)  #DIV/0! 
+157  Net Transmission Plant and Abandoned Plant   (Line 19 – 30 + 44a)   -  
+158  Net Plant Carrying Charge    (Line 156 / 157)  #DIV/0! 
+159  Net Plant Carrying Charge without Depreciation   (Line 156 - 85) / 157  #DIV/0! 
+160  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes  (Line 156 - 85 - 126 - 137) / 157  #DIV/0! 
+ Net Plant Carrying Charge Calculation per 100 basis point increase in ROE     
+161  Net Revenue Requirement Less Return and Taxes   (Line 155 - 144 - 145)  #DIV/0! 
+162  Return and Taxes per 100 basis point increase in ROE    Attachment 4  #DIV/0! 
+163  Net Revenue Requirement per 100 basis point increase in ROE   (Line 161 + 162)  #DIV/0! 
+164  Net Transmission Plant and Abandoned Plant   (Line 157)   -  
+165  Net Plant Carrying Charge per 100 basis point increase in ROE   (Line 163 / 164)  #DIV/0! 
+166  Net Plant Carrying Charge per 100 basis point increase in ROE without Depreciation  (Line 162 - 85) / 164  #DIV/0! 
+167  Net Revenue Requirement   (Line 155)  #DIV/0! 
+168  True-up amount   Attachment 6   -  
+169  Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects  Attachment 7   -  
+170  Facility Credits under Section 30.9 of the PJM OATT paid by Utility  Attachment 5    -  
+171  Net Zonal Revenue Requirement   (Line 167 + 168 + 169+ 170)  #DIV/0! 
+ Network Zonal Service Rate     0 
+172  1 CP Peak  (Note L) PJM Data    
+173  Rate ($/MW-Year)  (Note Q) (Line 171 / 172)  #DIV/0! 
+174   Network Service Rate ($/MW/Year)     (Line 173)   #DIV/0! 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 8 
+ Notes 
+A Electric portion only 
+B Exclude Construction Work In Progress and leases that are expensed as O&M (rather than amortized).  New Transmission plant included 
+ which is expected to be placed in service in the current calendar year weighted by number of months it is expected to be in-service.   
+ For the true-up, new transmission plant which was actually placed in service weighted by the number of months it was actually in service 
+C Transmission Portion Only 
+D All EPRI Annual Membership Dues 
+E All Regulatory Commission Expenses  
+F Safety related advertising included in Account 930.1   
+G Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h.  
+I The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes”.  If the utility includes taxes in more than one state, it must explain in 
+Attachment 5 the name of each state and how the blended or composite SIT was developed. 
+J Per FERC's order in Docket No. ER07-576, the Conastone and Waugh Chapel substation projects get an additional 100 basis points to the return on equity on top of a base ROE of 10.0% per FERC order issued in Docket No. EL13-48 and a 50 basis point RTO 
+transmission planning participation adder approved in Baltimore Gas and Electric Co., Docket No. ER07-576, by order issued on July 24, 2007, for a total ROE of 11.5%.  The rest of transmission rate base, except as provided in Note Q below, gets an ROE of 
+10.5% because it excludes the additional 100 basis points approved solely for the Conastone and Waugh Chapel substation projects. 
+K Education and outreach expenses relating to transmission, for example siting or billing  
+L As provided for in Section 34.1 of the PJM OATT and the PJM established billing determinants will not be revised or updated in the annual rate reconciliations per settlement in ER05-515. 
+M Amount of transmission plant excluded from rates, includes investment in generation step-up transformers to the extent included in Plant in Service. 
+N Outstanding Network Credits is the balance of Network Facilities Upgrades Credits due Transmission Customers who have made lump-sum payments  
+   (net of accumulated depreciation) towards the construction of Network Transmission Facilities consistent with Paragraph 657 of Order 2003-A.  
+   Interest on the Network Credits as booked each year is added to the revenue requirement to make the Transmission Owner whole on Line 154. 
+O Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the zone under Schedule 12 are included in Transmission O&M. 
+ If they are booked to account 565, they are included in on line 64. 
+P Securitization bonds may be included in the capital structure per settlement in ER05-515. 
+Q On November 16, 2007, the Federal Energy Regulatory Commission (FERC) granted Baltimore Gas and Electric (BGE) in Docket No. ER07-576 incentive rate  
+ treatment for 6 projects designated in the PJM Regional Transmission Expansion Plan (RTEP) as Transmission Owner Initiated (TOI).  Specifically, FERC  
+ granted an additional 100 basis points to the return on equity (ROE) for these projects, resulting in a final ROE, for these projects, of 11.5%, inclusive of a base ROE of 10.0% per 
+FERC order issued in Docket No. EL13-48 and a 50 basis point ROE transmission planning adder approved in Baltimore Gas and Electric Co., Docket No. ER07-576, by order issued on July 24, 2007.   
+R Costs of Unamortized Abandoned Plant and Amortization of Abandoned Plant for Dedicated Facilities pre-approved for inclusion in this cell subject to Formula Rate Protocols by Commission  
+ order issued in PJM Interconnection, LLC and Baltimore Gas and Electric Co., 150 FERC ¶ 61,054 (2015).  Costs of Unamortized Abandoned Plant and Amortization of Abandoned Plant  
+ for Mid-Atlantic Power Pathway (MAPP) approved for inclusion in this cell subject to Formula Rate Protocols by Commission order issued in PJM Interconnection, L.L.C. and Baltimore Gas  
+ and Electric Co., 152 FERC  ¶ 61,254 (2015).  Costs of Unamortized Abandoned Plant and Amortization of Abandoned Plant for Project Baseline Upgrades b1254 and b1254.1 (“b1254”) 
+ approved for inclusion in this cell subject to Formula Rate Protocols by Commission order issued in PJM Interconnection, L.L.C. and Baltimore Gas and Electric Co., XXX FERC ¶XX1,XXX (XXXX). 
+S See Attachment 5, Cost Support, section entitled “PBOP expense in FERC Account 926 “ for additional information per FERC orders in Docket Nos. EL13-48, EL15-27, and ER16-456. 
+T Baltimore Gas and Electric Company elected to amortize investment tax credits against recoverable income tax expense, rather than to reduce rate base by unamortized investment tax credit.  Amortization reduces income tax expense and reduces the revenue 
+requirement by the amount of the Investment Tax Credit Amortization multiplied by (1/1-T).  
+U Only the transmission portion of amounts reported at Form 1, page 227, line 5 is used.  The transmission portion of line 5 is specified in a footnote to the Form 1, page 227. 
+V See Attachment 5 - Cost Support, section entitled "Other Income Tax Adjustment" for additional information.  
+W The Accumulated Deferred Income Tax (ADIT) balances in Accounts 190, 281, 282, and 283 are measured using the enacted tax rate that is expected to apply when the underlying temporary differences are expected to be settled or realized. To preserve rate 
+base neutrality, theses balances appropriately exclude ADIT amounts associated with income tax related regulatory assets and liabilities.  The balances in Accounts 190, 281, 282 and 283 are adjusted in accordance with Treasury regulation Section 1.167(l)-
+1(h)(6) and averaged in accordance with IRC Section 168(i)(9)(B) in the calculations of rate base in the projected revenue requirement and in the true-up adjustment.  Differences attributable to over-projection of ADIT in the projected revenue requirement will result 
+in a proportionate reversal of the projected prorated ADIT activity in the true-up adjustment to the extent of the over-projection.  Differences attributable to under-projection of ADIT in the projected revenue requirement will result in an adjustment to the projected 
+prorated ADIT activity by 50 percent of the difference between the projected monthly activity and the actual monthly activity.  However, when projected monthly ADIT activity is an increase and actual monthly ADIT activity is a decrease, 50 percent of the actual 
+monthly ADIT activity will be used.  Likewise, when projected monthly ADIT activity is a decrease and actual monthly ADIT activity is an increase, 50 percent of actual monthly ADIT activity will be used.  For the Annual Update (Projected) filing, see Attachment 1A - 
+ADIT Summary, Column  H for inputs.  For the Annual Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs.  
+X These balances represent the unamortized federal and state deficient / (excess) deferred income taxes.  To preserve rate base neutrality and consistent with the exclusion of ADIT amounts associated with income tax-related regulatory assets and liabilities as 
+described in Note W, regulatory assets and liabilities for deficient and excess ADIT are reflected without tax gross-up.    For the Annual Update (Projected) filing, see Attachment 1D - ADIT Rate Base Adjustment, Column C for inputs.  For the Annual Update (True-
+Up) filing, See Attachment 1D - ADIT Rate Base Adjustment, Column F for inputs.  
+Y Common Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 16.c & d in the Form No. 1. The balances for January through November shall represent the actual balances in BGE’s books and 
+records (trial balance or monthly balance sheet). 
+Z Long Term Debt balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. The balances for January through November shall represent the actual balances in BGE’s 
+books and records (trial balance or monthly balance sheet). 
+AA Preferred Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 line 3.c & d in the Form No. 1. The balances for January through November shall represent the actual balances in BGE’s books and 
+records (trial balance or monthly balance sheet). 
+AB Effective October 1, 2025, Construction Work in Progress (“CWIP”) is included in rate base for the 2022 Regional Transmission Expansion Plan Window 3 project (“Window 3 Project”) only, as authorized in FERC Docket No. ER25-XXXX-XXX. 
+ZZ The revisions made in the Order No. 864 Cleanup Filing will not require any adjustment to rates or annual update filings for rates charged and annual updates filings made prior to the date of the order accepting the revised tariff sheets. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 1 
+Baltimore Gas and Electric 
+Accumulated Deferred Income Taxes (ADIT) - Transmission Allocated 
+Attachment 1A - ADIT Summary 
+                  
+   
+Rate Year 
+=                    
+                  
+   
+Accumulated Deferred Income 
+Taxes (Account No. 190)         
+   Days in Period  Projection - Proration of 
+Deferred Tax Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Remaining 
+Days 
+Per Month 
+Total 
+Days 
+in 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G 
+Plus Col. 
+H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 1  
+ADIT Subject 
+to Proration  
+      [Insert 
+Date] 
+                                      
+-    
+   [Insert 
+Date] 
+                                            
+-    
+                  
+ 2  
+Projected / 
+Actual 
+Activity 
+      [Insert 
+Date]     [Insert 
+Date]     
+                  
+ 3  January       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 4  February       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 5  March       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 6  April       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 7  May       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 8  June       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 9  July       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 10  August       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 11  September       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 12  October       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 13  November       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 14  December       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 2 
+ 15  
+Total (Sum 
+of Lines 3 - 
+14) 
+                    
+-                                              
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 16  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+  [Insert 
+Date] 
+ 
+                                     
+-    
+  [Insert 
+Date] 
+   
+                                         
+-    
+ 17  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 18  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 16 + 
+Line 17) 
+                                     
+-    
+ (Col. (M), Line 16 + 
+Line 17)   
+                                         
+-    
+                  
+ 19  
+Ending Balance - 
+ADIT Not Subject to 
+Proration    
+  [Insert 
+Date] 
+ 
+#DIV/0!   [Insert 
+Date] 
+   
+                                         
+-    
+ 20  
+Ending 
+Balance - 
+ADIT 
+Adjustment      
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 21  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 19 + 
+Line 20) 
+#DIV/0!  (Col. (M), Line 19 + 
+Line 20)   
+                                         
+-    
+                  
+ 22  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 18 + 
+Line 21] /2) 
+#DIV/0!  ([Col. (M), Line 18 + 
+Line 21] /2)   
+                                         
+-    
+ 23  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 14 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 14 
+)    
+                                         
+-    
+ 24  
+Amount for 
+Attachment H-2A, 
+Line 40a 
+    (Col. (H), Line 22 + 
+Line 23) 
+#DIV/0!  (Col. (M), Line 22 + 
+Line 23)   
+                                         
+-    
+                  
+   
+Accumulated Deferred Income Taxes - 
+Accelerated Amortization (Account No. 
+281)   
+      
+ 
+          
+   Days in Period  Projection - Proration of 
+Deferred Tax Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G 
+Plus Col. 
+H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 25  
+ADIT Subject 
+to Proration  
+       [Insert 
+Date] 
+                                      
+-    
+   [Insert 
+Date] 
+                                            
+-    
+                  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 3 
+ 26  
+Projected / 
+Actual 
+Activity 
+      [Insert 
+Date]     [Insert 
+Date]     
+                  
+ 27  January       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 28  February       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 29  March       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 30  April       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 31  May       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 32  June       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 33  July       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 34  August       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 35  September       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 36  October       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 37  November       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 38  December       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 39  
+Total (Sum 
+of Lines 27 - 
+38) 
+                    
+-                                              
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 40  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+  [Insert 
+Date] 
+ 
+                                     
+-    
+  [Insert 
+Date] 
+   
+                                         
+-    
+ 41  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 42  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 40 + 
+Line 41) 
+                                     
+-    
+ (Col. (M), Line 40 + 
+Line 41)   
+                                         
+-    
+                  
+ 43  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+   [Insert 
+Date]  
+                                     
+-    
+   [Insert 
+Date]    
+                                         
+-    
+ 44  
+Ending 
+Balance - 
+ADIT 
+Adjustment      
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 45  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 43 + 
+Line 44) 
+                                     
+-    
+ (Col. (M), Line 43 + 
+Line 44)   
+                                         
+-    
+                  
+ 46  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 42 + 
+Line 45] /2) 
+                                     
+-    
+ ([Col. (M), Line 42 + 
+Line 45] /2)   
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 4 
+ 47  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 38 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 38 
+)    
+                                         
+-    
+ 48  
+Amount for 
+Attachment H-2A, 
+Line 40b 
+    (Col. (H), Line 46 + 
+Line 47) 
+                                     
+-    
+ (Col. (M), Line 46 + 
+Line 47)   
+                                         
+-    
+                  
+   
+Accumulated Deferred Income 
+Taxes - Property (Account No. 
+282)    
+      
+ 
+          
+   Days in Period  Projection - Proration of 
+Deferred Tax Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G 
+Plus Col. 
+H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 49  
+ADIT Subject 
+to Proration  
+      [Insert 
+Date] 
+                                      
+-    
+  [Insert 
+Date] 
+                                            
+-    
+                  
+ 50  
+Projected / 
+Actual 
+Activity 
+      [Insert 
+Date]     [Insert 
+Date]     
+                  
+ 51  January       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 52  February       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 53  March       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 54  April       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 55  May       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 56  June       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 57  July       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 58  August       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 59  September       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 60  October       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 61  November       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 62  December       50.00% 
+                                    
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 5 
+ 63  
+Total (Sum 
+of Lines 51 - 
+62) 
+                    
+-                                              
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 64  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+  [Insert 
+Date] 
+ 
+                                     
+-    
+  [Insert 
+Date] 
+   
+                                         
+-    
+ 65  
+Beginning Balance - 
+ADIT Depreciation 
+Adjustment     
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 66  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 64 + 
+Line 65) 
+                                     
+-    
+ (Col. (M), Line 64 + 
+Line 65)   
+                                         
+-    
+                  
+ 67  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+  [Insert 
+Date]  #DIV/0!   [Insert 
+Date]    
+                                         
+-    
+ 68  
+Ending Balance - 
+ADIT Depreciation 
+Adjustment     
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 69  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 67 + 
+Line 68) 
+#DIV/0!  (Col. (M), Line 67 + 
+Line 68)   
+                                         
+-    
+                  
+ 70  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 66 + 
+Line 69] /2) 
+#DIV/0!  ([Col. (M), Line 66 + 
+Line 69] /2)   
+                                         
+-    
+ 71  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 62 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 62 
+)    
+                                         
+-    
+ 72  
+Amount for 
+Attachment H-2A, 
+Line 40c 
+    (Col. (H), Line 70 + 
+Line 71) 
+#DIV/0!  (Col. (M), Line 70 + 
+Line 71)   
+                                         
+-    
+                  
+   
+Accumulated Deferred Income 
+Taxes - Other (Account No. 283)         
+   Days in Period  Projection - Proration of 
+Deferred Tax Activity (Note A) 
+ Actual  - Proration of Deferred Tax Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G 
+Plus Col. 
+H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 73  
+ADIT Subject 
+to Proration  
+       [Insert 
+Date] 
+                                      
+-    
+   [Insert 
+Date] 
+                                            
+-    
+                  
+ 74  
+Projected / 
+Actual 
+Activity 
+      [Insert 
+Date]     [Insert 
+Date]     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 6 
+                  
+ 75  January       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 76  February       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 77  March       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 78  April       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 79  May       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 80  June       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 81  July       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 82  August       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 83  September       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 84  October       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 85  November       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 86  December       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 87  
+Total (Sum 
+of Lines 75 - 
+86) 
+                    
+-                                              
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+                  
+ 88  
+Beginning Balance - 
+ADIT Not Subject to 
+Proration    
+   [Insert 
+Date] 
+ 
+                                     
+-    
+   [Insert 
+Date] 
+   
+                                         
+-    
+ 89  
+Beginning Balance - 
+ADIT Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 90  
+Beginning 
+Balance - 
+DTA / (DTL)     
+ (Col. (H), Line 88 + 
+Line 89) 
+                                     
+-    
+ (Col. (M), Line 88 + 
+Line 89)   
+                                         
+-    
+                  
+ 91  
+Estimated Ending Balance - ADIT 
+Not Subject to Proration   
+   [Insert 
+Date]  #DIV/0!    [Insert 
+Date]    
+                                         
+-    
+ 92  
+Ending 
+Balance - 
+ADIT 
+Adjustment      
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 93  
+Ending 
+Balance - 
+DTA / (DTL)      
+ (Col. (H), Line 91 + 
+Line 92) 
+#DIV/0!  (Col. (M), Line 91 + 
+Line 92)   
+                                         
+-    
+                  
+ 94  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 90 + 
+Line 93] /2) 
+#DIV/0!  ([Col. (M), Line 90 + 
+Line 93] /2)   
+                                         
+-    
+ 95  
+Prorated 
+ADIT  
+     
+(Col. (H), 
+Line 86 ) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 86 
+)    
+                                         
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 7 
+ 96  
+Amount for 
+Attachment H-2A, 
+Line 40d 
+    (Col. (H), Line 94 + 
+Line 95) 
+#DIV/0!  (Col. (M), Line 94 + 
+Line 95)   
+                                         
+-    
+                  
+   
+Accumulated Deferred 
+Investment Tax Credits (Account 
+No. 255)    
+  
+ 
+  
+   Days in Period  Projection - Proration of 
+Deferred ITC Activity (Note A) 
+ Actual  - Proration of Deferred ITC Activity (Note B) 
+   (A) (B) (C)  (D) (E)   (F) (G) (H)  (I) (J) (K) (L) (M) 
+ 
+Line  
+ 
+Month 
+Days  
+Per 
+Month 
+Prorated 
+Days 
+Per Month 
+Total 
+Days 
+Per 
+Future  
+Test 
+Period 
+Proration 
+Amount  
+(Column 
+C / 
+Column 
+D) 
+ Projected 
+ Monthly 
+Activity 
+Prorated 
+Projected  
+Monthly 
+Activity  
+(Column 
+E x 
+Column 
+F) 
+Prorated  
+Projected 
+Balance  
+(Col. G 
+Plus Col. 
+H, 
+Preceding 
+Balance) 
+ Actual 
+Monthly 
+Activity 
+Difference 
+Projected 
+vs. Actual 
+(Note C) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note D) 
+Preserve 
+Proration  
+(Actual vs 
+Projected) 
+(Note E) 
+Preserved 
+Prorated 
+Actual 
+Balance  
+(Col. K + 
+Col. L + 
+Col. M, 
+Preceding 
+Balance) 
+                  
+ 97  
+DITC 
+Subject to 
+Proration  
+        [Insert 
+Date] 
+                                      
+-    
+    [Insert 
+Date] 
+                                            
+-    
+                  
+ 98  
+Projected / 
+Actual 
+Activity 
+       [Insert 
+Date]      [Insert 
+Date]     
+                  
+ 99  January       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 100  February       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 101  March       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 102  April       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 103  May       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 104  June       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 105  July       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 106  August       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 107  September       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 108  October       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 109  November       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 110  December       50.00% 
+                                    
+-    
+                                 
+-    
+                                     
+-    
+                              
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-    
+                                         
+-    
+ 111  
+Total (Sum 
+of Lines 99 - 
+110) 
+                    
+-                                              
+-    
+                                 
+-                                    
+-    
+                                       
+-    
+                                      
+-    
+                                      
+-      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 8 
+                  
+ 112  
+Beginning Balance - 
+DITC Not Subject to 
+Proration    
+    [Insert 
+Date] 
+ 
+                                     
+-    
+    [Insert 
+Date] 
+   
+                                         
+-    
+ 113  
+Beginning Balance - 
+DITC Adjustment     
+ (Note F)  
+                                     
+-    
+      
+                                         
+-    
+ 114  
+Beginning 
+Balance - 
+DITC     
+ (Col. (H), Line 112 + 
+Line 113) 
+                                     
+-    
+ (Col. (M), Line 112 + 
+Line 113)   
+                                         
+-    
+                  
+ 115  
+Estimated Ending Balance - DITC 
+Not Subject to Proration   
+    [Insert 
+Date]  
+                                     
+-    
+    [Insert 
+Date]    
+                                         
+-    
+ 116  
+Ending 
+Balance - 
+DITC 
+Adjustment      
+ (Note F) 
+ 
+                                     
+-    
+   
+   
+                                         
+-    
+ 117  
+Ending 
+Balance - 
+DITC       
+ (Col. (H), Line 115 + 
+Line 116) 
+                                     
+-    
+ (Col. (M), Line 115 + 
+Line 116)   
+                                         
+-    
+                  
+ 118  
+Average Balance as 
+adjusted (non-
+prorated)    
+ ([Col. (H), Line 114 + 
+Line 117] /2) 
+                                     
+-    
+ ([Col. (M), Line 114 
++ Line 117] /2)   
+                                         
+-    
+ 119  
+Prorated 
+DITC 
+     (Col. (H), 
+Line 110 
+) 
+                                      
+-    
+ 
+(Col. 
+(M), 
+Line 
+110 )    
+                                         
+-    
+ 120  
+Amount for 
+Attachment H-2A, 
+Line 40e 
+    (Col. (H), Line 118 + 
+Line 119) 
+                                     
+-    
+ (Col. (M), Line 118 + 
+Line 119)   
+                                         
+-    
+                  
+  Instructions                                 
+                  
+       
+ 
+1. For purposes of calculating transmission allocated projected activity, use Columns (F), (G), and (H) and set the 
+"Rate Year" below to "Projected Activity".  For purposes of calculating the "True-Up" adjustment, use Columns (I), 
+(J), (K), (L), and (M) and set the "Rate Year" below to "True-Up Adjustment". 
+ 
+ 
+    
+                  
+ Rate Year  
+Projected 
+Activity Check     
+ 
+   
+ 
+    
+                  
+       
+ 
+2. For the Annual Update (Projected) filing, see Attachment 1A - ADIT Summary, Column  H for inputs.  For the 
+Annual Update (True-Up) filing, See Attachment 1A - ADIT Summary, Column M for inputs.        
+                  
+  Notes                                  
+                  
+ A       
+        
+        
+  
+The computations on this workpaper apply the proration rules of Reg. Sec. 1.167(l)-1(h)(6) to the 
+annual activity of accumulated deferred income taxes subject to the normalization requirements 
+.  Activity related to the portions of the account balances not subject to the proration requirement 
+are averaged instead of prorated.  For accumulated deferred income taxes subject to the 
+normalization requirements, activity for months prior to the future portion of the test period is 
+averaged rather than prorated.  This section is used to prorate the projected ADIT balance.       
+ B       
+        
+  
+The balances in Accounts 190, 281, 282 and 283 are adjusted in accordance with Treasury 
+regulation Section 1.167(l)-1(h)(6) and averaged in accordance with IRC Section 168(i)(9)(B) in the 
+calculations of rate base in the projected revenue requirement and in the true-up adjustment.  
+      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 9 
+        
+        
+        
+  
+Differences attributable to over-projection of ADIT in the projected revenue requirement will result 
+in a proportionate reversal of the projected prorated ADIT activity in the true-up adjustment to the 
+extent of the over-projection.  Differences attributable to under-projection of ADIT in the projected 
+revenue requirement will result in an adjustment to the projected prorated ADIT activity by 50 
+percent of the difference between the projected monthly activity and the actual monthly activity.  
+However, when projected monthly ADIT activity is an increase and actual monthly ADIT activity is 
+a decrease, 50 percent of the actual monthly ADIT activity will be used.  Likewise, when projected 
+monthly ADIT activity is a decrease and actual monthly ADIT activity is an increase, 50 percent of 
+actual monthly ADIT activity will be used.  This section is used to calculate ADIT activity in the 
+true-up adjustment only.       
+ C       
+        
+        
+  
+Column J is the difference between projected monthly and actual monthly activity (Column I minus 
+Column F).  Specifically, if projected and actual activity are both positive, a negative in Column J 
+represents over-projection (amount of projected activity that did not occur) and a positive in 
+Column J represents under-projection (excess of actual activity over projected activity). If projected 
+and actual activity are both negative, a negative in Column J represents under-projection (excess 
+of actual activity over projected activity) and a positive in Column J represents over-projection 
+(amount of projected activity that did not occur).                                                                                                                    
+ D       
+  
+Column K preserves proration when actual monthly and projected monthly activity are either both 
+increases or decreases.  Specifically, if Column J is over-projected, enter Column G x [Column 
+I/Column F].  If Column J is under-projected, enter the amount from Column G and complete 
+Column L).  In other situations, enter zero.                                                                       
+ E       
+  
+Column L applies when (1) Column J is under-projected AND (2) actual monthly and projected 
+monthly activity are either both increases or decreases.  Enter the amount from Column J.  In other 
+situations, enter zero.                                                                                                                        
+ F       
+  
+This section is reserved for adjustments necessary to comply with the IRS normalization rules. 
+      
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 10 
+Baltimore Gas and Electric 
+Accumulated Deferred Income Taxes (ADIT) 
+Attachment 1B - ADIT Worksheet - End of Year 
+           
+           
+   
+     
+Gas, 
+Production, Only     
+     
+Distribution, 
+or  Transmission Plant  Labor   
+ Line 
+ADIT (Not 
+Subject to 
+Proration)  Total 
+Other 
+Related Related Related Related              
+ 1 ADIT-190  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 2 ADIT-281  
+                                             
+-    
+                                         
+-    
+                           
+-    
+                                           
+-    
+                                             
+-      
+ 3 ADIT-282  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 4 ADIT-283  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+ 5 ADITC-255  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+                
+ 6 
+Subtotal - 
+Transmission 
+ADIT  #DIV/0! 
+                                         
+-    
+                           
+-    #DIV/0! #DIV/0!   
+           
+           
+ Line Description   Total       
+           
+ 7 
+ADIT 
+(Reacquired 
+Debt)          
+           
+   
+   
+ 
+Note: ADIT associated with Gain or Loss on Reacquired Debt included in ADIT-283, Column B is excluded from 
+rate base and instead included in Cost of Debt on Attachment H-2A, Line 110.   A deferred tax (liability) should 
+be reported as a positive balance and a deferred tax asset should be reported as a negative balance on 
+Attachment H-2A, Line 110. The ADIT balance is based on the 13-month average.   
+           
+           
+ 
+ 
+ 
+ 
+In filling out this attachment, a full and complete description of each item and justification for the allocation to 
+Columns B - F and each separate ADIT item will be listed, dissimilar items with amounts exceeding $100,000 will 
+be listed separately. 
+ 
+ 
+           
+ (A)   (B) (C) (D) (E)  (F) (G)  
+     
+Gas, 
+Production, Only     
+     
+Distribution, 
+or  Transmission Plant  Labor   
+ ADIT-190 (Not Subject to Proration)  Total 
+Other 
+Related Related Related Related Justification  
+                
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-2A PT. I.a - Baltimore Gas and Electric Co 
+Effective Date: 10/1/2025 - Docket #: ER25-3018-000 - Page 11 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                 
+ 
+Subtotal: ADIT-190 (Not Subject to 
+Proration)   
+                                               
+-  
+                                           
+-  
+                             
+-  
+                                             
+-  
+                                               
+-     
+                    
+ 
+Less: ASC 740 ADIT Adjustments 
+excluded from rate base          
+ 
+Less: ASC 740 ADIT Adjustments 
+related to unamortized ITC          
+ 
+Less: ASC 740 ADIT balances related 
+to income tax regulatory assets / 
+(liabilities)          
+ 
+Less: OPEB related ADIT, Above if not 
+separately removed          
+                    
+ 
+Total: ADIT-190 (Not Subject to 
+Proration)   
+                                               
+-  
+                                           
+-  
+                             
+-  
+                                             
+-  
+                                               
+-     
+                    
+ 
+Wages & Salary 
+Allocator             #DIV/0!    
+ 
+Gross Plant 

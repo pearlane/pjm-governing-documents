@@ -1,0 +1,1458 @@
+Attachment H-21A 
+page 1 of 5 
+For the 12 months ended 12/31/ 
+ Formula Rate - Non-Levelized      Rate Formula Template   
+ Utilizing FERC Form 1 Data 
+           
+ American Transmission Systems, Inc. 
+Line        Allocated   
+No.        Amount   
+1 GROSS REVENUE REQUIREMENT  (page 3, line 29, col 5)      $                        -    
+          
+           
+  REVENUE CREDITS (Note T) Total  Allocator     
+2a   Account No. 451 (page 4, line 34) -  TP 0.00000  -   
+2b   Account No. 454 (page 4, line 35) -   TP 0.00000  -    
+3   Account No. 456 (page 4, line 36) -   TP 0.00000  -   
+4a   Revenues from Grandfathered Interzonal Transactions   TP 0.00000  -    
+4b   Revenues from service provided by the ISO at a discount   TP 0.00000  -    
+5a Legacy MTEP Credit (Appendix E, page 2, line 3, col. 12) -   TP 0.00000  -   
+5b Reserved -   TP 0.00000  -    
+5c Reserved -   TP 0.00000  -    
+5d Transmission Enhancement Credit (Appendix D, page 2, line 2, col. 10) -   TP 0.00000  -    
+6a TOTAL REVENUE CREDITS  (sum lines 2a-5d)  $                  -         $                      -      
+6b TRUE-UP ADJUSTMENT WITH INTEREST (Protocols)         
+7 NET REVENUE REQUIREMENT (line 1 minus line 6a plus line 6b)       $                      -     
+           
+           
+           
+ DIVISOR        Total   
+8 1 Coincident Peak (CP) (MW)     (Note A)       
+9 Average 12 CPs (MW)     (Note B)      
+10  Reserved       -   
+11  Reserved       -   
+12  Reserved       -   
+13  Reserved       -   
+14  Reserved       -   
+15  Reserved          
+           
+   Total         
+           
+16 Annual Network Rate ($/MW/Yr) (line 7 / line 8)  $                  -           
+           
+   Peak Rate    Off-Peak Rate  
+   Total     Total   
+           
+17 Point-To-Point Rate ($/MW/Year) (line 7 / line 9)  $                  -         $                      -      
+18 Point-To-Point Rate ($/MW/Month) (line 17/12)  $                  -         $                      -      
+19 Point-To-Point Rate ($/MW/Week) (line 17/52)  $                  -         $                      -      
+20 Point-To-Point Rate ($/MW/Day) (line 19/5; line 19/7)  $                  -         $                      -      
+21 Point-To-Point Rate ($/MWh) (line 17/4,160; line 17/8,760)  $                  -         $                      -       
+ 
+ 
+   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 2 
+      
+Attachment H-21A 
+page 2 of 5 
+ Formula Rate - Non-Levelized  Rate Formula Template  
+  For the 12 months ended 
+12/31/     
+ Utilizing FERC Form 1 Data 
+           
+ American Transmission Systems, Inc. 
+ (1) (2) (3)    (4)  (5)   
+  Form No. 1      Transmission   
+Line  Page, Line, Col. Company Total  Allocator  (Col 3 times Col 4)   
+No. RATE BASE:          
+ GROSS PLANT IN SERVICE          
+1   Production 205.46.g (Notes U & X)   NA        
+2   Transmission 207.58.g (Notes U & X)    TP 0.00000  -    
+3   Distribution 207.75.g (Notes U & X)   NA        
+4   General & Intangible 205.5.g & 207.99.g (Notes U & X)    W/S 1.00000  -   
+5   Common 356.1 (Notes U & X)   CE 1.00000  -   
+6 TOTAL GROSS PLANT (sum lines 1-5)  -  GP= 0.000%  -   
+           
+ ACCUMULATED DEPRECIATION          
+7   Production 219.20-24.c (Notes U & X)   NA        
+8   Transmission 219.25.c (Notes U & X)    TP 0.00000  -    
+9   Distribution 219.26.c (Notes U & X)   NA        
+10   General & Intangible 200.21.c & 219.28.c (Notes U & X)    W/S 1.00000  -   
+11   Common 356.1 (Notes U & X)   CE 1.00000  -   
+12 TOTAL ACCUM. DEPRECIATION  (sum lines 7-11) -     -   
+            
+ NET PLANT IN SERVICE          
+13   Production (line 1- line 7) -         
+14   Transmission (line 2- line 8) -     -   
+15   Distribution (line 3 - line 9) -         
+16   General & Intangible (line 4 - line 10) -     -   
+17   Common (line 5 - line 11) -     -   
+18 TOTAL NET PLANT (sum lines 13-17)  -  NP= 0.000%  -   
+          
+           
+ ADJUSTMENTS TO RATE BASE  (Note F & HH)         
+19   Account No. 281 (enter negative) Appendix G(3)   NA      
+20   Account No. 282 (enter negative) Appendix G(3)    NP 0.00000  -    
+21   Account No. 283 (enter negative) Appendix G(3)    NP 0.00000  -    
+22   Account No. 190  Appendix G(3)    NP 0.00000  -   
+23   Account No. 255 (enter negative) Appendix G(3)   NP 0.00000  -   
+24 TOTAL ADJUSTMENTS  (sum lines 19- 23) -      -    
+           
+25 LAND HELD FOR FUTURE USE  214.x.d  (Notes G & Y)    TP 0.00000  -   
+           
+ WORKING CAPITAL  (Note H)           
+26   CWC   calculated -     -   
+27   Materials & Supplies  (Note G) 227.8.c & .16.c (Note Y)   TE 0.00000  -    
+28a   Prepayments (Account 165) 111.57.c (Notes Y & CC)    GP 0.00000  -   
+28b Unfunded Reserve Plant-related (enter negative) (Acct Nos. 228.1-228.4, 242) 
+(Notes Y & Z) -  NP 0.00000  -   
+28c Unfunded Reserve Labor-related (enter negative) (Acct Nos. 228.1-228.4, 242) 
+(Notes Y & Z) -  W/S 1.00000  -   
+29 TOTAL WORKING CAPITAL  (sum lines 26 - 28c) -     -   
+             
+30 RATE BASE  (sum lines 18, 24, 25, & 29) -     -   
+   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 3 
+       
+Attachment H-21A 
+page 3 of 5 
+ Formula Rate - Non-Levelized  Rate Formula Template  For the 12 months ended 12/31/     
+ Utilizing FERC Form 1 Data 
+           
+ American Transmission Systems, Inc. 
+ (1) (2) (3)    (4)  (5)   
+Line  Form No. 1      Transmission   
+No.  Page, Line, Col. Company Total  Allocator  (Col 3 times Col 4)   
+ O&M (Note DD)          
+1   Transmission  321.112.b    TE 0.00000  -   
+1a      Less LSE Expenses Included in Transmission O&M Accounts  (Note W)     1.00000  -   
+2      Less Account 565 321.96.b     1.00000  -   
+2a     Less Deferred Internal Integration Costs (Note C)   TE 0.00000  -   
+3   A&G 323.197.b (Note BB)    W/S 1.00000  -    
+4      Less FERC Annual Fees    W/S 1.00000  -   
+5      Less EPRI & Reg. Comm. Exp. & Non-safety  Ad.  (Note I)    W/S 1.00000  -   
+5a      Plus Transmission Related Reg. Comm.  Exp.  (Note I)    TE 0.00000  -   
+6   Common 356.1   CE 1.00000  -   
+6a Amortization of Regulatory Asset Appendices B, C, & F, Line 14, 
+Column F (Note EE) 
+  DA 1.00000 
+ 
+- 
+  
+7   Transmission Lease Payments      1.00000  -   
+8 TOTAL O&M  (sum lines 1, 3, 5a, 6, 6a, 7 less 1a, 2, 2a, 4, 5) -     -   
+           
+ DEPRECIATION AND AMORTIZATION EXPENSE         
+9   Transmission  336.7.b (Note U)    TP 0.00000  -   
+10   General & Intangible  336.1.f & 336.10.f (Note U)    W/S 1.00000  -   
+11   Common 336.11.b (Note U)   CE 1.00000  -   
+12 TOTAL DEPRECIATION  (sum lines 9 - 11) -     -   
+           
+  TAXES OTHER THAN INCOME TAXES  (Note J)         
+   LABOR RELATED          
+13           Payroll 263.i    W/S 1.00000  -   
+14           Highway and vehicle 263.i    W/S 1.00000  -   
+15   PLANT RELATED           
+16          Property 263.i    GP 0.00000  -   
+17          Gross Receipts 263.i    NA   -   
+18          Other 263.i    GP 0.00000  -   
+19          Payments in lieu of taxes    GP 0.00000  -   
+20 TOTAL OTHER TAXES  (sum lines 13 - 19) -     -   
+           
+  INCOME TAXES           (Note K)         
+21      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = 0.00%        
+22      CIT=(T/1-T) * (1-(WCLTD/R)) =  0.00%        
+        where WCLTD=(page 4, line 27) and R= (page 4, line30)         
+        and FIT, SIT & p are as given in footnote K.         
+23       1 / (1 - T)  = (from line 21)  0.0000        
+24 Amortized Investment Tax Credit (266.8f) (enter negative)          
+           
+25 Income Tax Calculation = line 22 * line 28  -  NA   -   
+26 ITC adjustment (line 23 * line 24)  -   NP 0.00000  -    
+26a Tax Effect of Permanent Differences and AFUDC Equity (App G, line 1, col 5) 
+(Note FF) 
+-  DA 1.00000 
+ 
+- 
+  
+26b (Excess)/Deficient Deferred Income Taxes (App G, lines 2 & 3, col 3)(Note GG)   DA 1.00000     
+27 Total Income Taxes  (sum lines 25 through 26b) -       -   
+            
+28 RETURN   -  NA   -   
+   [Rate Base (page 2, line 30) * Rate of Return (page 4, line 30)]         
+             
+29 GROSS REV. REQUIREMENT  -     -   
+   (sum lines 8, 12, 20, 27, 28 )          
+   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 4 
+       
+Attachment H-21A 
+page 4 of 5 
+ Formula Rate - Non-Levelized       Rate Formula Template  For the 12 months ended 12/31/     
+Utilizing FERC Form 1 Data 
+           
+American Transmission Systems, Inc. 
+                  SUPPORTING CALCULATIONS AND NOTES        
+Line (1) (2) (3) (4)  (5)  (6)   
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES         
+1 Total transmission plant  (page 2, line 2, column 3)      -   
+2 Less transmission plant excluded from ISO rates  (Note M)         
+3 Less transmission plant included in OATT Ancillary Services  (Note N )         
+4 Transmission plant included in ISO rates  (line 1 less lines 2 & 3)      -   
+5 Percentage of transmission plant included in ISO Rates  (line 4 divided by line 1)     TP= 0.00000   
+           
+ TRANSMISSION EXPENSES           
+           
+6 Total transmission expenses  (page 3, line 1, column 3)      -   
+7 Less transmission expenses included in OATT Ancillary Services  (Note L)          
+8 Included transmission expenses  (line 6 less line 7)      -   
+9 Percentage of transmission expenses after adjustment  (line 8 divided by line 6)      0.00000   
+10 Percentage of transmission plant included in ISO Rates  (line 5)     TP 0.00000   
+11 Percentage of transmission expenses included in ISO Rates  (line 9 times line 10)     TE= 0.00000   
+           
+  WAGES & SALARY ALLOCATOR   (W&S)         
+   Form 1 Reference $ TP  Allocation     
+12   Production 354.20.b  0.00  -     
+13   Transmission 354.21.b   0.00  -     
+14   Distribution 354.23.b  0.00  -  W&S Allocator   
+15   Other 354.24,25,26.b  0.00  -  ($ / Allocation)   
+16   Total  (sum lines 12-15)  -   - = 1.00000 = WS  
+           
+ COMMON PLANT ALLOCATOR  (CE)  (Note O)         
+   $   % Electric   W&S Allocator   
+17   Electric 200.3.c     (line 17 / line 20)  (line 16)  CE 
+18   Gas 201.3.d    1.00000 * 1.00000 = 1.00000 
+19   Water 201.3.e          
+20   Total  (sum lines 17 - 19)  -        
+           
+ RETURN (R)       $   
+21  Long Term Interest  (117, sum of 62c through 67c) (Note AA)         
+22  Preferred Dividends  (118.29c) (positive number)                          
+           
+                                           Development of Common Stock:         
+23  Proprietary Capital  (112.16c) (Note X)          
+24  Less Preferred Stock  (line 28)       -   
+25  Less Account 216.1  (112.12c)  (enter negative) (Note X)        
+26  Common Stock (sum lines 23-25)    -   
+      Cost     
+   $ %  (Note P)  Weighted   
+27   Long Term Debt  (112, sum of 18 through 21) (Note X)   0%  0.0000  0.0000 =WCLTD  
+28   Preferred Stock  (112.3d) (Note X)  0%  0.0000  0.0000   
+29   Common Stock  (line 26)  - 0%  0.1038   0.0000   
+30 Total  (sum lines 27-29)  -      0.0000 =R  
+           
+ REVENUE CREDITS          
+ ACCOUNT 447 (SALES FOR RESALE) (310-311) (Note Q)        
+31   a. Bundled Non-RQ Sales for Resale (311.x.h)         
+32   b. Bundled Sales for Resale  included in Divisor on page 1         
+33   Total of line 31 less line 32        -    
+          
+34 ACCOUNT 451 (MISCELLANEOUS SERVICE REVENUE) (Note S) (300.17.b)        
+          
+35 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY)  (Note R) (300.19.b)         
+           
+36 ACCOUNT 456 (OTHER ELECTRIC REVENUES)  (Note V) (330.x.n)           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 5 
+      
+Attachment H-21A 
+page 5 of 5 
+Formula Rate - Non-Levelized  Rate Formula Template  For the 12 months ended 12/31/     
+Utilizing FERC Form 1 Data 
+           
+American Transmission Systems, Inc. 
+           
+ General Note:  References to pages in this formulary rate are indicated as:  (page#, line#, col.#)        
+ References to data from FERC Form 1 are indicated as:   #.y.x  (page, line, column)        
+Note           
+Letter           
+A As provided by PJM and in effect at the time of the annual rate calculations pursuant to Section 34.1 of the PJM OATT.  
+B Peak as would be reported on page 401, column d of Form 1 at the time of the zonal peak for the twelve month period ending October 31 of the calendar year used to calculate rates. 
+C Amount shown in Exhibit No. FE-100, Page 29 of 33, for Deferred Internal Integration Costs. 
+D Reserved 
+E Reserved 
+F Pertaining to adjustments to rate base, the balances in Accounts 190, 281, 282 and 283 should exclude all FASB 106 or 109 related amounts.  For example, any and all amounts in contra accounts identified as 
+regulatory assets or liabilities related to FASB 106 or 109 should be excluded.  The  balance of Account 255 is reduced by prior flow throughs and excluded if the utility chose to utilize amortization of tax 
+credits against taxable income as discussed in Note K.  Account 281 is not allocated.  Account 190 excludes any amounts relating to Charitable Contribution Limitations, Asset Retirement Obligations, and FAS 
+123 impacts related to Performance Shares and Restricted Stock Units.  Accounts 282 and 283 exclude any amounts relating to AFUDC, offsets relating to Asset Retirement Obligations in Account 190, and 
+offsets relating to Charitable Contribution Limitations in Account 190.  Account 282 also excludes (i) Extraordinary Property Losses; and (ii) any Asset Impairment amounts incurred on or after January 1, 2015.  
+For either (i) or (ii) above, ATSI is not precluded from requesting FERC approval through a section 205 filing for inclusion in the rate calculation.  When determining rate base adjustments related to ADIT in 
+Appendix G(3) ADIT, ATSI will, on a prospective basis only to become effective as of ATSI’s first PTRR following the effective date of the issuance of a Final Order approving the Settlement in Docket No. 
+ER20-1740-000 without modification or condition unacceptable to the Settling Parties, only apply the pro-rating averaging methodology to ADIT components related to or resulting from book/tax depreciation 
+differences including but not limited to Net Operating Losses.  ATSI will use the beginning/ending averaging methodology for all other non-depreciation related ADIT components.  Barring an order from the 
+Commission under FPA Section 205 or 206 approving a different methodology for ATSI, ATSI will follow the foregoing methodology until or unless the IRS or FERC issues any future guidance specifically 
+permitting a different averaging methodology (e.g. pro-rating) for non-depreciation related ADIT components.  If the IRS or FERC issues such guidance, ATSI may utilize such methodology without submitting 
+an additional FPA section 205 filing and without additional changes to Appendix G(3) ADIT. 
+G Identified in Form 1 as being only transmission related. 
+H Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 8, column 5.  Prepayments are the electric related prepayments booked to Account No. 165 and 
+reported on Page 111, line 57 in the Form 1. 
+I Line 5 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1.  Line 5a - Regulatory 
+Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h.  
+J Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year.  Taxes related to income are excluded.  Gross receipts taxes are not included in 
+transmission revenue requirement in the Rate Formula Template, since they are recovered elsewhere. 
+K The currently effective income tax rate,  where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes".  If the utility 
+is taxed in more than one state it must attach a work paper showing the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that elected to utilize amortization of tax 
+credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f) 
+multiplied by (1/1-T) (page 3, line 26). 
+  Inputs Required: FIT =          
+  SIT=     (State Income Tax Rate or Composite SIT) 
+  p =     (percent of federal income tax deductible for state purposes) 
+L Removes dollar amount of transmission expenses included in the OATT ancillary services rates, including Account Nos. 561.1 - 561.3, and 561.BA. 
+M Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+N Removes dollar amount of transmission plant included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT ancillary services.  For these 
+purposes, generation step-up facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down. 
+O Enter dollar amounts 
+P Debt cost rate = long-term interest (line 21) / long term debt (line 27).  Preferred cost rate = preferred dividends (line 22) / preferred outstanding (line 28).  No change in ROE may be made absent a filing with 
+FERC under Section 205 or Section 206 of the Federal Power Act.  Per the Settlement Agreement approved by order dated October 29, 2015, in Docket No. ER15-303-000, ATSI's stated ROE is set to: (a) 
+12.38% through June 30, 2015; (b) 11.06% for the period July 1, 2015 through December 31, 2015; and (c) 10.38% for the period commencing January 1, 2016. 
+Q Line 33 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1 and all other uses are to be included in the divisor. 
+R Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+S Excludes revenues unrelated to transmission services. 
+T The revenues credited on page 1, lines 2a-4b shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for service under this tariff) reflecting the Transmission 
+Owner's integrated transmission facilities.  They do not include revenues associated with FERC annual charges, gross receipts taxes, ancillary services, or facilities not included in this template (e.g., direct 
+assignment facilities and GSUs) which are not recovered under this Rate Formula Template.  The revenues on lines 5a-5d are supported by separate references for each item. 
+U Plant in Service, Accumulated Depreciation, and Depreciation Expense amounts exclude Asset Retirement Obligation amounts unless authorized by FERC.  Depreciation Rates:  
+FERC Account 352 Depr %: 2.24%; FERC Account 353 Depr %: 2.06%; FERC Account 354 Depr %: 2.24%; FERC Account 355 Depr %: 3.09%; FERC Account 356 Depr %: 2.69%; FERC Account 357 Depr 
+%: 2.00%; FERC Account 358 Depr %: 2.04%; FERC Account 359 Depr %: 1.33%.  No change to these Depreciation Rates may be made absent a filing with FERC under Section 205 or Section 206 of the 
+Federal Power Act. 
+V On Line 36, enter revenues from RTO settlements that are associated with NITS and firm Point-to-Point Service for which the load is not included in the divisor to derive ATSI's zonal rates.  Exclude non-firm 
+Point-to-Point revenues, and revenues related to MTEP and RTEP projects.   
+W Account Nos. 561.4, 561.8, and 575.7 consist of RTO expenses billed to load-serving entities and are not included in Transmission Owner revenue requirements. 
+X Calculate using a 13 month average balance. 
+Y Calculate using average of beginning and end of year balance. 
+Z Only include from Account No. 242 amounts relating to Vacation Accruals and Employee Incentive Compensation. 
+AA Short-term debt and related interest expense shall not be included in the formula rate calculation. 
+BB A&G excludes any credit facility fees charged to Account 930.2.  PBOP included in FERC Acct. 926, as reported in FERC Form 1 page 323.187.b, is included in the Administrative 
+& General Expenses input to Attachment H-21A, page 3 of 5, line 3. The total PBOP amount in FERC Acct. 926 is $0, per company records.  No change to this PBOP amount may be made absent a filing with 
+FERC under Section 205 or Section 206 of the Federal Power Act. 
+CC Prepayments shall exclude prepayments of taxes attributable to time periods ending before the beginning of the time period for which the rate calculation is being made. 
+DD ATSI will exclude (i) Extraordinary Property Losses; and (ii) any Asset Impairment amounts incurred on or after January 1, 2015.  For either (i) or (ii) above, ATSI is not precluded from requesting FERC 
+approval through a section 205 filing for inclusion in the rate calculation. 
+EE Regulatory Assets include Vegetation Management from Appendix B-Veg, RTO Realignment Cost Adjustments ("RRCA") from Appendix C-RRCA, and Legacy MTEP Debits from Appendix F-MTEP Debits. 
+Each regulatory asset amortization period is 10 years beginning January 1, 2021; this amortization will be recorded in Account 407.3.  These inputs are limited to the regulatory assets amounts and amortization 
+periods approved in Docket No. ER20-1740-000; no other regulatory asset amounts may be included as inputs without specific Commission approval pursuant to FPA section 205 or 206.   
+FF Includes the annual income tax cost or benefits due to permanent differences or differences between the amounts of expenses or revenues recognized in one period for ratemaking purposes and the amounts 
+recognized for income tax purposes which do not reverse in one or more other periods.  These permanent differences are to include those approved in Docket No. ER20-1740-000 (specifically, the cost of income 
+taxes on the Allowance for Other Funds Used During Construction, a 50% Disallowance for Meals and Entertainment, and Non-Deductible Parking); no other permanent differences may be included without 
+specific Commission approval pursuant to FPA section 205 or 206. 
+GG Upon enactment of changes in tax law, income tax rates and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, resulting in excess or 
+deficient accumulated deferred taxes for schedule M balances not directly taken to the P&L  Such excess or deficient deferred taxes  attributed to the transmission function will be based upon tax records and 
+calculated in the calendar year in which the excess or deficient amount was measured and recorded for financial reporting purposes. 
+HH The settlement filed in Docket No. ER20-
+1739-003 on October 18, 2022 specifies the 
+calculation method for certain ADIT 
+balances. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-21A Appendix A - ATSI 
+Effective Date: 6/1/2011 - Docket #: ER11-2815-000 - Page 1 
+ 
+      
+Attachment  H-21A, Appendix A 
+       
+page 1 of 1 
+ 
+      For the 12 months ended 12/31/ 
+        
+        
+Schedule 1A Rate Calculation 
+         
+ 1  $             -    Attachment H-21A, Page 4, Line 7  
+ 2  $             -    Revenue Credits for Sched 1A  - Note A  
+ 3  $             -    Net Schedule 1A Expenses (Line 1 - Line 2) 
+        
+ 4   Annual MWh in ATSI Zone - Note B  
+ 5  Schedule 1A rate $/MWh (Line 3/ Line 4) 
+        
+Note:        
+A Revenues received pursuant to PJM Schedule 1A revenue allocation 
+procedures for transmission service outside of ATSI's zone during the year 
+used to calculate rates under Attachment H-21A. 
+        
+B Load expressed in MWh consistent with load used for billing under 
+Schedule 1A for the ATSI zone.  Data from RTO settlement systems for the 
+calendar year prior to the rate year. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-21A Appendix B - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-002 - Page 1 
+ 
+ 
+ 
+ 
+ 
+           Attachment  H-21A, Appendix B 
+           page 1 of 1 
+           For the 12 months ended 12/31/ 
+              Vegetation Management Regulatory Asset  
+  To be completed in conjunction with Attachment H-21A  
+             [A] [B] [C]  [D]  [E] [F] [G] [H]  
+ Monthly Balance  Source  
+Months Remaining in 
+Amortization Period 
+ 
+Beginning Balance 
+Amortization 
+Expense 
+Additions 
+(Deductions) Ending Balance  
+       (= prior month col [H]) (= [E] / [D])  (= [E] - [F] + [G])  
+1 December 2019 Form No. 1 p232  121                                        -     
+2 January 2020 FERC Account 182.3  120                                     -                                       -                                       -                                       -     
+3 February 2020 FERC Account 182.3  119                                     -                                       -                                       -                                       -     
+4 March 2020 FERC Account 182.3  118                                     -                                       -                                       -                                       -     
+5 April 2020 FERC Account 182.3  117                                     -                                       -                                       -                                       -     
+6 May 2020 FERC Account 182.3  116                                     -                                       -                                       -                                       -     
+7 June 2020 FERC Account 182.3  115                                     -                                       -                                       -                                       -     
+8 July 2020 FERC Account 182.3  114                                     -                                       -                                       -                                       -     
+9 August 2020 FERC Account 182.3  113                                     -                                       -                                       -                                       -     
+10 September 2020 FERC Account 182.3  112                                     -                                       -                                       -                                       -     
+11 October 2020 FERC Account 182.3  111                                     -                                       -                                       -                                       -     
+12 November 2020 FERC Account 182.3  110                                     -                                       -                                       -                                       -     
+13 December 2020 Form No. 1 p232 and company records 
+ 
+109                                     -                                       -                                       -                                       -    
+ 
+14 
+     
+ Total =                                    -      
+ 
+15       (sum lines 2-13)     
+16     Input to Attachment H-21A:  page 3 of 5, line 6a     
+Notes      
+ 
+     
+A Vegetation Management costs are limited to those approved for recovery in Docket No. ER20-1740-000 and no additional costs may be included without specific Commission approval pursuant to FPA section 205 or 206. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A Appendix C - ATSI  
+Effective Date: 12/1/2020 - Docket #: ER20-1740-002 - Page 1 
+  
+ 
+   
+ 
+    
+    
+ 
+          Attachment  H-21A, Appendix C           page 1 of 1           For the 12 months ended 12/31/ 
+           
+ RTO Realignment Cost Adjustment ("RRCA")  
+ To be completed in conjunction with Attachment H-21A  
+           
+ [A] [B] [C]  [D] [E] [F] [G] [H]  
+ Monthly Balance  Source  
+Months Remaining in 
+Amortization Period Beginning Balance Amortization Expense 
+Additions 
+(Deductions) Ending Balance  
+      (= prior month col [H]) (= [E] / [D])  (= [E] - [F] + [G])  
+1 December 2019 Form No. 1 p232  121                                       -     
+2 January 2020 FERC Account 182.3  120                                    -                                       -                                       -                                       -     
+3 February 2020 FERC Account 182.3  119                                    -                                       -                                       -                                       -     
+4 March 2020 FERC Account 182.3  118                                    -                                       -                                       -                                       -     
+5 April 2020 FERC Account 182.3  117                                    -                                       -                                       -                                       -     
+6 May 2020 FERC Account 182.3  116                                    -                                       -                                       -                                       -     
+7 June 2020 FERC Account 182.3  115                                    -                                       -                                       -                                       -     
+8 July 2020 FERC Account 182.3  114                                    -                                       -                                       -                                       -     
+9 August 2020 FERC Account 182.3  113                                    -                                       -                                       -                                       -     
+10 September 2020 FERC Account 182.3  112                                    -                                       -                                       -                                       -     
+11 October 2020 FERC Account 182.3  111                                    -                                       -                                       -                                       -     
+12 November 2020 FERC Account 182.3  110                                    -                                       -                                       -                                       -     
+13 December 2020 Form No. 1 p232 and company records 
+ 
+109                                    -                                       -                                       -                                       -    
+ 
+14 
+     
+Total =                                    -      
+ 
+15      (sum lines 2-13)     
+16     Input to Attachment H-21A: page 3 of 5, line 6a     
+           
+Notes           
+A RTO Realignment costs are limited to those approved for recovery in Docket No. ER20-1740-000 and no additional costs may be included without specific Commission approval pursuant to FPA section 205 or 206. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A 
+Appendix D - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 1 
+Attachment  H-21A, Appendix D 
+      page 1 of 2 
+    For the 12 months ended 12/31/   
+ 
+Transmission Enhancement Credit 
+To be completed in conjunction with Attachment H-21A 
+ 
+  (1)  (2)  (3)  (4) 
+Line  
+No    Reference  Transmission  Allocator 
+1  Gross Transmission Plant - Total  Attach. H-21A, p. 2, line 2, col. 5 (Note A)  $                       -   
+2  Net Transmission Plant - Total  Attach. H-21A, p. 2, line 14, col. 5 (Note B)  $                       -   
+         
+  O&M EXPENSE       
+3  Total O&M Allocated to Transmission  Attach. H-21A, p. 3, line 8, col. 5  $                       -   
+4  Annual Allocation Factor for O&M  (line 3 divided by line 1, col. 3)  0.000000%  0.000000% 
+         
+  TAXES OTHER THAN INCOME TAXES       
+5  Total Other Taxes  Attach. H-21A, p. 3, line 20, col. 5  $                       -   
+6  Annual Allocation Factor for Other Taxes  (line 5 divided by line 1, col. 3)  0.000000%  0.000000% 
+         
+7  Annual Allocation Factor for Expense  Sum of line 4 and 6    0.000000% 
+         
+  INCOME TAXES       
+8  Total Income Taxes  Attach. H-21A, p. 3, line 27, col. 5  $                       -   
+9  Annual Allocation Factor for Income Taxes  (line 8 divided by line 2, col. 3)  0.000000%  0.000000% 
+         
+  RETURN        
+10  Return on Rate Base  Attach. H-21A, p. 3, line 28, col. 5  $                       -   
+11  Annual Allocation Factor for Return on Rate Base  (line 10 divided by line 2, col. 3)  0.000000%  0.000000% 
+         
+12  Annual Allocation Factor for Return  Sum of line 9 and 11    0.000000% 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A 
+Appendix D - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 2 
+ 
+        
+  Attachment  H-21A, Appendix D 
+            page 2 of 2 
+           For the 12 months ended 12/31/ 
+             
+             
+  Transmission Enhancement Credit 
+  To be completed in conjunction with Attachment H-21A 
+             
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 
+Line 
+No. Project Name 
+RTEP 
+Project 
+Number 
+Project Gross 
+Plant  
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual 
+Expense 
+Charge 
+Project Net 
+Plant  
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual 
+Revenue 
+Requirement 
+True-up 
+Adjustment 
+Annual Revenue 
+Requirement 
+With True-up 
+      (Note C) (Page 1, line 7) (Col. 3 * Col. 4) (Note D) (Page 1, line 12) (Col. 6 * Col. 7) (Note E) (Sum Col. 5, 8, & 9) 
+(Appendix D –  
+True-up Col. i) 
+(Sum Col. 10 & 11) 
+(Note F) 
+                 
+1a Project 1 1  $               -    0.000000% $0  $               -    0.000000% $0  $               -    $  $0 
+1b Project 2 2  $               -    0.000000% $0  $               -    0.000000% $0  $               -    $  $0 
+1c Project 3 3  $               -    0.000000% $0  $               -    0.000000% $0  $               -    $  $0 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                        
+2 Transmission Enhancement Credit for Attachment H-21A Page 1, Line 5d     -   
+             
+Notes 
+          
+  
+ 
+A  Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-21A.  
+B  Net Transmission Plant is that identified on page 2 line 14 of Attachment H-21A. 
+C  Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 above.  This value includes subsequent capital investments required to maintain the 
+project in-service. 
+D  Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E  Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-21A page 3 line 12. 
+F  PJM will bill these amounts through Schedule 12 charges. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A Appendix D 
+(True-up) 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 1 
+  Attachment H-21A, Appendix D True-up 
+  page 1 of 1 
+  True-up Year     
+  
+Transmission Enhancement Credit - True-up 
+To be completed after Appendix D for the True-up Year is updated using actual data 
+ 
+  (a) (b) (c)  (d) (e) (f) (g) (h) (i) 
+Line 
+No.   Project Name 
+RTEP 
+Project 
+Number 
+Actual 
+Appendix D 
+Revenues 
+Projected 
+Annual Revenue 
+Requirement 
+Actual Appendix D 
+Revenues 
+Allocated to 
+Projects 
+Actual Annual 
+Revenue 
+Requirement 
+True-up 
+Adjustment 
+Principal 
+Under/(Over) 
+Applicable 
+Interest on  
+Under/(Over) 
+True-up 
+Adjustment 
+with Interest 
+Under/(Over) 
+       
+Projected 
+Appendix D 
+p 2 of 2, col. 12 
+[Col. c, line 1 * 
+(Col. d, line 2x / 
+Col. d, line 3)] 
+Actual 
+Appendix D 
+p 2 of 2, col. 12 Col. f - Col. e 
+ Col. g * [(line 4a / 
+line 4b) - 1] Col. g + Col. h 
+           
+1 [A] Actual PJM TEC Revenues for True-up Year         
+           
+2a  Project 1 1   -  - - - 
+2b  Project 2 2   -  - - - 
+2c  Project 3 3   -  - - - 
+           
+           
+           
+           
+             
+3  Subtotal   - - -    
+           
+        -   
+           
+4a  Revenue Requirement True-up with Interest (Appendix H)     0   
+4b  Revenue Requirement True-up - Over/Under Recovery (Appendix H)   0   
+           
+           
+           
+           
+NOTE          
+ [A] Amount included in revenues reported on page 330, column k of FERC Form 1.     
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A 
+Appendix E - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 1 
+    Attachment  H-21A, Appendix E 
+        page 1 of 2 
+    For the 12 months ended 12/31/     
+         
+Legacy MTEP Credit Calculation 
+  To be completed in conjunction with Attachment H-21A 
+         
+         
+         
+         
+         
+         
+  (1)  (2)  (3)  (4) 
+         
+Line    Reference  Transmission  Allocator 
+No.         
+         
+1  Gross Transmission Plant - Total  Attach. H-21A, p. 2, line 2, col. 5 (Note A)   $                       -      
+2  Net Transmission Plant - Total  Attach. H-21A, p. 2, line 14, col. 5 (Note B)   $                       -      
+         
+  O&M EXPENSE       
+3  Total O&M Allocated to Transmission  Attach. H-21A, p. 3, line 8, col. 5   $                       -      
+4  Annual Allocation Factor for O&M  (line 3 divided by line 1, col. 3)  0.000000%  0.000000% 
+         
+  TAXES OTHER THAN INCOME TAXES       
+5  Total Other Taxes  Attach. H-21A, p. 3, line 20, col. 5   $                       -      
+6  Annual Allocation Factor for Other Taxes  (line 5 divided by line 1, col. 3)  0.000000%  0.000000% 
+         
+7  Annual Allocation Factor for Expense  Sum of line 4 and 6    0.000000% 
+         
+  INCOME TAXES       
+8  Total Income Taxes  Attach. H-21A, p. 3, line 27, col. 5   $                       -      
+9  Annual Allocation Factor for Income Taxes  (line 8 divided by line 2, col. 3)  0.000000%  0.000000% 
+         
+  RETURN        
+10  Return on Rate Base  Attach. H-21A, p. 3, line 28, col. 5   $                       -      
+11  Annual Allocation Factor for Return on Rate Base  (line 10 divided by line 2, col. 3)  0.000000%  0.000000% 
+         
+12  Annual Allocation Factor for Return  Sum of line 9 and 11    0.000000% 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A Appendix E - ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 2 
+ 
+            Attachment  H-21A, Appendix E 
+              page 2 of 2 
+            For the 12 months ended 12/31/     
+                 
+    Legacy MTEP Credit Calculation 
+    To be completed in conjunction with Attachment H-21A 
+                 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14)   
+Line  
+No. Project Name 
+MTEP 
+Project 
+Number 
+Project Gross 
+Plant  
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual 
+Expense 
+Charge 
+Project Net 
+Plant  
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual Revenue 
+Requirement ATSI Zone Share 
+MISO Share of 
+Annual Revenue 
+Requirement 
+True-up 
+Adjustment 
+MISO Share of 
+Annual Revenue 
+Requirement 
+with True-up   
+     (Note C) (Page 1, line 7) (Col. 3 * Col. 4) (Note D) (Page 1, line 12) (Col. 6 * Col. 7) (Note E) 
+(Sum Col. 5, 8 
+& 9) (Note F) 
+Col. 10*( 1-Col. 
+11) 
+(Note G) 
+(Appendix E – 
+True-up Col. i) 
+(Sum Col. 12 & 
+13) 
+(Note H)   
+                    
+1a Project 1 1  $        -    0.000000% $0  $        -    0.000000% $0   $ 0.000000% $ $ $0   
+1b Project 2 2  $        -    0.000000% $0  $        -    0.000000% $0   $ 0.000000% $ -$ $0   
+1c Project 3 3  $        -    0.000000% $0  $        -    0.000000% $0   $ 0.000000% $ -$ $0   
+                 
+                 
+                     
+                     
+                     
+                     
+                            
+2 Annual Totals             $                -       
+                 
+3 Legacy MTEP Credit for Attachment H-21A Page 1, Line 5a       -          
+                 
+Note                 
+Letter                 
+A    Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-21A and includes any sub lines 2a or 2b etc. and is inclusive of any CWIP included in rate base when authorized by FERC order. 
+B    Net Transmission Plant is that identified on page 2 line 14 of Attachment H-21A and includes any sub lines 14a or 14b etc. and is inclusive of any CWIP included in rate base when authorized by FERC order. 
+C    Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 above and includes CWIP in rate base if applicable.  This value includes subsequent capital investments required to maintain 
+the project in-service. 
+ 
+D    Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E    Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-21A page 3 line 12. 
+F    ATSI Zone allocation from the Midwest ISO MTEP report when the project was approved.  
+G    MISO Share is the value to be included as a credit in Attachment H-21A page 1, line 5a.  . 
+H    The Midwest ISO will recover this amount in MTEP-related charges applicable to Midwest ISO zones. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-21A Appendix E (True-up) 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 1 
+  Attachment H-21A, Appendix E True-up 
+  page 1 of 1 
+  True-up Year     
+  
+Legacy MTEP Credit Calculation - True-up 
+To be completed after Appendix E for the True-up Year is updated using actual data 
+ 
+  (a) (b) (c)  (d) (e) (f) (g) (h) (i)  
+Line 
+No.   Project Name 
+MTEP 
+Project 
+Number 
+Actual 
+Appendix E 
+Revenues 
+Projected 
+Annual 
+Revenue 
+Requirement 
+Actual Appendix 
+E Revenues 
+Allocated to 
+Projects 
+Actual Annual 
+Revenue 
+Requirement 
+True-up 
+Adjustment 
+Principal 
+Under/(Over) 
+Applicable 
+Interest on  
+Under/(Over) 
+True-up 
+Adjustment with 
+Interest 
+Under/(Over) 
+ 
+ 
+       
+Projected 
+Appendix E 
+p 2 of 2, col. 14 
+[Col. c, line 1 * 
+(Col. d, line 2x / 
+Col. d, line 3)] 
+Actual 
+Appendix E 
+p 2 of 2, col. 14 Col. f - Col. e 
+Col. g * [(line 4a 
+/ line 4b) - 1] Col. g + Col. h   
+            
+1 [A] Actual MTEP Credit Revenues for True-up Year          
+            
+2a  Project 1 1   -  - - -  
+2b  Project 2 2   -  - - -  
+2c  Project 3 3   -  - - -  
+            
+            
+            
+            
+              
+3  Subtotal   - - -     
+            
+4a  Revenue Requirement True-up with Interest (Appendix H)     0    
+4b  Revenue Requirement True-up - Over/Under Recovery (Appendix H)   0    
+            
+            
+NOTE            
+ [A] Amount included in revenues reported on page 330, column k of FERC Form 1.       
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A Appendix F - ATSI  
+Effective Date: 12/1/2020 - Docket #: ER20-1740-002 - Page 1 
+   
+Attachment  H-21A, Appendix F 
+   page 1 of 1 
+   For the 12 months ended 12/31/     
+    
+ 
+ 
+ Legacy MTEP Debit Calculation 
+ To be completed in conjunction with Attachment H-21A 
+          
+ [A] [B] [C]  [D] [E] [F] [G] [H] 
+ Monthly Balance  Source  
+Months Remaining in Amortization 
+Period Beginning Balance Amortization Expense 
+Additions 
+(Deductions) Ending Balance 
+      (= prior month col [H]) (= [E] / [D])  (= [E] - [F] + [G]) 
+1 December 2019 Form No. 1 p232  121                                       -    
+2 January 2020 FERC Account 182.3  120                                    -                                       -                                       -                                       -    
+3 February 2020 FERC Account 182.3  119                                    -                                       -                                       -                                       -    
+4 March 2020 FERC Account 182.3  118                                    -                                       -                                       -                                       -    
+5 April 2020 FERC Account 182.3  117                                    -                                       -                                       -                                       -    
+6 May 2020 FERC Account 182.3  116                                    -                                       -                                       -                                       -    
+7 June 2020 FERC Account 182.3  115                                    -                                       -                                       -                                       -    
+8 July 2020 FERC Account 182.3  114                                    -                                       -                                       -                                       -    
+9 August 2020 FERC Account 182.3  113                                    -                                       -                                       -                                       -    
+10 September 2020 FERC Account 182.3  112                                    -                                       -                                       -                                       -    
+11 October 2020 FERC Account 182.3  111                                    -                                       -                                       -                                       -    
+12 November 2020 FERC Account 182.3  110                                    -                                       -                                       -                                       -    
+13 December 2020 Form No. 1 p232 and company records 
+ 
+109                                    -                                       -                                       -                                       -    
+14 
+     
+Total =                                    -      
+15      (sum lines 2-13)    
+16     Input to Attachment H-21A: page 3 of 5, line 6a    
+          
+Notes          
+A Legacy MTEP costs are limited to those approved for recovery in Docket No. ER20-1740-000 and no additional costs may be included without specific Commission approval pursuant to FPA section 205 or 206. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-21A Appendix G- ATSI 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 1 
+Attachment H-21A, Appendix G 
+page 1 of 1 
+For the 12 months ended 12/31/            
+ Income Tax Adjustments  
+ To be completed in conjunction with Attachment H-21A         
+ [1]  [2] [3] [4] [5]    Source Balance Gross-up Tax Rate Tax Effect, including     
+December 31, from Att H-21A Gross-up, Permanent Diff     
+2020 page 3 of 5, line 23 and AFUDC Equity       
+(= Col. [3] * [4])     
+[D] [F] [E] 
+1 Permanent Differences & AFUDC Equity [A] sum lines 1a through 1c                                    -    0.00%                                            -    
+1a AFUDC Equity [B] company records                                        n/a n/a 
+1b 50% Disallowance for Meals and Entertainment [B] company records                                        n/a n/a 
+1c Non-Deductible Parking [B] company records                                        n/a n/a 
+2 Amortized Excess Deferred Taxes (enter negative) [C] Appendix G1, Line 40, Column H                                    -    n/a  n/a  
+3 Amortized Deficient Deferred Taxes  [C] Appendix G1, Line 40, Column H                                    -    n/a  n/a                       
+Notes:       
+[A] These specific categories of permanent differences were approved in Docket No. ER20-1740-000. No other permanent differences may be included without specific Commission approval 
+pursuant to FPA section 205 or 206. 
+[B] The cost of income taxes on the Allowance for Other Funds Used During Construction ("AFUDC Equity”) component is the gross cumulative annual amount based upon tax records of 
+capitalized AFUDC Equity embedded in the gross plant attributable to the transmission function.  The sources shall be PowerTax Report 216 for the current-year AFUDC Equity 
+component and Provision Report 5100 for the current-year 50% Disallowance for Meals and Entertainment component and current-year Non-Deductible Parking component.  Column [3] 
+balances are calculated by multiplying these components by the tax rate on Attachment H-21A, page 3 of 5, line 21. 
+[C] Upon enactment of changes in tax law, income tax rates and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, 
+resulting in excess or deficient accumulated deferred taxes for schedule M balances not directly taken to the P&L.  Such excess or deficient deferred taxes attributed to the transmission 
+function will be based upon tax records and calculated in the calendar year in which the excess or deficient amount was measured and recorded for financial reporting purposes. The 
+balance located within Column 3, line 2 and line 3, is the net impact of excess deferred and deficient amortization. 
+[D] Amounts from lines 2 and 3 included on Attachment H-21A, page 3 of 5, line 26b. 
+[E] 
+[F] 
+Amount from line 1 included on Attachment H-21A, page 3 of 5, line 26a. 
+The tax rates utilized on Attachment H-21A for other gross-ups also will be utilized in the gross-up performed for amortized excess/deficient ADIT.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Att. H-21A Appendix G - ATSI (EDIT Workpaper) 
+Effective Date: 1/27/2020 - Docket #: ER20-1739-002 - Page 1 
+              Attachment  H-21A, Appendix G(2) 
+              page 1 of 3 
+              For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+  
+   Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L 
+(Note B) 
+(Excess) Deficient 
+Deferred Income Taxes 
+(Notes B & C) 
+(Excess) Deficient Deferred Income Tax Activity post tax remeasurement 
+    
+Line 
+No. 
+Vintage 
+(Note A)   
+M Item 
+12/31/2017 ADIT 
+Balance 
+(Prior to 2017 TCJA) 
+12/31/2017 ADIT 
+Balance 
+(After 2017 TCJA) 
+Change in ADIT due 
+to 2017 TCJA 
+Tax Expense 
+(Benefit) 
+ADIT Offset to Regulatory 
+Asset (Liability) (= -(Col. E 
++ Col F)) 
+Other Adjustments 
+Including Gross-up 
+True-ups 
+2017 Return-to-
+Accrual Adjustment 
+(Recorded in 2018) 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance (= Col. G + Col. H + 
+Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset (Account 182.3) or 
+Regulatory Liability (Account 254) as 
+of 12/31/17 
+  Non-Property Related Items:           
+1  190 Accounts           
+1a                                                            -                                                       -        
+2   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+3  282 Accounts           
+3a                                                            -                                                       -        
+4   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+5  283 Accounts           
+5a                                                            -                                                       -        
+6   Total For 283 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Non-Property Related Items:           
+7     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+8     Net Tax Gross-up                                                          -      
+9     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+  Property Related Items:           
+10  190 Accounts           
+10a                                                            -                                                       -        
+11   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+12  282 Accounts           
+12a                                                            -                                                       -        
+13   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Property Related Items:           
+14     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+15     Net Tax Gross-up                                                          -      
+16     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+  Total Property and Non-property Related Items:           
+17     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)               
+18     Net Tax Gross-up               
+19     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Att. H-21A Appendix G - ATSI (EDIT Workpaper) 
+Effective Date: 1/27/2020 - Docket #: ER20-1739-002 - Page 2 
+ 
+ 
+ 
+              Attachment  H-21A, Appendix G(2) 
+              page 2 of 3 
+              For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+  
+   Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L 
+(Note B) 
+(Excess) Deficient 
+Deferred Income Taxes 
+(Notes B & C) 
+(Excess) Deficient Deferred Income Tax Activity post tax remeasurement 
+    
+Line 
+No. 
+Vintage 
+(Note A)   
+M Item 
+12/31/20XX ADIT 
+Balance 
+(Prior to Vintage) 
+12/31/20XX ADIT 
+Balance 
+(After Vintage) 
+Change in ADIT due 
+to Vintage 
+Tax Expense 
+(Benefit) 
+ADIT Offset to Regulatory 
+Asset (Liability) (= -(Col. E 
++ Col F)) 
+Other Adjustments 
+Including Gross-up 
+True-ups 
+20XX Return-to-
+Accrual Adjustment 
+(Recorded in 20XX) 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance (= Col. G + Col. H + 
+Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset (Account 182.3) 
+or Regulatory Liability (Account 
+254) as of 12/31/XX 
+  Non-Property Related Items:           
+20  190 Accounts           
+20a                                                            -                                                       -        
+21   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+22  282 Accounts           
+22a                                                            -                                                       -        
+23   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+24  283 Accounts           
+24a                                                            -                                                       -        
+25   Total For 283 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Non-Property Related Items:           
+26     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+27     Net Tax Gross-up                                                          -      
+28     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+  Property Related Items:           
+29  190 Accounts           
+29a                                                            -                                                       -        
+30   Total For 190 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+31  282 Accounts           
+31a                                                            -                                                       -        
+32   Total For 282 Accounts:                                    -                                       -                                       -                                       -                                                 -                                       -                                       -                                                   -      
+  Total Property Related Items:           
+33     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+34     Net Tax Gross-up                                                          -      
+35     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+  Total Property and Non-property Related Items:           
+36     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)                                                  -                                       -                                       -                                                   -      
+37     Net Tax Gross-up                                                  -                                       -                                       -                                                   -      
+38     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                                                  -                                       -                                       -                                                   -      
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Att. H-21A Appendix G - ATSI (EDIT Workpaper) 
+Effective Date: 1/27/2020 - Docket #: ER20-1739-002 - Page 3 
+ 
+ 
+ 
+ 
+              
+Attachment  H-21A, 
+Appendix G(2) 
+              page 3 of 3 
+              
+For the 12 months ended 
+12/31/ 
+               
+Notes:              
+A Excess/deficient ADIT will be tracked separately for each federal or state tax rate change, to be identified by the appropriate vintage in column A.  ATSI will modify Appendix G(1) to add an additional page for each additional 
+vintage without pursuing a Federal Power Act Section 205 filing.   
+B Upon a tax rate change (federal or state), the Company remeasures its deferred tax assets and liabilities to the new applicable corporate tax rate.  For schedule M items not directly taken to the P&L, the result of this remeasurement is a change to the net 
+deferred tax assets/liabilities recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from 
+customers.  The remeasurement is effectuated within PowerTax and Tax Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference 
+occurred).  The difference in the two results is reclassified from ADIT to regulatory assets/liabilities for deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and Account 254, respectively are presented grossed-up for tax 
+purposes.  For ratemaking purposes, these grossed-up balances are treated as FAS109 and subsequently removed from rate base, thereby ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to 
+remeasure ADIT balances (increase or decrease) due to any future federal or state income tax rate change. 
+C Reflects the end of vintage year balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 
+278 (Account 254). 
+  
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Att. H-21A Appendix G -ATSI (ADIT Workpaper) 
+Effective Date: 1/27/2020 - Docket #: ER20-1739-002 - Page 1 
+                Attachment  H-21A, Appendix G(3) 
+                page 1 of 1 
+    Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255        For the 12 months ended 12/31/ 
+   [A] 273.8.k 275.2.k 277.9.k 234.8.c 267.h         
+1 December 31 2019                               -                                       -                                      -          
+                 
+Values from line 1 adjusted per Notes.                       
+Adjusted values for input to Attachment H-21A, Page 2, Lines 19-23                 
+     (enter negative) (enter negative) (enter negative)  (enter negative)  Total       
+      [B] [C] [D] [E]          
+2 December 31 2019                               -                                   -                                 -                                 -                                 -                                      -          
+                   
+3 Ending Balance                                  -                                   -                                 -                                 -                                 -                                       -          
+                 
+                 
+                 
+                 
+Notes:                
+[A] Reference for December balances as would be reported in FERC Form 1.       
+[B] FERC Account No. 282 is adjusted for the following items.       
+      Charitable   Contribution FAS 109       
+     FAS 143 - ARO Contr. Limit Asset  In Aid of (include AFUDC- Extraordinary      
+     (Acct 190 Offset) (Acct 190 Offset) Impairment FAS 106 Construction related) Prop. Losses FAS123R Normalization  EDIT FAS109 [F] Other FAS109 [F] 
+    2019                        
+[C] FERC Account No. 283  is adjusted for the following items.       
+      Charitable  Contribution FAS 109        
+     FAS 143 - ARO Contr. Limit  In Aid of (include AFUDC-        
+     (Acct 190 Offset) (Acct 190 Offset) FAS 106 Construction related) Normalization     EDIT FAS109 [F] Other FAS109 [F] 
+    2019                     
+[D] FERC Account No. 190 is adjusted for the following items:       
+         Contribution FAS 109       
+      Charitable   In Aid of (include AFUDC-       
+     FAS 143 - ARO  Contr. Limit  FAS 123R FAS 106 Construction related) Normalization    EDIT FAS109 [F] Other FAS109 [F] 
+    2019                      
+                 
+[E] Based on prior elections and IRS rulings, the 3% Investment Tax Credit ("ITC") and the 4% ITC may be used to reduce rate base as well as utilizing amortization of the tax credits against taxable income. 
+As a result, only the 3% and 4% values in FERC Form 1 column (h) on page 267 should be reported under Acct. No. 255. 
+ 
+     
+[F] FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Appendix G(1) total. Other FAS109 does not include EDIT.      
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Att. H-21A Appendix G -ATSI (Permanent EDIT Worksheet) 
+Effective Date: 12/1/2020 - Docket #: ER20-1739-004 - Page 1 
+                Attachment  H-21A, Appendix G(3) 
+                page 1 of 1 
+    Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255        For the 12 months ended 12/31/ 
+   [A] 273.8.k 275.2.k 277.9.k 234.8.c 267.h         
+ FERC Form 1 Totals                
+1 December 31 2019                               
+-                                       
+-    
+                                            
+2 December 31 2020                               
+-                                       
+-            
+                 
+ Prorated balance                
+3 December 31 2020               
+                 
+ Non-prorated balance                
+4 December 31 2019               
+5 December 31 2020               
+                 
+Values from line 1 adjusted per Notes.                       
+Adjusted values for input to Attachment H-21A, Page 2, Lines 19-23                 
+     (enter 
+negative) (enter negative) (enter negative)  (enter 
+negative) 
+ Total       
+      [B] [C] [D] [E]          
+ Prorated balance                
+6 December 31 2020                               
+-                                   -                                 -                                 
+-    
+                             
+-    
+                                  -          
+                 
+ Non-prorated balance                
+7 December 31 2019               
+8 December 31 2020               
+                   
+9 ADIT Adjustment to Attachment H-21A [H]                                  
+-                                   -                                 -                                 
+-    
+                             
+-                                       -          
+                 
+                 
+                 
+                 
+Notes:                
+[A] Reference for December balances as would be reported in FERC Form 1.       
+[B] FERC Account No. 282 is adjusted for the following items.       
+      Charitable   Contribution FAS 109       
+     FAS 143 - ARO Contr. Limit Asset  In Aid of (include AFUDC- Extraordinary      
+     (Acct 190 Offset) (Acct 190 Offset) Impairment FAS 106 Construction related) Prop. Losses FAS123R Normalization [G]  EDIT FAS109 [F] Other FAS109 [F] 
+ Prorated balance                
+10 December 31   2020                        
+                 
+ Non-prorated balance                
+11 December 31   2019             
+12 December 31   2020             
+                 
+[C] FERC Account No. 283  is adjusted for the following items.       
+      Charitable  Contribution FAS 109        
+     FAS 143 - ARO Contr. Limit  In Aid of (include AFUDC-        
+     (Acct 190 Offset) (Acct 190 Offset) FAS 106 Construction related) Normalization [G]     EDIT FAS109 [F] Other FAS109 [F] 
+ Prorated balance                
+13 December 31   2020                        
+                 
+ Non-prorated balance                
+14 December 31   2019             
+15 December 31   2020             
+        
+[D] FERC Account No. 190 is adjusted for the following items:       
+         Contribution FAS 109       
+      Charitable   In Aid of (include AFUDC-       
+     FAS 143 - ARO Contr. Limit FAS 123R FAS 106 Construction related) Normalization [G]    EDIT FAS109 [F] Other FAS109 [F] 
+ Prorated balance                
+16 December 31   2020                        
+                 
+ Non-prorated balance                
+17 December 31   2019             
+18 December 31   2020             
+                 
+[E] Based on prior elections and IRS rulings, the 3% Investment Tax Credit ("ITC") and the 4% ITC may be used to reduce rate base as well as utilizing amortization of the tax credits against taxable income. 
+As a result, only the 3% and 4% values in FERC Form 1 column (h) on page 267 should be reported under Acct. No. 255. 
+ 
+     
+[F] FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Appendix G(1) total. Other FAS109 does not include EDIT.       
+[G] Normalization is sourced from WP03-A, page 1, column O.       
+[H] For purposes of the ADIT adjustment to rate base on Line 9, any specific prorated ADIT balance in Accounts 190, 282, and 283 will utilize a prorated year-end balance; any non-prorated balances will utilize a beginning/ending average balance.  The net balance of the 
+components will be the adjustment to rate base on Line 9. 
+      
+        
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R -
+-> OATT Attachment H-21A Appendix H 
+Effective Date: 12/1/2020 - Docket #: ER20-1740-000 - Page 1 
+Attachment H-21A, Appendix H 
+page 1 of 1 
+For the 12 months ended 12/31/     
+True-up with Interest 
+ 
+ 
+2019 Revenue Requirement Collected by PJM 
+Based on Forecast filed on Oct 15, 2018 
+ 
+ 
+Reconciliation Revenue Requirement For Year 2019 
+Available May 1, 2020 
+ 
+ 
+True-up Adjustment - 
+Over (Under) Recovery 
+   
+  
+       
+ -  = - 
+   
+        
+  
+ 
+Over (Under) Recovery Plus Interest 
+Average Monthly  
+Interest Rate Months 
+Calculated  
+Interest Amortization 
+Surcharge 
+ (Refund) 
+ Owed 
+Interest Rate on Amount of Refunds or Surcharges (Note 1)      
+            
+An over or under collection will be recovered prorata over 2018, held for 2019 and returned prorata over 2020 
+       
+Calculation of Interest     Monthly    
+January Year 2019 - 0.0000% 12 -  - 
+February Year 2019 - 0.0000% 11 -  - 
+March Year 2019 - 0.0000% 10 -  - 
+April Year 2019 - 0.0000% 9 -  - 
+May Year 2019 - 0.0000% 8 -  - 
+June Year 2019 - 0.0000% 7 -  - 
+July Year 2019 - 0.0000% 6 -  - 
+August Year 2019 - 0.0000% 5 -  - 
+September Year 2019 - 0.0000% 4 -  - 
+October Year 2019 - 0.0000% 3 -  - 
+November Year 2019 - 0.0000% 2 -  - 
+December Year 2019 - 0.0000% 1 -  - 
+     -  - 
+           
+     
+Annual 
+    
+January through December Year 2020 - 0000% 12 -  - 
+        
+Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months 
+ 
+Monthly 
+   
+January Year 2021 - 0.0000%  - - - 
+February Year 2021 - 0. 0000%  - - - 
+March Year 2021 - 0. 0000%  - - - 
+April Year 2021 - 0. 0000%  - - - 
+May Year 2021 - 0. 0000%  - - - 
+June Year 2021 - 0. 0000%  - - - 
+July Year 2021 - 0. 0000%  - - - 
+August Year 2021 - 0. 0000%  - - - 
+September Year 2021 - 0. 0000%  - - - 
+October Year 2021 - 0. 0000%  - - - 
+November Year 2021 - 0. 0000%  - - - 
+December Year 2021 - 0. 0000%  - - - 
+     -   
+        
+True-Up with Interest      -  
+Less Over (Under) Recovery     -  
+Total Interest      -  
+Note 1 Interest Rate on Amount of Refunds or Surcharges is the monthly average interest rate calculated in accordance with paragraph VII.A(ii) of Attachment H-21B (the 
+Formula Rate Protocols). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-21B - ATSI Protocol 
+Effective Date: 1/1/2015 - Docket #: ER15-303-002 - Page 1 

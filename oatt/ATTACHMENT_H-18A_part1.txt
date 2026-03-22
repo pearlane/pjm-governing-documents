@@ -1,0 +1,1621 @@
+[ATTACHMENT H-18A - Part 1 of 2]
+
+ ATTACHMENT H-18A 
+Trans-Allegheny Interstate Line Company         
+Formula Rate -- Appendix A   Notes FERC Form 1  Page # or Instruction   TrAILCo 
+Shaded cells are input cells     2007  
+Allocators           
+ Wages & Salary Allocation Factor      
+1  Transmission Wages Expense   p354.21.b  0 
+ 
+2  Total Wages Expense   p354.28.b  0 
+3  Less A&G Wages Expense   p354.27.b  0 
+4  Total Wages Less A&G Wages Expense     (Line 2 - Line 3)   0 
+5 Wages & Salary Allocator     (Line 1 / Line 4), if line 2 = 0, then 100%   100.0000% 
+ Plant Allocation Factors      
+6  Electric Plant in Service  (Note B) Attachment 5  0 
+7  Total Plant In Service     (Line 6)   0 
+8  Accumulated Depreciation (Total Electric Plant)   Attachment 5  0 
+9  Total Accumulated Depreciation     (Line 8)   0 
+10  Net Plant     (Line 7 - Line 9)   0 
+11  Transmission Gross Plant   (Line 15 + Line 21)  0 
+12 Gross Plant Allocator     (Line 11 / Line 7, if Line 7=0, enter 100%)   100.0000% 
+13  Transmission Net Plant   (Line 11 - Line 29)  0 
+14 Net Plant Allocator     (Line 13 / Line 10, if line 10=0, enter 100%)   100.0000% 
+Plant Calculations           
+ Transmission Plant      
+15  Transmission Plant In Service  (Note B) Attachment 5  0 
+16  New Trans. Plant Adds. for Current Calendar Year  (13 average balance) (Note B) Attachment 6   0 
+17  Total Transmission Plant   (Line 15 + Line 16)  0 
+18  General & Intangible   Attachment 5  0 
+19  Total General & Intangible     (Line 18)   0 
+20  Wage & Salary Allocator   (Line 5)  100.0000% 
+21  Transmission Related General and Intangible Plant     (Line 19 * Line 20)   0 
+22 Transmission Related Plant     (Line 17 + Line 21)   0 
+ Accumulated Depreciation      
+23  Transmission Accumulated Depreciation  (Note B) Attachment 5   0 
+24  Accumulated General Depreciation   Attachment 5  0 
+25  Accumulated Intangible Amortization     Attachment 5   0 
+26  Total Accumulated General and Intangible Depreciation   (Sum Lines 24 to 25)  0 
+27  Wage & Salary Allocator   (Line 5)  100.00000% 
+28  Transmission Related General & Intangible Accumulated Depreciation   (Line 26 * Line 27)   0 
+29 Total Transmission Related Accumulated Depreciation     (Line 23 + Line 28)   0 
+30 Total Transmission Related Net Property, Plant & Equipment   (Line 22 - Line 29)   0 
+Adjustment To Rate Base           
+ Accumulated Deferred Income Taxes      
+31  ADIT net of FASB 106 and 109 Enter Negative  Attachment 1  0 
+32  Transmission Related Accumulated Deferred Income Taxes   (Line  31)   0 
+33 Transmission Related CWIP  (Current Year 13 Month weighted average balances) (Note B) p216.b.43 as shown on Attachment 6   0 
+34 Transmission Related Land Held for Future Use   (Note C) Attachment 5  0 
+ Transmission Related Pre-Commercial Costs Capitalized      
+35  Unamortized Capitalized Pre-Commercial Costs   Attachment 5  0 
+ Prepayments      
+36  Transmission Related Prepayments  (Note A) Attachment 5  0 
+ Materials and Supplies      
+37  Undistributed Stores Expense  (Note A) Attachment 5  0 
+38  Wage & Salary Allocator     (Line 5)   100.0000% 
+39  Total Undistributed Stores Expense Allocated to Transmission  (Line 37 * Line 38)  0 
+40  Transmission Materials & Supplies   Attachment 5  0 
+41  Transmission Related Materials & Supplies     (Line 39 + Line 40)   0 
+ Cash Working Capital      
+42  Operation & Maintenance Expense   (Line 74)  0 
+43  1/8th Rule     1/8  12.5% 
+44  Transmission Related Cash Working Capital     (Line 42 * Line 43)   0 
+45 Total Adjustment to Rate Base     (Lines 32 + 33 + 34 + 35+ 36 + 41 + 44)   0 
+46 Rate Base     (Line 30 + Line 45)   0 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - 
+Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 2 
+               
+ Transmission O&M      
+47  Transmission O&M   p321.112.b  0 
+48       Less Account 566 Misc Trans Exp listed on line 73 below.)  (line 73)  0 
+49       Less Account 565   p321.96.b  0 
+50       Plus Schedule 12 Charges billed to Transmission Owner and booked to Account 565 (Note M) PJM Data  0 
+51       Plus Property Under Capital Leases    p200.4.c  0 
+52  Transmission O&M     (Lines 47 - 48 - 49 + 50 + 51)   0 
+ 
+ A&G Expenses      
+53  Total A&G   p323.197.b  0 
+54      Less Property Insurance Account 924   p323.185.b  0 
+55      Less Regulatory Commission Exp Account 928  (Note E) p323.189.b  0 
+56      Less General Advertising Exp Account 930.1   p323.191.b  0 
+57      Less PBOP Adjustment   Attachment 5  0 
+58      Less EPRI Dues  (Note D) p352 & 353  0 
+59  A&G Expenses     (Line 53) -  Sum (Lines 54 to 58)   0 
+60  Wage & Salary Allocator   (Line 5)  100.0000% 
+61  Transmission Related A&G Expenses     (Line 59 * Line 60)   0 
+ 
+ Directly Assigned A&G      
+62  Regulatory Commission Exp Account 928  (Note G) Attachment 5  0 
+63  General Advertising Exp Account 930.1   (Note J) Attachment 5   0 
+64  Subtotal - Accounts 928 and 930.1 - Transmission Related   (Line 62 + Line 63)  0 
+ 
+65  Property Insurance Account 924   p323.185.b  0 
+66  General Advertising Exp Account 930.1  (Note F) Attachment 5  0 
+67  Total Accounts 928 and 930.1 - General     (Line 65 + Line 66)   0 
+68  Net Plant Allocator   (Line 14)  100.0000% 
+69  A&G Directly Assigned to Transmission     (Line 67 * Line 68)   0 
+ 
+  Account 566  Miscellaneous Transmission Expense      
+70  Amortization Expense on Pre-Commercial Cost Account 566 Attachment 5  0 
+71  Pre-Commercial Expense Account 566 Attachment 5  0 
+72  Miscellaneous Transmission Expense 
+  
+Account 566 Attachment 5   0 
+73  Total Account 566   Sum (Lines 70 to 72)  0 
+74  Total Transmission O&M     
+(Lines 52 + 61 + 64 + 69 + 73) 
+0 
+           
+ Depreciation Expense      
+75  Transmission Depreciation Expense   Attachment 5  0 
+76  General Depreciation   Attachment 5  0 
+77  Intangible Amortization   (Note A) Attachment 5   0 
+78  Total   (Line 76 + Line 77)  0 
+79  Wage & Salary Allocator     (Line 5)   100.0000% 
+80  Transmission Related General Depreciation and Intangible Amortization  (Line 78 * Line 79)  0 
+81 Total Transmission Depreciation & Amortization     (Lines 75 + 80)   0 
+           
+        
+82 Transmission Related Taxes Other than Income   Attachment 2  0 
+83 Total Taxes Other than Income     (Line 82)   0 
+           
+84 Preferred Dividends  enter positive p118.29.c  0 
+ Common Stock      
+85  Proprietary Capital   p112.16.c  0 
+86      Less Accumulated Other Comprehensive Income Account 219  p112.15.c  0 
+87      Less Preferred Stock   (Line 95)  0 
+88      Less Account 216.1     p112.12.c   0 
+89  Common Stock   (Line 85 - 86 - 87 - 88) 0 
+ Capitalization      
+90  Long Term Debt  (Note N)    0 
+91        Less Unamortized Loss on Reacquired Debt    p111.81.c  0 
+92        Plus Unamortized Gain on Reacquired Debt   p113.61.c  0 
+93        Less ADIT associated with Gain or Loss   Attachment 1  0 
+94  Total Long Term Debt     (Line 90 - 91 + 92 - 93)   0 
+95  Preferred Stock   p112.3.c  0 
+96  Common Stock   (Line 89)  0 
+97  Total  Capitalization     (Sum Lines 94 to 96)   0 
+ 
+98  Debt % Total Long Term Debt (Note N) (Line 94 /Line 97)  50.0% 
+99  Preferred % Preferred Stock (Note N) (Line 95 /Line 97)  0.0% 
+100  Common % Common Stock (Note N) (Line 96 /Line 97)  50.0% 
+ 
+101  Debt Cost Total Long Term Debt     0.079 
+102  Preferred Cost Preferred Stock  (Line 84 / Line 95)  0.0000 
+103  Common Cost Common Stock (Note I) The most recent FERC approved ROE  0.1170 
+ 
+104  Weighted Cost of Debt Total Long Term Debt (WCLTD)  (Line 98 * Line 101)  0.03950 
+105  Weighted Cost of Preferred Preferred Stock  (Line 99 * Line 102)  0.0000 
+106   Weighted Cost of Common Common Stock   (Line 100 * Line 103)   0.0585 
+107 Rate of Return on Rate Base ( ROR )   (Sum Lines 104 to 106)  0.09800 
+108 Investment Return = Rate Base * Rate of Return     (Line 46 * Line 107)   0 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - 
+Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 3 
+Composite Income Taxes                                                                                                                
+  Income Tax Rates      
+109  FIT=Federal Income Tax Rate  (Note H)                                                    -    
+110  SIT=State Income Tax Rate or Composite                                                      -    
+111  p (percent of federal income tax deductible for state purposes) Per State Tax Code                                                   -    
+112  T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   0.00% 
+113  T/ (1-T)     0.00% 
+ 
+114 Income Tax Component =  CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = [Line 113 * Line 108 * (1- (Line 104 / Line 107))]                -     
+114a (Excess)/Deficient Deferred Income Taxes                                                                                                     (Note O) (Attachment 1.1, Line 40, Col. H) - 
+ 
+115 Total Income Taxes     (Line 114 + Line 114a)                                                    -    
+REVENUE REQUIREMENT      
+ Summary      
+116  Net Property, Plant & Equipment  (Line 30)  0 
+117  Total Adjustment to Rate Base  (Line 45)  0 
+118  Rate Base     (Line 46)   0 
+ 
+119  Total Transmission O&M   (Line 74)  0 
+120  Total Transmission Depreciation & Amortization  (Line 81)  0 
+121  Taxes Other than Income   (Line 83)                                              -    
+122  Investment Return   (Line 108)  0 
+123 
+  
+Income Taxes 
+   
+(Line 115) 
+  
+0 
+ 
+124   Gross Revenue Requirement     (Sum Lines 119 to 123)   0 
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities   
+125  Transmission Plant In Service   (Line 22)  0 
+126  Excluded Transmission Facilities   (Note L) Attachment 5                                                -    
+127  Included Transmission Facilities   (Line 125 - Line 126)  0 
+128  Inclusion Ratio   (Line 127 / Line 125)  100.00% 
+129  Gross Revenue Requirement     (Line 124)  0 
+130  Adjusted Gross Revenue Requirement   (Line 128 * Line 129)  0 
+ 
+ Revenue Credits       
+131 
+  
+Revenue Credits 
+   
+Attachment 3 
+  
+                                                 -  
+   
+132   Net Revenue Requirement     (Line 130 - Line 131)   0 
+ 
+ Net Plant Carrying Charge      
+133  Net Revenue Requirement   (Line 132)                                                 -    
+134  Net Transmission Plant  + CWIP   (Line 17 - Line 23 + Line 33)                                                                                          -     
+135  FCR   (Line 133 / Line 134)  0.0000% 
+136  FCR  without Depreciation   (Line 133 - Line 75) / Line 134                                                                          0.0000%                
+137  FCR without Depreciation and Pre-Commercial Costs  (Line 133 - Line 70 - Line 71 - Line 75) / Line 134 0.0000% 
+138  FCR without Depreciation, Return, nor Income Taxes  (Line 133 - Line 75 - Line 108 - Line 115) / Line 134 0.0000% 
+ 
+ Net Plant Carrying Charge Calculation with Incentive ROE      
+139  Net Revenue Requirement Less Return and Taxes  (Line 132 - Line 122 - Line 123)                                                                                     -    
+140  Increased Return and Taxes   Attachment 4                                                -    
+141  Net Revenue Requirement with Incentive ROE   (Line 139 + Line 140)                                                -    
+142  Net Transmission Plant  + CWIP   (Line 17 - Line 23- Line 33)                                                                                            -    
+143  FCR with Incentive ROE   (Line 141 / Line 142)  0.0000% 
+144  FCR with Incentive ROE without Depreciation   (Line 141 - Line 75) /  Line 142                                                                         0.0000% 
+145  FCR with Incentive ROE without Depreciation and Pre-Commercial (Line 141 - Line 70 - Line 71 - Line 75) /  Line 142                                           0.0000% 
+ 
+146  Net Revenue Requirement   (Line 132)                                                   -    
+147  Reconciliation amount   Attachment 6                                                  -    
+148  Plus any increased ROE calculated on Attach 7 other than PJM Sch. 12 projects not paid by other PJM trans zones Attachment 7                                                   -      
+149  Facility Credits under Section 30.9 of the PJM OATT     Attachment 5                                                     -    
+150  Net Zonal Revenue Requirement   (Line 146 + 147 + 148 + 149)                                 - 
+ Network Zonal Service Rate      
+151  1 CP Peak  (Note K) PJM Data   N/A  
+152  Rate ($/MW-Year)   (Line 150 / 151)   N/A  
+153   Network Service Rate ($/MW/Year)     (Line 152)    N/A  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - 
+Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 4 
+ Notes      
+ 
+ 
+A Electric portion only      
+ 
+ 
+B For both the estimate and the reconciliation, Construction Work In Progress ("CWIP") and leases that are expensed as O&M (rather than amortized) are excluded.    
+ 
+ 
+For the Estimate Process:      
+ 
+ 
+Transmission plant in service will show the end of year balance and is linked to Attachment 5 which shows detail support by project.   
+ 
+ 
+ The transmission plant will agree to or be reconciled to the FERC Form 1 balance for the transmission plant.  
+ 
+ New Transmission Plant expected to be placed in service in the current calendar year will be based on the average of 13  monthly investment costs 
+      and shown separately detailed by project on Attachment 6. 
+ 
+ 
+Accumulated depreciation will show the end of year balance and is linked to Attachment 5 which shows detail support by project.   
+ 
+ 
+CWIP will be linked to Attachment 6 which shows detail support by project (incentive and non-incentive).   
+ 
+ 
+For the Reconciliation Process:      
+ 
+ Transmission plant in service will be calculated using a 13 month average balance and will be detailed on Attachment 5.  This includes  
+     new transmission plant added to plant-in-service 
+ 
+ 
+  
+Accumulated depreciation will be calculated using a 13 month average balance and will be detailed on Attachment 5.  This includes   
+     accumulated depreciation associated with current year  transmission plant.   
+ 
+ CWIP will be linked to Attachment 6 which shows detail support by project (incentive and non-incentive).  
+ C Includes Transmission portion only and (i) only land that has an estimated in-service date within 10 years may be included and (ii) a plan for the land’s use is required to be included 
+     in the filing whenever the cost of the land is proposed to be included in rates. 
+  
+D Excludes all EPRI Annual Membership Dues      
+  
+E Excludes all Regulatory Commission Expenses       
+  
+F Includes Safety related advertising included in Account 930.1       
+  
+G Includes Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h.  
+  
+H 
+  
+The currently effective income tax rate where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = 
+     the percentage of federal income tax deductible for state income taxes.  If the utility includes taxes in more than one state, it must explain in  
+     Attachment 5 the name of each state and how the blended or composite SIT was developed.    
+  
+I ROE will be established in the Commission order accepting the settlement in Docket No. ER07-562 and no change in ROE will be made absent a Section 205 or Section 206 filing at FERC.  
+  
+J Education and outreach expenses relating to transmission, for example siting or billing  
+  
+K As provided for in Section 34.1 of the PJM OATT; the PJM established billing determinants will not be revised or updated in the annual rate reconciliations. 
+  
+L Amount of transmission plant excluded from rates per Attachment 5. 
+  
+M Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included in Transmission O&M on Line 47. 
+  
+     If they are booked to Acct 565, they are included on Line 50.  Copies of PJM invoices will be provided upon request. 
+  
+N 
+  
+The capital structure will remain 50% equity and 50% debt until construction of all of the segments of the TrAIL Project is completed and the entire TrAIL Project is placed in service.  The first  
+     year that these projects are in service the formula will be run based on the 50/50 capital structure and on the actual year end capital structure.  The two results will be weighted  
+     based on: the number of days the last project was in service and 365 day minus the numbers of days the last project was in service divided by 365 days. 
+  
+     
+  
+This can be illustrated using the following example:     
+  
+      
+  
+Example:      
+  
+      
+ 
+ 
+Assume Last Project goes into service on day 260.    
+ 
+ 
+Hypothetical Capital Structure until the last project goes into service is 50/50.   
+ 
+ 
+Assume Year End actual capital structure is 60% equity and 40% debt.    
+ 
+ 
+      
+ 
+ 
+Therefore:  Weighted Equity = [50%*260+60%*(365-260)]/365     
+ 
+ 
+      
+ 
+O Upon enactment of changes in tax law, income tax rates and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, resulting in excess or 
+deficient accumulated deferred taxes, for schedule M items not directly taken to the P&L.  Such excess or deficient deferred taxes attributed to the transmission function will be based upon tax records and 
+calculated in the calendar year in which the excess or deficient amount was measured and recorded for financial reporting purposes.      
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 5 
+Trans-Allegheny Interstate Line Company    
+            
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet    
+            
+ Trans-Allegheny Interstate Company    
+            
+ B1 B2 B3 C D E F G    
+ Beg of Year End of Year 
+End of Year for Est. 
+Average for Final Retail Only Transmission Plant  Labor Total    
+ Total Total Total Related Related Related Related ADIT    
+          
+             
+ADIT- 282  From Account Total Below                   -                      -                      -                           -                       -                        -                             -       
+ADIT-283 From Account Total Below                   -                      -                      -                           -                       -                        -                             -       
+ADIT-190 From Account Total Below                   -                      -                      -                           -                       -                        -                             -      Enter Negative 
+Subtotal                          -                       -                        -                             -       
+Wages & Salary Allocator         100.0000%     
+Gross Plant Allocator       100.0000%      
+ADIT                            -                       -                        -                             -       
+            
+            
+            
+Note: ADIT associated with Gain or Loss on Reacquired Debt is included in Column A here and included in Cost of Debt on Appendix A, Line 93.    
+     Amount  0   < From Acct 283, below    
+            
+            
+In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns C-F and each separate ADIT item will be listed, 
+Dissimilar items with amounts exceeding $100,000 will be listed separately.          
+            
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 6 
+            
+A B1 B2 B3 C D E F G    
+ Trans-Allegheny Interstate Company    
+            
+ADIT-190 Beg of Year End of Year 
+End of Year for 
+Est. Average 
+for Final Retail Gas, Prod Only      
+ Balance Balance Total Related Or Other Transmission Plant Labor    
+ p234.18.b p234.18.c   Related Related Related Related   JUSTIFICATION 
+None Reported            
+ - - -                        -                        -            
+ - - -                 
+ - - -                 
+ - - -                 
+ Subtotal  - - -                   -    -                    -                        -                             -       
+ Less FASB 109 included above                     
+ Less FASB 106 included above                     
+ Total  - - - - -                 - - -    
+            
+FAS 109 EDIT 
+- 
+         
+FAS 109 Other  -    
+- 
+    
+          
+          
+ Instructions for Account 190:             
+            
+1.  ADIT items related only to Retail Related Operations are directly assigned to Column C.   
+2.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column D.   
+3.  ADIT items related only to Transmission are directly assigned to Column E.           
+4.  ADIT items related to Plant and not in Columns C, D & E are directly assigned to Column F.          
+5.  ADIT items related to labor and not in Columns C, D, E & F are directly assigned to Column G.          
+6.  Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates.  Therefore, if the item giving rise to the ADIT is not included in the formula, the associated ADIT  
+amount shall be excluded. 
+7.  FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Attachment 1.1 total. Other FAS109 does not 
+include EDIT. 
+ 
+            
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 7 
+PJM TRANSMISSION OWNER            
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet         
+A B1 B2 B3 C D E F G    
+ Trans-Allegheny Interstate Company    
+ Beg of Year End of Year 
+End of Year for 
+Est. Average 
+for Final Retail Gas, Prod Only      
+ ADIT- 282  Balance Balance Total Related Or Other Transmission Plant Labor    
+ p274.9.b p275.9.k   Related Related Related Related   JUSTIFICATION 
+          
+ Property Related                    -                      -                      -                         -         
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+                   -                      -                      -                    
+ Subtotal                    -                      -                      -                   -                                               -                   -                         -       
+ Less FASB 109 included above                      -                       -                       -                   -                         -       
+ Less FASB 106 included above                    -                      -                      -                      -                       -                       -                   -                         -       
+            
+ Total                    -                      -                      -                   -                                               -                   -                         -       
+            
+ 
+ 
+FAS 109 EDIT  -          
+ 
+FAS 109 Other   -          
+ 
+ 
+ 
+Instructions for Account 282:             
+            
+1.  ADIT items related only to Retail Related Operations are directly assigned to Column C.   
+2.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column D.   
+3.  ADIT items related only to Transmission are directly assigned to Column E.           
+4.  ADIT items related to Plant and not in Columns C, D & E are directly assigned to Column F.          
+5.  ADIT items related to labor and not in Columns C, D, E & F are directly assigned to Column G.          
+6. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates.  Therefore, if the item giving rise to the ADIT is not included in the formula, the associated ADIT  
+amount shall be excluded. 
+7. FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Attachment 1.1 total. Other FAS109 does not include EDIT. 
+            
+            
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 8 
+PJM TRANSMISSION OWNER            
+Attachment 1 - Accumulated Deferred Income Taxes (ADIT) Worksheet         
+A B1 B2 B3 C D E F G    
+ Trans-Allegheny Interstate Company    
+            
+ ADIT-283  Beg of Year 
+End of 
+Year 
+End of Year for 
+Est. Average 
+for Final Retail Gas, Prod Only      
+ Balance Balance Total Related Or Other Transmission Plant Labor    
+None Reported p276.19.b p277.19.k   Related Related Related Related   JUSTIFICATION  
+            
+                   -                      -    
+                  
+-                    
+                   -                      -    
+                  
+-                    
+                   -                      -    
+                  
+-                    
+                   -                      -    
+                  
+-                    
+ Subtotal  - - - -  - - -                    -   
+ Less FASB 109 included above                     
+ Less FASB 106 included above                     
+ Total                    -    
+                  
+-                      -    -                      -                       -                        -    
+                 
+-       
+            
+            
+FAS 109 EDIT   -          
+FAS 109 Other  -           
+            
+ Instructions for Account 283:             
+            
+1.  ADIT items related only to Retail Related Operations are directly assigned to Column C.   
+2.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column D.   
+3.  ADIT items related only to Transmission are directly assigned to Column E.           
+4.  ADIT items related to Plant and not in Columns C, D & E are directly assigned to Column F.          
+5.  ADIT items related to labor and not in Columns C, D, E & F are directly assigned to Column G.          
+6.  Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates.  Therefore, if the item giving rise to the ADIT is not included in the formula, the associated ADIT  
+amount shall be excluded. 
+7.  FAS109 related to Excess/Deficient ADIT ("EDIT").  Sum of Accounts 282 and 283 less Account 190 will sum to Attachment 1.1 total. Other FAS109 does not include EDIT. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 9 
+ 
+Trans-Allegheny Interstate Line Company    Attachment  H-18A, Attachment 1.1 
+             page 1 of 3 
+Attachment 1.1 - Excess & Deficient ADIT     For the 12 months ended 12/31/ 
+  
+    
+        
+       
+       
+              
+ COLUMN A COLUMN B  COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+Line 
+No. 
+Vintage 
+(Note A) Description 
+ 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance as of 12/31/XX 
+(Attachment 1.2 Col. J) 
+(Excess)/Deficient ADIT 
+Transmission - Beg 
+Balance of Year 
+(Note C) 
+Current Period Other 
+Activity 
+(Note D) 
+Amortization Period  
+(Note E) 
+Years Remaining at 
+Year End 
+Amortization 
+(Note F) 
+(Excess)/Deficient ADIT 
+Transmission - Ending 
+Balance of Year (Note G) 
+(Col. D + Col. E) - Col. H 
+Protected / Unprotected 
+Regulatory Asset 
+(Account 182.3) or 
+Regulatory Liability 
+(Account 254) 
+Amortized to 
+Account 410.1 or 
+Account 411.1 
+  Non-property (Note B):  
+          
+1  Account 190  
+          
+1a 2017 TCJA                       
+              
+2  Account 282  
+          
+2a 2017 TCJA                       
+              
+3  Account 283  
+          
+3a 2017 TCJA                       
+              
+4 2017 TCJA Non-property gross up for Taxes                     
+                   
+5 2017 TCJA Total Non-Property   - - -   - -    
+                Property (Note B):  
+          
+6 2017 TCJA Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Protected Asset 410.1 
+7 2017 TCJA Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Unprotected Liability 411.1 
+8 2017 TCJA Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Protected Liability 411.1 
+9 2017 TCJA Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Unprotected Asset 410.1 
+10 2017 TCJA Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Protected Asset 410.1 
+11 2017 TCJA Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Unprotected Liability 411.1 
+12 2017 TCJA Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Protected Liability 411.1 
+13 2017 TCJA Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Unprotected Asset 410.1 
+14 2017 TCJA Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Protected Asset 410.1 
+15 2017 TCJA Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Unprotected Liability 411.1 
+16 2017 TCJA Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Protected Liability 411.1 
+17 2017 TCJA Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Unprotected Asset 410.1 
+18 2017 TCJA Property Gross up for Taxes          ARAM   ARAM    - Protected, Unprotected N/A N/A 
+19 2017 TCJA Total Property (Total of lines 6 thru 18)  - - -   - -    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 10 
+            Attachment  H-18A, Attachment 1.1 
+             page 2 of 3 
+            For the 12 months ended 12/31/ 
+              
+ COLUMN A COLUMN B  COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+Line 
+No. 
+Vintage 
+(Note A) Description 
+ 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance as of 12/31/XX 
+(Attachment 1.2 Col. J) 
+(Excess)/Deficient ADIT 
+Transmission - Beg 
+Balance of Year 
+(Note C) 
+Current Period 
+Other Activity 
+(Note D) 
+Amortization Period  
+(Note E) 
+Years Remaining at 
+Year End 
+Amortization 
+(Note F) 
+(Excess)/Deficient ADIT 
+Transmission - Ending 
+Balance of Year (Note G) 
+(Col. D + Col. E) - Col. H 
+Protected / Unprotected 
+Regulatory Asset 
+(Account 182.3) or 
+Regulatory Liability 
+(Account 254) 
+Amortized to 
+Account 410.1 
+or Account 
+411.1 
+  Non-property (Note B):            
+20  Account 190            
+20a                  -       
+              
+21  Account 282            
+21a                  -       
+              
+22  Account 283            
+22a                  -       
+    - -         
+23   Non-property gross up for Taxes              -       
+                   
+24   Total Non-Property   - - -   - -    
+              
+  Property (Note B):            
+25   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Protected Asset 410.1 
+26   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Unprotected Liability 411.1 
+27   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Protected Liability 411.1 
+28   Property Book-Tax Timing Difference - Account 190         ARAM   ARAM    - Unprotected Asset 410.1 
+29   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Protected Asset 410.1 
+30   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Unprotected Liability 411.1 
+31   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Protected Liability 411.1 
+32   Property Book-Tax Timing Difference - Account 282         ARAM   ARAM    - Unprotected Asset 410.1 
+33   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Protected Asset 410.1 
+34   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Unprotected Liability 411.1 
+35   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Protected Liability 411.1 
+36   Property Book-Tax Timing Difference - Account 283         ARAM   ARAM    - Unprotected Asset 410.1 
+37   Property Gross up for Taxes          ARAM   ARAM    -       
+38   Total Property (Total of lines 25 thru 37)  - - -   - -    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 11 
+ 
+ 
+            Attachment  H-18A, Attachment 1.1 
+             page 3 of 3 
+            For the 12 months ended 12/31/ 
+39  Deferral of Amortized Excess/Deficient ADITs  (Note H)             
+              
+40  Total Non-Property & Property Amortization, including gross up for taxes (Total of lines 5, 19, 24, 38, 39)       
+                                                             
+-           
+              
+41  Total 20XX FAS109 (Total of lines 5, 19, 24, 38) (Note I)        
+                                                                              
+-       
+              
+42  Total 20XX FAS109 (Attachment 1) (Note I)        
+                                                                              
+-       
+              
+              
+Notes:              
+A 
+ 
+Excess/deficient ADIT will be tracked separately for each federal or state tax rate change, to be identified by the appropriate vintage in column A.  TrAILCo will modify Attachment 1.2 to add an additional page for each additional vintage without pursuing a Federal Power Act Section 205 filing. 
+B 
+ 
+Upon a tax rate change (federal or state), the Company remeasures its deferred tax assets and liabilities to account for the new applicable corporate tax rate.  For schedule M items not directly taken to the P&L, the result of this remeasurement is a change to the net deferred tax assets/liabilities 
+recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from customers.  The remeasurement is effectuated within PowerTax and Tax 
+Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference occurred).  The difference in the two results is reclassified from ADIT to regulatory assets/liabilities for 
+deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and Account 254, respectively are presented grossed-up for tax purposes.  For ratemaking purposes, these grossed-up balances are treated as FAS109 and subsequently removed from rate base, thereby 
+ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to remeasure ADIT balances (increase or decrease) due to any future federal or state income tax rate change. 
+C 
+ 
+Beginning balance of year is the end of the prior year balance as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+D 
+ 
+In the event the Company populates the data enterable fields, it will support the data entered as just and reasonable in its annual update 
+E 
+ 
+The amortization periods shall be consistent with the following:   
+Protected Property & Non-Protected Property:  ARAM, or directly assigned based on average remaining life of assets for property items not in PowerTax 
+   
+  
+Protected Non-Property & Non-Protected Non-Property will be directly assigned and presented in the table above 
+       
+F 
+ 
+The amortization will occur through FERC income statement Accounts 410.1. and 411.1 
+        
+G 
+ 
+Ending balance of year is the end of current year balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+       
+H 
+ 
+Reflects the net amount of amortization, including gross-up for taxes, from prior period(s) that was booked for GAAP, but deferred for FERC purposes because a mechanism did not exist to pass back/collect excess/deficient ADITs to/from customers.  The net amortized deferral amount, including the gross-up for taxes, is in 
+Account 254, as reflected on FERC Form No. 1, page 278 or Account 182.3, as reflected on FERC Form No. 1, page 232. 
+I 
+ 
+Included to demonstrate rate base neutrality. Ties back to FERC Form No. 1 page 232 (Account 182.3) plus page 278 (Account 254). 
+       
+          
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 12 
+ 
+             Attachment  H-18A, Attachment 1.2 
+              page 1 of 3 
+             For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+     
+Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L 
+(Note B) 
+(Excess) Deficient 
+Deferred Income 
+Taxes (Notes B & C) 
+(Excess) Deficient Deferred Income Tax Activity post tax remeasurement     
+Line 
+No. 
+Vintage 
+(Note A) 
+  
+M Item 
+12/31/2017 ADIT 
+Balance 
+(Prior to 2017 TCJA) 
+12/31/2017 ADIT 
+Balance 
+(After 2017 TCJA) 
+Change in ADIT due 
+to 2017 TCJA Tax Expense (Benefit) 
+ADIT Offset to 
+Regulatory Asset 
+(Liability) 
+ (= -(Col. E + Col F)) 
+Other Adjustments 
+Including Gross-up 
+True-ups 
+2017 Return-to-
+Accrual Adjustment 
+(Recorded in 2018) 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance (= Col. G + Col. H + Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset 
+(Account 182.3) or 
+Regulatory Liability 
+(Account 254) as of 
+12/31/17 
+  Non-Property Related Items:           
+1  190 Accounts           
+1a  2017 TCJA                        
+2   Total For 190 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+3  282 Accounts           
+3a  2017 TCJA                        
+4   Total For 282 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+5  283 Accounts           
+5a  2017 TCJA                        
+6   Total For 283 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+                    
+  Total Non-Property Related Items:           
+7    Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+8    Net Tax Gross-up                                                         -      
+9    Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+               
+  Property Related Items:           
+10  190 Accounts           
+10a  2017 TCJA                        
+11   Total For 190 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+12  282 Accounts           
+12a  2017 TCJA                        
+13   Total For 282 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+               
+  Total Property Related Items:           
+14  2017 TCJA    Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+15  2017 TCJA    Net Tax Gross-up                                                         -      
+16  2017 TCJA    Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+               
+17  2017 TCJA  Total Property and Non-property Related Items:           
+18  2017 TCJA    Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+19  2017 TCJA    Net Tax Gross-up     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+    Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 13 
+ 
+            Attachment  H-18A, Attachment 1.2 
+              page 2 of 3 
+             For the 12 months ended 12/31/ 
+               
+ COLUMN A   COLUMN B COLUMN C COLUMN D COLUMN E COLUMN F COLUMN G COLUMN H COLUMN I COLUMN J COLUMN K COLUMN L 
+     
+Deferred Tax Asset (Liability) (Note B) ADIT Offset to P&L 
+(Note B) 
+(Excess) Deficient 
+Deferred Income 
+Taxes (Notes B & C) 
+(Excess) Deficient Deferred Income Tax Activity post tax remeasurement     
+Line 
+No. 
+Vintage 
+(Note A) 
+  
+M Item 
+12/31/20XX ADIT 
+Balance 
+(Prior to Vintage) 
+12/31/20XX ADIT 
+Balance 
+(After Vintage) 
+Change in ADIT due 
+to Vintage Tax Expense (Benefit) 
+ADIT Offset to 
+Regulatory Asset 
+(Liability) 
+ (= -(Col. E + Col F)) 
+Other Adjustments 
+Including Gross-up 
+True-ups 
+20XX Return-to-
+Accrual Adjustment 
+(Recorded in 20XX) 
+(Excess)/Deficient ADIT 
+Transmission Remeasured 
+Balance (= Col. G + Col. H + Col. I) 
+Protected / 
+Unprotected 
+Regulatory Asset 
+(Account 182.3) or 
+Regulatory Liability 
+(Account 254) as of 
+12/31/XX 
+  Non-Property Related Items:           
+20  190 Accounts           
+20a               
+                                            
+-                                                      -        
+21   Total For 190 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+22  282 Accounts           
+22a               
+                                            
+-                                                      -        
+23   Total For 282 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+24  283 Accounts           
+24a               
+                                            
+-                                                      -        
+25   Total For 283 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+                    
+  Total Non-Property Related Items:           
+26    Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+27    Net Tax Gross-up                                                         -      
+28    Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+               
+  Property Related Items:           
+29  190 Accounts           
+29a               
+                                            
+-                                                      -        
+30   Total For 190 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+31  282 Accounts           
+31a               
+                                            
+-                                                      -        
+32   Total For 282 Accounts: 
+                                      
+-    
+                                    
+-    
+                                    
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+               
+  Total Property Related Items:           
+33     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+34     Net Tax Gross-up                                                         -      
+35     Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+               
+36   Total Property and Non-property Related Items:           
+37     Net (Excess) Deficient Deferred Income Taxes (excluding Gross-up)     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+38     Net Tax Gross-up     
+                                            
+-    
+                                            
+-    
+                                            
+-                                                  -      
+    Net (Excess) Deficient Deferred Income Taxes (including Gross-up)                               -                               -                               -                                 -      
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 14 
+            Attachment  H-18A, Attachment 1.2 
+              page 3 of 3 
+             For the 12 months ended 12/31/ 
+  Notes:              
+A Excess/deficient ADIT will be tracked separately for each federal or state tax rate change, to be identified by the appropriate vintage in column A.  TrAILCo will modify Attachment 1.2 to add an additional page for 
+each additional vintage without pursuing a Federal Power Act Section 205 filing. 
+       
+B  Upon a tax rate change (federal or state), the Company remeasures its deferred tax assets and liabilities to the new applicable corporate tax rate.  For schedule M items not directly taken to the 
+P&L, the result of this remeasurement is a change to the net deferred tax assets/liabilities recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 
+182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from customers.  The remeasurement is effectuated within PowerTax and Tax 
+Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference occurred).  
+The difference in the two results is reclassified from ADIT to regulatory assets/liabilities for deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and 
+Account 254, respectively are presented grossed-up for tax purposes.  For ratemaking purposes, these grossed-up balances are treated as FAS109 and subsequently removed from rate base, 
+thereby ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to remeasure ADIT balances (increase or decrease) due to any future federal 
+or state income tax rate change. 
+       
+C Reflects the end of 2017 balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+   
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-
+18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 15 
+Trans-Allegheny Interstate Line Company 
+Attachment 2 - Taxes Other Than Income Worksheet 
+        
+   FERC Form No.1   Allocated  
+Other Taxes page, line & Col Amount Allocator Amount  
+        
+        
+ Plant Related   Gross Plant Allocator   
+        
+1  Real property (State, Municipal or Local)                     -    100.0000%  $                 -   
+2  Capital Stock Tax                     -    100.0000%  $                 -   
+3  Gross Premium (Insurance) Tax                     -    100.0000%  $                 -   
+4  Public Utility Realty Tax Act (PURTA), 72 P.S. §8101, et seq.                   -    100.0000%  $                 -   
+5  Corp License                     -    100.0000%  $                 -   
+6  Other State License                     -    100.0000%  $                 -   
+7           $                 -   
+8 Total Plant Related  0  100.0000% 0   
+        
+ Labor Related   Wages & Salary Allocator   
+        
+9  Federal FICA Capitalized        
+10  Federal Unemployment        
+11  State Unemployment        
+12           
+13           
+14 Total Labor Related  0  100.0000% 0   
+        
+        
+ Other Included   Gross Plant Allocator   
+        
+15  Miscellaneous                     -       
+16  Use and Sales Tax                     -       
+17           
+18           
+19 Total Other Included  0  100.0000% 0   
+        
+20 Total Included  (Lines 8 + 14 + 19)  0   0  Input to Appendix A, Line 82 
+        
+        
+ Retail Related Other Taxes to be Excluded      
+        
+21                        -       
+22                        -       
+23                        -       
+24                        -       
+25                        -       
+26                        -       
+27                        -       
+28                        -       
+29                        -       
+30                        -       
+31  Subtotal, Excluded  0     
+        
+32 Total, Included and Excluded (Line 20 + Line 28)  0     
+        
+33 Total Other Taxes from p114.14.c                       -     
+        
+34  Difference  (Line 32 - Line 33)                     -       
+        
+        
+ Criteria for Allocation:      
+ A Other taxes that are incurred through ownership of plant including transmission plant will be allocated based on the Gross Plant   
+  Allocator.  If the taxes are 100% recovered at retail they shall not be included.   
+ B Other taxes that are incurred through ownership of only general or intangible plant will be allocated based on the Wages and Salary 
+  Allocator.  If the taxes are 100% recovered at retail they shall not be included.   
+ C Other taxes that are assessed based on labor will be allocated based on the Wages and Salary Allocator.   
+ D Other taxes except as provided for in A, B and C above, that are incurred and (1) are not fully recovered at retail or (2) are   
+  directly or indirectly related to transmission service will be allocated based on the Gross Plant Allocator; provided, however, that   
+  overheads shall be treated as in footnote B above.      
+ E Excludes prior period adjustments in the first year of the formula's operation and reconciliation for the first year.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-
+18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 16 
+ 
+ 
+Trans-Allegheny Interstate Line Company          
+Attachment 3 - Revenue Credit Workpaper FERC Form No.1         
+    Amount  page, line & Col         
+ Account 454 - Rent from Electric Property            
+1 Rent from Electric Property - Transmission Related (Note 3)                     -              
+2 Total Rent Revenues (Line 1)                    -              
+             
+ Account 456 - Other Electric Revenues (Note 1)            
+3 Schedule 1A   $                -              
+4 Net revenues associated with Network Integration Transmission Service (NITS) for which the  
+load is not included in the divisor (difference between NITS credits from PJM and PJM NITS  
+charges paid by Transmission Owner) (Note 4)                    -              
+5 Point to Point Service revenues for which the load is not included in the divisor received by Transmission Owner                    -              
+6 PJM Transitional Revenue Neutrality (Note 1)              
+7 PJM Transitional Market Expansion (Note 1)              
+8 Professional Services (Note 3)                     -              
+9 Revenues from Directly Assigned Transmission Facility Charges (Note 2)                     -              
+10 Rent or Attachment Fees associated with Transmission Facilities (Note 3)                     -              
+               
+11 Gross Revenue Credits (Sum Lines 2-10)                    -              
+12 Less line 14g                     -             
+13 Total Revenue Credits (Line 11 - Line 12)                    -     Input to Appendix A, Line 131        
+             
+ Revenue Adjustment to determine Revenue Credit            
+14a Revenues associated with lines 14b-g are to be included in lines 2-10 and total of those 
+revenues entered here 
+                    -             
+14b Costs associated with revenues in line 14a                     -             
+14c Net Revenues  (14a - 14b)                     -             
+14d 50% Share of Net Revenues  (14c / 2)                     -             
+14e Costs associated with revenues in line 14a that are included in FERC accounts recovered 
+through the formula times the allocator used to functionalize the amounts in the FERC account 
+to the transmission service at issue.                     -             
+14f Net Revenue Credit (14d + 14e)                     -             
+14g Line 14a less line 14f                     -             
+15 Amount offset in line 4 above                     -              
+             
+16 Total Account 454 and 456             
+17  Note 1: All revenues related to transmission that are received as a transmission owner (i.e., not 
+received as a LSE), for which the cost of the service is recovered under this formula, except as 
+specifically provided for elsewhere in this Attachment or elsewhere in the formula will be  
+included as a revenue credit or included in the peak on line 178 of Appendix A. 
+           
+18 Note 2: If the costs associated with the Directly Assigned Transmission Facility Charges are 
+included in the Rates, the associated revenues are included in the Rates.  If the costs 
+associated with the Directly Assigned Transmission Facility Charges are not included in the 
+Rates, the associated revenues are not included in the Rates. 
+           
+19 Note 3: Ratemaking treatment for the following specified secondary uses of transmission 
+assets:  (1) right-of-way leases and leases for space on transmission facilities for 
+telecommunications;  (2) transmission tower licenses for wireless antennas; (3) right-of-way 
+property leases for farming, grazing or nurseries; (4) licenses of intellectual property (including 
+a portable oil degasification process and scheduling software); and (5) transmission 
+maintenance and consulting services (including energized circuit maintenance, high-voltage 
+substation maintenance, safety training, transformer oil testing, and circuit breaker testing) to 
+other utilities and large customers (collectively, products). Company will retain 50% of net 
+revenues consistent with Pacific Gas and Electric Company, 90 FERC ¶ 61,314.  Note: in order 
+to use lines 14a - 14g, the utility must track in separate subaccounts the revenues and costs 
+associated with each secondary use (except for the cost of the associated income taxes). 
+  
+ 
+        
+20  Note 4: If the facilities associated with the revenues are not included in the formula, the 
+revenue is shown on Line 15, and is not included as a revenue credit in the formula and 
+explained in Attachment 5. For example revenues associated with distribution facilities.  In 
+addition Revenues from Schedule 12 of the PJM OATT are not included in the total above to 
+the extent they are credited under Schedule 12 of the PJM OATT.  
+ 
+          
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-
+18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 17 
+Trans-Allegheny Interstate Line Company 
+         
+Attachment 4 - Calculation with Incentive ROE 
+         
+         
+         
+  Return and Taxes at High End of the range of Reasonableness     
+A   Return and Taxes at High End of the range of Reasonableness (Sum Lines 26 and 33 from below)                                             -    Input to Appendix A, Line 140 
+         
+B   Difference between Base ROE and Incentive ROE                                         100    
+         
+Return Calculation           
+      Source  Reference   
+         
+1  Rate Base   Appendix A, Line 46  
+                                              
+-    
+         
+         
+2  Preferred Dividends   enter positive Appendix A, Line 84  0 
+         
+  Common Stock      
+3   Proprietary Capital   Appendix A, Line 85  0 
+4       Less Accumulated Other Comprehensive Income Account 219 Appendix A, Line 86  0 
+5       Less Preferred Stock   Appendix A, Line 87  0 
+6       Less Account 216.1     Appendix A, Line 88   0 
+7   Common Stock   Appendix A, Line 89  0 
+         
+         
+  Capitalization      
+8   Long Term Debt   Appendix A, Line 90  0 
+9         Less Unamortized Loss on Reacquired Debt   Appendix A, Line 91  0 
+10         Plus Unamortized Gain on Reacquired Debt  Appendix A, Line 92  0 
+11         Less ADIT associated with Gain or Loss  Appendix A, Line 93  0 
+12   Total Long Term Debt     Appendix A, Line 94   0 
+13   Preferred Stock   Appendix A, Line 95  0 
+14   Common Stock   Appendix A, Line 96  0 
+15   Total  Capitalization     Appendix A, Line 97   0 
+         
+16   Debt %  Total Long Term Debt Appendix A, Line 98  50% 
+17   Preferred %  Preferred Stock Appendix A, Line 99  0% 
+18   Common %  Common Stock Appendix A, Line 100  50% 
+         
+19   Debt Cost  Total Long Term Debt Appendix A, Line 101  0.0790 
+20   Preferred Cost  Preferred Stock Appendix A, Line 102  0.0000 
+21   Common Cost  Common Stock 12.70% 0.1270  
+         
+22   Weighted Cost of Debt  Total Long Term Debt (WCLTD) (Line 16 * 19)  0.0395 
+23   Weighted Cost of Preferred  Preferred Stock (Line 17 * 20)  0.0000 
+24   Weighted Cost of Common   Common Stock (Line 18 * 21)   0.0635 
+25  Rate of Return on Rate Base ( ROR )   (Sum Lines 22 to 24)  0.1030 
+         
+26  Investment Return = Rate Base * Rate of Return     (Line 1 * Line 25)   0 
+         
+Composite Income Taxes           
+         
+   Income Tax Rates      
+27   FIT=Federal Income Tax Rate   Appendix A, Line 109  0.00% 
+28   SIT=State Income Tax Rate or Composite   Appendix A, Line 110  0.00% 
+29   p = percent of federal income tax deductible for state purposes  Appendix A, Line 111  0.00% 
+30   T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = Appendix A, Line 112  0.00% 
+31   T/ (1-T)   Appendix A, Line 113  0.00% 
+         
+         
+32  Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) =   
+                                              
+-    
+32a   (Excess)/Deficient Deferred Income Taxes   Appendix A, Line 114a  - 
+33  Total Income Taxes     (Line 32 + Line 32a)   
+                                              
+-    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 18 
+      Trans-Allegheny Interstate Line Company             
+      Attachment 5 - Cost Support             
+Plant in Service Worksheet                 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions         Details     
+      
+13 Month Balance For 
+reconciliation 
+EOY Balance for 
+Estimate 13 Month Plant Balance For reconciliation       
+   Calculation of Transmission  Plant In Service Source  Total Total Black Oak Wylie Ridge   
+  502 Junction - 
+Territorial Line             
+ 500 kV Prexy - 502 
+Junction 
+ 138 kV Prexy - 502 
+Junction Project X Total       
+   December p206.58.b For 2005 -   - - - - - - -       
+   January company records For 2006 -   - - - - - - -       
+   February company records For 2006 -   - - - - - - -       
+   March\ company records For 2006 -   - - - - - - -       
+   April company records For 2006 -   - - - - - - -       
+   May company records For 2006 -   - - - - - - -       
+   June  company records For 2006 -   - - - - - - -       
+   July company records For 2006 -   - - - - - - -       
+   August company records For 2006 -   - - - - - - -       
+   September company records For 2006 -   - - - - - - -       
+   October  company records For 2006 -   - - - - - - -       
+   November company records For 2006 -   - - - - - - -       
+   December p207.58.g For 2006 -                                   - - - - - - - -       
+15  Transmission Plant In Service  - - - - - - - - -       
+      
+ Link to Appendix A, line 
+15  
+ Link to Appendix A, 
+line 15               
+   Calculation of Distribution Plant In Service Source                  
+   December p206.75.b For 2005 -                
+   January company records For 2006 -                
+   February company records For 2006 -                
+   March\ company records For 2006 -                
+   April company records For 2006 -                
+   May company records For 2006 -                
+   June  company records For 2006 -                
+   July company records For 2006 -                
+   August company records For 2006 -                
+   September company records For 2006 -                
+   October company records For 2006 -                
+   November company records For 2006 -                
+   December p207.75.g For 2006 -                                -                 
+   Distribution Plant In Service  - -              
+                      
+   Calculation of Intangible Plant In Service Source                  
+   December p204.5.b For 2005 -                
+   December p205.5.g For 2006 -                                -                 
+18  Intangible Plant In Service                                      -                                   -                 
+      
+ Link to Appendix A, line 
+18  
+ Link to Appendix A, 
+line 18               
+   Calculation of General Plant In Service Source                  
+   December p206.99.b For 2005 -                
+   December p207.99.g For 2006 -                                -                 
+18  General Plant In Service                                      -                                   -                 
+      
+ Link to Appendix A, line 
+18  
+ Link to Appendix A, 
+line 18               
+   Calculation of Production Plant In Service Source                  
+   December p204.46b For 2005 -                
+   January company records For 2006 -                
+   February company records For 2006 -                
+   March\ company records For 2006 -                
+   April company records For 2006 -                
+   May company records For 2006 -                
+   June  company records For 2006 -                
+   July company records For 2006 -                
+   August company records For 2006 -                
+   September company records For 2006 -                
+   October company records For 2006 -                
+   November company records For 2006 -                
+   December p205.46.g For 2006 -                                -                 
+   Production Plant In Service  - -              
+                      
+6  Total Plant In Service Sum of averages above - -              
+        
+  
+ Link to Appendix A, line 
+6  
+ Link to Appendix A, 
+line 6                      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 19 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 20 
+Accumulated Depreciation Worksheet                 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions         Details     
+      
+13 Month Balance For 
+reconciliation 
+EOY Balance for  
+Estimate 13 Month Balance For reconciliation       
+   Calculation of Transmission Accumulated Depreciation Source     Black Oak Wylie Ridge   
+  502 Junction - Territorial 
+Line             
+ 500 kV Prexy - 502  
+Junction 
+ 138 kV Prexy - 502  
+Junction Project X Total       
+   December Prior year FERC Form 1 p219.25.b For 2005 -   - - - - - - -       
+   January company records For 2006 -   - - - - - - -       
+   February company records For 2006 -   - - - - - - -       
+   March\ company records For 2006 -   - - - - - - -       
+   April company records For 2006 -   - - - - - - -       
+   May company records For 2006 -   - - - - - - -       
+   June  company records For 2006 -   - - - - - - -       
+   July company records For 2006 -   - - - - - - -       
+   August company records For 2006 -   - - - - - - -       
+   September company records For 2006 -   - - - - - - -       
+   October company records For 2006 -   - - - - - - -       
+   November company records For 2006 -   - - - - - - -       
+   December p219.25.b For 2006 -                                -    - - - - - - -       
+23  Transmission Accumulated Depreciation   - -                                     -                            -                             -                            -                            -    
+                        
+-    
+                      
+-          
+       Link to Appendix A, line 23  
+ Link to Appendix A, line 
+23               
+   Calculation of Distribution Accumulated Depreciation Source                  
+   December Prior year FERC Form 1 p219.26.b For 2005 -                
+   January company records For 2006 -                
+   February company records For 2006 -                
+   March\ company records For 2006 -                
+   April company records For 2006 -                
+   May company records For 2006 -                
+   June  company records For 2006 -                
+   July company records For 2006 -                
+   August company records For 2006 -                
+   September company records For 2006 -                
+   October  company records For 2006 -                
+   November company records For 2006 -                
+   December p219.26.b For 2006 -                                -                 
+   Distribution Accumulated Depreciation - -              
+                      
+   Calculation of Intangible Accumulated Depreciation Source                  
+   December Prior year FERC Form 1 p200.21.b For 2006 -                
+   December p200.21b For 2007 -                                -                 
+25  Accumulated Intangible Depreciation  - -              
+       Link to Appendix A, line 25  
+ Link to Appendix A, line 
+25               
+   Calculation of General Accumulated Depreciation Source                  
+   December Prior year FERC Form 1 p219.28b For 2005 -                
+   December p219.28.b For 2006                                     -                                   -                 
+24  Accumulated General Depreciation  - -              
+       Link to Appendix A, line 24  
+ Link to Appendix A, line 
+24               
+   Calculation of Production Accumulated Depreciation Source                  
+   December Prior year FERC Form 1 p219.20.b-24.b For 2005 -                
+   January company records For 2006 -                
+   February company records For 2006 -                
+   March\ company records For 2006 -                
+   April company records For 2006 -                
+   May company records For 2006 -                
+   June  company records For 2006 -                
+   July company records For 2006 -                
+   August company records For 2006 -                
+   September company records For 2006 -                
+   October  company records For 2006 -                
+   November company records For 2006 -                
+   December p219.20.b thru 219.24.b For 2006 - -              
+   Production Accumulated Depreciation  - -              
+                     
+                     
+8  Total Accumulated Depreciation Sum of averages above  - -              
+        
+  
+                         Link to Appendix A, line 8 
+Link to Appendix A, line 8 
+                    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 21 
+Electric / Non-electric Cost Support                 
+Link to Appendix A, line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount Electric Portion   Non-electric  Portion Details 
+  Materials and Supplies     Beg of year End of Year (for estimate)   
+Average of  
+Beginning and  
+Ending Balances  
+40  Transmission Materials & Supplies  p227.8 - -  -  
+37  Undistributed Stores Expense  p227.16 - -  -  
+  Allocated General Expenses          
+51       Plus Property Under Capital Leases 0 p200.4.c      
+                    
+  
+  
+           
+Transmission / Non-transmission Cost Support                 
+Link to Appendix A, line #s, Descriptions, Notes, Form 1 Page #s and Instructions Beg of year End of Year (for estimate)   
+Average of  
+Beginning and  
+Ending Balances Details 
+34  Transmission Related Land Held for Future Use   Total - -                                     -    Enter Details Here 
+     Non-transmission Related - -                                     -      
+     Transmission Related - -                                     -     
+                    
+  
+  
+                   
+ 
+CWIP & Expensed Lease Worksheet                 
+Link to Appendix A, line #s, Descriptions, Notes, Form 1 Page #s and Instructions Beg of year CWIP In Form 1 Amount   
+Expensed Lease in 
+Form 1 Amount Details 
+  Plant Allocation Factors          
+6  Electric Plant in Service  (Note B) Attachment 5        
+  Plant In Service          
+15  Transmission Plant In Service (Note B) Attachment 5        
+  Accumulated Depreciation            
+23 
+  
+Transmission Accumulated Depreciation 
+  (Note B) Attachment 5            
+                   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-18A - Trans-Allegheny 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 22 
+Pre-Commercial Costs Capitalized      
+Link to Appendix A, line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+EOY for Estimate and 
+BOY for Final 
+Amortization Amount 
+(Over 4 Years) 
+Calculated End of 
+Year Balance 
+Average of  
+Beginning and  
+Ending Balances 
+ (for estimate and reconciliation)           
+  
+  
+  
+                    
+35 Unamortized Capitalized Pre-Commercial Costs 

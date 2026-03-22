@@ -1,0 +1,697 @@
+ATTACHMENT B 
+Form of Service Agreement For Non-Firm Point-To-Point 
+Transmission Service 
+ 
+1.0  This Service Agreement, dated as of _______________, is entered into, by and between 
+the Office of the Interconnection of PJM Interconnection, L.L.C. (the Transmission 
+Provider) as administrator of the Tariff, PJM Settlement Inc. (“Counterparty”) as the 
+counterparty, and ____________ (Transmission Customer). 
+ 
+2.0 The Transmission Customer has been determined by the Transmission Provider to be a 
+Transmission Customer under Part II of the Tariff and has filed a Completed Application 
+for Non-Firm Point-To-Point Transmission Service in accordance with Section 18.2 of 
+the Tariff. 
+ 
+3.0  Service under this Agreement shall be provided upon request by an authorized 
+representative of the Transmission Customer.  
+ 
+4.0 The Transmission Customer agrees to supply information the Transmission Provider 
+deems reasonably necessary in accordance with Good Utility Practice in order for it to 
+provide the requested service. 
+ 
+5.0  The Transmission Provider agrees to provide and the Transmission Customer agrees to 
+take and pay for Non-Firm Point-To-Point Transmission Service in accordance with the 
+provisions of Part II of the Tariff and this Service Agreement. 
+ 
+6.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representative as indicated below.  
+ 
+Transmission Provider  (on behalf of Transmission Provider and Counterparty): 
+ PJM Interconnection, L.L.C. 
+ 2750 Monroe Blvd. 
+ Audubon, PA 19403 
+ 
+Transmission Customer: 
+ 
+ _____________________________________ 
+ 
+ _____________________________________ 
+ 
+ _____________________________________ 
+ 
+7.0 The Tariff is incorporated herein and made a part hereof. 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by 
+their respective authorized officials. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT B 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 2 
+Office of the Interconnection: 
+ 
+By: __________________________ ________________ _____________ 
+ Name               Title   Date 
+ 
+Counterparty: 
+ 
+By: ______________________ _______________ ______________ 
+Name    Title   Date 
+ 
+ 
+Transmission Customer: 
+ 
+By: __________________________ ________________ _____________ 
+ Name     Title   Date 
+ 
+CERTIFICATION 
+ 
+I, ___________________________, certify that I am a duly authorized officer of 
+___________________________________ (Transmission Customer) and that 
+___________________________________ (Transmission Customer) will not request service 
+under this Service Agreement to assist an Eligible Customer to avoid the reciprocity provision of 
+this Open-Access Transmission Tariff. 
+ 
+_____________________________ 
+(Name) 
+ 
+_____________________________ 
+(Title) 
+ 
+ 
+ Subscribed and sworn before me this _____ day of _____________, _______. 
+ 
+ 
+_____________________________ 
+(Notary Public) 
+ 
+My Commission expires:_____________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 1 
+ATTACHMENT C 
+ 
+Methodology To Assess Available Transfer Capability 
+ 
+The Transmission Provider will be solely responsible for determinations of Available Transfer 
+Capability (ATC).  The Transmission Provider will post firm and non-firm ATC projections on 
+the OASIS for interfaces between neighboring Balancing Authorities and the PJM Region, and 
+other path locations of significant commercial interest will be added as appropriate. 
+ 
+ATC of a particular path is an approximate indication of the anticipated transmission transfer 
+capability remaining on the transmission network that could be scheduled for further commercial 
+activity relative to the designated path under the conditions studied.  Specific study of conditions, 
+including source and sink of generation and load, is required before firm transmission service 
+commitments can be made. 
+ 
+Transfer capability of the transmission network is limited by physical and electrical 
+characteristics of the system including thermal equipment loading, voltage, and stability 
+considerations and provisions of coordination agreements.  Transfer capability is evaluated based 
+on base system loading and an assessment of critical contingencies on the transmission system.  
+The critical contingencies will be defined as appropriate.  The Transmission Provider’s 
+calculation of transfer capability will be consistent with the principles in the NERC standards.  
+These calculations will be performed through a combination of planning and operational 
+analyses, employing both Energy Management System real-time functionality and off-line 
+analytical tools as appropriate.  Firm and non-firm ATC will be determined consistent with 
+NERC standards, taking into account the Transmission Reliability Margin (TRM), Existing 
+Transmission Commitments (ETC) and Capacity Benefit Margin (CBM) (see below) in order to 
+preserve the emergency capability of the PJM Region to serve load serving entities.  Firm ATC 
+on any path will be limited to assure that emergency import capability will be available to 
+Network Customers when needed through the reservation of capacity benefit margin, equivalent 
+to a firm point-to-point transmission service reservation for delivery from systems outside of the 
+PJM Region to serve the load serving entities within such region. 
+ 
+Determination of ATC requires that base system conditions be identified and modeled for the 
+period being analyzed.  These conditions include projected demand, anticipated generation 
+availability, anticipated transmission system facility availability, expected energy transactions, 
+and information about neighboring regions that affect the transfer capability of the PJM Region.  
+For hourly through monthly calculations, these conditions are based on the Transmission 
+Provider’s operational assessments of load trends, unit commitment profiles, maintenance 
+schedules and ETC.  Long-term calculations are based on planning loads, expected maintenance 
+schedules, typical generation patterns, and ETC. 
+ 
+Any dispute regarding a determination of ATC by the Transmission Provider, or regarding the 
+data used by the Transmission Provider in such a determination, shall be resolved pursuant to the 
+dispute resolution procedures of Tariff, Part I, section 12. 
+ 
+ 
+ATC and AFC Calculations Using Flowgate Methodology  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 2 
+ 
+The Available Flowgate Capability (AFC) calculation methodology used by the Transmission 
+Provider is the Flowgate Methodology as described in the Available Transfer Capability 
+Implementation Document (ATCID).  The ATCID is included on the PJM OASIS page under 
+ATC information.  The Flowgate Methodology uses analytical tools to examine critical 
+flowgates over the PJM Region and adjacent regions (per seams agreements) and converts AFC 
+values into particular path ATC values, which are posted on the PJM OASIS.  For Firm and 
+Non-firm Transmission Service ATC calculations, the Transmission Provider shall account for 
+Postbacks of redirected services, unscheduled service, and counterflows.  PJM critical flowgates 
+may include, but are not limited to thermal flowgates, voltage/stability flowgates, coordinated 
+flowgates, and reciprocal coordinated flowgates. 
+ 
+Overview and Process Flow Diagram 
+ 
+The process for the Transmission Provider’s AFC/ATC calculation is illustrated in the Exhibit 1 
+flow diagram.  The text that follows describes the inputs, outputs and processes performed within 
+each of the sub-processes contained in Exhibit 1. The Transmission Provider calculates Firm and 
+Non-firm Transmission Service ATC for the scheduling horizon (same day and real-time), 
+operating horizon (day ahead and pre-schedule), and planning horizon (beyond the operating 
+horizon). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 3 
+Exhibit 1 
+ 
+AFC Flowgate Methodology 
+ 
+Determining AFC and ATC using the Flowgate Methodology is a multi-step integrated process 
+which is described in detail in the ATCID.  PJM uses the following mathematical algorithms to 
+calculate AFC and ATC.  The actual detailed AFC and ATC algorithms are available on the PJM 
+OASIS website at the following link:   
+ 
+ ftp://ftp.pjm.com/oasis/afc-atc-algorithms.pdf 
+ 
+ AFC = flowgate rating – ETC – TRM – CBM + Postbacks + counterflows. 
+ 
+The AFC Calculation is the amount of unused transfer capability on a flowgate after accounting 
+for base case conditions represented by solved base case flows and applying the impacts of non-
+base case commitments and flowgate specific margins.  
+ 
+         ATC = Minimum{AFC1 / Transfer Response Factor, …,AFCn / Transfer Response Factor} 
+ 
+AFC/ATC Process Flow Diagram
+Transmission Outages
+Generation Outages
+Load Forecast 
+PJM
+PJM
+ATC/AFC
+NERC Web Site
+NEIGHBORING 
+OASIS NODES
+Security Data Exchange 
+(SDX)
+Data Miner
+ AFC from Coordinated 
+Entities
+Tag Data
+ Flow Gates
+ & 
+AFC Values
+Interregional Distribution 
+Calculator
+ (IDC)
+NERCTag Data
+Multi Regional Modeling 
+Working Group
+ (MMWG) Ancillary Files
+Transmission 
+Owner
+Generation 
+Owner
+OASIS
+OASIS
+OASIS
+OASIS
+OASIS
+Transmission Outages
+Generation Outages
+Load Forecast
+AFC 
+Base 
+Case 
+Model 
+Builder
+Network Model
+Base 
+Case
+AFC to ATC 
+Converter
+AFC
+&
+Flow gates
+Transmission and Generation 
+Interdependencies
+ATC
+AFC
+&
+Flow gates
+OASIS
+Reservations
+PJM 
+OASIS
+AFC 
+Calculation
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 4 
+The AFC to ATC converter translates the flowgate AFC values into path ATC values for posting 
+to the OASIS.  The ATC calculation is the minimum AFC of a set of limiting flowgates divided 
+by the transfer response factor or distribution factor on the respective flowgate for a specific 
+Point of Receipt/Point of Delivery pair.  The Available Share of Total Flowgate Capability 
+(ASTFC) as prescribed by a congestion management process agreement (e.g., the CMP included 
+in the Joint Operating Agreement between the Midwest Independent Transmission System 
+Operator, Inc. and PJM) may be less than the calculated AFC.  The posted AFC is set by the 
+ASTFC or the calculated AFC, whichever is most limiting. 
+ 
+ An overview of the major components of this process is described below: 
+ 
+• The AFC to ATC converter process utilizes the coordination entity calculated AFC 
+values for non-PJM flowgates.  AFC values for coordination entity flowgates calculated 
+by the coordination entity overwrite values that the Transmission Provider’s process 
+determines for these Flowgates.   
+ 
+• The Transmission Provider supplies coordination entities with similar values for PJM 
+Flowgates for inclusion in the coordination entity’s AFC process. 
+ 
+• Values provided to the OASIS from the AFC/ATC process are continually updated on the 
+OASIS to reflect the reservations or schedules that were accepted or confirmed since the 
+last complete calculation cycle.  
+ 
+Data Miner 
+ 
+Transmission Provider, through data miner process, gathers data from the Transmission Provider 
+and external sources to use as inputs to the AFC/ATC process.  These external sources are 
+included in the Transmission Provider’s ATCID. 
+ 
+Model Builder 
+ 
+The Transmission Provider develops and maintains seasonal models for the next 18 months.  
+These seasonal models will be developed from the NERC MMWG case library modified for any 
+known model updates.  The Transmission Provider’s AFC/ATC calculations are based on these 
+seasonal models.  The model builder portion of the AFC/ATC engine modifies these seasonal 
+base cases to reflect anticipated conditions such as forecasted load levels, outages, generation 
+dispatch files, and base case transfers (reservations and/or schedules as appropriate) for the 
+AFC/ATC time horizon.  The base case models are refined to reflect transmission outages and 
+generation unavailability as provided by the NERC SDX data.  Load levels are appropriately 
+adjusted to reflect the modeled conditions using the NERC SDX data.  Relevant balancing 
+authorities external to the PJM footprint will be modeled at the appropriate load level with the 
+generation scaled to match loads. 
+ 
+The Transmission Provider develops monthly, weekly, daily, and hourly AFC cases.  These 
+cases serve as the base case models for the AFC calculation for a specific period.  Solved base 
+case models for monthly, weekly, daily, and hourly time frames are developed multiple times 
+each day consistent with NERC standards. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 5 
+ 
+The Transmission Provider models some flowgates without contingencies and some with 
+contingencies. 
+ 
+The flowgates modeled without contingencies are the Power Transfer Distribution Factor 
+(PTDF) flowgates, which are flowgates where a single facility or multiple transmission facilities 
+are monitored for a limiting condition.  The limiting condition can be due to thermal loading 
+above 100% of the normal rating or due to a thermal rating above 100% of the surrogate rating 
+representing an equivalent voltage or stability limit.   
+ 
+The flowgates modeled with contingencies are the Outage Transfer Distribution Factor (OTDF) 
+flowgates, which are flowgates where a single facility or multiple transmission facilities are 
+monitored for a limiting condition after a contingency event has been simulated to have occurred 
+(one or multiple facilities for the loss of another facility or facilities).  The limiting condition 
+monitored can be due to thermal loading above 100% of the 4 hour emergency rating.   
+ 
+For flowgates owned by other parties, Transmission Provider uses the limit provided by that 
+party, subject to the terms of the AFC Coordination and Congestion Management Process 
+sections of the applicable agreements between Transmission Provider and the other parties. 
+ 
+AFC Calculation 
+ 
+The Transmission Provider’s AFC/ATC calculation implements the following principles for firm 
+and non-firm ATC calculations: (1) for firm ATC calculations, the Transmission Provider shall 
+account only for firm commitments; (2) for non-firm ATC calculations, the Transmission 
+Provider shall account for both firm and non-firm commitments.  Reservations from the PJM and 
+non-PJM OASIS sites are utilized.  Flow based analysis will be used to determine and update 
+flowgate loadings for reservations not modeled in the base case and to determine response 
+factors on each flowgate.  Flowgate loadings and response factors will be used to determine the 
+individual path ATC values.   
+ 
+• The Transmission Provider recognizes physical network limitations (i.e., flowgates) on 
+PJM and appropriate non-PJM systems in the determination of the path ATC values. 
+ 
+• AFC values received from coordination entites are calculated by those entities according 
+to their AFC methodology. 
+ 
+AFC to ATC Conversion 
+ 
+To calculate ATC, which represents a transfer capability in MW available for sale between a 
+specific Point of Delivery and Point of Receipt, the Transmission Provider will first calculate an 
+AFC for each flowgate.  An AFC is defined as follows: 
+ 
+• The available capability in MW on a flowgate, determined by the transmission provider, 
+that is available for further commercial activity.   The available capability determined 
+will be dependent on the generation, loads and transmission configuration assumed for 
+the time period studied.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 6 
+ 
+• The AFC accounts for thermal, voltage and stability limits under both pre and post 
+contingency conditions, along with any existing transmission commitments, TRM and 
+CBM. 
+ 
+• The AFC is used to determine the amount of MWs that can be transferred between a 
+specific set of source and sink points.  An AFC is skipped using on-the-path logic if the 
+flowgate owner is either the Point of Receipt or Point of Delivery on the path being 
+calculated.  The non-firm ATC calculation for the willing-to-pay congestion product on 
+the OASIS includes only external flowgates.  
+ 
+• Counterflow and Postbacks are considered in the calculation of AFC.    
+ 
+Coordination with Neighboring Systems 
+ 
+The Transmission Provider exchanges data with neighboring systems.  The Transmission 
+Provider provides transmission reservations, AFC values for Transmission Provider flowgates, 
+and other data.  This coordination results in comparable inputs to the AFC calculations.  The 
+Transmission Provider utilizes similar information provided by coordinating entities. 
+ 
+Treatment of Existing Transmission Commitments 
+ 
+ETC is committed use of the transmission system, including: (1) Transmission Provider’s 
+reservations in accepted or confirmed status; (2) native load commitments; Network Integration 
+Transmission Service; (3) grandfathered transmission rights; (4) Firm Point-To-Point 
+Transmission Service reservations; and if required (5) rollover rights associated with long-term 
+firm service (Point-To-Point Transmission Service and Network Integration Service or 
+grandfathered transmission rights). Existing commitments modeled in the load flow base cases 
+determine the initial flows on the facilities. To the extent there are existing transactions that 
+qualify for rollover rights, they are incorporated in the committed usage. 
+ 
+PJM OASIS reservations that are withdrawn, retracted (not confirmed) or annulled are removed 
+from the ETC and any resulting changes to ATC are incorporated in the next OASIS posting of 
+ATC calculated values.  The Transmission Provider’s firm and non-firm ATC calculations also 
+account for permanently redirected services, unscheduled service, and counterflows.  In the 
+scheduling and operating horizons, reservation impacts are substituted with scheduled impacts.  
+That is, the reservation impact component of ETC is set to zero and the schedule impacts 
+component of ATC is used.  In the planning horizon, reservation impacts are used because 
+requests to schedule are often not received in this horizon.  That is, the reservation impact 
+component of ETC is set based on Transmission Service Requests for which Transmission 
+Provider has committed to provide service and the schedule impacts component of ATC is set to 
+zero. Additional information is included on this subject in the Transmission Provider’s ATCID. 
+ 
+External Flowgates 
+ 
+Flowgates are used in the AFC and ATC calculations.  PJM adds or eliminates external 
+flowgates based on the Joint Operating Agreement Between the Midwest Independent 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 7 
+Transmission System Operator, Inc. And PJM Interconnection, L.L.C. (“Midwest ISO JOA”, 
+Article V (FERC Electric Tariff, First Revised Rate Schedule No. 38, see, Section 4.2 – Cost of 
+Data and Information Exchange up to and including Section 5.1.12 – Coordination of 
+Transmission Reliability Margin Values); Joint Operating Agreement Among And Between PJM 
+Interconnection, L.L.C., And Progress Energy Carolinas (“PEC JOA”), Article Five (FERC 
+Electric Tariff, First Revised Rate Schedule No. 50, see, Article 9 – Coordinated Transmission 
+Planning Studies up to and including Article 12 – Managing Parallels Flow on the VACAR/PJM 
+Interface ); and Joint Reliability Coordination Agreement Among And Between PJM 
+Interconnection, L.L.C., Tennessee Valley Authority, and Louisville Gas and Electric Company 
+and Kentucky Utilities (“JRCA”), Article Five.  PJM adds or eliminates internal flowgates, at 
+least annually, based on a review of historic operating constraints including flowgates that have 
+been in Transmission Loading Relief (TLR) and other operating conditions as deemed 
+appropriate.  
+ 
+Internal Flowgates 
+ 
+Transmission Provider determines base case flows using the AFC engine.  Transmission 
+Provider runs the AFC engine hourly (except in the case of a technical error, system error or 
+planned system outage).  The base run includes native and network load (from the load forecast), 
+transmission service that is expected to be scheduled (grandfathered, point-to-point and imports 
+from designated Network Resources), outages and load forecast.  Base case flow inputs are 
+updated at least once per day.  In the scheduling and operating horizons, Transmission Provider 
+updates scheduled transmission service for each run of the AFC engine.  Transmission Provider 
+models all grandfathered agreements and other non-Tariff use of the transmission system as firm 
+service or load.  Transmission Provider does not segregate non-Tariff service in the AFC 
+calculation.  
+ 
+On an annual basis (or sooner if required by NERC MOD Standards), PJM shall review internal 
+flowgates using the following methodology: 
+ 
+a. The Transmission Provider shall include all flowgates in its footprint that have initiated a 
+TLR event in the 12 months prior to the annual review. 
+ 
+b. The Transmission Provider shall include applicable System Operating Limit (SOL) and 
+Interconnection Reliability Operating Limits (IROL) flowgates per NERC TOP-002 R-12 
+standards (or successor).  Any facility that PJM monitors that is not considered an IROL facility 
+is consider a SOL.  Applicable SOL and IROL flowgates shall include at a minimum those 
+flowgates identified in the TRM process described in this Attachment C AFC process. 
+ 
+c. The Transmission Provider shall add or remove flowgates to its AFC process in 
+accordance with NERC MOD standards. 
+ 
+The Transmission Provider may eliminate flowgates that do not continue to meet the criteria 
+above. 
+ 
+A reservation with rollover rights is reflected in ETC in the amount of transmission service 
+reserved as if the customer has exercised its rollover right.  If the deadline for a customer to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 8 
+exercise its rollover right for a given reservation has passed, and the customer did not exercise its 
+rollover right, the amount associated with the unexercised rollover right no longer is included in 
+the amount of reservations. 
+ 
+Treatment of Capacity Benefit Margin 
+ 
+Explanation of CBM 
+ 
+Transmission Provider uses the NERC approved definition of CBM, which is the amount of firm 
+transmission transfer capability preserved by Transmission Provider for Load-Serving Entities 
+(LSEs), whose loads are located on that Transmission Provider’s system, to enable access by the 
+LSEs to generation from interconnected systems to meet generation reliability requirements.  
+The transmission transfer capability preserved as CBM is intended to be used by an LSE only in 
+times of emergency generation deficiencies.  Additional information is included in the 
+Transmission Provider’s Capacity Benefit Margin Implementation Document (CBMID) posted 
+on the PJM OASIS page under ATC Information. 
+ 
+The CBM is a reliability margin applied to the flowgate in the AFC Calculation.  CBM is only 
+applied to firm ATC calculations where the PJM Region is the delivery point.  The Transmission 
+Provider consistently applies CBM in planning and operations and does not double count for this 
+reliability margin (i.e., this margin is not included in TRM). For non-PJM flowgates, the 
+Transmission Provider uses the CBM values provided by coordination entities for the AFC 
+calculation on these flowgates.   
+ 
+Through the sharing of installed generating capacity via transmission interconnections, systems 
+have relied on transmission import capability to reduce their required installed generating 
+capacity necessary to provide reliable service to Network Customers.  In order to ensure that 
+PJM has the ability to import external generation for the purpose of serving Network Customers, 
+a portion of the transfer capability will be set aside.  CBM is set aside on paths based on the 
+expected delivery of energy from entities with which the Transmission Provider has emergency 
+energy agreements at the time of the Transmission Provider’s forecast peak load.  This 
+capability, known as the Capacity Benefit Margin, is a reflection of the mutual benefit of 
+interconnected operations and reservation of this margin allows a system to reduce its installed 
+generating capacity below that which may have otherwise been required if transmission 
+interconnections did not exist. 
+ 
+The CBM is determined through the auspicious of the Reliability Assurance Agreement Among 
+Load Serving Entities in the PJM Region (PJM Rate Schedule FERC No. 44) (RAA).  
+Capitalized terms in this section that are not defined in this section or Tariff, Part I, section 1 are 
+defined in the RAA.   
+ 
+CBM is determined through the Transmission Planning Evaluation of Import Capability.  This 
+evaluation establishes the amount of emergency power that can be reliably transferred to the PJM 
+Region from adjacent regions in the event of a PJM Region generation capacity deficiency.  To 
+determine the import transfer limit, several emergency scenarios are replicated and the limit 
+represents a normalization of expected values.  This transfer limit determines the PJM Region tie 
+benefit that is subsequently used in calculating the PJM Region reserve requirement.  An annual 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 9 
+recalculation of the PJM Region import capability is not required, since the import capability far 
+exceeds the CBM value specified in RAA, Schedule 4.   
+ 
+CBM is a key input into the annual resource adequacy study performed by Transmission 
+Provider.  The purpose of this study is to determine the PJM Region Installed Reserve Margin 
+(IRM) required by the PJM Region to satisfy a one day in 10 year Loss of Load Expectation 
+(LOLE).  Transmission Provider uses a probabilistic methodology to perform the resource 
+adequacy study.  The study assumptions and results are subject to stakeholder review and 
+comment.  The resulting IRM is expressed as a percentage of the forecasted annual peak load.   
+ 
+The CBM assessment in the PJM Region is a unique method that is regionally specific because 
+interface capability greatly exceeds CBM and because Transmission Provider centrally secures 
+capacity for the PJM Region capacity market.   
+ 
+Transmission Provider’s annual resource adequacy study is based on the probabilistic methods 
+and criteria described in RAA, Schedule 11, the Operating Agreement and in the PJM Manuals.  
+The resource adequacy study considers the following data and forecasts as necessary: 
+ 
+1. Seasonal peak load forecasts for each Planning Period as calculated by Transmission 
+Provider in accordance with the PJM Manuals reflecting (a) load forecasts with a 50 
+percent probability of being too high or too low and (b) summer peak diversities 
+determined by Transmission Provider from recent experience. 
+ 
+2. Forecasts of aggregate seasonal load shape of the parties bound by the RAA which are 
+consistent with forecast averages of 52 weekly peak loads prepared by Transmission 
+Provider. 
+ 
+3. Variability of loads within each week, due to weather, economic forecast uncertainty, and 
+other recurring and random factors, as determined by Transmission Provider. 
+ 
+4. Generating unit capability and types for every existing and proposed unit. 
+ 
+5. Generator Forced Outage rates for existing mature generating units based on data 
+submitted by generation owners, and for immature and proposed units based upon 
+forecast rates related to unit types, capabilities and other pertinent characteristics. 
+ 
+6. Generator Maintenance Outage factors and planned outage requirements based on 
+forecasts and historical data submitted by the generation owners. 
+ 
+7. Miscellaneous adjustments to capacity due to all causes, as determined by the Office of 
+the Interconnection, based on forecasts submitted by the generation owners. 
+ 
+8. The emergency capacity assistance available due to  interconnections of the PJM Region 
+with other balancing authorities, as limited by the capacity benefit margin considered in 
+the determination of available transfer capability and the probable availability of 
+generation in excess of load requirements in such areas. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 10 
+The value of the capacity benefit margin as filed as part of the RAA periodically is reviewed by 
+Transmission Provider, in consultation with the Members Committee, and can be modified, if 
+necessary, to balance external emergency capacity assistance and internal installed capacity 
+reserves so as to minimize the total cost of the capacity reserves of the RAA participants, 
+consistent with the Reliability Principles and Standards.   
+ 
+Use of CBM in an Emergency 
+ 
+The procedures for the use of CBM in an emergency, are described in Section 2 of PJM Manual 
+13: Emergency Operations and are consistent with NERC and ReliabilityFirst Corporation’s 
+Energy Emergency Alert defined in NERC’s EOP-002 standards.  Transmission Provider is 
+responsible for declaring the existence of an emergency, and for directing the operations of the 
+PJM Members as necessary to manage, alleviate, or end a capacity shortage.  Transmission 
+Provider uses CBM in an emergency only on behalf of LSEs.  LSEs only use CBM through the 
+Transmission Provider’s use of CBM on the LSEs behalf.  
+ 
+Emergency use of CBM will be considered use of Network Integration Transmission Service and 
+there will be no additional charge for such use.  Because an area is in an EEA 2 and 
+Transmission Provider is taking steps to avoid shedding firm load, the use of CBM will have a 
+NERC curtailment priority of 7 and will only be curtailed with other firm uses on a proportional 
+basis.   
+ 
+ Transmission Provider utilizes CBM on behalf of LSEs as described below. 
+ 
+• Transmission Provider reviews the level of dependency on external transactions to serve 
+the load in the PJM Region.  Transmission Provider shall log occurrences where CBM is 
+implemented.  Transmission Provider shall notify external systems via the Reliability 
+Coordinator Information System (defined in NERC EOP-002) or successor, a 
+communications tool located at the NERC website to post potential or actual alert 
+information, and Transmission Provider Members via the Transmission Provider’s 
+website and issue appropriate NERC alert levels consistent with NERC EOP- 002.   
+ 
+• CBM shall be used only after the following steps have been taken: all non-firm sales have 
+been terminated, direct-control load management has been implemented, and customer 
+interruptible demands have been interrupted.  Due to the nature of emergencies, 
+Transmission Provider may skip or reorder the steps in accordance with Good Utility 
+Practice.  CBM may be used to reestablish Operating Reserves. 
+ 
+• CBM shall only be used if the PJM Region is experiencing a generation deficiency to 
+increase generation in the PJM Region.  Transmission Provider shall use CBM, on behalf 
+of an LSE, in order to exercise emergency energy agreements and to implement approved 
+emergency energy bids.  Transmission Provider does not displace Non-Firm Point-To-
+Point Transmission Service and/or secondary service, described in Tariff, Part III, section 
+28.4, imports until the Transmission System is constrained.  If the Transmission System 
+is constrained, CBM is used by Transmission Provider to displace such imports to 
+provide more reliable service to load during capacity deficiencies.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 11 
+• Unused CBM is included in the AFC/ATC calculations as Non-Firm Point-To-Point 
+Transmission Service and/or secondary service, described in Tariff, Part III, section 28.4. 
+ 
+ 
+Transmission Planning Evaluation of Import Capability 
+ 
+The Transmission Provider conducted an Expected Import Capability Study (EICS) to evaluate 
+the emergency import limits of the Transmission Provider under summer peak conditions.  That 
+study showed the Transmission Provider’s import capability limit.  This limit is evaluated 
+annually to assess whether the CBM value should be changed.  This evaluation is discussed in 
+the annual PJM Reserve Requirement Study (RRS).  While the Transmission Provider can 
+import more than the CBM value issued in the study, the additional import capability is reflected 
+in ATC through the OASIS postings.  This allows the additional import capability to be used in 
+the marketplace.  The reliability benefit of CBM saturates near the limit issued in the RRS.   
+ 
+ 
+Treatment of Transmission Reliability Margin (TRM) 
+ 
+The Transmission Reliability Margin (TRM) is a reliability margin applied to the flowgate in the 
+AFC Calculation.  TRM accounts for the inherent uncertainty in system conditions and its 
+associated effects on ATC calculations and the need for operating flexibility to ensure reliable 
+system operation as system conditions change.    The Transmission Provider, following the 
+NERC MOD-008-1, or successor Reliability Standard, calculates TRM for flowgates and may 
+include uncertainty items using a process described in the Transmission Reliability Margin 
+Implementation Document (TRMID).  The flowgates are identified following NERC MOD-030-
+2, or successor Reliability Standard, through processes described in the ATCID.  Both the 
+TRMID and ATCID are posted PJM OASIS page under ATC Information. 
+ 
+ Transmission Provider calculates TRM using the following methodology:   
+ 
+1. TRM shall be set using components of uncertainty identified in the TRMID for all 
+PJM flowgates except as noted below.   
+ 
+2. TLR and IROL.  TRM shall be considered using components of uncertainty 
+identified in the TRMID for all flowgates that had TLR issued in the 12 months 
+prior to Transmission Provider’s annual TRM re-evaluation and are 
+Interconnection Reliability Operating Limits (IROLs) located in PJM Manual 37:  
+Reliability Coordination.   
+ 
+3.  Constrained Operations.  TRM may be set  using components of uncertainty 
+identified in the TRMID for flowgates that were bound constrained in the 12 
+months prior to Transmission Provider’s annual TRM re-evaluation.   
+ 
+4. Current and Expected Operating Conditions.  During times of unusual circulation 
+or other operating conditions, Transmission Provider may set a larger TRM than 
+indicated in sections 1, 2, and 3 above.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 12 
+5. Historic Conditions.  Notwithstanding sections 1, 2, and 3 above, Transmission 
+Provider may set TRM on specific flowgates consistent with components of 
+uncertainty identified in the TRMID and NERC MOD-008-1, or successor 
+Reliability Standard.   
+ 
+6. For non-PJM flowgates, the Transmission Provider uses the TRM values provided 
+by coordination entities for the PJM AFC calculation on these flowgates in 
+accordance with applicable agreement with such entities. 
+ 
+Transmission Provider uses data from Transmission Provider’s Energy Management System 
+(EMS) historic database, IROL and NERC’s Interchange Distribution Calculator (IDC) in the 
+calculation of TRM. 
+ 
+Transmission Provider uses TRM in all AFC calculations.  Transmission Provider includes TRM 
+in the AFC/ATC calculation to provide a reasonable level of assurance that the interconnected 
+transmission network will be secure. TRM is not scheduled against or explicitly used for the 
+delivery of energy.  It is preserved as a reliability margin to reflect the uncertainty of the 
+operation of the electric system (i.e., to prevent oversubscription of the transmission system).  
+Transmission Provider flowgates with their TRM, CBM, and ratings are posted on the PJM 
+OASIS paged under ATC Information at: 
+ 
+ftp://ftp.pjm.com/oasis/fgates-definitions-posting.csv   
+ 
+Total Transfer Capability (TTC) 
+ 
+The Total Transfer Capability (TTC) is the amount of transfers that can be reliably delivered 
+across the interconnected transmission system for the forecasted conditions.  The Transmission 
+Provider uses the network AFC methodology to calculate ATC, which does not use TTC as an 
+input.  The flowgate rating is an equivalent starting point in the AFC calculation.  However, a 
+TTC value is derived as an output and is posted. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT C-1 
+Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 

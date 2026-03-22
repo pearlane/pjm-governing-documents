@@ -1,0 +1,169 @@
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions I - L 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+Definitions I - L 
+ 
+Immediate-need Reliability Project: 
+ 
+“Immediate-need Reliability Project” shall mean a reliability-based transmission enhancement or 
+expansion that the Office of the Interconnection has identified to resolve a need that must be 
+addressed within three years or less from the year the Office of the Interconnection identified the 
+existing or projected limitations on the Transmission System that gave rise to the need for such 
+enhancement or expansion pursuant to the study process described in  Operating Agreement, 
+Schedule 6, section 1.5.3. 
+ 
+Inadvertent Interchange:  
+ 
+“Inadvertent Interchange” shall mean the difference between net actual energy flow and net 
+scheduled energy flow into or out of the individual Control Areas operated by PJM. 
+ 
+Increment Offer: 
+ 
+“Increment Offer” shall mean a type of Virtual Transaction that is an offer to sell energy at a 
+specified location in the Day-ahead Energy Market.  A cleared Increment Offer results in 
+scheduled generation at the specified location in the Day-ahead Energy Market. 
+ 
+Incremental Energy Offer: 
+ 
+“Incremental Energy Offer” shall mean the cost in dollars per MWh of providing an additional 
+MWh from a synchronized unit. It consists primarily of the cost of fuel, as determined by the 
+unit’s incremental heat rate (adjusted by the performance factor) times the fuel cost. It also 
+includes operating costs, Maintenance Adders, emissions allowances, tax credits, and energy 
+market opportunity costs. 
+ 
+Incremental Multi-Driver Project: 
+ 
+“Incremental Multi-Driver Project” shall mean a Multi-Driver Project that is planned as 
+described in Operating Agreement, Schedule 6, section 1.5.10(h). 
+ 
+Information Request: 
+ 
+“Information Request” shall mean a written request, in accordance with the terms of the 
+Operating Agreement for disclosure of confidential information pursuant to Operating 
+Agreement, section 18.17.4. 
+ 
+Integer Relaxation: 
+ 
+“Integer Relaxation” shall mean the process by which the commitment status variable for an 
+Eligible Fast-Start Resource is allowed to vary between zero and one, inclusive of zero and one, 
+as further described in Operating Agreement, Schedule 1, section 2.2. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions I - L 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 2 
+ 
+Interface Pricing Point: 
+ 
+“Interface Pricing Point” shall have the meaning specified in Operating Agreement, Schedule 1, 
+section 2.6A, and the parallel provisions of Tariff, Attachment K-Appendix, section 2.6A. 
+ 
+Internal Market Buyer:  
+ 
+“Internal Market Buyer” shall mean a Market Buyer making purchases of energy from the PJM 
+Interchange Energy Market for ultimate consumption by end-users inside the PJM Region that 
+are served by Network Transmission Service 
+ 
+Interregional Transmission Project: 
+ 
+“Interregional Transmission Project” shall mean transmission facilities that would be located 
+within two or more neighboring transmission planning regions and are determined by each of 
+those regions to be a more efficient or cost effective solution to regional transmission needs. 
+ 
+LLC: 
+ 
+“LLC” shall mean PJM Interconnection, L.L.C., a Delaware limited liability company. 
+ 
+Load Management: 
+ 
+“Load Management” shall mean a Demand Resource (“DR”) as defined in the Reliability 
+Assurance Agreement. 
+ 
+Load Management Event: 
+ 
+“Load Management Event” shall mean a) a single temporally contiguous dispatch of Demand 
+Resources in a Compliance Aggregation Area during an Operating Day, or b) multiple dispatches 
+of Demand Resources in a Compliance Aggregation Area during an Operating Day that are 
+temporally contiguous. 
+ 
+Load Reduction Event: 
+ 
+“Load Reduction Event” shall mean a reduction in demand by a Member or Special Member for 
+the purpose of participating in the PJM Interchange Energy Market. 
+ 
+Load Serving Charging Energy:  
+ 
+“Load Serving Charging Energy” shall mean energy that is purchased from the PJM Interchange 
+Energy Market and stored in an Energy Storage Resource or Open-Loop Hybrid Resource for 
+later resale to end-use load. 
+ 
+Load Serving Entity: 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions I - L 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 3 
+ 
+“Load Serving Entity” or “LSE” shall mean any entity (or the duly designated agent of such an 
+entity), including a load aggregator or power marketer, (i) serving end-users within the PJM 
+Region, and (ii) that has been granted the authority or has an obligation pursuant to state or local 
+law, regulation or franchise to sell electric energy to end-users located within the PJM Region.  
+Load Serving Entity shall include any end-use customer that qualifies under state rules or a 
+utility retail tariff to manage directly its own supply of electric power and energy and use of 
+transmission and ancillary services.  
+ 
+Local Plan: 
+ 
+“Local Plan” shall include Supplemental Projects as identified by the Transmission Owners 
+within their zone and Subregional RTEP projects developed to comply with all applicable 
+reliability criteria, including Transmission Owners’ planning criteria or based on market 
+efficiency analysis and in consideration of Public Policy Requirements.   
+ 
+Location: 
+ 
+“Location” as used in the Economic Load Response rules shall mean an end-use customer site as 
+defined by the relevant electric distribution company account number. 
+ 
+Locational Marginal Price: 
+ 
+“Locational Marginal Price” or “LMP” shall mean the market clearing marginal price for energy 
+at the location the energy is delivered or received, calculated as specified in Operating 
+Agreement, Schedule 1, section 2, and the parallel provisions of Tariff, Attachment K-Appendix, 
+section 2. 
+ 
+LOC Deviation:   
+ 
+“LOC Deviation,” shall mean, for units other than wind or solar units, Hybrid Resources, or 
+Energy Storage Resource Model Participants, the LOC Deviation shall equal the desired 
+megawatt amount for the resource determined according to the point on the Final Offer curve 
+corresponding to the Real-time Settlement Interval real-time Locational Marginal Price at the 
+resource’s bus and adjusted for any reduction in megawatts due to Regulation, Synchronized 
+Reserve, or Secondary Reserve assignments and limited to the lesser of the unit’s Economic 
+Maximum or the unit’s Generation Resource Maximum Output, minus the actual output of the 
+unit.  For wind or solar units, Hybrid Resources, or Energy Storage Resource Model Participants, 
+the LOC Deviation shall mean the deviation of the generating unit’s output equal to the lesser of 
+the PJM forecasted output, inclusive of state of charge, for the unit or the desired megawatt 
+amount for the resource determined according to the point on the Final Offer curve 
+corresponding to the Real-time Settlement Interval real-time Locational Marginal Price at the 
+resource’s bus and adjusted for any reduction in megawatts due to Regulation, Synchronized 
+Reserve, or Secondary Reserve assignments, and shall be limited to the lesser of the unit’s 
+Economic Maximum or the unit’s Generation Resource Maximum Output, minus the actual 
+output of the unit, where the actual output of the unit is floored at 0. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA 1. DEFINITIONS --> OA Definitions I - L 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 4 
+ 
+Long-lead Project: 
+ 
+“Long-lead Project” shall mean a transmission enhancement or expansion with an in-service date 
+more than five years from the year in which, pursuant to Operating Agreement, Schedule 6, 
+section 1.5.8(c), the Office of the Interconnection posts the violations, system conditions, or 
+Public Policy Requirements to be addressed by the enhancement or expansion. 
+ 
+Loss Price: 
+ 
+“Loss Price” shall mean the loss component of the Locational Marginal Price, which is the effect 
+on transmission loss costs (whether positive or negative) associated with increasing the output of 
+a generation resource or decreasing the consumption by a Demand Resource based on the effect 
+of increased generation from or consumption by the resource on transmission losses, calculated 
+as specified in Operating Agreement, Schedule 1, section 2, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 2. 
+ 
+ 
+ 
+

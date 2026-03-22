@@ -1,0 +1,196 @@
+[SCHEDULE 1 SECTION 3-ACCOUNTING AND BILLING - Part 4 of 4]
+
+Control Areas that have undertaken a commitment pursuant to a written agreement with the 
+Office of the Interconnection (i) to purchase Operating Margin whenever the purchasing Control 
+Area’s operations will affect the dispatch of resources in the PJM Region, and (ii) to sell 
+Operating Margin on a comparable basis to the LLC.   
+ 
+3.5.3 Transmission Congestion. 
+ 
+Each Control Area purchasing Operating Margin shall be assessed Transmission Congestion 
+Charges and Transmission Loss Charges as specified in Section 5 of this Schedule. 
+ 
+3.5.4 Billing. 
+ 
+PJMSettlement on behalf of PJM shall prepare a billing statement each billing cycle for each 
+Control Area to which Emergency energy or Operating Margin was sold, and showing the net 
+amount to be paid by such Control Area.  Billing statements shall provide sufficient detail, as 
+specified in the PJM Manuals, to allow verification of the billing amounts. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.6 - Metering Reconciliation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 1 
+3.6 Metering Reconciliation. 
+ 
+3.6.1 Meter Correction Billing. 
+ 
+Metering errors and corrections will be reconciled at the end of each month by a meter correction 
+charge (positive or negative).  The monthly meter correction charge for tie meter corrections 
+shall be the product of the positive or negative deviation in energy amounts, times the real-time 
+Settlement Interval load weighted average real-time Locational Marginal Price for all intervals of 
+that month for all load buses in the PJM Region.  The monthly meter correction charge for 
+generator meter corrections, including Pseudo-Tie generator imports into the PJM Region, shall 
+be the product of the positive or negative deviation in energy amounts, times the Real-time 
+Settlement Interval generation weighted average Locational Marginal Price at that generator’s 
+bus for all intervals of that month. 
+ 
+The monthly meter correction charge for Dynamic Schedule imports into the PJM Region, and 
+non unit-specific Dynamic Schedule exports out of the PJM Region, shall be the product of the 
+positive or negative deviation in energy amounts and the Dynamic Schedule’s weighted average 
+interface real-time Locational Marginal Price at the applicable Interface Pricing Point for all 
+hours of that month.  
+ 
+The monthly meter correction charge for Pseudo-Tie generator exports and unit-specific 
+Dynamic Schedule exports out of the PJM Region shall be the product of the positive or negative 
+deviation in energy amounts and the difference between the weighted average interface real-time 
+Locational Marginal Price at the applicable Interface Pricing Point, and the generation weighted 
+average Locational Marginal Price at that generator’s bus, for all hours of that month. 
+ 
+3.6.2 Meter Corrections Between Market Participants.  
+ 
+If a Market Participant or the Office of the Interconnection discovers a meter error affecting an 
+interchange of energy with another Market Participant and makes the error known to such other 
+Market Participant prior to the completion by the Office of the Interconnection of the accounting 
+for the interchange, and if both Market Participants are willing to adjust hourly load records to 
+compensate for the error and such adjustment does not affect other parties, an adjustment in load 
+records may be made by the Market Participants in order to correct for the meter error, provided 
+corrected information is furnished to the Office of the Interconnection in accordance with the 
+Office of the Interconnection’s accounting deadlines.  No such adjustment may be made if the 
+accounting for the Operating Day in which the interchange occurred has been completed by the 
+Office of the Interconnection.  If this is not practical, the error shall be accounted for by a 
+correction at the end of the billing cycle.  The Market Participants experiencing the error shall 
+account for the full amount of the discrepancy and an appropriate debit or credit shall be applied 
+to the Market Participants.  For Market Participants that are Electric Distributors that request the 
+debit and credit to be further allocated to all Network Service Users in their territory (as 
+documented in the PJM Manuals), where all Load Serving Entities in the respective Electric 
+Distributor territory agree, the appropriate debit or credit shall be applied among Network 
+Service Users in proportion to their deliveries to load served in the applicable territory. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.6 - Metering Reconciliation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 2 
+3.6.3 500 kV Meter Errors. 
+ 
+Billing shall be adjusted to account for errors in meters on 500 kV Transmission Facilities within 
+the PJM Pre-Expansion Zones (excluding Allegheny Power) or between the PJM Pre-Expansion 
+Zones (excluding Allegheny Power) and Allegheny Power.  The Market Participant with the tie 
+meter or generator meter experiencing the error shall account for the full amount of the 
+discrepancy and an appropriate debit or credit shall be applied among Electric Distributors that 
+report hourly net energy flows from metered Tie Lines in the Pre-Expansion Zones (excluding 
+Allegheny Power) in proportion to the load consumed in their territories.  The error shall be 
+accounted for by a correction at the end of the billing cycle.  For Market Participants that are 
+Electric Distributors that request the debit and credit to be further allocated to all Network 
+Service Users in their territory (as documented in the PJM Manuals), where all Load Serving 
+Entities in the respective Electric Distributor territory agree, the appropriate debit or credit shall 
+be applied among Network Service Users in proportion to their deliveries to load served in the 
+applicable territory.  Such allocation shall not include purchases of Direct Charging Energy. 
+ 
+3.6.4 Meter Corrections Between Control Areas. 
+ 
+An error between accounted for and metered interchange between a Party in the PJM Region and 
+an entity in a Control Area other than the PJM Region shall be corrected by adjusting the hourly 
+meter readings.  If this is not practical, the error shall be accounted for by a correction at the end 
+of the billing cycle.  The Market Participant with ties or Dynamic Transfers with such other 
+Control Area experiencing the error shall account for the full amount of the discrepancy.  
+However, if the meter correction applies to a tie on the 500 kV system between the PJM Pre-
+Expansion Zones (excluding Allegheny Power) and other Control Areas, Electric Distributors 
+that report hourly net energy flows from metered Tie Lines in the Pre-Expansion Zones 
+(excluding Allegheny Power) shall account for the full amount of the discrepancy in proportion 
+to the load consumed in their territories.   The appropriate debit or credit shall be applied among 
+Network Service Users in proportion to their deliveries to load served in the PJM Region.  Such 
+allocation shall not include purchases of Direct Charging Energy.  The Office of the 
+Interconnection will adjust the actual or scheduled interchange between the other Control Area 
+and the PJM Region to maintain a proper record of inadvertent energy flow.   
+ 
+3.6.5 Meter Correction Data. 
+ 
+Meter error data shall be submitted to the Office of the Interconnection not later than the last 
+Business Day of the month following the end of the monthly billing cycle applicable to the meter 
+correction. 
+ 
+3.6.6 Correction Limits. 
+ 
+A Market Participant may not assert a claim for an adjustment in billing as a result of a meter 
+error for any error discovered more than two years after the date on which the metering occurred.  
+Any claim for an adjustment in billing as a result of a meter error shall be limited to bills for 
+transactions occurring in the most recent annual accounting period of the billing Market 
+Participant in which the meter error occurred, and the prior annual accounting period. 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.6 - Metering Reconciliation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 3 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.7 - Inadvertent Interchange 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 1 
+3.7 Inadvertent Interchange. 
+ 
+Inadvertent Interchange will be reconciled each hour by a charge allocation (positive or negative) 
+applied to Network Service Users in proportion to their deliveries to load in the PJM Region, 
+which shall be the product of the positive or negative Inadvertent Interchange amount times the 
+PJM load weighted average Locational Marginal Price for that hour.  Such allocation shall not 
+include purchases of Direct Charging Energy. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.8 - Market-to-Market Coordination 
+Effective Date: 8/1/2018 - Docket #: ER18-1730-000 - Page 1 
+3.8 Market-to-Market Coordination 
+ 
+The Office of the Interconnection shall charge or credit a Market Participant for the 
+transmission congestion from the Market Participant’s Pseudo-Tie generator within 
+MISO to the PJM-MISO interface resulting from market-to-market coordination pursuant 
+to this Operating Agreement, Schedule 1, section 3.8, and the parallel provisions of 
+Tariff, Attachment K-Appendix, section 3.8.  The Office of the Interconnection shall 
+calculate such charges and credits for the Real-time Energy Market for each Pseudo-Tie 
+generator using the following formulas.   
+ 
+RT Charge / CreditPT = RT CLMPPT * DevMWPT 
+ 
+Where: 
+ 
+RTCLMPPT = ∑RT ShadowPriceFG * (RT ShiftFactorFG,PT – RT ShiftFactorFG,Interface) 
+ 
+RTCLMPPT = Real-time congestion LMP for the path from 
+the Pseudo-Tie generator to the MISO-PJM 
+common interface. 
+ 
+RT ShadowPriceFG = Real-time shadow price for each M2M 
+Flowgate calculated in accordance with the 
+Joint Operating Agreement between the 
+Midcontinent Independent Transmission 
+System Operator, Inc. and PJM 
+Interconnection, L.L.C. 
+ 
+RT ShiftFactorFG,PT = Real-time shift factor for the Pseudo-Tie 
+generator and each M2M Flowgate. 
+ 
+ 
+Where: 
+ 
+DevMWPT = (RT MWPT – DA MWPT) 
+ 
+DevMWPT =  The megawatt deviation between the cleared 
+megawatts in the Day-ahead Energy Market 
+and Real-time Energy Market megawatt 
+output for a Pseudo-Tie generator. 
+ 
+RT MWPT = Real-time Energy Market megawatt output 
+for the Pseudo-Tie generator. 
+ 
+DA MWPT = Cleared and committed megawatts for a 
+Pseudo-Tie generator in the Day-ahead 
+Energy Market. 
+ 
+
+Intra-PJM Tariffs --> OPERATING AGREEMENT --> OA SCHEDULE 1 - PJM INTERCHANGE ENERGY MARKET --> OA 
+SCHEDULE 1 SECTION 3 - ACCOUNTING AND BILLING --> OA Schedule 1 Sec 3.8 - Market-to-Market Coordination 
+Effective Date: 8/1/2018 - Docket #: ER18-1730-000 - Page 2 
+The dollars refunded to or collected from the Pseudo-Tie generator will be, respectively, 
+distributed from or added to the Balancing Congestion Charges fund. 
+ 
+ 
+

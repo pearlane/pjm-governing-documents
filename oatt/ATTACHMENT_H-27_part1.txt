@@ -1,0 +1,1858 @@
+[ATTACHMENT H-27 - Part 1 of 2]
+
+ATTACHMENT H-27 
+ 
+Annual Transmission Rates – Silver Run Electric, LLC 
+ 
+1. Silver Run Electric’s (“SRE”) annual transmission revenue requirement (“ATRR”) is 
+equal to the results of the formula and its associated attachments, as shown in Attachment 
+H-27A posted on the PJM Internet site, which reflect SRE’s facilities within PJM.  The 
+ATRR determined pursuant to Attachment H-27A shall be implemented pursuant to the 
+protocols set forth in Attachment H-27B posted on the PJM Internet site. 
+ 
+2. The ATRR in (1) shall be effective until amended by SRE or modified by the 
+Commission. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 1 
+ Formula Rate - Non-Levelized           Page 1 of 5 
+Rate Formula Template - Attachment H-27A            
+Utilizing FERC Form 1 Data            
+Silver Run Electric, LLC            
+            For the 12 months 
+ended 
+            12/31/____ 
+             
+ (1)  (2)  (3)   (4)  (5)   
+Line          Allocated    
+No.   Source       Amount   
+1 GROSS REVENUE REQUIREMENT, without incentives (Page 3, Line 49)       $                             -                                    
+             
+ REVENUE CREDITS  (Note A)  Total  Allocator (W)     
+2 Account No. 454  (Page 4, Line 20)                                                                  
+-    
+  
+TP 
+            
+1.0000  
+                                             
+-    
+  
+3 Account No. 456.1  (Page 4, Line 21)                                                                  
+-    
+  
+TP 
+            
+1.0000  
+                                             
+-    
+  
+4 Revenues from Grandfathered Interzonal Transactions (Note B)                                                                  
+-    
+  
+TP 
+            
+1.0000  
+                                             
+-    
+  
+5 Revenues from service provided by the ISO at a discount                                                                  
+-    
+  
+TP 
+            
+1.0000  
+                                             
+-    
+  
+6 TOTAL REVENUE CREDITS  (Sum of Lines 2 through 5)                                                                  
+-    
+                                                
+-    
+  
+                                                                     
+-    
+       
+7 Prior Period Adjustments  Attachment 11, Line 18, Col. B                                                                  
+-    
+ DA 1.0000                                              
+-    
+  
+8 True-up Adjustment with Interest  Attachment 3, Line 9 , Col. J                                                                   
+-    
+ DA             
+1.0000  
+                                             
+-    
+  
+             
+9 NET ANNUAL TRANSMISSION REVENUE 
+REQUIREMENT 
+(Line 1 less Line 6 plus Lines 7 and 8)       $                             -                                      
+             
+             
+ Rate Calculations            
+A. PJM Regional Service            
+10 Schedule 12 ATRR Without Incentives  Attachment 1, Line 2, Col. 16 less Col. 12                                                                  
+-    
+       
+11 FERC Approved Incentives on Schedule 12 projects Attachment 1, Line 2, Col. 12                                                                  
+-    
+       
+12 Schedule 12 Revenue Requirement  ( Line 10 + Line 11)                                                                  
+-    
+       
+             
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 2 
+ Formula Rate - Non-Levelized           Page 2 of 5 
+Rate Formula Template - Attachment H-27A            
+Utilizing FERC Form 1 Data            
+Silver Run Electric, LLC            
+            For the 12 months 
+ended 
+            12/31/____ 
+             
+Line (1)  (2)  (3)   (4)  (5)   
+No. RATE BASE: (Note R)  Source  Company Total  Allocator (W)  Transmission   
+ GROSS PLANT IN SERVICE  Note C       (Col 3 times Col 4)   
+1 Production  205.46.g for end of year, records for other 
+months 
+                                                                 
+-    
+ N/A -                                              
+-    
+  
+2 Transmission  Attachment 4, Line 14, Col. (b)                                                                  
+-    
+ TP 1.0000                                              
+-    
+  
+3 Distribution  207.75.g for end of year, records for other months                                                                 
+-    
+ N/A                      
+-    
+                                             
+-    
+  
+4 General & Intangible  Attachment 4, Line 14, Col. (c)                                                                  
+-    
+ WS 1.0000                                              
+-    
+  
+5 TOTAL GROSS PLANT  (Sum of Lines 1 through 4)                                                                  
+-    
+ GP
+= 
+            
+1.0000  
+                                             
+-    
+  
+             
+6 ACCUMULATED DEPRECIATION  Note C          
+7 Production  219.20-24.c for end of year, records for other 
+months 
+                                                                
+-    
+ N/A -  -   
+8 Transmission  Attachment 4, Line 14, Col. (h)                                                                  
+-    
+ TP 1.0000  -   
+9 Distribution  219.26.c for end of year, records for other months                                                                 
+-    
+ N/A -  -   
+10 General & Intangible  Attachment 4, Line 14, Col. (i)                                                                  
+-    
+ WS 1.0000  -   
+11 TOTAL ACCUM. DEPRECIATION  (Sum of Lines 7 through 10)                                                                  
+-    
+    -   
+             
+12 NET PLANT IN SERVICE            
+13 Production  (Line 1 - Line 7)  -     -   
+14 Transmission  (Line 2 - Line 8)  -     -   
+15 Distribution  (Line 3 - Line 9)  -     -   
+16 General & Intangible  (Line 4 - Line 10)  -     -   
+17 TOTAL NET PLANT  ( Sum of Lines 13 through 16)  -  NP
+= 
+            
+1.0000  
+ -   
+             
+18 ADJUSTMENTS TO RATE BASE            
+19 Account No. 281 (enter negative)  Note D  -  N/A -  -   
+20 Account No. 282 (enter negative)  Note D  -  NP 1.0000  -   
+21 Account No. 283 (enter negative)  Note D  -  NP 1.0000  -   
+22 Account No. 190  Note D  -  NP 1.0000  -   
+22a Deficient or (Excess) Accumulated Deferred Income 
+Taxes 
+ Attachment 13, Line 7 (Note Y)  -  NP 1.0000  -   
+23 Account No. 255 (enter negative)  Note X   -  NP 1.0000  -   
+24 Unfunded Reserves (enter negative)  Attachment 4, Line 43, Col. (h)  -  DA 1.0000  -   
+25 CWIP  Attachment 4, Line 14, Col. (d)  -  DA 1.0000  -   
+26 Unamortized Regulatory Asset  Attachment 4, Line 28, Col. (b) (Note E)  -  DA 1.0000  -   
+27 Unamortized Abandoned Plant  Attachment 4, Line 28, Col. (c) (Note F)  -  DA 1.0000  -   
+28 TOTAL ADJUSTMENTS  ( Sum of Lines 19 through 27)  -     -   
+             
+29 LAND HELD FOR FUTURE USE  Attachment 4, Line 14, Col. (e) (Note G)  -  TP 1.0000  -   
+             
+30 WORKING CAPITAL  Note H          
+31 Cash Working Capital  1/8*(Page 3, Line 17 minus Page 3, Line 14) -     -   
+32 Materials & Supplies  Attachment 4, Line 14, Col. (f)  -  TP 1.0000  -   
+33 Prepayments (Account 165)  Attachment 4, Line 14, Col. (g)  -  GP 1.0000  -   
+34 TOTAL WORKING CAPITAL  ( Sum of Lines 31 through 33)  -     -   
+             
+35 RATE BASE  ( Sum of Lines 17, 28, 29, and 34)  -     -   
+ Formula Rate - Non-Levelized            
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 3 
+            Page 3 of 5 
+Rate Formula Template - Attachment H-27A            
+Utilizing FERC Form 1 Data            
+Silver Run Electric, LLC            
+            For the 12 months 
+ended 
+            12/31/____ 
+             
+Line (1)  (2)  (3)   (4)  (5)   
+No.   Source  Company Total  Allocator (W)  Transmission   
+ O&M         (Col 3 times Col 4)   
+1 Transmission  321.112.b  -  TP 1.0000  -   
+2 Less Account 566 (Misc Trans Expense)  321.97.b  -  TP 1.0000  -   
+3 Less Account 565  321.96.b  -  TP 1.0000  -   
+4 A&G  323.197.b  -  WS 1.0000  -   
+5 Less FERC Annual Fees  351.h (Note I)  -  WS 1.0000  -   
+6 Less EPRI and EEI Dues  Note J  -  WS 1.0000  -   
+7 Less Reg. Commission Expense Account 928  Note J  -  WS 1.0000  -   
+8 Less: Non-safety Advertising account 930.1  Note J  -  WS 1.0000  -   
+9             
+10 Plus Transmission Related Reg. Comm. Exp.  Note K  -  TP 1.0000  -   
+11             
+12 Plus Transmission Lease Payments in Acct 565  Note V                                                                  
+-    
+ DA 1.0000  -   
+13 Account 566            
+14 Amortization of Regulatory Asset  Note E  -  DA 1.0000  -   
+15 Misc. Transmission Expense (less amort. of regulatory asset) 321.97.b less line 14  -  TP 1.0000  -   
+16 Total Account 566  (Sum of Lines 14 through 15)" Ties to 321.97b -     -   
+17 TOTAL O&M  (Sum of Lines 1, 4, 10, 11, 12, and 16 less Sum of 
+Lines 2, 3, and 5 through 9) 
+-     -   
+             
+18 DEPRECIATION EXPENSE  Note C          
+19 Transmission  336.7.b&d  -  TP 1.0000                                              
+-    
+  
+20 General & Intangible  336.10.b&d, 336.1.b&d  -  WS 1.0000                                              
+-    
+  
+21 Amortization of Abandoned Plant  Note F  -  DA 1.0000                                              
+-    
+  
+22 TOTAL DEPRECIATION  (Sum of Lines 19 through 21)                                                                  
+-    
+                                                
+-    
+  
+             
+23 TAXES OTHER THAN INCOME TAXES   (Note M)           
+24 LABOR RELATED            
+25 Payroll  263.l                                                                  
+-    
+ WS             
+1.0000  
+                                             
+-    
+  
+26 Highway and vehicle 
+ 
+ 263.l                                                                  
+-    
+ WS             
+1.0000  
+                                             
+-    
+  
+27 PLANT RELATED            
+28 Property  263.l                                                                  
+-    
+ GP             
+1.0000  
+                                             
+-    
+  
+29 Gross Receipts  263.l                                                                  
+-    
+ N/A                      
+-    
+                                             
+-    
+  
+30 Other  263.l                                                                  
+-    
+ GP             
+1.0000  
+                                             
+-    
+  
+31 Payments in lieu of taxes  263.l                                                                  
+-    
+ GP             
+1.0000  
+                                             
+-    
+  
+32 TOTAL OTHER TAXES  ( Sum of Lines 25 through 31)                                                                  
+-    
+                                                
+-    
+  
+             
+33 INCOME TAXES      Note N          
+34 T=1 -[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)   0.00%        
+35 CIT=(T/1-T) * (1-(WCLTD/R)) =   0.00%        
+36 WCLTD = Page 4, Line 15, R = Page 4, Line 18, FIT & 
+SIT & P = Note N 
+           
+37             
+38 1 / (1 - T)  = (from line 34)                                                                    
+-    
+       
+39 Amortization of Investment Tax Credit (enter negative)  266.8.f (Note X)  -        
+40 Deficient or (Excess) Deferred Income Taxes  Attachment 13, Line 12(d) (Note Y)  -        
+41 Tax Effect of Permanent Differences and Depreciation of 
+AFUDC-equity 
+ Note O  -        
+42 Income Tax Calculation  (Line 35 times Line 48)  -  N/A 1.0000  -   
+43 ITC Amortization Tax Adjustment  Note X  -  NP 1.0000  -   
+44 Deficient or (Excess) Deferred Income Tax Adjustment  Attachment 13, Line 12(f) (Note Y)  -  NP 1.0000  -   
+45 Permanent Differences Tax Adjustment  Note O  -  NP 1.0000  -   
+46 Total Income Taxes  ( Sum of Lines 42 through 45)  -     -   
+             
+47 RETURN            
+48 Rate Base times Return  (Page 2, Line 35 times Page 4, Line 18)  -  N/A -  -   
+             
+48a Rev Requirement before Incentive Return  (Sum of Lines 17, 22, 32, 46, and 48)   
+- 
+ N/A -   
+- 
+  
+             
+48b Incentive Retur, Income Tax, and Concessions  (Attachment 1, Page 3, Col 12, Line 6)   
+- 
+ DA 1.0000   
+- 
+  
+             
+49 GROSS REVENUE REQUIREMENT  ( Sum of Lines  17, 22, 32, 46, 48, and 48b)  -     -   
+             
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 4 
+ Formula Rate - Non-Levelized           Page 4 of 5 
+Rate Formula Template - Attachment H-27A            
+Utilizing FERC Form 1 Data            
+Silver Run Electric, LLC            
+            For the 12 months 
+ended 
+            12/31/____ 
+             
+Line (1)  (2)  (3)   (4)  (5)   
+No.    SUPPORTING CALCULATIONS AND NOTES  
+ TRANSMISSION PLANT INCLUDED IN ISO RATES           
+1 Total Transmission plant  (Page 2, Line 2, Col. 3)       -   
+2 Less Transmission plant excluded from ISO rates 
+ 
+(Note P)       -   
+3 Less Transmission plant included in OATT Ancillary 
+Service rates 
+ (Note S)       -   
+             
+4 Transmission plant included in ISO rates  (Line 1 minus Lines 2 and 3)       -   
+             
+5 Percentage of Transmission plant included in ISO Rates (Line 4 divided by Line 1) (If line 1 is zero, enter 1)    TP 
+=  
+                                            
+-    
+  
+             
+6 WAGES & SALARY ALLOCATOR (W&S)            
+   Form 1 Reference  $  TP Allocat
+ion 
+    
+7 Production  354.20.b  -  - -     
+8 Transmission  354.21.b  -  - -     
+9 Distribution  354.23.b  -  - -  W&S Allocator   
+10 Other  354.24,25,26.b  -  - -  ($ / Allocation)   
+             
+11 Total (W&S Allocator is 1 if lines 7-10 are zero)  (Sum of Lines 7 through 10)  -   - = 1.0000 = WS 
+             
+12 RETURN (R)            
+13             
+14     $  % Cost  Weighted   
+15 Long Term Debt  Attachment 5, (Notes Q & R)                                                                  
+-    
+ 0.00%
+0.00% 
+0.00%  0.00% = WCLTD 
+16 Preferred Stock (112.3.c)  Attachment 5, (Notes Q & R)                                                                  
+-    
+ 0.00% 0.00%  0.00%   
+17 Common Stock  Attachment 5, (Notes Q, R, and T)                                                                  
+-    
+ 0.00%  9.85%  0.00%   
+             
+18 Total  ( Sum of Lines 15 through 17)                                                                  
+-    
+    0.00% = R 
+             
+19 REVENUE CREDITS            
+             
+20 ACCOUNT 454 (RENT FROM ELECTRIC 
+PROPERTY) 
+Attachment 12, Line 8 (Note U)                                                   
+-    
+  
+             
+21 ACCOUNT 456.1 (OTHER ELECTRIC REVENUES) Attachment 12, Line 18, Col. C  (Note A)                                                   
+-    
+  
+             
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 5 
+ Formula Rate - Non-Levelized           Page 5 of 5 
+Rate Formula Template - Attachment H-27A            
+Utilizing FERC Form 1 Data            
+Silver Run Electric, LLC            
+            For the 12 months 
+ended 
+            12/31/____ 
+             
+ General Note: References to pages in this formula rate template are indicated as: (Page #, Line #, Col. #)        
+ References to data from FERC Form 1 are indicated as: #.y.x (page, line, column)          
+             
+Notes             
+A The revenues credited on page 1 lines 2-6 shall include only the amounts received by SRE for service rendered using facilities for which recovery is provided under this tariff. They do not include revenues associated with FERC annual 
+charges, gross receipts taxes, or facilities not included in this template (e.g., direct assignment facilities and GSUs) which are not recovered under this Rate Formula Template. 
+B Company will not have any grandfathered agreements. Therefore, this line shall remain zero.          
+C Plant In Service, Accumulated Depreciation, and Depreciation Expenses shall exclude Asset Retirement Obligation amounts.        
+D The balances in Accounts 190, 281, 282 and 283 are allocated to transmission plant included in rate base based on Company accounting records.  Accumulated deferred income tax amounts associated with asset or liability accounts 
+excluded from rate base (such as ADIT related to asset retirement obligations and certain tax-related regulatory assets or liabilities) do not affect rate base.  To the extent that the normalization requirements apply to ADIT activity in the 
+projected net revenue requirement calculation or the true-up adjustment calculation, the ADIT amounts are computed in accordance with the proration formula of Treasury regulation Section 1.167(l)-1(h)(6).  The remaining ADIT 
+activity is averaged.  Work papers supporting the ADIT calculations will be posted with each projected net revenue requirement and/or Annual True-Up and included in the annual Informational Filing submitted to the Commission.  
+Account 281 is not allocated to Transmission. 
+E Recovery of Regulatory Asset permitted only for pre-commercial and formation expenses as authorized by the Commission. Recovery of any other regulatory assets requires authorization from the Commission. A carrying charge will be 
+applied to the Regulatory Asset prior to the rate year when costs are first recovered. This carrying charge shall not result in a higher amount of interest than is allowed for construction expenditures that accrue an AFUDC, and interest will 
+be compounded no more than on a semi-annual basis. 
+F Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of Abandoned Plant. Utility must submit a Section 205 filing to recover the cost of 
+abandoned plant. 
+G Identified in FERC Form 1, or Company records if not so indicated on the FERC Form 1, as being transmission related.        
+H Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 17, column 5 minus amortization of Regulatory Asset at page 3, line 14, column 5.  Prepayments are the electric related 
+prepayments booked to Account No. 165 and reported on page 111, line 57 in the Form 1. 
+I The FERC's annual charges for the year assessed the Transmission Owner for service under this tariff.  To the extent the charges are separately identified on the FERC Form 1, page 350, column 1, the line number will be added to the 
+source in Column 2 for reference.  Line item references can change from year to year.  Items not specifically identified in the FERC Form 1, page 350 will be obtained from Company books and records. 
+J Page 3, Line 6 - Subtract all EPRI and EEI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses in account 928 itemized at 351.h, and non-safety related advertising included in Account 930.1. Any 
+lobbying expenses incurred by SRE shall be booked to Account 426.4 in accordance with the Uniform System of Accounts and, as a result, are not recoverable under the Formula Rate. 
+K Page 3, Line 8-Add back Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h.    
+M Includes only FICA, unemployment, highway, property, and other assessments charged in the current year.  Taxes related to income are excluded. Gross receipts taxes are not included in transmission revenue requirement in the Rate 
+Formula Template, since they are recovered elsewhere. Enter the line number on page 262-63 upon which each item is identified.  To the extent individual types of taxes are separately identified on the FERC Form 1, page 262, column a, 
+the line number will be added to the source in Column 2 for reference.  Line item references can change from year to year.  Items not specifically identified in the FERC Form 1, page 262-63 will be obtained from Company books and 
+records. 
+N The currently effective income tax rate (T), where FIT is the federal income tax rate, SIT is the state income tax rate, and p is the percentage of federal income tax deductible for state income taxes. If the utility is taxed in more than one 
+state, it must attach a work paper showing the name of each state and how the blended or composite SIT was computed. 
+ 
+ 
+ Inputs Required:  FIT =   0.0%  (Federal Income Tax Rate)   
+   SIT =   0.0%  (State Income Tax Rate or Composite SIT)  
+   p =   0.0%  (percent of federal income tax deductible for state purposes) 
+O Includes the annual income tax cost or benefit due to permanent differences between the amounts of expenses or revenues for ratemaking purposes and the amounts recognized for income tax purposes, including the effects of regulatory 
+depreciation of plant basis attributable to Allowance for Other Funds Used During Construction (AFUDC-equity).  The tax adjustment related to these items is computed by multiplying the tax effect of each item by the applicable tax 
+gross-up factor and will be supported by a work paper.   
+P Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+Q The cost of debt will be determined based on the financing in place during each stage of project development. Before debt is obtained, a proxy interest rate which will be supported in the original Section 205 filing will be used. This rate 
+is provided on Attachment 8 line 36. If construction debt (wherein principal is drawn down over time) is issued, the rate plus an amortization of fees projected to be incurred on the construction debt during the rate year will be the cost of 
+debt. This construction debt rate (inclusive of fees) will be reset and trued-up every year using the method on Attachment 9 for multi-year construction projects. Once non-construction debt is obtained, the actual interest rate and fees on 
+the debt in place at the end of the year such non-construction debt is obtained will become the cost of debt. In the first full year after non-construction debt is obtained, the cost of debt will be the actual cost of debt determined using the 
+method on Attachment 5.  
+ 
+A hypothetical capital structure of 50% Equity and 50% debt will be used until the first transmission asset is placed in service, or until otherwise authorized by the Commission. 
+R Calculate rate base using 13 month average balance, except ADIT.  The calculation of ADIT is covered in Note D.  
+S Removes dollar amount of transmission plant to be included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed to be included in OATT ancillary services. For these purposes, 
+generation step-up facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down. 
+T The cost of common stock includes both SRE’s base return on equity (“ROE”) and the 50 basis point ROE adder for RTO participation granted to SRE in 155 FERC ¶ 61,097 at P 94 (2016).  Pursuant to the Settlement Agreement in 
+FERC Docket No. ER16-453, SRE’s base ROE shall be 9.85% and the equity portion of its capital structure shall not exceed 54.75% (“Equity Cap”).  With respect to SRE’s capital structure, per the Commission’s order in 155 FERC ¶ 
+61,097 at PP 50-52, SRE will use a hypothetical capital structure of 50 percent debt and 50 percent equity for the period prior to the date on which PJM assumes operational control of the Artificial Island Project facilities (“In-Service 
+Date”) and will use its actual capital structure thereafter, subject to the Equity Cap.  Both SRE’s base ROE and the Equity Cap shall be subject to a moratorium that will last until the date that is three years after the In-Service Date.  
+During the moratorium period, no Party to the Settlement Agreement shall be permitted to file unilaterally to modify the base ROE or Equity Cap under FPA Sections 205 or 206, as the case may be , and nor may any Party support such a 
+request by another entity.  After the expiration of the moratorium period, SRE’s base ROE and Equity Cap shall remain in effect until SRE makes a filing under FPA Section 205 to change said value and the revised base ROE or Equity 
+Cap becomes effective by operation of law or by a Commission order, or until a complaint filed pursuant to FPA Section 206 or action taken pursuant to FPA Section 206 by the Commission acting sua sponte results in a Commission 
+order directing a change to the base ROE or Equity Cap. 
+U Includes only income related to transmission facilities, such as pole attachments, rentals and special use from general ledger.        
+V Add back any lease expense of transmission assets used to provide service under this tariff included in account 565. Amount to be obtained from company books and records. 
+W DA = Direct Assignment; GP = Gross Plant Allocator (page 2, line 5); N/A = Not Applicable; NP = Net Plant Allocator (page 2, line 17); TP = Transmission Plant Allocator (page 4, line 5); WS = Wage and Salary Allocator (page 4, line 
+11). 
+X Investment tax credit (ITC) is recorded in accordance with the deferral method of accounting and any normalization requirements that relate to the eligibility to claim the credit or the recapture of the credit.  The revenue requirement 
+impact of any ITC will be supported by a work paper. 
+Y Upon enactment of changes in tax law, ADIT balances are re-measured and adjusted in Company’s books of account, resulting in excess or deficient accumulated deferred income tax assets and liabilities.  Excess or deficient ADIT 
+attributable to timing differences between the amounts of expenses or revenues recognized for income tax purposes and amounts of expenses or revenues recognized for ratemaking purposes as well as subsequent recoverable or 
+refundable amortization of such amounts will be based upon Company records and be calculated and recorded in accordance with ASC 740 and any applicable normalization requirements of the taxing jurisdiction.  The Deficient or 
+(Excess) Deferred Income Tax Adjustment (page 3, line 44) is computed by multiplying each component of deficient or (excess) deferred income taxes by the applicable tax gross-up factor.  For each re-measurement of ADIT, the 
+amounts entered as the Deficient or (Excess) Accumulated Deferred Income Taxes component of ADJUSTMENTS TO RATE BASE (page 2, line 22a) or as the Deficient or (Excess) Deferred Income Tax Adjustment component of 
+INCOME TAXES (page 3, line 44) will be supported by Attachment 13 (Deficient or Excess Accumulated Deferred Income Taxes) providing the balance for each taxing jurisdiction at the beginning and end of the year, amortization for 
+the year, calculation of the gross-up to the revenue requirement level and any other information required to support compliance with any applicable normalization requirements. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 6 
+          Page 1 of 3 
+Attachment 1       For the twelve months ended 12/31/__ 
+Project Revenue Requirement Worksheet        
+Silver Run Electric, LLC        
+           
+  To be completed in conjunction with Attachment H-27A.       
+           
+Line  (1)   (2)   (3)  (4) 
+No.     Attachment H-27A, Page, Line, Col.  Transmission  Allocator 
+           
+1  Gross Transmission Plant plus CWIP  Attach H-27A, p 2, line 2, col 5 plus line 25, col 5 (Note A)                                
+-    
+  
+2  Net Transmission Plant plus CWIP and Abandoned Plant Attach H-27A, p 2, line 14, col 5 plus line 25 & 27, col 5 (Note B)                                
+-    
+  
+           
+  O&M EXPENSE         
+3  Total O&M Allocated to Transmission  Attach H-27A, p 3, line 17, col 5                                  
+-    
+  
+4  Annual Allocation Factor for O&M  (line 3 divided by line 1, col 3)   0.00%  0.00% 
+           
+  GENERAL AND INTANGIBLE (G&I) DEPRECIATION EXPENSE       
+5  Total G&I Depreciation Expense  Attach H-27A, p 3, line 20, col 5 (Note C)                                 
+-    
+  
+6  Annual Allocation Factor for G,I & C Depreciation Expense (line 5 divided by line 1, col 3)   0.00%  0.00% 
+           
+  TAXES OTHER THAN INCOME TAXES        
+7  Total Other Taxes   Attach H-27A, p 3, line 32, col 5                                  
+-    
+  
+8  Annual Allocation Factor for Other Taxes  (line 7 divided by line 1, col 3)   0.00%  0.00% 
+           
+9  Less Revenue Credits   Attach H-27A, p 1, line 6 col 5                                  
+-    
+  
+10  Annual Allocation Factor for Revenue Credits  (line 9 divided by line 1, col 3)   0.00%  0.00% 
+           
+11  Annual Allocation Factor for Expense  Sum of lines 4, 6, 8, and 10     0.00% 
+           
+  INCOME TAXES          
+12  Total Income Taxes   Attach H-27A, p 3, line 46, col 5                                  
+-    
+  
+13  Annual Allocation Factor for Income Taxes  (line 12 divided by line 2, col 3)   0.00%  0.00% 
+           
+  RETURN         
+14  Return on Rate Base   Attach H-27A, p 3, line 48, col 5                                  
+-    
+  
+15  Annual Allocation Factor for Return on Rate Base (line 14 divided by line 2, col 3)   0.00%  0.00% 
+           
+16  Annual Allocation Factor for Return  Sum of lines 13 and 15     0.00% 
+           
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 7 
+          Page 2 of 3 
+Attachment 1       For the twelve months ended 12/31/__ 
+Project Revenue Requirement Worksheet        
+Silver Run Electric, LLC        
+           
+  This worksheet is used to compute project specific revenue requirements for any projects for which such calculation is required by PJM. Other projects which comprise the remaining revenue requirement on Attachment H-27A will not 
+be entered on this schedule. 
+  Any hypothetical amounts or project names in a filed template will be removed and replaced with actual amounts in the first year actual values are available without the need for a section 205 filing to modify the template. 
+           
+  (1)  (2) (3) (4) (5) (6) (7) (8) 
+Line  
+No. 
+Project Name PJM Category RTEP Project 
+Number Or Other 
+Identifier 
+Project Gross Plant Annual 
+Allocation 
+Factor for 
+Expense 
+Annual Expense 
+Charge 
+Project Net 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual Return 
+Charge 
+     (Note D) (Page 1, line 11) (Col. 3 * Col. 4) (Note E) (Page 1, line 16) (Col. 6 * Col. 7) 
+           
+1a  Project A  AAAA                                                                    
+-    
+0.00%                                
+-    
+ 
+$                           
+-    
+0.00%                                
+-    
+1b  Project B  BBBB                                                                    
+-    
+0.00%                                
+-    
+ 
+$                           
+-    
+0.00%                                
+-    
+2  Total Schedule 12                                                                      
+-    
+                                
+-    
+ 
+$                           
+-    
+                                
+-    
+           
+3a  Project C  CCCC                                                                    
+-    
+0.00%                                
+-    
+ 
+$                           
+-    
+0.00%                                
+-    
+3b  Project D  DDDD                                                                    
+-    
+0.00%                                
+-    
+ 
+$                           
+-    
+0.00%                                
+-    
+4  Total Zonal                                                                      
+-    
+                                
+-    
+ 
+$                           
+-    
+                                
+-    
+           
+5  Other    0.00%   0.00%  
+           
+6  Annual Totals                                                                      
+-    
+                                
+-    
+                               
+-    
+                                
+-    
+           
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run 
+Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 8 
+          Page 3 of 3 
+Attachment 1       For the twelve months ended 12/31/__ 
+Project Revenue Requirement Worksheet        
+Silver Run Electric, LLC        
+           
+           
+           
+  (9) (10) (11) (12) (12a) (13) (14) (15) (16) 
+Line  
+No. 
+Project 
+Depreciation/Amortization 
+Expense 
+Annual Revenue 
+Requirement 
+Incentive Return in 
+Basis Points 
+Incentive Return Ceiling Rate Competitive 
+Concession 
+Total Annual 
+Revenue 
+Requirement 
+True-Up 
+Adjustment 
+Net Revenue 
+Requirement 
+  (Note F) (Sum Col. 5 + Col. 9 
++ (Column 6 * Line 
+16 )) 
+(Note G) (Col. 11/100)*Col. 6*Att 2 Line 28) 
+(Note G) 
+(Sum Col. 10 & 
+12) 
+(Note H) (Sum Col. 10 & 
+12 Less Col. 13) 
+(Note I) (Sum Col. 14 & 
+15) 
+           
+1a                                                         
+-    
+                                    
+-    
+                                        
+-    
+                                                          -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+1b                                                         
+-    
+                                    
+-    
+                                        
+-    
+                                                          -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+2                                                         
+-    
+                                    
+-    
+                                                           -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+           
+3a                                                         
+-    
+                                    
+-    
+                                        
+-    
+                                                          -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+3b                                                         
+-    
+                                    
+-    
+                                        
+-    
+                                                          -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+4                                                         
+-    
+                                    
+-    
+                                                           -                                   
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+           
+5           
+           
+6                                                         
+-    
+                                    
+-    
+                                                           -                               -                               -                                   
+-    
+                               
+-    
+                               
+-    
+           
+           
+Notes           
+A  Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-27A inclusive of any CWIP or unamortized abandoned plant included in rate base when authorized by FERC order. 
+B  Net Plant is that identified on page 2 line 14 of Attachment H-27A inclusive of any CWIP or unamortized Abandoned Plant included in rate base when authorized by FERC order less any prefunded AFUDC, if applicable. 
+C  General and Intangible Depreciation and Amortization Expense includes all expense not directly associated with a project, which is entered on page 3 , column 9.   
+D  Project Gross Plant is the total capital investment including CWIP for the project calculated from Company books and records in the same method as the gross plant value in line 1.  This value includes subsequent capital investments 
+required to maintain the facilities to their original capabilities. 
+E  Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation plus CWIP in rate base if applicable and Unamortized Abandoned Plant. 
+F  Project Depreciation Expense is the actual value booked for the project (excluding General and Intangible depreciation) at Attachment H-27A, page 3, line 19, plus amortization of Abandoned Plant at Attachment H-27A, page 3, line 
+21. 
+G  Requires approval by FERC of incentive return applicable to the specified project(s). Per the Commission’s order in 158 FERC ¶ 61,060 at PP 32-35, SRE shall not recover a 50 basis point ROE incentive for the risks and challenges 
+associated with the Artificial Island Project facilities, PJM Upgrade Projects b2633.1 and b2633.2. 
+H  The Competitive Concession is the reduction in revenue, if any, that the company agreed to, for instance, to be selected to build facilities as the result of a competitive process and equals the amount by which the  annual revenue 
+requirement is reduced from the ceiling rate. 
+I  True-Up Adjustment is calculated on the Project True-up Schedule for the relevant true-up year.      
+J  For each project listed on this Attachment 1 that is a Required Transmission Enhancement, the net revenue requirement shown in Column (16) is: (i) the annual transmission revenue requirement for purposes of determining the PJM 
+OATT Schedule 12 Transmission Enhancement Charges associated with that Required Transmission Enhancement, and (ii) the Annual Revenue Requirement for purposes of Schedule 12, Appendix A for that Required Transmission 
+Enhancement. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 1 
+Attachment 1a 
+Project Plant Detail Worksheet 
+Silver Run Electric, LLC 
+                                
+                                
+  (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) 
+Line 
+No. Project Name 
+Project 
+Transmission  
+Gross Plant 
+Rate Year-1  
+December 
+Rate Year  
+January 
+Rate Year 
+February 
+Rate Year  
+March 
+Rate Year  
+April 
+Rate Year  
+May 
+Rate Year  
+June 
+Rate Year  
+July 
+Rate Year  
+August 
+Rate Year  
+September 
+Rate Year  
+October 
+Rate Year  
+November 
+Rate Year  
+December 
+    13-month average                           
+1a Project A                                     -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+1b Project B                                     -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+1c                                       -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+1d                                       -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+… …  …                          -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+2 Total Gross Plant in Service - 
+Transmission 
+                                    -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+                                
+  (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) 
+Line 
+No. Project Name 
+Project 
+Transmission 
+Accumulated 
+Depreciation  
+Rate Year-1  
+December 
+Rate Year  
+January 
+Rate Year 
+February 
+Rate Year  
+March 
+Rate Year  
+April 
+Rate Year  
+May 
+Rate Year  
+June 
+Rate Year  
+July 
+Rate Year  
+August 
+Rate Year  
+September 
+Rate Year  
+October 
+Rate Year  
+November 
+Rate Year  
+December 
+    13-month average                           
+3a Project A                                     -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+3b Project B                                     -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+3c                                       -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+3d                                       -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+… …  …                          -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+4 Total Accumulated Depreciation - 
+Transmission 
+                                    -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -                            -    
+                                
+  (1) (2)                           
+Line 
+No. Project Name 
+Project 
+Transmission  
+Net Plant                           
+    13-month average                           
+5a Project A                                     -                              
+5b Project B                                     -                              
+5c                                       -                              
+5d                                       -                              
+… …  …                            
+6 Total Net Plant - Transmission                                     -     Ties to Attachment H-27A, p 2, line 14, col 5                  
+                                
+  (1) (2)                           
+Line 
+No. Project Name 
+Project 
+Depreciation/ 
+Amortization 
+Expense                           
+    Year end total                           
+7a Project A                                     -                              
+7b Project B                                     -                              
+7c                                       -                              
+7d                                       -                              
+… …  …                            
+8 Total Depreciation/Amortization Expense                                     -     Ties to Attachment H-27A, p 3, line 19, col 5 plus line 21, col 5                
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula 
+Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 1 
+ 
+ 
+         Page 1 of 1 
+Attachment 2      For the twelve months ended 12/31/__ 
+Incentive Return         
+Silver Run Electric, LLC         
+Line          
+1 Rate Base  Attachment H-27A, Page 2, Line 35, Col.5                          -    
+          
+2 100 Basis Point Incentive Return       $  
+       Cost   
+    $ %   Weighted  
+3 Long Term Debt (Notes Q & R from Attachment H-27A)                      
+-    
+0.00%  0.00% 0.00%  
+4 Preferred Stock (Notes Q & R from Attachment H-27A)                      
+-    
+0.00%  0.00% 0.00%  
+5 Common Stock (Notes Q, R, & T from Attachment H-27A) Cost = Attachment H-27A, Page 4, Line 
+17, plus 100 bp 
+                    
+-    
+0.00%  0.00% 0.00%  
+6 Total (sum lines 3-5)                       
+-    
+   0.00%  
+7 100 Basis Point Incentive Return multiplied by Rate Base (line 1 * line 6)                            -    
+          
+8 INCOME TAXES         
+9 T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =  0.00%      
+10 CIT=(T/1-T) * (1-(WCLTD/R)) =   0.00%      
+11 WCLTD  Line 3 1.18%      
+12 FIT, SIT & p are as given in Attachment H-27A footnote N.        
+13 1 / (1 - T)  Line 9 0.00%      
+14 Amortization of Investment Tax Credit Attachment H-27A, Page 3, Line 39 -      
+15 Deficient or (Excess) Deferred Income Taxes Attachment H-27A, Page 3, Line 40 -      
+16 Tax Effect of Permanent Differences and Depreciation of AFUDC-equity Attachment H-27A, Page 3, Line 41 -      
+17 Income Tax Calculation  Line 7 times Line 10     -  
+18 ITC Amortization Tax Adjustment  Attachment H-27A, Page 3, Line 43 -  NP 1.00 -  
+19 Deficient or (Excess) Deferred Income Tax Adjustment Attachment H-27A, Page 3, Line 44 -  NP 1.00 -  
+20 Permanent Differences Tax Adjustment Attachment H-27A, Page 3, Line 45 -  NP 1.00 -  
+21 Total Income Taxes  Sum of Lines 17 through 20                        -                         -    
+          
+22 Return and Income Taxes with 100 basis point increase in ROE                            -    
+          
+23 Return  (Attachment H-27A, page 3, line 48, col 5)                          -    
+24 Income Tax  (Attachment H-27A, page 3, line 46, col 5)                          -    
+25 Return and Income Taxes without 100 basis point increase in ROE Sum of Lines 23 and 24                           -    
+26 Incremental Return and Income Taxes for 100 basis point increase in ROE Line 22 less Line 25                           -    
+27 Net Transmission Plant  Attachment H-27A, page 2, line 14, col 5                           -    
+28 Incremental Return and Income Taxes for 100 basis point increase in ROE divided by Rate Base Line 26 divided by Line 27                           -    
+          
+Notes          
+A Line 5 includes a 100 basis point increase in ROE that is used only to determine the increase in return and income taxes associated with a 100 basis point increase in ROE. Any ROE actual incentive must be approved by the Commission.  
+For example, if the Commission were to grant a 150 basis point ROE incentive, the increase in return and taxes for a 100 basis point increase in ROE would be multiplied by 1.5 on Attachment 1 column 12. Per the Commission’s order in 
+158 FERC ¶ 61,060 at PP 32-35, SRE shall not recover a 50 basis point ROE incentive for the risks and challenges associated with the Artificial Island Project facilities, PJM Upgrade Projects b2633.1 and b2633.2. 
+B The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H-27A that are not the result of a timing difference. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula 
+Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 2 
+           Page 1 of 1 
+Attachment 3        For the twelve months ended 12/31/__ 
+Formula Rate True-Up           
+Silver Run Electric, LLC          
+            
+ This Attachment 3 is used to calculate the annual formula rate true-up. Any projects for which the RTO requires a true-up on an individual project basis, as shown on Attachment 1, will be computed separately. The remainder of the revenue 
+requirement will also be trued up. The utility will individually enter the projected true-up year revenue requirements in Column C. A percentage of total will be calculated in Column D. Actual revenue received during the true-up year is 
+entered into Column E, line 2 and allocated using the Column D percentage. The utility will prepare this formula rate template with the actual inputs for the true-up year, with the resulting revenue requirement for each line being separately 
+entered in Column F.  In Col. G, Col. F is subtracted from Col. E to calculate the true-up adjustment. Interest on the true-up is computed in Column H. Any adjustments to prior period true-ups are entered in Col. I.  Col. J computes the total 
+true-up as the sum of Col. G, H and I. 
+ Any hypothetical amounts or project names in a filed template will be removed and replaced with actual amounts in the first year actual values are available without the need for a section 205 filing to modify the template. 
+            
+    Projected True-Up Year Revenue 
+Requirement Calculation 
+True-Up Year 
+Revenue 
+Received1 
+Actual True-Up 
+Year Revenue 
+Req. 
+Annual True-Up Calculation   
+Line            
+1 True-Up Year           
+2    C D                                         
+-    
+F G H I J 
+ A  B   E      
+ Project Name PJM 
+Category 
+Project # 
+Or Other 
+Identifier 
+Net Revenue 
+Requirement2 
+% of Total 
+Revenue  
+Requirement 
+Allocation of 
+Revenue Received                                                            
+(E, Line 2) x (D) 
+True-Up Net 
+Revenue 
+Requirement3 
+Net Under/(Over) 
+Collection   (F)-(E) 
+True-Up Interest 
+Income (Expense)4 
+(D) x (H, line 10) 
+Prior Period 
+Adjustment with 
+Interest5 
+Total True-Up        
+(G) + (H) + (I) 
+3 Remaining Attachment H-27A   0.0%                                         
+-    
+                                         
+-    
+                                        
+-    
+                                         
+-    
+            
+4a Project A  AAAA                                         
+-    
+0.0%                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+4b Project B  BBBB                                         
+-    
+0.0%                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+5 Total Schedule 12                                           
+-    
+                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+            
+6a Project C  CCCC                                         
+-    
+0.0%                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+6b Project D  DDDD                                         
+-    
+0.0%                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+7 Total Zonal                                           
+-    
+                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+            
+8 Other           
+            
+9 Total Annual Revenue Requirements                                          
+-    
+0.0%                                         
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+                                        
+-    
+            
+            
+10        Total Interest on 
+True-Up - 
+Attachment 6 
+                                        
+-    
+  
+            
+            
+Prior Period Adjustment           
+ A  B         
+ Prior Period Adjustment 
+(Note 5) 
+Source Adjustment Amount        
+11 Description of Adjustment Attachment 
+11 
+                        
+-    
+        
+            
+            
+Notes            
+1) The revenue received is the total amount of revenue distributed to company in the  year as shown on pages 328-330 of the Form No 1. The Revenue Received is input on line 2, Col. E. 
+2) From the Attachment 1, lines 1a through 6, col. 16 from the template in which the true-up year revenue requirement was initially projected.    
+3) From True-Up revenue requirement template Attachment 1, lines 1a through 6, col. 14.       
+4) Interest due on the true up is calculated for the 24 month period from the start of the true-up year until the end of the year following the true-up year when the true up will be included in rates. Total True up Interest calculate on Attachment 6 
+and allocated to projects based on the percentage in Column D. 
+5) Corrections to true-ups for previous rate years including interest will be computed on Attachment 11 and entered on the appropriate line 3-8 above.   
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula 
+Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 3 
+         Page 1 of 2 
+Attachment 4       For the twelve months ended 12/31/__ 
+Rate Base Worksheet         
+Silver Run Electric, LLC        
+          
+  Gross Plant in Service CWIP LHFFU Working Capital  Accumulated Depreciation 
+Line 
+No 
+Month Transmission General & 
+Intangible 
+CWIP in Rate 
+Base 
+Held for Future Use Materials & Supplies Prepayments Transmission General & 
+Intangible 
+ (a) (b) (c)  (d) (e)  (f) (g) (h) (i) 
+ (Note A) 207.58.g for 
+end of year, 
+records for 
+other months 
+205.5.g & 
+207.99.g for end 
+of year, records 
+for other months 
+Note B - page 2, 
+column C 
+214.47.d for end of 
+year, records for other 
+months 
+227.8.c & 227.16.c for 
+end of year, records for 
+other months 
+111.57.c for end of 
+year, records for other 
+months 
+219.25.c for end of 
+year, records for other 
+months 
+219.28.c & 200.21.c 
+for end of year, 
+records for other 
+months 
+1 December Rate Year-1                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+2 January Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+3 February Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+4 March Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+5 April Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+6 May Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+7 June Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+8 July Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+9 August Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+10 September Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+11 October Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+12 November Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+13 December Rate Year                                   
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+14 Average of the 13 Monthly 
+Balances 
+                                  
+-    
+                                      
+-    
+                                        
+-    
+                                               
+-    
+                                               
+-    
+                                              
+-    
+                                           
+-    
+                                            
+-    
+          
+Adjustments to Rate Base 
+ Month Unamortized 
+Regulatory 
+Asset 
+Unamortized 
+Abandoned 
+Plant 
+      
+ (a) (b) (c)        
+ (Note A) Note C Note D       
+15 December Rate Year-1                                   
+-    
+                                      
+-    
+                                                                                                                                                                                                                                                
+16 January Rate Year                                   
+-    
+                                      
+-    
+                                                    
+17 February Rate Year                                   
+-    
+                                      
+-    
+                                                    
+18 March Rate Year                                   
+-    
+                                      
+-    
+                                                    
+19 April Rate Year                                   
+-    
+                                      
+-    
+                                                    
+20 May Rate Year                                   
+-    
+                                      
+-    
+                                                    
+21 June Rate Year                                   
+-    
+                                      
+-    
+                                                    
+22 July Rate Year                                   
+-    
+                                      
+-    
+                                                    
+23 August Rate Year                                   
+-    
+                                      
+-    
+                                                    
+24 September Rate Year                                   
+-    
+                                      
+-    
+                                                    
+25 October Rate Year                                   
+-    
+                                      
+-    
+                                                    
+26 November Rate Year                                   
+-    
+                                      
+-    
+                                                    
+27 December Rate Year                                   
+-    
+                                      
+-    
+                                                                                                                                                                                                                                                    
+28 Average of the 13 Monthly 
+Balances 
+                                  
+-    
+                                      
+-    
+                                                                                                                                                                                                                                                    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula 
+Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 4 
+         Page 2 of 2 
+Attachment 4       For the twelve months ended 12/31/__ 
+Rate Base Worksheet         
+Silver Run Electric, LLC        
+ Reconciliation of CWIP in Rate Base to FERC Form 1 - Note B      
+  Total CWIP Less: CWIP and 
+AFUDC Excluded 
+from Rate Base 
+CWIP allowed in Rate Base     
+  (a) (b) (c) = (a) - (b)      
+  216.b for end of 
+year, records for 
+other months 
+Company records      
+29 December Prior 
+Year 
+                                  
+-    
+                                      
+-    
+                                        
+-    
+     
+30 January                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+31 February                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+32 March                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+33 April                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+34 May                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+35 June                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+36 July                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+37 August                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+38 September                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+39 October                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+40 November                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+41 December                                   
+-    
+                                      
+-    
+                                        
+-    
+     
+ Average of the 13 
+Monthly Balances 
+                                  
+-    
+                                      
+-    
+                                        
+-    
+     
+          
+ Unfunded Reserves   (Notes A and F and G)      
+ (a) (b) (b.i) (b.ii) (c)  (d) (e)  (f) (g) (h) 
+ List of all 
+reserves 
+ FERC 
+balance 
+sheet 
+account 
+where 
+reserves 
+are 
+recorded 
+FERC income 
+statement account 
+where expenses 
+are recorded 
+Amount Enter 1 if NOT in a trust 
+or reserved account, enter 
+zero (0) if included in a 
+trust or reserved account 
+Enter 1 if the accrual 
+account is included in the 
+formula rate, enter (0) if the 
+accrual account is NOT 
+included in the formula rate 
+Enter the percentage paid 
+for by customers less the 
+percent associated with an 
+offsetting liability on the 
+balance sheet (Note H) 
+Allocation (Plant or 
+Labor Allocator) 
+Amount Allocated, col. c 
+x col. d x col. e x col. f x 
+col. g 
+42a  Reserve 1     -  -  -                                               
+-    
+                                           
+-    
+42b  Reserve 2                                         
+-    
+ -  -  -                                               
+-    
+                                           
+-    
+43  Total                                       
+-    
+                                               
+-    
+          
+Notes:         
+A Calculate using 13 month average balance. 
+B Recovery of CWIP in rate base must be approved by FERC.  Lines 29-41 of page 2 provide a reconciliation of the Company's total CWIP to the CWIP allowed in rate base. The annual report filed pursuant to the Protocols will 
+include for each project under construction (i) the CWIP balance eligible for inclusion in rate base; (ii) the CWIP balance ineligible for inclusion in rate base; and (iii) a demonstration that AFUDC is only applied to the CWIP 
+balance that is not included in rate base.  The annual report will also describe the reconciliation prepared on this Attachment. 
+C Recovery of a Regulatory Asset is permitted only for pre-commercial and formation expenses, and is subject to FERC approval before the amortization of the Regulatory Asset can be included in rates. Recovery of any other 
+regulatory assets requires authorization from the Commission. 
+D Recovery of abandoned plant is limited to any abandoned plant recovery authorized by FERC.     
+E Reserved.     
+F The Formula Rate shall include a credit to rate base for all unfunded reserves (funds collected from customers that (1) have not been set aside in a trust, escrow or restricted account; (2) whose balance are collected from 
+customers through cost accruals to accounts that are recovered under the Formula Rate; and (3) exclude the portion of any balance offset by a balance sheet ac count (see Note H)).  Each unfunded reserve will be included on 
+lines 42 above. The allocator in Col. (g) will be the same allocator used in the formula for the cost accruals to the account that is recovered under the Formula Rate.  Since reserves can be created by creating an offsetting 
+balance sheet account, rather than through cost accruals, the amount to be deducted from rate base should exclude the portion offset by another balance sheet account. 
+G Not all unfunded reserves are created only from contributions from customers. Many are created by creating an offsetting liability in whole or in part.  Column (f) ensures only the portion of the unfunded reserve contributed by 
+the customer (and not created by an offsetting liability) is a reduction to rate base. 
+H The inputs in Column (f) are the percentage of the unfunded reserve that was created by an offsetting liability. The percentage shown in Column (f) is then equal to the percentage that customers have contributed to the 
+unfunded reserve. 
+I Balance of Account 255 will be reduced by prior flow throughs and excluded if the utility chooses to utilize amortization of tax credits against taxable income. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-27A - Silver Run Formula 
+Rate 
+Effective Date: 7/1/2025 - Docket #: ER25-2061-000 - Page 5 
+        Page 1 of 1 
+Attachment 5     For the twelve months ended 12/31/__ 
+Return on Rate Base Worksheet         
+Silver Run Electric, LLC         
+          
+ RETURN ON RATE BASE ( R )         
+     $     
+1 Long Term Interest (117, sum of 62.c through 67.c) (Note D)   -     
+          
+2 Preferred Dividends (118.29c) (positive number)   -     
+          
+3 Proprietary Capital (Line 25 (c))    -     
+4 Less Preferred Stock (Line 9)     -     
+5 Less Account 216.1 Undistributed Subsidiary Earnings (Line 25 (d))       -     
+6 Less Account 219 Accum. Other Comprehensive Income (Line 25 (e))          -     
+7 Common Stock (Sum of Lines 3 through 6)     -     
+          
+          
+     $ % Cost Weighted  
+8 Long Term Debt Line 25 (a), Note A and Attachment H-27A Note Q                                                
+-    
+0.00% 0.00% 0.00% =WCL
+TD 
+9 Preferred Stock Line 25 (b), Note B and Attachment H-27A Note Q                                                
+-    
+0.00% 0.00% 0.00%  
+10 Common Stock Line 7, Note C  and Attachment H-27A Notes Q and T                                                
+-    
+0.00% 9.85% 
+ 
+0.00%  
+11 Total (Sum of Lines 8 through 10)                                                 
+-    
+  0.00% =R 
+          
+  (a) (b) ( c )  (d)  ( e )     
+ Monthly Balances for Capital Structure Long Term Debt 
+(112.24.c) 
+Preferred Stock 
+(112.3.c) 
+Proprietary Capital 
+(112.16.c) 
+Undistributed Sub 
+Earnings 216.1 (112.12.c) 
+Accum Other Comp. Income 219 (112.15.c) 
+12 December (Prior Year)                                              
+-    
+                                            
+-    
+                                     
+-    
+                                               
+-    
+                                           
+-    
+   
+13 January                                              
+-    
+                                            
+-    
+                                     
+-    
+                                               
+-    
+                                           
+-    
+   
+14 February                                              
+-    

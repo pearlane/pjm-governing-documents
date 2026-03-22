@@ -1,0 +1,1180 @@
+[ATTACHMENT I - Part 10 of 12]
+
+RELIAB --> OATT Attachment K Appendix Sec 6.1 Introduction 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.1 Introduction. 
+ 
+The following procedures shall apply to any generation resource subject to the dispatch of the 
+Office of the Interconnection that, as a result of transmission constraints, the Office of the 
+Interconnection determines, in the exercise of Good Utility Practice, must be run in order to 
+maintain the reliability of service in the PJM Region.  The provisions of this Schedule shall 
+otherwise apply to the scheduling, dispatch, operation and accounting treatment of such 
+resources, to the extent not inconsistent with the provisions of this Section 6. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.2 Identification of Facilit 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.2 Identification of Facility Outages. 
+ 
+Not later than one hour prior to the deadline specified in Section 1.10.1 of this Schedule, the 
+Office of the Interconnection shall identify on the PJM Open Access Same-Time Information 
+System any facility outage or other system condition which it has determined may give rise to a 
+transmission constraint that may require, in order to maintain system reliability, the dispatch of 
+one or more generation resources that otherwise would not be dispatched based on the merits of 
+their offers to the PJM Interchange Energy Market. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.3 Dispatch for Local Reliab 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.3 Dispatch for Local Reliability. 
+ 
+6.3.1 Request and Dispatch. 
+ 
+In addition to the dispatch of generation by the Office of the Interconnection to maintain 
+reliability on transmission facilities monitored by it, a Member that owns or leases with rights 
+equivalent to ownership local Transmission Facilities, as defined in this Agreement, and the 
+Consolidated Transmission Owners Agreement and that operates a local control center in 
+accordance with Section 11.3.3 of this Agreement or a Market Operations Center in accordance 
+with Section 1.7.5 of this Schedule may request the Office of the  Interconnection to dispatch 
+generation in order to maintain reliability on any such local Transmission Facilities that are not 
+then monitored by the Office of the Interconnection, subject to the rules and procedures in 
+Section 6.3.2 and the PJM Manuals.  The Office of the Interconnection shall dispatch generation 
+to maintain reliability on such local Transmission Facilities by incorporating the facilities in the 
+State Estimator program described in Section 2.3 as set forth below, unless the Office of the 
+Interconnection determines that such dispatch would adversely affect reliability in the PJM 
+Region or would otherwise not be in accordance with Good Utility Practice. 
+ 
+6.3.2 Designation of Local Transmission Facilities. 
+ 
+The following rules and procedures shall apply to a Member request that the Office of the 
+Interconnection dispatch generation on one or more local Transmission Facilities that are not 
+then directly monitored by the Office of the Interconnection.   
+ 
+ (a) The local Transmission Facilities that are the subject of the request for monitoring 
+and dispatch control must be among the facilities that comprise the Transmission System under 
+the PJM Tariff and must meet the PJM Reliability Planning Criteria set forth in the PJM 
+Manuals; 
+ 
+ (b) The Member shall provide modeling information for such local Transmission 
+Facilities and provide sufficient telemetry to the Office of the Interconnection such that power 
+flows are observable by the State Estimator program described in Section 2.3; 
+ 
+ (c) The request for monitoring and dispatch control of local Transmission Facilities 
+shall constitute a request that such local Transmission Facilities become and remain monitored 
+by the Office of the Interconnection and subject to its dispatch control for a period of not less 
+than one year;  
+ 
+ (d) Requests under this section for monitoring and dispatch control of local 
+Transmission Facilities may be made only annually pursuant to the procedures set forth in the 
+PJM Manuals; 
+ 
+ (e) The Office of the Interconnection shall post all requests for monitoring and 
+dispatch control of local Transmission Facilities made under this section on the PJM Internet 
+site; and  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.3 Dispatch for Local Reliab 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 2 
+ (f) The Member shall comply with all other operating procedures established by the 
+Office of the Interconnection regarding dispatch for local reliability as set forth in the PJM 
+Manuals. 
+ 
+6.3.3 Transition Procedures for Local Transmission Facilities under the Monitoring 
+Responsibility and Dispatch Control of the Office of the Interconnection as of June 1, 2002  
+ 
+The Office of the Interconnection shall determine whether local Transmission Facilities under its 
+monitoring responsibility and dispatch control as of June 1, 2002 meet the PJM Reliability and 
+Planning Criteria.  Members with such local Transmission Facilities that do not meet the PJM 
+Reliability Planning Criteria must either (1) remove the local Transmission Facilities from the 
+dispatch control and monitoring responsibility of the Office of the Interconnection within 60 
+days of notification by the Office of the Interconnection of its determination that the local 
+Transmission Facilities do not meet the PJM Reliability and Planning Criteria; or (2) commit, at 
+their own cost and by a completion date agreed to by the Office of the Interconnection and the 
+Member, to reinforce the local Transmission Facilities to enable the local Transmission Facilities 
+to meet the PJM Reliability and Planning Criteria.  This commitment to reinforce the local 
+Transmission Facilities is subject to the requirements of applicable law, government regulations 
+and approvals, including, without limitation, requirements to obtain any necessary state or local 
+siting, construction and operating permits, to the ability to acquire necessary right-of-way, and to 
+the right to recover, pursuant to appropriate financial arrangements and tariffs or contracts, all 
+reasonably incurred costs, plus a reasonable return on investment, provided that, in the event that 
+a Member cannot reinforce the local Transmission Facilities due to the unavailability of required 
+financing, the local Transmission Facilities must be removed from the monitoring responsibility 
+and dispatch control of the Office of the Interconnection within 60 days of the determination that 
+required financing is unavailable.  The local Transmission Facilities will remain under the 
+monitoring and dispatch control of the Office of the Interconnection during the construction of 
+the reinforcements. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+6.4 Offer Price Caps. 
+ 
+6.4.1 Applicability. 
+ 
+(a) If, at any time, it is determined by the Office of the Interconnection in accordance with 
+Sections 1.10.8 or 6.1 of this Schedule that any generation resource may be dispatched out of 
+economic merit order to maintain system reliability as a result of limits on transmission 
+capability, the offer prices for energy from such resource shall be capped as specified below.  For 
+such generation resources committed in the Day-ahead Energy Market, if the Office of the 
+Interconnection is able to do so, such offer prices shall be capped for the entire commitment 
+period, and such offer prices will be capped at a cost-based offer in accordance with section 6.4.2 
+and committed at the market-based offer or cost-based offer  which results in the lowest overall 
+system production cost.  For such generation resources committed in the Real-time Energy 
+Market such offer prices shall be capped at a cost-based offer in accordance with section 6.4.2 
+and dispatched on the market-based offer or cost-based offer which results in the lowest dispatch 
+cost in accordance with 6.4.1(g) until the earlier of: (i) the resource is released from its 
+commitment by the Office of the Interconnection; (ii) the end of the Operating Day; or (iii) the 
+start of the generation resource’s next pre-existing commitment. 
+ 
+The offer on which a resource is committed shall initially be determined at the time of the 
+commitment.  If any of the resource’s Incremental Energy Offer, No-load Cost or Start-Up Cost 
+are updated for any portion of the offer capped hours subsequent to commitment,  the Office of 
+the Interconnection will redetermine the level of the offer cap using the updated offer values. The 
+Office of the Interconnection will dispatch the resource on the market-based offer or cost-based 
+offer which results in the lowest dispatch cost as determined in accordance with section 6.4.1(g).  
+ 
+Resources that are self-scheduled to run in either the Day-ahead Energy Market or in the 
+Real-time Energy Market are subject to the provisions of this section 6.4.  The offer on which a 
+resource is dispatched shall be used to determine any Locational Marginal Price affected by the 
+offer price of such resource and as further limited as described in Tariff, Attachment K-
+Appendix, section 2.4 and Tariff, Attachment K-Appendix, section 2.4A. 
+ 
+In accordance with section 6.4.1(h), a generation resource that is offer capped in the 
+Real-time Energy Market but released from its commitment by the Office of the Interconnection 
+will be subject to the three pivotal supplier test and further offer capping, as applicable, if the 
+resource is committed for a period later in the same Operating Day. 
+ 
+(b) The energy offer price by any generation resource requested to be dispatched in 
+accordance with Section 6.3 of this Schedule shall be capped at the levels specified in Section 
+6.4.2 of this Schedule.  If the Office of the Interconnection is able to do so, such offer prices 
+shall be capped only during each hour when the affected resource is so scheduled, and otherwise 
+shall be capped for the entire Operating Day.  Energy offer prices as capped shall be used to 
+determine any Locational Marginal Price affected by the price of such resource. 
+ 
+(c) Generation resources subject to an offer price cap shall be paid for energy at the 
+applicable Locational Marginal Price. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 2 
+ 
+(d) [Reserved for Future Use] 
+ 
+(e) Offer price caps under section 6.4 of this Schedule shall be suspended for a generation 
+resource with respect to transmission limit(s) for any period in which a generation resource is 
+committed by the Office of the Interconnection for the Operating Day or any period for which 
+the generation resource has been self-scheduled where (1) there are not three or fewer generation 
+suppliers available for redispatch under subsection (a) that are jointly pivotal with respect to such 
+transmission limit(s), and (2) the Market Seller of the generation resource, when combined with 
+the two largest other generation suppliers, is not pivotal (“three pivotal supplier test”).  In the 
+event the Office of the Interconnection system is unable to perform the three pivotal supplier test 
+for a Market Seller, generation resources of that Market Seller that are dispatched to control 
+transmission constraints will be dispatched on the resource’s market-based offer or cost-based 
+offer which results in the lowest dispatch cost as determined in accordance with section 6.4.1(g).   
+ 
+(f) For the purposes of conducting the three pivotal supplier test in subsection (e), the 
+following applies: 
+ 
+(i) All megawatts of available incremental supply, including available self-
+scheduled supply for which the power distribution factor (“dfax”) has an 
+absolute value equal to or greater than the dfax used by the Office of the 
+Interconnection’s system operators when evaluating the impact of 
+generation with respect to the constraint (“effective megawatts”) will be 
+included in the available supply analysis at costs equal to the cost-based 
+offers of the available incremental supply adjusted for dfax (“effective 
+costs”).  The Office of the Interconnection will post on the PJM website 
+the dfax value used by operators with respect to a constraint when it varies 
+from three percent. 
+ 
+(ii) The three pivotal supplier test will include in the definition of the relevant 
+market incremental supply up to and including all such supply available at 
+an effective cost equal to 150% of the cost-based clearing price calculated 
+using effective costs and effective megawatts and the need for megawatts 
+to solve the constraint. 
+ 
+(iii) Offer price caps will apply on a generation supplier basis (i.e. not a 
+generating unit by generating unit basis) and only the generation suppliers 
+that fail the three pivotal supplier test with respect to any hour in the 
+relevant period will have their units that are dispatched with respect to the 
+constraint offer capped.  A generation supplier for the purposes of this 
+section includes corporate affiliates. Supply controlled by a generation 
+supplier or its affiliates by contract with unaffiliated third parties or 
+otherwise will be included as supply of that generation supplier; supply 
+owned by a generation supplier but controlled by an unaffiliated third 
+party by contract or otherwise will be included as supply of that third 
+party.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 3 
+ 
+A generation supplier’s units, including self-scheduled units, are offer 
+capped if, when combined with the two largest other generation suppliers, 
+the generation supplier is pivotal. 
+ 
+(iv) In the Day-ahead Energy Market, the Office of the Interconnection shall 
+include price sensitive demand, Increment Offers and Decrement Bids as 
+demand or supply, as applicable, in the relevant market. 
+ 
+(g) In the Real-time Energy Market, the schedule on which offer capped resources will be 
+placed shall be determined using dispatch cost, where dispatch cost is calculated pursuant to the 
+following formulas: 
+ 
+Dispatch cost for the applicable hour  = ((Incremental Energy Offer @ Economic Minimum for 
+the hour  [$/MWh] * Economic Minimum for the hour  [MW]) + No-load Cost for the hour 
+[$/H] ) 
+ 
+(i) For resources committed in the Real-time Energy Market, the resource is 
+committed on the offer with the lowest Total Dispatch cost at the time of 
+commitment,  
+ 
+where: 
+  
+Total Dispatch cost = Sum of hourly dispatch cost over a resource’s minimum run 
+time [$] + Start-Up Cost [$] 
+ 
+(ii) For resources operating in real-time pursuant to a day-ahead or real-time 
+commitment, and whose offers are updated after commitment, the resource is 
+dispatched on the offer with the lowest dispatch cost for the each of the updated 
+hours. 
+ 
+(iii) However, once the resource is dispatched on a cost-based offer, it will remain on 
+a cost-based offer regardless of the determination of the cheapest schedule. 
+ 
+(h) A generation resource that was committed in the Day-ahead Energy Market or Real-time 
+Energy Market, is operating in real time, and may be dispatched out of economic merit order to 
+maintain system reliability as a result of limits on transmission capability, will be offer price 
+capped, subject to the outcome of a three pivotal supplier test, for each hour the resource 
+operates beyond its committed hours or Minimum Run Time, whichever is greater, or in the case 
+of resources self-scheduled in the Real-time Energy Market, for each hour the resource operates 
+beyond its first hour of operation, in accordance with the following provisions.  
+ 
+(i)  If the resource is operating on a cost-based offer, it will remain on a cost-
+based offer regardless of the results of the three pivotal supplier test.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 4 
+(ii)  If the resource is operating on a market-based offer and the Market Seller 
+fails the three pivotal supplier test then the resource will be dispatched on 
+the cheaper of its market-based offer or the cost-based offer representing 
+the offer cap as determined by section 6.4.2, whichever results in the 
+lowest dispatch cost as determined under section 6.4.1(g).  
+ 
+(iii)  If the Market Seller passes the three pivotal supplier test and the resource 
+is currently operating on a market-based offer then the resource will 
+remain on that offer, unless the Market Seller elects to not have its market-
+based offer considered for dispatch and to have only the cost-based offer 
+that represents the offer cap level as determined under section 6.4.2 
+considered for dispatch in which case the resource will be dispatched on 
+its cost-based offer for the remainder of the Operating Day. 
+ 
+(i) If the Office of the Interconnection declares a Market Suspension, in accordance with 
+Operating Agreement, Schedule 1, section 1.11.6 and section 2.5.2, and such Market 
+Suspension is greater than twenty-four (24) consecutive hours, the Office of the 
+Interconnection shall use only cost-based offers for all resources for all market 
+clearing and compensation, regardless of whether a Market Seller fails the three 
+pivotal supplier test. 
+ 
+ 
+6.4.2 Level. 
+ 
+(a) The offer price cap shall be one of the amounts specified below, as specified in advance 
+by the Market Seller for the affected unit: 
+ 
+(i) The weighted average Locational Marginal Price at the generation bus at 
+which energy from the capped resource was delivered during a specified 
+number of hours during which the resource was dispatched for energy in 
+economic merit order, the specified number of hours to be determined by 
+the Office of the Interconnection and to be a number of hours sufficient to 
+result in an offer price cap that reflects reasonably contemporaneous 
+competitive market conditions for that unit; 
+ 
+(ii) For offers of $2,000/MWh or less, the incremental operating cost of the 
+generation resource as determined in accordance with Schedule 2 of the 
+Operating Agreement and the PJM Manuals (“incremental cost”), plus up 
+to the lesser of 10% of such costs or $100 MWh, the sum of which shall 
+not exceed $2,000/MWh; and, for offers greater than $2,000/MWh, the 
+incremental cost of the generation resource;  
+ 
+(iii) For units that are frequently offer capped (“Frequently Mitigated Unit” or 
+“FMU”), and for which the unit’s market-based offer was greater than its 
+cost based offer, the following shall apply: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 5 
+(a) For units that are offer capped for 60% or more of their run hours, 
+but less than 70% of their run hours, the offer price cap will be the greater 
+of either (i) incremental cost plus 10% or (ii) incremental cost plus $20 per 
+megawatt-hour; 
+ 
+(b) For units that are offer capped for 70% or more of their run hours, 
+but less than 80% of their run hours, the offer price cap will be the greater 
+of either (i) incremental cost plus 10%,  or (ii) incremental cost plus $30 
+per megawatt-hour; 
+ 
+(c) For units that are offer capped for 80% or more of their run hours, 
+the offer price cap will be the greater of either (i) incremental costs plus 
+10%; or (ii) incremental cost plus $40 per megawatt-hour. 
+ 
+(b) For purposes of section 6.4.2(a)(iii), a generating unit shall qualify for the specified offer 
+cap upon issuance of written notice from the Market Monitoring Unit, pursuant to Section II.A of 
+the Attachment M-Appendix, that it is a “Frequently Mitigated Unit” because it meets all of the 
+following criteria: 
+ 
+(i) The unit was offer capped for the applicable percentage of its run hours, 
+determined on a rolling 12-month basis, effective with a one month lag. 
+ 
+(ii) The unit’s Projected PJM Market Revenues plus the unit’s PJM capacity market 
+revenues on a rolling 12-month basis, divided by the unit’s MW of installed 
+capacity (in $/MW-year) are less than its accepted unit specific Avoidable Cost 
+Rate (in $/MW-year) (excluding APIR and ARPIR), or its default Avoidable Cost 
+Rate (in $/MW-year) if no unit-specific Avoidable Cost Rate is accepted for the 
+BRAs for the Delivery Years included in the rolling 12-month period, determined 
+pursuant to Sections 6.7 and 6.8 of Attachment DD of the Tariff. (The relevant 
+Avoidable Cost Rate is the weighted average of the Avoidable Cost Rates for 
+each Delivery Year included in the rolling 12-month period, weighted by month.) 
+ 
+(iii) No portion of the unit is included in a FRR Capacity Plan or receiving 
+compensation under Part V of the Tariff. 
+ 
+(iv) The unit is internal to the PJM Region and subject only to PJM dispatch. 
+ 
+(c) Any generating unit, without regard to ownership, located at the same site as a Frequently 
+Mitigated Unit qualifying under Sections 6.4.2(a)(iii) shall become an “Associated Unit” upon 
+issuance of written notice from the Market Monitoring Unit pursuant to Section II.A of 
+Attachment M-Appendix, that it meets all of the following criteria: 
+ 
+1. The unit has the identical electric impact on the transmission system as the 
+FMU; 
+ 
+2. The unit (i) belongs to the same design class (where a design class 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 6 
+includes generation that is the same size and utilizes the same technology, 
+without regard to manufacturer) and uses the identical primary fuel as the 
+FMU or (ii) is regularly dispatched by PJM as a substitute for the FMU 
+based on differences in cost that result from the currently applicable FMU 
+adder; 
+ 
+3. The unit (i) has an average daily cost-based offer, as measured over the 
+preceding 12-month period, that is less than or equal to the FMU’s 
+average daily cost-based offer adjusted to include the currently applicable 
+FMU adder or (ii) is regularly dispatched by PJM as a substitute for the 
+FMU based on differences in cost that result from the currently applicable 
+FMU adder. 
+ 
+The offer cap for an associated unit shall be equal to the incremental operating cost of such unit, 
+as determined in accordance with Schedule 2 of the Operating Agreement and the PJM Manuals, 
+plus the applicable percentage adder or dollar per megawatt-hour adder as specified in Section 
+6.4.2(a)(iii)(a), (b), or (c) for the unit with which it is associated. 
+ 
+(d) Market Participants shall have exclusive responsibility for preparing and submitting their 
+offers on the basis of accurate information and in compliance with the FERC Market Rules, 
+inclusive of the level of any applicable offer cap, and in no event shall PJM be held liable for the 
+consequences of or make any retroactive adjustment to any clearing price on the basis of any 
+offer submitted on the basis of inaccurate or non-compliant information. 
+ 
+6.4.3 Verification of Cost-Based Offers Over $1,000/Megawatt-hour 
+ 
+ (a) If a Market Seller submits a cost-based energy offer for a generation resource that 
+includes an Incremental Energy Offer greater than $1,000/megawatt-hour, then, in order for that 
+offer to be eligible to set the applicable Locational Marginal Price as described in Tariff, 
+Attachment K-Appendix, section 2.5 (for determining Real-time Prices) and Operating 
+Agreement Schedule 1, section 2.6 (for determining Day-ahead Prices), the Office of the 
+Interconnection shall apply a formulaic screen to verify the reasonableness of the Incremental 
+Energy Offer component of such cost-based offer.  For each Incremental Energy Offer segment 
+greater than $1,000/megawatt-hour, the Office of the Interconnection shall evaluate whether such 
+offer segment exceeds the reasonably expected costs for that generation resource by determining 
+the Maximum Allowable Incremental Cost for each segment in accordance with the following 
+formula: 
+ 
+Maximum Allowable Incremental Cost ($/MWh segment in accordance with the following 
+formula: @ MW) =  
+[ ( Maximum Allowable Operating Ratei ) – ( Bid Production Cost i-1) ] / (MWi – MWi-1 ) 
+ 
+where  
+ 
+i = an offer segment within the Incremental Energy Offer, which is comprised of a 
+pairing of price ($/MWh) and a megawatt quantity 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 7 
+ 
+Maximum Allowable Operating Rate ($/hour @ MW) =  
+[ ( Heat Input i @ MWi ) x ( Performance Factor ) x ( Fuel Cost ) ] x ( 1 + A )  
+ 
+where  
+ 
+Heat Input = a point on the heat input curve (in MMBtu/hr), determined in 
+accordance with PJM Manual 15, describing the resource’s operational 
+characteristics for converting the applicable fuel input (MMBtu) into energy 
+(MWh) specified in the Incremental Energy Offer; 
+ 
+Performance Factor = a scaling factor that is a calculated ratio of actual fuel burn 
+to either theoretical fuel burn (i.e, design Heat Input) or other current tested Heat 
+Input, which is determined annually in accordance with the Market Seller’s PJM-
+approved Fuel Cost Policy, Operating Agreement, Schedule 2, and PJM Manual 
+15, reflecting the resource’s actual ability to convert fuel into energy (normal 
+operation is 1.0);  
+ 
+Fuel Cost = applicable fuel cost as estimated by the Office of the Interconnection 
+at a geographically appropriate commodity trading hub, plus 10 percent; and 
+ 
+A = Cost adder, in accordance with section 6.4.2(a)(ii) of this Schedule.  
+ 
+ 
+Bid Production Cost ($/hour @ MW) =  
+[∑ni=1(MWi ―  MWi―1) x(Pi) ― 1
+2 x UBS x (MWi ―  MWi―1) x (Pi ―  Pi―1)] + No-Load 
+Cost  
+ 
+where 
+ 
+MW = the MW quantity per offer segment within the Incremental Energy Offer; 
+ 
+P = the price (in dollars per megawatt-hour) per offer segment within the 
+Incremental Energy Offer; 
+ 
+UBS = Uses Bid-Slope = 0 for block-offer resources (i.e., a resource with an 
+Incremental Energy Offer that uses a step function curve); and 1 for all other 
+resources (i.e., resources with an Incremental Energy Offer that uses a sloped 
+offer curve); and 
+ 
+If the price submitted for the offer segment is less than or equal to the Maximum Allowable 
+Incremental Cost then that offer segment shall be deemed verified and is eligible to set the 
+applicable Locational Marginal Price.  If the price submitted for the offer segment is greater than 
+the Maximum Allowable Incremental Cost, then the Market Seller’s cost-based offer for that 
+segment and all segments at an equal or greater price are deemed not verified and are not eligible 
+to set the applicable Locational Marginal Price and such offer shall be price capped at the greater 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 8 
+of $1,000/megawatt-hour or the offer price of the most expensive verified segment on the 
+Incremental Energy Offer for the purpose of setting Locational Marginal Prices; provided 
+however, such Market Seller shall be allowed to submit a challenge to a non-verification 
+determination, including supporting documentation, to the Office of the Interconnection in 
+accordance with the procedures set forth in the PJM Manuals.  Upon review of such 
+documentation, the Office of the Interconnection may determine that the Market Seller’s cost-
+based offer is verified and eligible to set the applicable Locational Marginal Price as described 
+above.   
+ 
+(i) For the first incremental segment (i=1), when the MW in the segment is 
+greater than zero, the first segment shall be screened as a block-loaded 
+segment (UBS=0) as if there was a preceding MW i-1 of zero.  The 
+Maximum Allowable Incremental Cost calculation for the first 
+incremental would use a preceding Bid Production Cost i-1 (at zero MW) 
+equal to the energy No-Load Cost. 
+ 
+(ii) For the first incremental segment (i=1), when the MW in the segment is 
+equal to zero, and is the only bid-in segment to be verified, then the 
+segment shall be deemed not verified and subject to the rules as described 
+above.  
+ 
+ 
+(iii) For the first incremental segment (i=1), when the MW in the segment is 
+equal to zero, and there are additional segments to be verified, then the 
+first segment shall be deemed verified only if the second segment is 
+deemed verified. If the second segment is deemed not verified, then the 
+first segment shall also be deemed not verified and subject to the rules as 
+described above. 
+ 
+(b) If an Economic Load Response Participant a cost-based demand reduction offer 
+that includes incremental costs greater than or equal to $1,000/megawatt-hour, in order for that 
+offer to be eligible to determine the applicable Locational Marginal Price as described in Tariff, 
+Attachment K-Appendix, section 2.5 (for determining Real-time Prices) and Tariff, Attachment 
+K-Appendix, section 2.6 (for determining Day-ahead Prices), the Economic Load Response 
+Participant must validate the incremental costs with the end use customer(s) and, upon request, 
+submit to the Office of the Interconnection supporting documentation demonstrating that the 
+end-use customer’s costs in providing such demand reduction are greater than $1,000/megawatt-
+hour in accordance with the following provisions:  
+ 
+(i) The supporting documentation must explain and support the quantification 
+of the end-use customer’s incremental costs; and   
+ 
+(ii) The end use customer’s incremental costs shall include quantifiable cost 
+incurred for not consuming electricity when dispatched by the Office of the Interconnection, 
+such as wages paid without production, lost sales, damaged products that cannot be sold, or other 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 9 
+incremental costs as defined in the PJM Manuals or as approved by the Office of the 
+Interconnection, and may not include shutdown costs.   
+ 
+If upon review of the supporting documentation for the Economic Load Response Participant’s, 
+cost-based offer by the Office of the Interconnection and the Market Monitoring Unit, the Office 
+of the Interconnection and/or the Market Monitoring Unit determines that the offer was not 
+reasonably supported by incremental costs greater than or equal to $1,000/megawatt-hour, the 
+Office of the Interconnection and/or the Market Monitoring Unit may refer the matter to the 
+FERC Office of Enforcement for investigation.   
+ 
+6.4.3A Verification of Fast-Start Resource Composite Energy Offers Over 
+$1,000/Megawatt-hour 
+ 
+(a) If a Market Seller submits a cost-based offer for a generation resource that is a Fast-Start 
+Resource that results in a Composite Energy Offer that is greater than $1,000/megawatt-hour, 
+then, in order for that Composite Energy Offer to be eligible to set the applicable Locational 
+Marginal Price under Tariff, Attachment K-Appendix, section 2.5 (for determining Real-time 
+Prices) and Tariff, Attachment K-Appendix, section 2.6 (for determining Day-ahead Prices), the 
+Office of the Interconnection shall apply a formulaic screen to verify the reasonableness of the 
+offer components: 
+ 
+Incremental Energy Offer and No-load Cost components of each offer segment 
+shall be evaluated for whether it exceeds the reasonably expected costs for that 
+resource by applying the test described in Tariff, Attachment K-Appendix, section 
+6.4.3. 
+ 
+Start-Up Cost component shall be evaluated for whether it exceeds the reasonably 
+expected costs for that resource by applying the following formula: 
+ 
+Start-Up Cost ($)  = [ [ (Performance Factor) x ( Start Fuel) x ( Fuel 
+Cost ) ] + Start Maintenance Adder + Station Service Cost ] x (1 +A) 
+ 
+Where:  
+ 
+Start Fuel =  
+ 
+For units without a soak process, “Start Fuel” shall consist of fuel 
+consumed from first fire of the start process to first breaker closing, plus 
+any fuel expended from last breaker opening to shutdown. 
+ 
+For units with a soak process, “Start Fuel” is fuel consumed from first fire 
+of the start process (initial reactor criticality for nuclear units) to 
+dispatchable output (including auxiliary boiler fuel), plus any fuel 
+expended from last breaker opening to shutdown, excluding normal plant 
+heating/auxiliary equipment fuel requirements.  Start Fuel included for 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 10 
+each temperature state from breaker closure to dispatchable output shall 
+not exceed the unit specific soak time period reviewed and approved as 
+part of the unit-specific parameter process detailed in Tariff, Attachment 
+K-Appendix, section 6.6(c) or the defaults below: 
+• Cold Soak Time = 0.73 * unit specific Minimum Run Time (in 
+hours) 
+• Intermediate Soak Time = 0.61 * unit specific Minimum Run Time 
+(in hours) 
+• Hot Soak Time = 0.43 * unit specific Minimum Run Time (in 
+hours);   
+ 
+ 
+Fuel Cost = applicable fuel cost as estimated by the Office of the 
+Interconnection at a geographically appropriate commodity trading hub, 
+plus 10 percent; 
+ 
+Performance Factor = a scaling factor that is a calculated ratio of actual 
+fuel burn to either theoretical fuel burn (i.e., design Heat Input) or other 
+current tested Heat Input, which is determined annually in accordance 
+with the Market Seller’s PJM-approved Fuel Cost Policy under Operating 
+Agreement, Schedule 2 and PJM Manual 15, reflecting the resource’s 
+actual ability to convert fuel into energy (normal operation is 1.0); 
+ 
+Start Maintenance Adder = an adder based on all available maintenance 
+expense history for the defined Maintenance Period regardless of unit 
+ownership.  Only expenses incurred as a result of electric production 
+qualify for inclusion.  Only Maintenance Adders specified as $/Start, 
+$/MMBtu, or $/equivalent operating hour can be included in the Start 
+Maintenance Adder; 
+ 
+ 
+Station Service Cost = station service usage (MWh) during start-up 
+multiplied by the 12-month rolling average off-peak energy prices as 
+updated quarterly by the Office of the Interconnection.  
+ 
+A = cost adder, in accordance with Tariff, Attachment K-Appendix, 
+section 6.4.2(a)(ii). 
+ 
+(b) Should the submitted Incremental Energy Offer and No-load Cost exceed the reasonably 
+expected costs for that resource as calculated pursuant to subsection (a) above for any segment, 
+then for the determination of Locational Marginal Prices as described in Tariff, Attachment K-
+Appendix, section 2.5 (for determining Real-time Prices) and Tariff, Attachment K-Appendix, 
+section 2.6 (for determining Day-ahead Prices): 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 11 
+(i) the Incremental Energy Offer for each segment shall be capped at the lesser of the 
+cap described above in Tariff, Attachment K-Appendix, section 6.4.3 or the 
+submitted Incremental Energy Offer; and   
+ 
+(ii) the amortized No-load cost shall be adjusted as described in Tariff, Attachment 
+K-Appendix, section 2.4 (Determination of Energy Offers Used in Calculating 
+Real-time Prices) and Tariff, Attachment K-Appendix, section 2.4A 
+(Determination of Energy Offers Used in Calculating Day-ahead Prices). 
+ 
+(c) Should the submitted Start-Up Cost exceed the reasonably expected costs for that 
+resource as calculated pursuant to subsection (a) above, then for the determination of Locational 
+Marginal Prices as described in Tariff, Attachment K-Appendix, section 2.5 (for determining 
+Real-time Prices) and Tariff, Attachment K-Appendix, section 2.6 (for determining Day-ahead 
+Prices), the Start-Up Costs shall be adjusted as described in Tariff, Attachment K-Appendix, 
+section 2.4 (Determination of Energy Offers Used in Calculating Real-time Prices) and Tariff, 
+Attachment K-Appendix, section 2.4A (Determination of Energy Offers Used in Calculating 
+Day-ahead Prices). 
+ 
+(d) If an Economic Load Response Participant submits an offer to reduce demand for a Fast-
+Start Resource where the maximum segment of the resulting Composite Energy Offer exceeds 
+$1,000/megawatt-hour, then, in order for that Composite Energy Offer to be eligible to set the 
+applicable Locational Marginal Price under Tariff, Attachment K-Appendix, section 2.5 (for 
+determining Real-time Prices) and Tariff, Attachment K-Appendix, section 2.6 (for determining 
+Day-ahead Prices), the Economic Load Response Participant must validate such costs with the 
+end use customer(s) and, upon request, submit to the Office of the Interconnection supporting 
+documentation demonstrating that the end-use customer’s costs in providing such demand 
+reduction are greater than $1,000/megawatt-hour in accordance with the following provisions:  
+ 
+(i) The supporting documentation must explain and support the quantification 
+of the end-use customer’s incremental costs and shutdown costs; and   
+ 
+(ii) The end use customer’s incremental and shutdown costs shall include 
+quantifiable cost incurred for not consuming electricity when dispatched by the Office of the 
+Interconnection, such as wages paid without production, lost sales, damaged products that cannot 
+be sold, or other incremental costs as defined in the PJM Manuals or as approved by the Office 
+of the Interconnection.   
+ 
+If upon review of the supporting documentation for the Economic Load Response Participant’s, 
+cost-based offer by the Office of the Interconnection and the Market Monitoring Unit, the Office 
+of the Interconnection and/or the Market Monitoring Unit determines that the offer was not 
+reasonably supported by incremental and shutdown costs greater than or equal to 
+$1,000/megawatt-hour, the Office of the Interconnection and/or the Market Monitoring Unit may 
+refer the matter to the FERC Office of Enforcement for investigation.   
+ 
+Should the submitted shutdown cost exceed the reasonably supported costs for that resource, 
+then for the determination of Locational Marginal Prices as described in Tariff, Attachment K-
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.4 Offer Price Caps 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 12 
+Appendix, section 2.5 (for determining Real-time Prices) and Tariff, Attachment K-Appendix, 
+section 2.6 (for determining Day-ahead Prices), the shutdown costs shall be adjusted as described 
+in Tariff, Attachment K-Appendix, section 2.4 (Determination of Energy Offers Used in 
+Calculating Real-time Prices) and Tariff, Attachment K-Appendix, section 2.4A (Determination 
+of Energy Offers Used in Calculating Day-ahead Prices). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.5 [Reserved] 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.5 [Reserved for Future Use] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+6.6 Minimum Generator Operating Parameters – Parameter Limited Schedules. 
+ 
+ (a) Market Sellers submitting Offer Data for Generation Capacity Resources shall 
+submit and be subject to pre-determined limits on cost-based offers, which are always parameter 
+limited.   Such offers must specify parameter values equal to or less limiting, i.e. more flexible, 
+than the defined parameter limits.  Such cost-based offers (“parameter limited schedules”) shall be 
+considered in the commitment of a resource when the Market Seller does not pass the three pivotal 
+supplier test, as further described in Operating Agreement, Schedule 1, section 6.4.1 and the 
+parallel provisions in Tariff, Attachment K-Appendix, section 6.4.1. 
+ 
+(b) Market Sellers submitting Offer Data for Generation Capacity Resources shall 
+submit and be subject to pre-determined limits on market-based offers conforming to parameter 
+limitations (“parameter limited schedules”).  Such market-based parameter limited schedules must 
+specify parameter values equal to or less limiting, i.e. more flexible, than the defined parameter 
+limits.  Such market-based parameter limited schedules shall be considered in the commitment of 
+a resource under the following circumstances: 
+ 
+(i) For Capacity Performance Resources, the Office of the Interconnection: (i) 
+declares a Maximum Generation Emergency; (ii) issues a Maximum 
+Generation Emergency Alert, Hot Weather Alert, Cold Weather Alert; or 
+(iii) schedules units based on the anticipation of a Maximum Generation 
+Emergency, Maximum Generation Emergency Alert, Hot Weather Alert 
+or Cold Weather Alert for all, or any part, of an Operating Day. 
+ 
+(c) For Capacity Performance Resources, the Office of the Interconnection shall determine 
+the unit-specific achievable operating parameters for each individual unit on the basis of its 
+operating design characteristics and other constraints, recognizing that remedial and ongoing 
+investment and maintenance may be required to perform on the basis of those characteristics, for 
+the following parameters: 
+ 
+  (i) Turn Down Ratio; 
+ 
+  (ii) Minimum Down Time; 
+ 
+  (iii) Minimum Run Time; 
+ 
+  (iv) Maximum Daily Starts; 
+ 
+  (v) Maximum Weekly Starts; 
+ 
+  (vi) Maximum Run Time; 
+ 
+  (vii) Start-up Time; and 
+ 
+  (viii) Notification Time. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+These unit-specific values shall apply for the generating unit unless it is operating pursuant to an 
+exception from those values under subsection (i) hereof due to operational limitations that prevent 
+the unit from meeting the minimum parameters. Throughout the analysis process, the Office of the 
+Interconnection shall consult with the Market Monitoring Unit, and consider any input received 
+from the Market Monitoring Unit, in its determination of a unit’s unit-specific parameter limited 
+schedule values. 
+ 
+In order to make its determination of the unit-specific parameter limited schedule values for a unit, 
+the Office of the Interconnection may request that the Capacity Market Seller provide to it and the 
+Market Monitoring Unit certain data and documentation as further detailed in the PJM Manuals. 
+Once the Office of the Interconnection has made a determination of the unit-specific parameter 
+limited schedule values for a unit, those values will remain applicable to the unit until such time 
+as the Office of the Interconnection determines that a change is needed based on changed 
+operational capabilities of the unit. 
+ 
+A Capacity Market Seller that does not believe its generating unit can meet the unit-specific values 
+determined by the Office of the Interconnection due to actual operating constraints, and who 
+desires to establish adjusted unit-specific parameters for those units may request adjusted unit-
+specific parameter limitations. Any such request must be submitted to the Office of the 
+Interconnection by no later than the February 28 immediately preceding the first Delivery Year for 
+which the adjusted unit-specific parameters are requested to commence.  Capacity Market Sellers 
+shall supply, for each generating unit, technical information about the operational limits to support 
+the requested parameters, as further detailed in the PJM Manuals.  The Office of the 
+Interconnection shall consult with the Market Monitoring Unit, and consider any input received 
+from the Market Monitoring Unit, in its determination of a unit’s request for adjusted unit-specific 
+parameter limited schedule values.  After it has completed its evaluation of the request, the Office 
+of the Interconnection shall notify the Capacity Market Seller in writing, with a copy to the Market 
+Monitoring Unit, whether the request is approved or denied, by no later than April 15. The effective 
+date of the request, if approved by the Office of the Interconnection, shall be no earlier than June 
+1.   
+ 
+The operational limitations referenced in this section 6.6 shall be (a) physical operational 
+limitations based on the operating design characteristics of the unit, or (b) other actual physical 
+constraints, including those based on contractual limits, that are not based on the characteristics of 
+the unit.  In order for a contractual or other actual constraint to be deemed a physical constraint 
+that can be reflected in its unit-specific parameter limits for a Generation Capacity Resource, the 
+Capacity Market Seller must demonstrate that contractual or other actual constraint is not simply 
+an economic decision but a physical restriction that could not be rectified among any commercial 
+alternatives actually available to it. 
+ 
+(d) [Reserved]  
+ 
+(e) [Reserved] 
+ 
+(f) [Reserved]  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 3 
+(g) The following additional parameter limits shall apply for Capacity Performance 
+Resources, other than Capacity Storage Resources, submitted in the Day-ahead Energy Market or 
+rebidding period that occurs after the clearing of the Day-ahead Energy Market for the following 
+Operating Day, and for the Real-time Energy Market for the same Operating Day, unless the 
+Capacity Market Seller has requested for its Capacity Performance Resource, and the Office of 
+the Interconnection has granted, an adjusted unit-specific start-up and/or notification time due to 
+actual operating constraints pursuant to the process described in subsection (c) above: 
+ 
+(i) The combined start-up and notification times shall not exceed 24 hours, 
+except when a Hot Weather Alert or Cold Weather Alert has been issued; 
+ 
+(ii) When a Hot Weather Alert or Cold Weather Alert has been issued, 
+combined start-up and notification times shall not exceed 14 hours;  
+ 
+(iii) When a Hot Weather Alert or Cold Weather Alert has been issued, 
+notification time shall not exceed one hour; and, 
+ 
+(iv) When a Hot Weather Alert or Cold Weather Alert has been issued, 
+parameters shall be based on the actual operational limitations of the 
+Capacity Performance Resource for both its market-based schedules and 
+cost-based schedules. 
+ 
+Capacity Storage Resources that clear in a Reliability Pricing Model Auction shall, unless the 
+Capacity Market Seller has requested for its Capacity Storage Resource, and the Office of the 
+Interconnection has granted, an adjusted unit-specific start-up and notification time, and/or 
+minimum down time, due to actual operating constraints pursuant to the process described in 
+subsection (c) above: 
+ 
+(i) Have combined start-up and notification times that shall not exceed one 
+hour; and, 
+ 
+(ii) Have a minimum down time that shall not exceed one hour. 
+ 
+(h) [Reserved] 
+ 
+(i) If a generating unit is or will become unable to achieve the default or unit-specific values 
+determined by the Office of the Interconnection due to actual operating constraints affecting the 
+unit, the Capacity Market Seller of that unit may submit a written request for an exception to the 
+application of those values.  Exceptions to the parameter limited schedule default or unit-specific 
+values shall be categorized as either a one-time temporary exception, lasting 30 days or less; a 
+period exception, lasting at least 31 days and no more than one year; or a persistent exception, 
+lasting for at least one year.   
+ 
+(i) Temporary Exceptions.  A temporary exception shall be deemed accepted 
+without prior review by the Market Monitoring Unit or the Office of the 
+Interconnection upon submission by the Market Seller of the generating unit of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 4 
+written notification to the Market Monitoring Unit and the Office of the 
+Interconnection, and shall automatically commence and terminate on the dates 
+specified in such notification, which must be for a period of time lasting 30 days 
+or less, unless the termination date is extended pending a request for a period 
+exception or shortened due to a change in the physical conditions of the unit such 
+that the temporary exception is no longer required. Such Market Seller shall 
+provide to the Market Monitoring Unit and the Office of the Interconnection 
+within three days following the commencement of the temporary exception its 
+documentation explaining in detail the reasons for the temporary exception, and 
+shall also respond to additional requests for information from the Market 
+Monitoring Unit and the Office of the Interconnection within three Business Days 
+after such request.  Failure to provide a timely response to such request for 
+additional information shall cause the temporary exception to terminate the 
+following day. The Market Seller shall notify the Office of the Interconnection 
+and the Market Monitoring Unit in writing of any updates to the physical 
+condition of the unit and shall notify the Office of Interconnection and the Market 
+Monitoring Unit in writing of an early termination of a temporary exception due 
+to changed physical conditions by no later than one Business Day prior to the 
+early termination date.  A Market Seller shall provide supporting documentation 
+demonstrating the actual termination date of the physical and actual parameter 
+limitation that prompted the need for the temporary exception to the Office of 
+Interconnection and the Market Monitoring Unit within one Business Day of the 
+termination of such condition.  A temporary exception may only be requested 
+one-time for the same physical and actual constraint per occurrence since an 
+operational constraint that may periodically exist more than once should be the 
+subject of a period exception request rather than multiple temporary exception 
+requests. 
+ 
+In addition, if a Market Seller is unaware of the need for a period exception prior 
+to the February 28 deadline for submitting such requests, the Market Seller may 
+utilize the temporary exception process and seek to modify that exception 
+pursuant to the process described below. 
+ 
+Modification of Temporary Exceptions. If, prior to the scheduled termination date 
+the Market Seller determines that the temporary exception must persist for more 
+than 30 days and the Market Seller wants to extend the period for which the 
+exception applies, or if a Market Seller is unaware of the need for a period or 
+persistent exception prior to the February 28 deadline for submitting such requests 
+and the Market Seller has submitted a temporary exception request, it must submit 
+to the Market Monitoring Unit and the Office of the Interconnection a written 
+request to modify the temporary exception to become a period exception or a 
+persistent exception, and provide detailed documentation explaining the reasons for 
+the requested modification of the temporary exception.  Market Sellers shall supply 
+for each generating unit the required historical unit operating data in support of the 
+period or persistent exception request, and if the exception requested is based on 
+new physical operating limits for the unit for which some or all historical operating 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 5 
+data is unavailable, the Market Seller may also submit technical information about 
+the physical operational limits of the unit to support the requested parameters.  Such 
+Market Seller shall respond to additional requests for information from the Market 
+Monitoring Unit and the Office of the Interconnection within three Business Days 
+after such request.  Such request shall be reviewed by the Market Monitoring Unit 
+and must be evaluated by the Office of the Interconnection using the same standard 
+utilized to evaluate period exception and persistent exception requests.  Per Tariff, 
+Attachment M-Appendix, section II.B, the Market Monitoring Unit shall evaluate 
+the modification request and provide its determination of whether the request raises 
+market power concerns, and, if so, any modifications that would alleviate those 
+concerns, to the Market Seller, with a copy to Office of the Interconnection, by no 
+later than 15 Business Days from the date of the modification request.  The Office 
+of the Interconnection shall provide its determination whether the request complies 
+with the Tariff and Manuals by no later than 20 Business Days from the date of the 
+modification request. A temporary exception shall be extended and shall not 
+terminate until the date on which the Office of the Interconnection issues its 
+determination of the modification request.  
+ 
+(ii) Period Exceptions and Persistent Exceptions. Market Sellers must submit 
+period exception and persistent exception requests to the Market Monitoring Unit 
+and the Office of the Interconnection by no later than the February 28 immediately 
+preceding the twelve month period from June 1 to May 31 during which the 
+exception is requested to commence.  Market Sellers shall supply for each 
+generating unit the required historical unit operating data in support of the period 
+exception or persistent exception request, and if the exception requested is based 
+on new physical operational limits for the unit for which some or all historical 
+operating data is unavailable, the generating unit may also submit technical 
+information about the physical operational limits for exceptions of the unit to 
+support the requested parameters.  The Market Monitoring Unit shall evaluate such 
+request in accordance with the process set forth in Tariff, Attachment M-Appendix, 
+section II.B.  A Market Seller (i) must submit a parameter limited schedule value 
+consistent with an agreement with the Market Monitoring Unit under such process 
+or (ii) if it has not agreed with the Market Monitoring Unit on the parameter limited 
+schedule value, may submit its own value to the Office of the Interconnection and 
+to the Market Monitoring Unit, by no later than April 8.  Each exception request 
+must indicate the expected duration of the requested exception including the 
+termination date thereof.  The proposed parameter limited schedule value submitted 
+by the Market Seller is subject to approval of the Office of the Interconnection 
+pursuant to the requirements of the Tariff and the PJM Manuals.  The Office of the 
+Interconnection may engage the services of a consultant with technical expertise to 
+evaluate the exception request.  After it has completed its evaluation of the 
+exception request, the Office of the Interconnection shall notify the Market Seller 
+in writing, with a copy to the Market Monitoring Unit, whether the exception 
+request is approved or denied, by no later than April 15. The effective date of the 
+exception, if approved by the Office of the Interconnection, shall be no earlier than 
+June 1 of the applicable Delivery Year.  The Office of the Interconnection’s 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 6 
+determination for an exception shall continue for the period requested and, if 
+requested, for such longer period as the Office of the Interconnection may 
+determine is supported by the data.   
+ 
+The Market Seller shall provide written notification to the Market Monitoring Unit 
+and the Office of the Interconnection of a material change to the facts relied upon 
+by the Market Monitoring Unit and/or the Office of the Interconnection in their 
+evaluations of the Market Seller’s request for a period or persistent exception.  The 
+Market Monitoring Unit shall provide written notification to the Office of the 
+Interconnection and the Market Seller of any change to its determination regarding 
+the exception request, based on the material change in facts, by no later than 15 
+Business Days after receipt of such notice. The Office of the Interconnection shall 
+notify the Market Seller in writing, with a copy to the Market Monitoring Unit, of 
+any change to its determination regarding the exception request, based on the 
+material change in facts, by no later than 20 Business Days after receipt of the 
+Market Seller’s notice. If the Office of the Interconnection determines that the 
+exception no longer complies with the Tariff or Manuals, the following parameter 
+values shall apply to all megawatts of the generating unit offered into the PJM 
+energy markets:  
+ 
+(1) for generating units for which any megawatts of the unit are 
+committed as a Capacity Performance Resource, but for which no adjusted 
+unit-specific values have been approved by PJM, the Capacity 
+Performance Resource unit-specific values determined by PJM shall 
+apply.  
+ 
+(2)     for generating units for which any megawatts of the unit are committed 
+as a Capacity Performance Resource and for which adjusted unit-specific 
+values have been approved by PJM, the Capacity Performance Resource 
+adjusted unit-specific values shall apply.   
+ 
+(i) Notwithstanding the foregoing, the provisions of this section 6.6 shall only pertain to the 
+Offer Data a Market Seller must submit to the Office of the Interconnection for its offers into the 
+Day-ahead Energy Market, rebidding period that occurs after the clearing of the Day-ahead Energy 
+Market and Real-time Energy Market, and do not affect or change in any way a Generation 
+Owner’s obligation under NERC Reliability Standards to notify the Office of the Interconnection 
+of its actual or expected actual physical operating conditions during the Operating Day. 
+ 
+(k) Notwithstanding anything contrary herein, the unit-specific parameters, adjusted unit-
+specific parameters or exception to parameter limited schedule values determined by the Office 
+of the Interconnection for a generating unit shall be applicable to that generating unit regardless 
+whether there is a change in the owner, operator or Market Seller of the unit because the 
+parameter limited schedule values for the unit are determined based on the physical limitations of 
+the unit, which should not change merely based on a change in owners, operator or Market 
+Seller. Because parameter limited schedule values attach to the generating unit and are not 
+owned by a Market Seller of the unit, when there are multiple owners or Market Sellers for a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.6 Minimum Generator Operati 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 7 
+generating unit, all owners and Market Sellers shall be bound by the unit-specific parameters, 
+adjusted unit-specific parameters or exception to parameter limited schedule values determined 
+by the Office of the Interconnection for the unit. 
+ 
+(l) The provisions of this section 6.6 only apply to Generation Capacity Resources, and not 
+to Energy Resources. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6A [Reserved] 
+Effective Date: 10/1/2012 - Docket #: ER12-1204-000 - Page 1 
+6A  [Reserved for Future Use] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6A [Reserved] --> 
+OATT Attachment K Appendix Sec 6A.1 [Reserved] 
+Effective Date: 10/1/2012 - Docket #: ER12-1204-000 - Page 1 
+6A.1  [Reserved For Future Use] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6A [Reserved] --> 
+OATT Attachment K Appendix Sec 6A.2 [Reserved] 
+Effective Date: 10/1/2012 - Docket #: ER12-1204-000 - Page 1 
+6A.2  [Reserved for Future Use] 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6A [Reserved] --> 
+OATT Attachment K Appendix Sec 6A.3 [Reserved] 
+Effective Date: 10/1/2012 - Docket #: ER12-1204-000 - Page 1 
+6A.3 [Reserved for Future Use] 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION 
+Effective Date: 3/11/2022 - Docket #: ER22-797-000 - Page 1 
+7. FINANCIAL TRANSMISSION RIGHTS AUCTIONS 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.1 Auctions of Financial 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 1 
+7.1 Auctions of Financial Transmission Rights. 
+ 
+Annual, periodic and long-term auctions to allow Market Participants to acquire or sell Financial 
+Transmission Rights shall be conducted by the Office of the Interconnection in accordance with 
+the provisions of this Section.  PJMSettlement shall be the Counterparty to the purchases and 
+sales of Financial Transmission Rights arising from such auctions; provided however, that 
+PJMSettlement shall not be a contracting party to any subsequent bilateral transfer of Financial 
+Transmission Rights between Market Participants.  The conversion of an Auction Revenue Right 
+to a Financial Transmission Right pursuant to this section 7 shall not constitute a purchase or sale 
+transaction to which PJMSettlement is a contracting party. 
+ 
+7.1.1 Auction Period and Scope of Auctions. 
+ 
+(a) The periods covered by auctions shall be:  (1) the one-year period beginning the month 
+after the final round of an annual auction; and (2) any single calendar month period remaining in 
+the Planning Period.  With the exception of FTRs allocated pursuant to Operating Agreement, 
+Schedule 1, section 5.2.2 (e) and the Financial Transmission Rights awarded as a result of the 
+exercise of the conversion option pursuant to Operating Agreement, Schedule 1, section 7.1.1(b), 
+in the annual auction, the Office of the Interconnection, on behalf of PJMSettlement, shall offer 
+for sale the entire Financial Transmission Rights capability for the year in four rounds with 25 
+percent of the capability offered in each round.  In the monthly auction, the Office of the 
+Interconnection, on behalf of PJMSettlement, shall offer for sale in the auction any remaining 
+Financial Transmission Rights capability for the months remaining in the Planning Period after 
+taking into account all of the Financial Transmission Rights already outstanding at the time of 
+the auction.  In addition, any holder of a Financial Transmission Right for the period covered by 
+an auction may offer such Financial Transmission Right for sale in such auction.  Weekend on-
+peak, weekday on-peak, off-peak and 24-hour Financial Transmission Rights, as those products 
+are described in Tariff, Attachment K-Appendix, section 7.3.4, will be offered in the annual and 
+monthly auctions.  FTRs will be offered as Financial Transmission Right Obligations and 
+Financial Transmission Right Options, provided that such Financial Transmission Right 
+Obligations and Financial Transmission Right Options shall be awarded based only on the 
+residual system capability that remains after the allocation of Financial Transmission Rights 
+pursuant to Operating Agreement, Schedule 1, section 5.2.2(e) and the award of Financial 
+Transmission Rights pursuant to Operating Agreement, Schedule 1, section 7.1.1(b).  Market 
+Participants may bid for and acquire any number of Financial Transmission Rights, provided that 
+all Financial Transmission Rights awarded are simultaneously feasible with each other and with 
+all Financial Transmission Rights outstanding at the time of the auction and not sold into the 
+auction.  An ARR holder may self-schedule an FTR on the same path in the Annual FTR auction 
+according to the rules described in the PJM Manuals. 
+ 
+(b) An Auction Revenue Rights holder may convert Auction Revenue Rights to Financial 
+Transmission Rights, and such conversion shall not be considered a purchase or sale of Financial 
+Transmission Rights in the auction. Such Financial Transmission Rights must (i) have the same 
+source and sink points as the Auction Revenue Rights; and (ii) be Financial Transmission Right 
+Obligations.  The Auction Revenue Rights holder must inform the Office of the Interconnection 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.1 Auctions of Financial 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 2 
+in accordance with the procedures established by the Office of the Interconnection that it intends 
+to exercise the conversion option prior to close of round one of the 
+annual Financial Transmission Rights auction.  Once the conversion option is exercised, it will 
+remain in effect for the entire Financial Transmission Rights auction.  The Office of the 
+Interconnection will designate twenty-five percent of the megawatt amount of the Auction 
+Revenue Rights to be converted as price-taker bids in each of the four rounds of the Financial 
+Transmission Rights auction.  An Auction Revenue Rights holder that converts its Auction 
+Revenue Rights may not designate a price bid for its converted Financial Transmission Rights 
+and will receive a price equal to the clearing price set by other bids in the annual Financial 
+Transmission Right auction.  To the extent a market participant seeks to obtain FTRs in the 
+annual auction through such conversion, the FTRs sought will not be included in the calculation 
+of such market participant’s credit requirement for such annual FTR auction. 
+ 
+7.1.2 Frequency and Time of Auctions. 
+ 
+Subject to Operating Agreement, Schedule 1, section 7.1.1, annual Financial Transmission 
+Rights auctions shall offer the entire FTR capability of the PJM system in four rounds with 25 
+percent of the capability offered in each round.  All four rounds of the annual Financial 
+Transmission Rights auction shall occur within the two-month period (April – May) preceding 
+the start of the PJM Planning Period.  Each round shall occur over five Business Days and shall 
+be conducted sequentially. Each round shall begin with the bidding period.  The bidding period 
+for annual Financial Transmission Rights auctions shall be open for three consecutive Business 
+Days, opening the first day at 12:00 midnight (Eastern Prevailing Time) and closing the third day 
+at 5:00 p.m. (Eastern Prevailing Time) , subject to extension of the bidding period in accordance 
+with Tariff, Attachment K-Appendix, section 7.3.5(e).  Monthly Financial Transmission Rights 
+auctions shall be held each month.  The bidding period for monthly Financial Transmission 
+Rights auctions shall be open for three consecutive Business Days in the month preceding the 
+first month for which Financial Transmission Rights are being auctioned, opening the first day at 
+12:00 midnight (Eastern Prevailing Time) and closing the third day at 5:00 p.m. (Eastern 
+Prevailing Time) , subject to extension of the bidding period in accordance with Tariff, 
+Attachment K-Appendix, section 7.3.5(e). 
+ 
+7.1.3  Duration of Financial Transmission Rights. 
+ 
+Each Financial Transmission Right acquired in a Financial Transmission Rights auction shall 
+entitle the holder to credits of Day-ahead Energy Market Transmission Congestion Charges for 
+the period that was specified in the corresponding auction. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.1A Long-Term Financial Tran 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 1 
+7.1A Long-Term Financial Transmission Rights Auctions. 
+ 
+7.1A.1 Auctions. 
+ 
+ (i) Subsequent to each annual Financial Transmission Rights auction conducted 
+pursuant to Operating Agreement, Schedule 1, section 7.1, the Office of the Interconnection shall 
+conduct a long-term Financial Transmission Rights auction for the three consecutive Planning 
+Periods immediately subsequent to the Planning Period during which the long-term Financial 
+Transmission Rights auction is conducted.  PJMSettlement shall be the Counterparty to the 
+purchases and sales of Financial Transmission Rights arising from such long-term Financial 
+Transmission Rights auctions, provided however, that PJMSettlement shall not be a contracting 
+party to any subsequent bilateral transfers of Financial Transmission Rights between Market 
+Participants.  The conversion of an Auction Revenue Right to a Financial Transmission Right 
+pursuant to this section 7 shall not constitute a purchase or sale transaction to which 
+PJMSettlement is a contracting party. 
+ 
+ (ii) The capacity offered for sale in long-term Financial Transmission Rights auctions 
+shall be the residual system capability after the annual Auction Revenue Rights allocations and 
+the annual Financial Transmission Rights auction.  In determining the residual capability the 
+Office of the Interconnection shall assume that all Auction Revenue Rights allocated in the 
+immediately prior annual Auction Revenue Rights allocation process, including Auction 
+Revenue Rights made available in which transmission facilities which were modeled out of 
+service in the annual Auction Revenue Rights allocations return to service, are self-scheduled 
+into Financial Transmission Rights, which shall be modeled as fixed injections and withdrawals 
+in the long-term Financial Transmission Rights auction.  Additionally, residual annual Auction 
+Revenue Rights that become available through incremental capability created by future 
+transmission upgrades as further described in the PJM Manuals shall be modeled as fixed 
+injections and withdrawals in the long-term Financial Transmission Rights auction.  The long-
+term Financial Transmission Rights auction model shall include all upgrades planned to be 
+placed into service on or before June 30th of the first Planning Period within the three year period 
+covered by the auction. The transmission upgrades to be modeled for this purpose shall only 
+include those upgrades that, individually, or together, have 10% or more impact on the 
+transmission congestion on an individual constraint or constraints with congestion of $5 million 
+or more affecting a common congestion path.  Transmission upgrades modeled for this purpose 
+also will be modeled in the subsequent long-term Financial Transmission Rights auction, as 
+further detailed in the PJM Manuals. Residual Auction Revenue Rights created by an increase in 
+transmission capability due to future transmission upgrades, as specified above, are determined 
+only for modeling purposes and will not be allocated to Market Participants. 
+ 
+ 
+7.1A.2 Frequency and Timing. 
+ 
+The long-term Financial Transmission Rights auction process shall consist of five rounds.  The 

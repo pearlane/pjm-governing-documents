@@ -1,0 +1,1411 @@
+[ATTACHMENT H-17A - Part 1 of 3]
+
+Attachment H-17A 
+Formula Rate - Appendix A Notes FERC Form 1  Page # or Instruction   Year 
+Shaded cells are input cells     
+Allocators           
+1  Transmission Wages Expense  p354.21.b                            -    
+       
+2  Total Wages Expense  p354.28.b                            -    
+3  Less A&G Wages Expense  p354.27.b                            -    
+4  Total   (Line 2 - 3)                             -    
+       
+5       (Line 1 / Line 4)   0.0000% 
+ Plant Allocation Factors     
+6  Total Plant In Service (Note B) Attachment 5                            -    
+7  Total Accumulated Depreciation (Note A) Attachment 5                            -    
+8  Net Plant   (Line 6 - Line 7)                             -    
+       
+9  Transmission Gross Plant  (Line 21)                            -    
+10 Gross Plant Allocator   (Line 9 / Line 6)   0.0000% 
+       
+11  Transmission Net Plant  (Line 33)                            -    
+12 Net Plant Allocator   (Line 11 / Line 8)   0.0000% 
+       
+Plant Calculations         
+       
+ Plant In Service     
+13  Transmission Plant In Service (Note B) Attachment 5                            -    
+14  New Transmission Plant Additions and Retirements only for Annual Estimate (Note B) Attachment 6,      
+15  Total Transmission Plant In Service  (Line 13 + Line 14)                            -    
+       
+16  General & Intangible  Attachment 5                            -    
+17  Common Plant (Electric Only) (Note A) Attachment 5                            -    
+18  Total General & Common   (Line 16 + Line 17)                             -    
+19  Wage & Salary Allocation Factor  (Line 5)  0.00000% 
+20  General & Common Plant Allocated to Transmission   (Line 18 * Line 19)                             -    
+        
+21 TOTAL Transmission-Related Plant In Service   (Line 15 + Line 20)                             -    
+       
+ Accumulated Depreciation     
+  
+22  Transmission Accumulated Depreciation (Note B) Attachment 5                            -    
+23  Accumulated  Depreciation for Transmission Plant Additions Only for Estimate (Note B) Attachment 6,      
+24  Total Transmission Accumulated Depreciation  (Line 22 + Line 23)                            -    
+       
+25  Accumulated General Depreciation  Attachment 5                            -    
+26  Accumulated Intangible Depreciation  Attachment 5                            -    
+27  Accumulated Common amortization - Electric  Attachment 5                            -    
+28  Common Plant Accumulated Depreciation (Electric Only)   Attachment 5                            -    
+29  Total Accumulated General, Intangible and Common Depreciation  (Sum Lines 25 to 28)                            -    
+30  Wage & Salary Allocation Factor  (Line 5)  0.00000% 
+31  General & Common Allocated to Transmission   (Line 29 * Line 30)                             -    
+       
+32 TOTAL Transmission-Related Accumulated Depreciation   (Line 24 + Line 31)                             -    
+       
+33 TOTAL Transmission-Related Net Property, Plant & Equipment   (Line 21 - Line 32)                             -    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 2 
+Adjustment To Rate Base         
+       
+ Accumulated Deferred Income Taxes (Note R)    
+34  ADIT net of FASB 106 and 109 Enter Negative Attachment 1, Col B, Line 9                             -    
+35  Accumulated Deferred Income Taxes Allocated To Transmission   Line 34                            -    
+       
+ CWIP for Incentive Transmission Projects      
+36  CWIP Balance for Current Rate Year   (Note P) Attachment 6,                              -    
+37  Total CWIP for Incentive Transmission Projects                               -    
+       
+38 Plant Held for Future Use  (Note C) Attachment 5                            -    
+       
+ Transmission O&M Reserves     
+39  Total Balance Transmission Related Account 242 Reserves Enter Negative Attachment 5                            -    
+       
+ Prepayments     
+40  Prepayments  (Note A) Attachment 5                            -    
+41  Total Prepayments Allocated to Transmission   (Line 40)                             -    
+       
+ Materials and Supplies     
+42  Undistributed Stores Exp (Note A) Attachment 5                            -    
+43  Wage & Salary Allocation Factor   (Line 5)   0.00% 
+44  Total Transmission Allocated  (Line 42 * Line43)                            -    
+45  Transmission Materials & Supplies  Attachment 5                            -    
+46  Total Materials & Supplies Allocated to Transmission   (Line 44 + Line45)                             -    
+       
+ Cash Working Capital     
+47  Operation & Maintenance Expense  (Line 75)                            -    
+48  1/8th Rule  x 1/8  12.5% 
+49  Total Cash Working Capital Allocated to Transmission   (Line 47 * Line 48)                       -    
+       
+       
+50 TOTAL Adjustment to Rate Base   (Lines 35 + 37 + 39 + 41 + 46 + 49)                             -    
+       
+51 Rate Base   (Line 33 + Line 50)                             -    
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 3 
+ 
+       
+O&M             
+       
+ Transmission O&M     
+52  Transmission O&M  p321.112.b                            -    
+53       Less Account 565  p321.96.b                            -    
+54       Plus PJM Schedule 12 Charges billed to DLC and booked to Account 565 (Note N) PJM Data                            -    
+55       Plus  Net Transmission Lease Payments (Note A) p200.4.c                            -    
+56  Transmission O&M   (Lines 52 - 53 + 54 + 55)                             -    
+ Allocated General & Common Expenses     
+57  Common Plant O&M (Note A) p356                            -    
+58  Total A&G  p323.197.b                            -    
+59      Less PBOP Expense in Acct. 926 in Excess of Allowed Amount  Attachment 5                            -    
+60      Less Property Insurance Account 924  p323.185.b                            -    
+61      Less Regulatory Commission Expense Account 928 (Note E) p323.189.b                            -    
+62      Less General Advertising Expense Account 930.1  p323.191.b                            -    
+63      Less EPRI Dues (Note D) p352-353    
+64  General & Common Expenses   (Lines 57 thru 58) -  Sum (Lines 59 to 63)                             -    
+65  Wage & Salary Allocation Factor  (Line 5)  0.0000% 
+66  General & Common Expenses Allocated to Transmission   (Line 64 * Line 65)                             -    
+ Directly Assigned A&G     
+67  Regulatory Commission Exp Account 928 (Note G) Attachment 5                            -    
+68  General Advertising Exp Account 930.1 (Note K) Attachment 5                             -    
+69  Subtotal - Transmission Related  (Line 67 + Line 68)                      -    
+70  Property Insurance Account 924  Line 60                            -    
+71  General Advertising Exp Account 930.1 (Note F) Attachment 5                             -    
+72  Total   (Line 70 + Line 71)                            -    
+73  Net Plant Allocation Factor  (Line 12)  0.00% 
+74  A&G Directly Assigned to Transmission   (Line 72 * Line 73)                       -    
+75  Total Transmission O&M   (Lines 56 + 66 + 69 + 74)                             -    
+Depreciation & Amortization Expense         
+ Depreciation & Amortization Expense     
+76  Transmission Depreciation Expense  Attachment 8, Col. (D)                            -    
+76a  Amortization of Abandoned Plant Projects (Note T) Attachment 5                            -    
+77  New plant Depreciation Expense only for Estimate (Note B) Attachment 6,                              -    
+78  Total Transmission Depreciation and Amortization Expense  (Line 76 + Line 76a + Line 77)                      -    
+       
+79  General Depreciation  Attachment 8, Col. (D)                            -    
+80  Intangible Amortization (Note A) p336.1f                            -    
+81  Total  (Line 79 + Line 80)                            -    
+82  Wage & Salary Allocation Factor   (Line 5)   0.0000% 
+83  General Depreciation Allocated to Transmission  (Line 81 * Line 82)                      -    
+84  Common Depreciation - Electric Only (Note A) p336.11.b                            -    
+85  Common Amortization - Electric Only (Note A) p356 or p336.11d                            -    
+86  Total  (Line 84 + Line 85)                            -    
+87  Wage & Salary Allocation Factor   (Line 5)   0.0000% 
+88  Common Depreciation - Electric Only Allocated to Transmission  (Line 86 * Line 87)                      -    
+89 Total Transmission Depreciation & Amortization   (Lines 78 + 83 + 88)                             -    
+Taxes Other than Income                                                             
+90 Taxes Other than Income  Attachment 2                            -    
+91 Total Taxes Other than Income   (Line 90)                             -    
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 4 
+Return / Capitalization Calculations         
+ Long Term Interest     
+92  Long Term Interest (Note Q) Attachment 5                            -    
+93  Amortization of Debt Discount and Expense  p117.63c                            -    
+94  Amortization of Loss on Reacquired Debt  p117.64c                            -    
+95  Less Amort of Gain on Reacquired on Debt-Credit  p117.65c                            -    
+96  Less Amort of Premium on Debt-Credit  p117.66c                            -    
+97   Interest on Debt to Associated Companies   p117.67.c                             -    
+98  Total Long Term Debt Costs  (Sum lines 92 to 94) - Line 95 - Line 96 + Line 97                            -    
+99 Preferred Dividends  Enter Positive p118.29c                            -    
+ Common Stock     
+100  Proprietary Capital  p112.16c                            -    
+101      Less Accumulated Other Comprehensive Income Account 219  p112.15c                            -    
+102      Less Preferred Stock  (Line 110)                            -    
+103      Less Account 216.1   p112.12c                             -    
+104  Common Stock  (Line 100  -  (Sum Lines 101  to 103))                            -    
+ Capitalization     
+105  Long Term Debt     
+106        Bonds  Attachment 5                            -    
+107        Less Loss on Reacquired Debt Enter Negative p111.81.c                            -    
+108       Plus Gain on Reacquired Debt   p113.61.c                             -    
+109  Total Long Term Debt  Sum (Lines 105 to Line 108)                            -    
+110  Preferred Stock  p112.3c                            -    
+111  Common Stock  (Line 104)                            -    
+112  Total  Capitalization   (Sum Lines 109 to 111)                             -    
+113  Debt %  (Line 109 / Line 112)  0.0% 
+114  Preferred %  (Line 110 / Line 112)  0.0% 
+115  Common % (Note O) (Line 111 / Line 112)  0.0% 
+116  Debt Cost  (Line 98 / Line 109)                            -    
+117  Preferred Cost  (Line 99 / Line 110)                            -    
+118  Common Cost (Note J) 10.9% ROE + .5% RTO Adder                                   0.1140 
+119  Weighted Cost of Debt  (Line 113 * Line 116)                            -    
+120  Weighted Cost of Preferred  (Line 114 * Line 117)                            -    
+121   Weighted Cost of Common   (Line 115 * Line 118)                             -    
+122 Total Return ( R )  (Sum Lines 119 to 121)                            -    
+123 Investment Return = Rate Base * Rate of Return   (Line 51 * Line 122)                             -    
+Composite Income Taxes                                                                                                              
+  Income Tax Rates     
+124  FIT=Federal Income Tax Rate (Note I)   0.00% 
+125  SIT=State Income Tax Rate or Composite    0.00% 
+126  p   (percent of federal income tax deductible for state purposes)  Per State Tax Code  0.00% 
+127  T   =1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =    0.00% 
+128  T/ (1-T)    0.00% 
+ ITC Adjustment (Note I)    
+129  Amortized Investment Tax Credit enter negative Attachment 1                            -    
+130  1/(1-T)  1 / (1 - Line 127)  100.00% 
+131  Net Plant Allocation Factor   (Line 12)  0.0000% 
+132  ITC Adjustment Allocated to Transmission  (Line 129 * (1 + Line 130) * Line 131)                       -    
+ 
+ Other Income Tax Adjustments      
+132a  Other Income Tax Adjustments (Note S) Attachment 5                            -    
+133 Income Tax Component = CIT = (T/1-T) * Investment Return * (1-(WCLTD/R)) =  [Line 128 * Line 123 * (1 - (Line 119 / Line 122))]                           -    
+134 Total Income Taxes   (Line 132 + Line 132a + Line 133)                             -    
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 5 
+REVENUE REQUIREMENT         
+ Summary     
+135  Net Property, Plant & Equipment  (Line 33)                            -    
+136  Adjustment to Rate Base  (Line 50)                            -    
+137  Rate Base   (Line 51)                             -    
+138  O&M  (Line 75)                            -    
+139  Depreciation & Amortization  (Line 89)                            -    
+140  Taxes Other than Income  (Line 91)                            -    
+141  Investment Return  (Line 123)                            -    
+142  Income Taxes  (Line 134)                            -    
+143   Gross Revenue Requirement   (Sum Lines 138 to 142)                       -    
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities   
+144  Transmission Plant In Service  (Line 13)                            -    
+145  Excluded Transmission Facilities (Note M) Attachment 5                            -    
+146  Included Transmission Facilities  (Line 144 - Line 145)                            -    
+147  Inclusion Ratio  (Line 146 / Line 144)  0.00% 
+148  Gross Revenue Requirement   (Line 143)                            -    
+149  Adjusted Gross Revenue Requirement  (Line 147 * Line 148)                            -    
+150  Revenue Credits  Attachment 3                            -    
+151   Net Revenue Requirement   (Line 149 - Line 150)                       -    
+ Net Plant Carrying Charge     
+152  Gross Revenue Requirement  (Line 143)                            -    
+153  Net Transmission Plant  (Line 13 - Line 22)                            -    
+154  Net Plant Carrying Charge    (Line 152 / Line 153)  0.0000% 
+155  Net Plant Carrying Charge without Depreciation  (Line 152 - Line 76) / Line 153  0.0000% 
+156  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes  (Line 152 - Line 76 - Line 123 - Line 134) / Line 153  0.0000% 
+ Net Plant Carrying Charge Calculation per 100 Basis Point increase in ROE     
+157  Gross Revenue Requirement Less Return and Taxes  (Line 143 - Line 141 - Line 142)                            -    
+158  Increased Return and Taxes  Attachment 4                            -    
+159  Net Revenue Requirement per 100 Basis Point increase in ROE  (Line 157 + Line 158)                            -    
+160  Net Transmission Plant  (Line 13 - Line 22)                            -    
+161  Net Plant Carrying Charge per 100 Basis Point increase in ROE  (Line 159 / Line 160)  0.0000% 
+162  Net Plant Carrying Charge per 100 Basis Point increase in ROE without Depreciation (Line 159 - Line 76) / Line 160  0.0000% 
+163  Net Revenue Requirement  (Line 151)                            -    
+164  True-up amount  Attachment 6                            -    
+165  Plus any increased ROE calculated on Attachment 7 other than PJM Sch. 12 projects Attachment 7                            -    
+166  Facility Credits under Section 30.9 of the PJM OATT  Attachment 5                             -    
+167  Net Zonal Revenue Requirement  Sum (Lines 163 to 166)                            -    
+ Network Zonal Service Rate     
+168  1 CP Peak (Note L) Attachment 5                      -    
+169  Rate ($/MW-Year)  (Line 167 / Line 168)                      -    
+170   Network Service Rate ($/MW/Year)   (Line 169)                       -    
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 6 
+Notes     
+A Electric portion only. 
+     
+B Excludes leases that are expensed as O&M (rather than amortized).  Includes new Transmission plant that is expected to be placed in service in the current calendar year.  New  
+Transmission plant expected to be placed in service in the current calendar year that is not included in the PJM Regional Transmission Expansion Plan (RTEP) must be separately 
+detailed on Attachment 6.   Lines 14, 23, and 77 refer to Attachment 6, Step 2 in the first year and Step 9 in all subsequent years; line 36 use Step 6 for True Up and Step 9 for 
+Estimate). For the estimate, all rate base items will be calculated based on end of year data, except transmission plant additions, retirements and depreciation will be calculated 
+based on 13 month averages.  For the True-up, transmission and distribution plant and the associated depreciation reserve shall be calculated using the average of 13 monthly  
+balances in Attachment 5 and all other rate base items, excluding Cash Working Capital, shall be calculated using beginning and end of year averages in Attachment 5 or Attachment  
+1. Include on line 36, the 13 monthly average CWIP balance on Attachment 6 for FERC authorized incentive transmission projects shown on Attachment 6. 
+   
+C Includes Transmission Portion Only.  Only land held for future use that has an estimated in service date within the next ten years may be included. 
+  
+D Excludes All EPRI Annual Membership Dues.   
+  
+E Includes All Regulatory Commission Expenses.    
+  
+F Includes transmission system safety related advertising included in Account 930.1.    
+  
+G Includes Regulatory Commission Expenses directly related to transmission service, RTO filings, or transmission siting itemized in Form 1 at 351.h.  
+  
+H Reserved for future use.   
+  
+I The currently effective income tax rate,  where FIT is the Federal income tax rate; SIT is the State income tax rate, and p =  
+  
+ the percentage of federal income tax deductible for state income taxes.  If the utility includes taxes in more than one state, it must explain in  
+  
+   Attachment 5 the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that 
+  
+   elected to use amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce  
+  
+   rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f) 
+  
+   multiplied by (1/1-T).  A utility must not include tax credits as a reduction to rate base and as an amortization against taxable income. 
+  
+J ROE will be supported in the original filing and no change in ROE will be made absent a Section 205 filing at FERC.  
+  
+K Education and outreach expenses relating to transmission, for example siting or billing.    
+  
+L As provided for in Section 34.1 of the PJM OATT; the PJM established billing determinants will not be revised or updated in the annual rate reconciliations. 
+  
+M Amount of transmission plant excluded from rates per Attachment 5.   
+  
+N Payments made under Schedule 12 of the PJM OATT that are not directly assessed to load in the Zone under Schedule 12 are included in Transmission O&M on line 54.  If they are booked to 
+Acct 565, they are included on line 54. 
+ 
+O The equity component of DLC' capital structure shall not be greater than 59 percent, nor less than 45 percent, regardless of Duquesne’s actual capital structure.  When DLC's equity  
+component falls within the stated range, DLC shall use its actual capital structure.   
+ 
+ 
+The input value on line 100 -- Proprietary Capital -- shall be adjusted so that the equity percentage shown on line 115 will be 45% if the actual equity percentage is less than 45%  
+or 59% if the actual equity percentage is above 59%. 
+  
+P Include on line 36, the 13 monthly average CWIP balance on Attachment 6 for FERC authorized incentive transmission projects shown on Attachment 6. 
+Q DLC will include interest associated with debt that is outstanding using 13 monthly averages at the end of the FERC Form No. 1 year.  Therefore only interest included in column I on  
+page 257 of the FERC Form No. 1 that has an outstanding amount included in column H will be included in the interest calculation.   
+  
+R 
+ 
+Includes the transmission-allocated portions of the balances in Accounts 190, 281, 282 and 283 and the transmission-allocated portions of the tax-related portions of Accounts 182.3 and 254.  
+Accumulated deferred income tax amounts associated with asset or liability accounts excluded from rate base (such as ADIT related to other post-employment benefit costs and certain tax-related 
+regulatory assets or liabilities) do not affect rate base.  To maintain rate base neutrality upon changes in income tax laws, income tax rates, and other actions taken by a tax authority, resulting 
+unamortized deficient or (excess) ADIT is included without tax gross-up.  Supporting information is provided in Attachment 1. 
+   
+S Effective June 1, 2020, includes amounts associated with the amortization of any deficient or (excess) deferred income taxes (resulting from changes in income tax laws, income tax rates, and 
+other actions taken by a tax authority).  See Attachment 5 for detail of Other Income Tax Adjustments and Attachment 9 for detail of Amortization of Deficient or (Excess) Accumulated Deferred 
+Income Taxes.   
+T Amortization of Abandoned Plant may only be included pursuant to a Commission Order authorizing such inclusion.  The Company must submit a Section 205 filing to recover the cost of 
+abandoned plant.   
+    
+END             
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 7 
+ A B C D E F G H I 
+  End of Year 
+Beg of 
+Year Average Gas, Prod Only    
+  
+Total Total  Or Other Transmissio
+n 
+Plant Labor 
+ 
+  
+   Related Related Related Related 
+ 
+          
+Line 
+#          
+1 ADIT-190 (enter negative) - line 41                    -    
+                   
+-    
+                   
+-                       -                      -                       -                       -     
+2 ADIT- 282 -- line 46                    -    
+                   
+-    
+                   
+-                       -                      -                       -                       -     
+3 ADIT- 283 -- line 59                    -    
+                   
+-    
+                   
+-                       -                      -                       -                       -     
+4 Subtotal -- Sum (line 1 + line 2 + line 3)                    -    
+                   
+-    
+                   
+-                       -                      -                       -                       -     
+5 Wages & Salary Allocator -- Appendix A line 5       0.0000%  
+6 Gross Plant Allocator -- Appendix A line 10      0.0000%   
+7 Transmission Allocator     100%    
+8 All other    0%     
+9 ADIT                    -                         -                      -                       -                       -    
+Enter Column B as a negative on Appendix A, line 34.  (Column B = Sum of Columns F 
+through H) 
+     line 8 * line 4 line 7 * line 4 line 6 * line 4 line 5 * line 4  
+          
+          
+                     -    <from Acct 283 below      
+          
+ In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns C-F and each separate ADIT item will be listed,  
+ dissimilar items with amounts exceeding $100,000 will be listed separately.       
+          
+ Instructions for Account 190, 282 and 283:                 
+ 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column E. 
+ 2.  ADIT items related only to Transmission are directly assigned to Column F.         
+ 
+3.  ADIT items related to plant and not in Columns A & B are included in 
+Column G.         
+ 
+4.  ADIT items related to labor and not in Columns A & B are included in 
+Column H.         
+ 5.  Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in the formula,  
+ the associated ADIT amount shall be excluded.          
+ 
+6.  All ADIT line items and allocations will be supported by the settlement in Docket No. ER06-1549 and no change in allocation will be allowed absent a filing at 
+FERC.    
+ 7.  Any new ADIT items will be clearly marked and separated in each account from the settled items for review.         
+          
+ A B C D E F G H I 
+  End of Year Beg of Year 
+End of Year 
+for Est. 
+Average  
+for Final Gas, Prod Only    
+  Total Total Total Or Other Transmission Plant Labor  
+  
+   Related Related Related Related 
+Justification 
+ ADIT-190            
+10 
+Other regulatory assets/liabilities - Transmission 
+plant                    -                       -                       -                         -        
+Transmission-related tax-related net regulatory assets/liabilities not related to tax law change 
+remeasurements (prior to gross-up).  Recorded in Account 254.  Removed from rate base as 
+a FASB 109 item below. 
+11 
+Tax gross-up on other regulatory assets/liabilities - 
+Transmission plant                    -                       -                       -                         -        
+Gross-up for income tax due on transmission-related tax-related net regulatory 
+assets/liabilities other than tax law change remeasurements (Line 10) excess ADIT.  
+Formerly referred to as FAS 109 Tax Gross-Up.  Recorded in Account 254.  Removed from 
+rate base as a FASB 109 item below. 
+12 
+Excess ADIT regulatory liability - Transmission 
+plant (from Attachment 9.2, Line 4, Columns F and 
+H)                    -                       -                       -                         -        
+Remeasurement of deferred tax liabilities in Account 282 for income tax rate changes on 
+transmission plant-related book/tax differences (prior to gross-up) with an offset to 
+regulatory liability Account 254.  Specific allocation of excess ADIT between transmission 
+and distribution determined by underlying functional records.  General plant excess ADIT 
+allocated to transmission using the wage and salary allocator.  Transmission excess ADIT 
+agreed to Attachment 9.2.  Removed from rate base as a FASB 109 item below.  
+13 
+Tax gross-up on excess ADIT regulatory liability - 
+Transmission plant                    -                       -                       -                         -        
+Gross-up for income tax due on transmission plant-related excess ADIT (Line 12).  
+Recorded in Account 254.  Removed from rate base as a FASB 109 item below. 
+14 
+Other tax-related regulatory assets/liabilities - 
+Distribution/other plant                    -                       -                       -                       -          
+Distribution/other-related tax-related net regulatory assets/liabilities not related to tax law 
+change remeasurements.  Recorded in Account 254.  Removed from rate base as a FASB 
+109 item below. 
+15 
+Tax gross-up on other tax-related regulatory 
+assets/liabilities - Distribution/other plant                    -                       -                       -                       -          
+Gross-up for income tax due on distribution/other-related tax-related net regulatory 
+assets/liabilities other than excess ADIT (Line 14).  Formerly referred to as FAS 109 Tax 
+Gross-Up.  Recorded in Account 254.  Removed from rate base as FASB 109 item below. 
+16 
+Excess ADIT regulatory liability - Distribution/other 
+plant                    -                       -                       -                       -          
+Remeasurements of deferred tax liabilities in Account 282 for income tax rate changes on 
+distribution/other plant-related book/tax differences (prior to gross-up) with an offset to 
+regulatory liability Account 254.  Specific allocation of excess ADIT between transmission 
+and distribution determined by underlying functional records.  General plant excess ADIT 
+allocated to distribution using the wage and salary allocator.  Removed from rate base as a 
+FASB 109 item below.  
+17 
+Tax gross-up on excess ADIT regulatory liability - 
+Distribution/other plant                     -                       -                       -                       -          
+Gross-up for income tax due on distribution/other-related excess ADIT (Line 16).  Formerly 
+referred to as FAS 109 Tax Gross-Up.  Recorded in Account 254.  Removed from rate base 
+as a FASB 109 item below. 
+18 
+Excess ADIT regulatory liability – Transmission 
+non-property-related (from Attachment 9.2, Line 5, 
+Columns F and H)                    -                       -                       -                         -        
+Remeasurement of deferred tax liabilities in Accounts 190 and 283 (prior to gross-up) for 
+income tax rate changes on transmission-related book/tax differences not related to plant 
+with an offset to regulatory liability Account 254.  Non-plant excess ADIT allocated to 
+transmission using the wage and salary allocator.  Transmission non-plant excess ADIT 
+agreed to permanent worksheet Attachment 9.2.  Removed from rate base as a FASB 109 
+item below. 
+19 
+Tax Gross-up on excess ADIT regulatory liability – 
+Transmission non-property-related                     -                       -                       -                         -        
+Gross-up for income tax due on non-plant transmission-related excess ADIT (Line 18).  
+Corresponding amount recorded in Account 254.  Removed from rate base as FASB 109 
+item below. 
+20 
+Deficient ADIT regulatory asset – Transmission non-
+property-related (from Attachment 9.2, Line 9, 
+Columns F and H)                    -                       -                       -                        -      
+Remeasurement of deferred tax assets in account 190 (prior to tax gross-up) for income tax 
+rate changes on transmission-related book/tax differences not related to plant with an offset 
+to regulatory asset account 182.3.  Non-plant deficient ADIT allocated to transmission using 
+the wage and salary allocator.  Transmission non-plant deficient ADIT agreed to Attachment 
+9.2.  Removed from rate base as a FASB 109 item below. 
+21 
+Tax Gross-up on deficient ADIT regulatory liability 
+– Transmission non-property-related                     -                       -                       -                        -      
+Gross-up for income tax due on non-plant transmission-related excess ADIT (line 20).  
+Corresponding amount recorded in account 182.3.  Removed from rate base as FASB 109 
+item below. 
+22 Vacation Pay                    -                       -                       -          
+                   
+-    
+Vacation pay earned and expensed for books, tax deduction when paid - employees in all 
+functions 
+23 Reserve for Healthcare                    -                       -                       -                       -          
+Self Insurance reserve expanded for books, tax deduction when paid - employees in all 
+functions 
+24 Reserve for Compensated Absences                    -                       -                       -                       -          
+Vacation pay accrued and expensed for books, tax deduction when paid - employees in all 
+functions 
+25 Severance Pay                    -                       -                       -          
+                   
+-    
+Book expenses related to 2001 workforce reduction, tax deduction when paid - related to all 
+functions 
+26 FAS 106                    -                       -                       -          
+                   
+-    FAS postretirement benefit liability 
+27 FAS 87 Pension Liability                    -                       -                       -          
+                   
+-    FAS 87 pension liability recorded in other comprehensive income 
+28 Pension                     -                       -                       -          
+                   
+-    Book accrual for pension contributions 
+29 Pension Regulatory Liability                    -                       -                       -          
+                   
+-    Regulatory Liability associated with adoption of FAS 158 
+30 Operations Reserve                    -                       -                       -                       -          
+Book expenses related to 2000 generation asset sale, tax deduction pending IRS audit 
+resolution 
+31 Warwick Mine Closing Costs                    -                       -                       -                       -          Costs expensed related to 2000 generation asset sale, tax deduction when paid 
+32 Bad Debt Reserve Amount                    -                       -                       -                       -          
+Book expense for bad debts, tax deduction when fully written-off and all collection efforts 
+abandoned - relates to all functions 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 8 
+33 Stock Investments                    -                       -                       -                       -          Duquesne Light Co. investment in parent Company stock, not taxable within related group 
+34 Unamortized ITC                    -                       -                       -                           -      Investment Tax credit benefit recognized for tax, deferred and amortized ratably for books 
+35 Capital Stock Tax                    -                       -                       -                       -          
+Book capital stock estimate accrued and expensed, tax deduction when paid - related to all 
+functions 
+36 Gross Receipts Tax                    -                       -                       -                       -          
+Book gross receipts tax estimate accrued and expensed, tax deduction when paid - relates to 
+all functions 
+37 Accrued PURTA                    -                       -                       -                       -          
+Book PURTA tax estimate accrued and expensed, tax deduction when paid - relates to all 
+functions 
+38 Accrued Sales and Use Tax                    -                       -                       -                       -          
+Book sales & use tax estimate accrued and expensed, tax deduction when paid - relates to all 
+functions 
+39 Unamortized Gain on Reacquired Debt                    -                       -                       -                           -      
+Gain recognized for tax purposes, deferred and recognized ratably for book purposes - 
+relates to all functions 
+40 Reserve - legacy issues                    -                       -                       -                       -          
+Book reserve related to environmental remediation for generation assets, tax deductible 
+when paid 
+41 Provision for injuries and damages                    -                       -                       -                       -          Reserve expensed for books, tax deduction when paid - employees in all functions 
+42 Accrued Rent                    -                       -                       -                       -          Rent accrued on corporate headquarters, tax deduction when paid - relates to all functions 
+43 ITRON settlement                    -                       -                       -                       -          
+Investment recovery included in taxable income when received, deferred for book purposes - 
+relates to all functions 
+44 Aff Housing tax recapture bond 
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-       Accrued bond expense, tax deduction when paid 
+45 Legal Accrual                    -                       -                       -          
+                   
+-    Legal reserve expensed for books, tax deduction when paid - relates to all functions 
+46 Accrued Franchise Tax 
+                   
+-    
+                   
+-    
+                   
+-         
+47 Accrued Misc. Taxes 
+                   
+-    
+                   
+-    
+                   
+-         
+48 Accrued Misc Reserves 
+                   
+-    
+                   
+-    
+                   
+-          
+                   
+-      
+49 XXXX         
+50 
+Subtotal - p234 (Sum line 10 through 
+line 49) 
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-                      -    
+                   
+-    
+                   
+-      
+51 
+Less FASB 109 Above if not 
+separately removed 
+                   
+-                Includes amounts on Lines 10 – 21.  
+52 
+Less FASB 106 Above if not 
+separately removed 
+                   
+-    
+                   
+-    
+                   
+-          
+                   
+-    Includes amount on Line 26. 
+53 Total = Line 50 - (Line 52 + line 51) 
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-                      -    
+                   
+-    
+                   
+-      
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 9 
+ A B C D E F G H I 
+  
+End of 
+Year Beg of Year 
+End of Year 
+for Est. 
+Average for  
+Final Gas, Prod Only    
+  Total Total  Or Other Transmission Plant Labor  
+     Related Related Related Related Justification 
+ ADIT- 282         
+54 Accelerated Depreciation – Transmission                    -                       -                       -                         -        
+Differences between book and tax basis in 
+transmission plant, including capitalization 
+differences and differences between methods and 
+lives used for accelerated tax depreciation and 
+depreciation used for ratemaking purposes.  
+Specific allocation between transmission and 
+distribution determined by underlying functional 
+records.  General plant allocated between 
+transmission and distribution using the wage and 
+salary allocator.  Remeasurement due to tax law 
+changes (net of subsequent amortization) is 
+reflected on Line 12. 
+55 Accelerated Depreciation – Distribution/Other                    -                       -                       -                       -          
+Differences between book and tax basis in 
+distribution/other plant, including capitalization 
+differences and differences between methods and 
+lives used for accelerated tax depreciation and 
+depreciation used for ratemaking purposes.  
+Specific allocation between transmission and 
+distribution determined by underlying functional 
+records.  General plant id allocated between 
+transmission and distribution using the wage and 
+salary allocator.  Remeasurement due to tax law 
+changes (net of subsequent amortization) is 
+reflected on Line 16. 
+56 Subtotal – p275                    -                       -                       -                       -                      -                       -                       -      
+57 
+Less FASB 109 Above if not separately 
+removed                    -                       -                       -                           -        
+58 
+Less FASB 106 Above if not separately 
+removed                        -              
+59 Total = Line 56 - (Line 58 + Line 57)                    -                       -                       -                       -                      -                       -                       -      
+          
+ A  B   C  D  E   F   G   H  I 
+  
+End of 
+Year Beg of Year 
+End of Year 
+for Est. 
+Average for 
+Final Gas, Prod Only    
+  Total Total  Or Other 
+Transmissio
+n Plant Labor  
+     Related Related Related Related Justification 
+          
+ ADIT-283         
+60 Amort Loss on Reacquisition                    -                       -                       -                           -      
+The cost of bond redemption is deductible 
+currently for tax purposes and is amortized over 
+the life of the new bond issue for book purposes.  
+Related to all functions 
+61 Partnership investments                    -                       -                       -                       -          
+Difference in book versus tax basis in partnership 
+investments 
+62 Regulatory Assets                    -                       -                       -                       -          
+Asset due to rate regulated capitalization of 
+incurred costs that would otherwise be charge to 
+expense 
+63 State Income Taxes                    -                       -                       -                           -      
+Book sale income tax accrued and expensed, tax 
+deduction when paid - relates to all functions 
+64 Pension Regulatory asset                    -                       -                       -                             -    
+Regulatory asset associated with adoption of FAS 
+158 
+65 Prepaid Pension cost                    -                       -                       -                             -    Pension assets/liabilities associated with FAS 87 
+66 Other                    -                       -                       -                       -            
+67 
+Subtotal - p277  (Form 1-F filer:  see note 6, 
+below)                    -                       -                       -                       -                      -                       -                       -      
+68 
+Less FASB 109 Above if not separately 
+removed                    -                       -                       -                       -                      -                       -                       -      
+69 
+Less FASB 106 Above if not separately 
+removed                    -                                 -      
+70 Total = Line 67 - (Line 69 + line 68)                    -                       -                       -                       -                      -                       -                       -      
+          
+ ADITC-255         
+   Item Amortization       
+             
+             
+ Amortization           
+ Amortization to line 129 of Appendix A Total                    -          
+             
+ Total                      -          
+             
+ Total Form No. 1 (p 266 & 267)                      -          
+ Difference  /1                      -          
+          
+ /1 Difference must be zero or the difference included in Appendix A.        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 10 
+   FERC Form No. 1   Allocated 
+Other Taxes Page 263  Allocator Amount 
+   Col (i)    
+ Plant Related   Gross Plant Allocator  
+ 1 PA Capital Stock Tax line 15                    -      
+ 2 Real Estate  line 33                    -      
+ 3 PA PURTA line 13                    -      
+ 4 Total Plant Related -- Sum of line 1 through line 3                    -    0.00%  $            -    
+       
+       
+     Wages & Salary Allocator   
+       
+       
+ 5 Federal Unemployment line 4                    -      
+ 6 FICA line 5                    -      
+ 7 PA Unemployment line 18                    -      
+ 8 City of Pittsburgh line 34                    -      
+ 9 Total Labor Related -- Sum of line 5 through line 8                    -    0.00%  $            -    
+       
+       
+ Other Excluded   All other  
+       
+ 10 Highway Use line 6                    -      
+ 11 Excise Tax on Coal line 7                    -      
+ 12 PA Gross receipts Tax line 14                    -      
+ 13 PA Corporate Loans line 16                    -      
+ 14 PA Insurance Premiums line 17                    -      
+ 15 PA Fuel Use line 19                    -      
+ 16 PA Motor Carriers line 20                    -      
+ 17 PA Other line 21                    -      
+ 18 WV Franchise line 26                    -      
+ 19 WV Income line 27                    -      
+ 20 Gross Receipts line 32                    -      
+       
+ 21 Total Excluded                     -    0.00%   
+       
+ 22 Total    (line 4 + line 9 + line 21                     -      $            -    
+       
+ 23 Total ‘Other’ Taxes included on p.114.14c                     -      
+       
+  Difference (line 23-line 22) Note E                     -      
+       
+ Criteria for Allocation:     
+ 
+A All Taxes Other than Income Tax line items and allocations will be supported by the settlement in Docket No.  
+ER06-1549 and no change in allocation will be allowed absent a filing at FERC. 
+ 
+B Any new Taxes Other than Income Tax will be clearly marked and separated in each account from the settled  
+items for review. 
+ 
+C Other taxes that are incurred through ownership of plant including transmission plant will be allocated based on  
+the Gross Plant Allocator.  If the taxes are 100% recovered at retail they may not be included. 
+ 
+D Other taxes that are incurred through ownership of only general or intangible plant will be allocated based on the  
+Wages and Salary Allocator.  If the taxes are 100% recovered at retail they may not be included. 
+ E Other taxes that are assessed based on labor will be allocated based on the Wages and Salary Allocator. 
+ 
+F Other taxes, except as provided for in C, D and E above, which include amounts related to transmission service,  
+will be allocated based on the Gross Plant Allocator. 
+ G Excludes prior period adjustments for periods before January 1, 2007.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 11 
+Duquesne Light Company 
+Attachment 5 – Cost Support 
+Electric / Non-electric Cost Support 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Electric 
+Portion 
+Non-electric  
+Portion Details 
+  Plant Allocation Factors          
+10  Accumulated Intangible Depreciation (Note A) p200.21.c      
+11  Accumulated Common amortization – Electric (Note A) p356      
+12  
+Accumulated Common Plant Depreciation (Electric 
+Only) (Note A) p356      
+  Plant In Service         
+25  Common Plant (Electric Only) (Note A) p356      
+ Accumulated Deferred Income Taxes       
+42  Accumulated Investment Tax Credit Account No. 255       
+  Materials and Supplies         
+48  Undistributed Stores Expense (Note A) Attachment 1 p227.6.c & 16.c      
+  Allocated General & Common Expenses         
+66       Plus Transmission Lease Payments (Note A) p200.4.c      
+68  Common Plant O&M (Note A) p356      
+  Depreciation Expense         
+88  Intangible Amortization (Note A) p336.1.d&e      
+92  Common Depreciation – Electric Only (Note A) p336.11.b      
+93   Common Amortization – Electric Only (Note A) 
+p356 or 
+p336.11.d         
+Transmission / Non-transmission Cost Support 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form Amount 1 
+ 
+Transmission 
+Related 
+ 
+Non-
+Transmission 
+Related Details 
+29   Plant Held for Future Use  (Note C) 
+p21
+4      
+           
+               
+CWIP & Expensed Lease Worksheet 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+CWIP 
+In Form 
+1 
+Amount 
+Expensed 
+Lease in 
+Form 1 
+Amount Details 
+  Plant Allocation Factors         
+6  Electric Plant In Service  
+(Note 
+B) p207.104.g      
+  Plant In Service         
+19  Transmission Plant In Service  
+(Note 
+B) p207.58.g      
+25  Common Plant (Electric Only)  
+(Note 
+A) p356      
+  Accumulated Depreciation             
+31   
+Transmission Accumulated 
+Depreciation   
+ (Note 
+B) p219.25.c         
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 12 
+EPRI Dues Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount 
+EPRI 
+Dues   Details 
+  Allocated General & Common Expenses         
+73       Less EPRI Dues   
+ (Note 
+D) p352 & 353         
+Regulatory Expense Related to Transmission Cost Support 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount 
+Transmis
+sion 
+Related 
+Non-
+transmission 
+Related Details 
+  Directly Assigned A&G             
+77   
+Regulatory Commission Exp Account 
+928   
+(Note 
+G) p324.189.b    FERC Annual Assessment 
+Safety Related Advertising Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount 
+Safety 
+Related 
+Non-safety 
+Related Details 
+  Directly Assigned A&G             
+81   
+General Advertising Exp Account 
+930.1   
+ (Note 
+F) p324.191.b     
+MultiState Workpaper 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions State 1 State 2 State 3 State 4 State 5 Details 
+  Income Tax Rates            
+        PA      
+130   
+SIT=State Income Tax Rate or 
+Composite    (NoteJ)   9.99%           
+Education and Out Reach Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Education 
+& 
+Outreach Other Details 
+  Directly Assigned A&G             
+78   General Advertising Exp Account 930.1 (Note K)   p324.191.b     
+             
+ 
+Excluded Plant Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Excluded 
+Transmissio
+n Facilities Description of the Facilities 
+  Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities           
+150  Excluded Transmission Facilities      General Description of the Facilities 
+                
+   Instructions:     Enter $  
+  
+1 Remove all investment below 69 kV or generator step up transformers included in transmission plant in service that 
+are not a result of the RTEP process. 
+   
+  2 
+If unable to determine the investment below 69kV in a substation with investment of 69 kV and higher as well as 
+below 69 kV, Or  
+   the following formula will be used: Example    Enter $  
+  A Total investment in substation 
+                         
+1,000,000        
+  B 
+Identifiable investment in Transmission (provide 
+workpapers) 
+                            
+500,000        
+  C 
+Identifiable investment in Distribution (provide 
+workpapers) 
+                            
+400,000        
+  D Amount to be excluded (A x (C / (B + C))) 
+                            
+444,444        
+                    
+Add more lines if 
+necessary 
+             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 13 
+A  100 Basis Point increase in ROE and Income Taxes Line 12 + Line 23                        -    
+       
+B  100 Basis Point increase in ROE    1.00% 
+       
+Return Calculation         
+1  Rate Base  Appendix A, Line 51                        -    
+       
+2  Debt % (Line 109 / Line 112) Appendix A, Line 113  0.0% 
+3  Preferred % (Line 110 / Line 112) Appendix A, Line 114  0.0% 
+4  Common % (Line 111 / Line 112) Appendix A, Line 115  0.0% 
+       
+5  Debt Cost (Line 92 / Line 109) Appendix A, Line 116  0.00% 
+6  Preferred Cost (Line 99 / Line 110) Appendix A, Line 117  0.00% 
+7  Common Cost Appendix A % plus 100 Basis Pts Appendix A, Line 118 + 1%  12.40% 
+       
+8  Weighted Cost of Debt (Line 113 * Line 116) Appendix A, Line 119                        -    
+9  Weighted Cost of Preferred (Line 114 * Line 117) Appendix A, Line 120                        -    
+10   Weighted Cost of Common (Line 115 * Line 118) Line 4 * Line 7                         -    
+11   (Sum Lines 119 to 121) Sum Lines 8 to 10                        -    
+       
+12     (Line 51 * Line 122) Line 11 * Line 1                         -    
+       
+Composite Income Taxes                                                                                                              
+       
+13  FIT=Federal Income Tax Rate  Appendix A, Line 124  0.00% 
+14  SIT=State Income Tax Rate or Composite  Appendix A, Line 125  0.00% 
+15  p   (percent of federal income tax deductible for state purposes) Appendix A, Line 126  0.00% 
+16  T   =1 – {[(1 – SIT) * (1 – FIT)] / (1 – SIT * FIT * p)} =  Appendix A, Line 127  0.00% 
+17  T/ (1-T)  Appendix A, Line 128  0.00% 
+       
+ ITC Adjustment     
+18  Amortized Investment Tax Credit; enter negative Attachment 1 Appendix A, Line 129                        -    
+19  1/(1-T) 1 / (1 – Line 127) Appendix A, Line 130  0.00% 
+20  Net Plant Allocation Factor (Line 12) Appendix A, Line 131  0.0000% 
+21  ITC Adjustment Allocated to Transmission (Line 129 * (1 + Line 130) * Line 131) Appendix A, Line 132                   -    
+       
+ Other Income Tax Adjustments     
+21a  Other Income Tax Adjustments Appendix A, Note S Appendix A, Line 132a                        -    
+       
+       
+22 Income Tax Component = CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) = Line 17*Line 12*(1-(Line 8/Line 11))                       -    
+       
+23 Total Income Taxes   (Line 132 + Line 132a + Line 133)                         -    
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 14 
+Plant in Service Worksheet           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions       Details 
+   Calculation of Transmission  Plant In Service Source  Balance For True up Balance for Estimate       
+   December p206.58.b For                         -             
+   January company records For                         -             
+   February company records For                         -             
+   March company records For                         -             
+   April company records For                         -             
+   May company records For                         -             
+   June  company records For                         -             
+   July company records For                         -             
+   August company records For                         -             
+   September company records For                         -             
+   October  company records For                         -             
+   November company records For                         -             
+   December p207.58.g For                         -                            -           
+13  Transmission Plant In Service                           -                            -           
+   Calculation of Distribution Plant In Service Source             
+   December p206.75.b For                         -             
+   January company records For                         -             
+   February company records For                         -             
+   March company records For                         -             
+   April company records For                         -             
+   May company records For                         -             
+   June  company records For                         -             
+   July company records For                         -             
+   August company records For                         -             
+   September company records For                         -             
+   October company records For                         -             
+   November company records For                         -             
+   December p207.75.g For                         -                            -           
+   Distribution Plant In Service                           -                            -           
+   Calculation of Intangible Plant In Service Source             
+   December p204.5.b For                         -             
+   December p205.5.g For                         -                            -           
+16  Intangible Plant In Service                           -                            -           
+   Calculation of General Plant In Service Source             
+   December p206.99.b For                         -             
+   December p207.99.g For                         -                            -           
+16  General Plant In Service                           -                            -           
+   Calculation of Production Plant In Service Source             
+   December p204.46.b For                         -             
+   January company records For                         -             
+   February company records For                         -             
+   March company records For                         -             
+   April company records For                         -             
+   May company records For                         -             
+   June  company records For                         -             
+   July company records For                         -             
+   August company records For                         -             
+   September company records For                         -             
+   October company records For                         -             
+   November company records For                         -             
+   December p205.46.g For                         -                            -           
+   Production Plant In Service                           -                            -           
+                 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 15 
+   Calculation of Common Plant In Service Source             
+   December (Electric Portion) p356 For                         -             
+   December (Electric Portion) p356 For                         -                            -           
+17  Common Plant In Service                           -                            -           
+6  Total Plant In Service Sum of averages above                          -                            -           
+Accumulated Depreciation Worksheet           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions       Details 
+   Calculation of Transmission Accumulated Depreciation Source  Balance For True up Balance for Estimate       
+   December Prior year p219 For                         -             
+   January company records For                         -            
+   February company records For                         -             
+   March company records For                         -             
+   April company records For                         -             
+   May company records For                         -            
+   June  company records For                         -             
+   July company records For                         -            
+   August company records For                         -             
+   September company records For                         -             
+   October company records For                         -             
+   November company records For                         -            
+   December p219.25 For                         -                            -           
+22  Transmission Accumulated Depreciation                           -                            -           
+   Calculation of Distribution Accumulated Depreciation Source            
+   December Prior year p219.26 For                         -             
+   January company records For                         -            
+   February company records For                         -             
+   March company records For                         -             
+   April company records For                         -             
+   May company records For                         -            
+   June  company records For                         -             
+   July company records For                         -            
+   August company records For                         -             
+   September company records For                         -             
+   October  company records For                         -             
+   November company records For                         -            
+   December p219.26 For                         -                            -           
+   Distribution Accumulated Depreciation                           -                            -           
+   Calculation of Intangible Accumulated Depreciation Source            
+   December Prior year p200.21.c For                         -             
+   December p200.21.c For                         -                            -           
+26  Accumulated Intangible Depreciation                           -                            -           
+   Calculation of General Accumulated Depreciation Source            
+   December Prior year p219 For                         -             
+   December p219.28 For                         -                            -           
+25  Accumulated General Depreciation                           -                            -           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - 
+Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 16 
+   Calculation of Production Accumulated Depreciation Source            
+   December Prior year p219 For                         -            
+   January company records For                         -            
+   February company records For                         -            
+   March company records For                         -            
+   April company records For                         -            
+   May company records For                         -            
+   June  company records For                         -            
+   July company records For                         -            
+   August company records For                         -            
+   September company records For                         -            
+   October  company records For                         -            
+   November company records For                         -             
+   December p219.20 thru 219.24 For                         -                            -           
+   Production Accumulated Depreciation                           -                            -           
+   Calculation of Common Accumulated Depreciation Source            
+   December (Electric Portion) p356 For                         -             
+   December (Electric Portion) p356 For                         -                            -           
+28  Common Plant Accumulated Depreciation (Electric Only)                           -                            -           
+7  Total Accumulated Depreciation Sum of averages above                          -                            -           
+                          
+Electric / Non-electric Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Electric 
+Portion 
+Non-electric  
+Portion Details       
+  Plant Allocation Factors              
+26  Accumulated Intangible Depreciation   p200.21.c          
+27  Accumulated Common amortization – Electric   p356          
+28  Common Plant Accumulated Depreciation (Electric Only)   p356          
+  Plant In Service              
+17  Common Plant (Electric Only)   p356          
+  Materials and Supplies              
+42  Undistributed Stores Exp   p227.6.c & 15.c          
+  Allocated General & Common Expenses              
+55       Plus  Net Transmission Lease Payments   p200.4.c          
+57  Common Plant O&M   p356          
+  Depreciation Expense              
+80  Intangible Amortization   p336.1.d&e          
+84  Common Depreciation – Electric Only   p336.11.b          
+85   Common Amortization – Electric Only     p356 or p336.11.d               
+Transmission / Non-transmission Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Beg of year End of Year 
+End of Year 
+for Est. 
+Average for 
+Final Details 
+38   Plant Held for Future Use    p214 Total                         -                         -                            -         
+      
+Non-transmission 
+Related                         -                         -          
+          
+Transmission 
+Related                         -                         -                            -      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 17 
+CWIP & Expensed Lease  Worksheet           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+CWIP In 
+Form 1 
+Amount 
+Expensed 
+Lease in Form 
+1 Amount Details 
+  Plant Allocation Factors         
+6  Total Plant In Service   p207.104.g      
+  Plant In Service         
+13  Transmission Plant In Service   p207.58.g      
+17  Common Plant (Electric Only)   p356      
+  Accumulated Depreciation             
+22   Transmission Accumulated Depreciation     p219.25.c         
+PBOPs Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount PBOBs All other Details 
+  Allocated General & Common Expenses            
+   Account 926 (Prior Year)                             -                         -                            -    Prior Year    
+   Account 926 (Current Year)                             -                         -                            -    Current Year 
+   Change in PBOP Expense                             -                         -          
+  Calculation of allowed increase in PBOP expense recorded in Acct. 926 (increase not to cause more than $.05/kW/Mo in zonal rate):          
+  1 Allowed Change in Rate ($/kW/mo)  0.05            
+  2 Divide zonal rate at Appendix A, line 168 by 1000 and by 12 =                        -               
+  3 Multiply Transmission Net Revenue Requirement (Appendix A, line 165) by ratio of line 1 over line 2                       -               
+  4 Divide line 3 by the wage & salary allocator (Appendix A, line 5)                        -      This is the increase in PBOP expense permitted in the current year.          
+  5 Subtract line 4 from the Change in PBOP expense shown above                        -               
+  6 Enter the result at line 5 on Appendix A, line 62 ONLY if it is positive; otherwise enter zero             
+59      Less PBOP Expense in Acct. 926 in Excess of Allowed Amount                        -               
+EPRI Dues Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount EPRI Dues   Details 
+  Allocated General & Common Expenses         
+63       Less EPRI Dues     p352-353         
+Regulatory Expense Related to Transmission Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Transmission 
+Related 
+Non-
+transmission 
+Related Details 
+  Directly Assigned A&G             
+67   Regulatory Commission Exp Account 928     p323.189.b                         -                              -    FERC Annual Assessment 
+Safety Related Advertising Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Form 1 
+Amount 
+Safety 
+Related 
+Non-safety 
+Related Details 
+  Directly Assigned A&G             
+68   General Advertising Exp Account 930.1     p323.191.b                         -                         -                            -     None  
+MultiState Workpaper           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions State 1 State 2 State 3 State 4 
+State 
+5 Details 
+  Income Tax Rates             
+        PA      
+125   SIT=State Income Tax Rate or Composite       0.00%           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 18 
+Education and Out Reach Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Form 1 Amount 
+Education & 
+Outreach Other Details 
+  Directly Assigned A&G             
+68   General Advertising Exp Account 930.1     p323.191.b                         -                         -                            -     None  
+             
+Excluded Plant Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+Excluded 
+Transmission 
+Facilities Description of the Facilities 
+  Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities           
+145  Excluded Transmission Facilities     0 General Description of the Facilities 
+                
+   Instructions:     Enter $ None 
+  
+1 Remove all investment below 69 kV facilities, including the investment allocated to distribution of a dual function substation, generator,  
+interconnection and local and direct assigned facilities for which separate costs are charged and step-up generation substation included in transmission 
+plant in service. 
+   
+  2 If unable to determine the investment below 69kV in a substation with investment of 69 kV and higher as well as below 69 kV, Or  
+   the following formula will be used: Example    Enter $  
+  A Total investment in substation                          1,000,000        
+  B Identifiable investment in Transmission (provide workpapers)                             500,000        
+  C Identifiable investment in Distribution (provide workpapers)                             400,000        
+  D Amount to be excluded (A x (C / (B + C)))                             444,444        
+                    Add more lines if necessary 
+             
+Transmission Related Account 242 Reserves           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Beg of year End of Year 
+End of Year for 
+Est. Average for 
+Final Allocation Trans Rltd Details   
+39 Transmission Related Account 242 Reserves (exclude current year environmental site related reserves)      Enter $     Amount     
+   Directly Assignable to Transmission              
+    Accrued FERC Assessment                           -                         -                            -         
+                                -                         -                            -    100%                -       
+                
+   Labor Related, General plant related or Common Plant related             
+    Prior Years Severance Expenses                           -                         -                            -         
+    Workmen’s Compensation Liability                           -                         -                            -         
+    Accrued Payroll                            -                         -                            -         
+    Accrued Vacations                            -                         -                            -         
+    Accrued Legal Settlements                            -                         -                            -         
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 19 
+    Employee Benefits                            -                         -                            -         
+    Misc                            -                         -                            -         
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 20 
+                       Other PA PUC Assessment   - - - 0.000% -   
+ PA GRT   - - -     
+                       Plant Related Property Insurance   - - - 0.000% -   
+    - - -  -   
+Materials & Supplies            
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions       Beg of year End of Year 
+End of Year for 
+Est. Average for 
+Final         
+                
+  Assigned to O&M p227.6                           -                         -                            -         
+    Stores Expense Undistributed p227.16                             -                         -                            -         
+42  Undistributed Stores Exp    0                      -                            -         
+                
+45   Transmission Materials & Supplies p227.8                             -                         -                            -            
+             
+             
+Adjustments to Transmission O&M           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Total Allocation Related         
+                 
+55       Plus  Net Transmission Lease Payments              
+                          
+             
+             
+Facility Credits under Section 30.9 of the PJM OATT           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions Amount Description & PJM Documentation  
+  Net Revenue Requirement             
+166   Facility Credits under Section 30.9 of the PJM OATT                               -      
+             
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-17A - Duquesne 
+Effective Date: 5/1/2023 - Docket #: ER23-1222-002 - Page 21 
+PJM Load Cost Support           
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 1 CP Peak 
+Description & PJM 
+Documentation  
+  Network Zonal Service Rate             
+168   1 CP Peak     p401b                         -      
+ 
+Abandoned Transmission Projects 
+ 
+ 
+ 
+ 
+ 
+Attachment A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions 
+ 
+XXXXXX 
+Transmission 
+Project 
+w/o XXXXX.X 
+(DLCo Zone) 
+ 
+XXXXXX 
+Transmission 
+Project 
+XXXXX.X 
+(DLCo Zone) 
+ 
+XXXXXX 
+Transmission 
+Project 
+XXXXX.X 
+(Other Zone) 
+ 
+XXXXXX 
+Transmission 
+Project 
+XXXXX.X 
+(Other Zone) 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+Description & PJM Documentation   
+a  Beginning Balance of Unamortized Transmission Projects -  Per FERC Order p111.71.c (Acct. 182.2)                -                   -                   -                   -                   -    
+ 
+  
+b  Years remaining in Amortization Period Per FERC Order 
+ 

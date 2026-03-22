@@ -1,0 +1,70 @@
+SCHEDULE 9-4 
+Capacity Resource and Obligation Management Service 
+ 
+a) Capacity Resource and Obligation Management Service comprises the activities of PJM 
+associated with (i) assuring that customers have arranged for sufficient generating capacity to 
+meet their unforced capacity obligations under the Reliability Assurance Agreement (“RAA”); 
+(ii) processing Network Integration Transmission Service; (iii) administering the Reliability 
+Pricing Model auctions for the PJM Region; and (iv) administering or providing technical 
+support for the RAA (as delegated to PJM under the RAA), including, but not limited to, long-
+term load forecasting, studies to establish reserve requirements, and the determination of each 
+Load-Serving Entity’s capacity obligations.  PJM’s Internet-based capacity transaction tool 
+enables many of these functions.  PJM provides this service to Load-Serving Entities and to 
+owners of Capacity Resources; as such terms are defined in the RAA. 
+ 
+b) PJM will charge each Load-Serving Entity in the PJM Region each month a charge equal 
+to the Capacity Resource and Obligation Management Service Rate defined below times the 
+summation for each day of such month of the Daily Unforced Capacity Obligation of such user, 
+as determined for each such day pursuant to RAA, Schedule 8 or RAA, Schedule 8.1. 
+ 
+c) In addition to any charge under section (b), PJM will charge each month, to each entity 
+that included in an FRR Capacity Plan, self-scheduled, or sold and cleared, in a Reliability 
+Pricing Model Auction, a Capacity Resource committed to serve load for such month, a charge 
+equal to the Capacity Resource and Obligation Management Service Rate defined below times 
+such entity’s total share, in MWs, of the Unforced Capacity of all Capacity Resources cleared or 
+self-scheduled (including through an FRR Capacity Plan) by such entity, for commitment to 
+serve load during such month. 
+ 
+d) The Capacity Resource and Obligation Management Rate (“CROM”) Service shall be 
+calculated monthly, in accordance with the formula: 
+ 
+ 
+ 
+CROM Service Rate =   
+ 
+Monthly CROM Cost 
+CROM Determinants 
+ 
+where: 
+ 
+“Monthly CROM Cost” equals the sum of the CROM Cost Component A.1 plus CROM 
+Cost Component A.2 plus CROM Cost Component A.3, defined as follows: 
+ 
+“CROM Cost Component A.1” equals the product of: 4.2% times the Actual Costs for all 
+Divisions in the month for which the CROM Service Rate is being calculated. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-4 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 2 
+“CROM Cost Component A.2” equals the Overhead Allocation to Capacity Resource and 
+Obligation Management Service in the month for which the CROM Service Rate is being 
+calculated, as determined pursuant to Schedule 9-5. 
+ 
+“CROM Cost Component A.3 equals the assignment of Non-Divisional Costs to CROM 
+Service based on the Actual Costs in the month for which the CROM Service Rate is 
+being calculated. 
+ 
+and where 
+ 
+“CROM Determinants” equals the actual summation of the Daily Unforced Capacity 
+Obligation (calculated without any deductions for Price Responsive Demand related load 
+credits) of all Load-Serving Entities for all days in the calendar year for which the 
+CROM Service Rate is being determined plus the total quantity in MWs of the Unforced 
+Capacity of all Capacity Resources used to serve load in the PJM Region for all days in 
+the month for which the CROM Service Rate is being calculated. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 9-5 
+Effective Date: 1/1/2022 - Docket #: ER22-26-000 - Page 1 

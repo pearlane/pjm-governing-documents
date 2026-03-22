@@ -1,0 +1,79 @@
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp 
+Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 24 
+ 
+     Appendix 2 
+   Page 18 
+APPALACHIAN POWER COMPANY  
+BLANK FORMULA RATE TEMPLATE  
+PRODUCTION-RELATED INCOME TAX  
+12 Months Ending 12/31/####  
+  Reference Amount Demand Energy 
+   (1) (2) (3) 
+      
+ 1. Return on Rate Base P.5, L.18 $ $ $ 
+      
+ 2. Effective Income Tax Rate P.19,  L.2      %       % % 
+      
+ 3. Income Tax Calculated L.1 x L.2 $ $ $ 
+         
+ 4. ITC Adjustment P.19, L.13 $ $ $ 
+         
+ 5. Income Tax L.3 + L.4 $ $ $ 
+      
+      
+Note A:  Classification based on Production Plant classification of P.19, L.20 and L.21.  
+ 
+ 
+  
+
+Intra-PJM Tariffs --> RELIABILITY ASSURANCE AGREEMENT --> RAA Schedule 8.1-Appendix 2B-APCO Capacity Comp 
+Formula Rate 
+Effective Date: 6/1/2016 - Docket #: ER16-1835-000 - Page 25 
+ 
+  Appendix 2 
+  Page 19 
+APPALACHIAN POWER COMPANY 
+BLANK FORMULA RATE TEMPLATE 
+COMPUTATION OF EFFECTIVE INCOME TAX RATE 
+12 Months Ending 12/31/#### 
+  (1) (2) 
+  Source Rates & Amounts 
+ 1. T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * P)} =  % 
+     
+2. EIT=(T/(1-T)) * (1-(WCLTD/WACC)) =  % 
+    
+3. 
+       where WCLTD from  P.11 L.1, Col (4) and 
+WACC from P.11 L.,4, Col. (4)   
+        and FIT, SIT & P as shown below.   
+    
+4. GRCF=1 / (1 - T)   #  
+    
+5. Federal Income Tax Rate FIT % 
+6. State Income Tax Rate (Composite) SIT % 
+7. Percent of FIT deductible for state purposes P (Note A) % 
+8. Weighted Cost of Long Term Debt WCLTD % 
+9. Weighted Average Cost of Capital WACC % 
+    
+10. Amortized Investment Tax Credit (enter negative) 
+FF1, P.114, L.19, 
+Col.c $ 
+11. Gross Plant Allocation Factor L.19 % 
+12. Production Plant Related ITC Amortization L.10 x L.11 $ 
+13. ITC Adjustment L.12 x L.4 $ 
+    
+    
+14. Gross Plant Allocator  Total 
+15. Gross Plant P.6, L.4, Col.1 $ 
+16. Production Plant Gross P.6, L.5, Col.2 $ 
+17. Demand Related Production Plant P.6, L.5, Col.3 $ 
+18. Energy Related Production Plant P.6, L.5, Col.4 $ 
+    
+19. Production Plant  Gross Plant Allocator L.16 / L.15 % 
+20. Production Plant - Demand Related L.17 / L.16 % 
+21. Production Plant  - Energy Related L.18 / L.16 % 
+  
+ 
+ Note A:  Percent deductible for state purposes provided from Company’s books and records.
+

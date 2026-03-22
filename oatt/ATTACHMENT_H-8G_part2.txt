@@ -1,0 +1,1036 @@
+[ATTACHMENT H-8G - Part 2 of 2]
+
+8 Facilities Charges including Interconnection Agreements (Note 2)                       -  
+9 Gross Revenue Credits (Sum Lines 1-10)                      -  
+10 Amount offset from Note 3 below                       -  
+11  Note 1:     All revenues related to transmission that are received as a transmission owner 
+(i.e., not received as a LSE), for which the cost of the service is recovered under this 
+ formula, except as specifically provided for elsewhere in this Attachment or elsewhere in the 
+formula, will be included as a revenue credit or included in the peak on line 150 of Appendix 
+A.   
+12 Note 2:    If the costs associated with the Directly Assigned Transmission Facility Charges  
+are included in the Rates, the associated revenues are included in the Rates.  If the costs 
+associated with the Directly Assigned Transmission Facility Charges are not included in the 
+Rates, the associated revenues are not included in the Rates. 
+  
+13  Note 3:     If the facilities associated with the revenues are not included in the formula, the 
+revenue is shown here, but not included in the total above and explained in the Cost  
+Support, e.g., revenues associated with distribution facilities.  In addition, Revenues from 
+Schedule 12 are not included in the total above to the extent they are credited directly by  
+PJM to zonal customers.  
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities 
+Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 18 
+PPL Electric Utilities Corporation 
+Attachment 4 - Calculation of 100 Basis Point Increase in ROE 
+  Return and Taxes with 100 Basis Point increase in ROE     
+A   100 Basis Point increase in ROE and Income Taxes  Line 29 + Line 39 from below                             -  
+B   100 Basis Point increase in ROE     1.00% 
+Return Calculation           
+      Appendix A Line or Source  Reference   
+1  Rate Base   (Attachment A Line 46)                             -  
+  Long Term Interest      
+2   Long Term Interest   (Attachment A Line 80)                             -  
+3       Less LTD Interest on Securitization Bonds   Attachment 8                              -  
+4   Long Term Interest   (Line 2 - Line 3)                             -  
+5  Preferred Dividends   enter positive p118.29.c                             -  
+  Common Stock      
+6   Proprietary Capital   p112.16.c                             -  
+7       Less Accumulated Other Comprehensive Income Account 219  p112.15.c                             -  
+8       Less Preferred Stock   (Attachment A Line 86)                             -  
+9       Less Account 216.1     p112.12.c                              -  
+10   Common Stock   (Line 6 - 7 - 8 - 9)                             -  
+  Capitalization      
+11   Long Term Debt   p112.18.c, 19.c & 21.c                             -  
+12         Less Loss on Reacquired Debt    p111.81.c                             -  
+13         Plus Gain on Reacquired Debt   p113.61.c                             -  
+14         Less LTD on Securitization Bonds   Attachment 8                             -  
+15   Total Long Term Debt     (Line 11 - 12 + 13 - 14)                              -  
+16   Preferred Stock   p112.3.c                             -  
+17   Common Stock    (Line 10)                             -  
+18   Total  Capitalization    (Sum Lines 15 to 17)                              -  
+19   Debt %  Total Long Term Debt (Line 15 / Line 18)                             -  
+20   Preferred %  Preferred Stock (Line 16 / Line 18)                             -  
+21   Common %  Common Stock (Line 17 / Line 18)                             -  
+22   Debt Cost  Total Long Term Debt (Line 4 / Line 15)                             -  
+23   Preferred Cost  Preferred Stock (Line 5 / Line 16)                             -  
+24   Common Cost  Common Stock Fixed                0.1148  
+25   Weighted Cost of Debt  Total Long Term Debt (WCLTD) (Line 19 * Line 22)                             -  
+26   Weighted Cost of Preferred  Preferred Stock (Line 20 * Line 23)                             -  
+27   Weighted Cost of Common   Common Stock (Line 21 * Line 24)                              -  
+28  Rate of Return on Rate Base ( ROR )   (Sum Lines 25 to 27)                             -  
+29  Investment Return = Rate Base * Rate of Return   (Line 1 * Line 28)                              -  
+Composite Income Taxes           
+   Income Tax Rates      
+30   FIT=Federal Income Tax Rate                                - 
+31   SIT=State Income Tax Rate or Composite                               -  
+32   p = percent of federal income tax deductible for state purposes  Per State Tax Code                             -  
+33   T      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =                              -  
+34   CIT = T / (1-T)                                -  
+35   1 / (1-T)                                -  
+        
+  ITC Adjustment      
+36   Amortized Investment Tax Credit     Attachment 5                              -  
+37   ITC Adjust. Allocated to Trans. - Grossed Up  (Line 36 * (1 / (1 - Line 33)                              -  
+       
+  Income Tax Adjustments     
+37a       Other Income Tax Adjustments  Attachment 5   
+37b       Other Income Tax Adjustments – Grossed Up Other Income Tax Adjustment x 1 / (1-T) Line 114a * (1 / (1 - Line 111))   
+       
+38  Income Tax Component =       CIT=(T/1-T) * Investment Return * (1-(WCLTD/R)) =                              -  
+39  Total Income Taxes                                    -  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities 
+Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 19 
+PPL Electric Utilities Corporation 
+              
+Attachment 5 - Cost Support 
+              
+ITC Adjustment             
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions 
+Form No. 1  
+Amount 
+Transmission 
+Related 
+Non-
+transmission 
+Related  Details    
+              
+113 Amortized Investment Tax Credit   Company Records                                    
+-  
+                                    
+-  
+                                      - Enter Negative     
+              
+              
+              
+Transmission / Non-transmission Cost Support            
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions 
+Form No. 1  
+Amount 
+Transmission 
+Related Major 
+Items 
+Transmission 
+Related Minor 
+Items 
+Non-
+transmission 
+Related  Details   
+24 Land Held for Future Use  (Note C) p.214.d - p214.6.d &                                    
+-  
+                                    
+-  
+                                     
+-  
+                                     
+-  
+    
+     Company Records                                      
+-  
+                                     
+-  
+ Removal of land held for future use (if any) that is included in CWIP balance 
+    (Note P) Company Records                                      
+-  
+                                     
+-  
+ Gains from the sale of Land Held for Future Use 
+Balance for Appendix A 
+                                           
+-  
+                                     
+-  
+     
+ 
+Adjustments to A & G Expense 
+           
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions Total 
+Prior Period 
+Adjustment Adjusted Total   Details   
+ Allocated Administrative & General Expenses            
+              
+53      Fixed PBOP expense   FERC Authorized 1,518,585        
+54      Actual PBOP expense   Company Records            -    Current year actual PBOP expense    
+65  Property Insurance Account 924   p323.185.b -  -  -  Annual Premium associated with storm insurance excluding recoveries related to prior periods. 
+         (See FM 1 note to page 320 line 185)   
+ 
+Regulatory Expense Related to Transmission Cost Support         
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions 
+Form No. 1  
+Amount 
+Transmission 
+Related 
+Non-
+transmission 
+Related  Details  
+ Directly Assigned A&G         
+62  Regulatory Commission Exp Account 928 (Note G) p350-151h                                    -                                      
+-  
+                                     
+-  
+   
+            
+            
+Safety Related Advertising Cost Support         
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions 
+Form No. 1  
+Amount Safety Related 
+Non-safety 
+Related  Details  
+ Directly Assigned A&G          
+66  General Advertising Exp Account 930.1 (Note F) p323.191.b                                    -                                      
+-  
+                                     
+-  
+   
+ 
+            
+MultiState Workpaper          
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions State 1 State 2 State 3 State 4 State 5 Details 
+  Income Tax Rates          
+      PA      
+109  SIT=State Income Tax Rate or Composite (Note I)                                     -       
+            
+            
+Education and Out Reach Cost Support          
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions 
+Form No. 1  
+Amount 
+Education & 
+Outreach Other  Details  
+ Directly Assigned A&G         
+63  General Advertising Exp Account 930.1 (Note K) p323.191.b                                    -                                        
+-  
+  
+ 
+Excluded Plant Cost Support            
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  
+Excluded 
+Transmission 
+Facilities  Description of the Facilities    
+ Adjustment to Remove Revenue Requirements Associated with Excluded Transmission Facilities         
+127  Excluded Transmission Facilities  (Note M)    General Description of the Facilities    
+              
+  Instructions:    Enter $        
+ 1 Remove all investment below 69 kV or generator step-up transformers included in transmission plant in service that  
+ are not a result of the RTEP process. 
+                      -   None     
+ 2 If unable to determine the investment below 69kV in a substation with investment of 69 kV and higher, as well as below 69 kV, 
+the following formula will be used: 
+       
+   Example   
+ 
+Or 
+Enter $        
+ A Total investment in substation                              
+1,000,000  
+          
+ B Identifiable investment in Transmission (provide workpapers)                                 
+500,000  
+          
+ C Identifiable investment in Distribution (provide workpapers)                                 
+400,000  
+          
+ D Amount to be excluded (A x (C / (B + C)))                                 
+444,444  
+          
+         Add more lines if necessary    
+Prepayments and Prepaid Pension Asset            
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  
+Form No. 1 
+Amount 
+Prepayments  
+on  
+Securitization 
+Bonds 
+Adjustment 
+POLR and  
+Retail Related 
+Adjustment Prepayments 
+W&S 
+Allocator 
+Functionalized 
+to TX Description of the Prepayments 
+36 Prepayments             
+  Prepayments  (Note A) (Note O) Form 1 -- p111.57.c                                    
+-  
+                                    
+-  
+                                     
+-  
+                                     
+-  
+                                   
+-  
+                                   
+-  
+Less amounts related to POLR, Retail Issues  
+            and Bond Securitization. 
+               
+               
+Adjustments to Transmission O&M             
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  Total Adjustments 
+Transmission 
+Related Details    
+               
+47  Transmission O&M   p.321.112.b                                    
+-  
+                                    
+-  
+                                     
+-  
+Adjustment for Ancillary Services p321.88b and p321.92b.     
+               
+               
+48       Less Account 565   p.321.96.b                                    
+-  
+                                    
+-  
+                                     
+-  
+ None     
+               
+               
+Facility Credits under Section 30.9 of the PJM OATT              
+Appendix A Line #s, Descriptions, Notes, Form 1 Page #s and Instructions  Amount  Description & PJM Documentation    
+ Net Revenue Requirement             
+147  Facility Credits under Section 30.9 of the PJM OATT                           -     None     
+               
+               
+               
+PJM Load Cost Support             
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  1 CP Peak  Description & PJM Documentation    
+ Network Zonal Service Rate             
+149  1 CP Peak  (Note L) PJM Data                       -          
+               
+Depreciation Expense             
+       Actual Cost of Removal, Net of Salvage Costs     
+       Year 1 Year 2 Year 3 Year 4 Year 5  5 - Year  
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  Total Enter the Year Enter the Year Enter the Year Enter the Year Enter the Year Total Amortization  
+               
+71  Transmission Depreciation Expense Including Amortization of Limited Term Plant, (Note J) Company Records -          
+  Transmission Plant Cost of Removal Net of Salvage  (Note J) Company Records -  -  -  -  -  -  -  -   
+  Total Transmission Depreciation Expense Including Amortization of Limited Term  (Note J) Company Records -          
+               
+72  General Depreciation Expense Including Amortization of Limited Term Plant (Note J) Company Records -          
+  General Plant Cost of Removal, Net of Salvage  (Note J) Company Records -  -  -  -  -  -  -  -   
+  Total General Depreciation Expense Including Amortization of Limited Term Plant (Note J) Company Records -          
+               
+ 
+Other Income Tax Adjustments 
+            
+            
+               
+Appendix A Line #s, Descriptions, Notes, Form No. 1 Page #s and Instructions  Total  Details       
+               
+  Amortized Deficient / (Excess) Deferred Taxes  (Note Q) Attachment 1 -  Table 4 Lines 38 and 52  Columns D, E and F      
+  Amortized Deficient / (Excess) Deferred Taxes  (Note Q) Attachment 1 -  Table 5 Lines 38 and 52  Columns D, E and F      
+  Tax effect of AFUDC Equity Permanent Difference  (Note Q) Company Records -          
+              
+               
+114a  Total Other Income Tax Adjustments   -          
+               
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 20 
+                        
+PPL Electric Utilities Corporation                 
+Attachment 6 – Estimate and Reconciliation Worksheet                 
+                        
+Line No.  
+Summary of Formula Rate Process     
+  Year Month Action    
+1  Year 2 October TO populates the formula with data from FERC Form No. 1 (Year 1) and plant in service estimated data  
+2  Year 3 June TO populates the formula with actual data from FERC Form 1 (Year 2) and calculates the True-Up Adjustment Before Interest  
+3  Year 3 October TO calculates the Interest to include in the True-Up Adjustment    
+4  Year 3 October TO populates the formula with data from FERC Form No. 1 (Year 2), plant in service estimated data and True-Up Adjustment  
+5  Year 4 June TO populates the formula with actual data from FERC Form 1 (Year 3) and calculates the True-Up Adjustment Before Interest  
+6  Year 4 October TO calculates the Interest to include in the True-Up Adjustment    
+7  Year 4 October TO populates the formula with data from FERC Form No. 1 (Year 3), plant in service estimated data and True-Up Adjustment  
+ 
+ 
+True-up Adjustment for Network Integration Transmission Service     
+        
+8 A 
+ATRR based on actual costs included for the previous calendar year but excludes the true-up adjustment (20XX 
+True-up, Line 133).                                         -    
+9 B 
+ATRR based on projected costs included for the previous calendar year but excludes the true-up adjustment (20XX 
+ATRR, Line 133).                                       -  
+10 C 
+Difference  (A-B) is the true-up adjustment prior to interest 
+collection.                                         -  
+ 
+ 
+ Interest Calculation       
+  Interest on Amount of Refunds or Surcharges      
+        
+111  Interest rate pursuant to 35.19a for March of the Current Yr 0.0000%     
+         
+   Month  Yr 1/12 of True-up Adj  Interest rate for    Interest  Surcharge (Refund) Owed 
+     March of the Current Yr Months   
+112 
+ Jan Year 1                                        -    0.0000% 11.5 
+                                     
+-                                            -    
+113 
+ Feb Year 1                                        -    0.0000% 10.5 
+                                     
+-                                            -    
+114 
+ Mar Year 1                                        -    0.0000% 9.5 
+                                     
+-                                            -    
+115 
+ Apr Year 1                                        -    0.0000% 8.5 
+                                     
+-                                            -    
+116 
+ May Year 1                                        -    0.0000% 7.5 
+                                     
+-                                            -    
+117 
+ Jun Year 1                                        -    0.0000% 6.5 
+                                     
+-                                            -    
+118 
+ Jul Year 1                                        -    0.0000% 5.5 
+                                     
+-                                            -    
+119 
+ Aug Year 1                                        -    0.0000% 4.5 
+                                     
+-                                            -    
+120 
+ Sep Year 1                                        -    0.0000% 3.5 
+                                     
+-                                            -    
+221 
+ Oct Year 1                                        -    0.0000% 2.5 
+                                     
+-                                            -    
+222 
+ Nov Year 1                                        -    0.0000% 1.5 
+                                     
+-                                            -    
+223 
+ Dec Year 1                                        -    0.0000% 0.5 
+                                     
+-                                            -    
+224  Total                                         -                                               -    
+         
+2         
+         
+225 
+ Jan-Dec  Year 2                                        -    0.0000% 12 
+                                     
+-                                            -    
+         
+         
+         
+     Balance  Interest rate from above Amortization over Rate Year Balance  
+226 
+ Jan Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+227 
+ Feb Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+228 
+ Mar Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+229 
+ Apr Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+330 
+ May Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+331 
+ Jun Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+332 
+ Jul Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+333 
+ Aug Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+334 
+ Sep Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+335 
+ Oct Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+336 
+ Nov Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+338 
+ Dec Year 3                                        -    0.0000%                                             -    
+                                     
+-     
+339  Total with interest                                                -      
+4         
+440  True-up Adjustment with Interest                                                -      
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 21 
+ 
+Weighted Plant in Service 
+          
+   Prior Year Forecast (A) (B ) (C) (D) (E) 
+  
+ 
+  Monthly Additions  Other Plant In Service 
+Other 
+Plant 
+In 
+Service Total 
+     Other Plant In Service Weighting Amount (A x B) (H/ 12)  
+          
+41    CWIP Balance Dec (prior yr.) 12    
+42  
+ 
+ Jan                                                                        -    11.5                                                 -    
+                                            
+-     
+43  
+ 
+ Feb                                                         -    10.5                                                 -    
+                                            
+-     
+44  
+ 
+ Mar                                                         -    9.5                                                 -    
+                                            
+-     
+45  
+ 
+ Apr                                                         -    8.5                                                 -    
+                                            
+-     
+46  
+ 
+ May                                                         -    7.5                                                 -    
+                                            
+-     
+47  
+ 
+ Jun                                                         -    6.5                                                 -    
+                                            
+-     
+48  
+ 
+ Jul                                                         -    5.5                                                 -    
+                                            
+-     
+49  
+ 
+ Aug                                                         -    4.5                                                 -    
+                                            
+-     
+50  
+ 
+ Sep                                                         -    3.5                                                 -    
+                                            
+-     
+51  
+ 
+ Oct                                                         -    2.5                                                 -    
+                                            
+-     
+52  
+ 
+ Nov                                                         -    1.5                                                 -    
+                                            
+-     
+53  
+ 
+ Dec                                                         -    0.5                                                 -    
+                                            
+-     
+54  
+ 
+ Total                                                         -                                                     -    
+                                            
+-                                         -    
+55    New Transmission Plant Additions and CWIP (weighted by months in service)    
+56        Input to Line 17 of Appendix A                                        -    
+57       Input to Line 35 of Appendix A   
+          
+  
+  
+ 
+ 
+        
+   Prior Year Actual (A) (B ) (C) (D) (E) 
+  
+ 
+  Monthly Additions  Other Plant In Service 
+Other 
+Plant 
+In 
+Service Total 
+     Other Plant In Service Weighting Amount (A x B) (H/ 12)  
+          
+58    CWIP Balance Dec (prior yr.) 12    
+59  
+ 
+ Jan                                                         -    11.5                                                 -    
+                                            
+-     
+60  
+ 
+ Feb                                                         -    10.5                                                 -    
+                                            
+-     
+61  
+ 
+ Mar                                                         -    9.5                                                 -    
+                                            
+-     
+62  
+ 
+ Apr                                                         -    8.5                                                 -    
+                                            
+-     
+63  
+ 
+ May                                                         -    7.5                                                 -    
+                                            
+-     
+64  
+ 
+ Jun                                                         -    6.5                                                 -    
+                                            
+-     
+65  
+ 
+ Jul                                                         -    5.5                                                 -    
+                                            
+-     
+66  
+ 
+ Aug                                                         -    4.5                                                 -    
+                                            
+-     
+67  
+ 
+ Sep                                                         -    3.5                                                 -    
+                                            
+-     
+68  
+ 
+ Oct                                                         -    2.5                                                 -    
+                                            
+-     
+69  
+ 
+ Nov                                                         -    1.5                                                 -    
+                                            
+-     
+70  
+ 
+ Dec                                                         -    0.5                                                 -    
+                                            
+-     
+71  
+ 
+ Total                                                         -                                                     -    
+                                            
+-                                         -    
+72    New Transmission Plant Additions and CWIP (weighted by months in service)    
+73        Input to Line 17 of Appendix A                                        -    
+74       Input to Line 35 of Appendix A   
+75       Month In Service or Month for CWIP                                       -    
+          
+          
+  
+ Current Year 
+Forecast  (A) (B ) (C) (D) (E) 
+  
+ 
+  Monthly Additions  Other Plant In Service 
+Other 
+Plant 
+In 
+Service Total 
+     Other Plant In Service Weighting Amount (A x B) (H/ 12)  
+          
+76    CWIP Balance Dec (prior yr.) 12    
+77  
+ 
+ Jan                                                         -    11.5                                                 -    
+                                            
+-     
+78  
+ 
+ Feb                                                         -    10.5                                                 -    
+                                            
+-     
+79  
+ 
+ Mar                                                         -    9.5                                                 -    
+                                            
+-     
+80  
+ 
+ Apr                                                         -    8.5                                                 -    
+                                            
+-     
+81  
+ 
+ May                                                         -    7.5                                                 -    
+                                            
+-     
+82  
+ 
+ Jun                                                         -    6.5                                                 -    
+                                            
+-     
+83  
+ 
+ Jul                                                         -    5.5                                                 -    
+                                            
+-     
+84  
+ 
+ Aug                                                         -    4.5                                                 -    
+                                            
+-     
+85  
+ 
+ Sep                                                         -    3.5                                                 -    
+                                            
+-     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 22 
+86  
+ 
+ Oct                                                         -    2.5                                                 -    
+                                            
+-     
+87  
+ 
+ Nov                                                         -    1.5                                                 -    
+                                            
+-     
+88  
+ 
+ Dec                                                         -    0.5                                                 -    
+                                            
+-     
+89  
+ 
+ Total                                                         -                                                     -    
+                                            
+-                                         -    
+90    New Transmission Plant Additions and CWIP (weighted by months in service)    
+91        Input to Line 17 of Appendix A                                        -    
+92       Input to Line 35 of Appendix A   
+93       Month In Service or Month for CWIP                                       -    
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 23 
+Attachment 7 – Transmission Enhancement Charge Worksheet 
+1  New Plant Carrying Charge                   
+2  Fixed Charge Rate (FCR) if not a CIAC                   
+   Formula Line                     
+3  A 137  Net Plant Carrying Charge without Depreciation  -             
+4  B 144  Net Plant Carrying Charge per 100 Basis Point in ROE without Depreciation  -             
+5  C   Line B less Line A       -             
+                         
+6  FCR if a CIAC                       
+                         
+7  D 138  Net Plant Carrying Charge without Depreciation, Return, nor Income Taxes  -             
+8  The FCR resulting from Formula in a given year is used for that year only.              
+9  Therefore actual revenues collected in a year do not change based on cost data for subsequent years 
+           
+10  Details               
+11 
+"Yes" if a project under PJM OATT Schedule 12, 
+otherwise "No" Schedule 12 (Yes or No) -        -      -     -      -       
+12 Useful life of the project Life  -      -      -     -      -       
+13 
+"Yes" if the customer has paid a lumpsum payment in 
+the amount of the investment on line 29, Otherwise 
+"No" CIAC (Yes or No) -      -      -     -      -       
+14 Input the allowed increase in ROE Increased ROE (Basis Points) -      -      -     -      -       
+15 
+From line 3 above if "No" on line 13 and from line 7 
+above if "Yes" on line 13 10.48% ROE  -      -      -     -      -       
+16 Line 14 plus (line 5 times line 15)/100 FCR for This Project  -      -      -     -      -       
+17 
+Project subaccount of Plant in Service Account 101 or 
+106 if not yet classified Investment  -      -      -     -      -       
+18 Line 17 divided by line 12 Annual Depreciation Exp -      -      -     -      -       
+19 Month in which project is placed in service (e.g. Jan=1) Month In Service or Month for CWIP -      -      -     -      -       
+ 
+20    Invest Yr Beginning Depreciation Ending Revenue  Beginning Depreciation Ending Revenue Beginning Depreciation Ending Revenue Beginning Depreciation Ending Revenue Beginning Depreciation Ending Revenue Total 
+Incentive 
+Charged 
+ 
+Revenue 
+Credit 
+21  W  11.68 % ROE 2008 -   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+22  W Increased ROE 2008 -   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+23  W  11.68 % ROE 2009   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+24  W Increased ROE 2009   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+25  W  11.68 % ROE 2010   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+26  W Increased ROE 2010   -  -  -  -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $      -  
+27  W  11.68 % ROE 2011   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+28  W Increased ROE 2011   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+29  W  11.68 % ROE 2012   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+30  W Increased ROE 2012   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+31  W  11.68 % ROE 2013   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+32  W Increased ROE 2013   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+33  W  11.68 % ROE 2014   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+34  W Increased ROE 2014   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+35  W  11.68 % ROE 2015   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+36  W Increased ROE 2015   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+37  W  11.68 % ROE 2016  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+38  W Increased ROE 2016  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+39  W  11.68 % ROE 2017  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+40  W Increased ROE 2017  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+41  W  11.68 % ROE 2018  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+42  W Increased ROE 2018  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+43  W  11.68 % ROE 2019  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+44  W Increased ROE 2019  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+45  W  11.68 % ROE 2020  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+46  W Increased ROE 2020  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+47  W  10.40 % ROE 2021  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+48  W Increased ROE 2021  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+49  W  10.45 % ROE 2022  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+50  W Increased ROE 2022  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+51  W  10.48 % ROE 2023  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+52  W Increased ROE 2023  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+53  W  10.50 % ROE 2024  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+54  W Increased ROE 2024  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+55  W  10.50 % ROE 2025  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+56  W Increased ROE 2025  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+57  W  10.50 % ROE 2026  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+58  W Increased ROE 2026  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+59  W  10.50 % ROE 2027  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -    $       - 
+60  W Increased ROE 2027  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   $       -   $       -  
+61     ….        ….  -   …..   ….   ….   ….   …..   ….   ….   ….   …..   ….   ….   ….   …..   ….      $       - 
+62     ….           ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   ….   ….   …..   …..   ….     $       -  
+ 
+ On the formulas used in the Columns for lines 22+ are as follows                     
+ For Plant in service:  (first year means first year the project is placed in service)     For CWIP:              
+ "Beginning" is the investment on line 17 for the first year and is the "Ending" for the prior year after the first year  Beginning is the line 17 for that year          
+ "Depreciation" is the annual depreciation in line 18 divided by twelve times the difference of thirteen minus line 19 in the first year and line 18 thereafter if "no" on line 13.  "Depreciation" is "0" (zero) if "Yes" on line 13  Depreciation is not used           
+ "Ending" is "Beginning" less "Depreciation"         Ending is the same as Beginning            
+ Revenue is "Ending" times line 16 for the current year times the quotient line 19 divided by 13 plus "Depreciation" for the first year and "Ending" times line 16 plus "Depreciation" thereafter  Revenue is Ending times line 16 for the current year        
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities 
+Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 24 
+PPL Electric Utilities Corporation 
+Attachment 8 - Company Exhibit - Securitization Worksheet 
+Line #       
+ Prepayments    
+36      Less Prepayments on Securitization Bonds                                -    (See FM 1, note to page 110, line 57) 
+ Administrative and General Expenses     
+52      Less Administrative and General Expenses on Securitization Bonds                                -    (See FM 1, note to page 114, line 4) 
+ Taxes Other Than Income    
+78      Less Taxes Other Than Income on Securitization Bonds                                -    (See FM 1, note to page 114, line 14) 
+  Long Term Interest    
+81      Less LTD Interest on Securitization Bonds                                -    (See FM 1, note to page 114, lines 62 + 63) 
+  Capitalization    
+92        Less LTD on Securitization Bonds                                -    (See FM 1, note to page 112, line 18) 
+  Calculation of the above Securitization Adjustments   
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities 
+Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 25 
+PPL Electric Utilities Corporation 
+Attachment 9 - Depreciation Rates 
+(A) (B)  (C) (D) (E)  (F)  (G) (H) (I) (J)  (K)  
+        Gross Depreciable Accumulated Depreciable  Depreciation  
+   Estimated Mortality Current  Remaining  Applied Plant Depreciation Balance  Expense  
+Number Plant Type   Life Curve Age  Life  Depreciation Rate $ $ $  $  
+            
+ Transmission           
+350.4 Land Rights  80 S4            
+352 Structures and Improvements 65 R2            
+353 Station Equipment  46 R1.5            
+354 Towers and Fixtures  75 R3            
+354.2 Towers and Fixtures - Clearing Land and Rights of Way 80 R4            
+355 Poles and Fixtures  53 R0.5            
+355.2 Poles and Fixtures - Clearing Land and Rights of Way 80 R4            
+356 Overhead Conductors and Devices 65 R2.5            
+357 Underground Conduit  55 S4            
+358 Underground Conductors and Devices 45 S3            
+359 Roads and Trails  80 R4            
+ General            
+389.4 Land Rights  75 R4            
+390.2 Structures and Improvements - Buildings              
+ BUILDINGS – MAJOR 50 SO.5        
+ BUILDINGS – MINOR 45 R3        
+    TOTAL ACCOUNT 390.2          
+390.21 Structures and Improvements - Leaseholds 10 SQ            
+390.4 Structures and Improvements - Air Conditioning 30 S1            
+391.1 Office Furniture and Equipment - RF Mesh Computer Equip. 5 SQ        
+391.2 Office Furniture and Equipment - Furniture 20 SQ            
+391.4 Office Furniture and Equipment - Equipment 15 SQ            
+391.6 Office Furniture and Equipment - Computers  5 SQ            
+392.1 Transportation Equipment - Automobiles 10 S3            
+392.2 Transportation Equipment - Light Duty Trucks 10 R1.5            
+392.3 Transportation Equipment - Heavy Duty Trucks 14 R4            
+392.4 Transportation Equipment - Trailers 25 L2            
+392.5 Transportation Equipment - Large Tankers/Tractors 15 R3            
+392.6 Transportation Equipment - Large Crane Trucks 14 S3            
+393 Stores Equipment  25 SQ            
+394 Tools and Work Equipment - L&S Line Crews 20 SQ            
+394.2 Tools and Work Equipment - Tools 20 SQ            
+394.4 Tools and Work Equipment - Construction Dept 20 SQ            
+394.6 Tools and Work Equipment - Other 20 SQ            
+394.8 Tools and Work Equipment - Garage Equipment 20 SQ            
+395 Laboratory Equipment  20 SQ            
+396 Power Operated Equipment 15 S4            
+397 Communication Equipment  15 SQ            
+398 Miscellaneous Equipment  20 SQ            
+ Intangible           
+303.2 Miscellaneous Intangible Plant - Software              
+    5 – YEAR ASSETS 5 SQ        
+    10 – YEAR ASSETS 10 SQ        
+    15 – YEAR ASSETS 15 SQ        
+ TOTAL ACCOUNT 303.2          
+            
+303.6 Smart Meter Software - RF Mesh  5 SQ        
+303.8 CLOUD SOFTWARE           
+     5-YEAR ASSETS  5 SQ        
+     10-YEAR ASSETS  10 SQ        
+     15-YEAR ASSETS  15 SQ        
+ TOTAL ACCOUNT 303.8           
+            
+ 
+Notes:            
+1 Columns (A), (B), (C), and (D) are fixed and cannot be changed absent Commission approval or acceptance.       
+2 Column (E) is based on the Estimated Life in Column (C) less the Remaining Life in Column (F) for those accounts for which using a Mortality Curve is identified.    
+3 Column (F) is the average remaining life of the assets in the account based on their vintage.         
+4 Column (G) is the depreciation rate from the Mortality Curve specified based on data in Columns (C) and (D).       
+5 Columns (H) and (I) are the depreciable gross plant investment and accumulated depreciation in the account or subaccount.      
+6 Column (J) is the depreciable net plant in the account or subaccount.          
+7 Column (K) is Column (G) multiplied by Column (J) for those accounts that have an identified Mortality Curve.         
+8 Each year, PPL Electric will provide a copy of the annual report submitted to the PA PUC that shows the calculation of the depreciation rates and expenses derived from Columns (C) and (D).  
+9 Every 5 years, PPL Electric will file with the Commission a depreciation study supporting its existing Estimated Life and Mortality Curve for each account or subaccount.   
+10 Column (K) for Accounts Nos. 303.2,  303.6 and 303.8 are calculated using individual asset depreciation and, therefore, are not derived values.     
+11 Column (K) for Account No. 392.3 is net of capitalized depreciation expense.  See the applicable note in FERC Form No. 1.      
+12 For those General Plant accounts that do not have Mortality Curves as indicated by "SQ" in Column (D), additional detail is provided in Attachment 9 - Supplemental General Plant Depreciation Details.  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-8G - PPL Electric Utilities 
+Corporation 
+Effective Date: 6/12/2023 - Docket #: ER23-1629-000 - Page 26 
+PPL Electric Utilities Corporation 
+Attachment 9 - Supplemental  
+ General Plant Depreciation Details 
+(A) (B)  (C) (G) (H) (I) (J)  (K)  
+     Gross Depreciable Accumulated Depreciable  Depreciation  
+   Estimated Applied Plant Depreciation Balance  Expense  
+Number Plant Type   Life Depreciation Rate $ $ $  $  
+ General         
+           
+        
+391.1 Structures and Improvements – Leaseholds – Net Method 5      
+        
+391.2 Office Furniture and Equipment - Furniture - Gross Method 20         
+           
+        
+391.4 Office Furniture and Equipment – Mechanical Equipment - Gross Method 15         
+           
+        
+391.6 Office Furniture and Equipment – Computer Equipment – General - Gross Method 5         
+        
+393 Store Equipment - Gross Method 25         
+393 Store Equipment - Net Method 25         
+        
+394 Tools Shop and Garage Equipment - Distribution Line Crews - Gross Method 20         
+394 Tools Shop and Garage Equipment - Distribution Line Crews - Net Method 20         
+        
+394.2 Tools Shop and Garage Equipment - Tools - Gross Method 20         
+394.2 Tools Shop and Garage Equipment - Tools - Net Method 20         
+        
+394.4 Tools Shop and Garage Equipment - Construction Dept - Gross Method 20         
+           
+        
+394.6 Tools Shop and Garage Equipment - Gross Method 20         
+           
+        
+394.8 Tools Shop and Garage Equipment - Garage Tools Support - Gross Method 20         
+394.8 Tools Shop and Garage Equipment - Garage Tools Support - Net Method 20         
+        
+395 Laboratory Equipment - Gross Method 20         
+395 Laboratory Equipment - Net Method 20         
+        
+        
+        
+        
+397 Communication Equipment - Gross Method 15         
+397 Communication Equipment - Net Method 15         
+        
+398 Miscellaneous Equipment - Gross Method 20         
+398 Miscellaneous Equipment - Net Method 20         
+Notes:         
+1 This schedule shows additional detail for those General Plant accounts that do not have a Mortality Curve.  The calculation of Depreciation Expense by the Gross Plant Method (i.e., Column (G) multiplied by Column (H)) 
+ 
+and the Net Plant Method (i.e., Column (G) multiplied by Column (J)) is shown separately for the assets in each account subject to each such method.  Assets purchased new are depreciated using the Gross Plant Method. 
+Assets purchased used are depreciated using the Net Plant Method (i.e., over their remaining economic life). 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-8H - PPL 
+Effective Date: 1/31/2023 - Docket #: ER22-2719-002 - Page 1 

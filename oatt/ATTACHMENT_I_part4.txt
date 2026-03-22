@@ -1,0 +1,1063 @@
+[ATTACHMENT I - Part 4 of 12]
+
+into the Day-ahead Energy Market and/or Real-time Energy Market and are 
+capable of providing Secondary Reserve, as specified in the PJM Manuals, shall 
+be deemed to have made their reserve capability available to provide Secondary 
+Reserve in the Day-ahead Energy Market and/or Real-time Energy Market for 
+each clock hour for which the Market Seller submits an available offer to supply 
+energy; provided, however that hydroelectric generation resources, Hybrid 
+Resources, and Energy Storage Resources are not automatically deemed 
+available to provide reserves based on the submission of an available energy offer 
+but may submit offers to supply Secondary Reserve, as applicable. 
+ 
+(3) Offers for the supply of Secondary Reserve shall be for 
+$0.00/MWh.  Consistent with the resource’s offer to supply energy, such offers 
+may vary hourly and may be updated each hour up to 65 minutes before the 
+applicable clock hour during the Operating Day.  Offers shall be submitted to the 
+Office of the Interconnection in the form specified by the Office of the 
+Interconnection and shall contain the information specified in the Office of the 
+Interconnection’s Offer Data specification, this subsection (d) above, section 
+1.10.9B below, and the PJM Manuals, as applicable. 
+ 
+(ii) Determination of Available Secondary Reserve Capability of Generation 
+Resources 
+ 
+(1) For each offer to supply Secondary Reserve by a generation 
+resource, the Office of the Interconnection shall determine the MW of available 
+Secondary Reserve capability offered in the Day-ahead Energy Market and Real-
+time Energy Market in accordance with the PJM Manuals; except, however, that 
+the Office of the Interconnection will not make such determination for 
+hydroelectric generation resources, Hybrid Resources, or Energy Storage 
+Resources.  Hydroelectric generation resources, Hybrid Resources, or Energy 
+Storage Resources may submit their available Secondary Reserve capability as 
+part of their offer into the Secondary Reserve market, provided that such offer 
+equals or exceeds 0.1 MW; however, any such resource which is subject to the 
+must offer requirements in section 1.10.1A(m)(i) above must submit a Secondary 
+Reserve offer which specifies the MW of available Secondary Reserve capability 
+in order to remain compliant with such requirements. 
+ 
+(2) (A) An on-line generation resource’s available Secondary 
+Reserve capability, except for generation resources capable of 
+synchronous condensing, shall be based on the resource’s current 
+performance and initial energy output, the resource’s available 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 15 
+Synchronized Reserve capability; and the following offer parameters 
+submitted as part of the energy offer:  (i) ramp rate; (ii) Economic 
+Minimum; and (iii) the lesser of Economic Maximum and Secondary 
+Reserve maximum MW, where a resource’s Secondary Reserve maximum 
+MW may be less than the Economic Maximum only where the Market 
+Seller has, in accordance with the procedures set forth in the PJM 
+Manuals, submitted justification to the Office of the Interconnection that 
+the resource has an operating configuration that prevents it from reliably 
+providing Secondary Reserves above its Secondary Reserve maximum 
+MW. 
+ 
+(B) For generation resources capable of synchronous 
+condensing, the resource’s available Secondary Reserve capability shall 
+be based on the following offer parameters submitted as part of the energy 
+offer:  (i) ramp rate; (ii) condense to generation time constraints; (iii) 
+Economic Minimum; and (iv) the lesser of Economic Maximum and 
+Secondary Reserve maximum MW, where a resource’s Secondary Reserve 
+maximum MW may be less than the Economic Maximum only where the 
+Market Seller has, in accordance with the procedures set forth in the PJM 
+Manuals, submitted justification to the Office of the Interconnection that 
+the resource has an operating configuration that prevents it from reliably 
+providing Secondary Reserves above its Secondary Reserve maximum 
+MW. 
+ 
+(C) An off-line generation resource’s available Secondary 
+Reserve capability, shall be based on the resource’s available Secondary 
+Reserve capability and the following offer parameters submitted as part of 
+the resource’s energy offer:  (i) startup time; (ii) notification time; (iii) 
+ramp rate; (iv) Economic Minimum; and (v) the lesser of Economic 
+Maximum and Secondary Reserve maximum MW, where a resource’s 
+Secondary Reserve maximum MW may be less than the Economic 
+Maximum only where the Market Seller has, in accordance with the 
+procedures set forth in the PJM Manuals, submitted justification to the 
+Office of the Interconnection that the resource has an operating 
+configuration that prevents it from reliably providing Secondary Reserves 
+above its Secondary Reserve maximum MW.  
+ 
+(3) Any Market Seller that believes its generating unit has 
+operating modes, limits, or conditions where the unit would not be 
+capable of providing Secondary Reserves in real time, can submit to the 
+Office of the Interconnection with a copy to the Market Monitoring Unit a 
+request for an exception from being assigned Secondary Reserves in the 
+Real-time Secondary Reserve Market during time periods in which the 
+generating unit is in those operating modes, limits, or conditions.  As part 
+of the request, the Market Seller shall supply, for each generating unit, 
+technical information about the operational modes, limits, or conditions to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 16 
+support the requested exception, as further detailed in the PJM Manuals.  
+The Office of the Interconnection shall consult with the Market Monitoring 
+Unit, and consider any input received from the Market Monitoring Unit, in 
+its determination of a request for such an exception.  Within 60 days of the 
+submission of the request, the Office of the Interconnection shall notify the 
+Market Seller in writing, with a copy to the Market Monitoring Unit, 
+whether the request is approved or denied.  The effective date of any 
+approved request will be provided in the written notification.  If a Market 
+Seller has an approved exception, the Market Seller must communicate to 
+the Office of the Interconnection when the unit cannot provides reserves, 
+and the Office of the Interconnection will provide a mechanism for Market 
+Sellers with an approved exception to provide such communication to the 
+Office of the Interconnection in real time, as further detailed in the PJM 
+Manuals.  An approved exception will remain applicable to the unit until 
+such time as the Office of the Interconnection determines that a change is 
+needed or the Market Seller notifies the Office of the Interconnection, with 
+a copy to the Market Monitoring Unit, that a change is needed based on 
+changed operational capabilities of the unit.  Market Sellers must notify 
+the Office of the Interconnection, with a copy to the Market Monitoring 
+Unit, within 30 days of any changed operational capabilities that 
+necessitate a change in an approved exception. 
+ 
+(iii) Offers to Supply Secondary Reserves by Economic Load Response 
+Participant resources 
+ 
+(1) Each Economic Load Response Participant that submits offers to 
+reduce demand into the Day-ahead Energy Market and Real-time Energy Market 
+and wishes to make their resources available to supply Secondary Reserve shall 
+submit offers to supply Secondary Reserve from such resources, where such offers 
+shall specify the megawatts of Secondary Reserve being offered, which must equal 
+or exceed 0.1 megawatts and include such other information specified by the 
+Office of the Interconnection as may be necessary to evaluate the offer.  Such 
+offers may vary hourly, and may be updated each hour up to 65 minutes before 
+the applicable clock hour during the Operating Day. 
+ 
+(2) All Secondary Reserve offers by Economic Load Response 
+Participant resources shall be for $0.00/MWh.  Offers shall be submitted to the 
+Office of the Interconnection in the form specified by the Office of the 
+Interconnection and shall contain the information specified in the Office of the 
+Interconnection’s Offer Data specification, this section 1.10.1A(d), section 
+1.10.9B below, and the PJM Manuals, as applicable. 
+ 
+ (n) A Market Participant may submit a Day-Ahead Pseudo-Tie Transaction for a 
+Market Participant’s generator within the PJM balancing authority area that is a Pseudo-Tie into 
+the MISO balancing authority area.  Day-Ahead Pseudo-Tie Transactions combine an offer to 
+sell energy at a source with a bid to buy the same megawatt quantity of energy at a sink where 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 17 
+such transaction specifies the maximum difference between the Locational Marginal Prices at the 
+source and sink. 
+ 
+Each Day-Ahead Pseudo-Tie Transaction shall: (1) source at a Market Participant’s generator 
+within the PJM balancing authority area that Pseudo-Ties into MISO; and (2) sink at the PJM-
+MISO interface.  A Market Participant must reserve transmission service in accordance with the 
+PJM Tariff for each Day-Ahead Pseudo-Tie Transaction.  Megawatt quantities for Day-Ahead 
+Pseudo-Tie Transactions shall be greater than zero and less than or equal to the transmission 
+service reserved for the Day-Ahead Pseudo-Tie Transaction.  An accepted Day-Ahead Pseudo-
+Tie Transaction results in scheduled injection at a specified source and scheduled withdrawal of 
+the same megawatt quantity at a specified sink in the Day-Ahead Energy Market. 
+ 
+1.10.1B Demand Bid Scheduling and Screening 
+ 
+(a) The Office of the Interconnection shall apply Demand Bid Screening to all Demand 
+Bids submitted in the Day-ahead Energy Market for each Load Serving Entity, separately by Zone.  
+Using Demand Bid Screening, the Office of the Interconnection will automatically reject a Load 
+Serving Entity’s Demand Bids in any future Operating Day for which the Load Serving Entity 
+submits bids if the total megawatt volume of such bids would exceed the Load Serving Entity’s 
+Demand Bid Limit for any hour in such Operating Day, unless the Office of the Interconnection 
+permits an exception pursuant to subsection (d) below. 
+   
+(b) On a daily basis, PJM will update and post each Load Serving Entity’s Demand Bid 
+Limit in each applicable Zone.  Such Demand Bid Limit will apply to all Demand Bids submitted 
+by that Load Serving Entity for each future Operating Day for which it submits bids.  The Demand 
+Bid Limit is calculated using the following equation:    
+ 
+Demand Bid Limit = greater of (Zonal Peak Demand Reference Point * 1.3), or (Zonal Peak 
+Demand Reference Point + 10MW) 
+ 
+Where: 
+1.  Zonal Peak Demand Reference Point = for each Zone: the product of (a) LSE Recent 
+Load Share, multiplied by (b) Peak Daily Load Forecast. 
+2.  LSE Recent Load Share is the Load Serving Entity’s highest share of Network Load 
+in each Zone for any hour over the most recently available seven Operating Days for 
+which PJM has data.   
+3.  Peak Daily Load Forecast is PJM’s highest available peak load forecast for each 
+applicable Zone that is calculated on a daily basis. 
+ 
+(c)  A Load Serving Entity whose Demand Bids are rejected as a result of Demand Bid 
+Screening may change its Demand Bids to reduce its total megawatt volume to a level that does 
+not exceed its Demand Bid Limit, and may resubmit them subject to the applicable rules related to 
+bid submission outlined in Tariff, Operating Agreement and PJM Manuals.   
+ 
+(d) PJM may allow a Load Serving Entity to submit bids in excess of its Demand Bid 
+Limit when circumstances exist that will cause, or are reasonably expected to cause, a Load 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 18 
+Serving Entity’s actual load to exceed its Demand Bid Limit on a given Operating Day. 
+Examples of such circumstances include, but are not limited to, changes in load commitments 
+due to state sponsored auctions, mergers and acquisitions between PJM Members, and sales and 
+divestitures between PJM Members.  A Load Serving Entity may submit a written exception 
+request to the Office of Interconnection for a higher Demand Bid Limit for an affected Operating 
+Day.  Such request must include a detailed explanation of the circumstances at issue and 
+supporting documentation that justify the Load Serving Entity’s expectation that its actual load 
+will exceed its Demand Bid Limit. 
+ 
+1.10.2 Pool-scheduled Resources.  
+ 
+Pool-scheduled resources are those resources for which Market Participants submitted offers to 
+sell energy in the Day-ahead Energy Market and offers to reduce demand in the Day-ahead 
+Energy Market, which the Office of the Interconnection scheduled in the Day-ahead Energy 
+Market as well as generators committed by the Office of the Interconnection subsequent to the 
+Day-ahead Energy Market.  Such resources shall be committed to provide energy in the real-time 
+dispatch unless the schedules for such units are revised pursuant to section 1.10.9 below or 
+Tariff, Attachment K-Appendix, section 1.11.  Pool-scheduled resources shall be governed by the 
+following principles and procedures. 
+ 
+  (a) Pool-scheduled resources shall be selected by the Office of the Interconnection on 
+the basis of the prices offered for energy and demand reductions and related services, whether 
+the resource is expected to be needed to maintain system reliability during the Operating Day, 
+Start-up Costs, No-load Costs and cancellation fees, and the specified operating characteristics, 
+offered by Market Sellers to the Office of the Interconnection by the offer deadline specified in 
+section 1.10.1A above.  Hydropower units can only be pool-scheduled if they are pumped 
+storage units and scheduled by the Office of the Interconnection pursuant to the hydro 
+optimization tool in the Day-ahead Energy Market. 
+ 
+ 
+  (b) A resource that is scheduled by a Market Participant to support a bilateral sale, or 
+that is self-scheduled by a Generating Market Buyer, shall not be selected by the Office of the 
+Interconnection as a pool-scheduled resource except in an Emergency. 
+ 
+  (c) Market Sellers offering energy from hydropower or other facilities with fuel or 
+environmental limitations may submit data to the Office of the Interconnection that is sufficient 
+to enable the Office of the Interconnection to determine the available operating hours of such 
+facilities. 
+ 
+  (d) The Market Seller of a resource selected as a pool-scheduled resource shall 
+receive payments or credits for energy, demand reductions or related services, or for Start-up 
+Costs and No-load Costs, from the Office of the Interconnection on behalf of the Market Buyers 
+in accordance with Tariff, Attachment K-Appendix, section 3.  Alternatively, the Market Seller 
+shall receive, in lieu of Start-up Costs and No-load Costs, its actual costs incurred, if any, up to a 
+cap of the resource’s Start-up Costs, if the Office of the Interconnection cancels its selection of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 19 
+the resource as a pool-scheduled resource and so notifies the Market Seller before the resource is 
+synchronized. 
+ 
+  (e) Market Participants shall make available their pool-scheduled resources to the 
+Office of the Interconnection for coordinated operation to supply the Operating Reserves needs 
+of the applicable Control Zone. 
+ 
+  (f) Economic Load Response Participants offering to reduce demand shall specify: (i) 
+the amount of the offered curtailment, which must equal or exceed 0.1 megawatts, in minimum 
+increments of 0.1 megawatts; (ii) the real-time Locational Marginal Price above which the end-
+use customer will reduce load; and (iii) at the Economic Load Response Participant’s option, 
+shut-down costs associated with reducing load, including direct labor and equipment costs, 
+opportunity costs, and/or a minimum number of contiguous hours for which the load reduction 
+must be committed.  Economic Load Response Participants submitting offers to reduce demand 
+in the Day-ahead Energy Market and/or the Real-time Energy Market may establish an 
+incremental offer curve, provided that such offer curve shall be limited to ten price pairs (in 
+MWs).  Economic Load Response Participants offering to reduce demand shall also indicate the 
+hours that the demand reduction is not available. 
+ 
+1.10.3 Self-scheduled Resources. 
+ 
+Self-scheduled resources shall be governed by the following principles and procedures. 
+ 
+  (a) Each Generating Market Buyer shall use all reasonable efforts, consistent with 
+Good Utility Practice, not to self-schedule resources in excess of its Equivalent Load. 
+ 
+  (b) The offered prices of resources that are self-scheduled and not dispatchable by the 
+Office of the Interconnection shall not be considered by the Office of the Interconnection in 
+determining Locational Marginal Prices. 
+ 
+  (c) Market Participants shall make available their self-scheduled resources to the 
+Office of the Interconnection for coordinated operation to supply the Operating Reserves needs 
+of the applicable Control Zone, by submitting an offer as to such resources. 
+ 
+  (d) A Market Participant self-scheduling a resource in the Day-ahead Energy Market 
+that does not deliver the energy in the Real-time Energy Market, shall replace the energy not 
+delivered with energy from the Real-time Energy Market and shall pay for such energy at the 
+applicable Real-time Price. 
+ 
+ (e) A Market Participant self-scheduling a resource to supply Synchronized Reserve 
+in the Day-ahead Synchronized Reserve Market that does not deliver the scheduled megawatt 
+quantity in the applicable real-time reserve market, shall replace the Synchronized Reserve not 
+delivered and shall pay for such Synchronized Reserve at the applicable Real-time Synchronized 
+Reserve Market Clearing Price.  Market Participants shall not self-schedule a resource to 
+provide Secondary Reserve or Non-Synchronized Reserve. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 20 
+(f) For energy, hydropower units, excluding pumped storage units, may only be self-
+scheduled. 
+ 
+(g) A resource that has been self-scheduled shall not receive payments or credits for 
+Start-up Costs or No-load Costs. 
+ 
+1.10.4 Capacity Resources. 
+ 
+  (a) A Generation Capacity Resource committed to service of PJM loads under the 
+Reliability Pricing Model or Fixed Resource Requirement Alternative that is selected as a pool-
+scheduled resource shall be made available for scheduling and dispatch at the direction of the 
+Office of the Interconnection.  Such a Generation Capacity Resource that does not deliver energy 
+as scheduled shall be deemed to have experienced a Generator Forced Outage to the extent of 
+such energy not delivered.  A Market Participant offering such Generation Capacity Resource in 
+the Day-ahead Energy Market shall replace the energy not delivered with energy from the Real-
+time Energy Market and shall pay for such energy at the applicable Real-time Price. 
+ 
+  (b) Energy from a Generation Capacity Resource committed to service of PJM loads 
+under the Reliability Pricing Model or Fixed Resource Requirement Alternative that has not been 
+scheduled in the Day-ahead Energy Market may be sold on a bilateral basis by the Market Seller, 
+may be self-scheduled, or may be offered for dispatch during the Operating Day in accordance 
+with the procedures specified in this Schedule.  Such a Generation Capacity Resource that has 
+not been scheduled in the Day-ahead Energy Market and that has been sold on a bilateral basis 
+must be made available upon request to the Office of the Interconnection for scheduling and 
+dispatch during the Operating Day if the Office of the Interconnection declares a Maximum 
+Generation Emergency.  Any such resource so scheduled and dispatched shall receive the 
+applicable Real-time Price for energy delivered.  
+ 
+1.10.5 External Resources.   
+ 
+  (a) External Resources may submit offers to the PJM Interchange Energy Market, in 
+accordance with the day-ahead and real-time scheduling processes specified above.  An External 
+Resource selected as a pool-scheduled resource shall be made available for scheduling and 
+dispatch at the direction of the Office of the Interconnection, and except as specified below shall 
+be compensated on the same basis as other pool-scheduled resources.  External Resources that 
+are not capable of Dynamic Transfer shall, if selected by the Office of the Interconnection on the 
+basis of the Market Seller’s Offer Data, be block loaded on an hourly scheduled basis.  Market 
+Sellers shall offer External Resources to the PJM Interchange Energy Market on either a 
+resource-specific or an aggregated resource basis.  A Market Participant whose pool-scheduled 
+resource does not deliver the energy scheduled in the Day-ahead Energy Market shall replace 
+such energy not delivered as scheduled in the Day-ahead Energy Market with energy from the 
+PJM Real-time Energy Market and shall pay for such energy at the applicable Real-time Price. 
+ 
+  (b) Offers for External Resources from an aggregation of two or more generating 
+units shall so indicate, and shall specify, in accordance with the Offer Data requirements 
+specified by the Office of the Interconnection:  (i) energy prices; (ii) hours of energy availability; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 21 
+(iii) a minimum dispatch level; (iv) a maximum dispatch level; and (v) unless such information 
+has previously been made available to the Office of the Interconnection, sufficient information, 
+as specified in the PJM Manuals, to enable the Office of the Interconnection to model the flow 
+into the PJM Region of any energy from the External Resources scheduled in accordance with 
+the Offer Data.   
+ 
+  (c) Offers for External Resources on a resource-specific basis shall specify the 
+resource being offered, along with the information specified in the Offer Data as applicable. 
+ 
+1.10.6 External Market Buyers. 
+ 
+  (a) Deliveries to an External Market Buyer not subject to Dynamic Transfer by the 
+Office of the Interconnection shall be delivered on a block loaded basis to the bus or buses at the 
+electrical boundaries of the PJM Region, or in such area with respect to an External Market 
+Buyer’s load within such area not served by Network Service, at which the energy is delivered to 
+or for the External Market Buyer.  External Market Buyers shall be charged (which charge may 
+be positive or negative) at either the Day-ahead Prices or Real-time Prices, whichever is 
+applicable, for energy at the foregoing bus or buses. 
+ 
+  (b) An External Market Buyer’s hourly schedules for energy purchased from the PJM 
+Interchange Energy Market shall conform to the ramping and other applicable requirements of 
+the interconnection agreement between the PJM Region and the Control Area to which, whether 
+as an intermediate or final point of delivery, the purchased energy will initially be delivered. 
+ 
+  (c) The Office of the Interconnection shall curtail deliveries to an External Market 
+Buyer if necessary to maintain appropriate reserve levels for a Control Zone as defined in the 
+PJM Manuals, or to avoid shedding load in such Control Zone. 
+ 
+1.10.7 Bilateral Transactions.   
+ 
+Bilateral transactions as to which the parties have notified the Office of the Interconnection by 
+the deadline specified in section 1.10.1A above that they elect not to be included in the Day-
+ahead Energy Market and that they are not willing to incur Transmission Congestion Charges in 
+the Real-time Energy Market shall be curtailed by the Office of the Interconnection as necessary 
+to reduce or alleviate transmission congestion.  Bilateral transactions that were not included in 
+the Day-ahead Energy Market and that are willing to incur congestion charges and bilateral 
+transactions that were accepted in the Day-ahead Energy Market shall continue to be 
+implemented during periods of congestion, except as may be necessary to respond to 
+Emergencies. 
+ 
+1.10.8 Office of the Interconnection Responsibilities. 
+ 
+  (a) The Office of the Interconnection shall use its best efforts to determine (i) the 
+least-cost means of satisfying the projected hourly requirements for energy, Operating Reserves, 
+and other ancillary services of the Market Buyers, including the reliability requirements of the 
+PJM Region, of the Day-ahead Energy Market, and (ii) the least-cost means of satisfying the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 22 
+Operating Reserve and other ancillary service requirements for any portion of the load forecast 
+of the Office of the Interconnection for the Operating Day in excess of that scheduled in the Day-
+ahead Energy Market.  In making these determinations, the Office of the Interconnection shall 
+take into account:  (i) the Office of the Interconnection’s forecasts of PJM Interchange Energy 
+Market and PJM Region energy requirements, giving due consideration to the energy 
+requirement forecasts and purchase requests submitted by Market Buyers and PRD Curves 
+properly submitted by PRD Providers; (ii) the offers submitted by Market Sellers; (iii) the 
+availability of limited energy resources; (iv) the capacity, location, and other relevant 
+characteristics of self-scheduled resources; (v) the objectives of each Control Zone for Operating 
+Reserves, as specified in the PJM Manuals; (vi) the requirements of each Regulation Zone for 
+Regulation and other ancillary services, as specified in the PJM Manuals; (vii) the benefits of 
+avoiding or minimizing transmission constraint control operations, as specified in the PJM 
+Manuals; (viii) Ambient-Adjusted Ratings for Transmission Facilities; and (ix) such other factors 
+as the Office of the Interconnection reasonably concludes are relevant to the foregoing 
+determination, including, without limitation, transmission constraints on external coordinated 
+flowgates to the extent provided by Tariff, Attachment K-Appendix, section 1.7.6.  The Office of 
+the Interconnection shall develop a Day-ahead Energy Market utilizing security constrained unit 
+commitment and security constrained economic dispatch software based on the foregoing 
+determination, and shall determine the Day-ahead Prices resulting from such schedule.  The 
+Office of the Interconnection shall report the planned schedule for a hydropower resource to the 
+operator of that resource as necessary for plant safety and security, and legal limitations on pond 
+elevations. 
+ 
+  (b) By 1:30 p.m., or as soon as practicable thereafter, of the day before each 
+Operating Day, or such other  deadline as may be specified by the Office of the Interconnection 
+in the PJM Manuals, the Office of the Interconnection shall:  (i) post the aggregate Day-ahead 
+Energy Market results; (ii) post the Day-ahead Prices; and (iii) inform the Market Sellers, Market 
+Buyers, and Economic Load Response Participants of their scheduled injections, withdrawals, 
+and demand reductions respectively.  The foregoing notwithstanding, the deadlines set forth in 
+this subsection shall not apply if the Office of the Interconnection is unable to obtain Market 
+Participant bid/offer data due to extraordinary circumstances.  For purposes of this subsection, 
+extraordinary circumstances shall mean a technical malfunction that limits, prohibits or 
+otherwise interferes with the ability of the Office of the Interconnection to obtain Market 
+Participant bid/offer data prior to 11:59 p.m. on the day before the affected Operating Day.  
+Extraordinary circumstances do not include a Market Participant’s inability to submit bid/offer 
+data to the Office of the Interconnection.  If the Office of the Interconnection is unable to clear 
+the Day-ahead Energy Market prior to 11:59 p.m. on the day before the affected Operating Day 
+as a result of such extraordinary circumstances, the Office of the Interconnection shall notify 
+Members as soon as practicable.  
+ 
+  (c) Following posting of the information specified in section 1.10.8(b), and absent 
+extraordinary circumstances preventing the clearing of the Day-ahead Energy Market, the Office 
+of the Interconnection shall revise its schedule of generation resources to reflect updated 
+projections of load, conditions affecting electric system operations in the PJM Region, the 
+availability of and constraints on limited energy and other resources, transmission constraints, 
+and other relevant factors.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 23 
+ 
+  (d) Market Buyers shall pay PJMSettlement and Market Sellers shall be paid by 
+PJMSettlement for the quantities of energy scheduled in the Day-ahead Energy Market at the 
+Day-ahead Prices when the Day-ahead Price is positive.  Market Buyers shall be paid by 
+PJMSettlement and Market Sellers shall pay PJMSettlement for the quantities of energy 
+scheduled in the Day-ahead Energy Market at the Day-ahead Prices when the Day-ahead Price is 
+negative.  Economic Load Response Participants shall be paid for scheduled demand reductions 
+pursuant to Tariff, Attachment K-Appendix, section 3.3A.  Notwithstanding the foregoing, if the 
+Office of the Interconnection is unable to clear the Day-ahead Energy Market prior to 11:59 p.m. 
+on the day before the affected Operating Day due to extraordinary circumstances as described in 
+subsection (b) above, no settlements shall be made for the Day-ahead Energy Market, no 
+scheduled megawatt quantities shall be established, and no Day-ahead Prices shall be established 
+for that Operating Day.  Rather, for purposes of settlements for such Operating Day, the Office 
+of the Interconnection shall utilize a scheduled megawatt quantity and price of zero and all 
+settlements, including Financial Transmission Right Target Allocations, will be based on the 
+real-time quantities and prices as determined pursuant to Tariff, Attachment K-Appendix, section 
+2.4 and Tariff, Attachment K-Appendix, section 2.5. 
+ 
+ (e) If the Office of the Interconnection discovers a potential error in prices and/or 
+cleared quantities in the Day-ahead Energy Market or Day-ahead Ancillary Services Markets, or 
+the Real-time Energy Market or Real-time Ancillary Services Markets after it has posted the 
+results for these markets on its Web site, the Office of the Interconnection shall notify Market 
+Participants as soon as possible after it is found, but in no event later than 12:00 p.m. of the 
+second Business Day following the Operating Day for the Real-time Energy Market and Real-
+time Ancillary Services Markets, and no later than 5:00 p.m. of the second Business Day 
+following the initial publication of the results for the Day-ahead Energy Market and Day-ahead 
+Ancillary Services Markets.  After this initial notification, if the Office of the Interconnection 
+determines it is necessary to post modified results, it shall provide notification of its intent to do 
+so, along with a description detailing the cause and scope of the error, by no later than 5:00 p.m. 
+of the fifth Business Day following the Operating Day for the Real-time Energy Market and 
+Real-time Ancillary Services Markets, and no later than 5:00 p.m. of the fifth Business Day 
+following the initial publication of the results in the Day-ahead Energy Market and Day-ahead 
+Ancillary Services Markets.  The provided description will not contain information that is market 
+sensitive or confidential.  Thereafter, the Office of the Interconnection must post on its Web site 
+the corrected results by no later than 5:00 p.m. of the tenth calendar day following the Operating 
+Day for the Day-ahead Energy Market, Real-time Energy Market, and Day-ahead Ancillary 
+Services Markets, and Real-time Ancillary Service Markets. Should any of the above deadlines 
+pass without the associated action on the part of the Office of the Interconnection, the originally 
+posted results will be considered final. Notwithstanding the foregoing, the deadlines set forth 
+above shall not apply if the referenced market results are under publicly noticed review by the 
+FERC. 
+ 
+ (f) Consistent with Operating Agreement, section 18.17.1, and notwithstanding 
+anything to the contrary in the Operating Agreement or in the PJM Tariff, to allow the tracking 
+of Market Participants’ non-aggregated bids and offers over time as required by FERC Order No. 
+719, the Office of the Interconnection shall post on its Web site the non-aggregated bid data and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 24 
+Offer Data submitted by Market Participants (for participation in the PJM Interchange Energy 
+Market) approximately four months after the bid or offer was submitted to the Office of the 
+Interconnection.   
+ 
+1.10.9 Hourly Scheduling. 
+ 
+  (a) Following the initial posting by the Office of the Interconnection of the 
+Locational Marginal Prices resulting from the Day-ahead Energy Market, and subject to the right 
+of the Office of the Interconnection to schedule and dispatch pool-scheduled resources and to 
+direct that schedules be changed in an Emergency, and absent extraordinary circumstances 
+preventing the clearing of the Day-ahead Energy Market, a generation rebidding period shall 
+exist.  Typically the rebidding period shall be from the time the Office of the Interconnection 
+posts the results of the Day-ahead Energy Market until 2:15 p.m. on the day before each 
+Operating Day.  However, should the clearing of the Day-ahead Energy Market be significantly 
+delayed, the Office of the Interconnection may establish a revised rebidding period.  During the 
+rebidding period, Market Participants may submit revisions to generation Offer Data for the next 
+Operating Day.  Adjustments to the Day-ahead Energy Market shall be settled at the applicable 
+Real-time Prices, and shall not affect the obligation to pay or receive payment for the quantities 
+of energy scheduled in the Day-ahead Energy Market at the applicable Day-ahead Prices. 
+ 
+  (b) A Market Participant may adjust the schedule of a resource under its dispatch 
+control on an hour-to-hour basis beginning at 6:30 p.m. of the day before each Operating Day, 
+provided that the Office of the Interconnection is notified not later than 65 minutes prior to the 
+hour in which the adjustment is to take effect, as follows and as specified in section 1.10.9A 
+below: 
+ 
+i) A Generating Market Buyer may self-schedule any of its resource 
+increments, including hydropower resources, not previously designated as self-scheduled 
+and not selected as a pool-scheduled resource in the Day-ahead Energy Market; 
+ 
+ii) A Market Participant may request the scheduling of a non-firm bilateral 
+transaction; or 
+ 
+iii) A Market Participant may request the scheduling of deliveries or receipts 
+of Spot Market Energy; or 
+ 
+iv) A Generating Market Buyer may remove from service a resource 
+increment, including a hydropower resource, that it had previously designated as self-
+scheduled, provided that the Office of the Interconnection shall have the option to 
+schedule energy from any such resource increment that is a Capacity Resource at the 
+price offered in the scheduling process, with no obligation to pay any Start-Up Costs. 
+ 
+  (c) An External Market Buyer may refuse delivery of some or all of the energy it 
+requested to purchase in the Day-ahead Energy Market by notifying the Office of the 
+Interconnection of the adjustment in deliveries not later than 65 minutes prior to the hour in 
+which the adjustment is to take effect, but any such adjustment shall not affect the obligation of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 25 
+the External Market Buyer to pay for energy scheduled on its behalf in the Day-ahead Energy 
+Market at the applicable Day-ahead Prices. 
+ 
+  (d) The Office of the Interconnection shall provide External Market Buyers and 
+External Market Sellers and parties to bilateral transactions with any revisions to their schedules 
+resulting from the rebidding period by 6:30 p.m. on the day before each Operating Day.  The 
+Office of the Interconnection may also commit additional resources after such time as system 
+conditions require.  For each hour in the Operating Day, as soon as practicable after the deadlines 
+specified in the foregoing subsection of this section 1.10, the Office of the Interconnection shall 
+provide External Market Buyers and External Market Sellers and parties to bilateral transactions 
+with any revisions to their schedules for the hour. 
+ 
+1.10.9A  Updating Offers in Real-time 
+ 
+(a) Each Market Seller may submit Real-time Offers for a resource up to 65 minutes before 
+the applicable clock hour, and such Real-time Offers shall supersede any previous offer for that 
+resource for the clock hour, as further described in the PJM Manuals and subject to the following 
+conditions: 
+ 
+(i) A market-based Real-time Offer shall not exceed the applicable energy 
+offer caps specified in this Schedule.  Once a Market Seller’s resource is committed for 
+an applicable clock hour, the Market Seller may not increase its Incremental Energy 
+Offer and may only submit a market-based Real-time Offer that is higher than its market-
+based offer that was in effect at the time of commitment to reflect increases in the 
+resource’s cost-based Start-up Costs and cost-based No-load Costs.  The Market Seller 
+may elect not to have its market-based offer considered for dispatch and to have only its 
+lowest cost-based offer considered for the remainder of the Operating Day.    
+ 
+(ii) Cost-based Real-time Offers shall be submitted to the Office of the 
+Interconnection in the form specified by the Office of the Interconnection’s Offer Data 
+specification, Operating Agreement, Schedule 1, sections 1.10.1A(d) and 1.10.9B, 
+Operating Agreement, Schedule 2 and the PJM Manuals, as applicable.  If a Market 
+Seller submits a market-based Real-time Offer for a particular clock hour in accordance 
+with subsection (c) below, or if updates to a cost-based offer are required by the Market 
+Seller’s approved Fuel Cost Policy, the Market Seller shall update its previously 
+submitted cost-based Real-time Offer.   
+ 
+(iii) If a Market Seller’s available cost-based offer is not compliant with 
+Operating Agreement, Schedule 2 and the PJM Manuals at the time a Market Seller 
+submits a market-based Real-time Offer for an applicable clock hour during the 
+Operating Day, the Market Seller must submit an updated cost-based Real-time Offer 
+consisting of an Incremental Energy Offer, Start-up Cost and No-load Cost for that clock 
+hour that is compliant with Operating Agreement, Schedule 2 and the PJM Manuals. 
+(b) Each Market Seller may submit Real-time Offers for a resource during and through the 
+end of the applicable clock hour to update only the following offer parameters, as further 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.10 - Scheduling 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 26 
+described in the PJM Manuals: (1) Economic Minimum; (2) Economic Maximum; (3) 
+emergency minimum MW; (4) emergency maximum MW; (5) unit availability status; (6) fixed 
+output indicator; (7) Synchronized Reserve maximum MW; and (8) Secondary Reserve maximum 
+MW.  Such Real-time Offers shall supersede any previous offer for that resource for the clock 
+hour. 
+1.10.9B  Offer Parameter Flexibility  
+(a)  Market Sellers may, in accordance with sections 1.10.1A and 1.10.9A above, this 
+section 1.10.9B, and the PJM Manuals, update offer parameters at any time up to 65 minutes before 
+the applicable clock hour, including prior to the close of the Day-ahead Energy Market and prior 
+to the close of the rebidding period specified in section 1.10.9, except that Market Sellers may not 
+update their offers for the supply of energy, Secondary Reserve, Synchronized Reserve, Non-
+Synchronized Reserve, or demand reduction: (1) during the period after the close the Day-ahead 
+Energy Market and prior to the posting of the Day-ahead Energy Market results pursuant to section 
+1.10.8(b); or (2) during the period after close of the rebidding period and prior to PJM announcing 
+the results of the rebidding period pursuant to section 1.10.9(d). 
+ 
+(b) For generation resource offers, Market Sellers may vary for each clock hour during 
+the entire Operating Day the following offer parameters:  (1) cost-based Start-up Costs; (2) cost-
+based No-load Costs; (3) Incremental Energy Offer; (4) Economic Minimum and Economic 
+Maximum; (5) emergency minimum MW and emergency maximum MW; (6) ramp rate; (7) 
+Synchronized Reserve maximum MW; (8) Secondary Reserve maximum MW; and (9) for Real-
+time Offers only, (i) notification time and (ii) for uncommitted hours only, Minimum Run Time.   
+ 
+(c) For Economic Load Response Participant resource offers, Market Sellers may vary 
+for each clock hour during the entire Operating Day the following offer parameters:  (1) shutdown 
+costs, (2) Incremental Energy Offer; (3) Economic Minimum; (4) Economic Maximum; and (5) 
+for Real-time Offers only, (i) notification time and (ii) for uncommitted hours only, minimum 
+down time. 
+ 
+(d)  After the announcement of the results of the rebidding period pursuant to section 
+1.10.9(d), a Market Seller may submit a Real-time Offer where offer parameters may differ from 
+the offer originally submitted in the Day-ahead Energy Market, except that a Market Seller may 
+not submit a Real-time Offer that changes, of the offer parameters listed in section 1.10.1A(d), the 
+MW amounts specified in the Incremental Energy Offer, MW amounts specified in the ramp rate, 
+maximum run time, and availability; provided, however, Market Sellers of dual-fueled resources 
+may submit Real-time Offers for such resources that change the availability of a submitted cost-
+based offer. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 1 
+1.11 Real-time Dispatch. 
+ 
+The Office of the Interconnection shall determine the least cost security constrained economic 
+dispatch and send dispatch targets for each resource to Market Participants.  The least cost security 
+constrained economic dispatch is the least costly means of serving load and meeting reserve 
+requirements at different locations in the PJM Region based on forecasted operating conditions on 
+the power grid (including transmission constraints on external coordinated flowgates to the extent 
+provided by Tariff, Attachment K-Appendix, section 1.7.6) as described in the PJM Manuals and 
+on the offers for energy and ancillary services at which Market Sellers have entered as described 
+by Tariff, Attachment K-Appendix, section 1.10 and Tariff, Attachment K-Appendix, section 2.4 
+and on offers by Economic Load Response Participants to reduce demand that qualify to set 
+Locational Marginal Prices in the PJM Interchange Energy Market. 
+ 
+(a) To determine actual operating conditions on the power grid in the PJM Region (including 
+transmission constraints on external coordinated flowgates to the extent provided by Tariff, 
+Attachment K-Appendix, section 1.7.6), the Office of the Interconnection shall use a computer 
+model of the interconnected grid that uses available metered inputs regarding generator output, 
+loads, and power flows to model remaining flows and conditions, producing a consistent 
+representation of power flows on the network as an input into the real-time security constrained 
+economic dispatch.  The computer model employed for this purpose, referred to as the State 
+Estimator program, is a standard industry tool and is described in section 1.11A below.  The State 
+Estimator solution used by the real-time security constrained economic dispatch will be used to 
+obtain information regarding the output of generation supplying energy to the PJM Region, loads 
+at buses in the PJM Region, transmission losses, and power flows on binding transmission 
+constraints. In addition, the Office of the Interconnection shall utilize Ambient-Adjusted Ratings 
+for Transmission Facilities as an input into the real-time security constrained economic dispatch. 
+ 
+(b) The Office of the Interconnection shall execute real-time security constrained economic 
+dispatch for each five (5) minute target time, unless the Office of the Interconnection is unable to 
+generate real-time security constrained economic dispatch solutions due to operational or technical 
+issues, including but not limited to those described in the PJM Manuals.  Each execution of the 
+real-time security constrained economic dispatch shall result in several solutions, taking into 
+consideration different operational scenarios.  
+ 
+(c) The Office of the Interconnection shall approve the applicable real-time security constrained 
+economic dispatch solution for each five (5) minute target time, unless the Office of the 
+Interconnection is unable to approve a real-time security constrained economic dispatch solution 
+for the applicable target time due to a failure of the real-time security constrained economic 
+dispatch program or other operational reasons.  In such situations, either the most recently 
+approved real-time security constrained economic dispatch solution shall persist, or the Office of 
+the Interconnection shall manually dispatch the system. 
+ 
+1.11A Determination of System Conditions Using the State Estimator.   
+ 
+Power system operations, including, but not limited to, the determination of the least costly means 
+of serving load and meeting reserve requirements, depend upon the availability of a complete and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 2 
+consistent representation of generator outputs, loads, and power flows on the network.  In 
+performing the security constrained economic dispatch of the system, the Office of the 
+Interconnection shall obtain a complete and consistent description of conditions on the electric 
+network in the PJM Region by using the most recent power flow solution produced by the State 
+Estimator program.  The State Estimator program is also used by the Office of the Interconnection 
+for other functions within power system operations.  The State Estimator is a standard industry 
+tool that produces a power flow model based on available real-time metering information, 
+information regarding the current status of lines, generators, transformers, and other equipment, 
+bus load distribution factors, and a representation of the electric network, to provide a complete 
+description of system conditions, including conditions at buses for which real-time information is 
+unavailable.  The Office of the Interconnection shall obtain the latest State Estimator solution each 
+time a new security constrained economic dispatch is executed, which shall provide the megawatt 
+output of generators and the loads at buses in the PJM Region, transmission line losses, and actual 
+flows or loadings on transmission facilities as defined in the PJM Manuals. 
+ 
+1.11.1 Resource Output. 
+ 
+The Office of the Interconnection shall have the authority to direct any Market Seller to adjust the 
+output of any pool-scheduled or self-scheduled resource increment within the operating 
+characteristics specified in the Market Seller’s offer.  The Office of the Interconnection may cancel 
+its selection of, or otherwise release, pool-scheduled resources, subject to an obligation to pay any 
+applicable start-up, no-load or cancellation fees.  The Office of the Interconnection shall adjust the 
+output of pool-scheduled or self-scheduled resource increments as necessary:  (a) to maintain 
+reliability, and subject to that constraint, to minimize the cost of supplying the energy, reserves, 
+and other services required by the Market Buyers and the operation of the PJM Region; (b) to 
+balance load and generation, maintain scheduled tie flows, and provide frequency support within 
+the PJM Region; and (c) to minimize unscheduled interchange not frequency related between the 
+PJM Region and other Control Areas. 
+ 
+1.11.2 Operating Basis. 
+ 
+In carrying out the foregoing objectives, the Office of the Interconnection shall conduct the 
+operation of the PJM Region in accordance with the PJM Manuals, and shall: (i) utilize available 
+generating reserves and obtain required replacements; and (ii) monitor the availability of adequate 
+reserves. 
+ 
+1.11.3 Pool-dispatched Resources. 
+ 
+As part of the real-time security constrained economic dispatch calculation, the Office of the 
+Interconnection shall use submitted ramp rates to calculate the next dispatch point.   
+ 
+As part of the calculation, the Office of the Interconnection shall estimate the initial state of each 
+generation resource based on its previous dispatch signal and the most recent State Estimator 
+output.  In the event the Office of the Interconnection is unable to approve a real-time security 
+constrained economic dispatch solution for a period of time, due to a failure of the real-time 
+security constrained economic dispatch program or other operational reasons, the most recent State 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 3 
+Estimator shall be used as the initial state.  This evaluation methodology is calculated for all online 
+dispatchable resources for each market solution in accordance with the PJM Manuals. 
+ 
+ (a) The Office of the Interconnection shall implement the dispatch of energy from 
+pool-scheduled resources with limited energy by direct request, by following the Day-ahead 
+Market clearing, or by following the direct request of the Market Seller, subject to the Office of 
+the Interconnection’s determination of actions necessary to maintain reliability.   
+ 
+ (b) The Office of the Interconnection shall implement the dispatch of energy from other 
+pool-dispatched resource increments, including generation increments from Capacity Resources 
+the remaining increments of which are self-scheduled, by sending appropriate signals and 
+instructions to the entity controlling such resources, in accordance with the PJM Manuals.  Each 
+Market Seller shall ensure that the pool-dispatched resource offered or made available by that 
+Market Seller complies with the energy dispatch signals and instructions transmitted by the Office 
+of the Interconnection upon receipt. 
+ 
+1.11.3A  Maximum Generation Emergency. 
+ 
+If the Office of the Interconnection declares a Maximum Generation Emergency, all deliveries to 
+load that is served by Point-to-Point Transmission Service outside the PJM Region from 
+Generation Capacity Resources committed to service of PJM loads under the Reliability Pricing 
+Model or Fixed Resource Requirement Alternative may be interrupted in order to serve load in the 
+PJM Region. 
+ 
+1.11.4 Regulation. 
+ 
+ (a) A Market Buyer may satisfy its Regulation Obligation from its own generation 
+resources and/or Economic Load Response Participant resources capable of performing 
+Regulation service, by contractual arrangements with other Market Participants able to provide 
+Regulation service, or by purchases from the PJM Interchange Energy Market at the rates set forth 
+in Operating Agreement, Schedule 1, section 3.2.2.  PJMSettlement shall be the Counterparty to 
+the purchases and sales of Regulation service in the PJM Interchange Energy Market; provided 
+that PJMSettlement shall not be a contracting party to bilateral transactions between Market 
+Participants or with respect to a self-schedule or self-supply of generation resources by a Market 
+Buyer to satisfy its Regulation Obligation. 
+ 
+ (b) The Office of the Interconnection shall obtain Regulation service from the least-
+cost alternatives available from either pool-scheduled or self-scheduled generation resources 
+and/or Economic Load Response Participant resources as needed to meet Regulation Zone 
+requirements not otherwise satisfied by the Market Buyers.  Generation resources or Economic 
+Load Response Participant resources offering to sell Regulation shall be selected to provide 
+Regulation on the basis of each generation resource’s and Economic Load Response Participant 
+resource’s regulation offer and the estimated opportunity cost of a resource providing regulation 
+and in accordance with the Office of the Interconnection’s obligation to minimize the total cost of 
+energy, Operating Reserves, Regulation, and other ancillary services.  Estimated opportunity costs 
+for generation resources shall be determined by the Office of the Interconnection on the basis of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 4 
+the expected value of the energy sales that would be foregone or uneconomic energy that would 
+be produced by the resource in order to provide Regulation, in accordance with procedures 
+specified in the PJM Manuals.  Estimated opportunity costs for Economic Load Response 
+Participant resources will be zero.   
+ 
+ (c) The Office of the Interconnection shall dispatch resources for Regulation by 
+sending Regulation signals and instructions to generation resources and/or Economic Load 
+Response Participant resources from which Regulation service has been offered by Market Sellers, 
+in accordance with the PJM Manuals.  Market Sellers shall comply with Regulation dispatch 
+signals and instructions transmitted by the Office of the Interconnection and, in the event of 
+conflict, Regulation dispatch signals and instructions shall take precedence over energy dispatch 
+signals and instructions.  Market Sellers shall exert all reasonable efforts to operate, or ensure the 
+operation of, their resources supplying energy in the PJM Region as close to desired output levels 
+as practical, consistent with Good Utility Practice. 
+ 
+1.11.4A  Synchronized Reserve. 
+ 
+ (a) A Market Buyer may satisfy its Synchronized Reserve Obligation from its own 
+generation resources and/or Economic Load Response Participant resources capable of providing 
+Synchronized Reserve, by contractual arrangements with other Market Participants able to provide 
+Synchronized Reserve, or by purchases from the PJM Synchronized Reserve Market at the rates 
+set forth in Operating Agreement, Schedule 1, section 3.2.3A.  PJMSettlement shall be the 
+Counterparty to the purchases and sales of Synchronized Reserve in the PJM Interchange Energy 
+Market; provided that PJMSettlement shall not be a contracting party to bilateral transactions 
+between Market Participants or with respect to a self-schedule or self-supply of generation 
+resources by a Market Buyer to satisfy its Synchronized Reserve Obligation. 
+ 
+ (b) The Office of the Interconnection shall obtain Synchronized Reserve from available 
+either pool-scheduled or self-scheduled generation resources and/or Economic Load Response 
+Participant resources as needed to meet the Synchronized Reserve Requirements of each Reserve 
+Zone and Reserve Sub-zone of the PJM Region not otherwise satisfied by the Market Buyers.  The 
+Office of the Interconnection shall clear both the Day-ahead Synchronized Reserve Market and 
+the Real-time Synchronized Reserve Market in accordance with the applicable Operating Reserve 
+Demand Curve established in accordance with Operating Agreement, Schedule 1, section 
+3.2.3A.02, the offers submitted in the PJM Interchange Energy Market, and the offers submitted 
+in the Synchronized Reserve Market.  Resources shall be cleared to provide Synchronized Reserve 
+on the basis of each generation resource’s and/or Economic Load Response Participant resource’s 
+Synchronized Reserve offer and the product substitution cost of providing Synchronized Reserve, 
+energy and any other product the resource is capable of providing, and in accordance with the 
+Office of the Interconnection’s obligation to jointly procure and minimize the total production cost 
+of energy, and of meeting the Synchronized Reserve Requirements, Primary Reserve 
+Requirements, 30-minute Reserve Requirements, and, in the real-time energy and reserve markets, 
+Regulation Requirement.  However, any synchronous condenser or Economic Load Response 
+Participant resource with a notification offer parameter of at least ten minutes but no more than 30 
+minutes, and with a minimum run time (or minimum down time for Economic Load Response 
+Participant resources) no greater than one hour, and which receives a commitment to provide 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 5 
+Synchronized Reserve in the Day-ahead Synchronized Reserve Market shall be committed to 
+provide Synchronized Reserve in the Real-time Synchronized Reserve Market, unless the resource 
+is committed in real-time to provide energy or another reserve product.   
+ 
+ (c) The Office of the Interconnection shall dispatch generation resources and/or 
+Economic Load Response Participant resources for Synchronized Reserve by sending 
+Synchronized Reserve instructions to generation resources and/or Economic Load Response 
+Participant resources from which Synchronized Reserve has been offered by Market Sellers, in 
+accordance with the PJM Manuals.  Market Sellers shall comply with Synchronized Reserve 
+dispatch instructions transmitted by the Office of the Interconnection and, in the event of a conflict, 
+Synchronized Reserve dispatch instructions shall take precedence over energy dispatch signals and 
+instructions.  Market Sellers shall exert all reasonable efforts to operate, or ensure the operation 
+of, their generation resources supplying energy in the PJM Region as close to desired output levels 
+as practical, consistent with Good Utility Practice. 
+ 
+1.11.4B  Non-Synchronized Reserve. 
+ 
+(a) A Market Buyer may satisfy its Non-Synchronized Reserve Obligation from its 
+own generation resources capable of providing Non-Synchronized Reserve, by contractual 
+arrangements with other Market Participants able to provide Non-Synchronized Reserve, or by 
+purchases from the PJM Non-Synchronized Reserve Market at the rates set forth in Operating 
+Agreement, Schedule 1, section 3.2.3A.001.  PJMSettlement shall be the Counterparty to the 
+purchases and sales of Non-Synchronized Reserve in the PJM Interchange Energy Market; 
+provided that PJMSettlement shall not be a contracting party to bilateral transactions between 
+Market Participants or with respect to a self-supply of generation resources by a Market Buyer to 
+satisfy its Non-Synchronized Reserve Obligation. 
+ 
+(b) The Office of the Interconnection shall obtain Non-Synchronized Reserve from the 
+least-cost alternatives available from pool-scheduled generation resources, as needed to ensure the 
+Primary Reserve Requirements of each Reserve Zone and Reserve Sub-zone of the PJM Region 
+not otherwise satisfied by the Resources providing Synchronized Reserve.  The Office of the 
+Interconnection shall clear both the Day-ahead Non-Synchronized Reserve Market and the Real-
+time Non-Synchronized Reserve Market in accordance with the applicable Operating Reserve 
+Demand Curve established in accordance with Operating Agreement, Schedule 1, section 
+3.2.3A.02, the offers submitted in the PJM Interchange Energy Market, and the offers submitted 
+in the Non-Synchronized Reserve Market.  Resources eligible to sell Non-Synchronized Reserve 
+shall be cleared to provide Non-Synchronized Reserve on the basis of each resource’s product 
+substitution cost between providing Non-Synchronized Reserve, energy and any other product the 
+resource is capable of providing, and in accordance with the Office of the Interconnection’s 
+obligation to jointly procure and minimize the total production cost of energy and of meeting the 
+Synchronized Reserve Requirements, Primary Reserve Requirements, 30-minute Reserve 
+Requirements, and, in the real-time energy and reserve markets, Regulation Requirement.   
+ 
+(c) The Office of the Interconnection shall dispatch generation resources for Non-
+Synchronized Reserve by sending Non-Synchronized Reserve instructions to generation resources 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 6 
+from which Non-Synchronized Reserve is available, in accordance with the PJM Manuals.  Market 
+Sellers shall comply with Non-Synchronized Reserve dispatch instructions transmitted by the 
+Office of the Interconnection, and in the event of a conflict, Non-Synchronized Reserve dispatch 
+instructions shall take precedence over energy dispatch signals and instructions.  Market Sellers 
+shall exert all reasonable efforts to operate, or ensure the operation of, their generation resources 
+supplying energy in the PJM Region as close to desired output levels as practical, consistent with 
+Good Utility Practice. 
+ 
+1.11.4C Secondary Reserve.  
+ 
+(a)  A Market Buyer may satisfy its Secondary Reserve Obligation by contractual arrangements 
+with other Market Participants able to provide Secondary Reserve, or by purchases from the PJM 
+Secondary Reserve Market at the rates set forth in Operating Agreement, Schedule 1, section 
+3.2.3A.01. PJMSettlement shall be the Counterparty to the purchases and sales of Secondary 
+Reserve in the PJM Interchange Energy Market; provided that PJMSettlement shall not be a 
+contracting party to bilateral transactions between Market Participants.  
+ 
+(b)  The Office of the Interconnection shall obtain Secondary Reserve from the least-cost 
+alternatives available from pool-scheduled generation resources and/or Economic Load Response 
+Participant resources as needed to meet the 30-minute Reserve Requirements of each Reserve Zone 
+and Reserve Sub-zone of the PJM Region not otherwise satisfied by resources providing 
+Synchronized Reserve and resources providing Non-Synchronized Reserve. The Office of the 
+Interconnection shall clear both the Day-ahead Secondary Reserve Market and the Real-time 
+Secondary Reserve Market in accordance with the applicable Operating Reserve Demand Curve 
+established in accordance with Operating Agreement, Schedule 1, section 3.2.3A.02, the offers 
+submitted in the PJM Interchange Energy Market and the offers submitted in the Secondary 
+Reserve Market. Resources shall be cleared to provide Secondary Reserve on the basis of each 
+generation resource’s and/or Economic Load Response Participant resource’s Secondary Reserve 
+offer and the product substitution cost between providing Secondary Reserve, energy and any other 
+product the resource is capable of providing, and in accordance with the Office of the 
+Interconnection’s obligation to jointly procure and minimize the total production cost of energy 
+and of meeting the Synchronized Reserve Requirements, Primary Reserve Requirements, 30-
+minute Reserve Requirements, and, in the real-time energy and reserve markets, Regulation 
+Requirement. However, any synchronous condenser or Economic Load Response Participant 
+resource with a notification offer parameter of at least ten minutes greater but no more than 30 
+minutes, and with a minimum run time (or minimum down time for Economic Load Response 
+Participant resources) no greater than one hour, and which receives a commitment to provide 
+Secondary Reserve in the Day ahead Secondary Reserve Market shall be committed to provide 
+Secondary Reserve in the Real-time Secondary Reserve Market, unless the resource is committed 
+in real-time to provide energy or another reserve product.  
+ 
+(c)  The Office of the Interconnection shall dispatch generation resources and/or Economic 
+Load Response Participant resources for Secondary Reserve by sending Secondary Reserve 
+instructions to generation resources and/or Economic Load Response Participant resources from 
+which Secondary Reserve has been offered by Market Sellers, in accordance with the PJM 
+Manuals. Market Sellers shall exert all reasonable efforts to operate, or ensure the operation of, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.11 - Real-time Dispatch 
+Effective Date: 3/4/2026 - Docket #: ER22-2359-004 - Page 7 
+their generation resources supplying energy in the PJM Region as close to desired output levels as 
+practical, consistent with Good Utility Practice. 
+ 
+1.11.5 PJM Open Access Same-time Information System.   
+ 
+The Office of the Interconnection shall update the information posted on the PJM Open Access 
+Same-time Information System to reflect its dispatch of generation resources. 
+ 
+1.11.6 Real-time Energy Market Suspension.  
+ 
+If the Office of the Interconnection declares a Market Suspension (the inability of the Office of the 
+Interconnection to produce Zonal Dispatch Rates for a total of seven (7) or more Real-time 
+Settlement Intervals within a clock hour), Real-time Prices shall be determined pursuant to 
+Operating Agreement, Schedule 1, section 2.5.2 and the Office of the Interconnection shall notify 
+Market Participants of the Market Suspension as soon as practicable. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.12 Dynamic Scheduling. 
+Effective Date: 11/9/2017 - Docket #: ER17-2291-000 - Page 1 
+1.12 Dynamic Transfers. 
+ 
+  (a) An entity that owns or controls a generating resource in the PJM Region may 
+request that the Transmission Provider electrically remove all or part of the generating resource’s 
+output from the PJM Region through a Dynamic Transfer of the output to load outside the PJM 
+Region.  Such output shall not be available for economic dispatch by the Office of the 
+Interconnection.  A Market Participant otherwise eligible pursuant to section 3.2.3 to submit 
+start-up and no-load values of a generating unit for consideration in calculation of the Operating 
+Reserve Credit shall not be so eligible if all of the output of the generating unit is transferred 
+outside of the PJM Region by a Dynamic Transfer. 
+ 
+  (b) An entity that owns or controls a generating resource outside of the PJM Region 
+may request that the Transmission Provider electrically add all or part of the generating 
+resource’s output to the PJM Region through a Dynamic Transfer of the output to load inside the 
+PJM Region.  A Market Participant otherwise eligible pursuant to section 3.2.3 to submit start-up 
+and no-load values of a generating unit for consideration in calculation of the Operating Reserve 
+Credit shall be so eligible only if all of the output of the generating unit is transferred into the 
+PJM Region by a Dynamic Transfer. 
+ 
+  (c) The Transmission Provider may implement Dynamic Transfers pursuant to a 
+request under subsections (a) or (b) above, provided that the requesting entity can demonstrate to 
+the satisfaction of the Transmission Provider that the requesting entity has arranged for the 
+provision of signal processing and communications from the generating unit to the Office of the 
+Interconnection and other participating control areas and remains in compliance with any other 
+procedures and operational requirements established by the Office of the Interconnection 
+regarding Dynamic Transfer as set forth in the PJM Manuals. 
+ 
+  (d) An entity requesting a Dynamic Transfer shall be responsible for reserving the 
+amount of transmission service necessary to deliver the range of the Dynamic Transfer and any 
+required ancillary services as applicable.  Firm or non-firm transmission service may be used to 
+deliver Dynamic Schedules.  Dynamic Schedules are not eligible to provide ancillary services.  
+Only firm transmission service may be used to deliver Pseudo-Ties.  Pseudo-Ties are eligible to 
+provide Regulation, Synchronized Reserve and Non-Synchronized Reserve as further described 
+in the PJM Manuals.  An entity seeking to utilize a Dynamic Schedule to coordinate operations 
+and beneficially manage congestion in real time with PJM may execute a mutually agreeable 
+interregional congestion management agreement as contemplated in Section 2.6A of this 
+Schedule. An entity seeking to utilize a Pseudo-Tie shall execute a mutually agreeable 
+interregional congestion management agreement as contemplated in Section 2.6A of this 
+Schedule.  An entity seeking to utilize a Dynamic Transfer shall execute an agreement 
+prescribing the requirements that must be met before PJM will implement the requested 
+Dynamic Transfer. Dynamic Schedule transactions that occur in real time pursuant to such a 
+congestion management agreement may utilize after-the-fact transmission reservations to 
+account for actual energy transfers.   
+ 
+  (e) The Market Participant shall cooperate with PJM to ensure that changes in the 
+Dynamic Transfer value do not adversely impact PJM’s management of the PJM Area Control 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.12 Dynamic Scheduling. 
+Effective Date: 11/9/2017 - Docket #: ER17-2291-000 - Page 2 
+Error in a manner unacceptable to PJM, and, in the event that PJM, in its sole discretion, 
+determines that the Market Participant’s actions in this regard are unacceptable, PJM may 
+terminate the Dynamic Transfer arrangement and may require such additional conditions as it 
+deems appropriate prior to any further Dynamic Transfers. 
+ 
+ (f) Market Sellers of generators and other sources otherwise eligible pursuant to 
+Schedule 2 of the PJM Tariff to receive compensation for providing reactive supply and voltage 
+control shall not be so eligible if the generating unit is outside of the PJM Region regardless of 
+whether the generating unit is transferred into the PJM Region by a Dynamic Transfer. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 1 - MARKET 
+OPERATIONS --> OATT Attachment K Appendix Sec 1.13 - Coordinated Transactio 
+Effective Date: 11/4/2014 - Docket #: ER14-623-001 - Page 1 
+1.13 Coordinated Transaction Scheduling 
+ 
+(a) The provisions of this Section 1.13 apply to Coordinated External Transactions. 
+ 
+(b) A CTS Interface Bid submitted in the Real-time Energy Market shall specify the 
+sink, the corresponding source, and a duration consisting of one or more consecutive quarter-
+hour increments.  A CTS Interface Bid shall include a bid price and a bid quantity for each 
+quarter-hour increment.  A CTS Interface Bid may not be submitted or modified later than 75 
+minutes before the start of the hour that includes the first quarter-hour increment for which the 
+CTS Interface Bid is offered.  A CTS Interface Bid must include the associated NERC E-Tag at 
+the time it is submitted. 
+ 
+(c) CTS Interface Bids are cleared in economic merit order for each quarter-hour 
+increment, based upon the forecasted price differential across the CTS Enabled Interface.  
+Subject to Transmission System conditions and operating limits as described in this subsection 
+(c) below, and credit limits and requirements as described in Attachment Q of the PJM Tariff, a 
+CTS Interface Bid will clear if the forecasted price differential across the CTS Enabled Interface 
+is greater than or equal to the bid price.  The total quantity of CTS Interface Bids cleared shall 
+depend upon, among other factors, bid production costs of resources in both Control Areas, the 

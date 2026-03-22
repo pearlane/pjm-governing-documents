@@ -1,0 +1,925 @@
+[PART IV-INTERCONNECTIONS - Part 4 of 4]
+
+eligible for the screens process.  However, eligibility is distinct from the screens process itself, 
+and eligibility does not imply or indicate that an Energy Resource will pass the screens in section 
+112A.2 below or the Supplemental Review screens in section 112A.5.3 below.   
+ 
+Eligibility is determined based upon the generator type, the size of the generator, voltage of the 
+line and the location of and the type of line at the Point of Interconnection.  All Energy 
+Resources connecting to lines greater than 69 kilovolt (kV) are ineligible for this process 
+regardless of size.  All synchronous and induction machines must be no larger than 2 MW to be 
+eligible for this process, regardless of location.  For certified inverter-based systems, the size 
+limit varies according to the voltage of the line at the proposed Point of Interconnection.  
+Certified inverter-based Energy Resources located within 2.5 electrical circuit miles of a 
+substation and on a mainline (as defined in the table below) are eligible for this process under the 
+higher thresholds according to the table below.  In addition to the size threshold, the 
+Interconnection Customer’s proposed Energy Resource must meet the codes, standards and 
+certification requirements of Tariff, Attachment Z and Tariff, Attachment AA.  Alternatively, the 
+Transmission Provider has to have reviewed the design or tested the proposed Energy Resource 
+and is satisfied that it is safe to operate. 
+ 
+Fast Track Eligibility for Inverter-Based Systems 
+Line Voltage 112A Eligibility 
+Regardless of Location 
+112A Eligibility on a Mainline1 and ≤ 
+2.5 Electrical Circuit Miles from 
+Substation2 
+< 5 kV ≤ 500 kW ≤ 500 kW 
+≥ 5 kV and < 15 kV ≤ 2 MW ≤ 3 MW 
+≥ 15 kV and < 30 kV ≤ 3 MW ≤ 4 MW 
+≥ 30 kV and ≤ 69 kV ≤ 4 MW ≤ 5 MW 
+ 
+In the event that such an Energy Resource does not meet such certification requirements, the 
+request for interconnection of the Energy Resource shall be processed under Tariff, Part IV, 
+Subpart G, section 111 or Tariff, Part IV, Subpart G, section 112, as applicable. 
+________________________ 
+1 For purposes of this table, a mainline is the three-phase backbone of a circuit. It will typically constitute lines with 
+wire sizes of 4/0 American wire gauge, 336.4 kcmil, 397.5 kcmil, 477 kcmil and 795 kcmil. 
+2  An Interconnection Customer can determine this information about its proposed interconnection location in 
+advance by requesting a pre-application report pursuant to section 1.2. 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+ 
+Energy Resources requesting interconnection under this section 112A may be expedited ahead of 
+larger projects already in the New Services Queue.  In such instance, the Energy Resource shall 
+be able to participate in the energy market until the studies have been completed for the earlier 
+queued projects and all related obligations have been defined.  At such time as these studies are 
+completed and reveal additional obligations required of the Energy Resource interconnected 
+under this section 112A, a revised Interconnection Service Agreement shall be executed. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 1 
+112A.1   Application 
+ 
+The Interconnection Customer desiring the interconnection of a new permanent or temporary 
+Energy Resource of 2 MW or less (synchronous) or 5 MW or less (inverter-based) must submit 
+to the Transmission Provider an Interconnection Request.  The Transmission Provider shall 
+acknowledge receipt of the Interconnection Request (electronically when available to all parties, 
+otherwise written) within five Business Days after receipt of the Interconnection Request. 
+ 
+1. Interconnection Request Requirements. 
+a. To be assigned a PJM Queue Position pursuant to Tariff, Part VI, 
+Preamble, section 201, an Interconnection Customer must submit a 
+complete and fully executed Form of Screens Process Interconnection 
+Request (For Generation Facilities of 2 MW or Less Synchronous 5 MW 
+or Less Inverter-Based), a form of which is located in the Tariff, 
+Attachment Y.  To be considered complete at the time of submission, the 
+Interconnection Customer’s Form of Screens Process Interconnection 
+Request (For Generation Facilities of 2 MW or Less Synchronous 5 MW 
+or Less Inverter-Based) must include, at a minimum, each of the 
+following: 
+i.  Interconnection Customer Information; and 
+ii.  Energy Resource Information; and 
+iii.  Energy Resource Characteristic Data; and 
+iv. Interconnection Facilities Information; and  
+v.  Diagrams and Site Control; and 
+vi.  Deposit. 
+(1) A deposit shall be submitted to Transmission Provider, as 
+follows: 
+(a) A deposit of $2,000 if the Interconnection Request 
+is received in the first four calendar months of the 
+current New Services Queue; or 
+(b) A deposit of $3,000 if the Interconnection Request 
+is received in the fifth calendar month of the current 
+New Services Queue; or  
+(c) A deposit of $5,000 if the Interconnection Request 
+is received in the sixth calendar month of the 
+current New Services Queue. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 2 
+(2) 10% of each total deposit amount is non-refundable.  Any 
+unused non-refundable deposit monies shall be returned to 
+the Interconnection Customer upon Initial Operation.  
+However, if, before reaching Initial Operation, the 
+Interconnection Customer withdraws its Interconnection 
+Request, or the Interconnection Request is otherwise 
+deemed rejected or terminated and withdrawn, any unused 
+portion of the non-refundable deposit monies shall be used 
+to fund: 
+(a) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices due to Transmission Provider, 
+Interconnected Transmission Owner(s) and/or third 
+party contractors, as applicable, as a result of any 
+failure of the Interconnection Customer to pay 
+actual costs for the Interconnection Request and/or 
+associated Queue Position; and/or 
+(b) Any restudies required as a result of the rejection, 
+termination and/or withdrawal of such 
+Interconnection Request; and/or 
+(c) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices related to prior New Service 
+Requests and/or Generation Interconnection 
+Requests and/or Queue Positions by the 
+Interconnection Customer. 
+(3) 90% of each total deposit amount is refundable, and the 
+Transmission Provider shall utilize, in no particular order, 
+the refundable portion of each total deposit amount to cover 
+the following: 
+(a) The cost of the screens evaluation and/or 
+supplemental screens evaluations; and 
+(b) The dollar amount of the Interconnection 
+Customer’s cost responsibility for the 
+Interconnection Feasibility Study; and 
+(c) If the Interconnection Request is deemed to be 
+modified (pursuant to Tariff, Part IV, Subpart A, 
+section 36.2A), rejected, terminated and/or 
+withdrawn during the deficiency review and/or 
+deficiency response period, as described further 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 3 
+below, or during the screens evaluation period, the 
+refundable deposit money shall be applied to cover 
+all of the costs incurred by the Transmission 
+Provider up to the point of such Interconnection 
+Request being modified, rejected, terminated and/or 
+withdrawn, and any remaining refundable deposit 
+monies shall be applied to cover: 
+(i) The costs of any restudies required as a 
+result of the modification (pursuant to 
+Tariff, Part IV, Subpart A, section 36.2A), 
+rejection, termination and/or withdrawal of 
+such Interconnection Request; and/or 
+(ii) Any outstanding monies owed by the 
+Interconnection Customer in connection 
+with outstanding invoices due to 
+Transmission Provider, Interconnected 
+Transmission Owner(s) and/or third party 
+contractors, as applicable, as a result of any 
+failure of the Interconnection Customer to 
+pay actual costs for the Interconnection 
+Request and/or associated Queue Position; 
+and/or 
+(iii) Any outstanding monies owed by the 
+Interconnection Customer in connection 
+with outstanding invoices related to prior 
+New Service Requests and/or Generation 
+Interconnection Requests and/or Queue 
+Positions by the Interconnection Customer. 
+(iv) If any refundable deposit monies remain 
+after all costs and outstanding monies owed, 
+as described in this section, are covered, 
+such remaining refundable deposit monies 
+shall be returned to the Interconnection 
+Customer in accordance with the PJM 
+Manuals.  
+(4) Upon completion of the screens evaluations, the 
+Transmission Provider shall apply any remaining 
+refundable deposit monies toward: 
+(a) The Interconnection Customer’s cost responsibility 
+for any other studies conducted for the 
+Interconnection Request under Tariff, Part VI, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 4 
+which shall be applied prior to the deposit monies 
+collected for such other studies; and/or 
+(b) Any outstanding monies owed by the 
+Interconnection Customer in connection with 
+outstanding invoices related to prior New Service 
+Requests and/or Generation Interconnection 
+Requests and/or Queue Positions by the 
+Interconnection Customer. 
+(5) If any refundable deposit monies remain after the screens 
+evaluations are complete and any outstanding monies owed 
+by the Interconnection Customer in connection with 
+outstanding invoices related to prior New Service Requests 
+and/or Generation Interconnection Requests and/or Queue 
+Positions by the Interconnection Customer have been paid, 
+such remaining deposit monies shall be returned to the 
+Interconnection Customer. 
+(6) The Interconnection Customer must submit the total 
+required deposit amount with the Interconnection Request.  
+If the Interconnection Customer fails to submit the total 
+required deposit amount with the Interconnection Request, 
+the Interconnection Request shall be deemed to be 
+terminated and withdrawn (i.e., the Interconnection 
+Request shall be terminated prior to reaching the screens 
+evaluations and/or deficiency review stage). 
+(7) Deposit monies are non-transferrable.  Under no 
+circumstances may refundable or non-refundable deposit 
+monies for a specific Interconnection Request or Queue 
+Position be applied in whole or in part to a different New 
+Service Request or Interconnection Request or Queue 
+Position. 
+vii. Primary frequency response operating range for Energy Storage 
+Resources. 
+2. Deficiency Review.  Transmission Provider shall provide a deficiency review of 
+the Interconnection Request to determine whether the Interconnection Customer 
+submitted a valid Interconnection Request. 
+a. If an Interconnection Request meets all of the requirements set forth 
+above, the Transmission Provider shall start the deficiency review. 
+b. If there are deficiencies in the Interconnection Request for any of the 
+requirements set forth above, the Transmission Provider shall use 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 5 
+Reasonable Efforts consistent with the volume of the New Services Queue 
+to notify the Interconnection Customer (electronically when available to 
+all parties, otherwise written) within fifteen Business Days of receipt of 
+the Interconnection Request that such Interconnection Request is deficient.  
+If Transmission Provider is unable to provide a deficiency review within 
+fifteen Business Days from receipt of the Generation Interconnection 
+Request, Transmission Provider shall use Reasonable Efforts to complete 
+and issue the deficiency review to the Interconnection Customer as soon 
+thereafter as practicable, but, in no event shall the Transmission Provider’s 
+response herein serve as a basis to delaying Transmission Provider’s 
+compliance with the Interconnection Feasibility Study provisions of the 
+Tariff, Part IV, Subpart A, section 36.2.  This notification is referred to as 
+a deficiency notice. 
+i. The deficiency notice shall clearly set forth the basis upon which 
+the deficiency determination was made. 
+ii. The Interconnection Customer shall be provided ten Business Days 
+to respond to the deficiency notice.  This ten Business Day period 
+is referred to as the deficiency response period. 
+(1) Within the deficiency response period, the Interconnection 
+Customer shall provide, in full, the additional information 
+and/or evidence and/or monies that the Transmission 
+Provider’s deficiency notice identified as being required to 
+constitute a valid Interconnection Request. 
+(2) If the Interconnection Customer fails to clear within the 
+deficiency response period all deficiencies identified by the 
+Transmission Provider in the deficiency notice, the 
+Interconnection Request shall be deemed to be terminated 
+and withdrawn. 
+iii. Without regard to the timing of the Interconnection Customer’s 
+deficiency response period, the Transmission Provider shall use 
+Reasonable Efforts consistent with the volume of the New Services 
+Queue to review each Interconnection Customer’s response to the 
+deficiency notice within fifteen Business Days of the 
+Interconnection Customer submitting its response to the deficiency 
+notice.  If Transmission Provider is unable to complete its review 
+of Interconnection Customer’s response to the deficiency notice 
+within fifteen Business Days of receiving the response, 
+Transmission Provider shall use Reasonable Efforts to complete 
+such review as soon thereafter as practicable, but, in no event shall 
+the Transmission Provider’s response herein serve as a basis to 
+delaying Transmission Provider’s compliance with the 
+Interconnection Feasibility Study provisions of the Tariff, Part IV, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 6 
+Subpart A, section 36.2.  If the Generation Interconnection Request 
+is still deficient after the Transmission Provider’s review of 
+Interconnection Customer’s response to the deficiency notice and 
+the full ten Business Days of the Interconnection Customer’s 
+deficiency response period have expired, the Interconnection 
+Requests shall be deemed to be terminated and withdrawn. 
+iv. If the Interconnection Customer fails to respond in full to the 
+Transmission Provider’s deficiency notice (including failing to 
+provide all of the additional required information, evidence and/or 
+make payments on any outstanding invoices required by the 
+Transmission Provider’s deficiency notice), the Generation 
+Interconnection Request shall be deemed to be terminated and 
+withdrawn. 
+3. The Interconnection Customer must submit a complete and fully executed Form 
+of Screens Process Interconnection Request (For Generation Facilities of 2 MW 
+or Less Synchronous 5 MW or Less Inverter-Based) (Tariff, Attachment Y) to the 
+Transmission Provider by March 10 for the New Services Queue ending March 
+31, and by September 10 for the New Services Queue ending September 30.  No 
+Generation Interconnection Requests shall be accepted for the relevant New 
+Services Queue after such dates.  
+4. In accordance with Tariff, Part VI, Preamble, section 201, Transmission Provider 
+shall assign Queue Positions as of the date and time of receipt of all information 
+required pursuant to Tariff, Part IV, Subpart G, section 112A.  If the information 
+required pursuant to Tariff, Part IV, Subpart G, section 112A is provided to the 
+Transmission Provider in separate submissions, the Queue Position shall be 
+assigned based on the date and time of receipt of the last required piece of 
+information. 
+5. Deficiency notices shall be considered cleared as of the date and time the 
+Transmission Provider receives from the Interconnection Customer the last piece 
+of required information deemed acceptable by the Transmission Provider to clear 
+such deficiency notice. 
+6. Transmission Provider Website Postings. 
+a. The Transmission Provider shall maintain on the Transmission Provider’s 
+website a list of all Interconnection Requests that identifies: 
+i. The proposed maximum summer and winter megawatt electrical 
+output; 
+ii. The location of the generation by county and state; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.1  Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 7 
+iii. The station or transmission line or lines where the interconnection 
+will be made; 
+iv. The facility’s projected date of Initial Operation; 
+v. The status of the Interconnection Request, including its Queue 
+Position; 
+vi. The type of Interconnection Service requested; 
+vii. The availability of any studies related to the Interconnection 
+Request; 
+viii. The date of the Interconnection Request; 
+ix. The type of Generating Facility to be constructed (combined cycle, 
+base load or combustion turbine and fuel type); and 
+x. For each Interconnection Request that has not resulted in a 
+completed interconnection, an explanation of why it was not 
+completed. 
+b. This list shall not disclose the identity of the Interconnection Customer, except as 
+otherwise provided in Tariff, Part IV.  The list and the priority of Interconnection 
+Requests shall be included on the Transmission Provider’s website as part of the 
+New Services Queue. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.2 Screens 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112A.2   Screens.  Subject to the Interconnection Customer, Transmission Provider and 
+Interconnected Transmission Owner(s) mutually agreeing to reasonable extension of time 
+beyond 15 business days, which agreement shall not be unreasonably withheld, within 15 
+business days of the Interconnection Customer submitting an Interconnection Request pursuant 
+to Tariff, Part IV, Subpart G, section 112A.1, Transmission Provider in consultation with the 
+relevant Interconnected Transmission Owner(s) shall: 
+ 
+1. Provide a screens review/evaluation of the Interconnection Request using the 
+screens set forth below; and 
+  
+2. Notify the Interconnection Customer of the results of the initial review/evaluation 
+and inform the Interconnection Customer whether supplemental screens evaluations must 
+be performed; and 
+  
+3. Provide the Interconnection Customer with the analysis and data underlying the 
+Transmission Provider’s determinations pursuant to the screens set forth below. 
+ 
+112A.2.1 The proposed interconnection must be on a portion of the Interconnected 
+Transmission Owner’s distribution facilities located in the PJM Region and the output of the 
+Customer Facility to be used for wholesale sales in the PJM Region.  Distribution facilities shall 
+include facilities that are non-networked, often lower voltage facilities that carry power in one 
+direction, but does not include sub transmission facilities. 
+ 
+112A.2.2 For interconnection of a proposed Energy Resource to a radial distribution circuit, 
+the aggregated generation, including the proposed Energy Resource on the circuit shall not 
+exceed 15% of the line section annual peak load as most recently measured at the substation.  A 
+line section is that portion of an Interconnected Transmission Owner’s electric system connected 
+to a customer and bounded by automatic sectionalizing devices or the end of the distribution line. 
+ 
+112A.2.3 For interconnection of a proposed Energy Resource to the load side of spot 
+network protectors, the proposed Energy Resource must utilize an inverter-based equipment 
+package and, together with the aggregated other inverter-based generation, shall not exceed the 
+smaller of 5% of a spot network's maximum load or 50 kW. 
+ 
+112A.2.4 The proposed Energy Resource, in aggregation with other generation on the 
+distribution circuit, shall not contribute more than 10% to the distribution circuit's maximum 
+fault current at the point on the high voltage (primary) level nearest the proposed point of change 
+of ownership. 
+ 
+112A.2.5 The proposed Energy Resource, in aggregate with other generation on the 
+distribution circuit, shall not cause any distribution protective devices and equipment (including, 
+but not limited to, substation breakers, fuse cutouts, and line reclosers), or Interconnection 
+Customer equipment on the system to exceed 87.5% of the short circuit interrupting capability; 
+nor shall the proposed interconnection be accepted  for a circuit that already exceeds 87.5% of 
+the short circuit interrupting capability. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.2 Screens 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+112A.2.6 Using the table below, Transmission Provider, in consultation with the 
+Interconnected Transmission Owner, shall determine the type of interconnection to a primary 
+distribution line.  This screen includes a review of the type of electrical service provided to the 
+Interconnecting Customer, including line configuration and the transformer connection to limit 
+the potential for creating over-voltages on the Interconnected Transmission Owner’s electric 
+power system due to a loss of ground during the operating time of any anti-islanding function. 
+ 
+ 
+Primary Distribution Line 
+Type 
+Type of Interconnection to 
+Primary Distribution Line 
+Result/Criteria 
+Three-phase, three wire 3-phase or single phase, phase-
+to-phase 
+Pass screen 
+Three-phase, four wire Effectively-grounded 3 phase or 
+Single-phase, line-to-neutral 
+Pass screen 
+ 
+ 
+112A.2.7 If the proposed Energy Resource is to be interconnected on single-phase shared 
+secondary, the aggregate generation capacity on the shared secondary, including the proposed 
+Energy Resource, shall not exceed 20 kW. 
+ 
+112A.2.8 If the proposed Energy Resource is single-phase and is to be interconnected on a 
+center tap neutral of a 240 volt service, its addition shall not create an imbalance between the two 
+sides of the 240 volt service of more than 20% of the nameplate rating of the service transformer. 
+ 
+112A.2.9 The proposed Energy Resource, in aggregate with other generation interconnected 
+to the transmission side of a substation transformer feeding the circuit where the Energy 
+Resource proposes to interconnect shall not exceed 10 MW in an area where there are known, or 
+posted, transient stability limitations to generating units located in the general electrical vicinity 
+(e.g., three or four transmission busses from the point of interconnection). 
+ 
+112A.2.10 No construction of facilities by the Interconnected Transmission Owner on its 
+own system shall be required to accommodate the Energy Resource. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.3 Results of Screens 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112A.3  Results of Screens 
+ 
+112A.3.1 If the proposed interconnection passes the screens set forth in Tariff, Part IV, 
+Subpart G, section 112A.2, the proposed interconnection shall be approved and the Transmission 
+Provider will undertake Reasonable Efforts to provide the Interconnection Customer with an 
+executable Interconnection Service Agreement within five Business Days after the 
+determination.  In the event that the Transmission Provider is unable to provide Interconnection 
+Customer with an executable Interconnection Service Agreement within five Business Days, it 
+shall provide Interconnection Customer with reasonable notification of the delay, including the 
+reasons for the delay and the date it anticipates being able to provide the executable 
+Interconnection Service Agreement. Interconnection Customer shall execute the Interconnection 
+Service Agreement, request dispute resolution, or request that the Interconnection Service 
+Agreement be filed unexecuted in accordance with Tariff, Part IV, Subpart G, section 212.4. 
+ 
+112A.3.2 If the proposed interconnection of the Energy Resource fails the screens set forth 
+in Tariff, Part IV, Subpart G, section 112A.2, but the Transmission Provider, in consultation with 
+the Interconnected Transmission Owner, determines that the Energy Resource may nevertheless 
+be interconnected consistent with safety, reliability, and power quality standards, the 
+Transmission Provider will undertake Reasonable Efforts to provide the Interconnection 
+Customer an executable Interconnection Service Agreement within five Business Days after such 
+determination.  In the event that the Transmission Provider is unable to provide Interconnection 
+Customer with an executable Interconnection Service Agreement within five Business Days, it 
+shall provide Interconnection Customer with reasonable notification of the delay, including the 
+reasons for the delay and the date it anticipates being able to provide the executable 
+Interconnection Service Agreement.  Interconnection Customer shall execute the Interconnection 
+Service Agreement, request dispute resolution, or request that the Interconnection Service 
+Agreement be filed unexecuted in accordance with Tariff, Part IV, Subpart G, section 212.4. 
+ 
+112A.3.3 If the proposed interconnection of the Energy Resource fails the screens set forth 
+in Tariff, Part IV, Subpart G, section 112A.2, but the Transmission Provider does not or cannot 
+determine from the initial review that the Energy Resource may nevertheless be interconnected 
+consistent with safety, reliability, and power quality standards unless the Interconnection 
+Customer is willing to consider minor modifications or further study, the Transmission Provider 
+shall provide the Interconnection Customer with the opportunity to attend a customer options 
+meeting.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.4 Customer Options Meeting 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112A.4  Customer Options Meeting 
+ 
+112A.4.1 If the Transmission Provider determines that the Interconnection Request cannot 
+be approved without:  (1) minor modifications at minimal cost; (2) a supplemental study or other 
+additional studies or actions; or (3) incurring at significant cost to address safety, reliability, or 
+power quality problems, the Transmission Provider shall notify the Interconnection Customer of 
+that determination within five Business Days and provide copies of all data and analyses 
+underlying its conclusion.  Within ten Business Days of the Transmission Provider's 
+determination, the Transmission Provider shall offer to convene a customer options meeting with 
+the Transmission Provider and the Transmission Owner to review possible Customer Facility 
+modifications or the screens analysis and related results, to determine what further steps are 
+needed to permit the Energy Resource to be connected safely and reliably.  At the time of 
+notification of the Transmission Provider's determination, or at the customer options meeting, the 
+Transmission Provider and Transmission Owner, as applicable, shall: 
+ 
+112A.4.1.1 Offer to perform facility modifications or minor modifications to the 
+Transmission System (e.g., changing meters, fuses, relay settings) and provide a non-binding 
+good faith estimate of the limited cost to make such modifications to the Transmission System.  
+If the Interconnection Customer agrees to pay for the modifications to the Transmission 
+Provider’s system, the Transmission Provider will provide the Interconnection Customer with an 
+executable Interconnection Service Agreement within ten Business Days of the customer options 
+meeting; or 
+ 
+112A.4.1.2 Offer to perform a supplemental review in accordance with Tariff, Part IV, 
+Subpart G, section 112A.5, and provide a non-binding good faith estimate of the costs of such 
+review; or 
+ 
+112A.4.1.3 Obtain the Interconnection Customer's agreement to continue evaluating the 
+Interconnection Request under Tariff, Part IV, Subpart G, section 111 or Tariff, Part IV, Subpart 
+G, section 112 (irrespective of the resource size limitations stated therein), as applicable. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.5 Supplemental Review 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112A.5  Supplemental Review 
+ 
+112A.5.1 To accept the offer of a supplemental review, the Interconnection Customer shall 
+agree in writing, and submit a deposit for the estimated costs of the supplemental review in the 
+amount of the Transmission Provider’s good faith estimate of the costs of such review 
+(recognizing that such amount may be adjusted by the amount of deposits already held by the 
+Transmission Provider in connection with the Interconnection Request) both within 15 Business 
+Days of the offer. If the written agreement and additional deposit (if required) have not been 
+received by the Transmission Provider within that timeframe, the Interconnection Request shall 
+continue to be evaluated under Tariff, Part IV, Subpart G, section 111 or Tariff, Part IV, Subpart 
+G, section 112 (irrespective of the resource size limitation set forth therein) unless it is 
+withdrawn by the Interconnection Customer.   
+ 
+112A.5.2 The Interconnection Customer may specify the order in which the Transmission 
+Provider will complete the screens in section 112A.5.4 below.   
+ 
+112A.5.3 Within 30 Business Days following receipt of the deposit for a supplemental 
+review, the Transmission Provider shall: (1) perform a supplemental review using the screens set 
+forth below; (2) notify, in writing, the Interconnection Customer of the results; and (3) include 
+with the notification copies of the analysis and data underlying the Transmission Provider’s 
+determinations under the screens.  Unless the Interconnection Customer provided instructions for 
+how to respond to the failure of any of the supplemental review screens below at the time the 
+Interconnection Customer accepted the offer of supplemental review, the Transmission Provider 
+shall notify the Interconnection Customer following the failure of any of the screens, or if it is 
+unable to perform the screen in section 112A.5.3.1 below, within two Business Days of making 
+such a determination to obtain the Interconnection Customer’s permission to: (1) continue 
+evaluating the proposed interconnection under this section 112A.5.3; (2) terminate the 
+supplemental review and continue evaluating the Energy Resource under Tariff, Part IV, Subpart 
+G, section 111 or Tariff, Part IV, Subpart G, section 112 (irrespective of the resource size 
+limitation set forth therein), as applicable; or (3) terminate the supplemental review upon 
+withdrawal of the Interconnection Request by the Interconnection Customer. 
+ 
+112A.5.3.1 Minimum Load Screen:  Where 12 months of line section minimum load 
+data (including onsite load but not station service load served by the proposed small 
+Energy Resource) are available, can be calculated, can be estimated from existing data, or 
+determined from a power flow model, the aggregate Generating Facility capacity on the 
+line section is less than 100% of the minimum load for all line sections bounded by 
+automatic sectionalizing devices upstream of the proposed small Energy Resource. If 
+minimum load data is not available, or cannot be calculated, estimated or determined, the 
+Transmission Provider shall include the reason(s) that it is unable to calculate, estimate or 
+determine minimum load in its supplemental review results notification under this section 
+112A.5.3. 
+ 
+112A.5.3.1.1 The type of generation used by the proposed Energy Resource will 
+be taken into account when calculating, estimating, or determining circuit or line 
+section minimum load relevant for the application of this section 112A.5.3.1.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.5 Supplemental Review 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
+Solar photovoltaic (PV) generation systems with no battery storage use daytime 
+minimum load (i.e., 10 a.m. to 4 p.m. for fixed panel systems and 8 a.m. to 6 p.m. 
+for PV systems utilizing tracking systems), while all other generation uses 
+absolute minimum load. 
+ 
+112A.5.3.1.2 When this screen is being applied to an Energy Resource that 
+services some station service load, only the net injection into the Transmission 
+Provider’s electric system will be considered as part of the aggregate generation. 
+ 
+112A.5.3.1.3 Transmission Provider will not consider as part of the aggregate 
+generation for purposes of this screen generating facility capacity known to be 
+already reflected in the minimum load data. 
+ 
+112A.5.3.2 Voltage and Power Quality Screen:  In aggregate with existing generation 
+on the line section: (1) the voltage regulation on the line section can be maintained in 
+compliance with relevant requirements under all system conditions; (2) the voltage 
+fluctuation is within acceptable limits as defined by Institute of Electrical and Electronics 
+Engineers (IEEE) Standard 1453, or utility practice similar to IEEE Standard 1453; and 
+(3) the harmonic levels meet IEEE Standard 519 limits. 
+ 
+112A.5.3.3 Safety and Reliability Screen: The location of the proposed small Energy 
+Resource and the aggregate generation capacity on the line section do not create impacts 
+to safety or reliability that cannot be adequately addressed without application of the 
+Study Process. The Transmission Provider shall give due consideration to the following 
+and other factors in determining potential impacts to safety and reliability in applying this 
+screen. 
+ 
+112A.5.3.3.1 Whether the line section has significant minimum loading levels 
+dominated by a small number of customers (e.g., several large commercial 
+customers). 
+ 
+112A.5.3.3.2  Whether the loading along the line section is uniform or even. 
+ 
+112A.5.3.3.3  Whether the proposed small Energy Resource is located in close 
+proximity to the substation (i.e., less than 2.5 electrical circuit miles), and whether 
+the line section from the substation to the Point of Interconnection is a Mainline 
+rated for normal and emergency ampacity. 
+ 
+112A.5.3.3.4 Whether the proposed small Energy Resource incorporates a time 
+delay function to prevent reconnection of the generator to the system until system 
+voltage and frequency are within normal limits for a prescribed time. 
+ 
+112A.5.3.3.5 Whether operational flexibility is reduced by the proposed small 
+Energy Resource, such that transfer of the line section(s) of the small Energy 
+Resource to a neighboring distribution circuit/substation may trigger overloads or 
+voltage issues. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112A Permanent or 
+Temporary Energy Resources of 2 MW or --> OATT 112A.5 Supplemental Review 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 3 
+ 
+112A.5.3.3.6 Whether the proposed small Energy Resource employs equipment 
+or systems certified by a recognized standards organization to address technical 
+issues such as, but not limited to, islanding, reverse power flow, or voltage 
+quality. 
+ 
+112A.5.3.4 If the proposed interconnection passes the supplemental screens in sections 
+112A.5.3.1, 112A.5.3.2, and 112A.5.3.3 above, the Interconnection Request shall be approved 
+and the Transmission Provider will provide the Interconnection Customer with an executable 
+Interconnection Service Agreement within the timeframes established in sections 112A.5.3.4.1 
+and 112A.5.3.4.2 below.  If the proposed interconnection fails any of the supplemental review 
+screens and the Interconnection Customer does not withdraw its Interconnection Request, it shall 
+continue to be evaluated under Tariff, Part IV, Subpart G, section 111 or Tariff, Part IV, Subpart 
+G, section 112 (irrespective of the resource size limitation set forth therein) consistent with 
+section 112A.5.3.4.3 below 
+ 
+112A.5.3.4.1 If the proposed interconnection passes the supplemental screens in 
+sections 112A.5.3.1, 112A.5.3.2 and 112A.5.3.3 above and does not require construction 
+of facilities by the Transmission Provider on its own system, the Interconnection Service 
+Agreement shall be provided within ten Business Days after notification of the 
+supplemental review results. 
+ 
+112A.5.3.4.2 If interconnection facilities or minor modifications to the Transmission 
+Provider’s system are required for the proposed interconnection to pass the supplemental 
+screens in sections 112A.5.3.1, 112A.5.3.2, and 112A.5.3.3 above, and the 
+Interconnection Customer agrees to pay for the modifications to the Transmission 
+Provider’s electric system, the Interconnection Service Agreement, along with a non-
+binding good faith estimate for the interconnection facilities and/or minor modifications, 
+shall be provided to the Interconnection Customer within 15 Business Days after 
+receiving written notification of the supplemental review results. 
+ 
+112A.5.3.4.3 If the proposed interconnection would require more than interconnection 
+facilities or minor modifications to the Transmission Provider’s system to pass the 
+supplemental screens in sections 112A.5.3.1, 112A.5.3.2, and 112A.5.3.3 above, the 
+Transmission Provider shall notify the Interconnection Customer, at the same time it 
+notifies the Interconnection Customer with the supplemental review results, that the 
+Interconnection Request shall be evaluated under Tariff, Part IV, Subpart G, sections 111 
+and 112 (irrespective of the resource size limitation set forth therein) unless the 
+Interconnection Customer withdraws its request. 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B Certified Inverter-Based Small Generating Facilities No Larger than 10 kW 
+ 
+This section describes the procedures related to the submission and processing of requests related 
+to the interconnection of Small Inverter Facilities. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.1 Application 
+Effective Date: 8/23/2021 - Docket #: ER21-2203-000 - Page 1 
+112B.1   Application 
+ 
+An Interconnection Customer desiring the interconnection of a Small Inverter Facility must 
+submit to Transmission Provider an executed Tariff, Attachment BB - Form of Interconnection 
+Service Agreement for Certified Inverter-Based Generating Facility (“Small Inverter ISA”) and a 
+non-refundable processing fee of $500.  Tariff, Attachment BB is available on the PJM web site.  
+In the Small Inverter ISA, Interconnection Customer shall provide, among other things, (i) 
+contact information for itself and any other entity that may be interfacing with Transmission 
+Provider on its behalf; and (ii) the legal names of the owner(s) of the Small Inverter Facility, 
+including the percentage ownership (if any) by any utility or public utility holding company, or 
+by any entity owned by either.  Transmission Provider shall acknowledge that it received the 
+Small Inverter ISA within five Business Days of receipt.  Transmission Provider shall use 
+Reasonable Efforts consistent with the volume of the New Services Queue to notify 
+Interconnection Customer within fifteen Business Days of receipt of the Small Inverter ISA that 
+the Small Inverter ISA is complete or identify any deficiencies that need to be addressed, but, in 
+no event shall the Transmission Provider’s response herein serve as a basis to delaying 
+Transmission Provider’s compliance with the Interconnection Feasibility Study provisions of the 
+Tariff, Part IV, Subpart A, section 36.2. 
+ 
+The Interconnection Customer must submit a complete and fully executed Small Inverter ISA 
+(Tariff, Attachment BB) to the Transmission Provider by March 10 for the New Services Queue 
+ending March 31, and by September 10 for the New Services Queue ending September 30.  No 
+Small Inverter ISA shall be accepted for the relevant New Services Queue after such dates. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.2 Verification of Interconnection 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.2  Verification of Interconnection 
+ 
+Within 15 Business Days of notification to the Interconnection Customer that its Small Inverter 
+ISA is complete, Transmission Provider shall notify Interconnection Customer whether its Small 
+Inverter Facility can be interconnected safely and reliably. Transmission Provider shall make this 
+determination using the screens set forth in Tariff, Part IV, Subpart G, section 112A.  In the 
+event that the Transmission Provider determines that the Small Inverter Facility can be safely 
+and reliably interconnected, Transmission Provider shall tender the Small Inverter ISA to the 
+Interconnected Transmission Owner for execution.  The Interconnected Transmission Owner 
+shall have five Business Days to execute the Small Inverter ISA and return it to Transmission 
+Provider.  Transmission Provider then will provide the Interconnected Parties with the Small 
+Inverter ISA.  In the event an Interconnection Party does not execute the Small Inverter ISA, the 
+Interconnection Customer may request the agreement be filed unexecuted with the FERC or 
+alternative dispute resolution in accordance with Tariff, Part IV, Subpart G, section 212.4. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.3 Certificate of Completion and Inspection 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.3  Certificate of Completion and Inspection 
+ 
+112B.3.1 Upon receipt of an executed Small Inverter ISA, the Interconnection Customer 
+may commence construction (including operational testing not to exceed two hours) of its Small 
+Inverter Facility.  After completion of the Small Inverter Facility, Interconnection Customer shall 
+provide Transmission Provider with a completed Tariff, Attachment CC - Form of Certificate of 
+Completion. 
+ 
+112B.3.2 Prior to parallel operation, Transmission Provider and/or Interconnected 
+Transmission Owner may inspect the Small Inverter Facility for compliance with standards, 
+which may include a witness test.  All inspections by Transmission Provider and/or the 
+Interconnected Transmission Owner shall be at its own expense, within ten Business Days after 
+receipt of the completed Certificate of Completion and shall take place at a time agreeable to the 
+Transmission Provider and/or Interconnected Transmission Owner and the Interconnection 
+Customer. Unless otherwise agreed by the Transmission Provider and/or the Interconnected 
+Transmission Owner and the Interconnection Customer, if the Transmission Provider and/or the 
+Interconnected Transmission Owner do not schedule an inspection of the Small Inverter Facility 
+within ten Business Days after receipt of the completed Certificate of Completion, the right to 
+inspection, including the witness test, is waived.  Transmission Provider and/or the 
+Interconnected Transmission Owner shall provide a written statement that the Small Inverter 
+Facility has passed inspection or shall notify the Interconnection Customer of what steps are 
+necessary to pass inspection as soon as practicable after the inspection takes place. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.4 Interconnection and Operation 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.4 Interconnection and Operation 
+ 
+112B.4.1 The Interconnection Customer may interconnect and operate the Small Inverter 
+Facility after all of the following have occurred: 
+ 
+(a) Upon completing construction, the Interconnection Customer has caused the Small 
+Inverter Facility to be inspected or otherwise certified by the appropriate local electrical wiring 
+inspector with jurisdiction, and 
+ 
+(b) The Interconnection Customer provides Transmission Provider with a completed 
+Certificate of Completion, and 
+ 
+(c) In accordance with Tariff, Part IV, Subpart G, section 112B.3(b), the Transmission 
+Provider and/or Interconnected Transmission Owner has either completed its inspection of the 
+Small Inverter Facility to ensure that all equipment has been appropriately installed and that all 
+electrical connections have been made in accordance with applicable codes or has waived such 
+inspection.  
+ 
+112B.4.2 Transmission Provider and/or the Interconnected Transmission Owner shall have 
+the right to disconnect the Small Inverter Facility in the event of improper installation of the 
+Small Inverter Facility, an unsatisfactory witness test, or failure to return a completed Certificate 
+of Completion. 
+ 
+112B.4.3 Revenue quality metering equipment must be installed at the Small Inverter 
+Facility and tested in accordance with applicable ANSI standards.  Prior to parallel operation of 
+the Small Inverter Facility, Transmission Provider and/or Interconnected Transmission Owner 
+may schedule appropriate metering replacement, if necessary. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.5 Safe Operations and Maintenance 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+112B.5 Safe Operations and Maintenance 
+ 
+The Interconnection Customer shall be fully responsible to operate, maintain, and repair the 
+Small Inverter Facility as required to ensure that it complies at all times with the interconnection 
+standards to which it has been certified. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.6 Access 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+112B.6 Access 
+ 
+Transmission Provider and/or the Interconnected Transmission Owner shall have ready access to 
+the disconnecting means and metering equipment of the Small Inverter Facility at all times. 
+Transmission Provider and/or Interconnected Transmission Owner shall provide reasonable 
+notice to the Interconnection Customer when possible prior to using its right of access.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.7 Disconnection 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.7  Disconnection 
+ 
+112B.7.1 The Transmission Provider and/or the Interconnected Transmission Owner may 
+temporarily disconnect a Small Inverter Facility upon the following conditions: 
+ 
+(a) For scheduled outages upon reasonable notice. 
+ 
+(b) For unscheduled outages or emergency conditions. 
+ 
+(c) If the Small Inverter Facility does not operate in the manner consistent with the terms and 
+conditions of Tariff, Part IV, Subpart G, section 112B or applicable PJM Manuals. 
+ 
+112B.7.2 Transmission Provider shall inform the Interconnection Customer in advance of 
+any scheduled disconnection, or as is reasonable after an unscheduled disconnection. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.8 Indemnification 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.8  Indemnification   
+ 
+The Transmission Provider, Interconnected Transmission Owner, and the Interconnection 
+Customer shall at all times indemnify, defend, and save the other party harmless from, any and 
+all damages, losses, claims, including claims and actions relating to injury to or death of any 
+person or damage to property, demand, suits, recoveries, costs and expenses, court costs, 
+attorney fees, and all other obligations by or to third parties, arising out of or resulting from the 
+other party’s action or inactions relating to its obligations under this section 112B on behalf of 
+the indemnifying party, except in cases of gross negligence or intentional wrongdoing by the 
+indemnified party. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.9 Insurance 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.9  Insurance 
+ 
+An Interconnection Customer interconnecting a Small Inverter Facility shall maintain 
+commercially reasonable amounts of general liability insurance and additionally shall follow all 
+applicable insurance requirements imposed by the state in which the Point of Interconnection is 
+located.  All insurance policies must be maintained with insurers authorized to do business in 
+that state.  The amount and type of insurance to be evidenced by an insurance certificate.  All 
+other insurance requirements in Tariff, Attachment O, Appendix 2, section 13 and Tariff, 
+Attachment P, Appendix 2, section 11 are applicable to certified inverter-based small generating 
+facilities no larger than 10 kilowatts. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.10 Limitation of Liability 
+Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
+112B.10  Limitation of Liability 
+ 
+Transmission Provider’s, Interconnected Transmission Owner’s, and Interconnection Customer’s 
+liability to the other party for any loss, cost, claim, injury, liability, or expense, including 
+reasonable attorney’s fees, relating to or arising from any act or omission in its performance of 
+its obligations under Tariff, Part IV, Subpart G, section 112B shall be limited to the amount of 
+direct damage actually incurred.  In no event shall either party be liable to the other party for any 
+indirect, incidental, special, consequential, or punitive damages of any kind whatsoever, except 
+as allowed under Tariff, Part IV, Subpart G, section 112B.8. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.11 Termination 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+112B.11  Termination 
+ 
+A Small Inverter Facility ISA and parallel operation pursuant to this section 112B may be 
+terminated under the following conditions: 
+ 
+(a) By the Interconnection Customer.  By providing written notice to the Transmission 
+Provider and the Interconnected Transmission Owner. 
+ 
+(b) By the Transmission Provider.  If the Small Inverter Facility fails to operate for any 
+consecutive 12 month period or the Interconnection Customer fails to remedy a violation of the 
+terms of this section 112B or the Small Inverter ISA. 
+ 
+(c) Permanent Disconnection.  In the event that a Small Inverter ISA or parallel operation 
+under this section 112B is terminated, the Transmission Provider and/or Interconnected 
+Transmission Owner shall have the right to disconnect its facilities or direct the Interconnection 
+Customer to disconnect its Small Inverter Facility. 
+ 
+(d) Survival Rights.  The Small Inverter ISA shall continue in effect after termination of 
+parallel operation of the Small Inverter Facility or the Small Inverter ISA to the extent necessary 
+to allow or require the party[ies] to fulfill rights or obligations that arose under this section 112B 
+and the Small Inverter ISA. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112B Certified Inverter-
+Based Small Generating Faciliti --> OATT 112B.12 Assignment/Transfer of Ownership of the Small 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+112B.12  Assignment/Transfer of Ownership of the Small Inverter Facility 
+ 
+A Small Inverter Facility ISA shall survive the transfer of ownership of the Small Inverter 
+Facility to a new owner when the new owner agrees in writing to comply with the terms of the 
+Small Inverter Facility ISA and so notifies the Transmission Provider and Interconnected 
+Transmission Owner. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT IV. INTERCONNECTIONS WITH THE TRANSMISSION 
+SYSTEM --> OATT Subpart G – SMALL GENERATION INTERCONNECTION PROCEDURE --> OATT 112C Alternate Queue 
+Process  
+Effective Date: 10/1/2017 - Docket #: ER17-2232-000 - Page 1 
+112C  [Reserved] 
+ 
+ 
+

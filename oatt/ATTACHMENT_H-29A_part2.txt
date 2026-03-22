@@ -1,0 +1,259 @@
+[ATTACHMENT H-29A - Part 2 of 2]
+
+13 July                             100,000                       35,000                               65,000                             18.96                            60    
+14 August                              100,000                       40,000                               60,000                             17.50                            68    
+15 September                             100,000                       45,000                               55,000                             16.04                            77    
+16 October                             100,000                       50,000                               50,000                             14.58                            85    
+17 November                             100,000                       55,000                               45,000                             13.13                            94    
+18 December                              100,000                       60,000                               40,000                             11.67                          103     
+19 Average of the 13 Monthly Balances                         30,000                            265.42                          666  3.11%            
+ Example Fee Calculation - All amounts represent actual rate year expenses.   
+  (a) (b) (c )  (d)   (e)   (f)   (g)   
+ Origination Fees Rates/Fees 
+ Gross Fee Amount 
+($000)  Year Fee Incurred 
+Fee Amortization period 
+(years) 
+Rate Year Amortized 
+Fee Amount, col. b / col. 
+d  
+Prior Years 
+Accumulated Fee 
+Amortization 
+Unamortized 
+Balance - End 
+of Rate Year  
+20 Underwriting Discount   20 2017 2 10                            -    10  
+21 Arrangement Fee 0.15% 20 2017 2 10                            -    10  
+22 Upfront Fee 0.35% 50 2017 2 25                            -    25  
+23 Rating Agency Fee   20 2017 2 10                            -    10  
+24 Legal Fees   20 2017 2 10                            -    10  
+25 Other   0   2 0                            -    0  
+26    Total Issuance Expense / Origination Fees   130     65                            -    65  
+27          
+28 Annual Fees         
+29 Annual Rating Agency Fee 0.10% 20 2017  N/A  20 N/A N/A  
+30 Annual Bank Agency Fee   20 2017  N/A  20 N/A N/A  
+31 Utilization Fee 0.10% 10 2017  N/A  10 N/A N/A  
+32 Other Fees     N/A  0 N/A N/A  
+33 Total Fees   180     115                            -    65  
+34 13 Month Average Debt balance - Line 19 ( c)                              30,000     
+35 Rate Year cost of fees     0.38%    
+36 Proxy interest rate. Used prior to issuance of construction financing and supported in initial section 205 filing. 2.98%                
+Notes          
+A Projected rate will be Average LIBOR for rate year + spread. LIBOR will be updated based on information in the Wall Street Journal as of the 15th day of the month prior to population of this template.  
+
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-29A - TPA Formula Rate 
+Template 
+Effective Date: 1/27/2020 - Docket #: ER20-2585-001 - Page 37 
+ LIBOR 0.30%        
+ Spread 1.75%        
+ Total 2.05%        
+ 
+ 
+Attachment 9 
+True-up - Construction Financing Cost of Debt 
+Transource Pennsylvania, LLC              
+ 
+This Attachment 9 is to be utilized only in the event construction financing has been obtained to compute the actual cost of debt to be included in the return on rate base calculation for the true-up each year prior to the issuance of non-
+construction financing. Once non-construction financing has been obtained the cost of debt shall be determined using the methodology described in Note Q on Attachment H-29A.  
+ One time up-front debt fees, including origination fees will be amortized and included in the cost of debt.  
+ 
+Any hypothetical amounts in a filed template will be removed and replaced with actual amounts in the first year actual construction loans are borrowed or projected to be borrowed without the need for a section 205 filing to modify the 
+template.         
+Line 
+No.       
+   $    
+1 Long Term Interest and Fees (117, sum of 62.c through 67.c) - Note A                             800,000     
+2 Line of Credit Fees (68.c)                             500,000     
+3 Total Interest and Fees                          1,300,000     
+       
+       
+ 13 Month Average Long-Term Debt - Note B      
+ Month During Rate Year   Long Term Debt     
+ (a)   (d)     
+4 December Prior Year                                       -       
+5 January                                       -       
+6 February                                       -       
+7 March                           5,000,000     
+8 April                        11,000,000     
+9 May                        17,000,000     
+10 June                        23,000,000     
+11 July                        29,000,000     
+12 August                         35,000,000     
+13 September                        41,000,000     
+14 October                        47,000,000     
+15 November                        53,000,000     
+16 December                         59,000,000     
+17 Average of the 13 Monthly Balances                         24,615,385     
+       
+18 True-Up Cost of Debt (Line 3 / Line 17)  5.28%    
+       
+Not
+es       
+A Long Term debt interest is the sum of Form 1 page 117 lines 62-67.c, with 65-66.c entered as negative numbers. If the Company has any short term debt with associated companies, the interest on that short term debt recorded in Account 430 
+will be excluded. The portion of interest in Account 430 related to any long term debt to associated companies will be included.  
+B Long Term debt balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c to 21.c in the Form No. 1, the cost is calculated by dividing line 3 by the Long Term Debt balance on line 
+17. 
+ 
+ 
+  
+
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-29A - TPA Formula Rate 
+Template 
+Effective Date: 1/27/2020 - Docket #: ER20-2585-001 - Page 38 
+Attachment 10 
+Depreciation Rates 
+Transource Pennsylvania, LLC 
+                         
+INITIAL PROPOSED TRANSMISSION AND GENERAL PLANT DEPRECIATION RATES 
+CALCULATED FROM APPALACHIAN POWER COMPANY (WEST VIRGINIA) MORTALITY CHARACTERISTICS 
+FROM CASE NO. 14-1151-E-D     (NOTE A)         
+  Average Service Life (Years) Iowa Curve Salvage Factor Cost of Removal Factor Net Salvage Factor 
+Calculated Initial Annual Depreciation Rates (Note 
+B) 
+TRANSMISSION PLANT               
+351.0 Energy Storage Equipment 15 SQ 5% 5% 0% 6.67% 
+352.0 Structures & Improvements 62 R4.0 5% 15% -10% 1.77% 
+353.0 Station Equipment 45 R1.5 28% 13% 15% 1.89% 
+354.0 Towers & Fixtures   68 R3.0 25% 35% -10% 1.62% 
+355.0 Poles & Fixtures 42 R0.5 5% 20% -15% 2.74% 
+356.0 OH Cond. & Devices  64 R3.0 30% 18% 12% 1.38% 
+357.0 Underground Conduit 50 R2.0 0% 0% 0% 2.00% 
+358.0 Underground Conductor and Devices 20 L4.0 0% 0% 0% 5.00% 
+        
+GENERAL PLANT       
+        
+390.0 Structures & Improvements 42 SQ 36% 11% 25% 1.79% 
+391.0 Office Furniture & Equipment 30 SQ 0% 0% 0% 3.33% 
+392.0 Transportation Equipment 27 SQ 0% 0% 0% 3.70% 
+393.0 Stores Equipment 55 SQ 0% 0% 0% 1.82% 
+394.0 Tools Shop & Garage Equipment 43 SQ 0% 10% -10% 2.56% 
+395.0 Laboratory Equipment 37 SQ 0% 0% 0% 2.70% 
+396.0 Power Operated Equipment 25 SQ 0% 0% 0% 4.00% 
+397.0 Communication Equipment 24 SQ 0% 1% -1% 4.21% 
+398.0 Miscellaneous Equipment 35 SQ 0% 0% 0% 2.86% 
+        
+INTANGIBLE PLANT       
+303 Miscellaneous Intangible Plant 5     20.00% 
+        
+Notes        
+A The proposed transmission and general plant depreciation rates were determined using the same depreciation study utilized by Appalachian Power Company to develop transmission and general plant depreciation rates that were approved by the 
+Public Service Commission of West Virginia in their order in Case Nos. 14-1152-E-42T and 14-1151-E-D on May 26, 2015. 
+B These depreciation rates will not be changed absent a FERC order.      
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-29A - TPA Formula Rate 
+Template 
+Effective Date: 1/27/2020 - Docket #: ER20-2585-001 - Page 39 
+Attachment 11 
+Prior Period Adjustments or Corrections 
+Transource Pennsylvania, LLC 
+              
+       
+   (a)  (b)  
+     Calendar Year  
+   Revenue     
+Line   Impact of  Revenue  
+No. Description Source Correction  Requirement  
+       
+1  Filing Name and Date                                  -     
+2  Original Revenue Requirement                                  -     
+3        
+4  Description of Correction 1       
+5  Description of Correction 2                                  -     
+6        
+7  Total Corrections Line 4 + 5                                 -     
+8        
+9  Corrected Revenue Requirement line 2 + 7                                 -     
+10        
+11        
+12  Total Corrections Line 7                                 -     
+13        
+14  Average Monthly FERC Refund Rate Note A   0.25%  
+15  Number of Months of Interest Note B                                30   
+16  Interest on Correction Line 12 x 14 x 15                                 -     
+17        
+18  Total Annual Refunds Due to Customers Line 12+16                                 -                   
+Notes:       
+A The interest rate on corrections will be the average monthly FERC interest rate for the period from the beginning of the year being corrected through the most recent  month available as of the time the correction is computed and included in 
+an annual filing.  
+ 
+B The number of months interest due on the correction will be the number of months from the beginning of the year being corrected through June of the year in which the correction will be reflected in rates. In this manner the interest 
+computed will reflect all years prior to when the correction is reflected in rates plus interest on the average unrefunded balance of the correction during the year the correction is reflected in rates. 
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-29A - TPA Formula Rate 
+Template 
+Effective Date: 1/27/2020 - Docket #: ER20-2585-001 - Page 40 
+Attachment 12 
+Revenue Credit Detail 
+Transource Pennsylvania, LLC 
+       
+       
+Line No. (Note 1)  (a) (b) (c ) = (a)- (b)  
+1 Account 454 - Rent from Electric Property Source  Company Total  Less: Non Transmission Transmission-related  
+2 Joint pole attachments - telephone Company books                              -                              -                             -     
+3 Joint pole attachments - cable Company books                              -                              -                             -     
+4 Underground rentals Company books                              -                              -                             -     
+5 Transmission tower wireless rentals Company books                              -                              -                             -     
+6 Other rentals Company books                              -                              -                             -     
+7 Other rentals Company books                              -                              -                             -     
+8 Account 454 Revenue Credit Form 1 300.19.b                              -                              -                             -     
+       
+       
+       
+ Account 456.0 Other Operating Revenues      
+9 Other Company books                              -                              -                             -     
+10 Other Company books                              -                              -                             -     
+11 Account 456.0 Revenue Credit Form 1 300.21.b                              -                              -                             -     
+       
+ Account 456.1 Revenues from Transmission of Electricity for Others      
+12 PJM NITS Company books                              -                              -                             -     
+13 PJM Point to Point Company books                              -                              -                             -     
+14 Over/Under recovery deferral Company books                              -                              -                             -     
+15 Other PJM revenues Company books                              -                              -                             -     
+16 Other Company books                              -                              -                             -     
+17   Total Per Books Form 1 330.n                              -                              -                             -     
+18 Less: revenues received pursuant to this Formula Rate Company books                              -                               -     
+19 Less: Over/Under recovery deferral Company books                              -     
+20 Account 456.1 Revenue Credit (Line 17 - line 18 - line 19)                              -                              -                             -     
+       
+21 Total 456.0 and 456.1 Revenue Credits (Line 11 + line 20)                              -                              -                             -                   
+Note 1 All 454, 456.0 and 456.1 revenues will be detailed from Company books and records or FERC Form 1, and additional rows added if necessary. Non-transmission related amounts will be deducted to determine transmission-related amounts. 
+Revenues that are not derived from PJM rates which are based on this transmission formula rate will be included as a revenue credit.    
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-29A - TPA Formula Rate 
+Template 
+Effective Date: 1/27/2020 - Docket #: ER20-2585-001 - Page 41 
+Attachment 13 
+Facility Credits under Section 30.9 of the PJM OATT 
+Transource Pennsylvania, LLC 
+    
+    
+Line 
+No.   Source  Amount  
+    
+1 Facility Credits under Section 30.9 of the PJM OATT                               -    
+    
+    
+    
+    
+    
+    
+    
+Note: Under Section 30.9 of the PJM OATT, a network customer that owns existing transmission facilities that are integrated with the Transmission Provider’s Transmission System may be eligible to receive consideration either through a billing 
+credit or some other mechanism. Calculation of any credit under this subsection, pursuant to an approval by FERC for inclusion in this formula rate for collection on behalf of the network customer, shall be addressed in either the Network 
+Customer’s Service Agreement or any other agreement between the Parties.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-29B -Formula Rate Implementation Protocols 
+Effective Date: 8/12/2023 - Docket #: ER23-1407-002 - Page 1 
