@@ -1,624 +1,5 @@
 [ATTACHMENT M-2 - Part 2 of 2]
 
-on a load-ratio share basis, and report the adjustments to PJM. PJM will include any adjustments 
-in the next monthly billing statement issued by PJM to the affected LSE(s). 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PECO Energy Company) 
-Effective Date: 9/1/2014 - Docket #: ER14-2340-000 - Page 1 
-ATTACHMENT M-2 (PECO) 
- 
-Determination of Capacity Peak Load Contributions,  
-Network Service Peak Load and Hourly Load Obligations 
- 
-PURPOSE 
-This document outlines the process by which PECO determines Capacity Peak Load 
-Contributions, or “PLCs”, Network Service Peak Loads, or “NSPLs”, and Final Hourly Load 
-Obligations for customers and subsequently Load Serving Entities (“LSEs”) serving load within 
-the PECO Electric Distribution Company (“EDC”) Zone (the “PECO Zone”), a zone located 
-entirely within the PJM Regional Transmission Organization (RTO) footprint. 
-Attachment M-2 does not amend or replace any existing contracts or agreements between PECO 
-and any LSE. 
-Capitalized terms used in the Attachment M-2 have the meaning given them under the provisions 
-of the PJM Open Access Transmission Tariff unless otherwise defined herein. 
- 
-CAPACITY (PLC) AND TRANSMISSION (NSPL) 
-OVERVIEW 
-On an annual basis, PECO stratifies each of its customers based on the customer’s rate class and 
-an analysis of usage and demand over the prior year.  At the same time, PECO calculates 
-seasonal scale factors that relate customer’s actual historical energy usage to projected usage for 
-that year based on the load profile as well as on actual weather data.   
- 
-Once complete, PECO then calculates PLCs and NSPLs for service locations within the PECO 
-Zone.  PECO then scales these preliminary values up or down such that:   
- 
-• PLCs – The sum of all individual customer PLCs equals the normalized peak load target 
-allocated to the PECO zone as determined by PJM. 
- 
-• NSPLs – The sum of all individual customer NSPLs equals PECO’s metered zonal load 
-at the time of the zone’s highest transmission peak value (as determined by PJM). 
- 
-PECO then aggregates the resulting PLC and NSPL values by LSE and transmits to PJM.  PECO 
-subsequently provides PJM with updated aggregations on a daily basis. 
-NSPLs are scaled internally to meet the PECO Zone target. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PECO Energy Company) 
-Effective Date: 9/1/2014 - Docket #: ER14-2340-000 - Page 2 
- 
-ANNUAL CALCULATION OF CAPACITY PEAK LOAD CONTRIBUTIONS 
-(PLCS) 
-PECO calculates individual preliminary PLCs based on normal peak load conditions and adjusts 
-all values to include transmission and distribution losses.  The PLCs calculated are effective 
-from June 1st of the following calendar year through May 31 st of the subsequent calendar year, in 
-alignment with PJM planning periods. 
- 
-For the purposes of these procedures, PECO considers the first day of summer to be June 1 st and 
-the final day to be September 30th. 
- 
-A. FOR WHOLESALE INTERVAL-SETTLED LOCATIONS: 
- 
-1. PECO gathers the actual hourly meter readings at hour-ending normal PJM 
-peak time ET for each of the five days coincident with the highest PJM system 
-peak hours, as determined by PJM.  These loads include an “add-back” of energy 
-curtailed as a result of load management initiatives or restrictions as identified by 
-PJM. 
- 
-2. PECO calculates a weather-normalized peak load for each of these five hours, 
-taking into account the actual reading, actual versus normal peak weather, 
-customer rate class, and losses.   
- 
-3. To calculate the preliminary PLC, PECO averages the five resulting load 
-values.   
- 
-B. FOR WHOLESALE MONTHLY-SETLLED LOCATIONS WITH DEMAND 
-METERS: 
- 
-1. Using industry-standard load profiling techniques, PECO creates a load 
-profile for each of the five days coincident with the highest PJM system peak 
-days, as determined by PJM.   
- 
-2. PECO calculates an average peak weather correction factor based on the 
-ratio of the profiled peak load versus the expected profile peak at normal peak 
-weather and time conditions for each of the five PJM coincident peak days. 
- 
-3. PECO determines the actual average non-coincident on-peak summer 
-demand for the premise. 
- 
-4. To calculate the preliminary PLC, PECO applies the average weather 
-correction factor and losses to the average non-coincident on-peak summer 
-demand. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PECO Energy Company) 
-Effective Date: 9/1/2014 - Docket #: ER14-2340-000 - Page 3 
-C. FOR RESIDENTIAL CUSTOMERS WITHOUT DEMAND METERS, PECO calculates 
-the weather-normalized load with losses at hour-ending normal peak time based on the 
-summer weekday load profile and summer scale factor mentioned in Part 1 for the associated 
-customer profile and rate class.  This becomes the preliminary PLC. 
- 
-D. FOR UNMETERED LOCATIONS IDENTIFIED VIA CUSTOMER RATE CLASS AS 
-CONSTANT LOAD (such as traffic lighting): 
- 
-1. PECO calculates hourly load for each of the four summer months based on 
-the billed usage and billed number of hours for each month. 
- 
-2. To calculate the preliminary PLC, PECO averages the resulting hourly and 
-applies losses to the resulting average. 
- 
-E. FOR UNMETERED LOCATIONS IDENTIFIED AS LIGHTING (excluding constant 
-load lighting), PECO sets all PLC values to zero. 
- 
-F. NEW LOCATIONS WHERE INDIVIDUAL DATA IS NOT YET AVAILABLE  are 
-assigned a PLC based on the average default value calculated for the associated customer’s 
-rate class and load profile. 
- 
- 
-ANNUAL CALCULATION OF NETWORK SERVICE PEAK LOAD 
-PECO uses the PLC calculations above as a direct input to NSPL calculations.  The NSPLs 
-calculated will be effective from January 1st through December 31st of the following year. 
- 
-Because the sum of all NSPLs are  equal to the actual metered zonal load, PECO first adjusts the 
-PLCs calculated above for all interval-settled locations so as to exclude energy curtailed as a 
-result of load management initiatives or restrictions based on “add-back” information provided 
-by PJM.  (All other PLCs remain as calculated per above.). These values are the initial NSPLs. 
- 
-Once these adjustments are complete, PECO applies a scaling factor to all adjusted and initial 
-NSPL values based on the zonal transmission target determined by PJM, which represents 
-PECO’s metered zonal load at the time of the PECO zone’s highest transmission peak value.  
-The result is the individual NSPLs for each specific location which, when totaled, will sum to 
-PECO’s annual zonal target. 
- 
- 
-DAILY UPDATES TO PLC AND NSPL 
-Because the LSE responsible for a customer’s Capacity Peak Load Contribution and Network 
-Service Peak Load is subject to change at points throughout the effective period, PECO 
-aggregates PLC and NSPL values by LSEs serving load within the zone on a daily basis and 
-transmits those updates to PJM in accordance with PJM procedural requirements and capacity 
-market schedules.  NSPLs are scaled to the PECO zone NSPL target before sending to PJM. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PECO Energy Company) 
-Effective Date: 9/1/2014 - Docket #: ER14-2340-000 - Page 4 
-. 
-DETERMINATION OF HOURLY LOAD OBLIGATIONS 
-OVERVIEW 
-PECO settles hourly load obligations with each LSE and PJM via a two-step process.   
- 
-Settlement A – PECO determines the estimated “day after” (delivery day) hourly load 
-responsibility by recreating the load characteristics of the delivery day in question using a 
-combination of available known, preliminary, and historically-based information.  PECO then 
-submits the load responsibility for all LSEs serving load on the settled day(s) to PJM in 
-accordance with PJM procedural requirements and energy market schedules.  
- 
-Settlement B – PECO determines the final hourly load responsibility approximately 60 days 
-after an energy delivery month by reconciling actual individual customer meter readings and 
-applicable load profile data with the Settlement A data for that month.  PECO then calculates and 
-submits the energy variances from Settlement A hourly scheduling for all LSEs to PJM in 
-accordance with PJM procedural requirements and energy market schedules. 
- 
-All hourly load obligations are adjusted for transmission and distribution losses. 
- 
-SETTLEMENT A (ESTIMATED “DAY AFTER” HOURLY LOAD 
-OBLIGATIONS) 
-FOR INTERVAL WHOLESALE-SETTLED CUSTOMERS: 
- 
-1. A retail LSE (Electric Generation Supplier) either calculates and provides the 
-estimated “day after” hourly load responsibility directly to PECO OR otherwise 
-accepts the day-after load responsibility (including losses) estimated by PECO. 
- 
-2. PECO calculates the estimated load responsibility for each individual customer 
-based on prior energy delivery days of similar day-type and similar weather. 
- 
-FOR ALL OTHER CUSTOMERS: 
- 
-1. PECO aggregates customers by LSE and assigned load profiles respectively. 
- 
-2. PECO calculates the estimated hourly load responsibility based on the customer’s 
-assigned load profile and the scaling factor initially mentioned in Part I, Section 1 
-above.   
-a. PECO assigns new customers the default scale factors for their rate 
-class and assigned load profile. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PECO Energy Company) 
-Effective Date: 9/1/2014 - Docket #: ER14-2340-000 - Page 5 
- 
-b. The load profiles used by PECO for this purpose are split into 
-various seasons and day-types.   
- 
-3. PECO adjusts all calculations for losses and then aggregates the resulting 
-estimated hourly load obligations by LSE and assigned load profile respectively. 
- 
-Following the above, for all customers, PECO allocates any existing Unaccounted-For Energy to 
-all customers by load share ratio of monthly settled load and adds this to the estimated hourly 
-load responsibilities.   
- 
-Finally, PECO aggregates the hourly energy obligations by LSE and subsequently by PJM 
-Contract Number and reports the resulting energy schedules to PJM.   
- 
-SETTLEMENT B (“60 DAY SETTLEMENT—FINAL” HOURLY LOAD 
-OBLIGATIONS) 
-For interval-settled customers, PECO uses the customer’s actual interval data to determine the 
-associated hourly load obligations, and then adjusts for losses.   
- 
-For monthly-settled customers, PECO converts the monthly aggregate consumption into hourly 
-consumption values for the related billing periods.  PECO accomplishes this by generating an 
-hourly load shape for the periods based directly on the customer’s assigned load shape and 
-weather, then scaling that load shape to tie to the customer’s actual usage, calculating the 
-associated hourly load obligation values, and adjusting those values for losses.  
- 
-For all customers, PECO then calculates a “bottom-up” load shape for the energy delivery month 
-being reconciled and compares that shape with a load shape comprised of actual metered PECO 
-zone load.  PECO considers any resulting variance as being Unaccounted-For Energy for that 
-hour and allocates it to hourly load obligations as appropriate. 
- 
-PECO then calculates the difference between the “day after” estimated load obligations 
-previously determined in Settlement A and the final hourly load obligations for Settlement B, 
-aggregating the resulting variances by LSE and subsequently by PJM Contract Number. PECO 
-then reports the resulting energy variances to PJM.  PJM incorporates the variances as 
-adjustments within its market settlement processes with LSEs.   
- 
-If adjustments are made to the Hourly Load of a LSE in the PECO Zone after this load 
-reconciliation, PECO may calculate the financial value of the adjustment and report that value to 
-PJM. PECO will also allocate the equal and opposite financial value to all LSEs in the PECO 
-Zone, on a load-ratio share basis, and report the adjustments to PJM. PJM will include any 
-adjustments in the next monthly billing statement issued by PJM to the affected LSE(s). 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT Attachment M-2 (Duke Energy Ohio, Inc.) 
-Effective Date: 5/13/2016 - Docket #: ER16-1150-001 - Page 1 
-ATTACHMENT M-2 (Duke Energy Ohio, Inc.) 
-Determination of Capacity Peak Load Contributions, 
-Network Service Peak Load, and Hourly Load Obligations 
-PURPOSE 
-This document outlines the process by which Duke Energy Ohio, Inc. (“DEO”) determines 
-Capacity Peak Load Contributions (“PLCs”), Network Service Peak Loads (“NSPLs”), and Final 
-Hourly Load Obligations for entities with load within the DEOK Zone (the “DEOK Zone”), a 
-zone located entirely within the PJM footprint. 
-Attachment M-2 does not amend or replace any existing contracts or agreements between DEO 
-and any Load Serving Entity (“LSE”).  
-Capitalized terms used in the Attachment M-2 have the meaning given them under the provisions 
-of the PJM Open Access Transmission Tariff unless otherwise defined herein. 
-CAPACITY (PLC) AND TRANSMISSION (NSPL) 
-OVERVIEW 
-On an annual basis, DEO stratifies each of its non-interval metered customers based on the 
-customer’s rate class and an analysis of usage and demand over the prior year.  At the same 
-time, DEO calculates scale factors that relate customer’s actual historical energy usage to 
-projected usage for that year based on the load profile as well as on actual weather data.   
-Once complete, DEO then calculates PLCs and NSPLs for service locations within the DEOK 
-Zone.  DEO then scales these preliminary values up or down such that:   
-￿ PLCs – The sum of all individual customer PLCs equals the normalized peak load target 
-allocated to the DEOK Zone as determined by PJM. 
-￿ NSPLs – The sum of all individual customer NSPLs equals DEO’s metered zonal load at 
-the time of the zone’s highest transmission peak value (as determined by PJM). 
-DEO then aggregates the resulting PLC and NSPL values by associating each value with the 
-appropriate LSE and transmits the values for each LSE to PJM.  DEO subsequently provides 
-PJM with updated aggregations on a daily basis. 
-ANNUAL CALCULATION OF PLCs 
-DEO calculates individual preliminary PLCs based on weather-normalized (W/N) peak load 
-conditions and adjusts all values to include transmission and distribution losses.  To perform 
-this calculation, DEO shall use load data from the PJM five (5) coincident peak (CP) dates and 
-hours during the summer immediately preceding to the start of the Planning Year.  The PLCs 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT Attachment M-2 (Duke Energy Ohio, Inc.) 
-Effective Date: 5/13/2016 - Docket #: ER16-1150-001 - Page 2 
-calculated are effective from June 1st of the following calendar year through May 31st of the 
-subsequent calendar year, in alignment with PJM planning periods. 
-For the purposes of these procedures, DEO considers the first day of summer to be June 1st and 
-the final day to be September 30th. 
-The following methodology is used to calculate PLCs for interval metered and non-interval 
-metered customers: 
- DEO calculates individual PLCs for all customers of Wholesale and Retail LSEs on the 
-system. 
-DEO utilizes customer load at the time of the five CPs provided by PJM as the basis for 
-the PLC calculation. 
-Demand Response provided by customers is added back to their hourly load values prior 
-to making the PLC calculation, if that customer is claiming that demand response as 
-capacity (this includes behind the meter generation). 
-DEO utilizes the weather normalized peak value provided by PJM, as the basis for its 
-weather normalization factor (the average of the five system peaks is scaled to be equal to 
-the W/N peak provided by PJM).  DEO uses a bottom-up methodology to calculate 
-loads on the system. Interval metered customer load is directly measured.  Non-interval 
-metered customer loads are calculated by using load profiles produced from load research 
-meters, and usage factors developed by comparing each customer’s usage to average of 
-their rate class (RS, DS, DM, etc.). 
-DEO applies transmission and distribution losses to the customer loads. 
-DEO calculates unaccounted for energy (“UFE”) on the system by comparing the 
-bottom-up load, plus losses, to the system load (generation minus net metered ties).  
-UFE is allocated to all non-interval metered customers on a load ratio share basis. 
-Loads for each customer for the five CPs, as derived in accordance with the methodology 
-described in the preceding bullets, are averaged, and the resulting value is then adjusted 
-by the weather normalization factor to produce the customer’s PLC. 
-ANNUAL CALCULATION OF NSPLs 
-The NSPLs calculated will be effective from January 1st through December 31st of the PJM 
-Planning Year. 
-NSPLs are equal to the actual metered zonal load at the time of the DEOK Zone system annual 
-peak as supplied by PJM.  Individual customer values, for the single peak hour, are determined 
-as above, in the PLC description, with the exception that add backs do not occur.  Customers of 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT Attachment M-2 (Duke Energy Ohio, Inc.) 
-Effective Date: 5/13/2016 - Docket #: ER16-1150-001 - Page 3 
-Wholesale LSEs’ NSPLs are not scaled by DEOK nor PJM.  Customers of Retail LSEs’ NSPLs 
-are scaled up or down to cause the DEOK zonal load to equal the target value as supplied by 
-PJM.  Customers of Wholesale and Retail LSEs’ NSPLs are adjusted for losses. 
-DAILY UPDATES TO PLC AND NSPL 
-Because the LSE responsible for a customer’s PLC and NSPL is subject to change at points 
-throughout the effective period, DEO aggregates PLC and NSPL values by LSEs serving load 
-within the zone on a daily basis and transmits them to PJM in accordance with PJM procedural 
-requirements and capacity market schedules.  Customers of Retail LSEs’ PLC and NSPL values 
-are scaled daily to the DEOK Zonal target.  Customers of Wholesale LSEs’ PLCs and NSPLs 
-are set annually and are not scaled.  Customers of Wholesale and Retail LSEs’ PLCs and 
-NSPLs are adjusted for losses.  
- 
-DETERMINATION OF HOURLY LOAD OBLIGATIONS 
-OVERVIEW 
-DEO settles hourly load obligations with each LSE and PJM via a two-step process.   
-Settlement A – DEO determines the estimated “day after” (delivery day) hourly load 
-responsibility by recreating the load characteristics of the delivery day in question using a 
-combination of available known, preliminary, and historically-based information.  DEO then 
-submits the load responsibility for all LSEs serving load on the settled day(s) to PJM in 
-accordance with PJM procedural requirements and energy market schedules.  
-Settlement B – DEO determines the final hourly load responsibility approximately 60 days after 
-an energy delivery month by reconciling actual individual customer meter readings and 
-applicable load profile data with the Settlement A data for that month.  DEO then calculates and 
-submits the energy variances from Settlement A hourly scheduling for all LSEs to PJM in 
-accordance with PJM procedural requirements and energy market schedules. 
-All hourly load obligations are adjusted for transmission and distribution losses. 
-ESTIMATED “DAY AFTER” HOURLY LOAD OBLIGATIONS 
-For interval metered - load: 
-Customers of Wholesale LSEs:  
-1. A customer of a Wholesale LSE either calculates and provides the estimated “day 
-after” hourly load responsibility directly to DEO or otherwise accepts the day-after 
-load responsibility (excluding losses and Unaccounted for Energy) as estimated by 
-DEO.  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT Attachment M-2 (Duke Energy Ohio, Inc.) 
-Effective Date: 5/13/2016 - Docket #: ER16-1150-001 - Page 4 
-2. DEO calculates the estimated load responsibility for each individual customer of a 
-Wholesale LSE based on prior energy delivery days of similar day-type and similar 
-weather. 
-Customers of Retail LSEs: 
-1. A Customer of a Retail LSE (i.e., a customer of a Competitive Retail Electric 
-Supplier) either calculates and provides the estimated “day after” hourly load 
-responsibility directly to DEO or otherwise accepts the day-after load 
-responsibility (including losses and Unaccounted for Energy) estimated by DEO. 
-2. DEO calculates the estimated load responsibility for each individual customer of a 
-Retail LSE based on prior energy delivery days of similar day-type and similar 
-weather. 
-For all non-interval metered load: 
-Customers of Wholesale LSEs: 
-1. DEO aggregates customers by LSE and calculates the estimated hourly load 
-responsibility (excluding losses and Unaccounted for Energy) based on prior energy 
-delivery days of similar day-type and similar weather. 
-Customers of Retail LSEs: 
-1. DEO aggregates customers by LSE and assigned load profiles respectively. 
-2. DEO calculates the estimated hourly load responsibility based on the customer’s 
-assigned load profile and rate class.   
-a. DEO assigns new customers the default rate class and assigned load profile. 
-b. The load profiles used by DEO for this purpose are split into various seasons 
-and day-types.   
-3. DEO adjusts all calculations for losses and then aggregates the resulting estimated 
-hourly load obligations by LSE and assigned load profile respectively. 
-4. Following the above, DEO allocates any existing UFE by load share ratio and 
-adds this to the estimated hourly load responsibilities.   
-Finally, DEO aggregates the hourly energy obligations by LSE and subsequently by PJM 
-Contract Number and reports the resulting energy schedules to PJM, with the exception of 
-standard service offer load.   
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT Attachment M-2 (Duke Energy Ohio, Inc.) 
-Effective Date: 5/13/2016 - Docket #: ER16-1150-001 - Page 5 
-FINAL HOURLY LOAD OBLIGATIONS 
-For all interval-settled customers, DEO uses the customer’s actual interval data to determine the 
-associated hourly load obligations, and then adjusts for losses.   
-For all non-interval monthly-settled customers, DEO converts the monthly aggregate 
-consumption into hourly consumption values for the related billing periods.  DEO accomplishes 
-this by generating an hourly load shape for the periods based directly on the customer’s assigned 
-load shape and weather, then adjusts that load shape to tie to the customer’s actual usage, 
-calculating the associated hourly load obligation values, and adjusting those values for losses.  
-For all customers, DEO then calculates a “bottom-up” load shape for the energy delivery month 
-being reconciled and compares that shape with a load shape comprised of actual metered DEOK 
-Zone load.  DEO considers any resulting variance as being UFE for that hour and allocates it to 
-hourly load obligations of all non-interval metered customers. DEO then calculates the 
-difference between the “day after” estimated load obligations previously determined in 
-Settlement A and the final hourly load obligations for Settlement B, aggregating the resulting 
-variances by LSE and subsequently by PJM Contract Number.  DEO then reports the resulting 
-energy variances to PJM.  PJM incorporates the variances as adjustments within its market 
-settlement processes with LSEs.   
-If adjustments are made to the hourly load of an LSE in the DEOK Zone after this load 
-reconciliation, DEO will submit the hourly load values to PJM.  PJM will allocate the equal and 
-opposite financial value to all LSEs in the DEOK Zone, on a load ratio share basis.  PJM will 
-include any adjustments in the next monthly billing statement issued by PJM to the affected 
-LSE(s). 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (Dominion) Procedures for NSPL and VaNSP 
-Effective Date: 1/1/2020 - Docket #: ER19-1661-000 - Page 1 
-ATTACHMENT M-2 (Dominion) 
-Dominion Energy Procedures for Determining Each Network Customer’s Dominion Zone 
-Network Service Peak Load Contribution (NSPL) and Virginia Network Service Peak 
-Load Contribution (VaNSPL) 
- 
- 
- 
-Procedures Applicable to Network Load in the Dominion Zone  
-  
-The methodology for determining the network service peak load contribution (“NSPL”) and 
-Virginia network service peak load contribution (“VaNSPL”) for each Network Customer is 
-described in steps 1 through 5 below. Each customer’s NSPL and VaNSPL is based on an 
-average of 12 coincident peak demands (“12-CP”) allocation factor applied to the Dominion 
-Zone annual peak.  The Dominion Zone annual peak is established during the 12 months ending 
-October 31 of the previous calendar year prior to the calendar year that it is to be used for billing. 
-Each Network Customer’s average 12-CP allocation factor is based on an average of twelve 
-monthly coincident peak demands established during the previous 12 months ending September 
-30 prior to the calendar year that this data is used for billing (“12-CP Measurement Period”). 
-Steps 6 through 9 establish the Daily Network Service Peak Load Contributions and Daily 
-Virginia Network Service Peak Load Contributions used for billing NITS throughout the 
-calendar year immediately following the NSPL Measurement Period.   
-  
-1) Retrieve Hourly Load Data – Collect hourly load data for all Network Customers, excluding 
-Southeastern Power Administration (“SEPA”),1 provided transmission service in the Dominion 
-Zone, including any applicable losses, coincident with each of the Dominion Zone’s 12 monthly 
-transmission system peaks (12-CPs) during the 12-CP Measurement Period. The hourly load data 
-collected for each of these twelve hours shall not include any adjustments for SEPA capacity and 
-energy.  
- 
-2) Calculate Each Network Customer’s Average 12-CP Demand  
-a) For each Network Customer excluding SEPA and not entitled to SEPA capacity and energy 
-delivered to the Dominion Zone, total the monthly hourly loads collected in step 1 and divide by 
-12.  
-b) For each Network Customer entitled to SEPA capacity and energy delivered to the Dominion 
-Zone, subtract the applicable SEPA capacity including losses entitlement from each of its 
-monthly hourly loads collected in step 1 and then total the resulting differences and divide by 12. 
-c) For SEPA, total the SEPA capacity including losses subtracted from the hourly loads in step 2 
-b in each month and then total these twelve monthly amounts and divide by 12.  
- 
-3) Calculate Each Network Customer’s Average 12-CP Allocation Factor – Divide each 
-Network Customer’s Average 12-CP Demand by the total of all the Average 12-CP Demands.  
- 
- 
- 
-1 SEPA capacity and energy are allocated to certain Preference Customers in accordance with the Network 
-Integration Transmission Service Agreement Among PJM Interconnection, L.L.C. And Southeastern Power 
-Administration (“PJM & SEPA NITSA”). 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (Dominion) Procedures for NSPL and VaNSP 
-Effective Date: 1/1/2020 - Docket #: ER19-1661-000 - Page 2 
- 
-4) Calculate Each Network Customer’s Network Service Peak Load Contribution (NSPL) – 
-Multiply the Dominion Zone NSPL by each Network Customer’s Average 12-CP Allocation 
-Factor. 
-The Sum of all the NSPLs shall equal the Dominion Zone NSPL which equals the 1-CP Divisor 
-used in the Virginia Electric and Power Company Formula Rate – Appendix A, line 169.  
- 
-5) Determine Each Network Customer’s Virginia Network Service Peak Load Contribution 
-(VaNSPL) – 
-The VaNSPL for each Network Customer that has Dominion Zone Network Load only in 
-Virginia shall equal the NSPL for that Network Customer.  The VaNSPL for each Network 
-Customer that does not have any Dominion Zone Network Load in Virginia shall equal zero. The 
-VaNSPL for each Network Customer that has Dominion Zone Network Load in both the 
-Virginia and North Carolina portions of the Dominion Zone shall include only the portion of its 
-NSPL attributed to its Network Load in the Virginia portion of the Dominion Zone.  The sum of 
-the VaNSPLs shall equal the Virginia Portion of the Dominion Zone NSPL shown on 
-Attachment 10 in the Virginia Electric and Power Company Formula Rate – Appendix A.    
- 
-6) Calculate Daily Retail Customer Network Service Peak Load Contribution (DRNSPL) – 
-Each retail customer’s DRNSPL shall be determined consistent with the process described above 
-for determining each Network Customer’s NSPL.  
-  
-Note:  Dominion Energy does not calculate the DRNSPL for the retail customers of wholesale 
-LSEs like municipal electric utilities and electric cooperatives. 
-   
-7) Calculate Daily Retail Customer Virginia Network Service Peak Load Contribution 
-(DRVaNSPL) – Each retail customer’s DRVaNSPL shall be determined consistent with the 
-process described above for determining each Network Customer’s VaNSPL.  
-  
-Note:  Dominion Energy does not calculate the DRVaNSPL for the retail customers of 
-wholesale LSEs like municipal electric utilities and electric cooperatives. 
- 
-8) Calculate Daily Network Service Peak Load Contribution (DNSPL) –  
-Each Network Customer’s Daily Network Service Peak Load Contribution for any given day of 
-the calendar year is equal to the sum of the DRNSPLs for all the retail customers that it has the 
-responsibility to obtain transmission service for during that day. 
- 
-9) Calculate Daily Virginia Network Service Peak Load Contribution (DVaNSPL) – 
-Each Network Customer’s Daily Virginia Network Service Peak Load Contribution for any 
-given day of the calendar year is equal to the sum of the DRVaNSPLs for all the retail customers 
-that it has the responsibility to obtain transmission service for during that day. 
- 
-10) Transition Period –  
-The Transition Period recognizes that the NSPLs and VaNSPLs used for billing in 2019 have 
-already been established. To prevent a mid-year billing change each Network Customer’s NSPL 
-and VaNSPL contributions that will be used for billing during the 2019 calendar year shall 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (Dominion) Procedures for NSPL and VaNSP 
-Effective Date: 1/1/2020 - Docket #: ER19-1661-000 - Page 3 
-continue to be those determined using the methodology in effect prior to the methodology 
-described in this attachment. For all other following calendar years, each Network Customer’s 
-NSPL and VaNSPL shall be determined using the process described in steps 1-5.     
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PPL Electric Utilities Corp.) 
-Effective Date: 4/4/2022 - Docket #: ER22-991-001 - Page 1 
-ATTACHMENT M-2 (PPL Electric Utilities Corp.) 
-Determination of Capacity Peak Load Contributions,  
-Network Service Peak Load and Hourly Load Obligations 
-I. PURPOSE 
-This document outlines the process by which PPL Electric Utilities Corporation (“PPL Electric”) 
-determines Peak Load Contributions (“PLCs”) for capacity and transmission customers.  PPL 
-calculates Installed Capacity (“ICAP”) PLCs and Network Integrated Transmission Service 
-(“NITS”) PLCs for customers and determines Final Hourly Load Obligations for Load Servicing 
-Entities (“LSEs”) serving load within the PPL Electric Distribution Zone (the “PPL Zone”), a 
-zone located entirely within the PJM Regional Transmission Organization (“RTO”) footprint. 
-Attachment M-2 does not amend or replace any existing contracts or agreements between PPL 
-Electric and any LSE. 
-Capitalized terms used in Attachment M-2 have the meaning given them under the provisions of 
-the PJM Open Access Transmission Tariff unless otherwise defined herein. 
-II. CAPACITY (PLC) AND TRANSMISSION (NSPL) 
-A. Overview 
-On an annual basis, PPL Electric calculates PLC values (ICAP and NITS) for all customers in 
-the PPL Zone.  PPL Electric uses PLCs to assign customers with their share of the typical peak 
-load on the system.  PPL Electric uses customer interval data and performs these calculations 
-using a Meter Data Management system. PPL Electric calculates reconciliation factors and 
-applies those plus losses to the PLC value for each customer.   
-Once complete, PPL Electric scales these calculated values up or down such that: 
- ICAP:  the sum of all individual customer ICAP values equals the normalized peak load 
-target allocated to the PPL Zone as determined by PJM. 
- NITS:  the sum of all individual customer NITS values equals PPL Electric’s metered 
-zonal load at the time of the zone’s highest transmission peak value (as determined by 
-PJM). 
-PPL Electric aggregates the resulting ICAP and NITS values by LSE and submits those values to 
-PJM.  PPL Electric subsequently provides updated aggregations to PJM daily.   
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PPL Electric Utilities Corp.) 
-Effective Date: 4/4/2022 - Docket #: ER22-991-001 - Page 2 
-III. ANNUAL CALCULATION OF CAPACITY PEAK LOAD 
-CONTRIBUTIONS (PLCS) 
-PPL Electric calculates individual preliminary PLCs based on normal peak load conditions and 
-adjusts all values to include transmission and distribution losses.  The ICAP PLCs are calculated 
-annually in November or December, and are effective from June 1st to May 31st of the next year 
-to correspond with the PJM Planning Year.  PPL Electric considers the first day of summer to be 
-June 1st and the final day to be September 30th. 
-PPL Electric’s customer ICAP PLC values are based on the PJM Zone peak allocated to the PPL 
-Zone between June 1st and September 30th of the prior year.  PJM Peaks are measured between 
-June 1st and September 30th (excluding holidays and weekends).  PJM peaks are always 
-Summer Peaks. 
-PPL Electric calculates customer ICAP PLC values by averaging each individual customer’s 
-interval usage data during each of the five PJM Zone peaks from the prior year, as identified by 
-PJM.  Each customer’s PLC value is then adjusted based on loss allocation and reconciliation 
-factors. 
-Loss allocations are based on the customer service level associated with their rate class.  These 
-loss factors are stated in the PPL Electric Utilities Electric Generation Supplier Coordination 
-Tariff (Tariff Electric Pa. P.U.C. No. 1s, effective January 1, 2011).  Reconciliation factor 
-allocations are used to ensure the sum of customer PLC values equals the target load for ICAP, 
-where: 
-1. The generation level load (meter load + losses) for every customer is summed; 
-2. A reconciliation factor is then determined by dividing the target PJM Zone load by the 
-sum of the customer ICAP PLC values plus losses; and 
-3. The reconciliation factor is then applied to each of the customer’s ICAP PLC values plus 
-losses, to determine their daily responsibility for the ICAP requirements. 
-PPL Electric uses default values for all new customers.  Default values are based on the average 
-or median PLC values for the new customer’s rate class. 
-IV. ANNUAL CALCULATION OF NETWORK SERVICE PEAK LOAD 
-PPL Electric calculates NITS PLCs annually in November or December.  These NITS PLCs are 
-effective from January 1st to December 31st of the next year. 
-PPL Electric’s customer NITS PLC values are based on the PPL Zone peaks between November 
-1st and October 31st (excluding holidays and weekends) of the prior year.  The PPL Zone peak 
-values are calculated by PJM. 
-PPL Electric calculates customer NITS PLC values by averaging each individual customer’s 
-interval usage data during each of the five PPL Zone peaks from the prior year, as identified by 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT ATTACHMENT M-2 (PPL Electric Utilities Corp.) 
-Effective Date: 4/4/2022 - Docket #: ER22-991-001 - Page 3 
-PJM.  Each customer’s PLC value is then adjusted based on loss allocation and reconciliation 
-factors. 
-Loss allocations are based on the customer service level associated with their rate class.  These 
-loss factors are stated in the PPL Electric Utilities Electric Generation Supplier Coordination 
-Tariff (Tariff Electric Pa. P.U.C. No. 1s, effective January 1, 2011).  Reconciliation factor 
-allocations are used to ensure the sum of customer PLC values equals the target load for NITS, 
-where: 
-1. The generation level load (meter load + losses) for every customer is summed; 
-2. A reconciliation factor is then determined by dividing the target PPL Zone load by the 
-sum of the customer NITS PLC values plus losses; and 
-3. The reconciliation factor is then applied to each of the customer’s NITS PLC values plus 
-losses, to determine their daily responsibility for the NITS requirements. 
-PPL Electric uses default values for all new customers.  Default values are based on the average 
-or median PLC values for the new customer’s rate class. 
-V. DAILY UPDATES TO PLC AND NSPL 
-Because the LSE responsible for a customer’s ICAP PLC and NITS PLC is subject to change at 
-points throughout the effective period, PPL Electric aggregates ICAP PLCs and NITS PLCs 
-values by LSEs serving load within the zone on a daily basis and transmits those updates to PJM 
-in accordance with PJM procedural requirements and capacity market schedules.  NITS PLCs are 
-adjusted based on the reconciliation factor before sending to PJM. 
-VI. DETERMINATION OF HOURLY LOAD OBLIGATIONS 
-A. Overview 
-PPL Electric settles hourly load obligations with each LSE and PJM via a two-step process. 
-Settlement A – PPL Electric determines the estimated “day after” (delivery day) hourly load 
-responsibility by recreating the load characteristics of the delivery day in question using a 
-combination of available known, preliminary, and historical information. PPL Electric then 
-submits the load responsibility for all LSEs serving load on the settled day(s) to PJM in 
-accordance with PJM procedural requirements and energy market schedules. 
-Settlement B – PPL Electric determines the final hourly load responsibility approximately 60 
-days after an energy delivery month by reconciling actual individual customer meter readings 
-and applicable load profile data with the Settlement A data for that month. PPL Electric then 
-calculates and submits the energy variances from Settlement A hourly scheduling for all LSEs to 
-PJM in accordance with PJM procedural requirements and energy market schedules. 
-All hourly load obligations are adjusted for transmission and distribution losses. 
-
 Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
 REQUESTS; R --> OATT ATTACHMENT M-2 (PPL Electric Utilities Corp.) 
 Effective Date: 4/4/2022 - Docket #: ER22-991-001 - Page 4 
@@ -667,3 +48,472 @@ SUPPLEMENTAL PROJECTS AND ASSET MANAGEMENT PROJECTS
  
 (a) Applicability.  Each Transmission Owner shall be responsible for planning and 
 constructing in accordance with Schedule 6 of the Operating Agreement as provided in this 
+Attachment M-3, to the extent applicable, (i) Asset Management Projects, as defined herein,  
+(ii) Supplemental Projects, as defined in section 1.42A.02 of the Operating Agreement, and 
+(iii) any other transmission expansion or enhancement of Transmission Facilities that is not 
+planned by PJM to address one or more of the following planning criteria: 
+1. NERC Reliability Standards (which includes Applicable Regional Entity 
+reliability standards);  
+2. Individual Transmission Owner planning criteria as filed in FERC Form No. 715 
+and posted on the PJM website, provided that the Additional Procedures for the 
+Identification and Planning of EOL Needs, set forth in section (d), shall apply, as 
+applicable; 
+3. Criteria to address economic constraints in accordance with section 1.5.7 of the 
+Operating Agreement or an agreement listed in Schedule 12-Appendix B; 
+4. State Agreement Approach expansions or enhancements in accordance with 
+section 1.5.9(a)(ii) of the Operating Agreement; or 
+5. An expansion or enhancement to be addressed by the RTEP Planning Process 
+pursuant to section (d)(2) of this Attachment M-3 in accordance with RTEP 
+Planning Process procedures in Schedule 6 of the Operating Agreement. 
+This Attachment M-3 shall not apply to CIP-014 mitigation projects that are subject to 
+Attachment M-4. 
+(b) Definitions.   
+1. Asset Management Project. “Asset Management Project” shall mean any 
+modification or replacement of a Transmission Owner’s Transmission Facilities 
+that results in no more than an Incidental Increase in transmission capacity 
+undertaken to perform maintenance, repair, and replacement work, to address an 
+EOL Need, or to effect infrastructure security, system reliability, and automation 
+projects the Transmission Owner undertakes to maintain its existing electric 
+transmission system and meet regulatory compliance requirements.  
+2. Attachment M-3 Project.  “Attachment M-3 Project” means (i) an Asset 
+Management Project that affects the connectivity of Transmission Facilities that 
+are included in the Transmission System, affects Transmission Facility ratings or 
+significantly changes the impedance of Transmission Facilities; (ii) a 
+Supplemental Project; or (iii) any other expansion or enhancement of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment M-3 
+Effective Date: 8/11/2020 - Docket #: ER20-2046-000 - Page 2 
+Transmission Facilities that is not excluded from this Attachment M-3 under any 
+of clauses (1) through (5) of section (a).  “Attachment M-3 Project” does not 
+include a project to address Form No. 715 EOL Planning Criteria. 3.
+ Incidental Increase.  “Incidental Increase” shall mean an increase in 
+transmission capacity achieved by advancements in technology and/or 
+replacements consistent with current Transmission Owner design standards, 
+industry standards, codes, laws or regulations, which is not reasonably severable 
+from an Asset Management Project. A transmission project that results in more 
+than an Incidental Increase in transmission capacity is an expansion or 
+enhancement of Transmission Facilities.  
+4. Transmission Facilities.  “Transmission Facilities” shall have the meaning set 
+forth in the Consolidated Transmission Owners Agreement, section 1.27. 
+5. EOL Need.  “EOL Need” shall mean a need to replace a transmission line 
+between breakers operating at or above 100 kV or a transformer, the high side of 
+which operates at or above 100 kV and the low side of which is not connected to 
+distribution facilities, which the Transmission Owner has determined to be near 
+the end of its useful life, the replacement of which would be an Attachment M-3 
+Project. 
+6. Candidate EOL Needs List. “Candidate EOL Needs List” shall have the meaning 
+ascribed to it in section (d)(1)(iii). 
+7. Form No. 715 EOL Planning Criteria. “Form No. 715 EOL Planning Criteria” 
+shall mean planning criteria filed by a Transmission Owner in FERC Form No. 
+715 to address EOL Needs.  No Transmission Owner may be compelled to file a 
+Form No. 715 EOL Planning Criteria not required to be filed pursuant to FERC 
+regulations applicable to Form No. 715. 
+8. Attachment M-3 EOL Planning Criteria.  “Attachment M-3 EOL Planning 
+Criteria” shall mean planning criteria utilized by a Transmission Owner under 
+Attachment M-3 to address EOL Needs. 
+9. PJM Planning Criteria Need.  “PJM Planning Criteria Need” shall mean a need to 
+plan a transmission expansion or enhancement of Transmission Facilities other 
+than those reserved to each Transmission Owner in accordance with section (a). 
+10. RTEP Planning Process.  “RTEP Planning Process” shall mean the process by 
+which PJM develops the Regional Transmission Expansion Plan under Schedule 6 
+of the Operating Agreement. 
+(c) Procedures for Review of Attachment M-3 Projects.  The following procedures shall 
+be applicable to the planning of Attachment M-3 Projects:  
+ 
+1. Review of Attachment M-3 Projects. As described in sections 1.3(c) and (d) of 
+Schedule 6 of the Operating Agreement, the Subregional RTEP Committees 
+shall be responsible for the review of Attachment M-3 Projects. The Subregional 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment M-3 
+Effective Date: 8/11/2020 - Docket #: ER20-2046-000 - Page 3 
+RTEP Committees shall have a meaningful opportunity to participate and 
+provide feedback, including written comments, throughout the transmission 
+planning process for Attachment M-3 Projects. Disputes shall be resolved in 
+accordance with the procedures set forth at Schedule 5 of the Operating 
+Agreement. For purposes of this section (c), reference to the Subregional RTEP 
+Committees shall be deemed to include the Transmission Expansion Advisory 
+Committee (TEAC) when the TEAC reviews Attachment M-3 Projects in 
+accordance with these procedures. 
+ 
+2. Review of Assumptions and Methodology. In accordance with sections 1.3(d), 
+1.5.4(a), and 1.5.6(b) and 1.5.6(c) of Schedule 6 of the Operating Agreement, 
+each Subregional RTEP Committee shall schedule and facilitate a minimum of 
+one Subregional RTEP Committee meeting to review the criteria, assumptions, 
+and models Transmission Owners propose to use to plan and identify Attachment 
+M-3 Projects (Assumptions Meeting). Each Transmission Owner shall provide 
+the criteria, assumptions, and models to PJM for posting at least 20 days in 
+advance of the Assumptions Meeting to provide Subregional RTEP Committee 
+Participants sufficient time to review this information. Stakeholders may provide 
+comments on the criteria, assumptions, and models to the Transmission Owner 
+for consideration either prior to or following the Assumptions Meeting. The 
+Transmission Owner shall review and consider comments that are received 
+within 10 days of the Assumptions Meeting and may respond or provide 
+feedback as appropriate. 
+ 
+3. Review of System Needs. No fewer than 25 days after the Assumptions 
+Meeting, each Subregional RTEP Committee shall schedule and facilitate a 
+minimum of one Subregional RTEP Committee meeting per planning cycle to 
+review the identified criteria violations and resulting system needs, if any, that 
+may drive the need for an Attachment M-3 Project (Needs Meeting). Each 
+Transmission Owner will review the identified system needs and the drivers of 
+those needs, based on the application of its criteria, assumptions, and models that 
+it uses to plan Attachment M-3 Projects. The Transmission Owners shall share 
+and post their identified criteria violations and drivers no fewer than 10 days in 
+advance of the Needs Meeting. Stakeholders may provide comments on the 
+criteria violations and drivers to the Transmission Owner for consideration prior 
+to, at, or following the Needs Meeting. The Transmission Owner shall review 
+and consider comments that are received within 10 days of the Needs Meeting 
+and may respond or provide feedback as appropriate. 
+ 
+4. Review of Potential Solutions. No fewer than 25 days after the Needs Meeting, 
+each Subregional RTEP Committee shall schedule and facilitate a minimum of 
+one Subregional RTEP Committee meeting per planning cycle to review 
+potential solutions for the identified criteria violations (Solutions Meeting). The 
+Transmission Owners shall share and post their potential solutions, as well as 
+any alternatives identified by the Transmission Owners or stakeholders, no fewer 
+than 10 days in advance of the Solutions Meeting. Stakeholders may provide 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment M-3 
+Effective Date: 8/11/2020 - Docket #: ER20-2046-000 - Page 4 
+comments on the potential solutions to the Transmission Owner for 
+consideration either prior to or following the Solutions Meeting. The 
+Transmission Owner shall review and consider comments that are received 
+within 10 days of the meeting and may respond or provide feedback as 
+appropriate. 
+ 
+5. Submission of Attachment M-3 Projects. Each Transmission Owner will 
+finalize for submittal to the Transmission Provider Attachment M-3 Projects for 
+inclusion in the Local Plan in accordance with section 1.3 of Schedule 6 of the 
+Operating Agreement and the schedule established by the Transmission 
+Provider.  Stakeholders may provide comments on the Attachment M-3 Projects 
+in accordance with section 1.3 of Schedule 6 of the PJM Operating Agreement 
+before the Local Plan is integrated into the Regional Transmission Expansion 
+Plan.  Stakeholders shall have at least 10 days to comment on the Local Plan 
+after the solutions selected by the Transmission Owner for inclusion in the Local 
+Plan are posted. Each Transmission Owner shall review and consider comments 
+that are received at least 10 days before the Local Plan is submitted for 
+integration into the Regional Transmission Expansion Plan. 
+ 
+6. Information Relating to Attachment M-3 Projects. Information relating to 
+each Transmission Owner’s Attachment M-3 Projects will be provided in 
+accordance with, and subject to the limitations set forth in, section 1.5.4 of 
+Schedule 6 of the Operating Agreement. Local Plan Information will be provided 
+to and posted by the Office of Interconnection as set forth in section 1.5.4(e) of 
+Schedule 6 of the Operating Agreement. 
+ 
+7. No Limitation on Additional Meetings and Communications or Use of 
+Attachment M-3 For Other Transmission Projects.  
+ 
+i. Nothing in this Attachment M-3 precludes any Transmission Owner from 
+agreeing with stakeholders to additional meetings or other 
+communications regarding Attachment M-3 Projects, in addition to the 
+Subregional RTEP Committee process.   
+ii. Nothing in this Attachment M-3 precludes a Transmission Owner from 
+using the procedures set forth in section (c) to solicit stakeholder input in 
+the planning of Transmission Facilities not subject to this section (c) or 
+the RTEP Planning Process. 
+ 
+(d) Additional Procedures for the Identification and Planning of EOL Needs.  
+1. EOL Need Planning Criteria Documentation and Identification 
+i. Each PJM Transmission Owner shall develop documentation for its 
+Attachment M-3 EOL Planning Criteria and/or its Form 715 EOL 
+Planning Criteria through which each identifies EOL Needs.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment M-3 
+Effective Date: 8/11/2020 - Docket #: ER20-2046-000 - Page 5 
+ii. Each Transmission Owner’s Attachment M-3 EOL Planning Criteria 
+and/or Form 715 EOL Planning Criteria shall be clearly and separately 
+delineated and presented by the Transmission Owner at least once 
+annually pursuant to section (c)(2) and/or in its FERC Form No. 715 at a 
+meeting of the TEAC. 
+iii. Annually, each Transmission Owner will provide to PJM a Candidate 
+EOL Needs List comprising its non-public confidential, non-binding 
+projection of up to 5 years of EOL Needs that it has identified under the 
+Transmission Owner’s processes for identification of EOL Needs 
+documented under section (d)(1)(i).  Each Transmission Owner may 
+change its projection as it deems necessary and will update it annually.  
+Any Candidate EOL Needs List provided to PJM shall remain 
+confidential within PJM, except to the extent necessary for PJM to make 
+the determination referenced in clause (a) of section (d)(2)(ii). 
+2. Coordination of EOL Needs Planning With PJM Planning Criteria Needs. 
+i. If, as part of the RTEP Planning Process, PJM initially determines that a 
+substantial electrical overlap exists such that a single Solution may 
+address a validated PJM Planning Criteria Need(s) identified during the 
+current PJM planning cycle under the RTEP Planning Process and 
+address a projected EOL Need on the Candidate EOL Needs List, which 
+the relevant Transmission Owner has confirmed remains a projected EOL 
+Need, the relevant Transmission Owner shall consult with PJM regarding 
+such potential overlap. 
+ii. If, (a) PJM determines through the RTEP Planning Process that a proposed 
+Required Transmission Enhancement would more efficiently and cost-
+effectively address the identified PJM Planning Criteria Need and may, as 
+well, address the projected EOL Need confirmed under section (d)(2)(i), 
+and (b) the proposed Required Transmission Enhancement is not a 
+solution proposed by the Transmission Owner pursuant to section (c)(4), 
+and (c) the Transmission Owner determines that the projected EOL Need 
+is not met by the proposed Required Transmission Enhancement and 
+determines that it will plan an Attachment M-3 Project to address the 
+projected EOL Need or propose a project to address the Form No. 715 
+EOL Planning Criteria, the Transmission Owner will provide 
+documentation to PJM and stakeholders on the rationale supporting its 
+determination at the next appropriate meeting of the TEAC or Subregional 
+RTEP Committee that considered the proposed Required Transmission 
+Enhancement. 
+(e) Modifications. This Attachment M-3 may only be modified under section 205 of the 
+Federal Power Act if the proposed modification has been authorized by the PJM 
+Transmission Owners Agreement-Administrative Committee in accordance with 
+section 8.5 of the Consolidated Transmission Owners Agreement. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 1 
+ATTACHMENT M-4 
+ 
+SPECIAL PROCEDURES SOLELY APPLICABLE TO PLANNING OF CIP-014 
+MITIGATION SUPPLEMENTAL PROJECTS 
+ 
+a) Purpose, Limited Scope, Sunset, and Definitions.  Under NERC Reliability Standard 
+CIP-014-2 (“CIP-014”), as it may be redesignated from time to time, Transmission 
+Owners are required to develop and implement physical security plans to protect certain 
+critical transmission stations and substations.  This Attachment M-4 is to identify an 
+efficient and cost-effective process for the elimination of such stations and substations as 
+CIP-014 facilities through Supplemental Projects without the level of public disclosure of 
+the existence, location, exact number, and vulnerabilities associated with the CIP-014 
+facilities that would otherwise be required pursuant to Attachment M-3.  The 
+Supplemental Projects that are to be planned for the elimination of CIP-014 stations and 
+substations in accordance with this Attachment M-4, defined below as CIP-014 
+mitigation projects (“CMP”) in Step 1 of this Attachment M-4, are removed from the 
+Attachment M-3 public planning process in order to ensure that security is maintained 
+while also providing reasonable transparency into the planning process and justification 
+for CMPs.  This Attachment M-4 mechanism is a limited alternative to the Attachment 
+M-3 process both in scope and duration, is narrowly tailored to meet security needs, and 
+provides for vital roles by both PJM Interconnection, L.L.C. (“PJM”) and State 
+Commissions in all CMP Process Steps, as set forth below.  Notwithstanding the 
+procedures provided for in Attachment M-3 or other planning requirements with respect 
+to all other Supplemental Projects, including proposed project reviews by the 
+Transmission Expansion Advisory Committee or Subregional RTEP Committees and 
+inclusion in the Local Plan, this Attachment M-4 provides special targeted procedures 
+that the Transmission Owners and the unaffiliated verifying entity as defined in NERC 
+CIP-014 (currently, PJM), shall follow in connection with CMPs, which have the specific 
+purpose of removing transmission stations or substations from the list of CIP-014 
+facilities, within the limited period for which this Attachment M-4 shall be in effect 
+pursuant to the Sunset provision and Step 1 of this Attachment M-4.  Other than to the 
+extent that CMP information is included in models maintained by the Transmission 
+Provider, this information shall be made available to the public during the planning and 
+construction of the CMP only under the confidentiality provisions described in Steps 8 
+and 10 below.  Provisions for confidential consultations with State Commissions during 
+this process are also included herein. 
+ 
+b) CMP Process Steps.  The process under this Attachment M-4 consists of the following 
+steps: 
+ 
+1. Definition of CMPs.  For purposes of this Attachment M-4, a CMP shall mean a 
+“Supplemental Project,” as defined in the Operating Agreement, Section 1.42A.02, 
+that is (a) designed specifically to remove a transmission station or substation from 
+the list of CIP-014 facilities identified as of September 30, 2018 as requiring a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 2 
+documented physical security plan (“CIP-014 List”); and (b) reviewed by PJM in 
+accordance with Step 4 of this Attachment M-4.  The intent is to complete CMPs no 
+later than five (5) years after the date that the Commission issues an Order accepting 
+this Attachment M-4. 
+2. Limitation on the Number of CMPs.  The number of stations and substations 
+throughout the PJM region eligible for CMPs will not exceed 20, the maximum 
+allowable under the finite list referred to in Step 1 of this Attachment M-4.  The 
+process set forth in this Attachment M-4 shall be in effect and available only as to 
+CMPs designed specifically to remove a transmission station or substation from the 
+list of CIP-014 facilities as it exists on September 30, 2018 and will cease to apply to 
+any transmission station or substation if it is removed or eliminated from that list 
+immediately upon such removal or elimination. 
+3. Transmission Owner Deliberative Process.  A Transmission Owner will submit to 
+PJM: 
+A. Potential Solutions.  The potential alternative means of eliminating a 
+transmission station or substation from the CIP-014 List; and 
+ 
+B. Preferred Solution.  Identification from among the Potential Solutions the 
+solution that in the view of the Transmission Owner constitutes the more efficient 
+or cost-effective solution to enable the transmission station or substation to be 
+removed from the list of CIP-014 facilities along with an explanation of its 
+Preferred Solution that addresses the following: 
+ 
+i. The customer impact that would result from the loss of the transmission 
+station or substation on the CIP-014 List, taking into account any plans for 
+recovering from the loss of the transmission station or substation that could 
+help to restore all or some of the load that was lost, the amount of time that it 
+would take for such load to be restored and the nature of the load to be 
+recovered or not able to be recovered; 
+ii. Whether there are distribution system-level solutions to eliminate the 
+transmission station or substation from the CIP-014 List; and 
+iii. Whether the Preferred Solution requires new or expanded right-of-way.   
+4. PJM Review and Assessment. 
+ 
+A. PJM Review.  Upon receiving the Preferred Solution and Potential Solutions from 
+a Transmission Owner pursuant to Step 3 above, PJM (or consultants selected by 
+PJM) shall evaluate those solutions.  PJM shall report its findings to the 
+Transmission Owner in writing and either: (i) advise that the Preferred Solution is 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 3 
+the more efficient or cost effective solution from among the Preferred Solutions 
+and Potential Solutions; (ii) suggest modifications to any of the Preferred Solution 
+or Potential Solutions that will permit PJM to advise that one of them is the more 
+efficient or cost effective solution; or (iii) advise that a CMP solution not be 
+pursued.  PJM’s report of its findings shall include an explanation of the basis for 
+its advice.  
+ 
+B. PJM Assessment and Verification.  For any CMP project ultimately selected for 
+construction by the Transmission Owner (“Proposed CMP”), PJM shall assess 
+and verify (or explain its inability to verify) that the project: 
+ 
+i. Will result in removal of one or more transmission stations or substations 
+from the CIP-014 List; 
+ii. Does not remove transmission station(s) or substation(s) from the CIP-014 
+List that would otherwise be removed from the list through the current 
+Regional Transmission Expansion Planning Process under the Operating 
+Agreement, Schedule 6 (“RTEP Process”);   
+iii. Does not provide a solution to address a reliability, operational performance, 
+market efficiency or public policy need that would otherwise be addressed 
+through the current RTEP Process;  
+iv. Will not result in another transmission station or substation being added to the 
+CIP-014 List; and   
+v. Does not result in reliability or operational performance criteria violations 
+under the RTEP Process.  
+PJM shall report its assessment of these factors to the Transmission Owner in writing.  
+No CMP solution shall proceed to another step in the Attachment M-4 process until 
+this Step 4 has been completed.  Once PJM and the Transmission Owner have agreed 
+that the report is final, PJM’s report will be provided to the affected State 
+Commission, at that agency’s option. 
+5. Consultation with State Commissions.  The Transmission Owner shall ensure that all 
+consultations with a State Commission as set forth in this Step 5, are subject to 
+appropriate confidential safeguards.  The Transmission Owner shall only be required 
+to engage in consultations with a State Commission with respect to the planning and 
+construction of a CMP under Step 5 and the Transmission Owner and PJM shall only 
+consult with or provide information to a State Commission under Steps 5 or 6, if and 
+to the extent that the Transmission Owner can ensure that such consultations and 
+information will be subject to such appropriate confidential safeguards. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 4 
+A. Any Transmission Owner having submitted to PJM a Preferred Solution and 
+Potential Solutions to eliminate a transmission station or substation from the CIP-
+014 List pursuant to Step 3 above shall seek to meet with any State 
+Commission(s) with jurisdiction in the Transmission Zones in which a CMP is 
+proposed to be located.  PJM shall be invited to participate in any such meeting.  
+Topics for discussion shall include, but not be limited to the considerations 
+specified in CIP-014, including the need for a CMP, the Potential Solutions 
+submitted to PJM, and the Transmission Owner’s Preferred Solution. 
+B. Upon PJM’s completion of the review specified in Step 4 above, the Transmission 
+Owner shall again seek to meet with any State Commission(s) with jurisdiction in 
+the Transmission Zones in which a CMP is proposed to be located.  PJM shall be 
+invited to participate in any such meeting.  Topics for discussion shall include, but 
+not be limited to PJM’s review and findings, including the efficiency and cost-
+effectiveness of any and all of PJM’s recommendations.  
+C. After identifying and selecting its Proposed CMP pursuant to completion of Step 
+4(B) above, but before construction is initiated, the Transmission Owner shall 
+further seek to meet with any State Commission(s) with jurisdiction in the 
+Transmission Zones in which the Proposed CMP is to be constructed.  PJM shall 
+be invited to participate in any such meeting.  Topics for discussion shall include, 
+but not be limited to PJM’s assessment of the factors in Step 4(B)(i) through (v) 
+above, the rationale for, location of, and specifications of the Proposed CMP and 
+potential siting issues, particularly those that could affect the estimated project 
+cost.  To facilitate the discussion and enable an understanding of the benefits of 
+costs assessed, the Transmission Owner shall be prepared to present an 
+explanation of the reasons and rationale for its intention to proceed to construct its 
+Proposed CMP and the reasonableness of that proposal.  The Transmission Owner 
+shall be prepared to address the following: 
+ 
+i. The customer impact that would result from the loss of the transmission 
+station or substation on the CIP-014 List, taking into account any plans for 
+recovering from the loss of the transmission station or substation that could 
+help to restore all or some of the load that was lost, the amount of time that it 
+would take for such load to be restored and the nature of the load to be 
+recovered or not able to be recovered, as compared to these same factors as 
+they relate to that station or substation assuming that the Proposed CMP is 
+constructed; 
+ii. Whether there exist distribution system-level solutions, or changes in 
+operating procedures, or some combination, to eliminate the transmission 
+station or substation from the CIP-014 List; 
+iii. Whether the Proposed CMP requires new or expanded right-of-way; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 5 
+iv. Whether the Proposed CMP will displace costs associated with maintaining 
+physical security for stations/substations on the CIP-014 List; and 
+v. The estimated cost of the Proposed CMP. 
+6. PJM Interim/Periodic Review and Interim Consultation with State Commissions. 
+Nothing in this Attachment M-4 precludes PJM, at its sole discretion, from 
+conducting additional periodic examinations to verify the continuing validity of its 
+findings and assessment under Step 4, above.  Similarly, nothing in this Attachment 
+M-4 precludes PJM from consulting with State Commissions in addition to those 
+consultations specified in Step 5 above, with or without the participation of the 
+relevant Transmission Owner. 
+ 
+7. Project Notification and Compliance. 
+A. Transmission Owner Notification to PJM.  Upon satisfaction of all parts of Step 5, 
+the Transmission Owner shall notify PJM in writing that the Proposed CMP will 
+be constructed and identify the location and specifications of the Proposed CMP 
+selected.  The Transmission Owner shall make a reasonable effort to seek 
+alternative funding to offset project costs, including but not limited to U.S. 
+Department of Energy grants associated with addressing national security, critical 
+infrastructure or resilience.  
+B. Compliance.  The Transmission Owner will comply with all applicable licensing, 
+permitting, siting, or certification requirements as well as all applicable 
+proceedings for eminent domain authority. 
+8. CMP Construction.  During construction of a CMP, the Transmission Owner carrying 
+out such construction shall continue to take safeguards to ensure necessary 
+confidentiality until the CMP is placed in service. 
+ 
+9. CMP In-Service Placement.  A Transmission Owner shall have complied with all of 
+its obligations set forth in the CMP Process Steps above before the CMP may be 
+placed in-service. 
+ 
+10. Confidentiality.  If at any step in the Attachment M-4 process, the level of needed 
+confidentiality is eliminated with respect to elements of CMP information, such 
+confidentiality shall be reduced or lifted.  As a precondition to any Transmission 
+Owner being eligible for recovery of the costs of the CMP, the Transmission Owner 
+shall provide public notice of the existence of the CMP. 
+ 
+11. Public Review of CMP.  At no time prior to the existence of the CMP being made 
+known to the public by adherence to Step 10 of this Attachment M-4 shall the costs of 
+any CMP be eligible for inclusion in rates filed by any Transmission Owner.  After 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-4 Procedures for Mitigation of Supp Projec 
+Effective Date: 3/17/2020 - Docket #: ER20-841-000 - Page 6 
+notice of the existence of a CMP has been provided by adherence to Step 10 of this 
+Attachment M-4, the Transmission Owner may propose to recover its investment in 
+the CMP and the associated costs from Responsible Customers in its Zone through a 
+rate, including a formula rate, in effect under the applicable Tariff, Attachment H 
+similar to the cost recovery process it follows for other Supplemental Projects.  Any 
+such proposal shall be subject to discovery on all matters pursuant to the procedures 
+applicable under the applicable Attachment H, the Federal Power Act, and the 
+Commission’s regulations, including any applicable procedures for the protection 
+against disclosure of commercially sensitive information and Critical Energy 
+Infrastructure Information. 
+ 
+c) Modifications.  This Attachment M-4 may be modified under Section 205 of the Federal 
+Power Act only if the proposed modification has been authorized by the PJM 
+Transmission Owners Agreement-Administrative Committee in accordance with Section 
+8.5 of the Consolidated Transmission Owners Agreement (“CTOA”). 
+ 
+d) Sunset.  This Attachment M-4 terminates five years after the issuance date of an Order 
+from the Federal Energy Regulatory Commission approving this Attachment M-4 for 
+inclusion in the PJM Tariff; however, CMPs already under construction as of that date of 
+termination may proceed and the conditions in Steps 8, 9, 10, and 11 shall remain in 
+force.  For any CMP construction occurring after the sunset date, quarterly status 
+briefings shall be provided to any State Commission previously consulted under Step 5 
+until the CMP is placed in service pursuant to Step 9. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT N 
+Effective Date: 11/17/2020 - Docket #: ER19-1958-000 - Page 1 

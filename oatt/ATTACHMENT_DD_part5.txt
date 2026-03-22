@@ -1,0 +1,1155 @@
+[ATTACHMENT DD - Part 5 of 7]
+
+TwinPak) $33.34  $49.16  $34.63  $51.06  $36.04  $53.14  $33.93  $50.03  
+CT -  3rd 
+Gen. Frame F $26.96  $38.83  $28.00  $40.33  $29.14  $41.98  $27.43  $39.52  
+Diesel $29.92  $37.98  $31.08  $39.45  $32.35  $41.06  $30.44  $38.66  
+Oil and Gas 
+Steam $74.20  $90.33  $77.07  $93.83  $80.21  $97.66  $75.51  $91.94  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.7 Data Submission 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 4 
+Commencing with the Base Residual Auction for the 2017/2018 Delivery Year, the Office of the 
+Interconnection shall determine the default retirement and mothball Avoidable Cost Rates 
+referenced in section (c)(ii) above, and post them on its website, by no later than one hundred 
+fifty (150) days prior to the commencement of the offer period for each Base Residual Auction. 
+To determine the applicable ACR rates, the Office of the Interconnection shall use the actual rate 
+of change in the historical values from the Handy-Whitman Index of Public Utility Construction 
+Costs or a comparable index approved by the Commission (“Handy-Whitman Index”) to the 
+extent they are available to update the base values for the Delivery Year, and for future Delivery 
+Years for which the updated Handy-Whitman Index values are not yet available the Office of the 
+Interconnection shall update the base values for the Delivery Year using the most recent ten-
+calendar-year annual average rate of change.  The ACR rates shall be expressed in dollar values 
+for the applicable Delivery Year. 
+ 
+Maximum Avoidable Cost Rates by Technology Class  
+(Expressed in 2011 Dollars for the 2011/2012 Delivery Year) 
+ 
+Technology 
+ 
+Mothball ACR ($/MW-
+Day) 
+ 
+Retirement ACR 
+($/MW-Day) 
+ 
+Combustion Turbine -  Industrial Frame  $24.13  $33.04  
+Coal Fired   $136.91    $157.83  
+Combined Cycle $29.58  $40.69  
+Combustion Turbine - Aero Derivative $26.13  $37.18  
+Diesel $25.46  $32.33  
+Hydro $68.78  $89.96  
+Oil and Gas Steam $63.16  $76.90  
+Pumped Storage $20.12  $28.26  
+ 
+To determine the default retirement and mothball ACR values for the 2017/2018 Delivery Year, 
+the Office of the Interconnection shall multiply the base default retirement and mothball ACR 
+values in the table above by a factor equal to one plus the most recent annual average rate of 
+change in the July Handy-Whitman Indices for the 2011 to 2013 calendar years to determine 
+updated base default retirement and mothball ACR values. The updated base default retirement 
+and mothball ACR values shall then be multiplied by a factor equal to one plus the most recent 
+ten-calendar-year annual average rate of change in the applicable Handy-Whitman Index, taken 
+to the fourth power, as calculated by the Office of the Interconnection and posted to its website.  
+ 
+PJM shall also publish on its website the number of Generation Capacity Resources and 
+megawatts per LDA that use the retirement Avoidable Cost Rates. 
+ 
+After the Market Monitoring Unit conducts its annual review of the table of default Avoidable 
+Cost Rates included in section 6.7(c) above in accordance with the procedure specified in Tariff, 
+Attachment M-Appendix, section II.H, it will provide updated values or notice of its 
+determination that updated values are not needed to Office of the Interconnection. In the event 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.7 Data Submission 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 5 
+that the Office of the Interconnection determines that the values should be updated, the Office of 
+the Interconnection shall file its proposed values with the Commission by no later than October 
+30th prior to the commencement of the offer period for the first RPM Auction for which it 
+proposes to apply the updated values.   
+ 
+ (d) In order for costs to qualify for inclusion in the Market Seller Offer Cap, the 
+Capacity Market Seller must provide to the Market Monitoring Unit and the Office of the 
+Interconnection relevant unit-specific cost data concerning each data item specified as set forth 
+in section 6 by no later than one hundred twenty (120) days prior to the commencement of the 
+offer period for the applicable RPM Auction. If cost data is not available at the time of 
+submission for the time periods specified in section 6.8 below, costs may be estimated for such 
+period based on the most recent data available, with an explanation of and basis for the estimate 
+used, as may be further specified in the PJM Manuals.  Based on the data and calculations 
+submitted by the Capacity Market Sellers for each existing generation resource and the formulas 
+specified below, the Market Monitoring Unit shall calculate the Market Seller Offer Cap for each 
+such resource, and notify the Capacity Market Seller and the Office of the Interconnection in 
+writing of its determination pursuant to Tariff, Attachment M-Appendix, section II.E. 
+ 
+i. Avoidable Cost Rate:  The Avoidable Cost Rate for an existing generation 
+resource shall be determined using the formula below and applied to the unit’s Base Offer 
+Segment. 
+ 
+ii. Opportunity Cost:  Opportunity Cost shall be the documented price 
+available to an existing generation resource in a market external to PJM.  In the event that the 
+total MW of existing generation resources submitting opportunity cost offers in any auction for a 
+Delivery Year exceeds the firm export capability of the PJM system for such Delivery Year, or 
+the capability of external markets to import capacity in such year, the Office of the 
+Interconnection will accept such offers on a competitive basis. PJM will construct a supply curve 
+of opportunity cost offers, ordered by opportunity cost, and accept such offers to export starting 
+with the highest opportunity cost, until the maximum level of such exports is reached.  The 
+maximum level of such exports is the lesser of the Office of the Interconnection’s ability to 
+permit firm exports or the ability of the importing area(s) to accept firm imports or imports of 
+capacity, taking account of relevant export limitations by location.  If, as a result, an opportunity 
+cost offer is not accepted from an existing generation resource, the Market Seller Offer Cap 
+applicable to Sell Offers relying on such generation resource shall be the Avoidable Cost Rate  
+less the Projected Market Revenues for such resource (as defined in section 6.4 above).  The 
+default Avoidable Cost Rate shall be the one year mothball Avoidable Cost Rate set forth in the 
+tables in section 6.7(c) above unless Capacity Market Seller satisfies the criteria delineated in 
+section 6.7(e) below. 
+ 
+iii. Projected PJM Market Revenues:  Projected PJM Market Revenues are 
+defined by section 6.8(d) below, for any Generation Capacity Resource to which the Avoidable 
+Cost Rate is applied. 
+ 
+ (e) In order for the retirement Avoidable Cost Rate set forth in the table in section 
+6.7(c) to apply, by no later than one hundred twenty (120) days prior to the commencement of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.7 Data Submission 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 6 
+the offer period for the applicable RPM Auction, a Capacity Market Seller must submit to the 
+Office of the Interconnection and the Market Monitoring Unit a written sworn, notarized 
+statement of a corporate officer representing that the Capacity Market Seller will retire the 
+Generation Capacity Resource if it does not receive during the relevant Delivery Year at least the 
+applicable retirement Avoidable Cost Rate because it would be uneconomic to continue to 
+operate the Generation Capacity Resource in the Delivery Year without the retirement Avoidable 
+Cost Rate, and specifying the date the Generation Capacity Resource would otherwise be retired. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+ 
+ 
+6.8 Avoidable Cost Definition 
+ 
+ (a) Avoidable Cost Rate:   
+ 
+The Avoidable Cost Rate for a Generation Capacity Resource that is the subject of a Sell Offer 
+shall be determined using the following formula, expressed in dollars per MW-year: 
+ 
+Avoidable Cost Rate = [Adjustment Factor * (AOML + AAE + AFAE + AME + 
+AVE + ATFI + ACC + ACLE) + ARPIR + APIR + CPQR] 
+ 
+Where: 
+ 
+ Adjustment Factor equals 1.10 (to provide a margin of error for understatement 
+of costs) plus an additional adjustment referencing the 10-year average Handy-
+Whitman Index in order to account for expected inflation from the time interval 
+between the submission of the Sell Offer and the commencement of the Delivery 
+Year. 
+ 
+ AOML (Avoidable Operations and Maintenance Labor) consists of the 
+avoidable labor expenses related directly to operations and maintenance of the 
+generating unit for the twelve months preceding the month in which the data 
+must be provided. The categories of expenses included in AOML are those 
+incurred for:  (a) on-site based labor engaged in operations and maintenance 
+activities; (b) off-site based labor engaged in on-site operations and maintenance 
+activities directly related to the generating unit; and (c) off-site based labor 
+engaged in off-site operations and maintenance activities directly related to 
+generating unit equipment removed from the generating unit site.  
+ 
+ AAE (Avoidable Administrative Expenses) consists of the avoidable 
+administrative expenses related directly to employees at the generating 
+unit for twelve months preceding the month in which the data must be 
+provided.  The categories of expenses included in AAE are those incurred 
+for: (a) employee expenses (except employee expenses included in 
+AOML); (b) environmental fees; (c) safety and operator training; (d) 
+office supplies; (e) communications; and (f) annual plant test, inspection 
+and analysis. 
+ 
+ AFAE (Avoidable Fuel Availability Expenses) consists of avoidable 
+operating expenses related directly to fuel availability and delivery for the 
+generating unit that can be demonstrated by the Capacity Market Seller 
+based on data for the twelve months preceding the month in which the 
+data must be provided , or on reasonable projections for the Delivery Year 
+supported by executed contracts, published tariffs, or other data sufficient 
+to demonstrate with reasonable certainty the level of costs that have been 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+or shall be incurred for such purpose.  The categories of expenses included 
+in AFAE are those incurred for: (a) firm gas pipeline transportation; (b) 
+natural gas storage costs; (c) costs of gas balancing agreements; and (d) 
+costs of gas park and loan services.  AFAE expenses are for firm fuel 
+supply and apply solely for offers for a Capacity Performance Resource 
+ 
+ AME (Avoidable Maintenance Expenses) consists of avoidable 
+maintenance expenses (other than expenses included in AOML) related 
+directly to the generating unit for the twelve months preceding the month 
+in which the data must be provided. The categories of expenses included 
+in AME are those incurred for: (a) chemical and materials consumed 
+during maintenance of the generating unit; and (b) rented maintenance 
+equipment used to maintain the generating unit. 
+ 
+ AVE (Avoidable Variable Expenses) consists of avoidable variable 
+expenses related directly to the generating unit incurred in the twelve 
+months preceding the month in which the data must be provided.  The 
+categories of expenses included in AVE are those incurred for: (a) water 
+treatment chemicals and lubricants; (b) water, gas, and electric service (not 
+for power generation); and (c) waste water treatment.  
+ 
+ ATFI (Avoidable Taxes, Fees and Insurance) consists of avoidable 
+expenses related directly to the generating unit incurred in the twelve 
+months preceding the month in which the data must be provided. The 
+categories of expenses included in AFTI are those incurred for: (a) 
+insurance, (b) permits and licensing fees, (c) site security and utilities for 
+maintaining security at the site; and (d) property taxes.   
+ 
+ ACC (Avoidable Carrying Charges) consists of avoidable short-term 
+carrying charges related directly to the generating unit in the twelve 
+months preceding the month in which the data must be provided. 
+Avoidable short-term carrying charges shall include short term carrying 
+charges for maintaining reasonable levels of inventories of fuel and spare 
+parts that result from short-term operational unit decisions as measured by 
+industry best practice standards.  For the purpose of determining ACC, 
+short term is the time period in which a reasonable replacement of 
+inventory for normal, expected operations can occur. 
+ 
+ ACLE (Avoidable Corporate Level Expenses) consists of avoidable 
+corporate level expenses directly related to the generating unit incurred in 
+the twelve months preceding the month in which the data must be 
+provided. Avoidable corporate level expenses shall include only such 
+expenses that are directly linked to providing tangible services required for 
+the operation of the generating unit proposed for Deactivation. The 
+categories of avoidable expenses included in ACLE are those incurred for: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 3 
+(a) legal services, (b) environmental reporting; and (c) procurement 
+expenses. 
+ 
+ CPQR (Capacity Performance Quantifiable Risk) consists of the 
+quantifiable and reasonably-supported costs of mitigating the risks of non-
+performance associated with submission of a Capacity Performance 
+Resource offer, such as insurance expenses associated with resource non-
+performance risks.  CPQR shall be considered reasonably supported if it is 
+based on actuarial practices generally used by the industry to model or 
+value risk and if it is based on actuarial practices used by the Capacity 
+Market Seller to model or value risk in other aspects of the Capacity 
+Market Seller’s business. Such reasonable support shall also include an 
+officer certification that the modeling and valuation of the CPQR was 
+developed in accord with such practices. Provision of such reasonable 
+support shall be sufficient to establish the CPQR.  A Capacity Market 
+Seller may use other methods or forms of support for its proposed CPQR 
+that shows the CPQR is limited to risks the seller faces from committing a 
+Capacity Resource hereunder, that quantifies the costs of mitigating such 
+risks, and that includes supporting documentation (which may include an 
+officer certification) for the identification of such risks and quantification 
+of such costs.  Such showing shall establish the proposed CPQR upon 
+acceptance by the Office of the Interconnection. 
+ 
+ APIR (Avoidable Project Investment Recovery Rate) = PI * CRF 
+ 
+Where: 
+ 
+ PI is the amount of project investment completed prior to June 1 of 
+the Delivery Year, except for Mandatory Capital Expenditures 
+(“CapEx”) for which the project investment must be completed 
+during the Delivery Year, that is reasonably required to enable a 
+Generation Capacity Resource that is the subject of a Sell Offer to 
+continue operating or improve availability during Peak-Hour 
+Periods during the Delivery Year. 
+ 
+ CRF is the annual capital recovery factor, applied in accordance 
+with the terms specified below.  CRF values are calculated for 
+recovery periods of 4, 5, 10, 15, 20, 25, and 30 years, using the 
+following formula with assumptions of the following components: 
+(i) capital structure and cost of capital; (ii) debt interest rate; (iii) 
+state income tax rate, and (iv) federal income tax and depreciation 
+rates as utilized by the U.S. Internal Revenue Service.   
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 4 
+ 
+Where: 
+r is the after tax Weighted Average Cost of Capital (calculated as: percent equity * cost of equity 
++ percent debt * debt interest rate * (1- effective tax rate)) 
+s is the effective tax rate (calculated as: State Tax Rate + Federal Tax Rate*(1-State Tax Rate)) 
+B is the bonus depreciation percent 
+N is the cost recovery period (years) 
+L is the lessor of N or 16 (years) 
+mj is the modified accelerated cost recovery system (MACRS) depreciation factor for year j =1, . 
+. ., 16. 
+ 
+ 
+ The CRF values of the following table shall be used for RPM 
+Auctions through and including the Base Residual Auction 
+conducted for 2022/2023 Delivery Year.  Thereafter, the table of 
+CRF values applicable to each RPM Auction shall be determined 
+and posted on the PJM website by no later than 150 days prior to 
+the commencement of the offer period of the RPM Auction.  The 
+values of the posted CRF table shall be determined using federal 
+income tax laws in effect at the time of the determination for the 
+relevant Delivery Year and shall use the same assumptions of 
+(i) capital structure and cost of capital; (ii) debt interest rate; and 
+(iii) state income tax rate, as those utilized to calculate the Cost of 
+New Entry for the Reference Resource for the relevant Delivery 
+Year.  For the purpose of the CRF determination, the state income 
+tax rate will be set equal to the average state income tax rate used 
+to calculate the Cost of New Entry of the Reference Resource 
+across the four CONE Regions. The CRF for the 40 Plus 
+Alternative option shall be set equal to 1.1 and is not calculated by 
+the formula above.   
+ 
+ 
+Age of Existing Units (Years) Remaining Life of Plant 
+(Years) 
+Levelized CRF 
+1 to 5 30 0.107 
+6 to 10 25 0.114 
+11 to 15 20 0.125 
+16 to 20 15 0.146 
+21 to 25 10 0.198 
+25 Plus 5 0.363 
+Mandatory CapEx 4 0.450 
+
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 5 
+40 Plus Alternative 1 1.100 
+ 
+Unless otherwise stated, Age of Existing Unit shall be equal to the number of years since the 
+Unit commenced commercial operation, up to and through the relevant Delivery Year.  
+ 
+Remaining Life of Plant defines the amortization schedule (i.e., the maximum number of years 
+over which the Project Investment may be included in the Avoidable Cost Rate.) 
+ 
+Capital Expenditures and Project Investment 
+ 
+For any given Project Investment, a Capacity Market Seller may make a one-time election to 
+recover such investment using: (i) the highest CRF and associated recovery schedule to which it 
+is entitled; or (ii) the next highest CRF and associated recovery schedule.  For these purposes, the 
+CRF and recovery schedule for the 25 Plus category is the next highest CRF and recovery 
+schedule for both the Mandatory CapEx and the 40 Plus Alternative categories.  The Capacity 
+Market Seller using the above or posted table must provide the Market Monitoring Unit with 
+information, identifying and supporting such election, including but not limited to the age of the 
+unit, the amount of the Project Investment, the purpose of the investment, evidence of corporate 
+commitment (e.g., an SEC filing, a press release, or a letter from a duly authorized corporate 
+officer indicating intent to make such investment), and detailed information concerning the 
+governmental requirement (if applicable).  Absent other written notification, such election shall 
+be deemed based on the CRF such Seller employs for the first Sell Offer reflecting recovery of 
+any portion of such Project Investment.  
+  
+For any resource using the CRF and associated recovery schedule from the CRF table that set the 
+Capacity Resource Clearing Price in any Delivery Year, such Capacity Market Seller must also 
+provide to the Market Monitoring Unit, for informational purposes only, evidence of the actual 
+expenditure of the Project Investment, when such information becomes available. 
+ 
+If the project associated with a Project Investment that was included in a Sell Offer using a CRF 
+and associated recovery schedule from the above or posted table has not entered into commercial 
+operation prior to the end of the relevant Delivery Year, and the resource’s Sell Offer sets the 
+clearing price for the relevant LDA, the Capacity Market Seller shall be required to elect to 
+either (i) pay a charge that is equal to the difference between the Capacity Resource Clearing 
+Price for such LDA for the relevant Delivery Year and what the clearing price would have been 
+absent the APIR component of the Avoidable Cost Rate, this difference to be multiplied by the 
+cleared MW volume from such Resource (“rebate payment”); (ii) hold such rebate payment in 
+escrow, to be released to the Capacity Market Seller in the event that the project enters into 
+commercial operation during the subsequent Delivery Year or rebated to LSEs in the relevant 
+LDA if the project has not entered into commercial operation during the subsequent Delivery 
+Year; or (iii) make a reasonable investment in the amount of the PI in other Existing Generation 
+Capacity Resources owned or controlled by the Capacity Market Seller or its Affiliates in the 
+relevant LDA. The revenue from such rebate payments shall be allocated pro rata to LSEs in the 
+relevant LDA(s) that were charged a Locational Reliability Charge for such Delivery Year, based 
+on their Daily Unforced Capacity Obligation in the relevant LDA(s).  If the Sell Offer from the 
+Generation Capacity Resource did not set the Capacity Resource Clearing Price in the relevant 
+LDA, no alternative investment or rebate payment is required.  If the difference between the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 6 
+Capacity Resource Clearing Price for such LDA for the relevant Delivery Year and what the 
+clearing price would have been absent the APIR amount does not exceed the greater of $10 per 
+MW-day or a 10% increase in the clearing price, no alternative investment or rebate payment is 
+required. 
+ 
+Mandatory CapEx Option 
+ 
+The Mandatory CapEx CRF and recovery schedule is an option available, beginning in the third 
+BRA (Delivery Year 2009-10), to a resource that must make a Project Investment to comply with 
+a governmental requirement that would otherwise materially impact operating levels during the 
+Delivery Year, where: (i) such resource is a coal, oil or gas-fired resource that began commercial 
+operation no fewer than fifteen years prior to the start of the first Delivery Year for which such 
+recovery is sought, and such Project Investment is equal to or exceeds $200/kW of capitalized 
+project cost; or (ii) such resource is a coal-fired resource located in an LDA for which a separate 
+VRR Curve has been established for the relevant Delivery Years, and began commercial 
+operation at least 50 years prior to the conduct of the relevant BRA.  
+ 
+A Capacity Market Seller that wishes to elect the Mandatory CapEx option for a Project 
+Investment must do so beginning with the Base Residual Auction for the Delivery Year in which 
+such project is expected to enter commercial operation.  A Sell Offer submitted in any Base 
+Residual Auction for which the Mandatory CapEx option is selected may not exceed an offer 
+price equivalent to 0.90 times the then-current Net CONE (on an unforced-equivalent basis).   
+ 
+40 Plus Alternative Option 
+ 
+The 40 Plus Alternative CRF and recovery schedule is an option available, beginning in the third 
+BRA (Delivery Year 2009-10), for a resource that is a gas- or oil-fired resource that began 
+commercial operation no less than 40 years prior to the conduct of the relevant BRA (excluding, 
+however, any resource in any Delivery Year for which the resource is receiving a payment under 
+Tariff, Part V.  Generation Capacity Resources electing this 40 Plus Alternative CRF shall be 
+treated as At Risk Generation for purposes of the sensitivity runs in the RTEP process).  
+Resources electing the 40 Plus Alternative option will be modeled in the RTEP process as “at-
+risk” at the end of the one-year amortization period.  
+ 
+A Capacity Market Seller that wishes to elect the 40 Plus Alternative option for a Project 
+Investment must provide written notice of such election to the Office of the Interconnection no 
+later than six months prior to the Base Residual Auction for which such election is sought; 
+provided however that shorter notice may be provided if unforeseen circumstances give rise to 
+the need to make such election and such seller gives notice as soon as practicable.   
+ 
+The Office of the Interconnection shall give market participants reasonable notice of such 
+election, subject to satisfaction of requirements under the PJM Operating Agreement for 
+protection of confidential and commercially sensitive information. A Sell Offer submitted in any 
+Base Residual Auction for which the 40 Plus Alternative option is selected may not exceed an 
+offer price equivalent to the then-current Net CONE (on an unforced-equivalent basis). 
+ 
+Multi-Year Pricing Option 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 7 
+ 
+A Seller submitting a Sell Offer with an APIR component that is based on a Project Investment 
+of at least $450/kW may elect this Multi-Year Pricing Option by providing written notice to such 
+effect the first time it submits a Sell Offer that includes an APIR component for such Project 
+Investment.  Such option shall be available on the same terms, and under the same conditions, as 
+are available to Planned Generation Capacity Resources under Tariff, Attachment DD, section 
+5.14(c). 
+ 
+ ARPIR (Avoidable Refunds of Project Investment Reimbursements) 
+consists of avoidable refund amounts of Project Investment 
+Reimbursements payable by a Generation Owner to PJM under Tariff, 
+Part V, section 118 or avoidable refund amounts of project investment 
+reimbursements payable by a Generation Owner to PJM under a Cost of 
+Service Recovery Rate filed under Tariff, Part V, section 119 and 
+approved by the Commission. 
+ 
+ (b) For the purpose of determining an Avoidable Cost Rate, avoidable expenses are 
+incremental expenses directly required to operate a Generation Capacity Resource that a 
+Generation Owner would not incur if such generating unit did not operate in the Delivery Year or 
+meet Availability criteria during Peak-Hour Periods during the Delivery Year.  
+ 
+ (c) Variable costs that are directly attributable to the production of energy shall be 
+excluded from a Market Seller’s generation resource Avoidable Cost Rate.   
+ 
+ (d) For Delivery Years up to and including the 2021/2022 Delivery Year and for the 
+2023/2024 Delivery Year and subsequent Delivery Years, projected PJM Market Revenues for 
+any Generation Capacity Resource to which the Avoidable Cost Rate is applied shall include all 
+actual unit-specific revenues from PJM energy markets, ancillary services, and unit-specific 
+bilateral contracts from such Generation Capacity Resource, net of energy and ancillary services 
+market offers for such resource.  Net energy market revenues shall be based on the non-zero 
+market-based offers of the Capacity Market Seller of such Generation Capacity Resource unless 
+one of the following conditions is met, in which case the cost-based offer shall be used: (x) the 
+market-based offer for the resource is zero, (y) the market-based offer for the resource is higher 
+than its cost-based offer and such offer has been mitigated, or (z) the market-based offer for the 
+resource is less than such Capacity Market Seller’s fuel and environmental costs for the resource 
+which shall be determined either by directly summing the fuel and environmental costs if they 
+are available, or by subtracting from the cost-based offer for the resource all costs developed 
+pursuant to the Operating Agreement and PJM Manuals that are not fuel or environmental costs.   
+ 
+The calculation of Projected PJM Market Revenues shall be equal to the rolling simple average 
+of such net revenues as described above from the three most recent whole calendar years prior to 
+the year in which the BRA is conducted.  
+ 
+If a Generation Capacity Resource did not receive PJM market revenues during the entire 
+relevant time period because the Generation Capacity Resource was not integrated into PJM 
+during the full period, then the Projected PJM Market Revenues shall be calculated using only 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 8 
+those whole calendar years within the full period in which such Resource received PJM market 
+revenues. 
+ 
+If a Generation Capacity Resource did not receive PJM market revenues during the entire 
+relevant time period because it was not in commercial operation during the entire period, or if 
+data is not available to the Capacity Market Seller for the entire period, despite the good faith 
+efforts of such seller to obtain such data, then the Projected PJM Market Revenues shall be 
+calculated based upon net revenues received over the entire period by comparable units, to be 
+developed by the MMU and the Capacity Market Seller. 
+ 
+ (d-1) For the 2022/2023 Delivery Year, Projected PJM Market Revenues for any 
+Generation Capacity Resource to which the Avoidable Cost Rate is applied shall be equal to 
+forecasted net revenues, which shall be determined in accordance with Tariff, Attachment DD, 
+section 5.14(h-1)(2)(B)(ii), or for resource types not specified in such section, in a manner 
+consistent with the methodologies described in such section, that utilizes Forward Hourly LMPs 
+and Forward Hourly Ancillary Service Prices for such resource, forecasted fuel prices as 
+applicable, as well as resource-specific operating parameters and capability information specific 
+to the simulated dispatch of such resource, where such dispatch shall either consider the hourly 
+output profiles for Intermittent Resources in a manner consistent with solar and onshore wind 
+methodologies, or utilize the Projected EAS Dispatch.  To the extent the resource has achieved 
+commercial operation, the dispatch shall utilize the resource-specific operating parameters as 
+determined in accordance with the PJM Manuals based on offers submitted in the Day-ahead 
+Energy Market and Real-time Energy Market, as well as the operating parameters approved, as 
+applicable, in accordance with Operating Agreement, Schedule 1, section 6.6(b) and Operating 
+Agreement, Schedule 2 (including any Fuel Costs, emissions costs, Maintenance Adders, and 
+Operating Costs).  Adjustments to resource-specific operating parameters may be submitted to 
+the Market Monitoring Unit and the Office of the Interconnection for review and consideration in 
+the simulated dispatch with supporting documentation. For resources that have not yet achieved 
+commercial operation, the operating parameters used in the simulation of the net energy and 
+ancillary service revenues will be based on the manufacturer’s specifications and/or from 
+parameters used for other existing, comparable resources, as developed by the Market 
+Monitoring Unit and the Capacity Market Seller, and accepted by the Office of the 
+Interconnection. 
+ 
+In the alternative, the Capacity Market Seller may provide their own estimate of Projected PJM 
+Market Revenues to the Market Monitoring Unit and the Office of the Interconnection for review 
+and approval.  Such a request shall identify all revenue sources (exclusive of any State 
+Subsidies), including, without limitation, long-term power supply contracts, tolling agreements, 
+or tariffs on file with state regulatory agencies, and shall demonstrate that such offsetting 
+revenues are consistent, over a reasonable time period identified by the Capacity Market Seller, 
+with the standards prescribed above.  In making such demonstration, the Capacity Market Seller 
+may rely upon revenues projected by well-defined, forward-looking dispatch models designed to 
+generally follow the rules and processes of PJM’s energy and ancillary services markets.  Such 
+models must utilize forward prices for energy, ancillary service and fuel in the PJM Region 
+based on contractual evidence of an alternative fuel price or sourced from liquid forward markets 
+(where available), and other publicly available data to develop the forward prices used in the 
+estimate. Where forward fuel markets are not available, publicly available estimates of future 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.6. MARKET POWER MITIGATION --> OATT 
+ATTACHMENT DD.6.8 Avoidable Cost Definition 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 9 
+fuel sources may be used.  The model shall also contain estimates of variable operation and 
+maintenance expenses, which may include Maintenance Adders, and emissions allowance prices. 
+Documentation for net revenues also must include, as available and applicable, plant 
+performance and capability information, including heat rate, start-up times and costs, forced 
+outage rates, planned outage schedules, maintenance cycle, fuel costs and other variable 
+operations and maintenance expenses, capacity factors, and ancillary service capabilities.  Any 
+evaluation of revenues should include, but would not be not limited to, consideration of Fuel 
+Costs, Maintenance Adders and Operating Costs, as applicable, pursuant to Operating 
+Agreement, Schedule 2. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.7. GENERATION RESOURCE RATING TEST FAILUR 
+Effective Date: 12/12/2023 - Docket #: ER24-99-002 - Page 1 
+7. GENERATION RESOURCE RATING TEST FAILURE CHARGE 
+ 
+7.1 Generation Resource Rating Test Failure Charges 
+ 
+A Generation Resource Rating Test Failure Charge shall be assessed on any Market Seller that 
+commits a Generation Capacity Resource for a Delivery Year, and on any Locational UCAP 
+Seller that sells Locational UCAP for a Delivery Year based on a Generation Capacity Resource, 
+if such resource fails a generation resource capacity test, as provided herein.  
+ 
+ a) Generation Resource Fails Capacity Test in Delivery Year  
+ 
+Each Generation Capacity Resource committed through RPM Auctions or included in a FRR 
+Plan for a Delivery Year, with the exception of Variable Resources, shall be obligated to 
+complete a generation resource capacity test in both the summer and winter seasons for the 
+associated Delivery Year, as described in the PJM Manuals.  The Market Seller that committed 
+the resource, or Locational UCAP Seller that sold the resource, may perform an unlimited 
+number of tests during each such period.  If none of the tests during a testing period certify full 
+delivery of the megawatt amount of installed capacity the Market Seller committed, or 
+Locational UCAP Seller sold,  for such Delivery Year, the Market Seller or Locational UCAP 
+Seller shall be assessed a daily Generation Resource Rating Test Failure Charge for each day 
+from the first day of the summer or winter season in which such resource failed the rating test 
+through the last day of such Delivery Year, provided, however, that such a seller that fails or is 
+expected to fail a rating test may obtain and commit Unforced Capacity from a replacement 
+Capacity Resource meeting the same locational requirements.  Such Unforced Capacity may 
+include uncommitted or uncleared Sell Offer blocks from Generation Capacity Resources that 
+were otherwise committed.  Any such commitment of replacement capacity shall be effective 
+upon no less than one day’s notice to the Office of the Interconnection, and shall reduce the 
+amount of installed capacity committed from the Generation Capacity Resource, that failed or 
+was expected to fail such rating test, in accordance with the determination prescribed by 
+subsection (b) below. Effective with the 2025/2026 Delivery Year, such charge shall be 
+evaluated and assessed for each day of the Delivery Year in which the seasonal rating test for 
+such resource fails to certify full delivery of the megawatt amount of installed capacity 
+committed for such day. 
+ 
+ b) Generation Resource Rating Test Failure Charge 
+ 
+Through the 2024/2025 Delivery Year, the Generation Resource Rating Test Failure Charge 
+shall equal the Daily Deficiency Rate multiplied by the following megawatt quantity, converted 
+to an Unforced Capacity basis using the Generation Capacity Resource’s EFORD for the twelve 
+months ending the September 30 last preceding the Delivery Year: (i) the annual average of the 
+installed capacity committed for each day of such Delivery Year as a result of all cleared Sell 
+Offers in all RPM Auctions for such Delivery Year relying on such resource, reduction in any 
+such commitment for such resource to the extent and for the time period of any replacement 
+capacity committed in lieu of such resource, and increase in any such commitment for such 
+resource to the extent and for the time period that such resource is committed as replacement 
+capacity for any other resource, minus (ii) the highest installed capacity rating determined for 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.7. GENERATION RESOURCE RATING TEST FAILUR 
+Effective Date: 12/12/2023 - Docket #: ER24-99-002 - Page 2 
+such resource in any test during the relevant testing period. Effective with the 2025/2026 
+Delivery Year, the Generation Resource Rating Test Failure Charge shall be determined for each 
+day of the Delivery Year and shall be equal to the Daily Deficiency Rate multiplied by the 
+following megawatt quantity shortfall, converted to an Unforced Capacity basis using the 
+Generation Capacity Resource’s final Accredited UCAP Factor for such Delivery Year: (i) the 
+installed capacity committed for such day of the Delivery Year (adjusted for any replacement 
+capacity), minus (ii) the highest installed capacity rating determined for such resource in any test 
+during the relevant testing period.  
+ 
+ b-1) Daily Deficiency Rate 
+The Daily Deficiency Rate shall equal the Capacity Resource Clearing Price (weighted as 
+necessary to reflect the clearing prices in all RPM Auctions that resulted in installed capacity 
+commitments from such resource), in $/MW-day, applicable to the Generation Capacity 
+Resource (for purposes of replacement capacity, including Locational UCAP transactions, the 
+applicable Capacity Resource Clearing Price shall be the clearing price for the Locational 
+Deliverability Area in which such resource is located) plus the greater of (iii) 0.20 times such 
+weighted average Capacity Resource Clearing Price; or (iv) $20/MW-Day, provided, however, if 
+a resource is unavailable during the Delivery Year at less than the level committed in the Market 
+Seller’s cleared Sell Offer or Locational UCAP Seller’s Locational UCAP sale due to derating, 
+delay, or retirement, then such seller shall not be assessed a charge under this section to the 
+extent (i.e., for the same megawatts and time period) that such seller is assessed a charge under 
+Tariff, Attachment DD, section 8 for such unavailability; and provided further that a resource 
+that is subject to a charge under Tariff, Attachment DD, section 7A (i.e., for the same megawatts 
+and time period) shall not also be subject to a charge under this section; and provided further that 
+a resource that is subject to a charge under this section that is also subject to a charge under 
+Tariff, Attachment DD, section 10A hereof for a Performance Shortfall during one or more 
+Performance Assessment Intervals occurring during the period of resource capacity rating 
+deficiency addressed by this section shall be assessed a charge equal to the greater of the charge 
+determined under this section and the charge determined under Tariff, Attachment DD, section 
+10A, but shall not be assessed a charge under both this section and Tariff, Attachment DD, 
+section 10A for such simultaneous occurrence of a resource capacity rating deficiency and 
+Performance Shortfall.  If a single resource is the basis for installed capacity commitments of 
+multiple Capacity Market Sellers or Locational UCAP Sellers, the installed capacity shortfall 
+determined under (i) and (ii) above shall be assessed upon such sellers on a pro-rata basis in 
+accordance with the megawatts of capacity from such resource in their cleared Sell Offers, 
+Locational UCAP sales, or other commitment as replacement capacity.   
+ 
+ c) Allocation of Revenue Collected from Generation Resource Rating Test Failure 
+Charges. 
+ 
+The revenue collected from Generation Resource Rating Test Failure Charges shall be 
+distributed on a pro-rata basis to LSEs that were charged a Locational Reliability Charge for the 
+Delivery Year for which the Generation Resource Rating Test Failure Charge was assessed.  The 
+charges shall be allocated on a pro-rata basis to LSEs based on their Daily Unforced Capacity 
+Obligation. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.7A GENERATION OPERATION TESTING & CHARGE 
+Effective Date: 11/18/2025 - Docket #: ER25-3469-000 - Page 1 
+7A. GENERATION OPERATIONAL TESTING AND CHARGES 
+ 
+a) Generation Capacity Resource Operational Testing 
+ 
+To preserve and maintain the reliability of the PJM Region, and to improve the likelihood that 
+Generation Capacity Resources will be capable of operating within their specified operating 
+parameters during a reliability event, Generation Capacity Resources, with the exception of 
+Variable Resources, that are committed in RPM Auctions or are included in a FRR Plan shall be 
+subject to operational testing initiated by the Office of the Interconnection up to two times in 
+each of the summer and winter seasons during the relevant Delivery Year, and as further detailed 
+in the PJM Manuals. The selection of Generation Capacity Resources subject to testing pursuant 
+to this section and the timing of an operational test shall be determined by the Office of the 
+Interconnection, and may consider a number of factors, including the period of time since a unit 
+last operated, the system conditions under which the unit has recently operated, the expected 
+system conditions during the operational test, and the recent performance of units with respect to 
+successfully starting and operating within the specified parameters when scheduled by the Office 
+of the Interconnection. Such tests will respect operating parameter limits of the available 
+schedule that the Office of the Interconnection selects for purposes of testing the resource. 
+Market Sellers of Generation Capacity Resources that are tested by the Office of the 
+Interconnection under this provision shall be eligible for make whole payments in accordance 
+with Tariff, Attachment K-Appendix, section 3.2.3(e). A committed Generation Capacity 
+Resource shall be deemed to pass a test initiated by the Office of the Interconnection if the 
+resource successfully starts and synchronizes to the grid within the specified notification and 
+startup time (plus the greater of 10% time to start or ten minutes) and operates for the unit’s 
+minimum run time as specified in the selected schedule; otherwise, such resource shall be 
+deemed to fail the test. Following a failed test or a failed re-test, the Office of Interconnection 
+may issue a re-test of the resource once the resource is made available for scheduling. A re-test 
+initiated by the Office of the Interconnection has the same requirements as the initial test. The re-
+test is considered to be part of the same operational test, and does not count as a second test 
+initiated by the Office of Interconnection for the relevant season. Resources shall not be eligible 
+to be made whole for PJM initiated re-tests following a failed test. If a re-test is issued by PJM 
+and the unit fails to successfully start and synchronize to the grid during such re-test, a 
+Generation Capacity Resource operational test failure charge shall be assessed until such time as 
+the unit successfully starts and synchronizes to the grid.  
+ 
+b) Generation Capacity Resource Operational Test Failure Charge 
+ 
+The Generation Capacity Resource operational test failure charge shall equal the Daily 
+Deficiency Rate multiplied by the applicable daily committed UCAP MW of that Generation 
+Resource; provided however, a Capacity Market Seller shall not be assessed a charge under this 
+section to the extent (i.e., for the same megawatts and time period) that such seller is assessed a 
+charge under Tariff, Attachment DD, section 8 for such resource’s unavailability; and provided 
+further that a resource that is subject to a charge under this section that is also subject to a charge 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.7A GENERATION OPERATION TESTING & CHARGE 
+Effective Date: 11/18/2025 - Docket #: ER25-3469-000 - Page 2 
+under Tariff, Attachment DD, section 10A hereof for a Performance Shortfall during one or more 
+Performance Assessment Intervals occurring during the period of resource operational test 
+deficiency addressed by this section shall be assessed a charge equal to the greater of the charge 
+determined under this section and the charge determined under Tariff, Attachment DD, section 
+10A, but shall not be assessed a charge under both this section and Tariff, Attachment DD, 
+section 10A for such simultaneous occurrence of a resource operational test deficiency and 
+Performance Shortfall. 
+ 
+c) Allocation of Revenue Collected from Generation Operational Deficiency Rate Failure 
+Charges. 
+ 
+The revenue collected from Generation Capacity Resource Operational Test Failure Charges 
+shall be distributed on a pro-rata basis to all LSEs that were charged a Locational Reliability 
+Charge for the day for which such Generation Capacity Resource Operational Test Failure 
+Charge was assessed. Such revenues shall be allocated on a pro-rata basis to LSEs based on their 
+Daily Unforced Capacity Obligation. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.8. CAPACITY RESOURCE DEFICIENCY CHARGE 
+Effective Date: 6/18/2025 - Docket #: ER25-2002-000 - Page 1 
+8. CAPACITY RESOURCE DEFICIENCY CHARGE 
+ 
+8.1  
+ 
+A Capacity Resource Deficiency Charge shall be assessed on any Capacity Market Seller that 
+commits a Capacity Resource, and on any Locational UCAP Seller that sells Locational UCAP for 
+a Delivery Year based on a Generation Capacity Resource, for a Delivery Year that is unable or 
+unavailable to deliver Unforced Capacity for all or any part of such Delivery Year for any reason, 
+including but not limited to the following, and that does not obtain replacement Unforced Capacity 
+meeting the same locational requirements and same or better temporal availability characteristics 
+(i.e., Annual Resource) in the megawatt quantity required to satisfy the capacity committed from 
+such resource by such seller as a result of all cleared Sell Offers from such seller based on such 
+resource in any RPM Auctions for such Delivery Year, the reduction in any such commitment for 
+such resource to the extent and for the time period of any replacement capacity committed in lieu 
+of such resource, and the increase in any such commitment for such resource to the extent and for 
+the time period that such resource is committed as replacement capacity for any other resource: 
+ 
+ a) Unit Derating – Such Capacity Resource is a Generation Capacity Resource and its 
+capacity value is derated prior to or during the Delivery Year;   
+  
+ b) External Generation Resource – Such Capacity Resource is an Existing Generation 
+Capacity Resource that is located outside of the PJM Control Area and arrangements for the firm 
+delivery of the output of such resource to the interface with the PJM Region are not in place for 
+such resource prior to the start of the Delivery Year; 
+ 
+ c) Planned Generation Resource – Such Capacity Resource is a Planned Generation 
+Capacity Resource and Interconnection Service has not commenced as to such resource prior to 
+the start of the Delivery Year;  
+ 
+ d) Planned Demand Resource - Such Capacity Resource is a Planned Demand 
+Resource or an Energy Efficiency Resource and the associated demand response program or 
+energy efficiency measure is not installed prior to the start of the Delivery Year; or 
+ 
+ e) Existing Demand Resource – Such Capacity Resource is an existing Demand 
+Resource or Energy Efficiency Resource and, subject to section 8.4 below, is not capable of 
+providing the megawatt quantity of load response specified in the cleared Sell Offer for the time 
+periods of availability associated with the product type. 
+ 
+8.2. Capacity Resource Deficiency Charge  
+ 
+The Capacity Resource Deficiency Charge shall equal the Daily Deficiency Rate (as defined in 
+Tariff, Attachment DD, section 7) multiplied by the megawatt quantity of deficiency below the 
+level of capacity committed in such Capacity Market Seller’s Sell Offer(s) or bilateral capacity 
+commitments, or Locational UCAP Seller’s Locational UCAP sale for each day such seller is 
+deficient, provided, however, that a resource that is subject to a charge under this section that is 
+also subject to a charge under Tariff, Attachment DD, section 10A hereof for a Performance 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.8. CAPACITY RESOURCE DEFICIENCY CHARGE 
+Effective Date: 6/18/2025 - Docket #: ER25-2002-000 - Page 2 
+Shortfall during one or more Performance Assessment Intervals occurring during the period of 
+resource deficiency addressed by this section shall be assessed a charge equal to the greater of the 
+charge determined under this section and the charge determined under Tariff, Attachment DD, 
+section 10A, but shall not be assessed a charge under both this section and Tariff, Attachment DD, 
+section 10A for such simultaneous occurrence of a resource deficiency and Performance Shortfall. 
+Provided further, effective with the 2026/2027 Delivery Year and for all subsequent Delivery Years, 
+the Capacity Resource Deficiency Charge due to a reduction of a Capacity Resource’s Accredited 
+UCAP Factor between the Base Residual Auction and the start of the Delivery Year due to changes in 
+ELCC Class Ratings or ELCC Resource Performance Adjustments shall be the weighted average 
+Capacity Resource Clearing Price applicable to the Capacity Resource (for purposes of replacement 
+capacity, including Locational UCAP transactions, the applicable Capacity Resource Clearing Price 
+shall be the clearing price for the Locational Deliverability Area in which such resource is located) 
+multiplied by the megawatt quantity of deficiency below the level of capacity committed in the relevant 
+Delivery Year. 
+ 
+8.3. Allocation of Revenue Collected from Capacity Resource Deficiency Charges 
+ 
+The revenue collected from the assessment of a Capacity Resource Deficiency Charge shall be 
+distributed on a pro-rata basis to all LSEs that were charged a Locational Reliability Charge for 
+the day for which such Capacity Resource Deficiency Charge was assessed.  Such revenues shall 
+be distributed on a pro-rata basis to such LSEs based on their Daily Unforced Capacity Obligations. 
+ 
+8.4 Relief from Charges 
+ 
+A Capacity Market Seller or Locational UCAP Seller that is otherwise subject to the Capacity 
+Resource Deficiency Charge solely as a result of section 8.1(f) above may receive relief from such 
+Charge if it demonstrates that the inability to provide the level of demand response specified in its 
+Sell Offer is due to the permanent departure (due to plant closure, efficiency gains, or similar 
+reasons) from the Transmission System of load that was relied upon for load response in such Sell 
+Offer; provided, however, that such seller must provide the Office of the Interconnection with all 
+information deemed necessary by the Office of the Interconnection to assess the merits of the 
+request for relief. Such seller shall receive no RPM Auction Credit for the amount of reduction in 
+the committed Existing Demand Resources. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.9. [Reserved] 
+Effective Date: 11/18/2025 - Docket #: ER25-3469-000 - Page 1 
+[RESERVED] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10. [Reserved] 
+Effective Date: 11/18/2025 - Docket #: ER25-3469-000 - Page 1 
+[RESERVED] 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+10A. CHARGES FOR NON-PERFORMANCE AND CREDITS FOR PERFORMANCE 
+   
+ (a) For the 2018/2019 Delivery Year and any subsequent Delivery Year (and for 
+certain purposes for the 2016/2017 and 2017/2018 Delivery Years as provided in subsections (h) 
+and (i) hereof), each Capacity Market Seller that commits a Capacity Resource for a Delivery 
+Year (whether through an RPM Auction, a bilateral transaction, or as Locational UCAP), each 
+Locational UCAP Seller that sells Locational UCAP from a Capacity Resource for a Delivery 
+Year, and for the 2022/2023 Delivery Year and subsequent Delivery Years each PRD Provider 
+that commits Price Responsive Demand for a Delivery Year, shall be charged to the extent the 
+performance of each of its committed Capacity Resources or Price Responsive Demand during 
+all or any part of a clock-hour when an Emergency Action is in effect falls short of the expected 
+performance of such resources (as determined herein) and the revenue from such charges shall be 
+provided to Market Participants with generation, demand response resources, or Price 
+Responsive Demand that perform during such hour in excess of the level expected based on 
+commitments (if any) of such resources.  
+ 
+ (b) Performance shall be measured for purposes of this assessment during each 
+Performance Assessment Interval.  
+  
+ (c) For each Performance Assessment Interval, the Office of the Interconnection shall 
+determine whether, and the extent to which, the actual performance of each Capacity Resource 
+and Locational UCAP has fallen short of the performance expected of such committed Capacity 
+Resource, and the magnitude of any such shortfall, based on the following formula: 
+ 
+Performance Shortfall = Expected Performance - Actual Performance 
+ 
+Where the result of such formula is a positive number and where: 
+Expected Performance = 
+ 
+for Generation Capacity Resources (including external Generation Capacity Resources 
+for any Performance Assessment Interval for which performance by such external 
+resource would have helped resolve a declared Emergency Action; provided, however, 
+that for any Delivery Year up to and including the 2019/2020 Delivery Year, 
+performance of external Generation Capacity Resources shall be assessed only during 
+Performance Assessment Hours for Emergency Actions declared for the entire PJM 
+Region) and Capacity Storage Resources: [(Resource Committed Capacity * the 
+Balancing Ratio)]; 
+ 
+where 
+ 
+Resource Committed Capacity = the total megawatts of Unforced Capacity of the 
+Capacity Resource committed by such Capacity Market Seller or Locational 
+UCAP Seller; and 
+ 
+The Balancing Ratio = (All Actual Generation Performance, Storage Resource 
+Performance, Net Energy Imports, Price Responsive Demand Bonus Performance 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 2 
+effective with the 2022/2023 Delivery Year, and Demand Response Bonus 
+Performance) / (All Committed Generation and Storage Capacity); provided, 
+however, that Net Energy Imports shall be included in the calculation of the 
+Balancing Ratio only for any Performance Assessment Interval for which 
+performance by any external Generation Capacity Resource would have helped 
+resolve the Emergency Action that was the subject to the Performance 
+Assessment Hour; and provided further that for any Delivery Year up to and 
+including the 2019/2020 Delivery Year, Net Energy Imports shall be included in 
+the calculation of the Balancing Ratio only for any Performance Assessment Hour 
+for which the Emergency Action was declared for the entire PJM Region; and 
+provided further that the Balancing Ratio shall not exceed a value of 1.0. 
+ 
+for purposes of which 
+ 
+All Committed Generation and Storage Capacity = the total megawatts of 
+Unforced Capacity of all Generation Capacity Resources (including external 
+Generation Capacity Resources for any Performance Assessment Interval for 
+which performance by such external resource would have helped resolve the 
+declared Emergency Action that was the subject to the Performance Assessment 
+Hour; provided, however, that for any Delivery Year up to and including the 
+2019/2020 Delivery Year, performance of external Generation Capacity 
+Resources shall be assessed only during Performance Assessment Hours for 
+Emergency Actions declared for the entire PJM Region) and all Capacity Storage 
+Resources committed by all Capacity Market Sellers, FRR Entities, Locational 
+UCAP Sellers; 
+ 
+All Actual Generation Performance and Storage Resource Performance = the total 
+amount of Actual Performance for all generation resources (including external 
+Generation Capacity Resources for any Performance Assessment Interval for 
+which performance by such external resource would have helped resolve the 
+declared Emergency Action that was the subject to the Performance Assessment 
+Hour; provided, however, that for any Delivery Year up to and including the 
+2019/2020 Delivery Year, performance of external Generation Capacity 
+Resources shall be assessed only during Performance Assessment Hours for 
+Emergency Actions declared for the entire PJM Region) and storage resources 
+during the interval; 
+ 
+Net Energy Imports = the sum of interchange transactions importing energy into 
+PJM (not including those associated with external Generation Capacity Resources 
+and therefore included in All Actual Generation Performance) minus the sum of 
+interchange transactions exporting energy out of PJM, but not less than zero; 
+ 
+Demand Response Bonus Performance = the sum of Bonus performance provided 
+by Demand Response resources as calculated in (g) below; 
+ 
+Price Responsive Demand Bonus Performance = the sum of Bonus performance 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 3 
+provided by Price Responsive Demand as calculated in (g) below; 
+ 
+and for Demand Resources, Energy Efficiency Resources, and Qualifying Transmission 
+Upgrades:  Resource Committed Capacity; 
+ 
+where 
+ 
+Resource Committed Capacity = the total megawatts of capacity committed from 
+such Capacity Resource committed capacity without making any adjustment for 
+the Forecast Pool Requirement 
+ 
+and for PRD Provider:  Price Responsive Demand Committed 
+ 
+where 
+ 
+Price Responsive Demand Committed = the Nominal PRD Value committed by 
+the PRD Provider in the area defined by the Performance Assessment Interval, 
+adjusted to account for any PRD registrations in such area that were not subject to 
+compliance measurement. 
+ 
+and 
+ 
+Actual Performance =  
+ 
+for each generation resource, the metered output of energy delivered to PJM by 
+such resource plus the resource’s real-time reserve or regulation assignment, if 
+any, during the Performance Assessment Interval; 
+ 
+for each storage resource, the metered output of energy delivered to PJM by such 
+resource plus the resource’s real-time reserve or regulation assignment, if any,  
+during the Performance Assessment Interval; 
+ 
+for each Demand Resource, the demand response provided to PJM by such 
+resource, plus such resource’s real-time reserve or regulation assignment, if any, 
+during the Performance Assessment Interval, as established through the PJM 
+demand response settlement procedure consistent with the standards specified in 
+RAA, Schedule 6; 
+ 
+for each PRD Provider, the actual load reduction provided by the PRD Provider 
+during a Performance Assessment Interval, determined in accordance with RAA, 
+Schedule 6.1.N and the PJM Manuals; 
+ 
+for each Energy Efficiency Resource, the load reduction quantity approved by 
+PJM subsequent to the pre-delivery year submittal of a post-installation 
+measurement and verification report; and 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 4 
+for each Qualified Transmission Upgrade, the megawatt quantity cleared by such 
+Qualified Transmission Upgrade if it is in service during the Performance 
+Assessment Interval, and zero if it is not in service during such Performance 
+Assessment Interval.        
+ 
+Such calculation shall encompass all resources and Price Responsive Demand located in the area 
+defined by the Emergency Action; provided, however, that Performance Shortfall shall be 
+calculated for external Generation Capacity Resources for any Performance Assessment Interval 
+for which performance by such external resource would have helped resolve the declared 
+Emergency Action that was the subject to the Performance Assessment Hour; provided, 
+however, that for any Delivery Year up to and including the 2019/2020 Delivery Year, 
+Performance Shortfall shall be calculated for external Generation Capacity Resources only 
+during Performance Assessment Hours which the Emergency Action was declared for the entire 
+PJM Region. At the start of the Delivery Year, PJM will inform the Capacity Market Seller of an 
+external resource as to which Locational Deliverability Area it has been assigned. For purposes 
+of this provision, Qualifying Transmission Upgrades shall be deemed to be located in the 
+Locational Deliverability Area into which such upgrade increased the Capacity Emergency 
+Transfer Limit, and a Qualifying Transmission Upgrade shall be included in calculations of 
+Expected Performance and Actual Performance only if, and to the extent that, the declared 
+Emergency Action encompasses the Locational Deliverability Area into which such upgrade 
+increased the Capacity Emergency Transfer Limit.  The Performance Shortfall shall be 
+calculated for each Performance Assessment Interval, and any committed Capacity Resource for 
+which the above calculation produces a negative number for a Performance Assessment Interval 
+shall not have a Performance Shortfall for such Performance Assessment Interval.   
+ 
+ (d) Notwithstanding subsection (c) above, a Capacity Resource or Locational UCAP 
+of a Capacity Market Seller or Locational UCAP Seller shall not be considered in the calculation 
+of a Performance Shortfall for a Performance Assessment Interval to the extent such Capacity 
+Resource or Locational UCAP was unavailable during such Performance Assessment Interval 
+solely because the resource on which such Capacity Resource or Locational UCAP is based was 
+on a Generator Planned Outage or Generator Maintenance Outage approved by the Office of the 
+Interconnection, or was not scheduled to operate by the Office of the Interconnection, or was 
+online but was scheduled down, by the Office of the Interconnection, based on a determination 
+by the Office of the Interconnection that such scheduling action was appropriate to the security-
+constrained economic dispatch of the PJM Region.  Such a resource shall be considered in the 
+calculation of a Performance Shortfall if it otherwise was needed and would have been scheduled 
+by the Office of the Interconnection to perform, but was not scheduled to operate, or was 
+scheduled down, solely due to: (i) any operating parameter limitations submitted in the 
+resource’s offer, or (ii) the seller’s submission of a market-based offer higher than its cost-based. 
+In addition, notwithstanding subsection (c) above, a Price Responsive Demand registration shall 
+not be considered in the calculation of a Performance Shortfall or Bonus Performance for a 
+Performance Assessment Interval when the PRD Curve associated with such registration in the 
+PJM Real-time Energy Market indicates a price point where no demand reduction is expected at 
+the real-time LMP recorded during the Performance Assessment Interval. 
+ 
+(e) Subject to the Non-Performance Charge Limit specified in subsection (f) hereof, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 5 
+each Capacity Market Seller and Locational UCAP Seller shall be assessed a Non-Performance 
+Charge for each of its Capacity Resources or Locational UCAP that has a Performance Shortfall 
+for a Performance Assessment Interval based on the following formula, applied to each such 
+resource:  
+ 
+ Non-Performance Charge = Performance Shortfall * Non-Performance Charge Rate 
+ 
+Where 
+ 
+For Capacity Performance Resources and Seasonal Capacity Performance Resources, the 
+Non-Performance Charge Rate = (Net Cost of New Entry (stated in terms of installed 
+capacity) for the LDA and Delivery Year for which such calculation is performed * (the 
+number of days in the Delivery Year / 30) / (the number of Real-Time Settlement 
+Intervals in an hour). 
+ 
+ (f) The Non-Performance Charges for each Capacity Performance Resource 
+(including Locational UCAP from such a resource) and each PRD Provider for a Delivery Year 
+shall not exceed a Non-Performance Charge Limit equal to 1.5 times the Net Cost of New Entry 
+times the megawatts of Unforced Capacity committed by such resource or such PRD Provider 
+times the number of days in the Delivery Year.  All references to Net Cost of New Entry in this 
+section 10A shall be to the Net Cost of New Entry for the LDA and Delivery Year for which the 
+calculation is performed.  The Non-Performance Charges for each Seasonal Capacity 
+Performance Resource for a Delivery Year shall not exceed a Non-Performance Charge Limit 
+equal to 1.5 times the Net Cost of New Entry times the megawatts of Unforced Capacity 
+committed by such resource times the number of days in the season applicable to such resource.   
+ 
+ (f-1) Effective with the 2025/2026 Delivery Year and subsequent Delivery Years, the 
+Non-Performance Charges for each Capacity Performance Resource (including Locational 
+UCAP from such a resource) and each PRD Provider for a Delivery Year shall not exceed a 
+Non-Performance Charge Limit equal to 1.5 times the RPM Base Residual Auction clearing 
+price for the applicable Delivery Year and for the LDA where the resource resides, times the 
+megawatts of Unforced Capacity committed by such resource or such PRD Provider, where such 
+megawatts shall be based on the maximum Unforced Capacity committed up through the end of 
+the month in which the PAI occurs, times the number of days in the Delivery Year.  The Non-
+Performance Charges for each Seasonal Capacity Performance Resource for a Delivery Year 
+shall not exceed a Non-Performance Charge Limit equal to 1.5 times the RPM Base Residual 
+Auction clearing price times the number of days in the Delivery Year for the applicable Delivery 
+Year and for the LDA where the resource resides, times the megawatts of Unforced Capacity 
+committed by such resource, where such megawatts shall be based on maximum Unforced 
+Capacity committed up through the end of the month in which the Performance Assessment 
+Interval occurs, times the number of days in the season applicable to such resource.   
+ 
+(g) Revenues collected from assessment of Non-Performance Charges for a 
+Performance Assessment Interval shall be distributed to each Market Participant, whether or not 
+such Market Participant committed a Capacity Resource or Locational UCAP for a Performance 
+Assessment Interval, that provided energy or load reductions above the levels expected for such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 6 
+resource during such interval.  For purposes of this provision, the performance expected of a 
+resource, and the revenue distribution payment, if any, for a resource, shall be determined in 
+accordance with the following formulae: 
+ 
+Formula 1:  Market Participant Bonus Performance = Actual Performance – Expected 
+Performance 
+ 
+and 
+ 
+Formula 2:  Performance Payment = (Market Participant Bonus Performance / All Market 
+Participants Bonus Performance) * Non-Performance Charge Revenues.    
+ 
+Where the result of Formula 1 is a positive number and where: 
+ 
+Actual Performance is as defined in subsection (c), provided, however, that Actual 
+Performance for purposes of this calculation shall not exceed the megawatt level at which 
+such resource was scheduled by the Office of the Interconnection during the Performance 
+Assessment Intervals; and provided further that Actual Performance for a Market 
+Participant that imports energy into the PJM Region during such Performance 
+Assessment Interval shall be the net import, if any, from all interchange transactions 
+scheduled by such Market Participant during such Performance Assessment Interval; 
+ 
+Expected Performance is as defined in subsection (c), provided, however, that for 
+purposes of this calculation, Expected Performance shall be zero for any resource that is 
+not a Capacity Resource or Locational UCAP, or that is a Capacity Resource or 
+Locational UCAP, but for which the Performance Assessment Interval occurs outside the 
+resource’s capacity obligation period; and 
+ 
+All Market Participants Bonus Performance is the sum of the results of calculating 
+Formula 1 of this subsection (g) for all Market Participants that have Bonus Performance 
+during such Performance Assessment Interval. 
+ 
+ (h) The provisions of this section 10A shall apply during the 2016/2017 Delivery 
+Year, provided that: 
+ 
+(i) Non-Performance Charges shall be determined solely for and assessed 
+solely on, Capacity Performance Resources committed for such Delivery 
+Year;  
+(ii) The Non-Performance Charge shall be 0.5 times the Non-Performance 
+Charge calculated under subsection (e) hereof; and 
+(iii) The Non-Performance Charge Limit for a Delivery Year shall be 0.75 
+times Net Cost of New Entry times the megawatts of Unforced Capacity 
+committed by such resource times 365. 
+ 
+(i) The provisions of this section 10A shall apply during the 2017/2018 Delivery 
+Year, provided that: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.10A CHARGES FOR NON-PERFORMANCE AND 
+CREDI 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 7 
+ 
+(i) Non-Performance Charges shall be determined solely for, and assessed 
+solely on, Capacity Performance Resources committed for such Delivery 
+Year;  
+(ii) The Non-Performance Charge shall be 0.6 times the Non-Performance 
+Charge calculated under subsection (e) hereof; and 
+(iii) The Non-Performance Charge Limit for a Delivery Year shall be 0.9 times 
+Net Cost of New Entry times the megawatts of Unforced Capacity 
+committed by such resource times 365.  
+  
+(j) The Office of the Interconnection shall bill charges and credits for performance during 
+Performance Assessment Intervals within three calendar months after the calendar month that 
+included such Performance Assessment Intervals, provided, for any Non-Performance Charge, 
+the amount shall be divided by the number of months remaining in the Delivery Year for which 
+no invoice has been issued, and the resulting amount shall be invoiced each such remaining 
+month in the Delivery Year.  Notwithstanding, if there are less than six months remaining in the 
+current Delivery Year for which no invoice has been issued, the Office of the Interconnection 
+may, with prior notice to PJM Members, allocate in equal amounts any Non-Performance Charge 
+in the remaining monthly bills for the current Delivery Year plus up to six monthly bills into the 
+following Delivery Year for all Capacity Market Sellers that incur such a Non-Performance 
+Charge (but in no event shall the total Non-Performance Charge be divided in more than nine 
+monthly bills).  Provided, for any Non-Performance Charges associated with Performance 
+Assessment Intervals from December 23, 2022 and December 24, 2022, a Capacity Market 
+Seller may elect, by providing notice to the Office of Interconnection by March 17, 2023, to 
+divide the total amount of Non-Performance Charges by either (i) the number of remaining 
+monthly bills in the current Delivery Year (i.e., 3 bills) or (ii) the number of remaining monthly 
+bills in the current Delivery Year plus six additional monthly bills into the following Delivery 
+Year (i.e., 9 bills); provided further, however, that for an election under subsection (ii) above, the 

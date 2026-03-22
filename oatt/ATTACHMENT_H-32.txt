@@ -16,3 +16,1361 @@ _______________________________
 Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - 
 AMPT Formula Rate Template 
 Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 1 
+Attachment H-32A Page 1 of 18 
+AMP Transmission LLC 
+Calculation of Transmission Revenue Requirements 
+ ________ Transmission Zone 
+Cash-Flow Model 
+Year Ended XX/XX/20____ 
+Projected or Actual 
+  Projected____-Area 
+  (Note A)      
+Line 
+No. Cost of Service Item Page, Line, 
+Col. Notes Company 
+Total Allocator Qualifying 
+Transmission  
+(a) (b) (c) (d) (e)  (f) (g)   
+       (e) x (f)   
+       Allocated 
+Amount   
+1 GROSS REVENUE REQUIREMENT (line 54)       $           -  
+2          
+3          
+4 REVENUE CREDITS (Note C)  Total Allocator    
+5   Account No. 454 WP02  $           - TP 0.000%  $           -  
+6   Account No. 456 WP02  $           - TP 0.000%  $           -  
+7   Revenue Credits Specific to zone WP02  $           - D/A 100.00%  $           -  
+8   Reserved   $           - TP 0.000%  $           -  
+9   Transmission Enhancement Credit WP07  $           - TP 0.000%  $           -  
+10 TOTAL REVENUE CREDITS  (sum lines 5-9)     $           -  
+11          
+12 TRUE-UP ADJUSTMENT WITH INTEREST 
+(Protocols) (Note D) WP05      $           -  
+13          
+14 Adjustments to Net Revenue Requirement (Note G)     $           -  
+15 Interest on Adjustments (Note H)       $           -  
+16 Total Adjustment (line 14 + line 15)      $           -  
+17 NET REVENUE REQUIREMENTS      $           -  
+17a DIVISOR         
+17b 1 Coincident Peak (CP) (MW) - Enter Zone Name     - MW 
+17c Annual Network Rate ($/MW/Yr)  (Line 17 / Line 17b)    $           - MW/Yr 
+18          
+19 O&M/A&G, DEBT SERVICE & OTHER TAXES         
+20          
+21   Transmission O&M allocable to zone 321.112.b and 
+WP09 WP09 $           - TP 0.000%  $           -  
+22   Transmission O&M Specific to zone (Note M) Zone in title WP09 $           - D/A 100.000  $           -  
+23      Less Account 565 321.96.b Form 1 $           - TP 0.000%  $           -  
+24      Less: Account 561.2 Load Dispatch - Monitor and 
+Operate Trans System through Schedule 1A 321.86.b Form 1 $           - TP 0.000%  $           -  
+25   A&G allocable to zone (Note M) 323.197.b and 
+WP09 WP09 $           - W&S 100.000%  $           -  
+26   A&G Specific to zone (Note M)  WP09 $           - W&S 100.000%  $           -  
+27   Other Amortizations - _____ current Zone (Note N) WP03 $           - D/A 100.000%  $           -  
+28   Other Amortizations - ____ other Zone (Note N)  WP03 $           - N/A 0.000%  $           -  
+29   Other Amortizations - All zones  WP03 $           - D/A 100.000%  $           -  
+30   Amortization of Start-Up Costs to zone (Note N)  WP03 $           - D/A 100.000%  $           -  
+31 TOTAL O&M  (sum lines 21, 22, 25-30, less lines 23 and 24)      $           -  
+32          
+33 DEBT SERVICE         
+34    Debt Service (Note L)  WP06 $           - TP 0.000%  $           -  
+35    Amortization of premium or discount  (Note E)   $           - TP 0.000%  $           -  
+36 TOTAL DEBT SERVICE (Sum lines 34 and 35 )   $           -    $           -  
+37 Interest for Working Capital needs  WP06b $           - TP 0.000%  $           -  
+38          
+39 TAXES OTHER THAN INCOME TAXES   (Note F)        
+40   LABOR RELATED         
+41           Payroll  263.i Form 1 $           - W&S 100.000%  $           -  
+42           Highway and vehicle 263.i Form 1 $           - W&S 100.000%  $           -  
+43   PLANT RELATED 263.i        
+44          Property specific to zone (Note M) Reference zone WP09 $           - D/A 100.000%  $           -  
+45          Property allocable to zone (Note M) 263.i and 
+WP09 WP09 $           - TP 0.000%  $           -  
+46          Other 263.i Form 1 $           - D/A 100.000%  $           -  
+47          State Franchise Tax 263.i Form 1 $           - D/A 100.000%  $           -  
+48 TOTAL OTHER TAXES  (sum lines 41 through 47)  $           -    $           -  
+49          
+50 Subtotal (lines 31 + 36 + 37 + 48)   $           -    $           -  
+51  Margin factor        
+52 MARGIN REQUIREMENT  (Note I)(WP10) 40% of Debt 
+Service 40.0% $           - D/A 100.000%  $           -  
+53          
+54 REV. REQUIREMENT  (sum lines 50 and 52)   $           -    $           -  
+55          
+56 GROSS PLANT IN SERVICE         
+57   Production   $           - NA     
+58   Transmission   (Note B) 207.58.g  WP01/04 $           - D/A 100.000%  $           -  
+59   Distribution   $           - N/A 0.000%  $           -  
+60   General & Intangible 205.5.g & 
+207.99.g  WP01 $           - W&S 100.000%  $           -  
+61   Reserved   $           - TP 0.000%  $           -  
+62   Other   $           - TP 0.000%  $           -  
+63 TOTAL GROSS PLANT  (sum lines 57 - 62)   $           -    $           -  
+64        $           -  
+65 TRANSMISSION PLANT % INCLUDED IN PJM COST OF SERVICE     $           -  
+66        $           -  
+67 Total transmission plant  WP04     $           -  
+68 Less Non-Qualifying Transmission Plant  WP04     $           -  
+69 Less transmission plant included in OATT Ancillary Services WP04     $           -  
+70 Total Qualifying Transmission Plant in Service (line 67 - 68 - 69)      $           -  
+71          
+72 Percentage of PJM Qualifying transmission plant included in Cost of 
+Service (line 70 / line 67)     TP= 0.000%  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - 
+AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 2 
+Attachment H-32A  Page 2 of 18 
+AMP Transmission LLC 
+Calculation of Transmission Revenue Requirements 
+ ________ Transmission Zone 
+Cash-Flow Model 
+Year Ended XX/XX/20____ 
+Projected or Actual 
+  Projected____-Area 
+  (Note A)      
+Line 
+No. Cost of Service Item Page, Line, 
+Col. Notes Company 
+Total Allocator Qualifying 
+Transmission  
+(a) (b) (c) (d) (e) (f)  (g)  
+        (e) x (f)  
+        Allocated 
+Amount  
+73          
+74 TRANSMISSION EXPENSES         
+75          
+76 Total transmission expenses    (line 21+22 Column 
+e)       $           -  
+77 Less transmission expenses included in OATT 
+Ancillary Services   (Note J)       $           -  
+78 Included transmission expenses (line 76 less line 
+77)       $           -  
+79          
+80 Percentage of transmission expenses after 
+adjustment (line 78 divided by line 76)       0.000%  
+81 Percentage of transmission plant included in ISO 
+Rates (line 72)      TP 0.000%  
+82 Percentage of transmission expenses included in 
+ISO Rates (line 80 times line 81)      TE= 0.000%  
+83          
+84          
+85 WAGES & SALARY ALLOCATOR   (W&S) 
+(Note K)   $ TP Allocation    
+86   Production   $           - 0.000% $           -    
+87   Transmission (WP04)   $           1 100.000% $           1    
+88   Distribution   $           - 0.000% $           -  W&S 
+Allocator  
+89   Other   $           - 0.000% $           -  ($/Allocation)  
+90   Total  (sum lines 86-89)   $           1  $           1 = 100.000% =WS 
+91          
+92          
+93          
+94      
+95      
+96          
+97          
+98          
+99 General Note:   References to pages in this formulary rate are indicated as:  (page#, line#, col.#)      
+100   References to data from Informational FERC Form 1 are indicated as:   #.y.x  (page, line, column)    
+101          
+102 Notes:  
+103 A AMPT will maintain and post with informational filings an Informational FERC Form 1. 
+104 B Beginning/End year balances will match Form 1.  13-Month average balances shown on WP-01.  Qualifying zonal transmission investment shown on WP04.  
+Excluding any Transmission AROs 
+105 C The revenues credited on page 1 lines 5-9 shall include only the amounts received directly (in the case of grandfathered agreements) 
+106  or from the ISO (for service under this tariff) reflecting the Transmission Owner's integrated transmission facilities.  They do not 
+107  include revenues associated with FERC annual charges, gross receipts taxes, ancillary services, facilities not included in this 
+108  template (e.g., direct assignment facilities and GSUs) which are not recovered under this Rate Formula Template. 
+109 D The True-Up adjustment is the difference between (1) the revenues received for the twelve month period and (2) the ATRR for that twelve month period after 
+it is known, with interest 
+110  Over Recoveries are entered as negative to reduce the net revenue.  Under recoveries are entered as Positive to increase the net revenue. 
+111 E Includes amounts recorded to accounts 428 and 429. 
+112 F Includes only FICA, unemployment, highway, property, gross receipts, PILOT, and other assessments charged in the current year.  Taxes related to income 
+are excluded. 
+113  Gross receipts taxes are not included in transmission revenue requirement in the Rate Formula Template, since they are recovered elsewhere. 
+114 G Adjustments required pursuant to Section 6 of the AMPT Protocols.  Refunds shall be entered as a negative number to reduce the net revenue requirement. 
+115  Surcharges shall be entered as a positive number to increase the net revenue requirement. 
+116 H Interest required pursuant to Section 2(c) of Protocols.  Interest on any refunds shall be entered as a negative number to reduce the net revenue 
+117  requirement.  Interest on surcharge shall be entered as a positive number to increase the net revenue requirement. 
+118 I Margin Factor equals .40 or 40% of debt service.  Margin Requirement is the dollar amount that results from applying the Margin Factor to annual debt 
+service. 
+119  The Margin Factor can only be changed by Order of the Commission 
+120 J Removes dollar amount of transmission expenses included in the OATT ancillary services rates, including all of Account No. 561.1, 561.2, 
+121    561.3 and 561.BA. 
+122 K AMPT will have no wages and salaries.  However, all A&G expense incurred by AMPT will be 100% related to AMPT Transmission 
+123 L PTRR debt service projections for zone are shown on WP06.  Actual ATRR debt service (for True-up template) will be from AMPT accounting records 
+124 M  O&M and A&G and Property Taxes values taken from the column in WP09 that corresponds to the zone. 
+125   
+126 N Includes amortization of pre-commercial Start-Up costs booked in account 182.3, approved by the Commission and amortized through Account 566. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 3 
+ 
+ 
+AMP Transmission 
+LLC 
+Gross Plant in Service - 13 Month Average Balances 
+Attachment H-32A - WP01 - Plant 
+ 
+ 
+ 
+Page 3 of 18
+Attachment H-32A - WP01 - Plant                                                                                                                                                                                                  
+Projected 
+ 
+ 
+Line 
+No. 
+(a) 
+ 
+Month 
+(b) 
+ 
+Year 
+(c) 
+  
+Production 
+(d) 
+ 
+Transmission 
+(e) 
+ 
+Distribution 
+(f) 
+ 
+General 
+(g) 
+ 
+Intangible 
+(h) 
+ 
+Total 
+(i) 
+   [A] 205.46.g 207.58.g 207.75.g 207.99.g 205.5.g  
+1 Month 1 20XX    
+2 Month 2 20XX    
+3 Month 3 20XX 
+2019 
+   
+4 Month 4 20XX 
+2019 
+   
+5 Month 5 20XX 
+2019 
+   
+6 Month 6 20XX 
+2019 
+   
+7 Month 7 20XX 
+2019 
+   
+8 Month 8 20XX 
+2019 
+   
+9 Month 9 20XX 
+2019 
+   
+10 Month 10 20XX 
+2019 
+   
+11 Month 11 20XX 
+2019 
+   
+12 Month 12 20XX 
+2019 
+   
+13 Month 13 20XX 
+2019 
+   
+14      
+15 13-month 
+Average 
+    
+16      
+17      
+18 Asset Retirement Cost for Transmission Plant  
+19   Transmission 
+20     
+21  [A]  207.57.g 
+22 Month 1 20XX  - 
+23 Month 2 20XX  - 
+24 Month 3 20XX  - 
+25 Month 4 20XX  - 
+26 Month 5 20XX  - 
+27 Month 6 20XX  - 
+28 Month 7 20XX  - 
+29 Month 8 20XX  - 
+30 Month 9 20XX  - 
+31 Month 10 20XX  - 
+32 Month 11 20XX  - 
+33 Month 12 20XX  - 
+34 Month 13 20XX  - 
+35 
+36          13-month Average                                                                                   - 
+37 
+38          Notes: 
+39  [A]            Reference for December balances as would be reported in FERC Form 1. Whether used in a PJM transmission zone with a      
+40    calendar year or non-calendar year rate period, AMPT will always forecast and true-up to the calendar/financial year because  
+          41    the AMPT revenue requirement is ultimately determined using values reported by AMPT in the format of the FERC Form 1. 
+. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 4 
+ 
+AMP Transmission 
+LLC 
+Revenue Credits Workpaper 
+Attachment H-32A - WP02 - Revenue 
+Credits 
+ 
+ 
+ 
+ 
+Page 4 of 18
+ 
+ 
+ 
+H-32A-WP02 - Revenue Credits 
+ 
+ 
+Line 
+Add Lines if needed
+No.      REVENUE CREDITS                                                                        Amount        Description of Revenue Credits 
+(a)                    (b)                                                                                                                     (c)                                          (d) 
+ADD LINES AS NEEDED FOR ADDITIONAL REVENUE CREDITS 
+ 
+1 Account No. 454 $                      - 
+2 Account No. 454 Revenue Credits specific to zone $                       -   
+3 Account No. 454 Revenue Credits allocable to all zones $                      - 
+4   
+5   
+6   
+7 Account No. 456 $                      - 
+8 Account No. 456 Revenue Credits specific to zone $                       -   
+9 Account No. 456 Revenue Credits allocable to all zones $                      - 
+10   
+11   
+12 Other Revenue Credits specific to zone $                      - 
+13   
+14   
+15   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 5 
+Attachment H-32A - WP03 - Start-Up Costs 
+AMP Transmission LLC 
+Formation Cost (Start-up) Workpaper                                                                                             Page 5 of 18 
+ 
+Add Columns and lines as needed       
+AMP Transmission LLC   
+2018 Start-Up Costs   
+    3-year Amorts   
+    Deferred from   
+    and Incurred in   
+Up Front Costs        2018   
+Legal :           
+Legal :        $                    
+Legal :        $                    
+Legal :        $                       
+ Legal:        $                           
+Legal :        $                              
+Total Legal         $                    
+consultant        $                    
+Travel, Meals        $                           
+AMP Labor/Overhead        $                     
+consultant        $                       
+PJM Application fee        $                       
+Legal         $                     
+Legal     $                     
+Legal     $                     
+Total Up-Front Costs     $                          
+Number of anticipated Transmission Zones                                    2  ATSI and AEP East        
+Amortization period                                     3  years beginning 1/1/20XX        
+Yearly Amortization     $                    ATSI Zone  
+Deferred to AEP Zone (or Next Zone)    $                  AEP zone for future request at FERC 
+ 
+ 
+Other Amortizations of deferred start-up – ATSI Zone Specific 
+     
+ Total Term Yearly 
+Amortization 
+ 
+     
+Legal  1   
+Consulting  1   
+     
+Consulting  1  Add lines as needed 
+PJM  1   
+Consulting  1   
+O&M Napoleon rest of 2018 estimate  1   
+Travel/Meals/Insurance  1   
+AMP Labor/Overhead  1   
+Fourth quarter 2018 interest on Napoleon Loan  1   
+legal  1   
+Legal  1   
+legal  1   
+Total 1-year Amort to ATSI zone     
+       
+         
+ 
+ 
+ADD LINES AND CATEGORIES AS NEEDED 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 6 
+ 
+Other Amortizations  - AEP  
+Total 
+ 
+term 
+Yearly 
+Amortization 
+Page 6 of 18 
+List other AEP Amortizations  here     $ - 0   $                       -  
+List other AEP Amortizations  here     $ - 0   $                       -  
+List other AEP Amortizations  here     $ - 0   $                       -  
+List other AEP Amortizations  here     $ - 0   $                       - Add lines as needed 
+List other AEP Amortizations  here     $ - 0   $                       -  
+List other AEP Amortizations  here     $ - 0   $                       -  
+List other AEP Amortizations  here     $ - 0   $                       -  
+Total AEP zonal Amortizations       $                       -  
+AMP Labor – Start-up amortization over 3 or 1 years. 
+AMP Labor - Start-up amortized over 3 or 1 years. 
+        
+ 
+LABOR FOR SEPT_DEC 
+        
+AMP Labor Hours                                        % Time  Hours  Expenses     
+1 10%  52    3 months remaining  
+2 10%  52      
+3 50%  260      
+4 35%  182      
+5 90%  468      
+6 10%  52      
+7 10%  52      
+8 10%  52      
+9 5%  26      
+10 20%  104      
+11 20%  104      
+12 5%  26      
+13 5%  26      
+14 20%  104      
+15 20%  104      
+16 5%  26  Blended Rate    
+LABOR HOURS                                                                                          
+1690 
+$ 
+LABOR EXPENSES                                                            41%                           
+$ 
+$ 
+- 
+75.00
+Labor Overhead $         
+$        Budget for Oct - Dec 2018
+ 
+$        
+$        
+$        
+Actuals thru September 
+Budget October - December based on AMP % allocation 
+Total
+ 
+But, 3 vs 1 year split is thru August!  
+So, $ - /9*8  = actual thru August $         
+Half goes to 3 year, half to 1 $          
+Remainder goes to ATSI; $ $         
+ 
+ADD LINES AND CATEGORIES AS NEEDED 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 7 
+Attachment H-32A - WP04 - Zonal Investment 
+AMP Transmission 
+LLC 
+Zonal Investment Workpaper 
+Page 7 of 18 
+ 
+Line 
+No. 
+Add Zones if necessary.  Add lines for more project investment
+ 
+1 AMPT Transmission Investment - Gross Plant  
+2 (a) (b) (c) (d) (e) 
+3     AMPT 
+4  ATSI AEP Other zone Total 
+5      
+6 City of Napoleon Assets $      $ -        $                    - $    
+7 Non-Qualifying $                 - $ -        $                    - $               - 
+8                           Total Qualifying 
+9 
+$                  $               -         
+$ 
+-        $  
+10                          Zonal Allocation                                                                100%                      0%                      0% 
+11
+12                            Allocated To Zone 
+13 
+14 
+15              Transmission Plant recovered in Ancillary Services 
+16 
+17
+$      $                -        $   
+18  AMPT  
+19 ATSI AEP Other Zone  Total  
+20  
+21 Amount $ - $ - $ -  $ -  
+22 
+23 Zone Allocation 0% 0% 0% 
+24 
+25 Allocated to Zone $ -  $ -  $ -   $ -  
+26 
+27 
+28 Wages and Salaries Proxy – Gross Plant in Each Zone 
+29 
+30 Line 12 (b, c or d) divided by Line 12(e)  100.0% 0.0% 0.0%  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 8 
+ 
+AMP Transmission 
+LLC 
+True-Up and Adjustments Workpaper 
+Attachment H-32A - WP05-A - True-Up and 
+Adjustments 
+ 
+ 
+Page 8a of 18
+ 
+AMPT True-up with Interest - based on Protocols 
+ 
+ 
+NITS Revenues received by PJM 
+for the Year (Note 2) 
+ 
+Actual Revenue 
+Requirement For Year 
+(ATRR) 
+True-up Adjustment - 
+(Over)/Under 
+Recovery
+$                                                      -                     -                    
+$ 
+-                           =                      $                             -
+ 
+ 
+Over (Under) Recovery 
+Plus Interest 
+Average Monthly 
+Interest Rate                       Months                  Calculated Interest            
+Amortization 
+Surcharge 
+(Refund) 
+Owed
+Interest Rate on Amount of Refunds or Surcharges (Note 1) (Note 1) 
+ 
+As an example, an over or under collection will be recovered prorata over 2019, held for 2020 and returned prorata over 2021 
+ 
+ 
+ 
+ Annual  
+January through December Year 2020 -                                (Note 1) 12  -                                                                                  
+-  
+Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months                                                                                         Monthly  
+January Year 2021 -                                (Note 1) -                                        -                                        
+- February Year 2021 -                                (Note 1) -                                        -                                        
+- March Year 2021 -                                (Note 1) -                                        -                                        
+- April Year 2021 -                                (Note 1) -                                        -                                        
+- May Year 2021 -                                (Note 1) -                                        -                                        
+- June Year 2021 -                                (Note 1) -                                        -                                        
+- July Year 2021 -                                (Note 1) -                                        -                                        
+- August Year 2021 -                                (Note 1) -                                        -                                        
+- September Year 2021 -                                (Note 1) -                                        -                                        
+- October Year 2021 -                                (Note 1) -                                        -                                        
+- November Year 2021 -                                (Note 1) -                                        -                                        
+- December Year 2021 -                                (Note 1)                                   -                                        -                                        
+- - 
+ 
+True-Up with Interest                                                                                                                                                                                                                                   $                             -
+Less Over (Under) 
+Recovery 
+$                              -  
+Total Interest                                                                                                                                                                                                                                                  
+$                             - 
+ 
+Note 1: 
+Interest Rate on Amount of Refunds or Surcharges is the monthly average interest rate calculated in accordance with section 2(c) of the AMPT Formula Rate Protocols.  
+Note 2: 
+Exclude any true-up amount included in the PTRR for the year being true-up 
+  
+Calculation of Interest Monthly
+January Year 2019 -                                (Note 1) 12 -
+February Year 2019 -                                (Note 1) 11 -
+March Year 2019 -                                (Note 1) 10 -
+April Year 2019 -                                (Note 1) 9 -
+May Year 2019 -                                (Note 1) 8 -
+June Year 2019 -                                (Note 1) 7 -
+July Year 2019 -                                (Note 1) 6 -
+August Year 2019 -                                (Note 1) 5 -
+September Year 2019 -                                (Note 1) 4 -
+October Year 2019 -                                (Note 1) 3 -
+November Year 2019 -                                (Note 1) 2 -
+December Year 2019 -                                (Note 1) 1                                   - 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 9 
+ 
+AMP Transmission 
+LLC 
+True-Up and Adjustments Workpaper 
+Attachment H-32A - WP05-B - True-Up and 
+Adjustments 
+ 
+ 
+Page 8b of 18
+ 
+AMPT True-up with Interest – under Non-Calendar Year Protocols 
+ 
+ 
+NITS Revenues received from PJM 
+for the Rate Year (Note 2) 
+ 
+Actual Revenue 
+Requirement For 
+Financial Year 
+(ATRR) 
+True-up Adjustment - 
+(Over)/Under 
+Recovery
+$                                                      -                     -                     -                           =                      $                             -
+ 
+ 
+Over (Under) Recovery 
+Plus Interest 
+Average Monthly 
+Interest Rate                       Months                  Calculated Interest            
+Amortization 
+Surcharge 
+(Refund) 
+Owed
+Interest Rate on Amount of Refunds or Surcharges (Note 1) (Note 1) 
+ 
+As an example, an over or under collection will be recovered prorata over Rate Year “n”, held for Rate Year “n+1” and returned prorata over Rate Year “n+2” 
+ 
+Calculation of Interest                                                                                                                                                                                            Monthly 
+Month 1 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 2 RateYear "n" -                                  (Note 1) -                                        -                                        
+- Month 3 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 4 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 5 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 6 
+ 
+RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 7 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 8 RateYear "n" -                                (Note 1) -                                        -                                        
+- Month 9 RateYear "n -                                (Note 1) -                                        -                                        
+- Month 10 RateYear "n -                                (Note 1) -                                        -                                        
+- Month 11 RateYear "n -                                (Note 1) -                                        -                                        
+- Month 12 RateYear "n -                                (Note 1)                                   -                                        -                                        
+- 
+-                                                                                  - 
+ 
+ Annual  
+Month 1 through Month 12 Rate Year "n+1" -                                (Note 1) 12  -                                                                                  
+-  
+Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months                                                                                         Monthly  
+Month 1 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 2 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 3 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 4 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 5 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 6 
+ 
+Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 7 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 8 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 9 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 10 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 11 Rate Year "n+2" -                                (Note 1) -                                        -                                        
+- Month 12 Rate Year "n+2" -                                (Note 1)                                   -                                        -                                        
+- - 
+ 
+True-Up with Interest                                                                                                                                                                                                                                   $                             - 
+Less Over (Under) 
+Recovery 
+$                              -  
+ 
+ 
+ 
+Total Interest                                                                                                                                                                                                                                                  $                             - 
+ 
+Note 1: 
+Interest Rate on Amount of Refunds or Surcharges is the monthly average interest rate calculated in accordance with section 2(c) of the AMPT Formula Rate Protocols.  
+Note 2: 
+Exclude any true-up amount included in the PTRR for the year being true-up
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate 
+Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 10 
+ 
+AMP Transmission LLC 
+Debt Service Workpaper - Annual 
+Attachment H-32A - WP06 - Debt Service
+Projections                                                                                                                                                                                                                                                                                                                                               
+Page 9 of 18 
+Debt Service Payments - Year End XX/XX/20XX  
+ 
+ 
+For ATRR and True-up, AMPT will record actual P&I in the  
+year and those P&I entries will be populated in H-32A, page 1, line 36 
+for PTRR - to line 34 of Attachment H-32A                                                                  Add Additional Project Columns as needed 
+ 
+ 
+AMPT Projects 
+ Project Project Project Project Project #5 Project #6 Project #7 Project #8 Project #9 Project #10 Total 
+ #1 #2 #3 #4 #5 #6 #7 #8 #9 #10 Projected 
+ 
+Project Name: 
+ 
+           
+Loan Principal:            
+Less Acquisition 
+Premium 
+$0          $0 
+Net Loan Principal 
+Loan Term 
+(Years): Loan 
+Start Date: 
+Loan End Date: 
+Annual Interest 
+Rate: Projected Yearly Debt Service 
+Payment: 
+           
+Debt Service Schedule (Yearly)            
+Year            2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2023 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2024 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2025 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2026 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2027 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2028 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2029 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2030 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2031 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2032 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2033 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2034 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2035 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2036 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2037 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2038 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+Rate Year Total Projected Actual Debt Service 
+20XX $0 $0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate 
+Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 11 
+ 
+AMP Transmission LLC 
+Debt Service Workpaper - Annual 
+Attachment H-32A - WP06 - Debt Service 
+ 
+ 
+ 
+Page 10 of 18
+ 
+Debt Service Payments - Year End XX/XX/20XX 
+ 
+ 
+ 
+ 
+Add Additional "Other" Columns as needed 
+ 
+Other AMPT Capitalized Equipment 
+ Project Project Project Project Project #5 Project #6 Project #7 Project #8 Project #9 Project #10 Total 
+ #1 #2 #3 #4 #5 #6 #7 #8 #9 #10 Projected 
+ 
+Project Name: 
+           
+Loan Principal:            
+Less Acquisition 
+Premium 
+          $0 
+Net Loan Principal 
+Loan Term 
+(Years): Loan 
+Start Date: 
+Loan End Date: 
+Annual Interest 
+Rate: Projected Yearly Debt Service 
+Payment: 
+           
+Debt Service Schedule (Yearly)            
+Year            2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2023 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2024 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2025 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2026 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2027 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2028 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2029 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2030 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2031 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2032 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2033 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2034 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2035 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2036 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2037 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2038 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT 
+Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 12 
+ 
+AMP Transmission LLC 
+Debt Service Workpaper - Monthly 
+ 
+Debt Service Payments - Year EndXX/XX/20XX 
+ 
+This tab is to accommodate projects that may go in service or close mid-year in any particular month 
+Attachment H-32A - WP06a - Debt Service Monthly 
+ 
+ 
+Page 11 of 18 
+ 
+ 
+ 
+Add Additional Project Columns and lines as needed
+AMPT Projects 
+ Project #1 Project #2 Project #3 Project #4 Project #5 Project #6 Project #7 Project #8 Project #9 Project #10 
+ 
+From WP06                                   Total Debt Service Over Loan Term 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+Debt Service Schedule (Monthly)           
+Year                                                       Month           2019                                                                   1/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   2/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   3/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   4/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   5/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   6/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   7/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   8/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                   9/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                 10/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                 11/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                                 12/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   1/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   2/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   3/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   4/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   5/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   6/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   7/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   8/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                   9/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                 10/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                 11/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                                 12/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   1/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   2/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   3/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   4/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   5/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   6/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   7/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   8/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                   9/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                 10/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                 11/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                                 12/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   1/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   2/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   3/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   4/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   5/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   6/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   7/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   8/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                   9/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                 10/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                 11/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                                 12/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2023                                                                   1/1/2023 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment 
+H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 13 
+ 
+AMP Transmission LLC 
+Debt Service Workpaper - Monthly 
+ 
+Debt Service Payments - Year EndXX/XX/20XX 
+Attachment H-32A - WP06a - Debt Service Monthly 
+ 
+ 
+Page 12 of 18
+Add Additional "Other" Columns and lines as needed 
+ 
+Other AMPT Capitalized Equipment 
+ Project #1 Project #2 Project #3 Project #4 Project #5 Project #6 Project #7 Project #8 Project #9 Project #10 
+ 
+From WP06                                                   Total Debt Service Over Loan Term 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+$0 
+ 
+Debt Service Schedule (Monthly)           
+Year                                                            Month           2019                                                       1/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       2/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       3/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       4/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       5/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       6/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       7/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       8/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                       9/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                    10/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                    11/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2019                                                    12/1/2019 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       1/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       2/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       3/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       4/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       5/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       6/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       7/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       8/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                       9/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                    10/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                    11/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2020                                                    12/1/2020 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       1/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       2/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       3/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       4/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       5/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       6/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       7/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       8/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                       9/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                    10/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                    11/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2021                                                    12/1/2021 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       1/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       2/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       3/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       4/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       5/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       6/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       7/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       8/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                       9/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                    10/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                    11/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2022                                                    12/1/2022 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+2023                                                       1/1/2023 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 14 
+Attachment H-32A - WP06b - Interest on Working 
+Cap 
+Page 13 of 18 
+AMP Transmission LLC 
+Zonal Investment Workpaper 
+ 
+ 
+ 
+ 
+ 
+ 
+Line 
+No.        Components - Description                                                                                                                                                  
+Amounts 
+(a)                                                                                                                    (b)                                                                                      
+(c) 
+ 
+ 
+ 
+1 AMPT Working Capital Loan from AMP $             
+2   
+3 Prime Rate 5.25% 
+4   
+5 Interest on Working Capital Loan1 $                
+6   
+7   
+8 For ATRR  and True-up, AMPT will record actual interest expense  
+9   
+10 Note 1:  to Attachment  H-32A, page 1, line 37  
+11   
+12 For ATRR  and True-up, interest will be per books  
+13 For PTRR, use most recent available Prime Rate when projections are done  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 15 
+ 
+ 
+AMP Transmission LLC  
+Transmission Enhancement Credit (Schedule 12 
+Projects) To be completed in conjunction with Attachment 
+H-32A 
+Attachment H-32A - WP07 - TEC 
+Page 14 of 18
+ 
+ 
+ 
+Line 
+(1)  (2) 
+ 
+Reference 
+ (3) 
+ 
+Transmission 
+No.      
+1 Gross Transmission Plant - Total    $            
+2 Net Transmission Plant - Total     3      4 O&M EXPENSE     5 Total O&M Allocated to Transmission    $            
+(4) 
+ 
+Allocator 
+6 Annual Allocation Factor for O&M    %  %     7            8 DEBT SERVICE    $                      9 Annual Allocation Factor for Debt Service    %  %     10            11 MARGIN REQUIREMENT    $                        12 Annual Allocation Factor for Margin Requirement    %  %     13            14 TAXES OTHER THAN INCOME TAXES           15 Total Other Taxes    $                       -       16 Annual Allocation Factor for Other Taxes    0.00%  0.00%     17            18 Annual Allocation Factor for Expense and Margin Requirement  Sum of line 6 through 16    %     19            20            21 Add lines for projects as needed           22   Transmission Enhancemen t Credit (Schedule 
+1 
+2 Projects)      23   To be comple ted in conju ction with Attachm ent H-32A      24            25            
+26 
+ 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) 
+27 
+Line 
+No. Project Name RTEP Project 
+Number 
+Project Gross 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual Expense 
+Charge 
+Project Net Plant 
+ 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+True-up 
+Adjustment 
+Annual 
+Revenue 
+Requirement 
+with True-up 
+28 
+    (line 18) (Col. 3 * Col. 4) N/A  (Col. 6 * Col. 7)  (WP08-True-up 
+Col. i) 
+(Sum Col. 5, 8, 9 
+& 10) 
+29 
+30 
+           
+31  
+32 1a  b $ - 128.15% $ - N/A 0.00% $ - $  - $ - 
+33   b      N/A     -    
+34 1b  b $ - 128.15% $ - N/A 0.00% $ - $  - $ - 
+35                  
+36 1c   $ - 128.15% $ -  0.00% $ -    $ - 
+37                  
+38 2 Transmission Enhancement Credit for Attachment H-32A Page 1, Line 9 
+39             
+40 Notes  
+41 A Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-21A. 
+42 B Net Transmission Plant is that identified on page 2 line 14 of Attachment H-21A. 
+43 C Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 above.  This value includes subsequent capital investments required to maintain the project in-service. 
+44 D Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+45 E Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-21A page 3 line 12. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 16 
+ 
+AMP Transmission LLC 
+Transmission Enhancement Credit (Schedule 12 Projects) 
+Attachment H-32A - WP08 - TEC True-
+up 
+ 
+ 
+ 
+Page 15 of 18
+ 
+ 
+Add more lines as needed 
+Transmission Enhancement Credit - True-up 
+To be completed after WP07 for the True-up Year is updated using actual data 
+ 
+ 
+(a) (b) (c) (d) (e) (f) (g) (h) (i) 
+    
+Projected TEC 
+ 
+Actual TEC 
+  
+True-up 
+  
+True-up 
+ 
+   Annual Revenues Actual TEC Adjustment Applicable Adjustment with 
+Line   RTEP Project Actual TEC Revenue Allocated to Annual Revenue Principal Interest on Interest 
+No.  Project Name Number Revenues Requirement Projects Requirement Under/(Over) Under/(Over) Under/(Over) 
+      [Col. c, line 1 *   Col. g *  
+      (Col. d, line 2x /   [(line 4a / line  
+     from PTRR Col. d, line 3)] from ATRR Col. f - Col. e 4b) - 1] Col. g + Col. H 
+ 
+1 
+ 
+[A] 
+ 
+Actual PJM TEC Revenues for True-up Year  
+ 
+- 
+2a   b -                             -                                                          -                           -                            - 
+2b   b -                             -                                                          -                           -                            - 
+2c   b -                             -                                                          -                           -                            - 
+ 
+ 
+ 
+ 
+3 Subtotal -                                -                                - 
+ 
+4a 
+4b 
+ 
+Revenue Requirement True-up with Interest 
+Revenue Requirement True-up - Over/Under Recovery 
+ 
+- 
+- 
+ 
+ 
+ 
+NOTE  
+[A]    Amount included in revenues reported on page 330, column k of FERC Form 1.
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate 
+Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 17 
+ 
+ 
+AMP Transmission LLC 
+Attachment H-32A - WP09 - Transmission 
+O&M 
+ 
+Transmission O&M, A&G, and Other Taxes Workpaper  
+Page 16 of 18 
+ Add lines and other zones as needed to increase transparency   
+ TRANSMISSION O&M, A&G, and OTHER TAXES DETAIL   
+ Add Lines and Columns to if necessary to increase transparency   
+Line    
+No. Item Form 1 Reference                  Amount          Deferred  Description 
+(a) (b) (c)                                   (d)                   (e) (f) 
+1 Total Transmission O&M – 20XX Projections 321.112.b From Informational AMPT Form 1  - ATRR True-up 
+2  Est. for Zone  
+3 Total Transmission O&M Specific to ATSI zone Total           Alloc            ATSI  Projections 
+4 consultant $0 35% $0 $0 Transmission modeling and analysis services 
+5 consultant Implementation $0 100% $0 $0 communications equipment 
+6 consultant Annual $0 100% $0 $0 operational services for PJM communications and dispatch for transmission equip 
+7 consultant $0 35% $0 $0 consulting services for equip evaluation for NERC BES compliance and Tariff eligibility 
+8 consultant $0 35% $0 $0 Consultants 
+9 legal $0 50% $0 $0 Legal 
+10 legal $0 100% $0 $0 Legal 
+11 legal $0 100% $0 $0 Legal 
+12 O&M Napoleon $0 100% $0 $0 O&M on facilities 
+13 Meals/Travel $0 35% $0 $0  
+14 Insurance $0 100% $0 $0  
+15  $0  $0 $0  
+16 List transmission specific to ATSI zone here - add rows if necessary $0  $0 $0  
+17  $0  $0 $0 sum of transmission O&M specific to ATSI zone 
+18 Total Transmission O&M Specific to AEP zone      
+19 List transmission specific to AEP zone here - add rows if necessary   $            - $            - Add description 
+20 List transmission specific to AEP zone here - add rows if necessary   $            - $            - Add description 
+21 List transmission specific to AEP zone here - add rows if necessary   $            - $            - Add description 
+22 List transmission specific to AEP zone here - add rows if necessary   $            - $            - Add description 
+23 List transmission specific to AEP zone here - add rows if necessary   $            -   $            -   Add description 
+24   $            -        $            -       sum of transmission O&M specific to AEP zone 
+25 Total Transmission O&M Specific to all zones   
+26 List transmission specific to all zones here - add rows if necessary  $            -        $            -       Add description 
+27 List transmission specific to all zones here - add rows if necessary  $            -        $            -       Add description 
+28 List transmission specific to all zones here - add rows if necessary  $            -        $            -       Add description 
+29 List transmission specific to all zones here - add rows if necessary  $            -        $            -       Add description 
+30 List transmission specific to all zones here - add rows if necessary  $            -        $            -      Add description 
+31   $            -        $            -       sum of transmission O&M specific to all zones 
+32    
+ADD LINES AND ZONES FOR DATA IN FUTURE AS NEEDED 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-32A - AMPT Formula Rate 
+Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 18 
+AMP Transmission LLC 
+Transmission O&M, A&G, and Other Taxes 
+Workpaper 
+ 
+ 
+ 
+Page 17 of 18
+Line                                                                                                                                                                                                                                                                                                                        Attachment H-32A - WP09 - Transmission O&M 
+No.                                                                   Item                                                                        Form 1 Reference                  Amount          Deferred                                                                       Description  
+(a)                                                                    (b)                                                                                      (c)                                   (d)                   (e)                                                                                   (f) 
+ 
+33 A&G Expense  $           -        From Informational Form 1 for ATRR True-up, otherwise estimate for PTRR 
+  34    
+  35 AMP Labor and Over     
+323.197.b                        $            -                              From Informational Form 1 for ATRR True-up, otherwise estimate fSI zone 
+  36 AMP Labor and Overheads Allocable to the ATSI Zone $0 35% $           -       $           -      AMP staff labor and overhead 
+37 List A&G specific to ATSI zone here - add rows if necessary $0  $            -        $            -       Add description 
+38 List A&G specific to ATSI zone here - add rows if necessary $0  $            -        $            -       Add description 
+39 List A&G specific to ATSI zone here - add rows if necessary $0  $            -        $            -       Add description 
+40 List A&G specific to ATSI zone here - add rows if necessary $0  $            -        $            -       Add description 
+41 List A&G specific to ATSI zone here - add rows if necessary $0  $            -        $            -      Add description 
+42  $0  $           -       $           -      sum of A&G specific to ATSI zone 
+43 Total A&G Specific to AEP zone    
+44 List A&G specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+45 List A&G specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+46 List A&G specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+47 List A&G specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+48 List A&G specific to AEP zone here - add rows if necessary   $            -        $            -      Add description 
+49    $            -        $            -       sum of A&G specific to AEP zone 
+50 Total A&G Specific to all zones    
+51 List A&G specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+52 List A&G specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+53 List A&G specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+54 List A&G specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+55 List A&G specific to all zones here - add rows if necessary   $            -        $            -      Add description 
+56 Total A&G Specific to all zones   $            -        $            -       sum of A&G specific to all zones 
+57     
+58     
+59 Other Taxes 263.i  $            -                              From Informational Form 1 for ATRR True-up, otherwise estimate for PTRR 
+60     
+61 Other Taxes specific to ATSI Zone    
+62 Other Tax specific to ATSI zone here - add rows if necessary   $            -        $            -       Add description 
+63 Other Tax specific to ATSI zone here - add rows if necessary   $            -        $            -       Add description 
+64 Other Tax specific to ATSI zone here - add rows if necessary   $            -        $            -       Add description 
+65 Other Tax specific to ATSI zone here - add rows if necessary   $            -        $            -       Add description 
+66 Other Tax specific to ATSI zone here - add rows if necessary   $            -       Add description 
+67 Other Tax specific to ATSI zone here - add rows if necessary   $            -        $            -       Add description 
+68    $            -        $            -       sum of Other Taxes specific to ATSI zone 
+69 Other Taxes specific to AEP Zone    
+70 Other Tax specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+71 Other Tax specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+72 Other Tax specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+73 Other Tax specific to AEP zone here - add rows if necessary   $            -        $            -       Add description 
+74 Other Tax specific to AEP zone here - add rows if necessary   $            -        $            -      Add description 
+75    $            -        $            -       sum of Other Taxes specific to AEP zone 
+76 Other Taxes Specific to all zones    
+77 Other Tax specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+78 Other Tax specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+79 Other Tax specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+80 Other Tax specific to all zones here - add rows if necessary   $            -        $            -       Add description 
+81 Other Tax specific to all zones here - add rows if necessary   $            -        $            -      Add description 
+82 Total Other Taxes Specific to all zones   $            -        $            -       sum of Other Taxes specific to all zones 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-32A - AMPT Formula Rate Template 
+Effective Date: 1/1/2019 - Docket #: ER20-2942-000 - Page 19 
+Attachment H-32A - WP10 - Margin 
+Requirement 
+Page 18 of 18 
+AMP Transmission LLC 
+Development of Margin Requirement 
+Line  
+No. Item 12-Month Period=     20XX 
+(a) (b)  (c) 
+ 
+ 
+1 Debt Service Payments1 
+2  
+3 Less: 
+ 
+$         - 
+4 Interest on Working Capital Loans (WP06b) $            -  
+5 Premium paid on Debt and included in debt service $                  - 
+6 Other Adjustments needed to reflect only Debt Service on Assets $                  - 
+7 Add Additional deductions to Debt Service Payments as needed $                  - 
+8   
+9 Net Debt Service Payments (line 1 - lines 4 through 7) $                 - 
+10 Margin Factor (fixed) 40% 
+11 Margin Requirement (line 9 x line 10) - To H-32A line $                  - 
+12   
+13 Notes:  
+14 1. Excludes any Debt Service related to Acquisition Adjustments if any per WP06  
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
+SERVICE REQUESTS; R --> OATT Attachment H-32B - AMPT Formula Rate Protocols 
+Effective Date: 1/1/2019 - Docket #: ER19-263-002 - Page 1 

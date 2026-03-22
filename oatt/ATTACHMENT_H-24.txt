@@ -1,230 +1,916 @@
-Attachment H-24 
-Rate Pursuant to 
-Attachment H-24 
-Rate Pursuant to  
-Attachment H-24 
-Rate Pursuant to  
-Attachment H-24 
-Rate Pursuant to  
-Attachment H-24 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 3 
-OVEC Zone 5.16 0.43 0.10 0.02 0.014 
-* PPL Electric Utilities Corporation’s and UGI Utilities’ respective component of the total charge is posted on the PJM Internet website. 
-1/ Monday – Friday except the following holidays:  New Years Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day. 
-2/ Saturday and Sunday and the following holidays:  New Years Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day. 
-3/ The charge for Points of Delivery at the Border of PJM shall not apply to any Reserved Capacity with a Point of Delivery of the Midcontinent Independent 
-Transmission System Operator, Inc. 
-4/ Each month, revenue credits will be applied to the gross charge in accordance with section 8 below to determine the actual charge to the Transmission Customer.  
-5/ The charges for the ComEd zone are posted on PJM’s website.  In addition to other rates set forth in this schedule, customers within the ComEd zone shall be 
-charged for recovery of RTO start-up costs at the following rates, each computed to four decimal places: 
-Annual Rate - $/kW/year = $1,523,039, divided by the 1 CP demand for the ComEd zone for the prior calendar year; 
-Monthly Rate - $/kW/month. = Annual Rate divided by 12; 
-Weekly Rate - $/kW/week = Annual Rate divided by 52; 
-Daily Rate - $/kW/day = Weekly Rate divided by 5. 
-In order to ensure that the charge does not result in either an over-recovery or under-recovery of ComEd’s start-up costs, PJM will institute an annual true-up 
-mechanism in the month of May of each of the years 2008-2014.  In May of each of those years, PJM will compare the amount collected under this charge for the 
-previous 12 months with the target annual amount of $1,523,039 and calculate any credits or surcharges that would be needed to ensure that $1,523,039 is collected 
-for each year.  Any credit or surcharge will be assessed in the June bills for years 2008-2014, consistent with the above methodology. 
-6/ The rates for firm point-to-point transmission service in the AEP Zone will be charged at the yearly, monthly, weekly or daily rate equivalent to the rate effective in 
-such period under Attachments H-14 and H-20. In addition to other rates set forth in this schedule, customers within the AEP East Zone shall be charged for 
-recovery of RTO start-up costs at the following rates, each computed to four decimal places: 
+ATTACHMENT H-24 
+Annual Transmission Rates – EKPC 
+for Network Integration Transmission Service 
+and Point-to-Point Transmission Service 
  
-Annual Rate - $/kW/year = $2,362,185, plus any applicable true-up adjustment, divided by the 1 CP demand for the AEP East Zone for the prior calendar year; 
- 
-Monthly Rate - $/kW/month. = Annual Rate divided by 12; 
- 
-Weekly Rate - $/kW/week = Annual Rate divided by 52; 
- 
-Daily Rate - $/kW/day = Weekly Rate divided by 5. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 4 
- 
-For the period November 1, 2005 through March 31, 2006, the rate shall be $8.94/MW-month; for the period April 1 through December 31, 2006, the rate shall be 
-$8.60/MW-month, thereafter, the rate will be subject to the following true-up: 
- 
- In order to ensure that the charge does not result in either over-recovery or under-recovery of AEP’s start-up costs, PJM will institute an annual true-up mechanism 
-and implement revised charges as of January 1st of each of the years 2007-2019.  In January of each of those years, PJM will compare the amount collected under 
-this charge for the previous year or part thereof with the target annual amount of $2,362,185 and calculate the rates that would be needed, given the expected billing 
-demands, to collect $2,362,185, adjusted for any prior year over-collection or under-collection.  In the final year that the rate is collected, PJM will calculate the rate 
-to collect five-twelfths of the annual amount ($984,244), plus or minus any prior year true up amount, by May 31 of that year, and shall charge such rate until that 
-amount is collected, whether that date be before or after May 31, 2020.    
- 
-7/ The service period charges rounded to four decimal places for the Dominion Zone are as follows: 
- 
-Yearly Charge - $/kW/year = the formula rate for Network Integration Transmission Service as described in Attachment H-16 and Attachment H-16A 
-divided by 1000 kW/MW 
- 
-Monthly Charge - $/kW/month. = Yearly Charge divided by 12; 
- 
-Weekly Charge - $/kW/week = Yearly Charge divided by 52; 
- 
-Daily On-Peak Charge - $/kW/day = Weekly Charge divided by 5; 
- 
-Daily Off-Peak Charge - $/kW/day = Weekly Charge divided by 7. 
- 
-On a monthly basis, revenue credits shall be calculated based on the sum of VEPCO’s share of revenues collected during the month from Schedule 7 and Network 
-Integration Transmission Service to Non-Zone Network Load under Attachment H-A.  The sum of these revenue credits will appear as an adjustment to the to the 
-gross monthly service period charges produced by the above formula. 
- 
-2) The total demand charge in any week, pursuant to a reservation for Daily On-Peak Delivery, or Daily Off-Peak Delivery shall not exceed the Weekly Delivery rate 
-specified in section (1) above for weekly service times the highest amount in kilowatts of Reserved Capacity and any additional transmission service, if any, in any day during such 
-week. 
+1. The Annual Transmission Revenue Requirements (“ATRR”) and the rates for Network 
+Integration Transmission Service and Point-to-Point Transmission Service are the product  of 
+the formula shown in Attachment H-24A, and will be posted on the PJM website.  The 
+ATRR and the rates reflect the cost of providing transmission service over the 69 kV and 
+higher transmission facilities of East Kentucky Power Cooperative, Inc. (“EKPC”).   
+2. The formula rate in this attachment shall be effective until amended by EKPC or modified by 
+the Commission. 
+3. EKPC and American Electric Power shall be subject to the additional provisions of PJM 
+Service Agreement No. 1530, Composite Interconnection Agreement between American 
+Electric Power Service Corporation and East Kentucky Power Cooperative. 
+4. EKPC and Louisville Gas & Electric Company/Kentucky Utilities Company shall be subject 
+to the additional provisions of PJM Service Agreement No. 3518, Service Agreement For 
+Network Integration Transmission Service among PJM Interconnection, L.L.C., PJM 
+Settlement Inc. and Louisville Gas and Electric Company/Kentucky Utilities Company. 
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 5 
-3) Discounts:  Three principal requirements apply to discounts for transmission service as follows:  (1) any offer of a discount made by the Transmission Provider must be 
-announced to all Eligible Customers solely by posting on the OASIS, (2) any customer-initiated requests for discounts (including requests for use by one’s wholesale merchant or 
-an Affiliate’s use) must occur solely by posting on the OASIS, and (3) once a discount is negotiated, details must be immediately posted on the OASIS.  For any discount agreed 
-upon for service on a path, from point(s) of receipt to point(s) of delivery, the Transmission Provider must offer the same discounted transmission service rate for the same time 
-period to all Eligible Customers on all unconstrained transmission paths that go to the same point(s) of delivery on the Transmission System. 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A - EKPC Rate 
+Formula Template 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 1 
+Attachment H-24A 
+Page 1 of 5 
+Formula Rate - Non-Levelized For the 12 months ended 12/31/20__ 
+Rate Formula Template 
+Utilizing EKPC 20__ Form FF1 Data 
+East Kentucky Power Cooperative, Inc. 
  
-4) Congestion, Losses and Capacity Export:  In addition to any payment under this Schedule, the Transmission Customer shall pay Redispatch Costs as specified in Section 
-27 of the Tariff.  The Transmission Customer shall be responsible for losses as specified in the Tariff.  Any Transmission Customer that is a Capacity Export Transmission 
-Customer, shall pay any applicable charges, and receive any applicable credits, for such a customer pursuant to Attachment DD. 
+Line 
+No. 
+             Allocated 
+Amount 
+1 GROSS REVENUE REQUIREMENT (page 3, line 29)            $                 0   
+                
+ REVENUE CREDITS  Note A Total  Allocator     
+2 Account No. 454 (page 4, line 34) $                 0    TP  0.00000    $                 0 
+3 Account No. 456.1 (Net of Revenues from 
+Grandfathered Transactions) 
+(page 4, line 35) 0    TP  0.00000    
+4 Revenues from Grandfathered Transactions  Note B 0   TP  0.00000   
+5 Revenues from service provided by the ISO at a 
+discount 
+  0    TP  0.00000   0  
+5a Transmission Enhancement Credit   0    TP  0.00000   0  
+6 TOTAL REVENUE CREDITS  (sum lines 2-5a)             $                 0 
+6a True-up Adjustment    Note C          $                  -  
+                
+                
+7 NET REVENUE REQUIREMENT (line 1 minus line 6 plus line 6a)          $                     0  
+                
+ DIVISOR              
+8 1 CP Note D      0  
+9 12 CP Note E      0  
+                
+10 Reserved              
+11 Reserved              
+12 Reserved              
+13 Reserved              
+14 Reserved              
+                
+15 Annual Cost ($/kW/Yr) - 1 CP (line 7 / line 8) $ 0.000          
+               
+16 Annual Cost ($/kW/Yr) - 12 CP (line 7 / line 9) $0.000          
+             
+17 Network Rate ($/kW/Mo) (line 15 / 12) $0.000        
+              
+17a Point-To-Point Rate ($/kW/Mo) (line 16 / 12) $0.000         
+              
+     On-Peak Rate         Off-Peak Rate 
+                
+18 Point-To-Point Rate ($/kW/Wk) (line 16 / 52; line 16 / 52) $0.000           
+                
+19 Point-To-Point Rate ($/kW/Day) (line 16 / 260; line 16 / 365) $0.000  Capped at weekly rate    $0.000 
+                
+20 Point-To-Point Rate ($/MWh) (line 16 / 4,160; line 16 / 8,760 * 
+1000) 
+$0.000  Capped at weekly and daily 
+rate  
+  $0.000 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A - EKPC Rate 
+Formula Template 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 2 
+Attachment H-24A 
+Page 2 of 5 
+Formula Rate - Non-Levelized For the 12 months ended 12/31/20__ 
+Rate Formula Template 
+Utilizing EKPC 20__ Form FF1 Data 
+East Kentucky Power Cooperative, Inc. 
  
-5) Other Supporting Facilities and Taxes:  In addition to the rates set forth in section (1) of this schedule, the Transmission Customer shall pay charges determined on a 
-case-by-case basis for facilities necessary to provide Transmission Service at voltages lower than those shown in Attachment H for the applicable Zone(s) and any amounts 
-necessary to reimburse PJMSettlement for any amounts payable as sales, excise, “Btu,” carbon, value-added or similar taxes (other than taxes based upon or measured by net 
-income) with respect to the amounts payable pursuant to the Tariff. 
  
-6) [Reserved] 
+ (1) (2) (3)  (4)  (5) 
+Line  Form No. 1     Transmission 
+No. RATE BASE Page, Line, Col. Company Total  Allocator  (Col. 3 times Col. 4) 
+         
+ GROSS PLANT IN SERVICE        
+1 Production 204.46.g $                       0  NA    
+2 Transmission 206.58.g 0  TP 0.00000  $                       0 
+3 Distribution 206.75.g 0  NA    
+4 General & Intangible 204.5.g & 206.90.g 0  W/S 0.00000  0 
+5 Common  0  CE 0.00000  0 
+6 TOTAL GROSS PLANT(sum lines1-5)  $                       0  GP= 0.000%  $                       0 
+         
+ ACCUMULATED DEPRECIATION        
+7 Production 219.20-24.c $                       0  NA    
+8 Transmission 219.25.c 0  TP 0.00000  $                       0 
+9 Distribution 219.26.c 0  NA    
+10 General & Intangible 219.28.c 0  W/S 0.00000  0 
+11 Common  0  CE 0.00000  0 
+12 TOTAL ACCUM. DEPRECIATION (sum lines 7-
+11) 
+ $                       0     $                       0 
+ NET PLANT IN SERVICE        
+13 Production (line 1 - line 7) $                       0      
+14 Transmission (line 2 - line 8) 0     $                       0 
+15 Distribution (line 3 - line 9) 0      
+16 General & Intangible (line 4 - line 10) 0     0 
+17 Common (line 5 - line 11) 0     0 
+18 TOTAL NET PLANT (sum lines 13-17)  $                       0  NP= 0.000%  $                       0 
+ ADJUSTMENTS TO RATE BASE        
+19 Account No. 281 (enter negative) 272.Total 281.k $                      -  NA zero  $                     - 
+20 Account No. 282 (enter negative) 274.Total 282.k 0  NP 0.00000  0 
+21 Account No. 283 (enter negative) 276.Total 283.k 0  NP 0.00000  0 
+22 Account No. 190 234.Total 190.c 0  NP 0.00000  0 
+23 Account No. 255 (enter negative) 266.Total.h 0  NP 0.00000  0 
+24 TOTAL ADJUSTMENTS (sum lines 19-23)  $                      0     $                       0 
+         
+25 LAND HELD FOR FUTURE USE 214.Total.d, 
+Note F 
+$                      -   0.00000  $                     - 
+         
+ WORKING CAPITAL        
+26 CWC calculated, Note G $                       0     0 
+27 Materials & Supplies 227.8.c 0  TE 0.00000  0 
+28 Prepayments (Account 165) 110.46.c, Note G 0  GP 0.00000  0 
+29 TOTAL WORKING CAPITAL (sum lines 26-28)  $                       0     $                       0 
+         
+30 RATE BASE (sum lines 18, 24, 25, & 29)  $                       0     $                       0 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A - EKPC Rate 
+Formula Template 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 3 
+Attachment H-24A 
+Page 3 of 5 
+Formula Rate - Non-Levelized For the 12 months ended 12/31/20__ 
  
-7) Transmission Enhancement Charges. Except for Points of Delivery at the Border of PJM, which are subject to the Border Yearly Charge determined under section 11, in 
-addition to the rates set forth in section (1) of this Schedule and any other applicable charges, the Transmission Customer shall also pay any Transmission Enhancement Charges 
-for which it is designated as a Responsible Customer under Schedule 12 appended to the Tariff. 
  
-8) Determination of monthly charges for ComEd Zone: On a monthly basis, revenue credits shall be calculated based on the sum of ComEd’s share of revenues collected 
-during the month from: (i) the PJM Border Rate under Schedule 7; (ii) Network Integration Transmission Service to Non-Zone Network Load under Attachment H-A; (iii) Seams 
-Elimination Charge/Cost Adjustment/Assignment (“SECA”) revenues allocable to ComEd under the Tariff; and (iv) any Point-To-Point Transmission Service where the Point of 
-Receipt and the Point of Delivery are both internal to the ComEd Zone. On this basis, the sum of these revenues will appear as a reduction to the gross monthly rate stated above 
-on a Transmission Customer’s bill in that month for service under this schedule. 
+Rate Formula Template 
+Utilizing EKPC 20__ Form FF1 Data 
+East Kentucky Power Cooperative, Inc. 
  
-9) Determination of monthly charges for AEP Zone: On a monthly basis, revenue credits shall be calculated based on the sum of AEP’s share of revenues collected during 
-the month from: (i) the PJM Border Rate under Schedule 7; (ii) Network Integration Transmission Service to Non-Zone Network Load under Attachment H-A; and (iii) Firm 
-Point-To-Point Transmission Service where the Point of Delivery is internal to the AEP Zone. The sum of these revenue credits will appear as an adjustment (reduction) to the 
-gross monthly rate stated above on a Transmission Customer’s bill in that month for service under this schedule. 
+ (1) (2) (3)  (4) (5) 
+Line  Form No. 1    Transmission 
+No.  Page, Line, Col. Company Total  Allocator (Col. 3 times Col. 4) 
+        
+ O&M       
+1 Transmission 321.100 $                       0  TE 0.00000 $                       0 
+2 Less Account 565 321.Acct 565 0  TE 0.00000 0 
+3 A&G 321.168 0  W/S 0.00000 0 
+4 Less FERC Annual Fees N/A 0  W/S 0.00000 0 
+5 Less Non-safety Advertising Note H 0  W/S 0.00000 0 
+5a Less KPSC Regulatory Expenses Note H 0  W/S 0.00000 0 
+5b Plus Transmission Related Regulatory Exp Note H 0  TE 0.00000 0 
+6 Common  0  CE 0.00000 0 
+7 Transmission Lease Payments  0   0.00000 0 
+8 TOTAL O&M (sum lines 1, 3, 5b, 6,7 less lines 2, 4, 5, 5a)  $                      0    $                      0 
+        
+ DEPRECIATION EXPENSE       
+9 Transmission 336.7.f $                       0  TP 0.00000 $                       0 
+10 General and Intangible 336.9.f 0  W/S 0.00000 0 
+11 Common 336.10.f 0  CE 0.00000 0 
+12 TOTAL DEPRECIATION (Sum lines 9-11)  $                      0    $                      0 
+        
+ TAXES OTHER THAN INCOME TAXES       
+ LABOR RELATED       
+13 Payroll Note I $                       0  W/S 0.00000 $                       0 
+14 Highway and vehicle Note I 0  W/S 0.00000 0 
+15 PLANT RELATED       
+16 Property Note I 0  GP 0.00000 0 
+17 Gross Receipts  0  NA NA 0 
+18 Other  0  GP 0.00000 0 
+19 Payments in lieu of taxes  0  GP 0.00000 0 
+20 TOTAL OTHER TAXES (sum lines 13-19)  $                      0    $                      0 
+        
+ INCOME TAXES Note J      
+21 T=1 - {[(1-SIT) * (1-FIT)] / (1 - SIT * FIT * p)} =  0.000000%     
+22 CIT=(T/1-T) * (1-(WCLTD/R)) =  0.000000%     
+23 1 / (1 - T) = (from line 21)  0.0000     
+24 Amortized Investment Tax Credit 266.8.f (enter  
+negative) 
+0     
+        
+25 Income Tax Calculation (line 22 * line 28)  $                       0  NA  $                       0 
+26 ITC adjustment (line 23 * line 24)  0  NP 0.00000 0 
+27 Total Income Taxes (line 25 plus line 26) $                      0    $                      0 
+        
+28 RETURN       
+ [Rate Base (page 2, line 30) * Rate of Return (page 4, line 
+29)] 
+ $                       0  NA  $                       0 
+        
+29 REVENUE REQUIREMENT (sum lines 8,12, 20, 27, 28)  $                       0    $                       0 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A - EKPC Rate 
+Formula Template 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 4 
+ 
+Attachment H-24A 
+Page 4 of 5 
+Formula Rate - Non-Levelized For the 12 months ended 12/31/20__ 
+ 
+Rate Formula Template 
+Utilizing EKPC 20__ Form FF1 Data 
+East Kentucky Power Cooperative, Inc. 
+ 
+SUPPORTING CALCULATIONS AND NOTES 
+ 
+Line 
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES  
+           
+         
+1 Total transmission plant (page 2, line 2, column 3)            0 
+2 Less transmission plant excluded from ISO rates              0 
+3 Less transmission plant included in OATT Ancillary Services See Supporting Exhibit, Page 5 of 8, Line 4, (Note K)       0 
+4 Transmission plant included in ISO Rates  (line 1 less lines 2 & 3) 
+  
+         0 
+        
+5 Percentage of transmission plant included in ISO Rates (line 4 divided by line 1)         TP= 0.00000 
+        
+ TRANSMISSION EXPENSES               
+6 Total transmission expenses (page 3, line 1, column 3) 
+  
+         0 
+7 Less transmission expenses included in OATT Ancillary 
+Services 
+Note L          0 
+8 Included transmission expenses (line 6 less line 7)            0 
+        
+9 Percentage of transmission expenses after adjustment (line 8 divided by line 6)           0.00000 
+10 Percentage of transmission plant included in ISO Rates (line 5)         TP 0.00000 
+11 Percentage of transmission expenses included in ISO Rates (line 9 times line 10)         TE= 0.00000 
+         
+  WAGES & SALARY ALLOCATOR (W&S) Form 1 Reference $ TP  Allocation     
+12   Production 354.18.b 0 0.00  0     
+13   Transmission 354.19.b 0 0.00  0     
+14   Distribution 354.20.b 0 0.00  0   W&S Allocator 
+15   Other 354.21,22,23.b 0 0.00  0   ($ / Allocation) 
+16   Total  (sum lines 12-15)   0    0 = 0.00000 
+                
+  COMMON PLANT ALLOCATOR (CE)   %    % Electric   W&S Allocator 
+17   Electric 200.3.c 0.00    (line 17 / line 
+20) 
+  (line 16) 
+18   Gas 200.3.d 0.00    0.00000 * 0.00000 
+19   Water 200.3.e 0.00          
+20   Total  (sum lines 17 - 19)                   0.00          
+         
+ RETURN (R)            $ 
+21   Long Term Interest (117, sum of 58.c through 65.c)      0 
+22   Preferred Dividends (118.29c) (positive number) 
+  
+     0 
+ Development of Cost of Capital:              
+23 Long Term Debt  (112.23c) See Supporting Exhibit, Page 7 of 8  
+  
+     $                       
+0 
+24 Proprietary Capital (112.15.c)          0 
+25 Less Account 216.1  (112.12.c)  (enter negative)          0 
+26   Total Capital (sum lines 23-25)     $                      0 
+         
+    $ %  Cost  Weighted 
+27 Long Term Debt (112.23c) Note M 0 0.00%  0.000%   0.000% 
+28 Proprietary Capital (112.15.c) Note N 0 0.00%  0.000%   0.000% 
+29 Total (sum lines 27-28)  0   R =   0.000% 
+         
+30 Effective TIER  Note O     TIER =                        
+0.00 
+         
+ REVENUE CREDITS           
+         
+ ACCOUNT 447 (BUNDLED SALES FOR RESALE)    (310-311)        
+31 a. Bundled Non-RQ Sales for Resale (311.x.k)           $                      
+0 
+32 b. Bundled Sales for Resale included in Divisor on page 1          0 
+33   Total of (a)-(b)         $                      0 
+       
+34 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY) See Supporting Exhibit, Page 6 of 8, Line 3 (Note P)       $                      
+0 
+       
+35 ACCOUNT 456.1 (OTHER ELECTRIC REVENUES)         See Supporting Exhibit, Page 6 of 8, Line 17 (Note Q)       $                      
+0 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A - EKPC Rate 
+Formula Template 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 5 
+Attachment H-24A 
+Page 5 of 5 
+Formula Rate - Non-Levelized For the 12 months ended 12/31/20__ 
+ 
+Rate Formula Template 
+Utilizing EKPC 20__ Form FF1 Data 
+East Kentucky Power Cooperative, Inc. 
+ 
+ 
+General Note: References to pages in this formulary rate are indicated as:  (page#, line#, col.#) 
+References to data from FERC Form 1 are indicated as:   #.y.x  (page, line, column) 
+Note 
+Letter 
+ 
+A The revenues credited on page 1 lines 2-5c shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for 
+service under this tariff) reflecting the Transmission Owner's integrated transmission facilities.  They do not include revenues associated with FERC annual 
+charges, gross receipts taxes, ancillary services, or facilities not included in this template (e.g., direct assignment facilities and GSUs) which are not 
+recovered under this Formulary Rate Template. 
+B Revenue from AEP Grandfathered Agreement.  See Rev Cred Support, Attachment H-24A, Supporting Exhibit, page 6 of 8, line 16 
+C Calculated in accordance with the EKPC Formulary Rate Protocols in Attachment H-24B of this Tariff.  See Appendix C 
+D EKPC 1 CP is EKPC's highest Monthly Firm Transmission System Peak Load based on the source data as described in Note 1 of Attachment H-24A, Page 8 
+of 8, plus transmission service provided for others over the EKPC transmission system, plus wheel-out to EKPC load connected to AEP/KP, Duke Ky, and 
+LGE/KU 
+See Attachment H-24A, Supporting Exhibit, Page 8 of 8 
+E EKPC 12 CP is EKPC's Monthly Firm Transmission System Peak Load based on the source data as described in Note 1 of Attachment H-24A, Page 8 of 8, 
+plus transmission service provided for others over the EKPC transmission system, plus wheel-out to EKPC load connected to AEP/KP, Duke Ky, and 
+LGE/KU 
+See Attachment H-24A, Supporting Exhibit, Page 8 of 8 
+F Identified in EKPC Form FF1 as being non-transmission related. See Attachment H-24A, Supporting Exhibit, Pg 2 of 8 
+G Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3 of 5, line 8, column 5. 
+Prepayments are the electric related prepayments booked to Account No. 165 and reported on EKPC Form FF1, Ref Pg 110, line 46. 
+H Line 5 - Remove non-safety related advertising included in Account 930.1.   See Attachment H-24A, Supporting Exhibit, Page 3 of 8, Line 3 
+Line 5a - Remove Total Regulatory Commission Expenses - See Attachment H-24A, Supporting Exhibit, Page 3 of 8, Line 4 
+ Line 5b - Add Back Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting - See Attachment H-24A, 
+Supporting Exhibit, Page 3 of 8, Line 6 
+  
+I In accordance with RUS accounting standards, EKPC allocates all payroll and property taxes to the functional account.  Labor- and plant-related taxes    are 
+already included in the appropriate transmission account. 
+J As a member-owned non-profit RUS generation and transmission cooperative, EKPC is exempt from state and from federal income taxes under 501(c)(12) 
+of Internal Revenue Code 
+K Removes dollar amount of transmission plant included in the development of OATT ancillary services rates and generation step-up facilities, which are 
+deemed to be included in OATT ancillary services.  For these purposes, generation step-up facilities are those facilities at a generator substation on which 
+there is no through-flow when the generator is shut down.  
+L Removes dollar amount of transmission expenses included in the OATT ancillary services rates, included in Account 561.  See Attachment H-24A, 
+Supporting Exhibit, Page 4 of 8. 
+M Debt cost rate = long-term interest (line 21) / long term debt (line 27).  
+N Proprietary Capital Cost calculated to achieve TIER of 1.50 
+O TIER value approved by KPSC in Case No. 2010-000167 
+P Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+Q Net of retained legacy transactions.  See Attachment H-24A, Supporting Exhibit, page 6 of 8. 
+ 
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 6 
-10) Resales:  The rates and rules governing charges and discounts stated above shall not   apply to resales of transmission service, compensation for which shall be governed by 
-section 23.1 of the Tariff.  
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A Appendix A - 
+EKPC Schedule 1A 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 1 
+Attachment H-24A 
+Appendix A 
+Page 1 of 1 
+For the 12 months ended 12/31/20__ 
+East Kentucky Power Cooperative, Inc. 
+Transmission Formula Rate Revenue Requirement 
+Utilizing EKPC 20__ Form FF1 Data 
+For Rates Effective June 1, 20__ 
  
-11) Determining the Border Yearly Charge 
-(A) Formula for Determining the Border Yearly Charge 
-(i)  Beginning with the calendar year 2020, the Border Yearly Charge shall be based on the following formula: 
-BYC = SHRR/SZPL 
-Where: 
-BYC is the Border Yearly Charge stated in dollars per kW of Reserved Capacity;  
-SHRR is the sum of the Revenue Requirements for each Transmission Owner used to determine charges for Network Integration Transmission Service either (a) 
-stated in Attachment H for a Transmission Owner or (b) determined pursuant to a formula rate set forth in Attachment H, both as adjusted in accordance with this 
-section (11)(A).  
-SZPL is the sum of each Zone’s annual peak load (in kW) plus the peak day firm reservations for Point-to-Point service at the Border of PJM (in kW) subject to the 
-charges set forth in section (1) herein (prior to any applicable discount) from the most recently completed 12-month period ending October 31. 
-(ii) Where the Revenue Requirement of a Transmission Owner is determined pursuant to a formula rate:  
-(a) the Revenue Requirement shall be increased by the amount of any revenue included in the Transmission Owner’s formula rate as credits in 
-determining the Revenue Requirement for Network Integration Transmission Service from: (i) Transmission Enhancement Charges; (ii) Firm Point-to-Point 
-Transmission Service charges under Schedule 7; or (iii) Network Integration Transmission Service to Non-Zone Network Load under Attachment H-A that are 
-included in the Transmission Owner’s formula rate as revenue credits in determining the Revenue Requirement for Network Integration Transmission Service, if 
-such credits are identified in the Transmission Owner’s formula rate annual update; and 
+Schedule 1A Rate Calculation 
  
-(b)  (I) the Revenue Requirement shall be reduced by the amount of any credit applied directly to Network Customers to offset the cost of Network 
-Integration Transmission Service, including credits to Network Customers resulting from: (i) a Network Upgrade Funding Agreement, Tariff, Attachment O-2; (ii) a 
+ 
+ 
+Line 
+No.   Source  
+Revenue 
+Requirement  
+        
+A. Schedule 1A Annual Revenue Requirements     
+ 1  Total Load Dispatch & Scheduling (Account 561) Supporting Exh, page 4 of 8, line 
+11 
+ $                       0  
+      Less allocated amount for steam production [(Line 6c/Line 6b) * Line 
+1] 
+  $                       0  
+   Total Load Dispatch & Scheduling (Account 561) excluding Steam   $                       0  
+        
+        
+ 2  Revenue Credits for Schedule 1A  Note 1  $                        -  
+        
+ 3  Net Schedule 1A Revenue Requirement for Zone   $                       0  
+        
+ 4  Less: True Up Under/(Over) Recovery for 12 months ended  12/31/20__ Note 2  $                        -  
+        
+ 5  Schedule 1A Recovery Amount for 12 Months ended    $                       0  
+        
+B. Schedule 1A Rate Calculations Note 3    
+ 6  2012 Requirements Sales for Resale Note 4  0 MWh 
+ 6a     Plus Non-requirements Sales for Resale Note 5  0  
+ 6b      Subtotal Note 6  0  
+ 6c     Less Equivalent Steam   0  
+ 6d  Net MWh   0 MWh 
+        
+        
+ 7  Schedule 1A rate $/MWh (Line 5 / Line 6) (Line 3 / Line 6)  $0.0000 $/MW
+h 
+ 
+Notes:   
+(1) Revenue received pursuant to PJM Schedule 1A revenue allocation procedures for transmission service outside of EKPC's zone during the year used to 
+calculate rates under Attachment H-24A 
+(2) Amount from Attachment H-24A, Appendix C, line 18 for stated year. 
+(3) Sourced from EKPC Form FF1, Ref Pg 401, adjusted for equivalent steam sold 
+(4) FF1, Ref Page 401, Line 23 
+(5) FF1, Ref Page 401, Line 24 
+(6) FF1, Ref Page 401, Footnote 
+ 
+ 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 7 
-State Agreement Public Policy Project subject to Tariff, Schedule 12, section (b)(xii)(B);  (iii) agreements for transmission service entered into prior to a 
-Transmission Owner signing the Consolidated Transmission Owners Agreement or any of its predecessor agreements or (iv) an entity executing an agreement by 
-which such entity is obligated to pay for some, or all, of the Revenue Requirement of Transmission Facilities for which Network Customers would otherwise be 
-responsible. (II) The Revenue Requirement for inclusion in the SHRR shall not be reduced by the amount of any credits for (i) Transmission Enhancement Charges; 
-(ii) Firm Point-to-Point Transmission Service charges under this Schedule 7; or (iii) Network Integration Transmission Service to Non-Zone Network Load under 
-Tariff, Attachment H-A. 
-(B) The Transmission Provider shall update the Border Yearly Charge annually based on the Revenue Requirements for each Transmission Owner used to 
-determine charges for Network Integration Transmission Service in effect on January 1, provided that such Revenue Requirements were approved by FERC, stated in a 
-formula rate update informational filing with FERC, or posted on the Transmission Provider’s website no later than the preceding October 31.  The Border Yearly Charge 
-so updated shall become effective as of January 1 and remain in effect for the remainder of the calendar year.  Except as provided in subsection (D) of this section (11), any 
-change to the data used to determine the Border Yearly Charge following October 31, including any change in the number or identity of Transmission Owners filing 
-Revenue Requirements for Network Integration Transmission Service under Attachment H, shall not be reflected in Border Yearly Charge until the next annual update. 
-(C) Not later than the first Business Day of December each year, the Transmission Provider shall post on the Transmission Provider’s website a “BYC Workbook” 
-that shall include (1) all of the inputs and calculations used to determine the Border Yearly Charge, (2) references to the sources of the inputs used to determine the Border 
-Yearly Charge from each Transmission Owner’s stated or formula rate filing or posting, (3) a variance report detailing all changes to the calculations, inputs, or procedures 
-used to determine the proposed Border Yearly Charge as compared to the calculations, inputs or procedures used to determine the Border Yearly Charge then in effect, and 
-(4) contact information for the submission of inquiries or comments regarding the posted BYC Workbook.  All inputs used to determine the SHRR must be taken either 
-from a stated Revenue Requirement for Network Integration Transmission Service specified in Attachment H or from an identified entry in a Transmission Owner’s 
-formula rate update either filed with the FERC or posted on the Transmission Provider’s website for the rate for Network Integration Transmission Service that will be in 
-effect on January 1.   
-(D)  Procedure for Review of and Challenge to the Border Yearly Charge Determination. 
-(i)  Review of the Border Yearly Charge Determination. 
-(a)  Within sixty (60) days of the posting of the BYC Workbook, Interested Parties, including entities with existing, requested or planned 
-transmission service reservations for service at the Border of PJM (“Border Rate Transmission Customers”), state utility regulatory commissions, consumer advocacy 
-agencies, state attorneys general, and any entity having standing under Section 206 of the Federal Power Act (“Interested Party”), may submit reasonable information 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A Appendix B - 
+EKPC RTEP 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 1 
+Attachment H-24A 
+Appendix B 
+Page 1 of 2 
+For the 12 months ended 12/31/20__ 
+ 
+ 
+Rate Formula Template 
+Utilizing Attachment H-24A 
+East Kentucky Power Cooperative, Inc. 
+RTEP - Transmission Enhancement Charges 
+To be completed in conjunction with Attachment H-24A 
+ 
+ (1)  (2)  (3)  (4) 
+        
+Line   Attachment H-24A     
+No.   Page, Line, Col.  Transmission  Allocator 
+ TRANSMISSION PLANT       
+1 Gross Transmission Plant - Total  Attachment H-24A, p 2, line 2 col 5 (Note A)  0   
+2 Net Transmission Plant - Total  Attachment H-24A, p 2, line 14 col 5 (Note B)  0   
+        
+ O&M EXPENSE       
+3 Total O&M Allocated to Transmission  Attachment H-24A, p 3, line 8 col 5  0   
+4 Annual Allocation Factor for O&M  (line 3 divided by line 1 col 3)  0.00%  0.00% 
+        
+ GENERAL AND COMMON (G&C) DEPRECIATION EXPENSE     
+5 Total G&C Depreciation Expense  Attachment H-24A, p 3, lines 10 & 11, col 5 
+(Note H) 
+ 0   
+6 Annual Allocation Factor for G&C Depreciation Expense  (line 5 divided by line 1 col 3)  0.00%  0.00% 
+        
+ TAXES OTHER THAN INCOME TAXES       
+7 Total Other Taxes  Attachment H-24A, p 3, line 20 col 5  -   
+8 Annual Allocation Factor for Other Taxes  (line 5 divided by line 1 col 3)  0.00%  0.00% 
+        
+9 Annual Allocation Factor for Expense  Sum of lines 4, 6 and 8    0.00% 
+        
+ INCOME TAXES       
+10 Total Income Taxes  Attachment H-24A, p 3, line 27 col 5  -   
+11 Annual Allocation Factor for Income Taxes  (line 10 divided by line 2 col 3)  0.00%  0.00% 
+        
+ RETURN       
+12 Return on Rate Base  Attachment H-24A, p 3, line 28 col 5  0   
+13 Annual Allocation Factor for Return on Rate Base  (line 12 divided by line 2 col 3)  0.00%  0.00% 
+        
+14 Annual Allocation Factor for Return  Sum of lines 11 and 13    0.00% 
+        
+ 
+Note  
+A Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-24A and includes any sub lines 2a or 2b etc. and is inclusive of any CWIP included in 
+rate base when authorized by FERC order. 
+B Net Transmission Plant is that identified on page 2 line 14 of Attachment H-24A and includes any sub lines 14a or 14b etc. and is inclusive of any CWIP included 
+in rate base when authorized by FERC order. 
+C Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 and includes CWIP in rate base if 
+applicable.  This value includes subsequent capital investments required to maintain the facilities to their original capabilities. 
+D Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-24A, page 3 line 12. 
+F True-Up Adjustment is included pursuant to a FERC approved methodology if applicable. 
+G The Network Upgrade Charge is the value to be used in PJM OATT Schedule 26. 
+H The Total General and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in Attachment H-
+24A Appendix B, page 2, column 9. 
+ 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 8 
-requests to the Transmission Provider regarding its selection and use of inputs and the calculations performed in calculating the Border Yearly Charge, including the 
-creation of the BYC Workbook, with respect to any adjustments made by the Transmission Provider, including adjustments made based on information provided by a 
-Transmission Owner to the Transmission Provider:  (1) to a Transmission Owner’s Revenue Requirement for Network Integration Transmission Service prior to its 
-inclusion as an input into the calculation of the SHRR for the Border Yearly Charge; (2) to the data used in determining SZPL; (3) to the Revenue Requirement of a 
-Transmission Owner in determining the Border Yearly Charge made in accordance with Section (11)(A)(ii); and (4) in response to any FERC orders approving or requiring 
-changes to, or refunds associated with, a Transmission Owner’s formula rate or resulting annual Revenue Requirement. 
-(b)  The Transmission Provider shall respond to such reasonable information requests as soon as practicable, but no later than within forty-five (45) 
-days of the receipt of the information request, unless it determines that additional time is required to respond.  The Transmission Provider shall post any information 
-requests received and its responses thereto on the Transmission Provider’s website, provided that any responsive information that has been designated by a Transmission 
-Owner as confidential pursuant to the provisions of the Operating Agreement or Consolidated Transmission Owners Agreement shall not be posted and shall be handled 
-solely in accordance with such provisions.  An Interested Party may request a meeting with the Transmission Provider and any interested Transmission Owner to discuss 
-any response to an information request or any dispute regarding the calculation of the Border Yearly Charge annual update. The Transmission Provider and any interested 
-Transmission Owner shall exercise good faith in responding to an Interested Party’s meeting request and shall not unreasonably deny or delay such meeting in a manner 
-that prejudices an Interested Party’s opportunity to timely review the Border Yearly Charge annual update. 
-(c)  At any time after posting of the BYC Workbook, but before a challenge pursuant to section (11)(D)(ii) (“Challenge”) is filed, at the request of an 
-Interested Party, the Transmission Provider will be required to meet with the Interested Party within ten (10) Business Days of such request in an attempt to resolve any 
-dispute regarding the calculation of the Border Yearly Charge raised by the Interested Party in its meeting request. If the dispute relates to information from one or more 
-Transmission Owners’ Tariff, Attachment H stated or formula rate or Zonal peak load determination, the relevant Transmission Owner(s) will be notified by the 
-Transmission Provider of the dispute and will be permitted to attend the meeting. 
-(d)  If it is determined that the Border Yearly Charge is based on an incorrect input or calculation or FERC directs that a Transmission Owner’s 
-Revenue Requirement, upon which the Border Yearly Charge is based, be changed and implemented as a change to the Transmission Owner’s rate for Network Integration 
-Transmission Service at a time other than provided for in the Transmission Owner’s formula rate protocols (“Changed Revenue Requirement”), the Transmission Provider 
-shall change the   Border Yearly Charge as necessary to account for such Changed Revenue Requirement and post on the Transmission Provider’s website a revised BYC 
-Workbook documenting the changes to the Border Yearly Charge to incorporate the correction or change. The correction to the Border Yearly Charge shall take effect no 
-later than the first day of the month that begins 30 days after a correction is posted by the Transmission Provider or, if the correction or Changed Revenue Requirement 
-results from a FERC order, on a schedule consistent with that order. Subject to the notice of correction described above, to the extent permitted by Tariff, Part I, section 
-10.4, PJM Settlement, on behalf of itself or as agent for the Transmission Provider, shall adjust the charges to Border Rate Transmission Customers with respect to any 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A Appendix B - 
+EKPC RTEP 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 2 
+ Attachment H-24A 
+Appendix B 
+Page 2 of 2 
+ 
+For the 12 months ended 12/31/20__ 
+ 
+ 
+East Kentucky Power Cooperative, Inc. 
+RTEP - Transmission Enhancement Charges 
+ 
+Network Upgrade Charge Calculation By Project 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 
+Line 
+No. 
+Project 
+Name 
+RTEP 
+Project 
+Number 
+Project 
+Gross 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Expense 
+Annual 
+Expense 
+Charge 
+Project 
+Net Plant 
+Annual 
+Allocation 
+Factor for 
+Return 
+Annual 
+Return 
+Charge 
+Project 
+Depreciation 
+Expense 
+Annual 
+Revenue 
+Requirement 
+True-Up 
+Adjustment 
+Network 
+Upgrade 
+Charge 
+   (Note C) 
+(Page 
+1 line 7) 
+(Col. 3 * 
+Col. 4) (Note D) 
+(Page 1 
+line 12) 
+(Col. 6 * 
+Col. 7) (Note E) 
+(Sum Col. 5, 
+8 & 9) (Note F) 
+Sum Col. 10 
+& 11 
+(Note G) 
+                  
+1a   $           -    0.00% $0.00  $        -    0.00% $0.00 $0 $0.00  $              -    $0.00 
+1b   $           -    0.00% $0.00  $        -    0.00% $0.00 $0 $0.00  $              -    $0.00 
+1c   $           -    0.00% $0.00  $        -    0.00% $0.00 $0 $0.00  $              -    $0.00 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+2 Annual Totals        $0 $0 $0 
+             
+3 RTEP Transmission Enhancement Charges for Attachment H-24A, Page 1, Line 5c    $0 
+             
+ 
+Note Letter 
+A Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-24A and includes any sub lines 2a or 2b etc. and is inclusive of any CWIP included in 
+rate base when authorized by FERC order. 
+B Net Transmission Plant is that identified on page 2 line 14 of Attachment H-24A and includes any sub lines 14a or 14b etc. and is inclusive of any CWIP included 
+in rate base when authorized by FERC order. 
+C Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 and includes CWIP in rate base if 
+applicable.  This value includes subsequent capital investments required to maintain the facilities to their original capabilities. 
+D Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation. 
+E Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-24A, page 3 line 12. 
+F True-Up Adjustment is included pursuant to a FERC approved methodology if applicable. 
+G The Network Upgrade Charge is the value to be used in Schedule 26. 
+H The Total General and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in page 2 column 
+9. 
+ 
+ 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 9 
-month prior to the effective date of the Changed Revenue Requirement being reflected in the Border Yearly Charge that is affected by the correction or Changed Revenue 
-Requirement and refund or credit any amount paid in excess of the corrected Border Yearly Charge. Any correction under this subsection (D) shall be limited to any 
-Changed Revenue Requirement and the Transmission Provider’s selection and use of Border Yearly Charge inputs and the calculations necessary to determine the Border 
-Yearly Charge. This section does not apply to a FERC order that changes a Transmission Owner’s Revenue Requirement that is implemented through a true-up mechanism. 
-(e) If FERC issues an order directing or approving refunds associated with a Transmission Owner’s Revenue Requirement that previously was, or 
-currently is, incorporated into the SHRR to be paid to Network Integration Transmission Service customers, Border Rate Transmission Customers shall also receive a 
-refund, to the extent that the changes in a Transmission Owner’s Revenue Requirement upon which such refund is based affects the calculation of the Border Yearly 
-Charge. 
-(f)  Nothing in section (11) shall authorize an inquiry into the data or information filed or posted by a Transmission Owner as part of its transmission 
-rate protocols pursuant to Tariff, Attachment H, or shall affect the rights that any Border Rate Transmission Customer may have under said protocols. 
-(ii)  Challenge to the Border Yearly Charge Determination. 
-(a)  An Interested Party may file with FERC a Challenge to the annual update of the Border Yearly Charge within  ninety (90) days of the posting of 
-the BYC Workbook or thirty (30) days of receiving a response to any information request it submitted under subsection (11)(D)(i)(a), whichever is later.  Any such 
-Challenge shall be served on Transmission Provider and each Transmission Owner with Revenue Requirements included in the BYC Workbook. 
-(b)  A Challenge must specify and include adequate supporting documentation, detailing how the Transmission Provider’s selection of inputs to or 
-calculation of the Border Yearly Charge fails to comply with the provisions of this Schedule 7, section (11), identifying any input data or other BYC Workbook entry that is 
-alleged to be missing or inaccurate or the Border Yearly Charge calculations alleged to be performed incorrectly. 
-(c)  A Challenge must be limited to the Transmission Provider’s selection and use of Border Yearly Charge inputs and the calculations necessary to 
-determine the Border Yearly Charge and may not seek to modify Tariff, Schedules 7 and 8 or Attachment H-A or question the data or information filed or posted by a 
-Transmission Owner pursuant to Tariff, Attachment H.  
-(d)  The Transmission Provider and each Transmission Owner with Revenue Requirements included in the BYC Workbook shall have thirty (30) 
-days to answer a Challenge. 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A 
+Appendix C - EKPC True-up 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 1 
+Attachment H-24A 
+Appendix C 
+ Page1 of 2 
+For the 12 months ended 12/31/20__ 
+ 
+ 
+Rate Formula Template 
+Utilizing Attachment H-24A 
+ 
+East Kentucky Power Cooperative, Inc. 
+Calculation of Prior Year Transmission Revenue Requirement True-up Adjustment 
+To be completed in conjunction with Attachment H-24A 
+ 
+Line 
+No. (1)  (2) 
+    
+ Reconciliation Adjustment for Transmission Revenue Requirements   
+    
+1 Actual Transmission Revenue Requirement for 12 Months Ended 12/31/20__ including 
+True Up for 12 months ended 12/31/20__ (1) 
+ 
+$                              -    
+2 Less: True Up Under/(Over) Recovery Adjustment for EKPC Appendix H-24A for 12 
+months ended 12/31/20__ (2) 
+ 
+$                              -    
+3 Transmission revenue requirements for the 12 months ended12/31/20__                (Line 1 - Line 2 ) $                              -    
+4 Less: Actual Transmission Revenue Collected for 12 months Ended 12/31/20__(3)  $                              -    
+5 True-Up Principal Under(Over) Recovery before Interest                                          (Line 3 - Line 4) $                              -    
+6  Monthly Interest Rate--Final FERC rate (4)  0.000% 
+7 Number of Months being Trued Up   0 
+8 Interest                                                                                                         (Line 5 x Line 6 x Line 
+7) 
+ $                              -    
+9 True Up Principal & Interest Under(Over) Recovery--Preliminary  (5)                    (Line 9 + Line 15)  $                              -    
+    
+Notes:  
+(1) Revenue requirement from Page 1 of 5, line 7 of Attachment H-24A  for the referenced year. 
+(2) EKPC Attachment H-24A, page 1 of 5, Line 6a for the referenced recovery year 
+(3) Revenue received under PJM Tariff Schedules 7 and 8 under Attachment H-24A for the referenced year. 
+(4) See: https://www.ferc.gov/interest-calculation-rates-and-methodology for the appropriate Month 
+(5) Goes to  Attachment H-24A  , page 1 of 5, line 6a 
+ 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 10 
-(e)  In any proceeding before the FERC in response to a Challenge, the Transmission Provider shall bear the burden, consistent with Section 205 of 
-the FPA, of demonstrating that it has correctly applied the terms of this Schedule 7, section (11). 
-(E) When the Transmission Provider posts on its website a Border Yearly Charge annual update under subsection (C) or correction under subsection (D) of this 
-section (11), it shall also make an informational filing with the FERC that includes such posting. 
-(F) A Transmission Customer taking Point-to-Point Transmission Service at the Border of PJM under this Schedule 7, including any discounted service pursuant to 
-Section (3), is relieved from, and shall not be separately allocated or assigned Transmission Enhancement Charges under Schedule 12 §(c)(5) on the basis of its reservation 
-of Firm Point-to-Point Transmission Service at the Border of PJM.  Payment of the charges set forth in this Schedule does not relieve the responsibility of a Transmission 
-Customer or Merchant Transmission Facility to pay Transmission Enhancement Charges assigned to such Merchant Transmission Facility, other than pursuant to Tariff, 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A 
+Appendix C - EKPC True-up 
+Effective Date: 6/1/2025 - Docket #: ER25-1392-000 - Page 2 
+Attachment H-24A 
+Appendix C 
+ Page 2 of 2 
+For the 12 months ended 12/31/20__ 
+ 
+ 
+Rate Formula Template 
+Utilizing Attachment H-24A 
+ 
+East Kentucky Power Cooperative, Inc. 
+Calculation of Prior Year Transmission Revenue Requirement True-up Adjustment 
+To be completed in conjunction with Attachment H-24A 
+ 
+ 
+ 
+Line No. (1)  (2) 
+    
+ Reconciliation Adjustment for Schedule 1A Charges   
+10 Actual Schedule 1A Costs for 12 Months Ended 12/31/20__ including True Up for 12 
+months ended 12/31/20__ (6) 
+ 
+ $                                -    
+11 Less: True Up Under/(Over) Recovery Adjustment for EKPC Sch. 1A for 12 months 
+ended 12/31/20__ (7) 
+ 
+ $                                -    
+12 True-Up Principal Under(Over) Recovery before Interest  (Line 10 - Line 11 ) $0.00 
+13 Less: Actual Sch. 1A Revenue Collected for 12 months Ended 12/31/20__ (8)  $0.00 
+14 True-Up Principal Under(Over) Recovery before Interest  (Line 12 - Line 13)  $                                -    
+15 Monthly Interest Rate--Final FERC rate (9)  0.000% 
+16 Number of Months being Trued Up                                  0 
+17 Interest  (Line 5 x Line 6 x Line 
+7) 
+ $                                -    
+18 True Up Principal & Interest Under(Over) Recovery--Preliminary  (10) (Line 9 + Line 15)  $                                -    
+ 
+Notes:  
+(6) Revenue requirement calculated using EKCP Attachment H-24A,  Appendix A and actual cost information for the referenced year. 
+(7) EKPC Attachment H-24A, Appendix A, Line 6a for the referenced recovery year. 
+(8) Revenue received from PJM under PJM Tariff Schedules 7 and 8 for the EKPC Zone under Attachment H-24A for the referenced year. 
+(9) See: https://www.ferc.gov/interest-calculation-rates-and-methodology for the appropriate Month 
+10) Goes to Attachment H-24A, Appendix A, line 4. 
+ 
+                  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-24A 
+Appendix D - EKPC Depreciation Rates 
+Effective Date: 6/1/2022 - Docket #: ER22-2163-000 - Page 1 
+ Attachment H-24A 
+ Appendix D 
+East Kentucky Power Cooperative, Inc. 
+Depreciation Rates 
+Rates effective for year ending December 31, 2021 
+ 
+     
+Line 
+No. 
+FERC 
+Account 
+Number 
+Company 
+Account 
+Number Description 
+Actual 
+Accrual 
+Rates  
+(A) (B) (C) (D)         
+Transmission Plant (1) % 
+     
+1 350 350010 Rights of Way (No depr on land) - 
+2 353 353000 Station Equipment 2.180 
+3 353 353010 Station Equipment - ECS 6.310 
+4 354 354000 Towers and Fixtures - Trans Plant 1.660 
+5 355 355000 Poles & Fixtures 2.820 
+6 356 356000 Overhead Conductors & Devices 2.900 
+7 359 359000 Roads and Trails - Trans Plant 1.920                   
+General and Intangible Plant 
+ 
+     
+8 303 303000 Miscellaneous Intangible Plant 11.420 
+9 390 390000 Structures and Improvements - General Plant 0.990 
+10 391 391000 Office Furn & Equip - Gen Plant 5.000 
+11 391 391001 Office Furn & Equip - Peoplesoft 6.670 
+12 392 392000 Transportation Equipment 5.840 
+13 393 393000 Stores Equipment 4.000 
+14 394 394000 Tools, Shop & Garage Equipment 5.000 
+15 395 395000 Lab Equipment - General Plant 5.000 
+16 396 396000 Power Operated Equip - Gen Plant 2.020 
+17 397 397000 Communication Equipment - General Plant 6.670 
+18 397 397000 Communication Bldgs & Towers 6.670 
+19 397 397001 Communication Eq - ECS - General Plant 6.670 
+20 398 398000 Misc Equip - General Plant 5.000 
+ 
+NOTES:  
+(1) Depreciation Rates approved in KPSC Case No. 2021-00103. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-24B - EKPC Implementation Protocols 
+Effective Date: 6/1/2013 - Docket #: ER13-1177-000 - Page 1 
+ATTACHMENT H-24B 
+EKPC FORMULA RATE IMPLEMENTATION PROTOCOLS1 
+DEFINITIONS 
+“Annual Transmission Revenue Requirements” means the result produced by populating the 
+Formula Rate Template with data as provided by the Formula Rate.  
+“Annual Update” means the posting and informational filing submitted by EKPC on or before 
+May15 of each year that sets forth the EKPC Cost of Service (“COS”) for the subsequent Rate 
+Year. 
+“Discovery Period” means the period after each annual Publication Date to serve information 
+requests on EKPC as provided in these Protocols.  
+“First Rate Year” means the period that begins on June 1, 2013, and ends on May 31, 2014.  
+“Formal Challenge” means a challenge to an Annual Update submitted to the Federal Energy 
+Regulatory Commission (“Commission”) as provided in these Protocols.  
+“Formula Rate” means these Formula Rate Implementation Protocols (to be included as 
+Attachment H-24B of the PJM Interconnection, L.L.C. (“PJM”), FERC Electric Tariff (“PJM 
+Tariff”)) and the Formula Rate Template. 
+“Formula Rate Template” means the collection of formulae and worksheets, unpopulated with 
+any data, to be included as Attachment H-24A of the PJM Tariff. 
+“Preliminary Challenge” means a written challenge to the Annual Update submitted to EKPC as 
+provided in these Protocols. 
+“Protocols” means these Formula Rate Implementation Protocols (to be included as Attachment 
+H-24B of the PJM Tariff). 
+“Publication Date” means the date on which the Annual Update is posted. 
+“Rate Year” means the twelve consecutive month period that begins on June 1 and continues 
+through May 31 of the subsequent calendar year. 
+“Review Period” means the period during which Interested Parties may review the calculations 
+in the Annual Update. 
+---------- 
+1East Kentucky Power Cooperative, Inc (“EKPC”) is an electric cooperative with outstanding debt from the United 
+States Rural Utilities Service, and is not a FERC-jurisdictional public utility as that term is used in the Federal 
+Power Act, 18 U.S.C. 824(f). In submitting and complying with these procedures and the formula rate, EKPC is not 
+waiving its non-jurisdictional status and is not submitting to the FERC’s jurisdiction except to the extent that the 
+Commission by law has jurisdiction to review EKPC’s rates by virtue of EKPC’s participation in PJM. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-24B - EKPC Implementation Protocols 
+Effective Date: 6/1/2013 - Docket #: ER13-1177-000 - Page 2 
+SECTION 1 Annual Updates 
+a. Beginning with the First Rate Year and for each Rate Year thereafter, the Annual 
+Transmission Revenue Requirement calculated in accordance with Attachment H-24A 
+and the Network Integration Transmission Service and Point-to-Point rates derived from 
+Attachment H-24A shall be applicable to transmission services provided by PJM for the 
+EKPC transmission pricing zone during the Rate Year. 
+b.   On or before April 30 of each year, EKPC shall recalculate its Annual Transmission 
+Revenue Requirement, producing the “Annual Update” for the upcoming Rate Year. 
+EKPC shall: 
+(i) Arrange for PJM to post such Annual Update on PJM’s Internet website (via a 
+link to the Transmission Services page or a similar successor page) as both a .pdf 
+(Portable Document Format) document and a fully-functioning Excel file; 
+ (ii) Provide contact information for inquiries concerning the Annual Update; 
+(iii) Send an email or other similar electronic communication to all parties affected by 
+the Annual Update or which have previously requested such notification through 
+procedures to be established by EKPC, informing the recipients that the Annual 
+Update is available and providing the Uniform Resource Locator or other similar 
+identifying location information from which the Annual Update can be obtained. 
+c. If the date for making the Annual Update posting should fall on a weekend or a holiday 
+recognized by the Commission, then the posting shall be due on the next business day. 
+d. The date on which the Annual Update is posted shall be that year’s Publication Date. 
+e. Within two business days of the Publication Date, EKPC shall arrange for PJM to 
+provide notice on PJM’s Internet website (via a link to the Transmission Services page or 
+a similar successor page) of the time, date and location of an open meeting among 
+interested parties (“Annual Meeting”).  This Annual Meeting shall (i) permit EKPC to 
+explain and clarify its Annual Update and (ii) provide interested parties an opportunity to 
+seek information and clarifications from EKPC about the Annual Update. The Annual 
+Meeting shall take place no sooner than ten (10) days after posting of the notice and no 
+later than thirty (30) days after the Publication Date. 
+f. Inputs to the Formula Rate are based on EKPC’s financial records and supporting work 
+papers, which reflect: 
+(i) The RUS’s Uniform System of Accounts, and 
+(ii) Applicable EKPC Form FF1 2 as each exists as of the later of the date of EKPC’s 
+initial filing of the Formula Rate or the last day of the calendar year immediately 
+preceding the effective date of the most recent revision to the Formula Rate. 
+2 EKPC is not a Public Utility as that term is used under the Federal Power Act and is therefore does not prepare or 
+file a FERC Form No. 1 with the Commission. However, EKPC annually prepares a report on its finances and 
+expenses containing information that matches that required for the FERC Form No. 1 and files that document with 
+the Kentucky Public Service Commission. That document is designated as the EKPC Form FF1. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-24B - EKPC Implementation Protocols 
+Effective Date: 6/1/2013 - Docket #: ER13-1177-000 - Page 3 
+ 
+g.  The Annual Update for the Rate Year: 
+(i) Shall, to the extent specified in the Formula Rate, be based upon the EKPC Form 
+FF1 data for the most recent calendar year, and to the extent specified in the 
+Formula Rate, be based upon the books and records of EKPC consistent with 
+Section 1.f above; 
+(ii) Shall, to the extent specified in the Formula Rate, provide the Formula Rate 
+calculations and all inputs thereto, as well as support for data not otherwise 
+available in the EKPC Form FF1 that are used in the Formula Rate; 
+(iii)  Shall describe material changes, if any, in EKPC’s accounting policies, practices 
+and procedures from those in effect for the calendar year upon which the 
+immediately preceding Annual Update was based that could or do materially 
+affect the charges under the Formula Rate; 
+(iv) Shall be subject to challenge and review in accordance with the procedures set 
+forth in this Attachment H-24B as to the appropriateness of the input data and the 
+application of the Formula Rate according to its terms and the procedures in this 
+Attachment H-24B; 
+(v) Except as provided for in Section 1.j below, shall not seek to modify the Formula 
+Rate and shall not be subject to challenge by anyone for the purpose of modifying 
+the Formula Rate (i.e., all such modifications to the Formula Rate will require a 
+filing with the FERC). 
+h.  Formula Rate inputs for the Times Interest Earned Rate (TIER) and depreciation rates 
+shall be stated values until changed pursuant to a filing made effective by the 
+Commission.  
+ 
+SECTION 2 Annual Review Procedures 
+Each Annual Update shall be subject to the following Annual Review Procedures: 
+a.  Interested parties shall have up to one hundred fifty (150) days after the Publication Date 
+to review the inputs, supporting explanations, allocations and calculations (“Review 
+Period”) and to notify EKPC in writing, which notification may be made electronically, 
+of any specific challenges.  
+b. Interested Parties shall have up to one hundred twenty (120) days after each annual 
+Publication Date to serve reasonable information requests on EKPC.  Such information 
+requests shall be limited to what is necessary to determine if EKPC has properly applied 
+the Formula Rate and the procedures of this Attachment H-24B Formula. 
+c. EKPC shall make a good faith effort to respond to information requests pertaining to the 
+Annual Update within fifteen (15) business days of receipt of such requests. 
+d. Preliminary Challenges shall be subject to the resolution procedures and limitations in 
+Section 3.  Formal Challenges shall be filed pursuant to these Protocols and shall include 
+the information required under 18 C.F.R. § 385.206 (b) (1), (2), (3), (4), and (7). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-24B - EKPC Implementation Protocols 
+Effective Date: 6/1/2013 - Docket #: ER13-1177-000 - Page 4 
+e. Preliminary or Formal Challenges related to material changes are not intended to serve as 
+a means of pursuing other objections to the Formula Rate.  Failure to make a Preliminary 
+Challenge or Formal Challenge with respect to an Annual Update shall preclude use of 
+these procedures with respect to that Annual Update but shall not preclude a subsequent 
+Preliminary Challenge or Formal Challenge related to a subsequent Annual Update to the 
+extent such Challenge affects the subsequent Annual Update. 
+SECTION 3 Resolution of Challenges 
+a.  If EKPC and any interested party(ies) have not resolved any Preliminary Challenge to the 
+Annual Update within twenty-one (21) days after the Review Period, an interested party 
+shall have an additional twenty-one (21) days (unless such period is extended with the 
+written consent of EKPC to continue efforts to resolve the Preliminary Challenge) to 
+make a Formal Challenge with the Commission, which shall be served on EKPC by 
+electronic service on the date of such filing. 
+ b. In any proceeding initiated by the Commission concerning the Annual Update or in 
+response to a Formal Challenge, EKPC shall bear the burden of proving that it has 
+correctly applied the terms of the Formula Rate.  
+ c. Each Annual Update shall become final as to the Annual Transmission Revenue 
+Requirement calculated for the Rate Year for which the Annual Update was calculated 
+and no longer subject to challenge pursuant to these Protocols on the later to occur of (i) 
+passage of the twenty-one (21) day period (or extended period, if applicable) for making 
+a Formal Challenge if no such challenge has been made and the Commission has not 
+initiated a proceeding to consider the Annual Update, or (ii) a final Commission order 
+issued in response to a Formal Challenge or a proceeding initiated by the Commission to 
+consider the Annual Update. 
+ d. Except as specifically provided herein, nothing shall be deemed to limit in any way the 
+right of EKPC to unilaterally file changes to the Formula Rate or any of its inputs 
+(including, but not limited to, TIER or a replacement for TIER, transmission depreciation 
+rates and transmission incentive rate treatment), or to replace the Formula Rate with a 
+stated rate, or the right of any other party to request such changes pursuant to Section 206 
+of the Federal Power Act and the regulations thereunder.  These Protocols in no way limit 
+the rights of EKPC or any Interested Party to initiate a proceeding at the Commission at 
+any time with respect to the Formula Rate or any Annual Update consistent with the 
+party’s full rights under the FPA. 
+SECTION 4 Changes to Annual Informational Filings 
+a. Notice. If any changes are required to be made to the Annual Update, whether because of 
+changes made under these Protocols, due to revisions made to a prior year’s EKPC Form 
+FF1, or input data used for a Rate Year or calendar year that would have affected the 
+Annual Update for that Rate Year or calendar year, or as the result of any Commission 
+proceeding to consider a prior year’s Annual Update, EKPC shall promptly notify the 
+interested parties and provide a copy of the revised Annual Update to PJM for posting on 
+the PJM’s web site.  
+b.  Necessary Changes When Made.  Except as provided for below in Section 4.c, any 
+corrections or revisions to the inputs and resulting rates that are required as a result of a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-24B - EKPC Implementation Protocols 
+Effective Date: 6/1/2013 - Docket #: ER13-1177-000 - Page 5 
+change reported in Section 4.a shall be reflected in the next Annual Update, including any 
+resulting refunds or surcharges for corrected past charges which shall be made with 
+interest. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-25 - Rochelle Municipal Utilities 
+Effective Date: 5/28/2020 - Docket #: ER20-1707-000 - Page 1 
+ 
+ 

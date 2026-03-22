@@ -1,0 +1,2185 @@
+[ATTACHMENT H-7 - Part 1 of 3]
+
+ATTACHMENT H-7 
+ 
+Annual Transmission Rates -- PECO Energy Company 
+for Network Integration Transmission Service 
+ 
+1. The annual transmission revenue requirement and the rate for Network Integration 
+Transmission Service are equal to the results of the formula shown in Attachment H-7A 
+posted on the PJM Internet site, which reflects the facilities recorded in FERC Form 1, as 
+transmission for PECO Energy Company and its subsidiaries. The rate determined 
+pursuant to Attachment H-7A shall be implemented pursuant to the Formula Rate 
+Implementation Protocols set forth in Attachment H-7C.  In addition, each Network 
+Customer that serves one or more end-use customers taking distribution service from 
+PECO Energy Company under its applicable tariff on file with the Pennsylvania Public 
+Utility Commission shall pay the Monthly Deferred Tax Adjustment Charge shown in 
+Attachment H-7B.  Service utilizing other facilities will be provided at rates determined 
+on a case-by-case basis. 
+2. The rates in (1) shall be effective until amended by the Transmission Owner(s) within the 
+Zone or modified by the Commission. 
+3. In addition to the rates set forth in paragraph 1 above, the Network Customer purchasing 
+Network Integration Transmission Service shall pay for transmission congestion charges, 
+in accordance with the provisions of the Tariff, and any amounts necessary to reimburse 
+the Transmission Owners for any amounts payable by them as sales, excise, “Btu,” 
+carbon, value-added or similar taxes (other than taxes based upon or measured by net 
+income) with respect to the amounts payable pursuant to the Tariff. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+ 
+ 
+ (1) (2) (3)  (4)  (5) 
+Line 
+No. 
+       Allocated Amount 
+1 GROSS REVENUE REQUIREMENT (page 3, line 48)      #DIV/0! 
+2a Additional Annual Refund (from 2018 to 2021)  Attachment 1, line 17, col 15a       
+   Total  Allocator   
+2 REVENUE CREDITS  Attachment 5A, line 15 #DIV/0!  TP 0.00%  #DIV/0! 
+         
+3 NET REVENUE REQUIREMENT (line 1 minus lines 2 and 2a)      #DIV/0! 
+         
+4 REGIONAL NET REVENUE REQUIREMENT Attachment 1, line 18, col. 14 - Attachment 1, line 17a, col. 14      #DIV/0!- 
+5 Regional True-up Adjustment with Interest Attachment 1, line 18, col. 15 - Attachment 1, line 17a, col. 15      - 
+6 REGIONAL NET REVENUE REQUIREMENT with TRUE-UP Attachment 1, line 18, col. 16 - Attachment 1, line 17a, col. 16      #DIV/0! 
+         
+7 ZONAL NET REVENUE REQUIREMENT Attachment 1, line 17a, col. 14 less line 2      #DIV/0! 
+8 Zonal True-up Adjustment with Interest Attachment 1, line 17a, col. 15      - 
+9 ZONAL NET REVENUE REQUIREMENT with TRUE-UP Line 7 + Line 8      #DIV/0! 
+         
+10 Competitive Bid Concessions Attachment 1, line 18, col. 13      - 
+         
+11 Zonal Load 1 CP from PJM in MW       
+         
+12 Network Integration Transmission Service rate for PECO Zone  (line 9/11)      #DIV/0! 
+  
+Attachment H-7 
+Formula Rate - Non-Levelized 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+PECO Energy Company 
+page 1 of 5 
+For the 12 months ended 12/31/2024 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ 
+ (1) (2) (3)  (4)  (5) 
+Line 
+No 
+ 
+RATE BASE: 
+ 
+Source 
+ 
+Company Total 
+ Allocator  Transmission 
+(Col 3 times Col 4) 
+ GROSS PLANT IN SERVICE   (Notes U and R)        
+1   Production  205.46.g for end of year, records for other months   NA   - 
+2   Transmission Attachment 4, Line 14, Col. (b) -  TP 0.00%  - 
+3 
+3a 
+  Distribution 
+  Energy Storage  
+207.75.g for end of year, records for other months 
+204-207.84.13g for end of year, records for other months 
+ 
+ 
+ NA 
+NA 
+0.00% 
+0.00% 
+ - 
+- 
+4   General Attachment 4, Line 14, Col. (c) -  W/S 0.00%  - 
+5   Intangible Attachment 4D, Line 19, Col. (s) and Line 21, Col. (s) #DIV/0!  DA   #DIV/0! 
+6   Common Attachment 4, Line 14, Col. (d) -  W/S 0.00%  - 
+7   Costs To Achieve  (enter negative) Attach. 4E, Line 25, Col. (x) -  W/S 0.00%  - 
+8 TOTAL GROSS PLANT (Sum of Lines 1 through 7) #DIV/0!  GP= #DIV/0!  #DIV/0! 
+         
+9 ACCUMULATED DEPRECIATION  (Notes U and R)        
+10   Production  219.20-24.c for end of year, records for other months   NA   - 
+11   Transmission Attachment 8, Page 3, Line 10, Col. (E) -  TP #DIV/0!  - 
+12 
+12a 
+  Distribution 
+  Energy Storage  
+219.26.c for end of year, records for other months 
+219.27.1c for end of year, records for other months 
+ 
+ 
+ NA 
+NA 
+#DIV/0! 
+0.00% 
+ - 
+- 
+13   General Attachment 8, Page 3, Line 11, Col. (E) -  W/S #DIV/0!  - 
+14   Intangible Attachment 8, Page 3, Line 16, Col. (E) and Col. (G) #DIV/0!  DA   #DIV/0! 
+15   Common Attachment 8, Page 3, Line 12, Col. (E) -  W/S #DIV/0!  - 
+16   Costs To Achieve  (enter negative) Attach. 4E, Line 39, Col. (x) -  W/S #DIV/0!  - 
+17 TOTAL ACCUM. DEPRECIATION  (Sum of Lines 10 through 16) #DIV/0!     #DIV/0! 
+          
+18 NET PLANT IN SERVICE        
+19   Production  (line 1 minus line 10) -     - 
+20   Transmission (line 2 minus line 11) -     - 
+21 
+21a 
+  Distribution 
+  Energy Storage  
+(line 3 minus line 12) 
+(line 3a minus line 12a) 
+- 
+- 
+    - 
+- 
+22   General (line 4 minus line 13) -     - 
+23   Intangible (line 5 minus line 14) #DIV/0!     #DIV/0! 
+24   Common (line 6 minus line 15) -     - 
+25   Costs To Achieve  (line 7 minus line 16) -     - 
+26 TOTAL NET PLANT (Sum of Lines 19 through 25) #DIV/0!  NP= #DIV/0!  #DIV/0! 
+         
+27 ADJUSTMENTS TO RATE BASE  (Note R)        
+28   Account No. 281 (enter negative) Attachment 4, Line 28, Col. (d) (Notes B and X) Zero  NA zero  - 
+29   Account No. 282 (enter negative) Attachment 4A, Line 28, Col. (e) (Notes B and X) -  TP 100.00%  - 
+30   Account No. 283 (enter negative) Attachment 4A, Line 28, Col. (f) (Notes B and X) -  TP 100.00%  - 
+31   Account No. 190  Attachment 4A, Line 28, Col. (g) (Notes B and X) -  TP 100.00%  - 
+31a   Unamortized EDIT Balance - Protected Property (enter negative) Attachment 9 - EDIT, Line 22, Col. (o) -  TP 100.00%  - 
+31b   Unamortized EDIT Balance - Non-Protected Property (enter negative) Attachment 9 - EDIT, Line 23, Col. (o) -  TP 100.00%  - 
+31c   Unamortized EDIT Balance - Non-Protected, Non-Property (enter negative) Attachment 9 - EDIT, Line 26, Col. (o) -  TP 100.00%  - 
+32   Account No. 255 (enter negative) Attachment 4, Line 28, Col. (h) (Notes B and X) -  TP 100.00%  - 
+33   Unfunded Reserves (enter negative) Attachment 4, Line 31, Col. (h)  (Note Y) -  DA 100.00%  - 
+34   CWIP Attachment 4, Line 14, Col. (e) -  DA 100.00%  - 
+35   Pension Asset Attachment 4, Line 28, Col. (i) -  DA 100.00%  - 
+36   Unamortized Regulatory Asset  Attachment 4, Line 28, Col. (b) (Note T) -  DA 100.00%  - 
+37   Unamortized Abandoned Plant   Attachment 4, Line 28, Col. (c) (Note S) -  DA 100.00%  - 
+38   Outstanding Network Credits From PJM -  DA 100.00%  - 
+39   Less Accum. Deprec. associated with Facilities with Outstanding Network Credits From PJM -  DA 100.00%  - 
+40 TOTAL ADJUSTMENTS  (Sum of Lines 28 through 39) -     - 
+         
+41 LAND HELD FOR FUTURE USE   Attachment 4, Line 14, Col. (f) (Note C) -  TP 0.00%  - 
+         
+42 WORKING CAPITAL  (Note D)       
+43   CWC  1/8*(Page 3, Line 12 minus Page 3, Line 7) #DIV/0!     #DIV/0! 
+44   Materials & Supplies Attachment 4, Line 14, Col. (g) -  TP 0.00%  - 
+45   Prepayments (Account 165) Attachment 4, Line 14, Col. (h) -  DA 100.00%  - 
+46 TOTAL WORKING CAPITAL   (Sum of Lines 43 through 45) #DIV/0!     #DIV/0! 
+Formula Rate - Non-Levelized Rate Formula Template 
+Utilizing FERC Form 1 Data 
+PECO Energy Company 
+page 2 of 5 
+For the 12 months ended 12/31/2024 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 3 
+         
+47 RATE BASE  (Sum of Lines 26, 40, 41 & 46) -#DIV/0!     -#DIV/0! 
+ (1) (2) (3)  (4)  (5) 
+Line 
+No. 
+ Source Company Total  Allocator  Transmission 
+(Col 3 times Col 4) 
+ O&M        
+1   Transmission  Attachment 5, Line 1, Col. (a) -  TP 0.00%  - 
+2      Less Account 566 (Misc Trans Expense) (enter negative) Attachment 5, Line 1, Col. (b)  -  TP 0.00%  - 
+3      Less Account 565 (enter negative) Attachment 5, Line 1, Col. (c) -  TP 0.00%  - 
+4      Less Accounts 561.4 and 561.8 (enter negative) Attachment 5, Line 1, Col. (d)  -  TP 100.00%  - 
+5   A&G Attachment 5B, Line 15, Col. (a) and Line 18, Col. (e)    -  DA   #DIV/0! 
+6    Account 566        
+7    Amortization of Regulatory Asset (Note T) Attachment 5, Line 1, Col. (e) -  DA 100.00%  - 
+8    Miscellaneous Transmission Expense (less amortization of regulatory asset) Attachment 5, Line 1, Col .(f) -  TP 0.00%  - 
+9 Total Account 566 (Line 7 plus Line 8) Ties to 321.97.b -     - 
+10    PBOP Adjustment Attachment 7, line 3, Col. (d) #DIV/0!  W/S 0.00%  #DIV/0! 
+11 Less O&M Cost to Achieve Included in O&M Above (enter negative) Attachment 4E, Line 11, Col. (x) -  W/S 0.00%  - 
+12 TOTAL O&M (Sum of Lines 1 to 5, 9, 10 and 11) #DIV/0!     #DIV/0! 
+         13 DEPRECIATION EXPENSE  (Note U)        
+14   Transmission  Attachment 5, Line 1, Col. (g) -  TP 0.00%  - 
+15   General Attachment 5, Line 2, Col. (a) -  W/S 0.00%  - 
+16   Intangible -Transmission Attachment 5, Line 1, Col. (i)  -  DA 0.00%  - 
+16a   Intangible - General Attachment 5, Line 1, Col. (j) -  W/S 0.00%   
+16b   Intangible - Distribution Attachment 5, Line 1, Col. (k) -  NA zero   
+17   Common - Electric Attachment 5, Line 1, Col. (h) -  W/S 0.00%  - 
+18   Common Depreciation Expense Related to Costs To Achieve (enter negative) Attachment 4E, Line 66, Col (x) -  W/S 0.00%  - 
+19   Amortization of Abandoned Plant (Note S) Attachment 5, Line 2, Col. (b) -  DA 100.00%  - 
+20 TOTAL DEPRECIATION  (Sum of Lines 14 through 19) -     - 
+         21 TAXES OTHER THAN INCOME TAXES  (Note F)       
+22   LABOR RELATED        
+23           Payroll Attachment 5, Line 2, Col. (c) -  W/S 0.00%  - 
+24 Labor Related Taxes to be Excluded Attachment 5, Line 2, Col. (d) -  W/S 0.00%  - 
+25   PLANT RELATED         
+26          Property Attachment 5, Line 2, Col. (e) -  GP #DIV/0!  #DIV/0! 
+27          Excluded Taxes Per Attchment 5C Line 5 Attachment 5, Line 2, Col. (f) -  NA zero  - 
+28          Other Attachment 5, Line 2, Col. (g) -  GP #DIV/0!  #DIV/0! 
+29          Plant Related Taxes to be Excluded Attachment 5, Line 2, Col. (h) -  GP #DIV/0!  #DIV/0! 
+30 TOTAL OTHER TAXES (Sum of Lines 23 through 29) -     #DIV/0! 
+         31 INTEREST ON NETWORK CREDITS From PJM -  DA 100.00%  - 
+         32 INCOME TAXES           (Note G)       
+33      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} WCLTD = Page 4, Line 19 -      
+34      CIT=(T/1-T) * (1-(WCLTD/R)) = R = Page 4, Line 15 #DIV/0!      
+35      FIT & SIT & P (Note G)       
+36         
+37       1 / (1 - T)  =  (T from line 33)  -      
+38 Amortized Investment Tax Credit (enter negative) (enter negative) Attachment 5, Line 2, Col. (i) -      
+39 Excess Deferred Income Taxes (enter negative) (enter negative) Attachment 5, Line 2, Col. (j) -      
+40 Tax Effect of Permanent Differences Attachment 5, Line 2, Col. (k) (Note W) -      
+41 Income Tax Calculation  (Line 34 times Line 47) #DIV/0!  NA   #DIV/0! 
+42 ITC adjustment  (Line 37 times Line 38) -  TP 100.00%  - 
+43 Excess Deferred Income Tax Adjustment  (Line 37 times Line 39) -  TP 100.00%  - 
+44 Permanent Differences Tax Adjustment (Line 37 times Line 40) -  TP 100.00%  - 
+45 Total Income Taxes  (Sum of Lines 41 through 44) #DIV/0!     #DIV/0! 
+         46 RETURN         
+47 Rate Base times Return (Page 2, Line 47 times Page 4, Line 18) #DIV/0!  NA   #DIV/0! 
+ 
+ 
+Formula Rate - Non-Levelized 
+ 
+ 
+Rate Formula Template 
+Utilizing FERC Form 1 Data 
+PECO Energy Company 
+ 
+ 
+page 3 of 5 
+For the 12 months ended 12/31/2024 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 4 
+48a Net Pension Asset ATRR Discount (enter negative) Attachment 10, Line 9 #DIV/0!  DA 100.00%  #DIV/0! 
+48 REVENUE REQUIREMENT (Sum of Lines 12, 20, 30, 31, 45, 47) (Note ZZ) #DIV/0!     #DIV/0!  
+ 
+ (1) (2) (3)   (4)  (5)  
+          
+  SUPPORTING CALCULATIONS AND NOTES        
+Line          
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES         
+1 Total Transmission plant   (Page 2, Line 2, Column 3)      -  
+2 Less Transmission plant excluded from PJM rates   (Note H)      -  
+3 Less Transmission plant included in OATT Ancillary Services   (Note I)      -  
+4 Transmission plant included in PJM rates (Line 1 minus Lines 2 & 3)      -  
+          
+5 Percentage of Transmission plant included in PJM Rates   (Line 4 divided by Line 1)     TP= 0.00%  
+          
+6 WAGES & SALARY ALLOCATOR  (W&S)         
+  Form 1 Reference $ TP  Allocation    
+7 Electric Production – Utility   354.20.b - 0.00%  -    
+7a Electric Production – Exelon Business Services Company 354-355 Footnotes - 0.00%  -    
+8 Electric Transmission – Utility  354.21.b - 100.00%  -    
+8a Electric Transmission – Exelon Business Services Company 354-355 Footnotes - 100.00%  -    
+9 Electric Distribution - Utility  354.23.b - 0.00%  -  -  
+9a 
+9b 
+9c 
+Electric Distribution – Exelon Business Services Company 
+Electric Energy Storage – Utility 
+Electric Energy Storage – Exelon Business Services Company 
+354-355 Footnotes 
+354.22.1.b 
+354-355 Footnotes 
+- 
+- 
+- 
+0.00% 
+0.00% 
+0.00% 
+ - 
+- 
+- 
+  
+ 
+W&S Allocator 
+ 
+10 Electric Other – Utility  354.24,25,26.b - 0.00%  -  ($ / Allocation)  
+10a Electric Other – Exelon Business Services Company 354-355 Footnotes - 0.00%  -    
+11 Total  (W& S Allocator is 1 if lines 7-10a are zero) (Sum of Lines 7 through 10a) -   - = 0.00% = WS 
+            
+          
+12 RETURN (R) (Note V)      $  
+13      Cost    
+14   $ %  (Notes K, Q, & R)  Weighted  
+15   Long Term Debt  (Attachment 5, line 10 Notes Q & R) - #DIV/0!  #DIV/0!  #DIV/0! = WCLTD 
+16   Preferred Stock  (112.3.c) (Attachment 5, line 11 Notes Q & R) #DIV/0
+! 
+#DIV/0!  0.00%  #DIV/0!  
+17   Common Stock (Attachment 5, line 12 Notes K, Q & R) #DIV/0
+! 
+#DIV/0!  10.35%  #DIV/0!  
+18 Total  (Attachment 5, line 13) #DIV/0
+! 
+    #DIV/0! = R 
+          
+ 
+  
+Formula Rate - Non-Levelized Rate Formula Template 
+Utilizing FERC Form 1 Data 
+PECO Energy Company 
+page 4 of 5 
+For the 12 months ended 12/31/2024 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 5 
+ 
+ General Note:  References to pages in this formulary rate are indicated as:  (page#, line#, col.#)         
+ References to data from FERC Form 1 are indicated as:  #.y.x  (page, line, column)         
+Notes:           
+A Reserved 
+B The balances in Accounts 190, 281, 282 and 283, as adjusted by any amounts in contra accounts identified as regulatory assets or liabilities related to FASB 106 or 109.  Balance of Account 255 is reduced by prior flow throughs and excluded if the utility 
+chose to utilize amortization of tax credits against taxable income.  Account 281 is not allocated.   
+C Reserved 
+D Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 12, column 5 minus amortization of Regulatory Asset at page 3, line 7, column 5. For Prepayments, refer to Note K in Attachment 4. 
+E Page 3, Line 5:  Attachment 5B, Line 4 - Exclude: (1) amortization of CAP Shopping and Seamless Moves; (2) amortization of DSP IV Admin Costs; (3) Miscellaneous Advertising; (4) SEPA Solar Power Study; (5) PSU Sponsorship; (6) EU IT Prepaid 
+Meter Assess O&M; and (7) Customer Operations AMI/CI O&M. Include Communications, Public Advocacy and Corporate Relations and Government and Regulatory Affairs and Public Policy expenses listed in Account 923 found at Form 1 323.184.b. 
+Attachment 5B, Lines, 11, and 12 - Exclude EPRI Annual Membership Dues listed in Form 1 at 353.f, non-safety-related advertising included in Account 930.1 found at 323.191.b and Chamber of Commerce Dues and Civic Organization Expenses in Account 
+930.2 found at 323.192.b; include the costs related to Project Cancellation Fees and Remediation Expenditures (provided, that with regard to the Metal Bank Superfund, PECO must include as a credit any receipts received from the EPA and/or obtained through 
+litigation with the remediation contractors related to Metal Bank Superfund). Attachment 5B, Line 9- include Regulatory Commission Expenses directly related to transmission service, ISO filings, or transmission siting itemized at 351.h., and exclude all other  
+Regulatory Commission Expenses itemized at 351.h. 
+F Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year. Taxes related to income are excluded. Gross receipts taxes are not included in transmission revenue requirement in the Rate Formula 
+Template, since they are recovered elsewhere. 
+G The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes".  If the utility is taxed in more than one state it must attach a 
+work paper showing the name of each state and how the blended or composite SIT was developed.  Furthermore, a utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate 
+base, must reduce its income tax expense by the amount of the Amortized Investment Tax Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, line 36).  Excess Deferred Income Taxes reduce income tax expense by the amount of the expense multiplied by 
+(T/1-T). 
+          Inputs Required: FIT =   
+  SIT=  (State Income Tax Rate or Composite SIT) 
+  p = 0.00% (percent of federal income tax deductible for state purposes) 
+           H Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+I Removes dollar amount of transmission plant to be included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT ancillary services.  For these purposes, generation step-up facilities are 
+those facilities at a generator substation on which there is no through-flow when the generator is shut down.   
+J Reserved 
+K ROE will be supported in the original filing and no change in ROE may be made absent a Section 205 or Section 206 filing with FERC. The equity component of the capital structure will be capped at 55.75% and shall not be subject to change during the ROE 
+Moratorium Period established under the Settlement Agreement in Docket No. ER17-1519.  Thereafter, the cap shall be subject to change pursuant to sections 205 and 206 of the Federal Power Act. 
+L Reserved 
+M Reserved 
+N All items related to Contributions in Aid of Construction (CIAC), including investment in CIAC and CIAC related ADIT, excess/(deficient) ADIT and amortization of excess/(deficient) ADIT shall be excluded from the formula rate. 
+O Transmission-related ADIT, Excess/(Deficient) ADIT, and the amortization of Excess/(Deficient) ADIT shall be included in the formula rate except as noted in Notes N and P.  For clarity of administration of the formula rate, this specifically includes (but is 
+not limited to) transmission-related amounts related to Amortization of Book Premiums on Reacquired Debt, Pension Expense Provision, Loss on Reacquired Debt, FAS 112 and Electric Rate Case Expense - Regulatory Asset - Current. 
+P ADIT, Excess/(Deficient) ADIT and the amortizaiton of Excess/(Deficient) ADIT related to Accrued Benefits, Deferred Compensation, Vacation pay Change in Provision and Accrued Vacation shall be excluded from the formula rate.  
+Q All ADIT-190, ADIT-282, and ADIT-283 amounts reflected on Attachment 4C must be based on a timing difference between book expense recognition and expense recognition for tax purposes. 
+R Calculated using 13 month average balance, except ADIT. 
+S Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until FERC explicitly approves recovery of the cost of abandoned plant pursuant to Section 205 of the FPA. 
+T Recovery of Regulatory Asset is permitted only as specifically authorized pursuant to Section 205 or 206 of the FPA by FERC.  Recovery of any regulatory assets not specifically identified in the initial version of this formula rate template approved by FERC 
+in Docket No. ER17-1519-000 will require specific authorization from FERC.  
+U Excludes Asset Retirement Obligation balances 
+V Company shall include only gains and losses on interest rate locks associated with debt issuances.  Absent a Section 205 filing, Company shall not include in the Formula Rate, the gains, losses, or costs related to other hedges. 
+W The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H that are not the result of a timing difference. Items that can be included in 
+formula for recovery are AFUDC Equity, Meals & Entertainment (50%), Memberships & Dues Not Deductible, Additional Compensation to Employee Stock, and Life Insurance Premiums. Items that can not be included in formula for recovery are Dividend 
+Received Deductions, Equity in Earnings of Unconsol. Subs, and Other Perms (Rabbi Trust). Commission authorization is required in order to include any other permanent difference as an adjustment to the income tax allowance computation in the Formula 
+Rate Template. 
+X Calculated on Attachment 4A. 
+Y Unfunded Reserves are customer contributed capital such as when Injuries and Damages expense is accrued but not yet incurred.  Also, pursuant to Special Instructions to Accounts 228.1 through 228.4, no amounts shall be credited to accounts 228.1 through 
+228.4 unless authorized by a regulatory authority or authorities to be collected in a utility’s rates. 
+Z Amortization of Regulatory Asset for Environmental Remediation of Manufactured Gas Plants shall be excluded from the formula rate. 
+Formula Rate - Non-Levelized Rate Formula Template 
+Utilizing FERC Form 1 Data 
+PECO Energy Company 
+ 
+Page 5 of 5 
+For the 12 months ended 12/31/2024 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 6 
+ZZ The revisions made in the Order No. 864 Cleanup Filing will not require any adjustment to rates, or annual update filings, for rates charged and annual update filings made prior to the date of the order accepting the revised tariff sheets. 
+ 
+ Attachment 1 
+Project Revenue Requirement Worksheet 
+PECO Energy Company 
+Page 1 of 2 
+          
+  To be completed in conjunction with Attachment H-7.        
+          
+          
+  (1)  (2)   (3)  (4) 
+    Attachment H-7      
+Line    Page, Line, Col.   Transmission  Allocator 
+No.          
+          
+1  Gross Transmission Plant - Total  Attach H-7, p 2, line 2 col 5  (Note A)   -   
+2  Net Transmission Plant - Total  Attach H-7, p 2, line 20 col 5 plus line 34 & 37 col 5 (Note B)   -   
+          
+  O&M EXPENSE        
+3  Total O&M Allocated to Transmission  Attach H-7, p 3, line 12 col 5   #DIV/0!   
+4  Annual Allocation Factor for O&M  (line 3 divided by line 1 col 3)   -  - 
+          
+  GENERAL, INTANGIBLE AND COMMON (G&C) DEPRECIATION EXPENSE      
+5  Total G, I & C Depreciation Expense  Attach H-7, p 3, lines 15 to 18, col 5 (Note H)   -   
+6  Annual Allocation Factor for G, I & C Depreciation Expense  (line 5 divided by line 1 col 3)   -  - 
+          
+  TAXES OTHER THAN INCOME TAXES        
+7  Total Other Taxes  Attach H-7, p 3, line 30 col 5   #DIV/0!   
+8  Annual Allocation Factor for Other Taxes  (line 7 divided by line 1 col 3)   #DIV/0!  #DIV/0! 
+          
+9  Less Revenue Credits  Attach H-7, p 1, line 2 col 5   #DIV/0!   
+10  Annual Allocation Factor Revenue Credits  (line 9 divided by line 1 col 3)   -  - 
+          
+11  Annual Allocation Factor for Expense  Sum of lines 4, 6, 8, and 10     #DIV/0! 
+          
+  INCOME TAXES        
+12  Total Income Taxes  Attach H-7, p 3, line 45 col 5   #DIV/0!   
+13  Annual Allocation Factor for Income Taxes  (line 12 divided by line 2 col 3)   -  - 
+          
+  RETURN         
+14  Return on Rate Base  Attach H-7, p 3, lines 47 and 48a col 5   #DIV/0!   
+15  Annual Allocation Factor for Return on Rate Base  (line 14 divided by line 2 col 3)   -  - 
+          
+16  Annual Allocation Factor for Return  Sum of lines 13 and 15   -  - 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 7 
+ Attachment 1 
+Project Revenue Requirement Worksheet 
+PECO Energy Company 
+Page 2 of 2  
+                    
+  (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (12a) (13) (14) (15) (15a) (16) 
+ 
+ 
+Line 
+No. 
+  
+ 
+ 
+Project Name 
+RTO 
+Project 
+Number 
+or Zonal 
+ 
+Project 
+Gross 
+Plant 
+Annual 
+Allocation 
+Factor for 
+Expense 
+ 
+Annual 
+Expense 
+Charge 
+Project 
+Net Plant 
+or CWIP 
+Balance 
+Annual 
+Allocation 
+Factor for 
+Return 
+ 
+Annual 
+Return 
+Charge 
+ 
+Project 
+Depreciation/Amortization 
+Expense 
+ 
+Annual 
+Revenue 
+Requiremen
+t 
+ 
+Incentive 
+Return in 
+basis Points 
+ 
+ 
+Incentive 
+Return 
+ 
+ 
+Ceiling 
+Rate 
+ 
+Competitive 
+Bid 
+Concession 
+ 
+Total Annual 
+Revenue 
+Requirement 
+ 
+True-Up 
+Adjustment 
+ 
+Additional 
+Refund  
+(Note Q) 
+ 
+ 
+ 
+Net Rev 
+Req 
+     
+ 
+(Note C) 
+ 
+(Page 1 line 
+11) 
+ 
+(Col. 3 * 
+Col. 4) 
+ 
+(Notes D 
+& I) 
+ 
+(Page 1 line 
+16) 
+ 
+(Col. 6 * 
+Col. 7) 
+ 
+ 
+(Notes E & I) 
+ 
+(Sum Col. 5, 
+8 & 9) 
+ 
+ 
+(Note K) 
+(Attachment 2, 
+Line 28 /100 * 
+Col. 11 * Col. 
+6) 
+(Sum 
+Col. 10 
+& 12) 
+ 
+ 
+(Note J) 
+ 
+(Sum Col. 10 & 
+12 Less Col. 
+13) 
+ 
+ 
+(Note F) 
+ Sum Col. 
+14 & 15  
+(Note G) 
+                    
+17a  Zonal Zonal $ - - - $ - - - - #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! - #DIV/0! - 
+17b     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17c     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17d     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17e     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17f     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17g     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17h     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17i     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17j     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17k     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17l     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17m     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17o     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17p     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17q     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17r     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17s     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17u     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17v     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17w     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17x     #DIV/0! #DIV/0!  - -  #DIV/0! - #DIV/0! #DIV/0! - #DIV/0! -  #DIV/0! 
+17y     #DIV/0! #DIV/0!     #DIV/0!  #DIV/0! #DIV/0!  #DIV/0!   #DIV/0! 
+17z     #DIV/0! #DIV/0!     #DIV/0!  #DIV/0! #DIV/0!  #DIV/0!   #DIV/0! 
+     #DIV/0! #DIV/0!     #DIV/0!  #DIV/0! #DIV/0!  #DIV/0!   #DIV/0! 
+     #DIV/0! #DIV/0!     #DIV/0!  #DIV/0! #DIV/0!  #DIV/0!   #DIV/0! 
+                    
+                    
+                    
+18  Annual Totals  -   -  - - #DIV/0!  #DIV/0! #DIV/0! - #DIV/0! - #DIV/0! #DIV/0! 
+                    
+Notes:                    
+A  Gross Transmission Plant is that identified on page 2 line 2 of Attachment H    
+B  Inclusive of any CWIP or unamortized abandoned plant included in rate base when authorized by FERC order less any prefunded AFUDC, if applicable.    
+C  Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1.  This value includes subsequent capital investments required to maintain the facilities to their original capabilities.   Gross plant does not 
+include Unamortized Abandoned Plant. 
+   
+D  Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation.  Net Plant includes CWIP and Unamortized Abandoned Plant and excludes any regulatory asset, which are to be entered as separate line items.    
+E  Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H, page 3, line 14.  Project Depreciation Expense includes the amortization of Abandoned Plant    
+F  True-Up Adjustment is calculated on the Attachment 3 Project True-up Schedule for the Rate Year    
+G  The Net Rev Req is the value to be used in the rate calculation under the applicable Schedule 12 under the PJM OATT for each project.    
+H  The Total General, Intangible and Common Depreciation Expense excludes any depreciation expense directly associated with a project and thereby included in page 2 column 9.    
+I  The Unamortized Abandoned Plant balance is included in Net Plant, and Amortization of Abandoned Plant is included in Depreciation/Amortization Expense. 
+J  The Competitive Bid Concession is the reduction in revenue, if any, that the company agreed to, for instance, to be selected to build facilities as the result of a competitive process and equals the amount by which the annual revenue requirement is reduced from the ceiling rate 
+K  Requires approval by FERC of incentive return applicable to the specified project(s) 
+M  All transmission facilities reflected in the revenue requirement on Attachment H-7, page 1 line 3 are to be included in this Attachment 1. 
+N  Facilities that provide Wholesale Distribution Service are not to be listed as projects on lines 15, the revenue requirements associated with these facilities are calculated on Attachment 11  
+O  When an updated projected net revenue requirement is posted due to an asset acquisition as provided for in the Protocols, the difference between the updated net revenue requirement in Col (16) and the revenues collected to date will be recovered over the remaining months of the Rate Year. 
+P  Zonal on line 17a refers to all projects not qualifying for regional recovery 
+Q  Additional refund $850,00 per year for 2018-2021 and $0 for 2022 and beyond. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 8 
+ Attachment 2 
+Incentive ROE 
+PECO Energy Company 
+Page 1 of 1  
+ 
+1 Rate Base Attachment H-7, Page 2 line 47, Col.5         #DIV/0! 
+           
+2 100 Basis Point Incentive Return        $  
+       Cost    
+    $ %    Weighted  
+3   Long Term Debt  (Attachment H-7, Notes Q and R)  - #DIV/0!  #DIV/0!  #DIV/0!  
+4   Preferred Stock   (Attachment H-7, Notes Q and R)  #DIV/0! #DIV/0!  0.00%  #DIV/0!  
+5   Common Stock (Attachment H-7, Notes K, Q and R) Cost = Attachment H-7, Page 
+4 Line 17, Cost plus .01 
+#DIV/0! #DIV/0!  11.35%  #DIV/0!  
+6 Total  (sum lines 3-5)   #DIV/0!     #DIV/0!  
+7 100 Basis Point Incentive Return multiplied by Rate Base (line 1 * line 6)        - 
+           
+8 INCOME TAXES                    
+9      T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =  0.0000%       
+10      CIT=(T/1-T) * (1-(WCLTD/R)) =  #DIV/0!       
+11       WCLTD = Line 3          
+12        and FIT, SIT & p are as given in footnote K.         
+13       1 / (1 - T)  =  (from line 9)   -       
+14 Amortized Investment Tax Credit (266.8f) (enter negative) Attachment H-7, Page 3, 
+Line 38 
+-       
+15 Excess Deferred Income Taxes (enter negative) Attachment H-7, Page 3, 
+Line 39 
+-       
+16 Tax Effect of Permanent Differences  (Note B) Attachment H-7, Page 3, 
+Line 40 
+-       
+17 Income Tax Calculation = line 10 * line 7  #DIV/0!  NA   #DIV/0!  
+18 ITC adjustment (line 13 * line 14)  -  TP 100.0%  -  
+19 Excess Deferred Income Tax Adjustment (line 13 * line 15)  -  TP 100.0%  -  
+20 Permanent Differences Tax Adjustment (line 13 * 16)  -  TP 100.0%  -  
+21 Total Income Taxes (sum lines 17 - 20)   #DIV/0!     #DIV/0! #DIV/0! 
+           
+22 Return and Income Taxes with 100 basis point increase in ROE (Sum lines 7 & 21)       #DIV/0! 
+           
+23 Return    (Attach. H-7, page 3 line 47 col 5)        #DIV/0! 
+24 Income Tax    (Attach. H-7, page 3 line 45 col 5)        #DIV/0! 
+25 Return and Income Taxes without 100 basis point increase in ROE (Sum lines 23 & 24)       #DIV/0! 
+26 Incremental Return and Income Taxes for 100 basis point increase in ROE (Line 22 - line 25)       #DIV/0! 
+27 Rate Base (line 1)         #DIV/0! 
+28 Incremental Return and Income Taxes for 100 basis point increase in ROE divided by Rate Base  (Line 26 / line 
+27) 
+     #DIV/0! 
+           
+          
+Notes:  
+A Line 5 includes a 100 basis point increase in ROE that is used only to determine the increase in return and income taxes associated with a 100 basis point increase in ROE.  Any actual ROE incentive must be approved by the Commission.   For example, if 
+the Commission were to grant a 137 basis point ROE incentive, the increase in return and taxes for a 100 basis point increase in ROE would be multiplied by 1.37 on Attachment 1 column 12. 
+          
+B The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H-7 that are not the result of a timing difference 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+ 
+ 
+   Revenue Requirement Projected   Actual 
+Revenue 
+        
+1 Rate Year being 
+Trued-Up 
+ For Rate Year Revenue 
+Received3 
+Requirement Annual True-Up Calculation     
+2        $      -              
+ A B C D E F G H I J 
+      % of       
+     Projected Total Revenue Actual Net  Interest  
+ Project Name  PJM 
+Project 
+Numbe
+r or 
+Zonal 
+Net Revenue Revenue Received Net Revenue Under/(Over
+) 
+Prior Period Income Total 
+True-Up 
+   Requirement1 Requirement (E, Line 2 
+) x (D) 
+Requirement2 Collection  
+(F)-(E) 
+Adjustment 5 (Expense)4 (G) + (H) 
++ (I) 
+3 Zonal Zonal    - - - #DIV/0!  
+3a      - - - #DIV/0!  
+3b      - - - #DIV/0!  
+3c      - - - #DIV/0!  
+3d      - - - #DIV/0!  
+3e      - - - #DIV/0!  
+3f      - - - #DIV/0!  
+3g      - - - #DIV/0!  
+3h      - - - #DIV/0!  
+3i      - - - #DIV/0!  
+3j      - - - #DIV/0!  
+3k      - - - #DIV/0!  
+3l      - - - #DIV/0!  
+3m      - - - #DIV/0!  
+3o      - - - #DIV/0!  
+3p      - - - #DIV/0!  
+3q      - - - #DIV/0!  
+3r      - - - #DIV/0!  
+3s      - - - #DIV/0!  
+3u      - - - #DIV/0!  
+3v      - - - #DIV/0!  
+3w      - - - #DIV/0!  
+3x      - - - #DIV/0!  
+3y      - - - #DIV/0!  
+3z      - - - #DIV/0!  
+      - - - #DIV/0!  
+           
+           
+           
+           
+4 Total Annual Revenue 
+Requirements (Note A) 
+- - - - -  #DIV/0! - 
+           
+      Monthly 
+Interest Rate 
+  #DIV/0!  
+      Interest 
+Income 
+(Expense) 
+  #DIV/0!  
+ Notes:          
+ 1)  From Attachment 1, line 17, col. 14 for the projection for the Rate Year. 
+ 2)  From Attachment 1, line 17, col. 14, less col. 15(a) for each project and Attachment H-7, line 7 for zonal. 
+ 3) "Revenue Received" on line 3 Zonal, Col. (E), is the total amount of revenue received for the True-Up Year under PJM OATT Attachments 7, 8 and H-7 
+and "Revenue Received" on letter-denominated line 3 entries, Col. (E), is the amount of revenue received for the True-Up Year for the project designated in 
+Cols. A and B under PJM OATT Schedule 12 PECO Appendix and PECO Appendix A as reported on pages 328-330 of the Form No 1. The Revenue 
+Received in Col. E excludes any True-Up revenues 
+ 4) Interest from Attachment 6.  
+ 5)  Prior Period Adjustment from line 5 is pro rata to each project, unless the error was project specific. 
+Prior Period Adjustments         
+ (a) (b) (c) (d)      
+ Prior Period 
+Adjustments 
+Amount Interest Total      
+  
+(Note B) 
+In 
+Dollars 
+ 
+Note B 
+ 
+Col. (b) + Col. (c) 
+     
+5          
+              
+          
+Notes:         
+ A For each project or Attachment H, the utility will populate the formula rate with the inputs for the True-Up Year.  The revenue requirements, 
+based on actual operating results for the True-Up Year, associated with the projects and Attachment H will then be entered in Col. (F) above.  
+Column (E) above contains the actual revenues received associated with Attachment H and any Projects paid by the RTO to the utility during the 
+True-Up Year.   Then in Col. (G), Col. (E) is subtracted from Col. (F) to calculate the True-up Adjustment.  The Prior Period Adjustment 
+from Line 5 below is input in Col. (H).  Column (I) is the applicable interest rate from Attachment 6.  Column (I) adds the interest on the sum 
+of Col.(G) and  (H).  Col. (J) is the sum of Col. (G), (H), and (I). 
+ B Prior Period Adjustment is the amount of an adjustment to correct an error in a prior period.  Interest will be calculated for the prior period 
+adjustment based on the FERC Refund interest rate specified in 18 CFR 35.19(a) for the period up to the date the projected rates went into effect. 
+PECO will provide the supporting worksheet for the interest calculation when prior period adjustment is needed. 
+ C The Actual Revenue Requirement in the True-up Adjustment calculation for years 2020 and later shall use the depreciation and amortization 
+rates approved for use by the Commission when PECO performs the True-Up Adjustment. 
+ Attachment 3 
+Project True-Up 
+PECO Energy Company 
+Page 1 of 1  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+Lin
+e 
+No 
+ Gross Plant In Service CWIP LHFFU Working Capital  Accumulated Depreciation 
+ Month Transmission General Common CWIP in Rate Base Held for Future 
+Use 
+Materials & 
+Supplies 
+Prepayments Transmission General Common 
+ (a) (b) (c) (d)(Note J) (e) (f) (g) (h)(Note K) (i)(Note J) (j)(Note J) (k)(Note J) 
+ Attachment H, Page 2, Line No: 2 4 5 27 31 34 35 9 11 12 
+  207.58.g minus 207.57.g.  
+Projected monthly 
+balances that are the 
+amounts expected to be 
+included in 207.58.g for 
+end of year and records 
+for other months (Note I) 
+ 
+ 
+ 
+ 
+207.99.g  minus 
+207.98.g for end of 
+year, records for other 
+months 
+ 
+ 
+ 
+ 
+Electric Only, Form No 
+1, page 356 for end of 
+year, records for other 
+months 
+ 
+ 
+ 
+ 
+ 
+ 
+(Note C) 
+ 
+ 
+ 
+214.17,d, 214.20,d 
+and 214.22,d for end 
+of year, records for 
+other months 
+ 
+ 
+227. 8. c + (227.16.c 
+* Labor Ratio) + 
+TLF for end of year, 
+records for other 
+months (Note L) 
+ 
+ 
+ 
+ 
+ 
+111.57.c for end of year, 
+records for other months 
+Projected monthly 
+balances that are 
+expected to be 
+included in 219.25.c 
+for end of year and 
+records for other 
+months (Note I) 
+ 
+ 
+ 
+ 
+219.28.c for 
+end of year, 
+records for 
+other months 
+ 
+Electric Only, 
+Form No 1, 
+page 356 for 
+end of year, 
+records for 
+other months 
+1 December Prior Year           
+2 January           
+3 February           
+4 March            
+5 April           
+6 May           
+7 June           
+8 July           
+9 August            
+10 September           
+11 October           
+12 November           
+13 December            
+14 Average of the 13 Monthly Balances  - - - - - - - - - - 
+            
+  Adjustments to Rate Base    
+ 
+Lin
+e 
+No 
+ 
+ 
+Month 
+ 
+Unamortized Regulatory 
+Asset 
+ 
+Unamortized 
+Abandoned Plant 
+Account No. 281 
+Accumulated Deferred 
+Income Taxes (Note D) 
+Account No. 282 
+Accumulated Deferred 
+Income Taxes (Note D) 
+Account No. 283 
+Accumulated 
+Deferred Income 
+Taxes (Note D) 
+Account No. 190 
+Accumulated 
+Deferred Income 
+Taxes (Note D) 
+Account No. 255 
+Accumulated Deferred 
+Investment Credit 
+ 
+ 
+Pension Asset 
+  
+ (a) (b) (c) (d) (e) (f) (g) (h) (i)   
+ Attachment H, Page 2, Line No: 28 29 22 23 24 25 26 27a   
+   
+ 
+ 
+Notes A & E 
+ 
+ 
+ 
+Notes B & F 
+ 
+Attachment 4A, line 20 
+for the projection and 
+line 44 for the true-up 
+ 
+Attachment 4A, line 14 
+for the projection and 
+line 38 for the true-up 
+Attachment 4A, 
+line 17 for the 
+projection and line 
+41 for the true-up 
+Attachment 4A, 
+line 34 for the 
+projection and line 
+47 for the true-up 
+ 
+Consistent with 
+266.8.b, 266.17.b, 
+267.8.h & 267.17.h 
+Transmission-
+Related Pension 
+Asset booked to 
+Account 186 
+  
+15 December Prior Year - -     -    
+16 January - -     -    
+17 February - -     -    
+18 March  - -     -    
+19 April - -     -    
+20 May - -     -    
+21 June - -     -    
+22 July - -     -    
+23 August  - -     -    
+24 September - -     -    
+25 October - -     -    
+26 November - -     -    
+27 December  - -     -    
+28 Average of the 13 Monthly Balances - - Zero - - - - -   
+ (except ADIT which is the amount shown on Attachment 4A)       
+ 
+ Attachment 4 
+Rate Base Worksheet 
+PECO Energy Company 
+ 
+Page 1 of 2  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ Attachment 4 
+Rate Base Worksheet 
+PECO Energy Company 
+Page 2 of 2 
+ 
+ Unfunded Reserves    (Notes G & 
+H) 
+         
+ (a) (b) (c) (d) (e) (f) (g) (h)   
+29 List of all reserves:  Amount Enter 1 if NOT in a trust 
+or reserved account, 
+enter zero (0) if included 
+in a trust or reserved 
+account 
+Enter 1 if the accrual 
+account is included in the 
+formula rate, enter (0) if  
+O if the accrual account is 
+NOT included in the 
+formula rate 
+Enter the percentage 
+paid for by the 
+transmission formula 
+customers 
+Allocation (Plant or 
+Labor Allocator) 
+Amount Allocated, col. c 
+x col. d x col. e x col. f x 
+col. g 
+  
+30a       0.00% -   
+30b       0.00% -   
+30c       0.00% -   
+30d       0.00% -   
+30e       0.00% -   
+30f       0.00% -   
+30g       100.00% -   
+30h       0.00% -   
+30i       0.00% -   
+30j       0.00% -   
+        -   
+30x        -   
+31  Total      -   
+           
+           
+           
+ 
+ 
+Notes: 
+         
+A Recovery of regulatory asset is limited to any regulatory assets authorized by FERC. 
+B Recovery of abandoned plant is limited to any abandoned plant recovery authorized by FERC. 
+C Includes only CWIP authorized by the Commission for inclusion in rate base.  The annual report filed pursuant to Section 7 of the Protocols will include for each project under construction (i) the CWIP balance eligible for inclusion in rate base; (ii) the CWIP balance ineligible for inclusion 
+in rate base; and (iii) a demonstration that AFUDC is only applied to the CWIP balance that is not included in rate base.  The annual report will reconcile the project-specific CWIP balances to the total Account 107 CWIP balance reported on p. 216.b of the FERC Form 1.   The 
+demonstration in (iii) above will show that monthly debts and credits do not contain entries for AFUDC for each CWIP project in rate base. 
+D ADIT and Accumulated Deferred Income Tax Credits are computed using the average of the beginning of the year and the end of the year balances. The projection will use lines 16, 19 and 36 of Attachment 4A to populate the average ADIT balance on line 28 above. 
+E Recovery of a Regulatory Asset is permitted only for pre-commercial and formation expenses, and is subject to FERC approval before the amortization of the Regulatory Asset can be included in rates.  Recovery of any other regulatory assets requires authorization from the Commission. A 
+carrying charge equal to the weighted cost of capital will be applied to the Regulatory Asset prior to the rate year when costs are first recovered.  
+F Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of abandoned plant.   
+G The Formula Rate shall include a credit to rate base for all unfunded reserves (funds collected from customers that (1) have not been set aside in a trust, escrow or restricted account; (2) whose balance are collected from customers through cost accruals to accounts that are recovered under the 
+Formula Rate; and (3) exclude the portion of any balance offset by a balance sheet account).  Each unfunded reserve will be included on lines 30 above.  The allocator in Col. (g) will be the same allocator used in the formula for the cost accruals to the account that is recovered under the 
+Formula Rate.  Since reserves can be created by an offsetting balance sheet account, rather than through cost accruals, the amount to be deducted from rate base should exclude the portion offset by another balance sheet account. 
+H Calculate using 13 month average balance, except ADIT. 
+I Projected balances are for the calendar year the revenue under this formula begins to be charged.  SERP will not be included as an unfunded reserve in the formula rate. 
+J Excludes ARO amounts. 
+K Total prepayments, including Fleet Activity,  allocated to transmission as follows:  (1) amounts solely related to transmission allocated 100% to transmission; (2) amounts solely related to distribution, gas or non-utility allocated 0% to transmission; (3) amounts related to electric general 
+allocated using the wages and salaries allocator (Attachment H-7, p. 4, line 11, column (5)); (4) amounts related to common labor or plant allocated using the wages and salaries allocator (Attachment H-7), p. 4, line 11, column (5)), multiplied by either common labor percent to electric 
+(Attachment 7-PBOP, Note B, Electric Labor) or by common utility plant percent to electric (per FF1 page 356) as applicable depending upon the nature of the prepayment item.  
+L TLF shall be equal to 50 percent of the lesser of (a) the transmission portion of FERC Form 1, page 227, line 5, column c per FERC Form No. 1) and (b) $9 million.   The TLF recovery percentage and cap will be subject to modification only through Commission authorization under section 
+205 or section 206 of the Federal Power Act. 
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 3 
+ 
+   Allocation Prior Year End Total Current Year 
+End Total 
+Allocation 
+Factor 
+Prior Year 
+Allocated to T 
+Current Year 
+Allocated to T 
+   
+k1       0.00%      
+k2       0.00%      
+k3       0.00%      
+k4       0.00%      
+k5       0.00%      
+k6       0.00%      
+k7       0.00%      
+k8       0.00%      
+k9       0.00%      
+k10       0.00%      
+k11       0.00%      
+k12       0.00%      
+k13       0.00%      
+k14       0.00%      
+k15       0.00%      
+k16       0.00%      
+k17       0.00%      
+k18       0.00%      
+k19       0.00%      
+k20       0.00%      
+k21       0.00%      
+k22       0.00%      
+k23       0.00%      
+k24       0.00%      
+k25       0.00%      
+k26       0.00%      
+k27       0.00%      
+k28       0.00%      
+…             
+Kxx
+x 
+            
+  Total Sum(lines K1 to Kxxx)  - -  - -    
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+ 
+ 
+ 
+ADIT for the Projection 
+Attachment 4A 
+PECO Energy Company 
+ADIT Worksheet for Projection 
+For Projection 
+Page 1 of 2 
+Projection for the 12 months ended 12/31/2024 
+ 
+ (a) (b) (c) (d) (e) (f) (g) (h) (Note 
+A) 
+(i) (j) (k) (l) 
+ Beginning Month Year Weighting Beginning 
+Balance/ 
+100% 100% 
+Allocator 
+Plant GP 
+Allocator 
+Labor S/W 
+Allocator 
+Total 
+ Balance &   for 
+Projection 
+Monthly 
+Increment 
+Transmission (f) x 
+Allocator 
+Related (h) x 
+Allocator 
+Related (j) x 
+Allocator 
+ADIT 
+ Monthly      100%  #DIV/0!  - (d) x 
+[(g)+(i)+(k)] 
+ Changes        From 
+Attach H 
+ From Attach 
+H 
+ 
+  ADIT- 282       Page 2, 
+Line 18 
+ Page 4, Line 
+16 
+ 
+1 Balance December - 100.00% - - - - - - - - 
+2 Increment January - 91.78% - - - - - - - - 
+3 Increment February - 84.11% - - - - - - - - 
+4 Increment March - 75.62% - - - - - - - - 
+5 Increment April - 67.40% - - - - - - - - 
+6 Increment May - 58.90% - - - - - - - - 
+7 Increment June - 50.68% - - - - - - - - 
+8 Increment July - 42.19% - - - - - - - - 
+9 Increment August - 33.70% - - - - - - - - 
+10 Increment September - 25.48% - - - - - - - - 
+11 Increment October - 16.99% - - - - - - - - 
+12 Increment November - 8.77% - - - - - - - - 
+13 Increment December - 0.27% - - - - - - - - 
+14 Sum Ties to December - Balance - - - - #DIV/0! - - - 
+15 Increment Not Subject to 
+Proration 
+-   - -    - - 
+16 Total     - -  #DIV/0! - - - 
+  ADIT-283           
+17 Balance December -  - - - - - - - - 
+18 Balance December -  - - - - - - - - 
+19  Average   - - - - - - - - 
+             
+             
+  ADIT-281           
+20 Balance December -  Zero Zero Zero Zero Zero Zero Zero Zero 
+21 Balance December -  Zero Zero Zero Zero Zero Zero Zero Zero 
+22  Average   Zero Zero Zero Zero Zero Zero Zero Zero 
+             
+             
+  ADIT-190           
+23 Balance December - 100.00% - - - - - - - - 
+24 Increment January - 91.78% -  - - - - - - 
+25 Increment February - 84.11% - - - - - - - - 
+26 Increment March - 75.62% - - - - - - - - 
+27 Increment April - 67.40% - - - - - - - - 
+28 Increment May - 58.90% - - - - - - - - 
+29 Increment June - 50.68% - - - - - - - - 
+30 Increment July - 42.19% - - - - - - - - 
+31 Increment August - 33.70% - - - - - - - - 
+32 Increment September - 25.48% - - - - - - - - 
+33 Increment October - 16.99% - - - - - - - - 
+34 Increment November - 8.77% - - - - - - - - 
+35 Increment December - 0.27% - - - - - - - - 
+36 Sum Ties to December - Balance -       - 
+ Line 36, If there are no items subject to proration, use 
+average of lines 23 and 35 
+        
+             
+37 Total ADIT           - 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ 
+ 
+ADIT for True-Up 
+PECO Energy Company 
+ 
+ADIT Worksheet for True-Up 
+For True-Up 
+Page 2 of 2 
+True-Up for the 12 months ended 12/31/2024  
+ (a) (b) (c) (d) (e) (f) (g) (h) 
+(Note A) 
+(i) (j) (k) (l) 
+ Balance Month Year Weighting Balance 100% 100% 
+Allocator 
+ 
+Plant 
+GP 
+Allocator 
+Labor S/W 
+Allocator 
+Total 
+    for 
+Projection 
+from ADIT 
+BOY 
+Transmissio
+n 
+(f) x 
+Allocator 
+ 
+Related 
+(h) x 
+Allocator 
+Related (j) x 
+Allocator 
+ADIT 
+     and ADIT 
+EOY 
+  
+100% 
+  
+#DIV/0! 
+  
+- 
+(d) x 
+[(g)+(i)+(k)] 
+     workpapers    From 
+Attach H 
+ From 
+Attach H 
+ 
+  ADIT- 282       Page 2, 
+Line 18 
+ Page 4, 
+Line 16 
+ 
+38 Balance December -  - -  - #DIV/0! -   
+39 Balance December -  - -  - #DIV/0! -   
+40  Average   - - - - #DIV/0! - - #DIV/0! 
+             
+             
+  ADIT-283           
+41 Balance December -  - - - - #DIV/0! - -  
+42 Balance December -  - - - - #DIV/0! - -  
+43  Average   - - - - #DIV/0! - - #DIV/0! 
+             
+             
+  ADIT-281           
+44 Balance December -  Zero Zero Zero Zero Zero Zero Zero Zero 
+45 Balance December -  Zero Zero Zero Zero Zero Zero Zero Zero 
+46  Average   Zero Zero Zero Zero Zero Zero Zero Zero 
+             
+             
+  ADIT-190           
+47 Balance December -  - - - - #DIV/0! - - #DIV/0! 
+48 Balance December -  - - - - #DIV/0! - - #DIV/0! 
+49  Average   - - - - #DIV/0! - - #DIV/0! 
+             
+Note:             
+A Plant Related ADIT reflects the total Electric plant related ADIT from Attachment 4B and 4C, which is allocated to transmission in Column (i) with GP allocation factor. 
+Notes:  A:  Plant Related ADIT reflects the total Electric plant related ADIT from Attachment 4B and 4C, which is allocated to transmission in Column (i) with GP allocation 
+factor. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 3 
+ 
+ A B C D E F G 
+  Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related  
+a ADIT- 282 -  - - - (From line 17 for the column) 
+b ADIT-283 -  - - - (From line 29 for the column) 
+c ADIT-190 -  - - - (From line 5 for the column) 
+d Subtotal -  - - - (Sum a - c) 
+        
+ In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns C-F and each separate ADIT 
+item will be listed. Dissimilar items with amounts exceeding $100,000 will be listed separately. 
+        
+ A B C D E F G 
+Line ADIT-190 (Attachment H-7 
+Notes P and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+1        
+1a        
+1b        
+1c        
+1d        
+1e        
+1f        
+1g        
+1h        
+1i        
+1j        
+1k        
+1l        
+1m        
+1n        
+1o        
+1p        
+1q        
+1r        
+1s        
+1t        
+1u        
+1v        
+1w        
+1x        
+1y        
+1z        
+1aa        
+1ab        
+1ac        
+1ad        
+1ae        
+1af        
+1ag        
+1ah        
+1ai        
+1aj        
+1ak        
+1al        
+1am        
+1an        
+…        
+2 Subtotal - p234.8.b - - - - -  
+3 Less FASB 109 Above if 
+not separately removed 
+      
+4 Less FASB 106 Above if 
+not separately removed 
+      
+5 Total - - - - -  
+        
+6 Instructions for Account 
+190: 
+            
+7 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C  
+8 2.  ADIT items related only to Transmission are directly assigned to Column D  
+9 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E  
+10 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F  
+11 5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in 
+the formula, the associated ADIT amount shall be excluded 
+  
+ 
+ 
+ADIT BOY Worksheet  
+Attachment 4B 
+PECO Energy Company 
+ 
+ 
+ADIT BOY Worksheet 
+Page 1 of 3 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 4 
+ 
+ A B C D E F G 
+Line ADIT-282 (Attachment H-7 
+Notes N and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+13a        
+13b        
+13c        
+13d        
+13e        
+13f        
+13g        
+13h        
+…        
+14 Subtotal - p275.2.b - - - - -  
+15 Less FASB 109 Above if 
+not separately removed 
+      
+16 Less FASB 106 Above if 
+not separately removed 
+      
+17 Total (Line 14 - Line 15 - 
+Line 16) 
+- - - - -  
+        
+        
+18 Instructions for Account 
+282: 
+      
+19 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C 
+20 2.  ADIT items related only to Transmission are directly assigned to Column D 
+21 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E 
+22 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F 
+23  
+24 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT 
+is not included in the formula,  the associated ADIT amount shall be excluded 
+ 
+  
+ 
+ 
+ 
+ADIT BOY Worksheet 
+Attachment 4B 
+PECO Energy Company 
+ 
+ 
+ADIT BOY Worksheet 
+Page 2 of 3 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 5 
+ 
+ 
+ADIT BOY Worksheet 
+Attachment 4B 
+PECO Energy Company 
+ 
+ 
+ADIT BOY Worksheet 
+Page 3 of 3 
+ 
+ A B C D E F G 
+Line ADIT-283 (Attachment H-7 
+Notes O, P and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+25        
+25a        
+25b        
+25c        
+25d        
+25e        
+25f        
+25g        
+25h        
+25i        
+25j        
+25k        
+25l        
+25m        
+25n        
+25o        
+25p        
+25q        
+25r        
+25s        
+25t        
+25u        
+25v        
+25w        
+25x        
+25y        
+25z        
+25aa        
+25ab        
+25ac        
+25ad        
+25ae        
+25af        
+….        
+….        
+26 Subtotal - p276.9.b - - - - -  
+27 Less FASB 109 Above if 
+not separately removed 
+      
+28 Less FASB 106 Above if 
+not separately removed 
+      
+29 Total - - - - -  
+        
+30 Instructions for Account 
+283: 
+      
+31 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C 
+32 2.  ADIT items related only to Transmission are directly assigned to Column D 
+33 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E 
+34 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F 
+35  
+36 
+5.  Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the 
+ADIT is not included in the formula,  the associated ADIT amount shall be excluded 
+ 
+ 
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 6 
+ 
+ 
+ADIT EOY Worksheet 
+Attachment 4C 
+PECO Energy Company 
+ 
+ 
+ADIT EOY Worksheet 
+Page 1 of 3  
+  Total  Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related  
+a ADIT- 282 -  - - - (From line 17 for the column) 
+b ADIT-283 -  - - - (From line 29 for the column) 
+c ADIT-190 -  - - - (From line 5 for the column) 
+d Subtotal -  - - - (Sum a - c) 
+.        
+ In filling out this attachment, a full and complete description of each item and justification for the allocation to Columns C-F and each separate ADIT 
+item will be listed. Dissimilar items with amounts exceeding $100,000 will be listed separately. 
+        
+ A B C D E F G 
+Line ADIT-190 (Attachment H-7 
+Notes P and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+1        
+1a        
+1b        
+1c        
+1d        
+1e        
+1f        
+1g        
+1h        
+1i        
+1j        
+1k        
+1l        
+1m        
+1n        
+1o        
+1p        
+1q        
+1r        
+1s        
+1t        
+1u        
+1v        
+1w        
+1x        
+1y        
+1z        
+1aa        
+1ab        
+1ac        
+1ad        
+1ae        
+1af        
+1ag        
+1ah        
+1ai        
+1aj        
+1ak        
+1al        
+1am        
+1an        
+…        
+2 Subtotal - p234.8.b - - - - -  
+3 Less FASB 109 Above if 
+not separately removed 
+      
+4 Less FASB 106 Above if 
+not separately removed 
+      
+5 Total (Line 2 - Line 3 - Line 
+4) 
+- - - - -  
+        
+6 Instructions for Account 
+190: 
+            
+7 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C  
+8 2.  ADIT items related only to Transmission are directly assigned to Column D  
+9 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E  
+10 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F  
+11 
+12 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT is not included in 
+the formula,  the associated ADIT amount shall be excluded 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 7 
+ 
+ 
+ADIT EOY Worksheet 
+Attachment 4C 
+PECO Energy Company 
+ 
+ 
+ADIT EOY Worksheet 
+Page 2 of 3  
+ A B C D E F G 
+Line ADIT-282 (Attachment H-7 
+Notes N and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+13a        
+13b        
+13c        
+13d        
+13e        
+13f        
+13g        
+13h        
+…        
+14 Subtotal - p275.2.b - - - - -  
+15 Less FASB 109 Above if 
+not separately removed 
+      
+16 Less FASB 106 Above if 
+not separately removed 
+      
+17 Total (Line 14 - Line 15 - 
+Line 16) 
+- - - - -  
+        
+        
+18 Instructions for Account 
+282: 
+      
+19 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C 
+20 2.  ADIT items related only to Transmission are directly assigned to Column D 
+21 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E 
+22 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F 
+23  
+24 
+5. Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the ADIT 
+is not included in the formula,  the associated ADIT amount shall be excluded 
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 8 
+   
+ 
+ 
+ADIT EOY Worksheet 
+Attachment 4C 
+PECO Energy Company 
+ 
+ 
+ADIT EOY Worksheet 
+Page 3 of 3 
+ 
+ A B C D E F G 
+Line ADIT-283 (Attachment H-7 
+Notes O, P and Q) 
+Total Gas, Prod 
+Retail or Other 
+Related 
+Only 
+Transmission 
+Related 
+Plant 
+Related 
+Labor Related Justification 
+        
+        
+25a        
+25b        
+25c        
+25d        
+25e        
+25f        
+25g        
+25h        
+25i        
+25j        
+25k        
+25l        
+25m        
+25n        
+25o        
+….        
+26 Subtotal - p276.9.b - - - - -  
+27 Less FASB 109 Above if 
+not separately removed 
+      
+28 Less FASB 106 Above if 
+not separately removed 
+      
+29 Total - - - - -  
+        
+30 Instructions for Account 
+283: 
+      
+31 1.  ADIT items related only to Non-Electric Operations (e.g., Gas, Water, Sewer) or Production are directly assigned to Column C 
+32 2.  ADIT items related only to Transmission are directly assigned to Column D 
+33 3.  ADIT items related to Plant other than general plant, intangible plant or common plant and not in Columns C & D are included in Column E 
+34 4.  ADIT items related to labor, general plant, intangible plant, or common plant and not in Columns C & D are included in Column F 
+35  
+36 
+5.  Deferred income taxes arise when items are included in taxable income in different periods than they are included in rates, therefore if the item giving rise to the 
+ADIT is not included in the formula,  the associated ADIT amount shall be excluded 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+ 
+ 
+ 
+ 
+PECO Energy Company 
+ 
+Attachment 4D - Intangible Plant Workpaper 
+ 
+Page 1 of 2  
+ 
+ (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) 
+ Gross Plant December Prior Year January February March April May June July August September October November December Average Transmission Distribution S&W 
+Allocation 
+Total 
+               =average(b:n)    =sum(p:r) 
+1               #DIV/0!   #DIV/0! #DIV/0! 
+2               #DIV/0! #DIV/0!   #DIV/0! 
+3               #DIV/0!  #DIV/0!  #DIV/0! 
+4               #DIV/0!  #DIV/0!  #DIV/0! 
+5               #DIV/0!  #DIV/0!  #DIV/0! 
+6               #DIV/0!  #DIV/0!  #DIV/0! 
+7               #DIV/0!  #DIV/0!  #DIV/0! 
+8                   - 
+9                   - 
+10                   - 
+11                   - 
+12                   - 
+13                   - 
+14                   - 
+15                   - 
+16                   - 
+17                   - 
+18                   - 
+19 Total - - - - - - - - - - - - - - #DIV/0! #DIV/0! #DIV/0! #DIV/0! 
+20             Allocation Factor 100.00% 0.00% 0.00%  
+21             Total Intangible - Transmission #DIV/0! #DIV/0! #DIV/0! #DIV/0! 
+              #DIV/0! #DIV/0! #DIV/0! #DIV/0!   
+ (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) 
+ Accumulate
+d 
+Depreciation 
+December Prior Year January February March April May June July August September October November December Average Transmission Distribution S&W 
+Allocation 
+Total 
+               =average(b:n)    =sum(p:r) 
+22               #DIV/0!   - #DIV/0! 
+23               #DIV/0! #DIV/0!   #DIV/0! 
+24               #DIV/0!  #DIV/0!  #DIV/0! 
+25               #DIV/0!  #DIV/0!  #DIV/0! 
+26               #DIV/0!  #DIV/0!  #DIV/0! 
+27               #DIV/0!  #DIV/0!  #DIV/0! 
+28               #DIV/0!  #DIV/0!  #DIV/0! 
+29                   - 
+30                   - 
+31                   - 
+32                   - 
+33                   - 
+34                   - 
+35                   - 
+36                   - 
+37                   - 
+38                   - 
+39                   - 
+40 Total - - - - - - - - - - - - - - #DIV/0! #DIV/0! #DIV/0! #DIV/0! 
+41             Allocation Factor 100.00% 0.00% 0.00%  
+42             Total Intangible - Transmission #DIV/0! #DIV/0! #DIV/0! #DIV/0! 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ 
+ PECO Energy Company   Attachment 4D - Intangible Plant Workpaper Page 2 of 2  
+ 
+ (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) 
+ Net Plant in 
+Service 
+December 
+Prior Year 
+January February March April May June July August September October November December Average Transmission Distribution S&W 
+Allocation 
+Total 
+ Gross Plant 
+Minus 
+Accumulated 
+Depreciation 
+             =average(b:n)    =sum(p:r) 
+43 0 - - - - - - - - - - - - - -   - - 
+44 0 - - - - - - - - - - - - - - -   - 
+45 0 - - - - - - - - - - - - - -  -  - 
+46 0 - - - - - - - - - - - - - -  -  - 
+47 0 - - - - - - - - - - - - - -  -  - 
+48 0 - - - - - - - - - - - - - -  -  - 
+49 0 - - - - - - - - - - - - - -  -  - 
+50  - - - - - - - - - - - - -     - 
+51  - - - - - - - - - - - - -     - 
+52  - - - - - - - - - - - - -     - 
+53  - - - - - - - - - - - - -     - 
+54  - - - - - - - - - - - - -     - 
+55  - - - - - - - - - - - - -     - 
+56  - - - - - - - - - - - - -     - 
+57  - - - - - - - - - - - - -     - 
+58  - - - - - - - - - - - - -     - 
+59  - - - - - - - - - - - - -     - 
+60  - - - - - - - - - - - - -     - 
+61 Total - - - - - - - - - - - - - - - - - - 
+62             Allocation Factor 100.00% #DIV/0! #DIV/0!  
+63             Total Intangible - Transmission - - - - 
+                    
+ (a) (b) (c) (d) (e) (f)              
+  Total Transmission Distribution S&W 
+Allocation 
+Total              
+ Depreciation 
+Expense 
+    =sum(c:e)              
+64  -   - -              
+65  - -   -              
+66  -  -  -              
+67  -  -  -              
+68  -  -  -              
+69  -  -  -              
+70  -  -  -              
+71  - -   -              
+72  -    -              
+73  -    -              
+74  -    -              
+75  -    -              
+76  -    -              
+77  -    -              
+78  -    -              
+79  -    -              
+80  -    -              
+81  -    -              
+82 Total - - - - -              
+83 Allocation Factor 100.00% 0.00% -               
+84 Total Intangible - Transmission - - - -              
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ 
+ PECO Energy Company 
+Attachment 4E - Cost to Achieve Mergers (Note A) 
+Page 1 of 2  
+ 
+ (a) (b) (c) (d) (e) (…) (x) 
+ O&M Cost To Achieve       
+ FERC Account      Total 
+1       $       - 
+2       $       - 
+3       $       - 
+4       $       - 
+5       $       - 
+6       $       - 
+7       $       - 
+8       $       - 
+9       $       - 
+10       $       - 
+11 Total - -    $       - 
+        
+ Capital Cost To Achieve included in the Electric 
+Portion of Common Plant 
+      
+ Gross Plant 0 0    Total 
+12 December Prior Year      $       - 
+13 January      $       - 
+14 February      $       - 
+15 March       $       - 
+16 April      $       - 
+17 May      $       - 
+18 June      $       - 
+19 July      $       - 
+20 August       $       - 
+21 September      $       - 
+22 October      $       - 
+23 November      $       - 
+24 December       $       - 
+25 Average #DIV/0! #DIV/0!    - 
+        
+        
+ Accumulated Depreciation 0 0    Total 
+26 December Prior Year      $       - 
+27 January      $       - 
+28 February      $       - 
+29 March       $       - 
+30 April      $       - 
+31 May      $       - 
+32 June      $       - 
+33 July      $       - 
+34 August       $       - 
+35 September      $       - 
+36 October      $       - 
+37 November      $       - 
+38 December       $       - 
+39 Average #DIV/0! #DIV/0!    - 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 1 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ PECO Energy Company 
+ 
+Attachment 4E - Cost to Achieve Mergers (Note A) 
+Page 2 of 2  
+ 
+ (a) (b) (c) (d) (e) (…) (x) 
+ Net Plant = Gross Plant Minus Accumulated 
+Depreciation from above 
+0 0    Total 
+40 December Prior Year - - - - - $       - 
+41 January - - - - - $       - 
+42 February - - - - - $       - 
+43 March  - - - - - $       - 
+44 April - - - - - $       - 
+45 May - - - - - $       - 
+46 June - - - - - $       - 
+47 July - - - - - $       - 
+48 August  - - - - - $       - 
+49 September - - - - - $       - 
+50 October - - - - - $       - 
+51 November - - - - - $       - 
+52 December  - - - - - $       - 
+53 Average #DIV/0! - - - - - 
+        
+        
+ Depreciation (Monthly Change of Accumulated 
+Depreciation from above) 
+0 0    Total 
+54 January - -    $       - 
+55 February - -    $       - 
+56 March  - -    $       - 
+57 April - -    $       - 
+58 May - -    $       - 
+59 June - -    $       - 
+60 July - -    $       - 
+61 August  - -    $       - 
+62 September - -    $       - 
+63 October - -    $       - 
+64 November - -    $       - 
+65 December  - -    $       - 
+66 Total - -    $       - 
+        
+Note:        
+A: Merger-related costs incurred during hold harmless period are to be excluded from rate unless approved by FERC order. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ Attachment 5 
+Attachment H-7, Pages 3 and 4, Worksheet 
+PECO Energy Company 
+Page 1 of 2  
+ 
+Line 
+No. 
+ 
+ 
+Month 
+ 
+Transmission 
+O&M Expenses 
+ 
+Account No. 566 
+(Misc. Trans. 
+Expense) 
+ 
+Account No. 565 
+ 
+Accounts 561.4 
+and 561.8 
+Amortization 
+of Regulatory 
+Asset 
+Miscellaneous 
+Transmission 
+Expense (less 
+amortization of 
+regulatory asset) 
+ 
+Depreciation 
+Expense - 
+Transmission 
+ 
+Depreciation Expense 
+- Common 
+Depreciation 
+Expense - 
+Transmission 
+Intangible 
+Depreciation 
+Expense - 
+General 
+Intangible 
+Depreciation 
+Expense - 
+Distribution 
+  (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) 
+ 
+ Attachment H-7, Page 3, Line 
+No.: 
+ 
+1 2 3  11 12 16     
+ Form No. 1 321.112.b 321.97.b 321.96.b 321.88.b & 92.b Portion of 
+Account 566 
+Balance of 
+Account 566 
+Attachment 8, Page 
+1, Line 11, Col J 
+Attachment 8, Page 
+2, Line 51, Col J 
+Attachment 8, 
+Page 2, Line 
+10, Col J 
+Attachment 8, 
+Page 2, Line 
+19, Col J 
+Attachment 
+8, Page 2, 
+Line 22, Col 
+J 
+      (Attachment 
+H-7 Notes T 
+and Z) 
+      
+             
+1 Total      $        - $        - $        - $        - $        - $        - 
+             
+             
+  Depreciation 
+Expense - 
+General 
+Amortization of 
+Abandoned Plant 
+Labor Related Taxes Labor Related 
+Taxes to be 
+Exclued 
+Plant Related 
+Taxes 
+Excluded Taxes 
+Per Attachment 
+5C Line 5 
+Other Included Taxes Plant Related Taxes 
+to be Excluded 
+Amortized 
+Investment 
+Tax Credit 
+Consistent 
+with (266.8.f 
+& 266.17.f) - 
+Transmission 
+Excess 
+Deferred 
+Income Tax 
+Amortization - 
+Transmission 
+Tax Effect of 
+Permanent 
+Differences - 
+Transmission 
+  (a) 
+ 
+(b) (c)(Note F) (d) (Note F) (e) (f) (g) (h) (Note F) (i) (j) (k) 
+ Attachment H, Page 3, Line No. 17 
+ 
+19 23 24 26 27 28 29 38 39 40 
+ Form No. 1 Attachment 8, 
+Page 1, Line 25, 
+Col J 
+(Note S) Attachment 5C Line 2 Attachment 5C 
+Line 9 
+Attachment 5C 
+Line 1 
+Attachment 5C 
+Line 5 
+Attachment 5C Line 
+3 
+Attachment 5C Line 
+10 
+(Note E) (Attachment H-
+7 Note G) 
+(Attachment 
+H-7 Note W) 
+             
+             
+2 Total            
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ Attachment 5 
+Attachment H-7, Pages 3 and 4, Worksheet 
+PECO Energy Company 
+Page 2 of 2  
+ 
+3   Long Term Interest (117, sum of 62.c through 67.c)     -    
+             
+4   Preferred Dividends (118.29c) (positive number)         
+             
+5   Proprietary Capital      -    
+6   Less Preferred Stock      #DIV/0!    

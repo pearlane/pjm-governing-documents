@@ -1,0 +1,1111 @@
+[ATTACHMENT K - Part 5 of 12]
+
+dispatch of the system, the latter of which is referred to as the dispatch run.  The calculation of 
+Locational Marginal Prices, which occurs in a process referred to as the pricing run, is based on 
+the same optimization problem as the security-constrained economic dispatch.  The objective of 
+both the dispatch run and the pricing run is to serve load and meet reserve requirements at the 
+least cost while respecting transmission constraints.  However, Integer Relaxation is applied only 
+to Eligible Fast-Start Resources committed in the pricing run to provide energy.   
+ 
+In the dispatch run a commitment state of 1 represents a resource is committed and 0 represents a 
+resource is not committed.  In the pricing run Integer Relaxation allows the commitment state of 
+a committed Eligible Fast-Start Resource to be lowered to any value between 0 and 1, inclusive 
+of 0 and 1.  This in turn allows the optimization problem in the pricing run to use any fraction of 
+a committed Eligible Fast-Start Resource’s output, including an amount less than the resource’s 
+offered Economic Minimum output, in the determination of Locational Marginal Prices.   
+ 
+The process for the determination of Locational Marginal Prices in the Day-ahead Energy 
+Market is described in Tariff, Attachment K-Appendix, section 2.6 and the process for the 
+determination of Locational Marginal Prices in the Real-time Energy Market is described in 
+Tariff, Attachment K-Appendix, section 2.5. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.2A Fast-Start Resources 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 1 
+2.2A Fast-Start Resources. 
+ 
+(a) A Fast-Start Resource is a resource capable of operating with a notification time plus 
+startup time of one hour or less and a Minimum Run Time of one hour or less or Minimum 
+Down Time of one hour or less based on its operating characteristics.  Fast-Start Resources 
+include Economic Load Response Participant resources and the following types of generation 
+resources:  fuel cell, combustion turbine, diesel, hydropower, battery, solar, landfill, and wind.  
+Other resources may be considered a Fast-Start Resource by obtaining written approval from the 
+Office of the Interconnection pursuant to subsection (b) below.   
+ 
+(b) The Market Seller of a resource not considered a Fast-Start Resource may obtain 
+approval for such resource to be considered a Fast-Start Resource by submitting to the Office of 
+the Interconnection and the Market Monitoring Unit a written request for approval and provide 
+documentation to support the resource’s capability of operating with a notification time plus 
+startup time of one hour or less and a Minimum Run Time of one hour or less or Minimum 
+Down Time of one hour or less based on its operating characteristics, such as historical operating 
+data showing the ability to provide energy upon an hour’s notice.  The Office of the 
+Interconnection and the Market Monitoring Unit shall review, in an open and transparent manner 
+as between the Market Seller, the Market Monitoring Unit, and the Office of the Interconnection, 
+the information and documentation in support of the request for approval for a resource to be a 
+Fast-Start Resource.  A Market Seller must submit such a request, and supporting 
+documentation, no later than April 15, and the Office of the Interconnection shall determine, 
+with the advice and input of the Marketing Monitoring Unit, whether the resource will be 
+considered Fast-Start capable and provide no later than the following May 30 written notification 
+to the Market Seller of such determination.  If the request is granted, the resource shall be 
+considered a Fast-Start Resource as of the next June 1 following submission of the request.  If 
+the request is denied, the Office of the Interconnection shall include in the notice a written 
+explanation for the denial. 
+ 
+(c) To the extent a Fast-Start Resource fails, on a persistent basis, to provide energy or load 
+reduction consistent with offer parameters on which it was committed of a notification time plus 
+startup time of one hour or less and a Minimum Run Time of one hour or less or minimum down 
+time of one hour or less, the Office of the Interconnection may deem, in consultation with the 
+Market Monitoring Unit, that a resource is no longer considered a Fast-Start Resource.  The 
+Office of the Interconnection shall provide written notification, with a written explanation, to the 
+Market Seller of such determination.  A resource may regain Fast-Start Resource status pursuant 
+to subsection (b) above. 
+ 
+(d) A Fast-Start Resource shall be an Eligible Fast-Start Resource when the following apply: 
+ 
+(i) A generation resource is committed on an offer with a notification time plus 
+startup time of one hour or less and a Minimum Run Time of one hour or less. 
+(ii) An Economic Load Response Participant resource is committed on an offer with a 
+notification time of one hour or less and a Minimum Down Time of one hour or 
+less. 
+(iii) The resource shall not be any of the following: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.2A Fast-Start Resources 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 2 
+a. Self-scheduled for Energy in a given interval; 
+b. A pumped storage hydropower unit scheduled by the Office of the 
+Interconnection pursuant to the hydro optimization tool in the Day-ahead 
+Energy Market; 
+c. A pseudo-tied resource that does not provide all of their output to PJM; or  
+d. A dynamically scheduled resource.   
+ 
+Only Eligible Fast-Start Resources shall have Integer Relaxation applied in the calculation of 
+Locational Marginal Prices.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.3 [Reserved] 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 1 
+2.3 Reserved for Future Use.    
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4 Determination of Energy 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 1 
+2.4 Determination of Energy Offers Used in Calculating Real-time Prices. 
+ 
+ (a) During the Operating Day, real-time Locational Marginal Prices derived in 
+accordance with this section shall be determined every five minutes. 
+ 
+ (b) To determine the energy offers submitted to the PJM Interchange Energy Market 
+that shall be used during the Operating Day to calculate the Real-time Prices, the Office of the 
+Interconnection shall determine the applicable marginal energy offer based on the latest 
+approved real-time security constrained economic dispatch solution available for the target time 
+for the resources being dispatched by the Office of the Interconnection using the offer schedule 
+on which the resource is committed in the dispatch run.   
+ 
+ The Office of the Interconnection will determine a resource’s applicable marginal energy 
+offer, as described in the PJM Manuals, based on the latest approved real-time security 
+constrained economic dispatch solution available for the target time and the Market Seller’s 
+Incremental Energy Offer curve or, for Eligible Fast-Start Resources, the Market Seller’s 
+Composite Energy Offer in which the resource is evaluated in the Pricing Run.  For Eligible 
+Fast-Start Resources, the amortized Start-Up Costs and amortized No-load Costs, expressed in 
+dollars per megawatt-hour, are added to the resource’s Incremental Energy Offer to determine a 
+Composite Energy Offer, as described below:  
+ 
+(i) The amortized Start-Up Cost for a generation resource shall equal the resource’s 
+applicable Start-Up Cost, as determined in accordance with the PJM Manuals, 
+amortized over (A) the resource’s Economic Maximum or Emergency Maximum 
+output, whichever is applicable, and (B) the resource’s Minimum Run Time, 
+rounded up to the nearest twelfth of an hour.  The amortized Start-Up Cost is 
+included in the resource’s Composite Energy Offer in each five-minute interval in 
+which the resource is pool-scheduled during the resource’s Minimum Run Time.  
+If the Minimum Run Time is less than 5 minutes, the Minimum Run Time used to 
+calculate the amortized Start-Up Cost is 5 minutes and the amortized Start-Up 
+Cost is added to the Incremental Energy Offer for the first five minute interval in 
+which the resource runs.  After the Minimum Run Time has been met, the 
+amortized Start-Up Cost is not included in the Composite Energy Offer.  To 
+determine the amortized Start-Up Cost for Economic Load Response Participant 
+resources, the Minimum Down Time is used in place of Minimum Run Time and 
+shutdown cost is used in place of Start-Up Cost in the above equation. 
+ 
+The amortized Start-Up Cost, to the extent it is reviewed pursuant to Tariff, 
+Attachment K-Appendix, section 6.4.3A, shall be adjusted if the resource’s 
+applicable Start-Up Cost exceeds the reasonably expected cost, as described in 
+subsection (iii) below.  
+ 
+(ii) The amortized No-load Cost shall equal the resource’s applicable No-load Cost, 
+amortized over the resource’s Economic Maximum or Emergency Maximum 
+output, whichever is applicable, and included in the Composite Energy Offer for 
+each interval in which the resource is pool-scheduled. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4 Determination of Energy 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 2 
+ 
+The amortized No-load Cost, to the extent it is reviewed pursuant to Tariff, 
+Attachment K-Appendix, section 6.4.3A, shall be adjusted if the resource’s 
+applicable Incremental Energy Offer and No-load Cost exceed the reasonably 
+expected cost, as described in subsection (iii) below.  
+ 
+(iii) To the extent a Composite Energy Offer of a generation resource that is an 
+Eligible Fast-Start Resource is less than $2,000/megawatt-hour and is reviewed 
+pursuant to Operating Agreement, Schedule 1, 6.4.3A, pursuant to which the 
+Office of the Interconnection evaluates the resource’s submitted Start-Up Cost 
+and No-load Cost against the resource’s reasonably expected Start-Up Cost and 
+No-load Cost, adjustments may be applied to yield a Composite Energy Offer no 
+lower than $1,000/megawatt-hour at the Economic Maximum output as follows:   
+ 
+1) If the submitted Start-Up Cost and No-load Cost do not exceed the 
+respective reasonably expected costs, no adjustments shall be made to the 
+submitted Composite Energy Offer.   
+ 
+2) If the submitted Start-Up Cost does not exceed the resource’s reasonably 
+expected Start-Up Cost but the submitted No-load Cost does exceed the 
+reasonably expected No-load Cost, then the Composite Energy offer shall 
+equal the Incremental Energy Offer plus the amortized submitted Start-Up 
+Cost; provided, however, if the resulting Composite Energy Offer at 
+Economic Maximum yields a value less than $1,000/megawatt-hour, then 
+the Composite Energy Offer shall include an amortized No-load Cost 
+value sufficient to make the Composite Energy Offer equal to 
+$1,000/megawatt-hour at Economic Maximum. 
+ 
+3) If the submitted Start-Up Cost exceeds the resource’s reasonably expected 
+Start-Up Cost but the submitted No-load Cost does not exceed the 
+reasonably expected No-load Cost, then the Composite Energy Offer shall 
+equal the Incremental Energy Offer plus the amortized No-load Cost; 
+provided, however, if the resulting Composite Energy Offer at Economic 
+Maximum yields a value less than $1,000/megawatt-hour, then the 
+Composite Energy Offer shall include an amortized Start-Up Cost value 
+sufficient to make the Composite Energy Offer equal to $1,000/megawatt-
+hour at Economic Maximum. 
+ 
+4) If both the submitted Start-Up Cost and No-load Cost exceed the 
+respective reasonably expected costs and the Incremental Energy Offer is 
+below $1,000 MWh, then the Composite Energy Offer shall equal 
+$1,000/megawatt-hour and be composed of the resource’s: (i) Incremental 
+Energy Offer, (ii) a No-load Cost value equal to the lesser of the 
+resource’s amortized submitted No-load Cost or a value sufficient to make 
+the Composite Energy Offer at Economic Maximum equal to 
+$1,000/megawatt-hour, and (iii) to the extent the sum of the foregoing is 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4 Determination of Energy 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 3 
+less than $1,000/megawatt-hour, an amortized Start-Up Cost value 
+sufficient to make the Composite Energy Offer equal to $1,000/megawatt-
+hour at Economic Maximum. 
+ 
+ (c) If a generation resource that is an Eligible Fast-Start Resource submits a market-
+based offer that results in a Composite Energy Offer that exceeds $1,000/megawatt-hour at the 
+resource’s Economic Maximum: 
+ 
+(i) If the Incremental Energy Offer of the market-based schedule exceeds the 
+Incremental Energy Offer of the associated cost-based offer, then the amortized 
+Start-Up Cost and the amortized No-load Cost for the market-based schedule 
+shall both be considered to exceed their respective reasonably expected cost, and 
+the Composite Energy Offer shall be equal to $1,000/megawatt-hour and be 
+composed of the resource’s (i) Incremental Energy Offer, (ii) a No-load Cost 
+value equal to the lesser of the resource’s amortized submitted No-load Cost or a 
+value sufficient to make the Composite Energy Offer at Economic Maximum equal 
+to $1,000/megawatt-hour, and (iii) to the extent the sum of the foregoing is less 
+than $1,000/megawatt-hour, an amortized Start-Up Cost value sufficient to make 
+the Composite Energy Offer equal to $1,000/megawatt-hour at Economic 
+Maximum. 
+ 
+(ii) If the Incremental Energy Offer of the market-based schedule is not greater than 
+the Incremental Energy Offer of the associated cost-based offer and:  
+ 
+(1) If the amortized No-load Cost for the market-based schedule exceeds the 
+No-load Cost of the associated cost-based offer or, exceeds the reasonably 
+expected cost of such cost-based offer, then the amortized No-load Cost 
+shall be adjusted in the matter set forth in subsections (b)(iii)(2) and (4) 
+above, as applicable. 
+ 
+(2) If the amortized Start-Up Cost for the market-based schedule exceeds the 
+Start-Up Cost of the specified on the associated cost-based offer or 
+exceeds the reasonably expected cost  of the Start-Up Cost of such cost-
+based offer, then the amortized Start-Up Cost shall be adjusted in the 
+manner set forth in subsections (b)(iii)(3) and (4), as applicable.  
+ 
+(3)  To the extent the Composite Energy Offer resulting from subsections 
+(c)(ii)(1) and (2) above would exceed $2,000/MWh, then the Composite 
+Energy Offer shall equal $2,000/megawatt-hour and the submitted Start-
+Up Cost and No-load Cost shall be adjusted in the manner set forth in 
+subsection (e) below. 
+ 
+ (d) For purposes of calculating Real-time Prices, the applicable marginal Incremental 
+Energy Offer used in the calculation of Real-time Prices shall not exceed $2,000/megawatt-hour.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4 Determination of Energy 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 4 
+ (e) If a generation resource that is an Eligible Fast-Start Resource submits an offer 
+that results in a Composite Energy Offer with a maximum segment that exceeds 
+$2,000/megawatt-hour and such offer is reviewed pursuant to Operating Agreement, Schedule 1, 
+6.4.3A, pursuant to which the Office of the Interconnection evaluates the resource’s submitted 
+Start-Up Cost and No-load Cost against the resource’s reasonably expected Start-Up Cost and 
+No-load Cost, the following adjustments will be made to cap the offer at no higher than 
+$2,000/megawatt-hour:   
+ 
+(i) If the submitted Start-Up Cost and No-load Cost do not exceed the respective 
+reasonably expected costs, the Composite Energy Offer shall equal 
+$2,000/megawatt-hour and be composed of: (i) the resource’s Incremental 
+Energy Offer, (ii) to the extent the Incremental Energy Offer is less than 
+$2,000/megawatt-hour, a No-load Cost value equal to the lesser of the resource’s 
+amortized submitted No-load Cost or a value sufficient to make the Composite 
+Energy Offer at Economic Maximum equal to $2,000/megawatt-hour, and (iii) to 
+the extent the sum of the foregoing is less than $2,000/megawatt-hour, a Start-Up 
+Cost value an amortized Start-Up Cost value sufficient to make the Composite 
+Energy Offer at Economic Maximum equal to $2,000/megawatt-hour. 
+ 
+(ii) If the submitted Start-Up Cost does not exceed the resource’s reasonably 
+expected Start-Up Cost but the submitted No-load Cost does exceed the 
+reasonably expected No-load Cost, then the Composite Energy offer shall equal 
+the Incremental Energy Offer plus the amortized submitted Start-Up Cost; 
+provided, however, if the resulting Composite Energy Offer at Economic 
+Maximum yields a value greater than $2,000/megawatt-hour, then the Composite 
+Energy Offer shall include an amortized Start Up Cost value sufficient to make 
+the Composite Energy Offer equal to $2,000/megawatt-hour. 
+ 
+(iii) If the submitted Start-Up Cost exceeds the resource’s reasonably expected Start-
+Up Cost but the submitted No-load Cost does not exceed the reasonably expected 
+No-load Cost, then the Composite Energy Offer shall equal the Incremental 
+Energy Offer plus the amortized No-load Cost; provided, however, if the resulting 
+Composite Energy Offer at Economic Maximum yields a value greater than 
+$2,000/megawatt-hour, then the Composite Energy Offer shall include an 
+amortized No-load Cost value sufficient to make the Composite Energy Offer 
+equal to $2,000/megawatt-hour. 
+ 
+(iv) If the submitted Start-Up Cost and No-load Cost both exceed the respective 
+reasonably expected costs, the Composite Energy Offer shall equal the lesser of 
+the resource’s Incremental Energy Offer or $2,000/megawatt-hour. 
+ 
+(v) To the extent any of the foregoing subsections (e)(ii) through (e)(iv) would result 
+in a Composite Energy Offer less than $1,000/MWh at Economic Maximum, the 
+Composite Energy Offer shall equal $1,000/megawatt-hour and be composed of 
+the resource’s: (i) Incremental Energy Offer, (ii) a No-load Cost value equal to 
+the lesser of the resource’s amortized submitted No-load Cost or a value sufficient 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4 Determination of Energy 
+Effective Date: 11/1/2021 - Docket #: ER21-1919-000 - Page 5 
+to make the Composite Energy Offer equal to $1,000/megawatt-hour at Economic 
+Maximum, and (iii) to the extent the sum of the foregoing is less than 
+$1,000/megawatt-hour, an amortized Start-Up Cost value sufficient to make the 
+Composite Energy Offer equal to $1,000/megawatt-hour at Economic Maximum. 
+ 
+(f) To the extent an Economic Load Response Participant resource’s Composite Energy 
+Offer is reviewed pursuant to Operating Agreement, Schedule 1, 6.4.3A, pursuant to which the 
+Office of the Interconnection evaluates the resource’s submitted shutdown cost against the 
+resource’s reasonably expected shutdown costs, adjustments may be applied to yield a 
+Composite Energy Offer, at Economic Maximum, no lower than $1,000/megawatt-hour and no 
+greater than $2,000/megawatt-hour as follows: 
+ 
+(i) If a Composite Energy Offer at Economic Maximum is greater than 
+$1,000/megawatt-hour but does not exceed $2,000/megawatt-hour, and the 
+amortized shutdown cost, to the extent that it is reviewed pursuant to Operating 
+Agreement, Schedule 1, section 6.4.3A, does not exceed the resource’s reasonably 
+expected shutdown cost, then no adjustments shall be made to the submitted 
+Composite Energy Offer. 
+ 
+(ii) If the amortized shutdown cost, to the extent that it is reviewed pursuant to 
+Operating Agreement, Schedule 1, section 6.4.3A, exceeds the resource’s 
+reasonably expected shutdown cost, then the Composite Energy Offer shall equal: 
+(i) the resource’s Incremental Energy Offer, and (ii) to the extent the Incremental 
+Energy Offer is less than $1,000/megawatt-hour, a shutdown value equal to the 
+lesser of the resource’s amortized submitted shutdown cost or a value sufficient to 
+make the Composite Energy Offer at Economic Maximum equal to 
+$1,000/megawatt-hour. 
+ 
+(iii) If the Composite Energy Offer at Economic Maximum exceeds $2,000/megawatt-
+hour and the amortized shutdown cost, to the extent that it is reviewed pursuant to 
+Operating Agreement, Schedule 1, section 6.4.3A, does not exceed the resource’s 
+reasonably expected shutdown cost, then the Composite Energy Offer shall equal 
+$2,000/megawatt-hour: (i) the resource’s Incremental Energy Offer, and (ii) to 
+the extent the Incremental Energy Offer is less than $2,000/megawatt-hour, a 
+shutdown value sufficient to make the Composite Energy Offer equal to 
+$2,000/megawatt-hour.   
+ 
+ (g) Units that must be run for local area protection shall not be considered in the 
+calculation of Real-time Prices. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4A Determination of Energy 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 1 
+2.4A Determination of Energy Offers Used in Calculating Day-ahead Prices. 
+ 
+(a) Day-ahead Prices derived in accordance with this section shall be determined for 
+every hour. 
+ 
+(b) To determine the energy offers submitted to the PJM Interchange Energy Market 
+that shall be used to calculate the Day-ahead Prices, the Office of the Interconnection shall 
+determine the applicable marginal energy offer of the resources being dispatched by the Office of 
+the Interconnection using the offer schedule on which the resource is committed in the dispatch 
+run. 
+ 
+The Office of the Interconnection will determine a resource’s applicable marginal energy offer 
+by comparing the megawatt output of the resource from the pricing run with the Market Seller’s 
+Incremental Energy Offer curve or, for Eligible Fast-Start Resources, the Market Seller’s 
+Composite Energy Offer.  For Eligible Fast-Start Resources, the amortized Start-Up Costs and 
+amortized No-load Costs, expressed in dollars per megawatt-hour, are added to the resource’s 
+Incremental Energy Offer to determine a Composite Energy Offer, as described below:  
+ 
+(i) The amortized Start-Up Cost for a generation resource shall equal the resource’s 
+applicable Start-Up Cost, as determined in accordance with the PJM Manuals, 
+amortized over (A) the resource’s Economic Maximum or Emergency Maximum 
+output, whichever is applicable and (B) the resource’s Minimum Run Time.  For 
+the purposes of this calculation, the Minimum Run Time is set to one hour.  The 
+amortized Start-Up Cost is included the resource’s Composite Energy Offer 
+during the resource’s Minimum Run Time.  After the Minimum Run Time has 
+been met the amortized Start-Up Cost is not included in the Composite Energy 
+Offer.  To determine the amortized Start-Up Cost for Economic Load Response 
+Participant resources, the Minimum Down Time is used in place of Minimum 
+Run Time and shutdown cost is used in place of Start-Up Cost in the above 
+equation. 
+ 
+The amortized Start-Up Cost, to the extent it is reviewed pursuant to Tariff, 
+Attachment K-Appendix, section 6.4.3A, shall be adjusted if the resource’s 
+applicable Start-Up Cost exceeds the reasonably expected cost, as described in 
+subsection (iii) below. 
+ 
+(ii) The amortized No-load Cost shall equal the resource’s applicable No-load Cost, 
+amortized over the resource’s Economic Maximum or Emergency Maximum 
+output, whichever is applicable output and included in the Composite Energy 
+Offer for all intervals in which the resource is pool-scheduled. 
+ 
+The amortized No-load Cost, to the extent that it is reviewed pursuant to Tariff, 
+Attachment K-Appendix, section 6.4.3A, shall be adjusted if the resource’s 
+applicable Incremental Energy Offer and No-load Cost exceed the reasonably 
+expected cost, as described in subsection (iii) below.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4A Determination of Energy 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 2 
+(iii) To the extent a Composite Energy Offer of a generation resource that is an 
+Eligible Fast-Start Resource is less than $2,000/megawatt-hour and is reviewed 
+pursuant to Operating Agreement, Schedule 1, 6.4.3A, pursuant to which the 
+Office of the Interconnection evaluates the resource’s submitted Start-Up Cost 
+and No-load Cost against the resource’s reasonably expected Start-Up Cost and 
+No-load Cost, adjustments may be applied to yield a Composite Energy Offer no 
+lower than $1,000/megawatt-hour at Economic Maximum as follows:   
+ 
+1) If the submitted Start-Up Cost and No-load Cost do not exceed the 
+respective reasonably expected costs, no adjustments shall be made to the 
+submitted Composite Energy Offer.   
+ 
+2) If the submitted Start-Up Cost does not exceed the resource’s reasonably 
+expected Start-Up Cost but the submitted No-load Cost does exceed the 
+reasonably expected No-load Cost, then the Composite Energy offer shall 
+equal the Incremental Energy Offer plus the amortized submitted Start-Up 
+Cost; provided, however, if the resulting Composite Energy Offer at 
+Economic Maximum yields a value less than $1,000/megawatt-hour, then 
+the Composite Energy Offer shall include an amortized No-load Cost 
+value sufficient to make the Composite Energy Offer equal to 
+$1,000/megawatt-hour at Economic Maximum. 
+ 
+3) If the submitted Start-Up Cost exceeds the resource’s reasonably expected 
+Start-Up Cost but the submitted No-load Cost does not exceed the 
+reasonably expected No-load Cost, then the Composite Energy Offer shall 
+equal the Incremental Energy Offer plus the amortized No-load Cost; 
+provided, however, if the resulting Composite Energy Offer at Economic 
+Maximum yields a value less than $1,000/megawatt-hour, then the 
+Composite Energy Offer shall include an amortized Start-Up Cost value 
+sufficient to make the Composite Energy Offer equal to $1,000/megawatt-
+hour at Economic Maximum. 
+ 
+4) If both the submitted Start-Up Cost and No-load Cost exceed the 
+respective reasonably expected costs and the Incremental Energy Offer is 
+below $1,000 MWh, then the Composite Energy Offer shall equal 
+$1,000/megawatt-hour and be composed of the resource’s: (i) Incremental 
+Energy Offer, (ii) a No-load Cost value equal to the lesser of the 
+resource’s amortized submitted No-load Cost or a value sufficient to make 
+the Composite Energy Offer at Economic Maximum equal to 
+$1,000/megawatt-hour, and (iii) to the extent the sum of the foregoing is 
+less than $1,000/megawatt-hour, an amortized Start-Up Cost value 
+sufficient to make the Composite Energy Offer equal to $1,000/megawatt-
+hour at Economic Maximum. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4A Determination of Energy 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 3 
+(c) If a generation resource that is an Eligible Fast-Start Resource submits a market-
+based offer that results in a Composite Energy Offer that exceeds $1,000/megawatt-hour at the 
+resource’s Economic Maximum: 
+(i) If the Incremental Energy Offer of the market-based schedule exceeds the 
+Incremental Energy Offer of the associated cost-based offer, then the amortized 
+Start-Up Cost and the amortized No-load Cost for the market-based schedule shall 
+both be  considered to exceed their respective reasonably expected costs, and the 
+Composite Energy Offer shall be equal to $1,000/megawatt-hour and be 
+composed of the resource’s (i) Incremental Energy Offer, (ii) a No-load Cost 
+value equal to the lesser of the resource’s amortized submitted No-load Cost or a 
+value sufficient to make the Composite Energy Offer at Economic Maximum 
+equal to $1,000/megawatt-hour, and (iii) to the extent the sum of the foregoing is 
+less than $1,000/megawatt-hour, an amortized Start-Up Cost value sufficient to 
+make the Composite Energy Offer equal to $1,000/megawatt-hour at Economic 
+Maximum. 
+ 
+(ii) If the Incremental Energy Offer of the market-based schedule is not greater than 
+the Incremental Energy Offer of the associated cost-based offer and:  
+ 
+(1) If the amortized No-load Cost for the market-based schedule exceeds the 
+No-load Cost specified on the associated cost-based offer or exceeds the 
+reasonably expected cost of the No-load Cost of such cost-based offer, 
+then the amortized No-load Cost shall be adjusted in the manner set forth 
+in subsections (b)(iii)(2) and (4) above, as applicable.  
+ 
+(2) If the amortized Start-Up Cost for the market-based schedule exceeds the 
+Start-Up Cost specified on the associated cost-based offer or exceeds the 
+reasonably expected cost of the Start-Up Cost of such cost-based offer, 
+then the amortized Start-Up Cost shall be adjusted in the manner set forth 
+in subsections (b)(iii)(3) and (4) above, as applicable.  
+ 
+(3) To the extent the Composite Energy Offer resulting from subsections (c)(ii)(1) 
+and (2) would exceed $2,000/MWh, then the Composite Energy Offer shall equal 
+$2,000/megawatt-hour and the submitted Start-Up Cost and No-load Cost shall be 
+adjusted in the manner set forth in subsection (e) below. 
+ 
+(d) For purposes of calculating Day-ahead Prices, the applicable marginal 
+Incremental Energy Offer used in the calculation of Day-ahead Prices shall not exceed 
+$2,000/megawatt-hour.  
+ 
+(e) If a generation resource that is an Eligible Fast-Start Resource submits an offer 
+that results in a Composite Energy Offer with a maximum segment that exceeds 
+$2,000/megawatt-hour and such offer is reviewed pursuant to Operating Agreement, Schedule 1, 
+6.4.3A, pursuant to which the Office of the Interconnection evaluates the resource’s submitted 
+Start-Up Cost and No-load Cost against the resource’s reasonably expected Start-Up Cost and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4A Determination of Energy 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 4 
+No-load Cost, the following adjustments will be made to cap the offer at no higher than 
+$2,000/megawatt-hour:  
+ 
+(i) If the submitted Start-Up Cost and No-load Cost do not exceed the respective 
+reasonably expected costs, the Composite Energy Offer shall equal 
+$2,000/megawatt-hour and be composed of: (i) the resource’s Incremental Energy 
+Offer, (ii) to the extent the Incremental Energy Offer is less than 
+$2,000/megawatt-hour, a No-load Cost value equal to the lesser of the resource’s 
+amortized submitted No-load Cost or a value sufficient to make the Composite 
+Energy Offer at Economic Maximum equal to $2,000/megawatt-hour, and (iii) to 
+the extent the sum of the foregoing is less than $2,000/megawatt-hour, a Start-Up 
+Cost value an amortized Start-Up Cost value sufficient to make the Composite 
+Energy Offer at Economic Maximum equal to $2,000/megawatt-hour. 
+ 
+(ii) If the submitted Start-Up Cost does not exceed the resource’s reasonably expected 
+Start-Up Cost but the submitted No-load Cost does exceed the reasonably 
+expected No-load Cost, then the Composite Energy offer shall equal the 
+Incremental Energy Offer plus the amortized submitted Start-Up Cost; provided, 
+however, if the resulting Composite Energy Offer at Economic Maximum yields a 
+value greater than $2,000/megawatt-hour, then the Composite Energy Offer shall 
+include an amortized Start Up Cost value sufficient to make the Composite 
+Energy Offer equal to $2,000/megawatt-hour. 
+ 
+(iii) If the submitted Start-Up Cost exceeds the resource’s reasonably expected Start-
+Up Cost but the submitted No-load Cost does not exceed the reasonably expected 
+No-load Cost, then the Composite Energy Offer shall equal the Incremental 
+Energy Offer plus the amortized No-load Cost; provided, however, if the resulting 
+Composite Energy Offer at Economic Maximum yields a value greater than 
+$2,000/megawatt-hour, then the Composite Energy Offer shall include an 
+amortized No-load Cost value sufficient to make the Composite Energy Offer 
+equal to $2,000/megawatt-hour. 
+ 
+(iv) If the submitted Start-Up Cost and No-load Cost both exceed the respective 
+reasonably expected costs, the Composite Energy Offer shall equal the lesser of 
+the resource’s Incremental Energy Offer or $2,000/megawatt-hour. 
+ 
+(v) To the extent any of the foregoing subsections (e)(ii) through (e)(iv) would result 
+in a Composite Energy Offer less than $1,000/MWh at Economic Maximum, the 
+Composite Energy Offer shall equal $1,000/megawatt-hour and be composed of 
+the resource’s: (i) Incremental Energy Offer, (ii) a No-load Cost value equal to the 
+lesser of the resource’s amortized submitted No-load Cost or a value sufficient to 
+make the Composite Energy Offer equal to $1,000/megawatt-hour at Economic 
+Maximum, and (iii) to the extent the sum of the foregoing is less than 
+$1,000/megawatt-hour, an amortized Start-Up Cost value sufficient to make the 
+Composite Energy Offer equal to $1,000/megawatt-hour at Economic Maximum. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.4A Determination of Energy 
+Effective Date: 9/1/2021 - Docket #: ER19-2722-005 - Page 5 
+(f) To the extent an Economic Load Response Participant resource’s Composite Energy 
+Offer is reviewed pursuant to Operating Agreement, Schedule 1, 6.4.3A, pursuant to which the 
+Office of the Interconnection evaluates the resource’s submitted shutdown cost against the 
+resource’s reasonably expected shutdown costs, adjustments may be applied to yield a 
+Composite Energy Offer, at Economic Maximum, no lower than $1,000/megawatt-hour and no 
+greater than $2,000/megawatt-hour as follows: 
+ 
+(i) If a Composite Energy Offer at Economic Maximum is greater than 
+$1,000/megawatt-hour but does not exceed $2,000/megawatt-hour, and the 
+amortized shutdown cost, to the extent that it is reviewed pursuant to Operating 
+Agreement, Schedule 1, section 6.4.3A, does not exceed the resource’s reasonably 
+expected shutdown cost, then no adjustments shall be made to the submitted 
+Composite Energy Offer. 
+ 
+(ii) If the amortized shutdown cost, to the extent that it is reviewed pursuant to 
+Operating Agreement, Schedule 1, section 6.4.3A, exceeds the resource’s 
+reasonably expected shutdown cost, then the Composite Energy Offer shall equal: 
+(i) the resource’s Incremental Energy Offer, and (ii) to the extent the Incremental 
+Energy Offer is less than $1,000/megawatt-hour, a shutdown value equal to the 
+lesser of the resource’s amortized submitted shutdown cost or a value sufficient to 
+make the Composite Energy Offer at Economic Maximum equal to 
+$1,000/megawatt-hour. 
+ 
+(iii) If the Composite Energy Offer at Economic Maximum exceeds $2,000/megawatt-
+hour and the amortized shutdown cost, to the extent that it is reviewed pursuant to 
+Operating Agreement, Schedule 1, section 6.4.3A, does not exceed the resource’s 
+reasonably expected shutdown cost, then the Composite Energy Offer shall equal 
+$2,000/megawatt-hour: (i) the resource’s Incremental Energy Offer, and (ii) to the 
+extent the Incremental Energy Offer is less than $2,000/megawatt-hour, a 
+shutdown value sufficient to make the Composite Energy Offer equal to 
+$2,000/megawatt-hour.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.5 Calculation of Real-time 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 1 
+2.5 Calculation of Real-time Prices. 
+ 
+ (a) The Office of the Interconnection shall determine Locational Marginal Prices 
+based on the least costly means of obtaining energy to serve the next increment of load and meet 
+reserve requirements (taking account of any applicable and available load reductions indicated 
+on PRD Curves properly submitted by any PRD Provider) at each bus in the PJM Region 
+represented in the network model and each Interface Pricing Point between PJM and an adjacent 
+Control Area, based on the forecasted operating conditions and the submitted energy offers as 
+described in Tariff, Attachment K-Appendix, section 2.4.  The real-time Locational Marginal 
+Prices at a bus shall be determined through the joint optimization program based on the lowest 
+marginal cost to serve the next increment of load at the bus taking into account resource 
+constraints, transmission constraints, marginal loss impact, and the applicable reserve 
+requirements.  When the marginal energy megawatts is provided by converting a megawatts of 
+reserves into a megawatts of energy, the resulting Locational Marginal Price takes into account 
+the opportunity cost of that exchange.  The process for the determination of Real-time Prices 
+occurs in the Real-time Price software program, and is known as the pricing run for the Real-
+time Energy Market.  The Real-time Price software program uses the input data from the latest 
+approved real-time security constrained economic dispatch solution with a target time at the end 
+of the current five-minute interval as described in the PJM Manuals and performs the same 
+optimization as the real-time security constrained economic dispatch program but additionally 
+applies Integer Relaxation to Eligible Fast-Start Resources.  The real-time security constrained 
+economic dispatch program, which is considered the dispatch run for the Real-time Energy 
+Market, performs a real-time joint optimization of energy and reserves, given operating 
+conditions, a set of energy offers, a set of reserve offers, a set of Reserve Penalty Factors, and 
+any monitored transmission constraints that may exist.   
+ 
+ (b) Using the prices at which energy is offered by Market Sellers and demand 
+reductions are offered by Economic Load Response Participants, Pre-Emergency Load Response 
+participants and Emergency Load Response participants to the PJM Interchange Energy Market, 
+the Office of the Interconnection shall determine the offers of energy and demand reductions that 
+will be considered in the calculation of Locational Marginal Prices.  As described in Tariff, 
+Attachment K-Appendix, section 2.4, every qualified offer for demand reduction and of energy 
+by a Market Seller from resources that are dispatched by the Office of the Interconnection will be 
+utilized in the calculation of Locational Marginal Prices, including, without limitation, qualified 
+Real-time Energy Market offers from Economic Load Response Participants, Emergency Load 
+Response and Pre-Emergency Load Response. 
+ 
+ (c) In performing the Real-time Price calculation, the Office of the Interconnection 
+shall calculate the cost of serving an increment of load at each bus from each resource associated 
+with an eligible energy offer as described in Tariff, Attachment K-Appendix, section 2.4 as the 
+sum of the following components of Locational Marginal Price:  (1) System Energy Price, which 
+is the price at which the Market Seller has offered to supply an additional increment of energy 
+from a generation resource or decrease an increment of energy being consumed by a Demand 
+Resource, (2) Congestion Price, which is the effect on transmission congestion costs (whether 
+positive or negative), including Transmission Constraint Penalty Factors, associated with 
+increasing the output of a generation resource or decreasing the consumption by a Demand 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.5 Calculation of Real-time 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 2 
+Resource, based on the effect of increased generation from the resource on transmission line 
+loadings, and (3) Loss Price, which is the effect on transmission loss costs (whether positive or 
+negative) associated with increasing the output of a generation resource or decreasing the 
+consumption by a Demand Resource based on the effect of increased generation from or 
+consumption by the resource on transmission losses.  The Real-time Prices at a bus shall be 
+determined  through the joint optimization program based on the lowest marginal cost to serve 
+the next increment of load at the bus taking into account the applicable reserve requirements, unit 
+resource constraints, transmission constraints, and marginal loss impact. 
+ 
+ (d) During the Operating Day, the calculation set forth in Tariff, Attachment K-
+Appendix, section 2.5 shall be performed every five minutes, using the Office of the 
+Interconnection’s Real-time Price software program, producing the Real-time Prices for the 
+current five minute interval based on forecasted system conditions and the latest approved PJM 
+security-constrained economic dispatch solution with a target time at the end of the current five 
+minute interval.  If no security-constrained economic dispatch solution was approved for the 
+target time at the end of the current five minute interval, the Locational Marginal Price program 
+will use the most recently approved security-constrained economic dispatch solution with a 
+target time prior to the end of the Locational Marginal Price program five minute interval. If a 
+technical problem with or malfunction of the security-constrained economic dispatch or 
+Locational Marginal Price software programs exists, including but not limited to program 
+failures or data input failures, the Office of the Interconnection will utilize the best available RT 
+SCED solution to calculate LMPs.   
+ 
+2.5.1 Declaration of Shortage Pricing 
+ 
+ (a) The Office of the Interconnection shall use its Real-time Price software program, 
+to determine if the Office of the Interconnection is experiencing a 30-minute Reserve shortage, a 
+Primary Reserve shortage and/or a Synchronized Reserve shortage for the purposes of declaring 
+shortage pricing as further described in the PJM Manuals.  If all reserve requirements in every 
+modeled Reserve Zone and Reserve Sub-zone can be met at prices less than or equal to the 
+applicable Reserve Penalty Factor for those reserve requirements, Real-time Prices shall be 
+calculated as described in Tariff, Attachment K-Appendix, section 2.5 and no Reserve Penalty 
+Factor(s) shall apply beyond the normal lost opportunity costs incurred by the reserve 
+requirements.  When the Real-time Price software determines that a 30-minute Reserve shortage, 
+a Primary Reserve shortage and/or a Synchronized Reserve shortage exists, whereby the reserve 
+requirement cannot be met at a price less than or equal to the applicable Reserve Penalty 
+Factor(s) associated with a Reserve Zone or Reserve Sub-zone, the Office of Interconnection 
+shall implement shortage pricing.  During shortage pricing, the Real-time Prices shall be 
+calculated by incorporating the applicable Reserve Penalty Factor(s) for the deficient reserve 
+requirement as the lost opportunity cost impact of the deficient reserve requirement consistent 
+with the determination of the clearing price for each reserve product, and the components of 
+Locational Marginal Prices referenced in Tariff, Attachment K-Appendix, section 2.5 above shall 
+be calculated as described below.  Shortage pricing shall exist until the Real-time Price software 
+program is able to meet the specified reserve requirements and there is no Voltage Reduction 
+Action or Manual Load Dump Action in effect. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.5 Calculation of Real-time 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 3 
+ (b) If a Primary Reserve shortage and/or Synchronized Reserve shortage exists and 
+cannot be accurately forecasted by the Office of the Interconnection due to a technical problem, 
+including but not limited to failures of data input into the Real-time Price software program, the 
+Office of the Interconnection will utilize the best available alternate data sources to determine if 
+a Reserve Zone or Reserve Sub-zone is experiencing a Primary Reserve shortage and/or a 
+Synchronized Reserve shortage. 
+ 
+(c)   The Office of the Interconnection shall issue day-ahead alerts to PJM Members of 
+the possible need to use emergency procedures during the following Operating Day.  Such 
+emergency procedures may be required to alleviate real-time emergency conditions such as a 
+transmission emergency or potential reserve shortage.  The alerts issued by the Office of the 
+Interconnection may include, but are not limited to, the Maximum Emergency Generation Alert, 
+Primary Reserve Alert and/or Voltage Reduction Alert.   These alerts shall be issued to keep all 
+affected system personnel informed of the forecasted status of the PJM bulk power system. The 
+Office of the Interconnection shall notify PJM Members of all alerts and the cancellation thereof 
+via the methods described in the PJM Manuals.  The alerts shall be issued as soon as practicable 
+to allow PJM Members sufficient time to prepare for such operating conditions.  The day-ahead 
+alerts issued by the Office of the Interconnection are for informational purposes only and by 
+themselves will not impact price calculation during the Operating Day. 
+ 
+ (d) The Office of the Interconnection shall issue a warning of impending operating 
+reserve shortage and other emergency conditions in real-time to inform members of actual 
+capacity shortages or contingencies that may jeopardize the reliable operation of the PJM bulk 
+power system. Such warnings will generally precede any associated action taken to address the 
+shortage conditions.   The Office of the Interconnection shall notify PJM Members of the 
+issuance and cancellation of emergency procedures via the methods described in the PJM 
+Manuals. The warnings that the Office of the Interconnection may issue include, but are not 
+limited to, the Primary Reserve Warning, Voltage Reduction Warning, and Manual Load Dump 
+Warning.   
+The purpose of the Primary Reserve Warning is to warn members that the available Primary 
+Reserve may be less than the Primary Reserve Requirement.  If the Primary Reserve shortage 
+condition was determined as described above, the applicable Reserve Penalty Factor is 
+incorporated into the Synchronized Reserve Market Clearing Price, Non-Synchronized Reserve 
+Market Clearing Price and Locational Marginal Price as applicable.  
+The purpose of the Voltage Reduction Warning is to warn PJM Members that the available 
+Synchronized Reserve may be less than the Synchronized Reserve Requirement and that a 
+voltage reduction may be required.  Following the Voltage Reduction Warning, the Office of the 
+Interconnection may issue a Voltage Reduction Action during which it directs PJM Members to 
+initiate a voltage reduction.  If the Office of the Interconnection issues a Voltage Reduction 
+Action for the Reserve Zone or Reserve Sub-Zone the Reserve Penalty Factors for the 30-minute 
+Reserve Requirement, the Primary Reserve Requirement, and the Synchronized Reserve 
+Requirement are incorporated in the calculation of the Synchronized Reserve Market Clearing 
+Price, Non-Synchronized Reserve Market Clearing Price, the Secondary Reserve Market 
+Clearing Price, and Locational Marginal Price, as applicable and consistent with the provisions 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.5 Calculation of Real-time 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 4 
+for determining those prices.  The Reserve Penalty Factors for the 30-minunte Reserve 
+Requirement, the Primary Reserve Requirement, and the Synchronized Reserve Requirement 
+will continue to be used in the Synchronized Reserve Market Clearing Price, Non-Synchronized 
+Reserve Market Clearing Price, Secondary Reserve Market Clearing Price, and Locational 
+Marginal Price calculation, as applicable and consistent with the provisions for determining 
+those prices, until the Voltage Reduction Action has been terminated.  
+The purpose of the Manual Load Dump Warning is to warn members that dumping load may be 
+necessary to maintain reliability.  Following the Manual Load Dump Warning, the Office of the 
+Interconnection may commence a Manual Load Dump Action during which it directs PJM 
+Members to initiate a manual load dump pursuant to the procedures described in the PJM 
+Manuals.  If the Office of the Interconnection issues a Manual Load Dump Action for the 
+Reserve Zone or Reserve Sub-Zone the Reserve Penalty Factors for the 30-minure Reserve 
+Requirement, the Primary Reserve Requirement, and the Synchronized Reserve Requirement are 
+incorporated in the calculation of the Synchronized Reserve Market Clearing Price, Non-
+Synchronized Reserve Market Clearing Price, Secondary Reserve Market Clearing Price, and 
+Locational Marginal Price, as applicable and consistent with the provisions for determining those 
+prices.  The Reserve Penalty Factors for the 30-minure Reserve Requirement, the Primary 
+Reserve Requirement, and the Synchronized Reserve Requirement will continue to be used in the 
+Synchronized Reserve Market Clearing Price, Non-Synchronized Reserve Market Clearing Price 
+and Locational Marginal Price calculation, as applicable and consistent with the provisions for 
+determining those prices, until the Manual Load Dump Action has been terminated.  
+ 
+2.5.2 Declaration of Market Suspension 
+ 
+If the Office of the Interconnection declares a Market Suspension, per Operating Agreement, 
+Section 1.11.6, resources will be paid for their energy output and Real-time Prices shall be 
+determined on an hourly basis and applied to each Real-time Settlement Interval in the following 
+manner: 
+ 
+i)  If the Market Suspension is less than or equal to six (6) consecutive hours, then 
+the Real-time Prices associated with such Market Suspension shall be the average of Real-time 
+Prices for each individual pricing node for all Real-time Settlement Intervals of the 
+preceding and subsequent clock hours (from XX:00 to XX:59) adjacent to such Market 
+Suspension. 
+ 
+ii)  If the Market Suspension is greater than six (6) consecutive hours but less than or 
+equal to twenty-four (24) consecutive hours and there are cleared Day-ahead Prices for the 
+affected Operating Day, then the Real-time Prices associated with such Market Suspension 
+shall be the Day-ahead Prices for each corresponding hour. If no such Day-ahead Prices 
+exist, then the Real-time Prices shall be the average of the Real-time Prices for each 
+individual pricing node for all Real-time Settlement Intervals of the preceding and 
+subsequent clock hours (from XX:00 to XX:59) adjacent to such Market Suspension. 
+ 
+iii)  If the Market Suspension is greater than twenty-four (24) consecutive hours, then 
+the Real-time Prices associated with such Market Suspension shall be determined based on 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.5 Calculation of Real-time 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 5 
+the construction of an aggregate supply curve. 
+ 
+The aggregate supply curve shall be established as follows:  
+ 
+For online resources operating on a cost-based offer at the time of the Market 
+Suspension, that cost-based offer will be used in the construction of the aggregate supply curve 
+and for all market clearing and compensation.  
+ 
+For online resources operating on a price-based offer at the time of the Market 
+Suspension, the Office of the Interconnection shall use the cheapest available cost-based offer 
+based on the dispatch cost formula as defined in Operating Agreement, Schedule 1, section 
+6.4.1(g) using the available cost-based offers in the Office of the Interconnection system at the 
+time of the Market Suspension. The selected cost-based offer will be used in the construction of 
+the aggregate supply curve and for all market clearing and compensation.  
+ 
+For available offline resources, the Office of the Interconnection shall use the cheapest 
+available cost-based offer based on the dispatch cost formula as defined in Operating Agreement, 
+Schedule 1, section 6.4.1(g) using the available cost-based offers in the Office of the 
+Interconnection system at the time of the Market Suspension for the construction of the 
+aggregate supply curve.  
+ 
+The summation of the actual generation MWs for on-line resources will be used as a 
+proxy for demand. The energy component of Locational Marginal Price will be determined 
+hourly from the supply curve at the intersection of supply and demand where the impact of 
+constraints is not considered. The loss and congestion component of Locational Marginal Price 
+will be set to zero dollars per megawatt-hour.  
+ 
+Self-scheduled resources will be included in the supply stack but with a zero dollar per 
+megawatt-hour offer price, and will not be eligible to set price. Off-line resources and resources 
+directed to lower their output to Economic Minimum will not be eligible to set price. Generation 
+resources that may be dispatched out of economic merit order to maintain system reliability as a 
+result of limits on transmission capability will not be eligible to set price. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.6 Calculation of Day-ahead 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 1 
+2.6 Calculation of Day-ahead Prices. 
+ 
+(a) The Office of the Interconnection shall use day-ahead security constrained economic 
+dispatch optimization software to determine the least-costly means of obtaining energy to serve 
+the next increment of load and meet day-ahead scheduling reserve requirements in the PJM 
+Region, based on model flows and system conditions resulting from the load specifications, 
+offers for generation as described in Tariff, Attachment K-Appendix, section 2.4A, dispatchable 
+load, Increment Offers, Decrement Bids, Up-to Congestion Transactions, offers for demand 
+reductions, offers for Synchronized Reserve, Non-Synchronized Reserve, and Secondary 
+Reserve, and interchange transactions submitted to the Office of the Interconnection and 
+scheduled in the Day-ahead Energy Market.  Day-ahead economic dispatch is performed in the 
+day-ahead security constrained economic dispatch software program, known as the dispatch run.  
+Day-ahead Prices are calculated in a subsequent execution of the day-ahead security constrained 
+economic dispatch optimization software program, known as the pricing run.  The pricing run 
+executes the same optimization as the dispatch run but additionally applies Integer Relaxation to 
+Eligible Fast-Start Resources.  
+ 
+The Day-ahead Energy Market uses a multistage solution.  The first stage, Resource Scheduling 
+and Commitment (RSC) solves for an initial unit commitment with a limited set of constraints.  
+The second stage solves with a more complete set of constraints/contingencies and performs the 
+Three Pivotal Supplier test.  The third stage, Scheduling Pricing and Dispatch, optimizes the 
+dispatch and calculates final Day-ahead Energy Market prices. 
+ 
+Such prices shall be determined in accordance with the provisions of this Section applicable to 
+the Day-ahead Energy Market and shall be the basis for purchases and sales of energy and 
+Transmission Congestion Charges resulting from the Day-ahead Energy Market.  This 
+calculation shall be made for each hour in the Day-ahead Energy Market by applying a linear 
+optimization method to minimize energy costs, given scheduled system conditions, scheduled 
+transmission outages, and any transmission limitations that may exist.  In performing this 
+calculation, the Office of the Interconnection shall calculate the cost of serving an increment of 
+load at each bus from each resource associated with an eligible energy offer as the sum of the 
+following components of Locational Marginal Price:  (1) System Energy Price, which is the price 
+at which the Market Seller has offered to supply an additional increment of energy from a 
+resource, increment offers, import transactions, and/or has offered to decrease consumption by 
+an Economic Load Response Participant resource, Decrement Bid, export transaction or price 
+sensitive demand bid, (2) Congestion Price, which is the effect on transmission congestion costs 
+(whether positive or negative) associated with increasing the output of a generation resource or 
+decreasing consumption by a Demand Resource, based on the effect of increased generation 
+from the resource on transmission line loadings, and (3) Loss Price, which is the effect on 
+transmission loss costs (whether positive or negative) associated with increasing the output of a 
+generation resource or decreasing the consumption by a Demand Resource based on the effect of 
+increased generation from or consumption by the resource on transmission line losses.  The day-
+ahead Locational Marginal Prices at a bus shall be determined through the joint optimization 
+program based on the lowest marginal cost to serve the next increment of load at the bus taking 
+into account resource constraints, transmission constraints, marginal loss impact, and the impact 
+of the applicable Operating Reserve Demand Curves. When the marginal energy megawatts is 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.6 Calculation of Day-ahead 
+Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 2 
+provided by converting a megawatts of reserves into a megawatts of energy, the resulting 
+Locational Marginal Price takes into account the opportunity cost of that exchange.  
+ 
+(b)  The Office of the Interconnection shall use its day-ahead market clearing software to 
+forecast if the Office of the Interconnection will experience a shortage of the 30-minute Reserve 
+Requirement, Extended 30-minute Reserve Requirement, the Primary Reserve Requirement, 
+Extended Primary Reserve Requirement, the Synchronized Reserve Requirement, and/or the 
+Extended Synchronized Reserve Requirement, as further described in the PJM Manuals.  If the 
+day-ahead market clearing software forecasts that a shortage of any of the reserve requirement(s) 
+exists, the Office of the Interconnection shall implement shortage pricing through the inclusion 
+of the applicable Reserve Penalty Factor(s) in the Day-ahead Locational Marginal Prices 
+consistent with the determination of the clearing price for each reserve product.  Shortage pricing 
+shall exist until the day-ahead market clearing software is able to meet the specified reserve 
+requirements.   
+ 
+2.6.1 Declaration of Market Suspension 
+ 
+If the Office of the Interconnection declares a Market Suspension, per Operating Agreement, 
+Section 1.10.8(d), Day-ahead Prices shall be set to zero dollars per megawatt-hour and for 
+purposes of settlements for such Operating Day, the Office of the Interconnection shall utilize a 
+scheduled megawatt quantity and Day-ahead Price of zero dollars per megawatt-hour and all 
+settlements will be based on the real-time quantities and prices as determined pursuant to 
+Sections 2.4 and 2.5 hereof. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.6A Interface Prices 
+Effective Date: 3/19/2025 - Docket #: ER25-962-000 - Page 1 
+2.6A Interface Prices. 
+ 
+ The Office of the Interconnection shall from time to time, as appropriate, define and 
+revise Interface Pricing Points for purposes of calculating LMPs for energy exports to or energy 
+imports from external balancing authority areas.  Such Interface Pricing Points may represent 
+external balancing authority areas, aggregates of external balancing authority areas, or portions 
+of any external balancing authority area.   
+ 
+ The Office of the Interconnection shall determine a set of nodes representing an external 
+balancing authority area or set of balancing authority areas via flow analysis, utilizing standard 
+power flow analysis tools, of the impact of transactions from the balancing authority area or 
+areas on the transmission facilities connecting PJM with such external area(s).  The Office of the 
+Interconnection shall then weight the contribution of each identified node to the calculation of 
+the interface price. For each Interface Pricing Point, a set of nodes will be defined.  The Office of 
+the Interconnection shall utilize the sensitivity of the nodes to an injection at each nodal pricing 
+point to weight the node in the Interface Pricing Point calculation, as described in the PJM 
+Manuals.  
+ 
+Nothing herein precludes the Office of the Interconnection from entering into agreements 
+with External Resource owners for the Dynamic Transfer of such resources, as contemplated by 
+Operating Agreement, Schedule 1, section 1.12 and the parallel provisions of Tariff, Attachment 
+K-Appendix, section 1.12, at prices determined in accordance with such agreements.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 2 - Calculation of Lo --
+> OATT Attachment K Appendix Sec 2.7 Performance Evaluation. 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+2.7 Performance Evaluation.   
+ 
+The Office of the Interconnection shall undertake an evaluation of the foregoing procedures for 
+the determination of Locational Marginal Prices, as well as the procedures for determining and 
+allocating Financial Transmission Rights and associated Transmission Congestion Charges and 
+Credits, not less often than every two years, in accordance with the PJM Manuals.  To the extent 
+practical, the Office of the Interconnection shall retain all data needed to perform comparisons 
+and other analyses of locational marginal pricing.  The Office of the Interconnection shall report 
+the results of its evaluation to the Market Participants, along with its recommendations, if any, 
+for changes in the procedures.  The Office of the Interconnection shall prepare reports, with 
+regard to participation of Economic Load Response Participants in the PJM Interchange Energy 
+Market, as required by the FERC and the PJM Manuals. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING 
+Effective Date: 6/16/2024 - Docket #: ER24-1772-000 - Page 1 
+3. ACCOUNTING AND BILLING 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.1 Introduction 
+Effective Date: 4/1/2018 - Docket #: ER17-775-000 - Page 1 
+3.1 Introduction. 
+ 
+This schedule sets forth the accounting and billing principles and procedures for the purchase 
+and sale of services on the PJM Interchange Energy Market and for the operation of the PJM 
+Region. 
+ 
+3.1A Revenue Data for Settlements 
+ 
+(a) Revenue Data for Settlements are energy quantities used for accounting and billing and 
+are determined based on data submitted by a Market Participant.  
+ 
+(b) Once a Market Participant submits five-minute revenue meter data for a resource, the 
+Market Participant must continue to provide revenue meter data for that resource on a 
+five-minute basis. 
+ 
+(c) For generation resources, Revenue Data for Settlements may be five-minute revenue 
+meter data submitted to the Office of the Interconnection or hourly revenue meter data 
+submitted to the Office of the Interconnection as adjusted in accordance with subsection 
+(d). The revenue meter data for a generation resource can be either positive, representing 
+energy injection, or negative, representing an energy withdrawal. 
+ 
+(d) Revenue Data for Settlements for generation resources for which Market Participants 
+submit hourly revenue meter data to the Office of the Interconnection shall be calculated 
+as follows: 
+i) For each Real-time Settlement Interval, the Revenue Data for Settlements is equal to 
+the five-minute telemetry values or State Estimator values calculated according to 
+section 2.3 of this Schedule, as further described in the PJM Manuals for an hour plus 
+an offset.  The offset is the difference between the hourly meter data value and (the 
+hourly integrated telemetry or hourly integrated State Estimator value) times 12 and 
+multiplied by absolute value of the ratio of (the Real-time Settlement Interval 
+telemetry or State Estimator value) and (the sum of the absolute value of the Real-
+time Settlement Interval telemetry or State Estimator values for the hour). 
+ii) If the difference between the average of the five-minute telemetry values or State 
+Estimator values calculated according to section 2.3 of this Schedule, and further 
+described in the PJM Manuals, for an hour and the hourly revenue meter data is 
+greater than 20 percent of the hourly revenue meter data and greater than 10 MW, 
+then the Revenue Data for Settlements is a flat profile of the hourly revenue meter 
+data equally apportioned over the five minute intervals in the hour. 
+iii) If a Market Participant is unable to provide telemetry for a generation resource, the 
+Revenue Data for Settlements will be a flat profile of the hourly revenue meter data 
+equally apportioned over the five-minute intervals in the hour. 
+ 
+(e) For all energy transactions for which telemetry is not available, the Revenue Data for 
+Settlements is the submitted value to the Office of the Interconnection adjusted for any 
+curtailment and flat profiled over the set of five-minute intervals that the energy 
+transaction is scheduled and dispatched. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.1 Introduction 
+Effective Date: 4/1/2018 - Docket #: ER17-775-000 - Page 2 
+ 
+(f) For demand response resources, Revenue Data for Settlements may be five-minute 
+revenue meter data submitted to the Office of the Interconnection or  hourly revenue 
+meter data submitted to the Office of the Interconnection and flat profiled over a set of 
+dispatch intervals in the hour.  
+ 
+(g) For load, the Revenue Data for Settlements is the hourly submitted value to the Office of 
+the Interconnection and flat profiled equally apportioned over the five-minute intervals in 
+the hour. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 1 
+3.2 Market Settlements. 
+ 
+If a dollar-per-MW-hour value is applied in a calculation under this section 3.2 where the 
+interval of the value produced in that calculation is less than an hour, then for purposes of that 
+calculation the dollar-per-MW hour value is divided by the number of Real-time Settlement 
+Intervals in the hour. 
+ 
+3.2.1 Spot Market Energy. 
+ 
+ (a) The Office of the Interconnection shall calculate System Energy Prices in the 
+form of Day-ahead System Energy Prices and Real-time System Energy Prices for the PJM 
+Region, in accordance with Tariff, Attachment K-Appendix, section 2. 
+ 
+ (b) Each Market Participant shall be charged for all of its Market Participant Energy 
+Withdrawals scheduled in the Day-ahead Energy Market at the Day-ahead System Energy Price 
+to be served in the PJM Interchange Energy Market. 
+ 
+ (c) Each Market Participant shall be paid for all of its Market Participant Energy 
+Injections scheduled in the Day-ahead Energy Market at the Day-ahead System Energy Price to 
+be delivered to the PJM Interchange Energy Market. 
+ 
+(d) For each Day-ahead Settlement Interval during an Operating Day, the Office of the 
+Interconnection shall calculate Spot Market Energy charges for each Market Participant as the 
+difference between the sum of its Market Participant Energy Withdrawals scheduled times the 
+Day-ahead System Energy Price and the sum of its Market Participant Energy Injections 
+scheduled times the Day-ahead System Energy Price.   
+ 
+(e) For each Real-time Settlement Interval during an Operating Day, the Office of the 
+Interconnection shall calculate Spot Market Energy charges for each Market Participant as the 
+difference between the sum of its real-time Market Participant Energy Withdrawals less its 
+scheduled Market Participant Energy Withdrawals times the Real-time System Energy Price and 
+the sum of its real-time Market Participant Energy Injections less scheduled Market Participant 
+Energy Injections times the Real-time System Energy Price.  The Revenue Data for Settlements 
+determined for each Real-time Settlement Interval in accordance with Tariff, Attachment K-
+Appendix, section 3.1A shall be used in determining the real-time Market Participant Energy 
+Withdrawals and Market Participant Energy Injections used to calculate Spot Market Energy 
+charges under this subsection (e). 
+ 
+ (f) For pool External Resources, the Office of the Interconnection shall model, based on 
+an appropriate flow analysis, the megawatts of real-time energy injections to be delivered from 
+each such resource to the corresponding Interface Pricing Point between adjacent Control Areas 
+and the PJM Region.  
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.2 - Market Buyers 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 2 
+3.2.2 Regulation. 
+ 
+ (a) Each Market Participant that is a Load Serving Entity in a Regulation Zone shall 
+have an hourly Regulation objective equal to its pro rata share of the Regulation Requirement of 
+such Regulation Zone for the hour, based on the Market Participant’s total load (net of operating 
+Behind The Meter Generation, but not to be less than zero) in such Regulation Zone for the hour 
+(“Regulation Obligation”).  A Market Participant with an hourly Regulation Obligation shall be 
+charged the pro rata share of the sum of the Regulation market mileage clearing price credits and 
+Regulation market capability clearing price credits for the Real-time Settlement Intervals in an 
+hour.  
+ 
+Regulation Charge = Hourly Regulation Obligation Share * (sum of the Real-time 
+Settlement Interval Regulation credits in an hour) 
+ 
+ (b) Each Market Participant supplying Regulation in a Regulation Zone at the 
+direction of the Office of the Interconnection shall be credited for each of its resources such that 
+the calculated credit for each increment of Regulation provided by each resource shall be the 
+higher of: (i) the Regulation market-clearing price; or (ii) the sum of the applicable Regulation 
+offers for a resource determined pursuant to section 3.2.2A.1 below, the resource-specific 
+shoulder opportunity costs described in subsection (e) of this section, the resource-specific inter-
+temporal opportunity costs discussed in subsection (d), and the resource-specific opportunity 
+costs discussed in subsection (e) of this section.   
+  
+ (c) The Office of the Interconnection shall commit resources to provide Regulation 
+every 30 minutes, for the clock intervals of the first 30 minutes of an hour and the second 30 
+minutes of an hour, up to the Regulation Requirement of such Regulation Zone.  The Office of 
+the Interconnection shall select resources in merit order, taking into account the resource’s 
+mileage Regulation offer, capability Regulation offer, and estimated resource-specific 
+opportunity cost, all converted into their performance adjusted values as further detailed in the 
+PJM Manuals.  The total Regulation market-clearing price in each Regulation Zone shall be 
+determined in the Real-time Price software program, which is known as the pricing run, for each 
+Real-time Settlement Interval. The total Regulation market-clearing price shall include: (i) the 
+mileage Regulation market-clearing price in a Regulation Zone that shall be calculated in 
+accordance with subsection (g) of this section; (ii) the capability Regulation market-clearing 
+price that shall be calculated in accordance with subsection (h) of this section; and (iii) a 
+Regulation resource’s unit-specific opportunity costs during the 5-minute period, determined as 
+described in subsection (d) below.  A resource’s Regulation offer by any Market Seller that fails 
+the three-pivotal supplier test set forth in section 3.2.2A.1 below shall not exceed the cost of 
+providing Regulation from such resource, plus twelve dollars, as determined pursuant to the 
+formula in Tariff, Attachment K-Appendix, section 1.10.1A(e). 

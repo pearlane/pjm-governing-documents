@@ -1,61 +1,1637 @@
-[ATTACHMENT H-20B - Part 2 of 4]
+[ATTACHMENT H-20B - Part 2 of 3]
 
-9,774,589,576  
-45 Total Company Structure      6,338,589,103  
-    
-3,420,141,819  
-       
-982,384,639  
-       
-41,329,910   6,618,360,071       70,654,352  
-        
-20,421,968,777  
-46 LTD Capital Shares (Ln 42 / Ln 45) 55.24% 50.20% 55.99% 48.39% 49.08% 35.38% 51.93% 
-47 
-Preferred Stock Capital Shares (Ln 43 / 
-Ln 45) 0.28% 0.24% 0.00% 0.00% 0.25% 0.00% 0.21% 
-48 
-Common Equity Capital Shares (Ln 44 
-/ Ln 45) 44.48% 49.56% 44.01% 51.61% 50.66% 64.62% 47.86% 
-         
-49 Equity Capital Share Limit 50.00% 50.00% 50.00% 100.00% 51.00% 100.00% 50.00% 
-50 
-LTD Capital Shares with Capital Equity 
-Cap 55.24% 50.20% 55.99% 48.39% 49.08% 35.38% 51.93% 
-51 Preferred Stock Capital Shares 0.28% 0.24% 0.00% 0.00% 0.25% 0.00% 0.21% 
-52 
-Common Equity Capital Shares with 
-Capital Equity Cap 44.48% 49.56% 44.01% 51.61% 50.66% 64.62% 47.86% 
-Calculation of Capital Cost Rate        
-53 LTD Capital Cost Rate (Ln 14 / Ln 6) 5.80% 6.03% 5.59% 5.38% 4.33% 5.25% 5.35% 
-54 
-Preferred Stock Capital Cost Rate (Ln 
-36 / Ln 35) 4.50% 4.20% 0.00% 0.00% 4.40% 0.00% 4.41% 
-55 Common Equity Capital Cost Rate 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 
-Calculation of Weighted Capital Cost Rate        
-56 
-LTD Weighted Capital Cost Rate (Ln 
-50 * Ln 53) 3.21% 3.03% 3.13% 2.60% 2.13% 1.86% 2.78% 
-57 
-Preferred Stock Capital Cost Rate (Ln 
-51 * Ln 54) 0.01% 0.01% 0.00% 0.00% 0.01% 0.00% 0.01% 
-58 
-Common Equity Capital Cost Rate (Ln 
-52 * Ln 55) 5.11% 5.69% 5.06% 5.93% 5.82% 7.42% 5.50% 
-59 Total Company Structure 8.33% 8.73% 8.18% 8.53% 7.96% 9.28% 8.29% 
+Number Item No. Description Expense Non-Transmission Specific Explanation 
+  Regulatory O&M Deferrals & Amortizations     
+1                           -       
+2                            -       
+3                            -       
+4  Total 0       
+  Detail of Account 561 Per FERC Form 1     
+5       
+6 FF1 p 321.85.b 561.1 - Load Dispatch - Reliability      
+7 FF1 p 321.86.b 561.2 - Load Dispatch - Monitor & Operate Trans System      
+8 FF1 p 321.87.b 561.3 - Load Dispatch - Trans Service & Scheduling      
+9 FF1 p 321.88.b 561.4 - Scheduling, System Control & Dispatch      
+10 FF1 p 321.89.b 561.5 -  Reliability, Planning and Standards Development      
+11 FF1 p 321.90.b 561.6 - Transmission Service Studies      
+12 FF1 p 321.91.b 561.7 - Generation Interconnection Studies      
+13 FF1 p 321.92.b 561.8 -  Reliability, Planning and Standards Development Services      
+14  Total of Account 561     
+  Account 928     
+15                                -   
+16                                -   
+17                                -   
+18                                -   
+19                                -   
+20       
+21  Total (FERC Form 1 p.323.189.b)                        -                                  -                            -   
+  Account 930.1     
+22                                     -                            -   
+23                                     -                            -   
+24                                     -                            -   
+25                                     -                            -   
+26                                     -                            -   
+27                                     -                            -   
+28                                     -                            -   
+29                                     -                            -   
+30                                     -                            -   
+31                                     -                            -   
+32                                     -                            -   
+33                                     -                            -   
+34                                     -                            -   
+35       
+36                                     -                            -   
+37                                     -                            -   
+38  Total (FERC Form 1 p.323.191.b)                        -                                  -                            -   
+  Account 930.2     
+39        
+40        
+41        
+42        
+43  Total (FERC Form 1 p.323.192.b)                        -                                  -                            -   
  
-      
+  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 16 
- Appendix A-1.1  
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 23 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+ Worksheet G Supporting - Development of Composite State Income Tax Rate 
+AEP _______________ TRANSMISSION COMPANY  
+1 ________ Tax Rate       
+ Apportionment Factor – Note 1       
+    Effective State Tax Rate       
+2 ________ Tax Rate        
+ Apportionment Factor – Note 1       
+    Effective State Tax Rate       
+3 ________ Tax Rate        
+ Apportionment Factor – Note 1       
+    Effective State Tax Rate       
+4 ________ Tax Rate        
+ Apportionment Factor – Note 1       
+    Effective State Tax Rate       
+5 ________ Tax Rate        
+ Apportionment Factor – Note 1       
+    Effective State Tax Rate       
+ Total Effective State Income Tax Rate      
+Note 1 Apportionment Factors are determined as part of the Company's annual tax return for that jurisdiction. 
+       
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 24 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+ Worksheet H Supporting Taxes Other than Income 
+AEP _______________ TRANSMISSION COMPANY 
+  (A)  (B)  (C)  (D)  (E)  (F) 
+Line    Total         
+No.  Account  Company  Property  Labor  Other  Non-Allocable 
+1  Revenue Taxes  NOTE 1         
+2  List Individual Taxes Here                                     -    
+3  Real Estate and Personal Property Taxes           
+4  Real and Personal Property - Jurisdiction #1                           -          
+5  Real and Personal Property - Jurisdiction #2                           -          
+6  Real and Personal Property - Jurisdiction #3                           -          
+7  Real and Personal Property - Other Jurisdictions                           -          
+8  Payroll Taxes            
+9  Federal Insurance Contribution (FICA )                                -        
+10  Federal Unemployment Tax                                -        
+11  State Unemployment Insurance                                -        
+12  Line Deliberately Left Blank           
+13  State Severance Taxes                                     -    
+14  Miscellaneous Taxes            
+15  List Individual Taxes Here                                     -    
+16                               -      
+17                                        -    
+18                               -      
+19                               -      
+20                               -      
+21                                        -    
+22                                        -    
+23   Total Taxes by Allocable Basis                         -                           -                             -                        -                               -    
+  (Total Company Amount Ties to FFI p.114, Ln 14,(c))          
+  NOTE 1: The detail of each total company number and its source in the FERC Form 1 is shown on WS H-1.         
+  Functional Property Tax Allocation 
+    
+Lines 24-58 Column (B) 
+Deliberately Left Blank  Transmission  
+Lines 24-58 Column (D) 
+Deliberately Left Blank  General  Total 
+24  Functionalized Net Plant (TCOS, Lns 33 thru 36)          
+  ________ JURISDICTION           
+25  Percentage of Plant in ________ JURISDICTION           
+26  Net Plant in ________ JURISDICTION (Ln 24 * Ln 25)          
+27  Less: Net Value of Exempted Generation Plant           
+28  Taxable Property Basis (Ln 26 - Ln 27)           
+29   Relative Valuation Factor            
+30  Weighted Net Plant (Ln 28 * Ln 29)           
+31  General Plant Allocator (Ln 31 / (Total - General Plant))          
+32  Functionalized General Plant (Ln 31 * General Plant)          
+33  Weighted ________ JURISDICTION Plant (Ln 30 + 32)          
+34  Functional Percentage (Ln 33/Total Ln 33)           
+35  Net Plant in __________ JURISDICTION (Ln 24 - Ln 26)          
+36  Less: Net Value of Exempted Generation Plant           
+37  Taxable Property Basis (Ln 36 - Ln 37)           
+38   Relative Valuation Factor            
+39  Weighted Net Plant (Ln 37 * Ln 38)           
+40  General Plant Allocator (Ln 39 / (Total - General Plant))          
+41  Functionalized General Plant (Ln 41 * General Plant)          
+42  Weighted __________ JURISDICTION Plant (Ln 39 + 41)          
+43  Functional Percentage (Ln 42/Total Ln 42)           
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 25 
+AEPTCo subsidiaries in PJM     
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances     
+ Worksheet H page 2 Form 1 Source Reference of Company Amounts on WS H     
+AEP___________TRANSMISSION COMPANY     
+           
+  (A)  (B) (C) (D)     
+           
+Line    Total FERC FORM 1      
+No.   Annual Tax Expenses by Type (Note 1)   Company Tie-Back FERC FORM 1 Reference     
+           
+1  Revenue Taxes         
+2  Gross Receipts Tax         
+       P.263.1 ln 7 (i)     
+      P.263.2 ln 3 (i)     
+       P.263.2 ln 4 (i)     
+  (A) (B) (C) (D) (E) (F) (G)   
+  
+"Real Estate and Personal Propety Tax Detail  
+Annual Tax Expenses by Type (Note 1)" Tax Year Total Comapny FERC FORM 1 Tie-Back FERC FORM 1 Reference 
+Tax Year Transmission    
+       
+Factor 
+(Note 2) 
+Function 
+(Note 2) 
+  
+3  Real Estate and Personal Property Taxes Total (Ln 4 + Ln 5 + Ln 6 + Ln 7)         
+4  Real and Personal Property -          
+            
+            
+            
+5  Real and Personal Property -          
+            
+            
+6  Real and Personal Property -          
+            
+            
+7  Real and Personal Property - Other Jurisdictions         
+            
+           
+           
+Line  (A)      (C) (D) 
+    
+No.  Annual Tax Expense by Type (Note 1)    FERC FORM 1 Tie-Back FERC FORM 1 Reference 
+    
+8  Payroll Taxes          
+9  Federal Insurance Contribution (FICA )          
+       P.263 ln 6 (i)     
+10  Federal Unemployment Tax          
+       P.263 ln 9 (i)     
+11  State Unemployment Insurance          
+        P.263.1 ln 23  (i)     
+       P.263.3 ln 16  (i)     
+12  Line Left Deliberately Blank         
+13  State Severance Taxes         
+            
+14  Miscellaneous Taxes          
+15  State Business & Occupation Tax         
+       P.263 ln 21 (i)     
+       P.263 ln 22 (i)     
+16  State Public Service Commission Fees          
+       P.263 ln 26 (i)     
+       P.263.3 ln 20 (i)     
+17  State Franchise Taxes          
+       P.263.1 ln 18 (i)     
+       P.263.4 ln 27 (i)     
+18  State Lic/Registration Fee           
+       P.263.1 ln 15 (i)     
+       P.263.4 ln 21 (i)     
+19  Misc. State and Local Tax          
+       P.263.1 ln 12 (i)     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 26 
+20  Sales & Use          
+       P.263 ln 30 (i)     
+       P.263.3 ln 21 (i)     
+21  Federal Excise Tax         
+       P.263 ln 13 (i)     
+       P.263 ln 14 (i)     
+22  Michigan Single Business Tax         
+            
+23   Total Taxes by Allocable Basis         
+  (Total Company Amount Ties to FFI p.114, Ln 14,(c))        
+    
+    
+    
+    
+Note 1: The taxes assessed on each transmission company can differ from year to year and between transmission companies by both the type of taxes and the states in which they were assessed.  Therefore, for each company, the 
+types and jurisdictions of tax expense recorded on this page could differ from the same page in the same company's prior year template or from this page in other transmission companies' current year templates. For each update, this 
+sheet will be revised to ensure that the total activity recorded hereon equals the total reported in account 408.1 on P. 114, Ln 14.(c) of the Ferc Form 1.  
+    
+Note 2:  The transmission functional amounts for any Real Estate and Property taxes listed on pages 263 of the FERC Form 1 will be allocated using the transmission functional allocator calculated for each state in Worksheet H of the applicable year that the taxes were 
+assesed.  Real and Personal Property - Other Jurisdictions will be allocated using the Gross Plant Allocator from the applicable year..  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 27 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 
+Balances 
+ Worksheet I RESERVED 
+AEP _______________ TRANSMISSION COMPANY 
+ 
+ 
+ 
+RESERVED FOR FUTURE USE  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - 
+AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 28 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+ Worksheet J Supporting Calculation of PROJECTED PJM RTEP Project Revenue Requirement Billed to Benefiting Zones 
+AEP _______________ TRANSMISSION COMPANY 
+        
+ 
+I. Calculate Return and Income Taxes with  basis point ROE increase for Projects Qualified for  
+Regional Billing.        
+  A.   Determine 'R' with hypothetical  basis point increase in ROE for Identified Projects        
+     ROE w/o incentives  (TCOS, ln 138)   11.49%          
+     Project ROE Incentive Adder            
+     ROE with additional  basis point incentive         
+     Determine R  ( cost of long term debt, cost of preferred stock and equity percentage is from the TCOS, lns 164 through166)         
+   % Cost Weighted cost          
+  Long Term Debt 0.00% 0.00% 0.000%          
+  Preferred Stock 0.00% 0.00% 0.000%  
+  Common Stock 0.00% 11.49% 0.000%  SUMMARY OF PROJECTED ANNUAL RTEP  REVENUE REQUIREMENTS 
+    R = 0.000%     Rev Require  W Incentives 
+Incentive 
+Amounts 
+              
+  B.   Determine Return using 'R' with hypothetical  basis point ROE increase for Identified Projects.     PROJECTED YEAR  
+                                    
+-                   -    
+ 
+$                          -    
+     Rate Base  (TCOS, ln 58)                             -           
+     R   (fom A. above)  0.000%          
+     Return (Rate Base  x  R)                             -           
+  C.   Determine Income Taxes using Return with hypothetical  basis point ROE increase for Identified Projects.            
+     Return   (from B. above)                            -           
+     Effective Tax Rate  ( TCOS, ln 97)  0.00%          
+     Income Tax Calculation  (Return  x  CIT)                            -           
+     ITC Adjustment                              -           
+     Excess Deferred Income Tax                            -          
+     Tax Affect of Permanent Differences                            -          
+     Income Taxes                            -           
+ II. Calculate Net Plant Carrying Charge Rate (Fixed Charge Rate or FCR) with hypothetical              
+  basis point ROE increase.             
+  A.   Determine Annual Revenue Requirement less return and Income Taxes.             
+     Annual Revenue Requirement  ( TCOS, ln 1)                             -          
+     Lease Payments ( TCOS, Ln 80)                              -          
+     Return  ( TCOS, ln 109)                        -          
+     Income Taxes  ( TCOS, ln 108)                              -          
+     Annual Revenue Requirement, Less Lease Payments, Return and Taxes                         -          
+  B.   Determine Annual Revenue Requirement with hypothetical  basis point increase in ROE.             
+   Annual Revenue Requirement, Less Lease payments, Return and Taxes                             -          
+     Return   (from I.B. above)                               -          
+     Income Taxes  (from I.C. above)                              -          
+     Annual Revenue Requirement, with  Basis Point ROE increase                             -          
+     Depreciation & Amortization ( TCOS, ln 83)                               -          
+     Annual Rev. Req, w/ Basis Point ROE increase, less Depreciation                            -          
+               
+  C.   Determine FCR with hypothetical  basis point ROE increase.          
+     Net Transmission Plant  ( TCOS, ln 33)                               -          
+     Annual Revenue Requirement, with  Basis Point ROE increase                             -          
+     FCR with  Basis Point increase in ROE   0.00%         
+     Annual Rev. Req, w /  Basis Point ROE increase, less Dep.                             -          
+     FCR with  Basis Point ROE increase, less Depreciation  0.00%         
+     FCR less Depreciation  ( TCOS, ln 10)    0.00%         
+     Incremental FCR with  Basis Point ROE increase, less Depreciation 0.00%         
+ 
+II
+I. Calculation of Composite Depreciation Rate          
+  Average Transmission Plant Balance for ___ TCOS, ln 19                            -            
+  Annual Depreciation and Amortization Expense( TCOS, ln 83)                           -    
+  Composite Depreciation Rate   0.00% 
+  Depreciable Life for Composite Depreciation Rate                           -    
+  Average Life in Whole Years                            -    
+Note 1:  Until AEP___________TRANSMISSION COMPANY establishes Transmission plant in service the depreciation expense 
+component of the carrying charge will be calculated as in the Operating Company formula approved in Docket No. ER08-1329.  
+The calculation for AEP___________TRANSMISSION COMPANY is shown on Worksheet P. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 29 
+TransCo Worksheet J -  ATRR PROJECTED Calculation for PJM Projects Charged to Benefiting Zones     
+IV. Determine the Revenue Requirement, and Additional Revenue Requirement for facilities receiving incentives.       
+  A. Base Plan Facilities            
+  Facilities receiving incentives accepted by FERC in Docket No.      (e.g. ER10-925-000)  Current Projected Year ARR 
+               
+-     
+          Current Projected Year ARR w/ Incentive 
+               
+-     
+  Project Description:             Current Projected Year Incentive ARR  
+               
+-     
+  Details                   
+  Investment   Current Year       CUMULATIVE HISTORY OF PROJECTED ANNUAL REVENUE REQUIREMENTS:  
+  Service Year (yyyy) 0 ROE increase accepted by FERC (Basis Points)                           -      CUMMULATIVE HISTORY OF PROJECTED ANNUAL REVENUE REQUIREMENTS:  
+  Service Month (1-12)   
+FCR w/o incentives, less 
+depreciation   0.00%  
+          INPUT PROJECTED ARR (WITH & WITHOUT INCENTIVES) FROM EACH PRIOR 
+YEAR 
+      
+FCR w incentives approved for 
+these facilities, less dep.   0.00%       
+  Useful life                          -                   TEMPLATE BELOW TO MAINTAIN HISTORY OF PROJECTED ARRS OVER THE  
+                
+  CIAC (Yes or No) 0 Annual Depreciation Expense                              -               LIFE OF THE PROJECT.    
+  Investment  Beginning   Depreciation   Ending   RTEP Rev. Req't.  
+ RTEP Rev. 
+Req't.  Incentive Rev.   
+ RTEP Projected  
+Rev. Req't.From 
+Prior Year Template    
+ RTEP Projected Rev.  
+Req't.From Prior Year  
+Template      
+  Year Balance Expense Balance  w/o Incentives  
+ with Incentives 
+**  Requirement ##    w/o Incentives      with Incentives **      
+  0  -    -   -    - -  $    -                
+  1  -    -   -    - -  $    -                
+  2  -    -   -    - -  $    -                
+  3  -    -   -    - -  $    -                
+  4  -    -   -    - -  $    -                
+  5  -    -   -    - -  $    -                
+  6  -    -   -    - -  $    -                
+  7  -    -   -    - -  $    -                
+  8  -    -   -    - -  $    -                
+  9  -    -   -    - -  $    -                
+  10  -    -   -    - -  $    -                
+  11  -    -   -    - -  $    -                
+  12  -    -   -    - -  $    -                
+  13  -    -   -    - -  $    -                
+  14  -    -   -    - -  $    -                
+  15  -    -   -    - -  $    -                
+  16  -    -   -    - -  $    -                
+  17  -    -   -    - -  $    -                
+  18  -    -   -    - -  $    -                
+  19  -    -   -    - -  $    -                
+  20  -    -   -    - -  $    -                
+  21  -    -   -    - -  $    -                
+  22  -    -   -    - -  $    -                
+  23  -    -   -    - -  $    -                
+  24  -    -   -    - -  $    -                
+  25  -    -   -    - -  $    -                
+  26  -    -   -    - -  $    -                
+  27  -    -   -    - -  $    -                
+  28  -    -   -    - -  $    -                
+  29  -    -   -    - -  $    -                
+  30  -    -   -    - -  $    -                
+  31  -    -   -    - -  $    -                
+  32  -    -   -    - -  $    -                
+  33  -    -   -    - -  $    -                
+  34  -    -   -    - -  $    -                
+  35  -    -   -    - -  $    -                
+  36  -    -   -    - -  $    -                
+  37  -    -   -    - -  $    -                
+  38  -    -   -    - -  $    -                
+  39  -    -   -    - -  $    -                
+  40  -    -   -    - -  $    -                
+  41  -    -   -    - -  $    -                
+  42  -    -   -    - -  $    -                
+  43  -    -   -    - -  $    -                
+  44  -    -   -    - -  $    -                
+  45  -    -   -    - -  $    -                
+  46  -    -   -    - -  $    -                
+  47  -    -   -    - -  $    -                
+  48  -    -   -    - -  $    -                
+  49  -    -   -    - -  $    -                
+  50  -    -   -    - -  $    -                
+  51  -    -   -    - -  $    -                
+  52  -    -   -    - -  $    -                
+  53  -    -   -    - -  $    -                
+  54  -    -   -    - -  $    -                
+  55  -    -   -    - -  $    -                
+  56  -    -   -    - -  $    -                
+  57  -    -   -    - -  $    -                
+  58  -    -   -    - -  $    -                
+  59  -    -   -    - -  $    -                
+   Project Totals                            -                              -                             -                             -          
+  **  This is the total amount that needs to be reported to PJM for billing to all regions.          
+  ## This is the calculation of  additional incentive revenue on projects deemed by the FERC to be eligible for an incentive return.  This     
+  additional incentive requirement is applicable for the life of this specific project.  Each year the revenue requirement calculated for PJM     
+  should be incremented by the amount of the incentive revenue calculated for that year on this project.         
+  
+In order to calculate the proper monthly RTEP billing amount, PJM requires a 12 month revenue requirement for each RTEP project.  As a result, notwithstanding the fact that the project was in service for a 
+partial year, the project revenue requirement in the year that the project goes into service has been annualized (shown at the full-year level) so that PJM will collect the correct monthly billings.   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 30 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+ Worksheet K Supporting Calculation of TRUE-UP PJM RTEP Project Revenue Requirement Billed to Benefiting Zones 
+AEP _______________ TRANSMISSION COMPANY 
+              Page 1 of 2 
+I.        
+  Calculate Return and Income Taxes with 0 basis point ROE increase for Projects Qualified for Regional Billing.        
+  A.   Determine 'R' with hypothetical 0 basis point increase in ROE for Identified Projects         
+     ROE w/o incentives  ( TCOS, ln 138)   
+11.49
+%           
+     Project ROE Incentive Adder   0      
+     ROE with additional 0 basis point incentive    SUMMARY OF TRUED-UP ANNUAL REVENUE REQUIREMENTS FOR RTEPPROJECTS 
+     Determine R  ( cost of long term debt, cost of preferred stock and equity percentage is from the  TCOS, lns 164 through 166)    Rev Require  W Incentives 
+Incentive 
+Amounts 
+   % Cost Weighted cost    TRUE-UP YEAR ___     
+  Long Term Debt 0.00% 0.00% 0.000%      As Projected in Prior Year WS J      $                   -    
+  Preferred Stock 0.00% 0.00% 0.000%      Actual after True-up 
+ 
+$             -    
+ 
+$             -     $                   -    
+  Common Stock 0.00% 0.00% 11.490%      True-up of ARR For ___ 
+                
+-    
+                
+-                          -    
+    R = 0.000%           
+                   
+  B.   Determine Return using 'R' with hypothetical 0 basis point ROE increase for Identified Projects.        
+     Rate Base  ( TCOS, ln 58)        -             
+     R   (fom A. above)  
+0.000
+%            
+     Return (Rate Base  x  R) 
+           
+-             
+  C.   Determine Income Taxes using Return with hypothetical 0 basis point ROE increase for Identified Projects.         
+     Return   (from B. above) 
+           
+-             
+     Effective Tax Rate  (TCOS, ln 97)  0.00%            
+     Income Tax Calculation  (Return  x  CIT)  
+           
+-             
+     ITC Adjustment          -             
+     Excess Deferred Income Tax        -             
+     Tax Affect of Permanent Differences        -             
+     Income Taxes  
+           
+-             
+II. 
+Calculate Net Plant Carrying Charge Rate (Fixed Charge Rate or FCR) with 
+hypothetical 0           
+  basis point ROE increase.              
+  A.   Determine Annual Revenue Requirement less return and Income Taxes.           
+     Annual Revenue Requirement  ( TCOS, ln 1)         -             
+     Lease Payments ( TCOS, Ln  80)  
+           
+-            
+     Return  ( TCOS, ln 109)        -            
+     Income Taxes  ( TCOS, ln 108)  
+           
+-            
+            -            
+     Annual Revenue Requirement, Less Lease payments, Return and Taxes            
+  B.   Determine Annual Revenue Requirement with hypothetical 0 basis point increase in ROE.          
+     Annual Revenue Requirement, Less Lease payments, Return and Taxes 
+           
+-            
+     Return   (from I.B. above)         -            
+     Income Taxes  (from I.C. above)  
+           
+-            
+     Annual Revenue Requirement, with 0 Basis Point ROE increase        -            
+     Depreciation  (TCOS, ln 83)   
+           
+-            
+           -            
+  
+   Annual Rev. Req, w/ 0 Basis Point ROE  
+increase, less Depreciation             
+  C.   Determine FCR with hypothetical 0 basis point ROE increase.           
+     Net Transmission Plant  (TCOS, ln 33)           -            
+     Annual Revenue Requirement, with 0 Basis Point ROE increase        -            
+     FCR with 0 Basis Point increase in ROE  0.00%           
+     Annual Rev. Req, w / 0 Basis Point ROE increase, less Dep. 
+           
+-            
+     FCR with 0 Basis Point ROE increase, less Depreciation 0.00%           
+     FCR less Depreciation  (TCOS, ln 10)   0.00%           
+  
+   Incremental FCR with 0 Basis Point ROE 
+ increase, less Depreciation  0.00%           
+III. Calculation of Composite Depreciation Rate           
+  Average Transmission Plant Balance for_____ TCOS, ln 19     
+                         
+-            
+  Annual Depreciation and Amortization Expense (TCOS, ln 83)   
+                         
+-     
+  Composite Depreciation Rate    0.00%  
+  Depreciable Life for Composite Depreciation Rate   
+                         
+-     
+  Average Life in Whole Years    
+                         
+-     
+Note 1:  Until AEP___________TRANSMISSION COMPANY establishes Transmission 
+plant in service the depreciation expense component of the carrying charge will be 
+calculated as in the Operating Company formula approved in Docket No. ER08-1329.  The 
+calculation for AEP___________TRANSMISSION COMPANY is shown on Worksheet 
+P. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 31 
+     Page 2 of 2 
+IV. Determine the Revenue Requirement, and Additional Revenue Requirement for facilities receiving incentives.        
+A. Base Plan Facilities             
+              
+Facilities receiving incentives accepted by FERC in Docket No.       (e.g. ER10-925-000)  ___ Rev Require  W Incentives Incentive Amounts 
+         
+ Prior Yr 
+Projected                     -                          -                         -    
+Project Description:         Prior Yr True-Up                     -                         -                         -    
+         
+True-Up 
+Adjustment                    -                         -                         -    
+              
+Details                     
+Investment                  -    Current Year     ___   TRUE UP OF PROJECT REVENUE REQUIREMENT FOR PRIOR YEAR:  
+Service Year (yyyy) 0 ROE increase accepted by FERC (Basis Points)                     -      CUMULATIVE HISTORY OF TRUED-UP ANNUAL REVENUE REQUIREMENTS:  
+Service Month (1-
+12)   FCR w/o incentives, less depreciation   0.00%  
+          INPUT TRUE-UP ARR (WITH & WITHOUT INCENTIVES) FROM EACH PRIOR 
+YEAR 
+    FCR w/incentives approved for these facilities, less dep.  0.00%       
+Useful life                -                    TEMPLATE BELOW TO MAINTAIN HISTORY OF TRUED-UP ARRS OVER THE  
+              
+CIAC (Yes or No) 0 Annual Depreciation Expense                        -               LIFE OF THE PROJECT.     
+Investment  Beginning   Depreciation   Ending   Average   
+ RTEP Rev. 
+Req't.  
+ RTEP Rev. 
+Req't.  
+Incentive 
+Rev.   
+ RTEP 
+Projected Rev. 
+Req't.From 
+Prior Year WS 
+J  
+ RTEP Rev 
+Req't True-
+up  
+ RTEP 
+Projected Rev. 
+Req't.From 
+Prior Year WS 
+J  
+ RTEP  Rev 
+Req't True-up  
+ True-up of 
+Incentive  
+Year Balance Expense Balance Balance 
+ w/o 
+Incentives  
+ with 
+Incentives **  
+Requirement 
+##    w/o Incentives   
+ w/o 
+Incentives   
+ with 
+Incentives **  
+ with 
+Incentives **  
+ with 
+Incentives **  
+0                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+1                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+2                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+3                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+4                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+5                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+6                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+7                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+8                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+9                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+10                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+11                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+12                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+13                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+14                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+15                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+16                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+17                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+18                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+19                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+20                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+21                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+22                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+23                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+24                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+25                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+26                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+27                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+28                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+29                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+30                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+31                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+32                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+33                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+34                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+35                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+36                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+37                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+38                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+39                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+40                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+41                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+42                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+43                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+44                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+45                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+46                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+47                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+48                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+49                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+50                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+51                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+52                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+53                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+54                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+55                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+56                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+57                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+58                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+59                -                          -                     -                   -                        -                         -     $               -         $               -       $                 -     $                 -    
+ Project Totals                         -                          -                        -                      -          
+**  This is the total amount that needs to be reported to PJM for billing to all regions.          
+## This is the calculation of  additional incentive revenue on projects deemed by the FERC to be eligible for an incentive return.  This       
+additional incentive requirement is applicable for the life of this specific project.  Each year the revenue requirement calculated for PJM       
+ should be incremented by the amount of the incentive revenue calculated for that year on this project.          
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 32 
+ AEPTCo subsidiaries in PJM 
+ Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+  Worksheet L RESERVED  
+ AEP _______________ TRANSMISSION COMPANY 
+  RESERVED FOR FUTURE USE  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 33 
+ AEPTCo subsidiaries in PJM  
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances  
+Worksheet M Supporting Calculation of Capital Structure and Weighted Average Cost of 
+Capital  
+AEP WEST VIRGINIA TRANSMISSION COMPANY  
+        
+  Average Balance of Common Equity  
+Line  
+No Month 
+Proprietary 
+Capital 
+Less: 
+Preferred 
+Stock 
+Less 
+Undistribut
+ed Sub 
+Earnings 
+(Acct 216.1) 
+Less AOCI 
+(Acct 
+219.1) 
+Average 
+Balance of 
+Common 
+Equity  
+  (a) (b) (c) (d) (e) 
+(f)=(b)-( c)-
+(d)-( e)  
+  (Note A)  (FF1 112.16)  (FF1 250-251)  (FF1 112.12) (FF1 112.15)    
+1 December Prior to Rate Year 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+2 January 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+3 February 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+4 March  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+5 April 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+6 May 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+7 June 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+8 July 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+9 August  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+10 September 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+11 October 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+12 November 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+13 December  of Rate Year 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                 
+-   
+14 Average of the 13 Monthly Balances  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-     
+        
+  Average Balance of Long Term Debt 
+Line  
+No Month Bonds 
+Less: 
+Reacquired 
+Bonds 
+Acct 223 
+LT Advances 
+from Assoc. 
+Companies 
+Acct 224 
+Senior 
+Unsecured 
+Notes 
+Less: Fair 
+Value 
+Hedges 
+Gross 
+Proceeds 
+Outstandin
+g Long-
+Term Debt 
+  (a) (b) (c) (d) (e) (f) (g)=(b)-
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 34 
+( c)+(d)+( e)
+-(f) 
+  (Note A)  (FF1 112.18)  (FF1 112.19)  (FF1 112.20) (FF1 112.21) 
+FF1, page 
+257, Col. (h) - 
+Note 1   
+15 December Prior to Rate Year 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+16 January 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+17 February 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+18 March  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+19 April 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+20 May 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+21 June 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+22 July 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+23 August  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+24 September 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+25 October 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+26 November 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+27 December  of Rate Year 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                     
+-  
+28 Average of the 13 Monthly Balances  
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-    
+                                   
+-    
+        
+NOTE 1:  The balance of fair value hedges on outstanding long term debt are to be excluded from the balance 
+of long term debt included in the formula's capital structure. (Page 257 Column H of the FF1) 
+ 
+    
+    
+Development of Cost of  Long Term Debt Based on 
+Average Outstanding Balance 
+   
+ 
+ (a) (b) (c) (d) (e) (f) (g) 
+29 Annual Interest Expense for 2017       
+30 
+Interest on Long Term Debt - Accts 
+221 - 224 (256-257.33.i)   
+                               
+-       
+31 
+Less: Total Hedge Gain/Expense Accumulated 
+from p 256-257, col. (i) of FERC Form 1  included 
+in Ln 30 and shown in 43 below.  
+                               
+-       
+32 
+Amort of Debt Discount & Expense - 
+Acct 428 (117.63.c)   
+                               
+-       
+33 
+Amort of Loss on Reacquired Debt - 
+Acct 428.1 (117.64.c)   
+                               
+-       
+34 
+Less: Amort of Premium on Debt - 
+Acct 429 (117.65.c)   
+                               
+-       
+35 
+Less: Amort of Gain on Reacquired 
+Debt - Acct 429.1 (117.66.c)   
+                               
+-       
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 35 
+36 
+Total Interest Expense (Ln 30 - 31 
++ 32 + 33 - 34 - 35)   
+                               
+-       
+        
+37 
+Average Cost of Debt for 2017 (Ln 
+36/ ln 28 (g))   -    
+        
+ CALCULATION OF HEDGE GAINS/LOSSES TO BE EXCLUDED 
+FROM TCOS    
+38 AEP WEST VIRGINIA TRANSMISSION COMPANY may not include costs (or 
+gains) related to interest hedging activities. 
+  
+     Amortization Period    
+ 
+HEDGE AMOUNTS BY 
+ISSUANCE (FROM p. 256-257 (i) 
+of the FERC Form 1) 
+(Amortizati
+on of 
+(Gain)/Loss 
+for 2017 
+ Remaining 
+Unamortize
+d Balance   Beginning   Ending    
+39             
+40             
+41             
+42             
+           
+43 
+Net (Gain)/Loss Hedge 
+Amortization To Be Removed 
+                               
+-    
+                               
+-    
+                               
+-    
+                               
+-      
+        
+        
+        
+Development of Cost of Preferred 
+Stock       
+        
+44 
+Balance of Preferred Stock (Line 14 
+(c))   
+                                       
+-       
+45 
+Dividends on Preferred Stock (Acct 
+437, FF1 118.29))        
+46 
+Average Cost of Preferred Stock (Ln 
+45 / ln 44)   -    
+        
+        
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 36 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+ Worksheet N - Gains (Losses) on Sales of Plant Held For Future Use 
+AEP _______________ TRANSMISSION COMPANY 
+     
+     
+Note: Gain or loss on plant held for future are recorded in accounts 411.6 or 411.7 respectiviely.  Sales will be 
+funtionalized based on the description of that asset. Sales of transmission assets will be direct assigned; sales of general 
+assets will be functionalized on labor.  Sales of plant held for future use related to generation or distribution will not be 
+included in the formula.      
+ (A)  (B)  ( C )  (D)  (E)  (F)  (G)  (H) (I) 
+               
+Line  Date  Property Description   
+Function 
+(T) or (G)  Basis  Proceeds  
+(Gain) / 
+Loss  
+Functional 
+Allocator 
+Functional 
+Proceeds FERC Account 
+        T =  Transmission       
+(Gain) / 
+Loss (Gain) / Loss 
+        G = General          
+1              
+               
+-     0.000%   
+               
+                 
+2              
+               
+-     0.000%   
+               
+                 
+3              
+               
+-     0.000%   
+               
+                 
+4          Net (Gain) or Loss for ___ 
+               
+-        
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 37 
+AEPTCo subsidiaries in PJM 
+Cost of Service Formula Rate Using Actual/Projected FF1 Balances 
+Calculation of Post-employment Benefits Other than Pensions Expenses Allocable to Transmission Service 
+Worksheet O - PBOP Support 
+AEP _______________ TRANSMISSION COMPANY 
+PBOP (A)  (B) 
+1 Calculation of PBOP Expenses  
+2 AEP System PBOP Rate  
+3 Total AEP System PBOP expenses    
+4 Base Year relating to retired personnel  
+5 Amount allocated on Labor   
+6 Total AEP System Direct Labor Expense   
+7 
+AEP System PBOP expense per dollar of direct labor 
+(PBOP Rate)   
+8 Currently Approved PBOP Rate (0.078) 
+9 Base PBOP TransCo labor expensed in current year  
+10 Allowable TransCo PBOP Expense for current year (Ln 8 * Ln 9)  
+11 Direct PBOP Expense per Actuarial Report  
+12 Additional PBOP Ledger Entry (From Company Records)  
+13 Medicare Credit   
+14 PBOP Expenses From AEP Affiliates (From Company Records)  
+15 Actual PBOP Expense  (Sum Lines 11-14)  
+16 PBOP Adjustment Line 10 less Line 15  
+Note: PBOP Expense will be calculated in accordance with the settlement in Docket ER10-355. 
+ 
+As part of the annual update process, AEP will provide to transmission customers and include in its informational filing an independently prepared 
+actuarial report that includes a ten (10) year forecast of PBOP expenses.  During the annual update process conducted for rate year 2018 and every 
+four years thereafter, Worksheet O will be used to determine whether the PBOP allowance rate ($PBOP per $Direct O&M Labor) should be 
+adjusted going forward for the next four years.  If the annual actuarial report issued during the year of any PBOP rate review projects PBOP costs 
+during the next four years that, when allocated to the AEP Transmission Companies based on their projected direct labor expenses over that same 
+projected four-year period, absent a change in the PBOP Rate, will likely cause the AEP East Transmission Companies to over or under collect 
+their cumulative PBOP expenses by more than 20% of the projected next four year’s total PBOP expense, taking into account the net over or under 
+collection of such expenses during the previous four years, the PBOP rate shall be adjusted.  In order to determine whether continued use of the 
+then approved PBOP rate is likely to result in the AEP Companies’ incurrence of a cumulative allowance of PBOP costs under the formula rate 
+will result in a cumulative over or under-recoery of actual PBOP expenses exceeding 20% over the subsequent four year period, Worksheet O will 
+be used to determine (a) the level of cumulative over or under collections of PBOP expense during the time since the PBOP allowance rate was last 
+set, including carrying costs based on the weighted average cost of capital each year from the formula rate actual transmission cost-of-service (b) 
+the cumulative net present value of projected PBOP costs during the next four years as estimated by the then current actuarial report, assuming a 
+discount rate equal to the actual transmission cost of service average cost of capital for the immediately prior calendar year and (c) the cumulative 
+net present value of continued collections over the next four years based on the projected AEP Transmission Companies direct labor expenses and 
+the then effective PBOP allowance rate assuming a discount rate equal to the prior year weighted average cost of capital.  If the absolute value of 
+(a)+(b)-(c) exceeds 20% of (b), then the PBOP allowance rate used in the formula rate calculation shall be changed to the value that will cause the 
+projected result of (a)+(b)-(c) to equal zero.  If the projected over or under collection during the next four years, (a)+(b)-(c), is less than 20% of (b), 
+then the PBOP Rate will continue in effect for the next four years at the then effective rate.  If it is determined through this procedure AEP 
+Companies will over-recover or under-recover actual PBOP expenses by more than 20% over the subsequent four-year period, AEP shall make a 
+filing under FPA Section 205 to change the PBOP Rate  stated in the formula rate shown on Worksheet O.  No other changes to the formula rate 
+may be included in that filing. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 38 
+ AEPTCo subsidiaries in PJM 
+ Worksheet  - P  
+ DEPRECIATION RATES 
+ FOR TRANSMISSION PLANT PROPERTY ACCOUNTS 
+ EFFECTIVE AS OF 1/1/2020 
+  
+ AEP APPALACHIAN TRANSMISSION COMPANY 
+     
+  PLANT RATES  
+  ACCT. Note 1  
+  TRANSMISSION PLANT      
+   Energy Storage Equipment 351.0 14.22%  
+   Structures & Improvements 352.0 1.99%  
+   Station Equipment 353.0 2.70%  
+   Towers & Fixtures 354.0 1.64%  
+   Poles & Fixtures 355.0 3.46%  
+   Overhead Conductor 356.0 1.65%  
+   Underground Conduit 357.0 2.49%  
+   Underground Conductors 358.0 4.72%  
+     
+ GENERAL PLANT    
+   Structures and Improvements 390 1.89%  
+ 
+  Office Furniture and Equip. 
+  Transportation Equipment 
+391 
+392 
+3.21% 
+3.46%  
+   Stores Equipment 393 1.78%  
+   Tools, Shop and Garage  Equipment 394 2.59%  
+   Laboratory Equipment 395 3.87%  
+   Power Operated Equipment 396 3.90%  
+   Communications Equipment 397 5.05%  
+   Micellaneous Equipment 398 2.67%  
+     
+ 
+Note: Per the Settlement in Docket No. ER10-355, Appendix A.1.2, AEP APPALACHIAN TRANSMISSION 
+COMPANY shall use the depreciation rates shown above by FERC Account until such time as the FERC approves new 
+depreciation rates pusuant to a Section 205 or 206 filing to change rates. 
+APCo Transco Depreciation Rates are based on the APCo VA Order in VA SCC Case No. PUR-2020-00015. 
+ 
+     
+ Composite Depreciation Rate OpCo Company OpCo Company TOTAL 
+1 T-Plant (FF1 206.58.g)    
+2 T-Plant (FF1 206.58.b)    
+3 Average (Ln 1+ Ln 2)/2    
+4 Depreciation (FF1 336.7.f)    
+5 Composite Depreciation (Ln 3 / Ln 4)    
+     
+ 
+Note: AEP APPALACHIAN TRANSMISSION COMPANY shall initially use the composite depreciation rate for 
+Virginia and West Virginia shown above to estimate depreciation expense for transmission projects in Worksheets J and 
+K until a composite depreciation rate based on transmission plant in service and depreciation expenses recorded by AEP 
+APPALACHIAN TRANSMISSION COMPANY for its own transmission facilities can be calculated in AEP 
+APPALACHIAN TRANSMISSION COMPANY's the first Annual Update including a True-Up TCOS. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 39 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 40 
+AEPTCo subsidiaries in PJM 
+Worksheet  - P  
+DEPRECIATION RATES 
+FOR TRANSMISSION PLANT PROPERTY ACCOUNTS 
+EFFECTIVE AS OF 3/11/2020 
+ 
+AEP INDIANA MICHIGAN TRANSMISSION COMPANY 
+    
+    
+ PLANT RATES  
+ ACCT. Note 1  
+ TRANSMISSION PLANT      
+    
+  Land Rights 350.1 
+                                
+1.66%  
+  Structures & Improvements 352.0 1.77%  
+  Station Equipment 353.0 2.43%  
+  Towers & Fixtures 354.0 2.57%  
+  Poles & Fixtures 355.0 3.19%  
+  Overhead Conductor 356.0 2.35%  
+  Underground Conduit 357.0 2.30%  
+  Underground Conductors 358.0 1.93%  
+    
+GENERAL PLANT    
+  Structures and Improvements 390 2.08%  
+  Office Furniture and Equip. 391 4.79%  
+  Stores Equipment 393 7.35%  
+  Tools, Shop and Garage  Equipment 394 6.99%  
+  Laboratory Equipment 395 5.41%  
+  Power Operated Equipment 396 4.81%  
+  Communications Equipment 397 3.91%  
+  Micellaneous Equipment 398 3.32%  
+Note: Per the Settlement in Docket No. ER10-355, Appendix A.1.2, AEP INDIANA MICHIGAN TRANSMISSION 
+COMPANY shall use the depreciation rates shown above by FERC Account until such time as the FERC approves new 
+depreciation rates pusuant to a Section 205 or 206 filing to change rates. 
+    
+Composite Depreciation Rate OpCo Company OpCo Company TOTAL 
+T-Plant (FF1 206.58.g)    
+T-Plant (FF1 206.58.b)    
+Average (Ln 1+ Ln 2)/2    
+Depreciation (FF1 336.7.f)    
+Composite Depreciation (Ln 3 / Ln 4)    
+    
+Note:  Rates approved in Indiana Cause No. 45235 effective March 11, 2020. 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 41 
+ AEPTCo subsidiaries in PJM 
+ Worksheet  - P  
+ DEPRECIATION RATES 
+ FOR TRANSMISSION PLANT PROPERTY ACCOUNTS 
+ EFFECTIVE AS OF 7/1/2015 
+  
+ AEP KENTUCKY TRANSMISSION COMPANY 
+     
+  PLANT RATES  
+  ACCT. Note 1  
+  TRANSMISSION PLANT      
+     
+   Land Rights 350.1 1.44%  
+   Structures & Improvements 352.0 2.08%  
+   Station Equipment 353.0 2.15%  
+   Towers & Fixtures 354.0 2.61%  
+   Poles & Fixtures 355.0 3.95%  
+   Overhead Conductor 356.0 2.91%  
+   Underground Conduit 357.0 2.99%  
+   Underground Conductors 358.0 2.62%  
+     
+ GENERAL PLANT    
+ Land Rights 389.1 1.59%  
+ Structures & Improvements 390 3.97%  
+ Office Furniture & Equipment 391 3.20%  
+ Transportation Equipment 392 3.52%  
+ Stores Equipment 393 4.15%  
+ Tools Shop & Garage Equipment 394 4.20%  
+ Laboratory Equipment 395 5.76%  
+ Power Operated Equipment 396 5.43%  
+ Communication Equipment 397 5.66%  
+ Miscellaneous Equipment 398 6.73%  
+ 
+Note: Per the Settlement in Docket No. ER10-355, Appendix A.1.2, AEP KENTUCKY TRANSMISSION COMPANY 
+shall use the depreciation rates shown above by FERC Account until such time as the FERC approves new depreciation 
+rates pusuant to a Section 205 or 206 filing to change rates. 
+     
+ Composite Depreciation Rate OpCo Company OpCo Company TOTAL 
+1 T-Plant (FF1 206.58.g)    
+2 T-Plant (FF1 206.58.b)    
+3 Average (Ln 1+ Ln 2)/2    
+4 Depreciation (FF1 336.7.f)    
+5 Composite Depreciation (Ln 3 / Ln 4)    
+     
+ 
+ 
+Note: AEP KENTUCKY TRANSMISSION COMPANY shall initially use the composite depreciation rate for KPCo  
+shown above to estimate depreciation expense for transmission projects in Worksheets J and K until a composite 
+depreciation rate based on transmission plant in service and depreciation expenses recorded by AEP KENTUCKY 
+TRANSMISSION COMPANY for its own transmission facilities can be calculated in AEP KENTUCKY 
+TRANSMISSION COMPANY's the first Annual Update including a True-Up TCOS. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 42 
+AEPTCo subsidiaries in PJM 
+Worksheet  - P  
+DEPRECIATION RATES 
+FOR TRANSMISSION PLANT PROPERTY ACCOUNTS 
+EFFECTIVE AS OF 1/1/2020 
+ 
+AEP OHIO TRANSMISSION COMPANY 
+    
+    
+ PLANT RATES  
+ ACCT. Note 1  
+ TRANSMISSION PLANT      
+    
+  Land Rights 350.1 1.03%  
+  Energy Storage Equipment 351.0 14.22%  
+  Structures & Improvements 352.0 1.95%  
+  Station Equipment 353.0 2.43%  
+  Towers & Fixtures 354.0 2.27%  
+  Poles & Fixtures 355.0 3.53%  
+  Overhead Conductor 356.0 2.30%  
+  Underground Conduit 357.0 2.59%  
+  Underground Conductors 358.0 3.09%  
+    
+GENERAL PLANT    
+Structures & Improvements 390.0 2.65%  
+Office Furniture & Equipment 391.0 3.73%  
+Stores Equipment 393.0 4.43%  
+Tools Shop & Garage Equipment 394.0 4.59%  
+Laboratory Equipment 395.0 5.01%  
+Power Operated Equipment 396.0 4.71%  
+Communication Equipment 397.0 4.87%  
+Miscellaneous Equipment 398.0 4.24%  
+    
+    
+    
+Note: Per the Settlement in Docket No. ER10-355, Appendix A.1.2, AEP OHIO TRANSMISSION COMPANY shall use the 
+depreciation rates shown above by FERC Account until such time as the FERC approves new depreciation rates pusuant to a 
+Section 205 or 206 filing to change rates. 
+APCo Transco Depreciation Rates are based on the APCo VA Order in VA SCC Case No. PUR-2020-00015. 
+    
+Composite Depreciation Rate OpCo Company OpCo Company TOTAL 
+T-Plant (FF1 206.58.g)    
+T-Plant (FF1 206.58.b)    
+Average (Ln 1+ Ln 2)/2    
+Depreciation (FF1 336.7.f)    
+Composite Depreciation (Ln 3 / Ln 4)    
+    
+Note: AEP OHIO TRANSMISSION COMPANY shall initially use the composite depreciation rate for APCo, I&M and KPCo 
+shown above to estimate depreciation expense for transmission projects in Worksheets J and K until a composite depreciation 
+rate based on transmission plant in service and depreciation expenses recorded by AEP OHIO TRANSMISSION COMPANY 
+for its own transmission facilities can be calculated in AEP OHIO TRANSMISSION COMPANY's the first Annual Update 
+including a True-Up TCOS. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 43 
+ AEPTCo subsidiaries in PJM 
+ Worksheet  - P  
+ DEPRECIATION RATES 
+ FOR TRANSMISSION PLANT PROPERTY ACCOUNTS 
+ EFFECTIVE AS OF 1/1/2020 
+  
+ AEP WEST VIRGINIA TRANSMISSION COMPANY 
+     
+     
+  PLANT RATES  
+  ACCT. Note 1  
+  TRANSMISSION PLANT      
+     
+     
+  Energy Storage Equipment 351.0 14.22%   
+   Structures & Improvements 352.0 1.99%  
+   Station Equipment 353.0 2.70%  
+   Towers & Fixtures 354.0 1.64%  
+   Poles & Fixtures 355.0 3.46%  
+   Overhead Conductor 356.0 1.65%  
+   Underground Conduit 357.0 2.49%  
+   Underground Conductors 358.0  4.72%  
+     
+ GENERAL PLANT    
+ Structures & Improvements 390.0 1.89%  
+ 
+Office Furniture & Equipment 
+Transportation Equipment 
+391.0 
+392.0 
+3.21% 
+3.46%  
+ Stores Equipment 393.0 1.78%  
+ Tools Shop & Garage Equipment 394.0 2.59%  
+ Laboratory Equipment 395.0 3.87%  
+ Power Operated Equipment 396.0 3.90%  
+ Communication Equipment 397.0 5.05%  
+ Miscellaneous Equipment 398.0 2.67%  
+     
+     
+ 
+Note: Per the Settlement in Docket No. ER10-355, Appendix A.1.2, AEP WEST VIRGINIA TRANSMISSION 
+COMPANY shall use the depreciation rates shown above by FERC Account until such time as the FERC approves new 
+depreciation rates pusuant to a Section 205 or 206 filing to change rates. 
+APCo Transco Depreciation Rates are based on the APCo VA Order in VA SCC Case No. PUR-2020-00015. 
+     
+ Composite Depreciation Rate OpCo Company OpCo Company TOTAL 
+1 T-Plant (FF1 206.58.g)    
+2 T-Plant (FF1 206.58.b)    
+3 Average (Ln 1+ Ln 2)/2    
+4 Depreciation (FF1 336.7.f)    
+5 Composite Depreciation (Ln 3 / Ln 4)    
+     
+ 
+ 
+Note: AEP WEST VIRGINIA TRANSMISSION COMPANY shall initially use the composite depreciation rate for 
+APCo and WPCo shown above to estimate depreciation expense for transmission projects in Worksheets J and K until a 
+composite depreciation rate based on transmission plant in service and depreciation expenses recorded by AEP WEST 
+VIRGINIA TRANSMISSION COMPANY for its own transmission facilities can be calculated in AEP WEST 
+VIRGINIA TRANSMISSION COMPANY's the first Annual Update including a True-Up TCOS. 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part II PBOP Revisions 
+Effective Date: 4/12/2023 - Docket #: ER23-1087-000 - Page 44 
 AEP East Consolidated Utility Capital Structure 
-Consolidation of Operating Companies' Capital Structure @ 12-31-2008 
-Worksheet Q Page 2 
+Consolidation of Operating Companies' Capital Structure @ 12-31- 
+Worksheet Q Page 1 
 Line  
 Appalachian 
 Power 
-Company 
+Company  
 Indiana 
 Michigan 
 Power 
@@ -66,7 +1642,8 @@ Company
 Kingsport 
 Power 
 Company 
-Ohio Power 
+Ohio 
+Power 
 Company 
 Wheeling 
 Power 
@@ -77,1609 +1654,67 @@ Companies'
 Consolidated 
 Capital 
 Structure 
-Development of Long Term Debt Balances at Year 
-End        
-60 Bonds (112.18.c&d)                        -                          -                          -                        -                      -                      -    
-                           
--    
-61 Less: Reacquired Bonds (112.19.c&d) 
-          
-17,500,000         100,000,000                        -                        -         85,000,000                    -    
-            
-294,745,000  
-62 
-LT Advances from Assoc. Companies  
-(112.20.c&d) 
-        
-100,000,000                        -    
-        
-20,000,000         20,000,000     200,000,000       25,000,000  
-            
-465,000,000  
-63 
-Senior Unsecured Notes (112.21.c&d) 
-Excludes Spent Nuc Fuel Disp Fund 
-     
-3,114,740,790      1,217,000,000  
-       
-400,000,000                      -     2,594,450,000                    -    
-          
-8,768,935,790  
-64 
-Less: Fair Value Hedges (See Note on Ln 
-66 below)                        -                          -                          -                        -                      -                      -    
-                           
--    
-65 Total Long Term Debt Balance 
-     
-3,197,240,790      1,117,000,000  
-       
-420,000,000         20,000,000   2,709,450,000       25,000,000  
-          
-8,939,190,790  
-66 
- 
-NOTE:  The balance of fair value hedges on outstanding long term debt are to be excluded from the balance of long term debt included in the formula's capital structure. (p. 257, Column H of the 
+Development of Long Term Debt Balances at Year End         
+1 Bonds (112.18.c&d)         
+2 Less: Reacquired Bonds (112.19.c&d)         
+3 LT Advances from Assoc. Companies  (112.20.c&d)         
+4 Senior Unsecured Notes (112.21.c&d) Excludes Spent Nuc Fuel Disp Fund         
+5 Less: Fair Value Hedges (See Note on Ln 7 below)         
+6 Total Long Term Debt Balance         
+7 
+NOTE:  The balance of fair value hedges on outstanding long term debt are to be excluded from the balance of long term debt included in the formula's capital structure. (page 257, Column H of the 
 FF1) 
 Development of Long Term Debt Interest Expense         
-67 Interest on Long Term Debt (256-257.33.i) 
-        
-181,193,862           69,755,551  
-        
-26,429,625           1,075,000     134,040,796         1,312,500  
-            
-491,905,445  
-68 
-Amort of Debt Discount & Expense 
-(117.63.c) 
-            
-2,539,613            2,467,181  
-             
-451,645                      -           2,211,243                    -    
-                
-8,755,819  
-69 
-Amort of Loss on Reacquired Debt 
-(117.64.c) 
-            
-1,440,062            2,142,335  
-               
-33,648                      -           1,618,264                    -    
-                
-5,991,748  
-70 Less: Amort of Premium on Debt (117.65.c)                        -                          -                          -                        -                      -                      -    
-                           
--    
-71 
-Less: Amort of Gain on Reacquired Debt 
-(117.66.c)                        -                          -                          -                        -                      -                      -    
-                           
--    
-72 Less: Hedge Interest on pp 256-257(i) 
-            
-5,001,679            1,547,947  
-               
-92,956                      -          (1,250,297)                   -    
-                
-5,392,285  
-         
-73 LTD Interest Expense 
-        
-180,171,858           72,817,120  
-        
-26,821,962           1,075,000     139,120,600         1,312,500  
-            
-501,260,727  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 17 
- 
- 
-     
-Development of Cost of Preferred Stock and Preferred Dividends 
- 
-     
-74 Dividend Rate (p. 250-251. 7.a) 4.50% 4.125%     4.08%    
-75 Par Value (p. 250-251. 8.c) 
- $             
-100.00   $            100.00       $         100.00     
-76 Shares Outstanding (p.250-251. 8.e) 
-              
-177,520                 55,335                  14,595     
-77 Monetary Value (Ln 75 * Ln 76) 
-          
-17,752,000            5,533,500                        -                        -           1,459,500                    -    
-              
-24,745,000  
-78 Dividend Amount (Ln 74 * Ln 77) 
-              
-798,840               228,257                        -                        -                59,548                    -    
-                
-1,086,644  
-79 Dividend Rate (p. 250-251. 7.a)   4.12%     4.20%    
-80 Par Value (p. 250-251. 8.c)    $            100.00       $         100.00     
-81 Shares Outstanding (p.250-251. 8.e)                  11,055                  22,824     
-82 Monetary Value (Ln 80 * Ln 81)                        -              1,105,500                        -                        -           2,282,400                    -    
-                
-3,387,900  
-83 Dividend Amount (Ln 79 * Ln 82)                        -                   45,547                        -                        -                95,861                    -    
-                   
-141,407  
-84 Dividend Rate (p. 250-251. 7.a)   4.56%     4.40%    
-85 Par Value (p. 250-251. 8.c)    $            100.00       $         100.00     
-86 Shares Outstanding (p.250-251. 8.e)                  14,412                  31,482     
-87 Monetary Value (Ln 85 * Ln 86)                        -              1,441,200                        -                        -           3,148,200                    -    
-                
-4,589,400  
-88 Dividend Amount (Ln 84 * Ln 87)                        -                   65,719                        -                        -              138,521                    -    
-                   
-204,240  
-89 Dividend Rate (p. 250-251. 7.a)         4.50%    
-90 Par Value (p. 250-251. 8.c)          $         100.00     
-91 Shares Outstanding (p.250-251. 8.e)                     97,373     
-92 Monetary Value (Ln 90 * Ln 91)                        -                          -                          -                        -           9,737,300                    -    
-                
-9,737,300  
-93 Dividend Amount (Ln 89 * Ln 92)                        -                          -                          -                        -              438,179                    -    
-                   
-438,179  
-94 Preferred Stock (Lns 77, 82, 87,92) 
-          
-17,752,000            8,080,200                        -                        -         16,627,400                    -    
-              
-42,459,600  
-95 Preferred Dividends (Lns 78, 83, 88,93) 
-              
-798,840               339,522                        -                        -              732,108                    -    
-                
-1,870,470  
-Development of Common Equity        
-96 Proprietary Capital (112.16.c) 
-     
-2,394,342,663      1,444,357,731  
-       
-398,008,673         25,031,105   2,438,571,961       37,950,872  
-          
-7,987,702,880  
-97 Less: Preferred Stock (Ln 94 Above) 
-          
-17,752,000            8,080,200                        -                        -         16,627,400                    -    
-              
-42,459,600  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 18 
-98 Less: Account 216.1 (112.12.c) 
-            
-2,462,578  
-         
-(1,510,668)                       -                        -                      -                      -    
-              
-11,153,901  
-99 Less: Account 219.1 (112.15.c)  
-        
-(60,225,378) 
-       
-(20,233,842) 
-               
-59,584                      -      (133,858,575)      (2,464,181) 
-           
-(263,573,252) 
-100 Balance of Common Equity 
-     
-2,434,353,463      1,458,022,041  
-       
-397,949,089         25,031,105   2,555,803,136       40,415,053  
-          
-8,197,662,631  
-Calculation of Capital Shares        
-101 Long Term Debt (Ln 65 Above) 
-     
-3,197,240,790      1,117,000,000  
-       
-420,000,000         20,000,000   2,709,450,000       25,000,000  
-          
-8,939,190,790  
-102 Preferred Stock (Ln 94 Above) 
-          
-17,752,000            8,080,200                        -                        -         16,627,400                    -    
-              
-42,459,600  
-103 Common Equity (Ln 100 Above) 
-     
-2,434,353,463      1,458,022,041  
-       
-397,949,089         25,031,105   2,555,803,136       40,415,053  
-          
-8,197,662,631  
-104 Total Company Structure 
-     
-5,649,346,253      2,583,102,241  
-       
-817,949,089         45,031,105   5,281,880,536       65,415,053  
-        
-17,179,313,021  
-105 LTD Capital Shares (Ln 101 / Ln 104) 56.59% 43.24% 51.35% 44.41% 51.30% 38.22% 52.03% 
-106 
-Preferred Stock Capital Shares (Ln 102 / Ln 
-104) 0.31% 0.31% 0.00% 0.00% 0.31% 0.00% 0.25% 
-107 
-Common Equity Capital Shares (Ln 103 / Ln 
-104) 43.09% 56.44% 48.65% 55.59% 48.39% 61.78% 47.72% 
-         
-108 Equity Capital Share Limit 50.00% 50.00% 50.00% 100.00% 51.00% 100.00% 50.00% 
-109 LTD Capital Shares with Capital Equity Cap 56.59% 49.69% 51.35% 44.41% 51.30% 38.22% 53.00% 
-110 Preferred Stock Capital Shares 0.31% 0.31% 0.00% 0.00% 0.31% 0.00% 0.25% 
-111 
-Common Equity Capital Shares with Capital 
-Equity Cap 43.09% 50.00% 48.65% 55.59% 48.39% 61.78% 46.75% 
-Calculation of Capital Cost Rate        
-112 LTD Capital Cost Rate (Ln 73 / Ln 65) 5.64% 6.52% 6.39% 5.38% 5.13% 5.25% 5.61% 
-113 
-Preferred Stock Capital Cost Rate (Ln 95 / 
-Ln 94) 4.50% 4.20% 0.00% 0.00% 4.40% 0.00% 4.41% 
-114 Common Equity Capital Cost Rate 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 
-Calculation of Weighted Capital Cost Rate        
-115 
-LTD Weighted Capital Cost Rate (Ln 109 * 
-Ln 112) 3.19% 3.24% 3.28% 2.39% 2.63% 2.01% 2.97% 
-116 
-Preferred Stock Capital Cost Rate (Ln 110 * 
-Ln 113) 0.01% 0.01% 0.00% 0.00% 0.01% 0.00% 0.01% 
-117 
-Common Equity Capital Cost Rate (Ln 111 * 
-Ln 114) 4.95% 5.75% 5.59% 6.39% 5.56% 7.10% 5.37% 
-118 Total Company Structure 8.15% 9.00% 8.87% 8.77% 8.21% 9.11% 8.35% 
-    
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 19 
-Appendix A-1.1  
- AEP East Consolidated Utility Capital Structure 
-Consolidation of Operating Companies' Average Capital Structure 
-Worksheet Q Page 3 
-Line  
-Appalachian 
-Power 
-Company 
-Indiana 
-Michigan 
-Power 
-Company 
-Kentucky 
-Power 
-Company 
-Kingsport 
-Power 
-Company 
-Ohio Power 
-Company 
-Wheeling 
-Power 
-Company 
-AEP East Operating 
-Companies' 
-Consolidated 
-Capital Structure 
-Development of Average Long Term 
-Debt        
-119 
-Average Bonds (Ln 1 + Ln 60) / 
-2 
-                       
--                          -                          -                        -                      -                      -                               -    
-120 
-Less: Average Reacquired 
-Bonds (Ln 2 + Ln 61) / 2 
-          
-17,500,000  
-         
-50,000,000                        -                        -       194,000,000                    -                307,622,500  
-121 
-Average LT Advances from 
-Assoc. Companies (Ln 3 + Ln 
-62) / 2 
-        
-100,000,000  
-         
-12,500,000          20,000,000         20,000,000     200,000,000       25,000,000              477,500,000  
-122 
-Average Senior Unsecured 
-Notes (Ln 4 + Ln 63) / 2 
-     
-3,266,919,996  
-    
-1,454,500,000  
-       
-465,000,000                      -    
- 
-2,973,015,000                    -              9,602,179,996  
-123 
-Less: Average Fair Value 
-Hedges (See Note on Ln 125 
-below) 
-                       
--                          -                          -                        -                      -                      -                               -    
-124 
-Average Balance of Long 
-Term Debt 
-     
-3,349,419,996  
-    
-1,417,000,000  
-       
-485,000,000         20,000,000  
- 
-2,979,015,000       25,000,000            9,772,057,496  
-125 
- 
-NOTE:  The balance of fair value hedges on outstanding long term debt are to be excluded from the balance of long term debt included in the formula's capital structure. (p. 257, Column H of 
-the FF1) 
-         
-         
-Development of 2009 Long Term Debt 
-Interest Expense         
-126 
-Interest on Long Term Debt 
-(256-257.33.i) 
-        
-201,508,637  
-       
-100,346,371          30,323,070           1,075,000     129,578,994         1,312,500              547,990,827  
-127 
-Amort of Debt Discount & 
-Expense (117.63.c) 
-            
-3,232,592  
-          
-3,157,632               457,098                      -           3,354,846                    -                  12,043,656  
-128 
-Amort of Loss on Reacquired 
-Debt (117.64.c) 
-              
-991,540  
-          
-1,596,824                 33,649                      -              626,793                    -                    3,992,302  
-129 
-Less: Amort of Premium on 
-Debt (117.65.c) 
-                       
--                          -                          -                        -                      -                      -                               -    
-130 
-Less: Amort of Gain on 
-Reacquired Debt (117.66.c) 
-                       
--    
-                 
-1,712                        -                        -                      -                      -                          1,712  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 20 
-131 
-Less: Hedge Interest on pp 256-
-257(i) 
-            
-2,569,395  
-          
-1,551,518                 92,956                      -    
-      
-(7,185,191)                   -                   (2,971,322) 
-132 2009 LTD Interest Expense 
-        
-203,163,374  
-       
-103,547,597          30,720,861           1,075,000     140,745,824         1,312,500              566,996,395  
-         
-2009 Cost of Preferred Stock and 
-Preferred Dividends 
-  
-     
-133 
-Average Balance of Preferred 
-Stock (Ln 35 + Ln 94) / 2 
-          
-17,751,900  
-          
-8,078,500                        -                        -         16,626,900                    -                  42,457,300  
-134 
-2009 Preferred Dividends (Ln 
-36) 
-              
-798,831  
-             
-339,382                        -                        -              732,063                    -                    1,870,276  
-Development of Average Common 
-Equity        
-135 
-Average Proprietary Capital (Ln 
-37 + Ln 96) / 2 
-     
-2,591,835,865  
-    
-1,562,608,858  
-       
-414,896,185         23,183,288  
- 
-2,844,946,957       40,927,862            8,783,036,528  
-136 
-Less: Average Preferred Stock 
-(Ln 133 Above) 
-          
-17,751,900  
-          
-8,078,500                        -                        -         16,626,900                    -                  42,457,300  
-137 
-Less: Average Account 216.1 
-(Ln 39 + Ln 98) / 2 
-            
-2,528,053  
-         
-(1,046,000)                       -                        -                      -                      -                    7,615,449  
-138 
-Less: Average Account 219.1 
-(Ln 40 + Ln 99) / 2 
-        
-(55,239,871) 
-       
-(20,967,173) 
-            
-(270,679)                2,780  
-  
-(126,158,347)      (2,106,841)            (253,162,325) 
-139 
-Average Balance of Common 
-Equity 
-     
-2,626,795,783  
-    
-1,576,543,530  
-       
-415,166,864         23,180,508  
- 
-2,954,478,404       43,034,703            8,986,126,104  
-Calculation of Capital Shares        
-140 
-Average Balance of Long Term 
-Debt (Ln 124 Above) 
-     
-3,349,419,996  
-    
-1,417,000,000  
-       
-485,000,000         20,000,000  
- 
-2,979,015,000       25,000,000            9,772,057,496  
-141 
-Average Balance of Preferred 
-Stock (Ln 133 Above) 
-          
-17,751,900  
-          
-8,078,500                        -                        -         16,626,900                    -                  42,457,300  
-142 
-Average Balance of Common 
-Equity (Ln 139 Above) 
-     
-2,626,795,783  
-    
-1,576,543,530  
-       
-415,166,864         23,180,508  
- 
-2,954,478,404       43,034,703            8,986,126,104  
-143 
-Average of Total Company 
-Structure 
-     
-5,993,967,678  
-    
-3,001,622,030  
-       
-900,166,864         43,180,508  
- 
-5,950,120,304       68,034,703          18,800,640,899  
-144 
-Average Balance of LTD Capital 
-Shares (Ln 140 / Ln 143) 55.88% 47.21% 53.88% 46.32% 50.07% 36.75% 51.98% 
-145 
-Average Balance of Preferred 
-Stock Capital Shares (Ln 141 / 
-Ln 143) 0.30% 0.27% 0.00% 0.00% 0.28% 0.00% 0.23% 
-146 
-Average Balance of Common 
-Equity Capital Shares (Ln 142 / 
-Ln 143) 43.82% 52.52% 46.12% 53.68% 49.65% 63.25% 47.80% 
-         
-147 Equity Capital Share Limit 50.00% 50.00% 50.00% 100.00% 51.00% 100.00% 50.00% 
-148 
-LTD Capital Shares with Capital 
-Equity Cap 55.88% 49.73% 53.88% 46.32% 50.07% 36.75% 52.38% 
-149 Preferred Stock Capital Shares 0.30% 0.27% 0.00% 0.00% 0.28% 0.00% 0.23% 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 21 
-150 
-Common Equity Capital Shares 
-with Capital Equity Cap 43.82% 50.00% 46.12% 53.68% 49.65% 63.25% 47.39% 
-Calculation of Capital Cost Rate        
-151 
-LTD Capital Cost Rate (Ln 132 / 
-Ln 124) 6.07% 7.31% 6.33% 5.38% 4.72% 5.25% 5.80% 
-152 
-Preferred Stock Capital Cost 
-Rate (Ln 134 / Ln 133) 4.50% 4.20% 0.00% 0.00% 4.40% 0.00% 4.41% 
-153 
-Common Equity Capital Cost 
-Rate 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 
-         
-Calculation of Weighted Capital Cost 
-Rate        
-154 
-LTD Weighted Capital Cost 
-Rate (Ln 148 * Ln 151) 3.39% 3.63% 3.41% 2.49% 2.37% 1.93% 3.04% 
-155 
-Preferred Stock Capital Cost 
-Rate (Ln 149 * Ln 152) 0.01% 0.01% 0.00% 0.00% 0.01% 0.00% 0.01% 
-156 
-Common Equity Capital Cost 
-Rate (Ln 150 * Ln 153) 5.04% 5.75% 5.30% 6.17% 5.71% 7.27% 5.45% 
-157 
-ACTUAL WEIGHTED AVG 
-COST OF CAPITAL 8.44% 9.39% 8.71% 8.66% 8.08% 9.20% 8.49% 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW 
-SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 22 
-Appendix A.1.2 
- 
-      
-AEP 
-Appalachian 
-AEP Indiana 
-Michigan 
-AEP 
-Kentucky AEP Ohio 
-      
-Transmission 
-Co 
-Transmission 
-Co 
-Transmission 
-Co 
-Transmission 
-Co 
-              
-350 Land Rights     1.27% 1.44% 1.36% 
-352 Structures & Improvements   1.52% 1.32% 2.08% 1.64% 
-353 Station Equipment   1.68% 1.69% 2.15% 1.84% 
-354 Towers & Fixtures   1.54% 1.60% 2.61% 1.92% 
-355 Poles & Fixtures   2.64% 2.43% 3.95% 3.01% 
-356 OH Conductors & Devices   1.19% 1.53% 2.91% 1.88% 
-357 Underground Conduit   1.45% 1.56% 2.99% 2.00% 
-358 Underground Conductor   7.23% 1.55% 2.62% 3.80% 
-359 Roads & Trails     1.49% - 1.49% 
- 
- 
-*For the states of Kentucky, West Virginia, Virginia, Indiana and Michigan, the formula rate will 
-use rates based on the last approved depreciation study for the applicable jurisdiction (KPCo, 
-APCo, or I&M).  For example, rates for the 2004 I&M depreciation study will be used for Indiana 
-and Michigan. 
- 
-Ohio’s rates are a composite rate calculated as the average of the APCo, I&M and KPCo rates.    
-AEP's rates may only be changed in a Section 205/206 proceeding based on new studies.  This 
-filing may be a single issue proceeding. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 23 
- 
-Appendix A.1.3 
-Illustration of Construction Draw Down Loan 
-         
-Appendix A.1.3 - Financing Costs  for Long Term Debt using the Internal Rate of Return Methodology – AEP Transco 
-   HYPOTHETICAL EXAMPLE    
-AEP Transco anticipates its financing will be a 7 year loan, where by AEP Transco pays Origination Fees of $7.9 million and a Commitments Fee of 0.375% on the undrawn principle. 
-Consistent with GAAP, AEP Transco will amortize the Origination Fees and Commitments Fees using the standard Internal Rate of Return formula below.  
-Each year, AEP Transco will true up the amounts withdrawn, the interest paid in the year, Origination Fees, Commitments Fees, and total loan amount on this attachment. 
-        
-Total Loan Amount       $     600,000,000      
-         
-Internal Rate of Return1     6.65%     
-Based on following Financial Formula2:        
-           
- NPV = 0 =            
-           
-              
-              
-Origination Fees          
-Underwriting Discount                                      -        
-Arrangement Fee                       2,000,000      
-Upfront Fee                       4,400,000      
-Rating Agency Fee                          200,000      
-Legal Fees                       1,250,000      
-   Total Issuance Expense                      7,850,000      
-              
-Annual Rating Agency Fee                         200,000      
-Annual Bank Agency Fee                            75,000      
-Revolving Credit Commitment Fee     0.375%     
-  2008 2009 2010 2011 2012 2013 2014  
-LIBOR Rate 4.0610% 4.0610% 4.0610% 4.0610% 4.0610% 4.0610% 4.0610%  
-Spread 1.875% 1.875% 1.875% 1.875% 1.875% 1.875% 1.875%  
-Interest Rate 5.94% 5.94% 5.94% 5.94% 5.94% 5.94% 5.94%  
-         
-(A) (B) ( C) (D) (E) (F) (G) (H) (I) 
-Year  Capital 
-Expenditures  ( 
-$000's) 
-Principle Drawn In 
-Quarter ($000's) 
-Principle Drawn To Date 
-($000's) 
-Interest Expense 
-($000's) 
-Origination Fees 
-($000's) 
-Commitment & 
-Utilization Fee ($000's) 
-Net Cash Flows 
-($000's) 
-                (D-F-G-H) 
-Prior to 11/2008           16,529         
-30/11/2008 Q4             8,923                           -                        -                        -    
-15/02/2009 Q1          14,636           20,044                 20,044                      -                      125         19,919  
-15/05/2009 Q2          17,119              8,560                 28,604                   297            8,262  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 24 
-15/08/2009 Q3          46,132           23,066                 51,670                   424          22,642  
-15/11/2009 Q4          62,740           31,370                 83,040                   767          30,603  
-15/02/2010 Q1        132,393           66,197               149,236                1,232                 7,725                    553        56,686  
-15/05/2010 Q2        132,393           66,197               215,433                2,215                     491        63,490  
-15/08/2010 Q3        132,393           66,197               281,629                3,197                     429        62,570  
-15/11/2010 Q4        132,393           66,197               347,826                4,179                     367        61,650  
-15/02/2011 Q1          70,588           35,294               383,120                5,162                     305        29,827  
-15/05/2011 Q2          70,588           35,294               418,414                5,685                     272        29,336  
-15/08/2011 Q3          70,588           35,294               453,708                6,209                     239        28,846  
-15/11/2011 Q4          70,588           35,294               489,002                6,733                     206        28,355  
-15/022012 Q1          51,885           25,943               514,944                7,257                     173        18,513  
-15/05/2012 Q2          51,885           25,943               540,887                7,642                     148        18,152  
-15/08/2012 Q3          51,885           25,943               566,829                8,027                     124        17,792  
-15/11/2012 Q4          51,885           25,943               592,772                8,412                     100        17,431  
-15/02/2013 Q1          11,122              7,228               600,000                8,797                       76         (1,644) 
-15/05/2013 Q2                600,000                8,904                       69         (8,973) 
-15/08/2013 Q3                600,000                8,904                       69         (8,973) 
-15/11/2013 Q4                600,000                8,904                       69         (8,973) 
-15/02/2014 Q1                600,000                8,904                       69         (8,973) 
-15/05/2014 Q2                600,000                8,904                       69         (8,973) 
-15/08/2014 Q3                600,000                8,904                       69         (8,973) 
-15/11/2014 Q4                600,000                8,904                       69         (8,973) 
-15/02/2015 Q1                600,000                8,904                        -      (608,903) 
-           
-1  The IRR is the Debt Cost shown on Page 5, Line 118 of Rate Formula Template.     
-2  The IRR is a discount rate that makes the net present value of a series of cash flows equal to zero.  The IRR equation can only be solved 
-  through iterations performed by a computer program (i.e.NPV function with goal seek in a spreadsheet program). 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 25 
-Appendix A.1.3  
-Hypothetical Example of Final True-Up of Interest Rates and Interest Calculations for the Construction Loan 
-               
- 
-               
-To be Prepared on 8/15/2013 (hypothetical date)             
-SUMMARY 
-       Hypothetical Revenue Requirement 
-YEAR  Estimated 
-Effective cost 
-of debt used in 
-forecast/true 
-up 
- Final Effective cost 
-of debt for the 
-construction loan: 
- Based on Estimated 
-Effective cost of debt 
- Based on Actual 
-Effective cost of 
-debt 
- Over (Under) Recovery  Hypothetical 
-Monthly Interest 
-Rate applicable 
-over the ATRR 
-period 
- Total Amount of Construction 
-Loan Related True-Up included 
-in rates effective Jan 2014 
-(Refund)/Owed 
-2008  7.18%  7.00%   $       2,500,000.00    $     2,400,000.00    $       100,000.00   0.550%   $          (148,288.33) 
-2009  6.8%  7.00%  $5,000,000.00  $5,150,000.00   $      (150,000.00)  0.560%   $           209,670.43  
-2010  7.2%  7.00%  $8,300,000.00  $8,200,000.00   $       100,000.00   0.540%   $          (131,109.09) 
-2011  7.3%  7.00%  $12,300,000.00  $12,000,000.00   $       300,000.00   0.580%   $          (368,656.73) 
-2012*  7.1%  6.83%  $18,000,000.00  $17,900,000.00   $       100,000.00   0.570%   $          (114,946.28) 
-2013**  6.50%  6.50%  $25,000,000.00  $25,000,000.00   $                        -         
-2014**  6.50%  6.50%           $          (553,329.99) 
-                 
-*  Assumes that the construction loan is retired on Sept 1, 2012              
-**  Assumes permanent debt structure is put in place on Sept 1, 2012 with effective rate of 6.5%            
-Note:  True-Up period is 2008 - 2012, with the true-up amount included in 2014 forecasted ATRR.  Final effective cost of debt for 2012 is computed as follows:  ((7%*243days)+(6.5%*122days))/365days   
-                              
- Calculation of Applicable Interest Expense for each ATRR period  
-Interest Rate on Amount of Refunds 
-or Surcharges from 35.19a 
- Over (Under) Recovery Plus Interest  Hypothetical 
-Monthly Interest 
-Rate 
- Months   Calculated 
-Interest  
- Amortization  Surcharge 
-(Refund) Owed 
-               
-                   
-Calculation of Interest for 2008 True-Up Period                         
-An over or under collection will be recovered prorata over 2008, held for 2009, 2010, 2011, 2012, 2013 and returned prorate over 2014 Monthly     
-                 
-January  Year 2008                             -     0.5500%  12.00              -                  -    
-February  Year 2008                             -     0.5500%  11.00                -                -    
-March  Year 2008  10,000   0.5500%  10.00                           (550)         (10,550) 
-April  Year 2008   10,000   0.5500%  9.00                           (495)                               
-(10,495) 
-May  Year 2008  10,000   0.5500%  8.00                           (440)     (10,440) 
-June  Year 2008  10,000   0.5500%  7.00                           (385)     (10,385) 
-July  Year 2008  10,000   0.5500%  6.00                           (330)     (10,330) 
-August  Year 2008  10,000   0.5500%  5.00                           (275)     (10,275) 
-September  Year 2008  10,000   0.5500%  4.00                           (220)    (10,220) 
-October  Year 2008  10,000   0.5500%  3.00                           (165)     (10,165) 
-November  Year 2008  10,000   0.5500%  2.00                           (110)    (10,110) 
-December  Year 2008  10,000   0.5500%  1.00                             (55)     (10,055) 
-                                 (3,025)     (103,025) 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 26 
-                 
-            Annual       
-                 
-January  through 
-December 
- Year 2009                                              
-(103,025) 
- 0.5600%  12.00                        (6,923)                                 
-(109,948) 
-January  through 
-December 
- Year 2010                                              
-(109,948) 
- 0.5400%  12.00                        (7,125)                              
-(117,073) 
-January  through 
-December 
- Year 2011                                              
-(117,073) 
- 0.5800%  12.00                        (8,148)                              
-(125,221) 
-January  through 
-December 
- Year 2012                                              
-(125,221) 
- 0.5700%  12.00                        (8,565)                              
-(133,786) 
-January  through 
-December 
- Year 2013   (133,786)  0.5700%  12.00                        (9,151)        (142,937) 
-          
-Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months       Monthly      
-January  Year 2014  142,937   0.5700%                             
-(815) 
- (12,357)                    
-(131,395) 
-February  Year 2014  131,395   0.5700%                             
-(749) 
- (12,357)                  (119,786) 
-March  Year 2014  119,786   0.5700%                             
-(683) 
- (12,357)                  (108,112) 
-April  Year 2014  108,112   0.5700%                             
-(616) 
- (12,357)                    (96,371) 
-May  Year 2014   96,371   0.5700%                             
-(549) 
- (12,357)                    (84,563) 
-June  Year 2014  84,563   0.5700%                             
-(482) 
- (12,357)                      
-(72,687) 
-July  Year 2014  72,687   0.5700%                             
-(414) 
- (12,357)                      
-(60,744) 
-August  Year 2014  60,744   0.5700%                             
-(346) 
- (12,357)                      
-(48,733) 
-September  Year 2014   48,733   0.5700%                             
-(278) 
- (12,357)                   (36,653) 
-October  Year 2014  36,653   0.5700%                             
-(209) 
- (12,357)                      
-(24,505) 
-November  Year 2014  24,505   0.5700%                             
-(140) 
- (12,357)                      
-(12,287) 
-December  Year 2014  12,287   0.5700%                               
-(70) 
-  
-(12,357) 
-                              0  
-                                 
-(5,351) 
-     
-                 
-Total Amount of True-Up Adjustment for 2008 ATRR         $             (148,288)    
-Less Over (Under) Recovery          $               100,000     
-Total Interest                    $               (48,288)     
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 27 
-Appendix A.1.3 
-Hypothetical Example of Final True-Up of Interest Rates and Interest Calculations for the Construction Loan   
-               
-Calculation of Interest for 2009 True-Up Period                         
-An over or under collection will be recovered prorata over 2009, held for 2010, 2011, 2012, 2013 and returned prorate over 2014 Monthly      
-                
-January  Year 
-2009 
- (12,500)  0.5600%  12.00                            840     13,340  
-February  Year 
-2009 
- (12,500)  0.5600%  11.00                            770     13,270  
-March  Year 
-2009 
- (12,500)  0.5600%  10.00                            700     13,200  
-April  Year 
-2009 
- (12,500)  0.5600%  9.00                            630     13,130  
-May  Year 
-2009 
- (12,500)  0.5600%  8.00                            560     13,060  
-June  Year 
-2009 
- (12,500)  0.5600%  7.00                            490     12,990  
-July  Year 
-2009 
-  (12,500)  0.5600%  6.00                            420     12,920  
-August  Year 
-2009 
-  (12,500)  0.5600%  5.00                            350     12,850  
-September  Year 
-2009 
-  (12,500)  0.5600%  4.00                            280     12,780  
-October  Year 
-2009 
-  (12,500)  0.5600%  3.00                            210     12,710  
-November  Year 
-2009 
-  (12,500)  0.5600%  2.00                            140     12,640  
-December  Year 
-2009 
-  (12,500)  0.5600%  1.00                              70     12,570  
-                                  5,460     155,460  
-                 
-            Annual       
-                 
-January  through 
-December 
- Year 
-2010 
- 155,460   0.5400%  12.00                       10,074     165,534  
-January  through 
-December 
- Year 
-2011 
- 165,534   0.5800%  12.00                       11,521     177,055  
-January  through 
-December 
- Year 
-2012 
- 177,055   0.5700%  12.00                       12,111     189,166  
-January  through 
-December 
- Year 
-2013 
- 189,166   0.5700%  12.00                       12,939     202,104  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 28 
-                 
-                 
-Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months       Monthly       
-January  Year 
-2014 
- (202,104)  0.5700%                           1,152   17,473   185,784  
-February  Year 
-2014 
- (185,784)  0.5700%                           1,059   17,473   169,370  
-March  Year 
-2014 
- (169,370)  0.5700%                              965   17,473   152,863  
-April  Year 
-2014 
- (152,863)  0.5700%                              871   17,473   136,262  
-May  Year 
-2014 
- (136,262)  0.5700%                              777   17,473   119,566  
-June  Year 
-2014 
- (119,566)  0.5700%                              682   17,473   102,775  
-July  Year 
-2014 
- (102,775)  0.5700%                              586   17,473   85,888  
-August  Year 
-2014 
- (85,888)  0.5700%                              490   17,473   68,905  
-September  Year 
-2014 
- (68,905)  0.5700%                              393   17,473   51,826  
-October  Year 
-2014 
- (51,826)  0.5700%                              295   17,473   34,649  
-November  Year 
-2014 
- (34,649)  0.5700%                              197   17,473   17,374  
-December  Year 
-2014 
- (17,374)  0.5700%                                99   17,473    (0) 
-                                  7,566       
-                 
-Total Amount of True-Up Adjustment for 2009 ATRR         $               209,670     
-Less Over (Under) 
-Recovery 
-            $           (150,000)    
-Total Interest                       $                 59,670      
-               
-               
-Calculation of Interest for 2010 True-Up Period                         
-An over or under collection will be recovered prorata over 2010, held for 2011, 2012, 2013 and returned prorate over 
-2014 
- Monthly      
-                 
-January  Year 
-2010 
- 8,333   0.5400%  12.00                           (540)     (8,873) 
-February  Year 
-2010 
- 8,333   0.5400%  11.00                           (495)    (8,828) 
-March  Year 
-2010 
- 8,333   0.5400%  10.00                           (450)    (8,783) 
-April  Year  8,333   0.5400%  9.00                           (405)    (8,738) 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - 
-Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 29 
-2010 
-May  Year 
-2010 
- 8,333   0.5400%  8.00                           (360)    (8,693) 
-June  Year 
-2010 
- 8,333   0.5400%  7.00                           (315)    (8,648) 
-July  Year 
-2010 
- 8,333   0.5400%  6.00                           (270)    (8,603) 
-August  Year 
-2010 
- 8,333   0.5400%  5.00                           (225)    (8,558) 
-September  Year 
-2010 
- 8,333   0.5400%  4.00                           (180)    (8,513) 
-October  Year 
-2010 
- 8,333   0.5400%  3.00                           (135)    (8,468) 
-November  Year 
-2010 
- 8,333   0.5400%  2.00                             (90)    (8,423) 
-December  Year 
-2010 
- 8,333   0.5400%  1.00                             (45)    (8,378) 
-                                 (3,510)    (103,510) 
-            Annual       
-                 
-January  through 
-December 
- Year 
-2011 
- (103,510)  0.5800%  12.00                        (7,204)    (110,714) 
-January  through 
-December 
- Year 
-2012 
- (110,714)  0.5700%  12.00                        (7,573)    (118,287) 
-January  through 
-December 
- Year 
-2013 
- (118,287)  0.5700%  12.00                        (8,091)    (126,378) 
-Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 Months       Monthly       
-January  Year 2014  126,378   0.5700%                             (720)   (10,926)   (116,173) 
-February  Year 2014  116,173   0.5700%                             (662)   (10,926)   (105,909) 
-March  Year 2014  105,909   0.5700%                             (604)   (10,926)   (95,587) 
-April  Year 2014  95,587   0.5700%                             (545)   (10,926)   (85,206) 
-May  Year 2014  85,206   0.5700%                             (486)   (10,926)   (74,766) 
-June  Year 2014  74,766   0.5700%                             (426)   (10,926)   (64,266) 
-July  Year 2014  64,266   0.5700%                             (366)   (10,926)   (53,707) 
-August  Year 2014  53,707   0.5700%                             (306)   (10,926)   (43,087) 
-September  Year 2014  43,087   0.5700%                             (246)   (10,926)   (32,407) 
-October  Year 2014  32,407   0.5700%                             (185)   (10,926)   (21,666) 
-November  Year 2014  21,666   0.5700%                             (123)   (10,926)   (10,864) 
-December  Year 2014  10,864   0.5700%                               (62)   (10,926)  0  
-                                 (4,731)      
-Total Amount of True-Up Adjustment for 2010 ATRR          $           (131,109)    
-Less Over (Under) Recovery             $               100,000     
-Total Interest                        $           (31,109)     
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 30 
-Appendix A.1.3  
-Hypothetical Example of Final True-Up of Interest Rates and Interest Calculations for the Construction Loan   
-Calculation of Interest for 2011 True-Up Period    
-An over or under collection will be recovered prorata over 2011, held for 2012, 2013 and returned prorate over 2014 Monthly         
-January  Year 2011                                                 25,000   0.5800%  12.00   (1,740)                               
-(26,740) 
-February  Year 2011                                                 25,000   0.5800%  11.00   (1,595)                               
-(26,595) 
-March  Year 2011                                                 25,000   0.5800%  10.00   (1,450)                               
-(26,450) 
-April  Year 2011                                                 25,000   0.5800%  9.00   (1,305)                               
-(26,305) 
-May  Year 2011                                                 25,000   0.5800%  8.00   (1,160)                               
-(26,160) 
-June  Year 2011                                                 25,000   0.5800%  7.00   (1,015)                               
-(26,015) 
-July  Year 2011                                                 25,000   0.5800%  6.00   (870)                               
-(25,870) 
-August  Year 2011                                                 25,000   0.5800%  5.00   (725)                               
-(25,725) 
-September  Year 2011                                                 25,000   0.5800%  4.00   (580)                               
-(25,580) 
-October  Year 2011                                                 25,000   0.5800%  3.00   (435)                               
-(25,435) 
-November  Year 2011                                                 25,000   0.5800%  2.00   (290)                               
-(25,290) 
-December  Year 2011                                                 25,000   0.5800%  1.00   (145)                               
-(25,145) 
-            (11,310)                              
-(311,310) 
-                 
-            Annual       
-                 
-January  through 
-December 
- Year 2012   (311,310)  0.5700%  12.00   (21,294)                              
-(332,604) 
-January  through 
-December 
- Year 2013   (332,604)  0.5700%  12.00   (22,750)                              
-(355,354) 
-Over (Under) Recovery Plus Interest Amortized and Recovered 
-Over 12 Months 
-      Monthly     
-January  Year 2014  355,354   0.5700%                          
-(2,026) 
-  (30,721)   (326,658) 
-February  Year 2014  326,658   0.5700%                          
-(1,862) 
-  (30,721)   (297,798) 
-March  Year 2014  297,798   0.5700%                            (30,721)   (268,774) 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 31 
-(1,697) 
-April  Year 2014  268,774   0.5700%                          
-(1,532) 
-  (30,721)   (239,585) 
-May  Year 2014  239,585   0.5700%                          
-(1,366) 
-  (30,721)   (210,229) 
-June  Year 2014  210,229   0.5700%                          
-(1,198) 
-  (30,721)   (180,706) 
-July  Year 2014  180,706   0.5700%                          
-(1,030) 
-  (30,721)   (151,015) 
-August  Year 2014  151,015   0.5700%                             
-(861) 
-  (30,721)   (121,154) 
-September  Year 2014  121,154   0.5700%                             
-(691) 
-  (30,721)   (91,123) 
-October  Year 2014  91,123   0.5700%                             
-(519) 
-  (30,721)   (60,921) 
-November  Year 2014  60,921   0.5700%                             
-(347) 
-  (30,721)   (30,547) 
-December  Year 2014  30,547  0.5700%    (174)  (30,721)  0 
-          (13,303) 
-Total Amount of True-Up Adjustment 
-for 2011 ATRR 
-        $  (368,657)  
-Less Over 
-(Under) 
-Recovery 
-          $   300,000   
-Total Interest                   $   (68,657)   
-           
-Calculation of Interest for 
-2012 True-Up Period 
-             
-An over or under collection will be recovered prorata 
-over 2012, held for 2013 and returned prorate over 2014 
-     Monthly    
-January  Year 2012                                                  
-8,333  
- 0.5700%  12.00   (570)  (8,903) 
-February  Year 2012                                                  
-8,333  
- 0.5700%  11.00   (523)                              
-(8,856) 
-March  Year 2012                                                  
-8,333  
- 0.5700%  10.00   (475)                              
-(8,808) 
-April  Year 2012                                                  
-8,333  
- 0.5700%  9.00   (428)                              
-(8,761) 
-May  Year 2012                                                  
-8,333  
- 0.5700%  8.00   (380)                              
-(8,713) 
-June  Year 2012                                                  
-8,333  
- 0.5700%  7.00   (333)                              
-(8,666) 
-July  Year 2012                                                  
-8,333  
- 0.5700%  6.00   (285)                              
-(8,618) 
-August  Year 2012                                                  
-8,333  
- 0.5700%  5.00   (238)                              
-(8,571) 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20A - Appendix A - AEPTCo 
-Effective Date: 7/1/2016 - Docket #: ER16-646-000 - Page 32 
-September  Year 2012                                                  
-8,333  
- 0.5700%  4.00   (190)                              
-(8,523) 
-October  Year 2012                                                  
-8,333  
- 0.5700%  3.00   (143)                              
-(8,476) 
-November  Year 2012                                                  
-8,333  
- 0.5700%  2.00   (95)                              
-(8,428) 
-December  Year 2012                                                  
-8,333  
- 0.5700%  1.00   (48)                              
-(8,381) 
-            (3,705)                 
-(103,705) 
-            Annual  
-January  through December  Year 2013   (103,705)  0.5700%  12.00  (7,093)                                                 
-(110,798) 
-Over (Under) Recovery Plus Interest Amortized and Recovered Over 12 
-Months 
-      Monthly   
-January  Year 2014                                               
-110,798  
- 0.5700%     (632)  (9,579) (101,851) 
-February  Year 2014                                               
-101,851  
- 0.5700%     (581)  (9,579)                            (92,853) 
-March  Year 2014                                                 
-92,853  
- 0.5700%     (529)  (9,579)                            (83,803) 
-April  Year 2014                                                 
-83,803  
- 0.5700%     (478)  (9,579)                            (74,702) 
-May  Year 2014                                                 
-74,702  
- 0.5700%     (426)  (9,579)                            (65,549) 
-June  Year 2014                                                 
-65,549  
- 0.5700%     (374)  (9,579)                            (56,344) 
-July  Year 2014                                                 
-56,344  
- 0.5700%     (321)  (9,579)                            (47,086) 
-August  Year 2014                                                 
-47,086  
- 0.5700%     (268)  (9,579)                            (37,776) 
-September  Year 2014                                                 
-37,776  
- 0.5700%     (215)  (9,579)                            (28,412) 
-October  Year 2014                                                 
-28,412  
- 0.5700%     (162)  (9,579)                            (18,995) 
-November  Year 2014                                                 
-18,995  
- 0.5700%     (108)  (9,579)                              (9,525) 
-December  Year 2014                                                  
-9,525  
- 0.5700%    (54) (9,579)                                     0  
-            (4,148)  
-Total Amount of True-Up Adjustment for 2012 ATRR         $             (114,946) 
-Less Over (Under) Recovery     $               100,000  
-Total Interest        $               (14,946) 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part 
-I 
-Effective Date: 2/24/2022 - Docket #: ER23-855-000 - Page 1 
- 
-   ATTACHMENT H-20B       
-   
-BLANK FORMULA RATE 
-TEMPLATE       
-   AEPTCo subsidiaries in PJM  For Twelve Months Ended  
-   Transmission Cost of Service Formula Rate       
-   Utilizing  Actual/Projected FERC Form 1 Data       
-   
-AEP _______________ TRANSMISSION 
-COMPANY       
-Li
-ne          Transmission 
-N
-o.          Amount 
-1  REVENUE REQUIREMENT (w/o incentives) (ln 113)       $0 
-     Total  Allocator   
-2  REVENUE CREDITS   (Worksheet E, ln 8) (Note A)  
-                                
--   DA 1.00000   $                    -  
-            
-3  Facility Credits under PJM OATT Section 30.9 (Worksheet E, ln 9) (Note X)  -  DA 1.00000  $              - 
-4  REVENUE REQUIREMENT For All Company Facilities (ln 1 less ln 2 plus ln 3)        $                    -  
-   
-MEMO:  The Carrying Charge Calculations on lines 7 to 12 below are used in calculating project revenue requirements billed through PJM Schedule 12,  
-Transmission Enhancement Charges.  The total non-incentive revenue requirements for these projects shown on line 5 is included in the total on line 4.    
-5 
- 
-Revenue Requirement for PJM Schedule 12 Facilities (w/o incentives)  (Worksheet 
-J/K)   - DA 1.00000 
- 
-$         
--   
-6 
- 
-NET PLANT CARRYING CHARGE w/o intra-AEP charges or credits or ROE 
-incentives (Note B)       
-7    Annual Rate ( (ln 1 - ln 80)/ ((ln33)  x 100))      0.00% 
-8    Monthly Rate (ln 7 / 12)       0.00% 
-9  NET PLANT CARRYING CHARGE ON LINE 7 , w/o depreciation or ROE incentives (Note B)        
-10    Annual Rate ( (ln 1 - ln 80 - ln 83) / ((ln33) x 100))      0.00% 
-11  NET PLANT CARRYING CHARGE ON LINE 10, w/o Return, income taxes or ROE incentives (Note B)        
-12    Annual Rate ( (ln 1 - ln 80 - ln 83 - ln 108 - ln 109) / ((ln 33) x 100))      0.00% 
-13 
- 
-ADDITIONAL REVENUE REQUIREMENT for projects w/ incentive ROE's (Note 
-B) (Worksheet J/K)        - 
-14  REVENUE REQUIREMENT FOR SCHEDULE 1A CHARGES 
-15  Total Load Dispatch & Scheduling (Account 561)  Line 63 Below                              -  
-16  Less:  Load Disptach - Scheduling, System Control and Dispatch Services (321.88.b)       -  
-17  Less:  Load Disptach - Reliability, Planning & Standards Development Services (321.92.b)       -  
-18 
- Total 561 Internally Developed Costs (Line 15 - Line 16 - Line 17)                             -  
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part 
-I 
-Effective Date: 2/24/2022 - Docket #: ER23-855-000 - Page 2 
-    AEPTCo subsidiaries in PJM       
-    Transmission Cost of Service Formula Rate       
-    Utilizing  Actual/Projected FERC Form 1 Data       
-    AEP _______________ TRANSMISSION COMPANY       
-  (1) (2)  (3)   (4)  (5) 
-   Data Sources       Total 
-  RATE BASE CALCULATION (See "General Notes")  TO Total  Allocator  Transmission 
-Line     NOTE C      
-No.  GROSS PLANT IN SERVICE         
-19    Transmission (Worksheet A ln 14. (d). & Ln 117)                                 -   DA                                 -  
-20    Less: Transmission ARO (Enter Negative)  (Worksheet A ln 14. (e) .)                                 -   TP 0.00000                                -  
-21    General Plant    (Worksheet A ln 14.(h))                                  -   W/S 1.00000                                -  
-22    Less: General Plant ARO (Enter Negative)  (Worksheet A ln 14.(i))                                  -   W/S 1.00000                                -  
-23    Intangible Plant (Worksheet A ln 14.(j))                                  -   W/S 1.00000                                -  
-24  TOTAL GROSS PLANT       (Sum of Lines: 19 to 23)                                 -   GP= 0.000000                                -  
-       GTD=                 -      
-25  ACCUMULATED DEPRECIATION AND AMORTIZATION        
-           
-           
-26    Transmission (Worksheet A ln 28 (d). & ln 43)                                 -   DA=                                 -  
-27    Less: Transmission ARO (Enter Negative)  (Worksheet A ln 28.(e))                                  -   TP= 0.00000                                -  
-28    General Plant    (Worksheet A ln 28.(h))                                  -   W/S 1.00000                                -  
-\29    Less: General Plant ARO (Enter Negative)  (Worksheet A ln 28.(i))                                  -   W/S 1.00000                                -  
-30    Intangible Plant (Worksheet A ln 28.(j))                                  -   W/S 1.00000                                -  
-31  TOTAL ACCUMULATED DEPRECIATION (Sum of Lines: 26 to 30)                                 -                                    -  
-32  NET PLANT IN SERVICE         
-33    Transmission (ln 19 + ln 20 - ln 26 - ln 27)                                 -                                    -  
-34    General Plant     (ln 21 + ln 22 - ln 28 - ln 29)                                 -                                    -  
-35    Intangible Plant  (ln 23 - ln 30)                                  -                                    -  
-36  TOTAL NET PLANT IN SERVICE (Sum of Lines: 33 to 35)                                 -   NP= 0.000000                                -  
-37  DEFERRED TAX ADJUSTMENTS TO RATE BASE (Note D)        
-38    Account No. 281.1 (enter negative) (Worksheet B, ln 2 & ln 5.E)                                 -   NA                                 -  
-39    Account No. 282.1 (enter negative) (Worksheet B, ln 7 & ln 10.E)                                 -   DA                                 -  
-40    Account No. 283.1 (enter negative) (Worksheet B, ln 12 & ln 15.E)                                 -   DA                                 -  
-41    Account No. 190.1 (Worksheet B, ln 17 & ln 20.E)                                 -   DA                                 -  
-42    Account No. 255 (enter negative) (Worksheet B, ln 24 & ln 25.E)                                 -   DA                                 -  
-43  TOTAL ADJUSTMENTS (sum lns 38 to 42)                                  -                                    -  
-44  PLANT HELD FOR FUTURE USE (Worksheet A ln 44. (e)) ln 45. (e))                                 -   DA                                 -  
-45  REGULATORY ASSETS (Worksheet A ln 51. (e))                                  -   DA                                 -  
-46  UNFUNDED RESERVES (ENTER NEGATIVE) (NOTE Y) (Worksheet A ln 54. (e))    W/S 1.00000   
-47  WORKING CAPITAL (Note E)        
-48  Cash Working Capital (1/8 * ln 66)                                  -                                    -  
-49   Transmission Materials & Supplies (Worksheet C, ln 2.(F))                                  -   TP 0.00000                                -  
-50    A&G Materials & Supplies  (Worksheet C, ln 3.(F))                                  -   W/S 1.00000                                -  
-51    Stores Expense  (Worksheet C, ln 4.(F))                                  -   GP 0.00000                                -  
-52    Prepayments (Account 165) - Labor Allocated (Worksheet C, ln 8.(G))                                  -   W/S 1.00000                                -  
-53    Prepayments (Account 165) - Gross Plant (Worksheet C, ln 8.(F))                                  -   GP 0.00000                                -  
-54    Prepayments (Account 165) - Transmission Only (Worksheet C, ln 8.(E))                                  -   DA 1.00000                                -  
-55    Prepayments (Account 165) - Unallocable (Worksheet C, ln 8.(D))                                  -   NA 0.00000                                -  
-56  TOTAL WORKING CAPITAL (sum lns 48 to 55)                                  -                                    -  
-57  IPP CONTRIBUTIONS FOR CONSTRUCTION   (Note F) (Worksheet D, ln 8.B)                                 -    DA  1.00000                                -  
-             
-58  RATE BASE  (sum lns36, 43, 45, 46, 56, 57)                                   -                                    -  
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part 
-I 
-Effective Date: 2/24/2022 - Docket #: ER23-855-000 - Page 3 
-    AEPTCo subsidiaries in PJM       
-    Transmission Cost of Service Formula Rate       
-    Utilizing  Actual/Projected FERC Form 1 Data       
-    
-AEP _______________ TRANSMISSION 
-COMPANY       
-  (1) (2)  (3)  (4)  (5) 
-  EXPENSE, TAXES, RETURN & REVENUE Data Sources       Total 
-  REQUIREMENTS  CALCULATION (See "General Notes")  TO Total  Allocator  Transmission 
-Line           
-No.  OPERATION & MAINTENANCE EXPENSE         
-59    Customer Related Expense 
-322 & 
-323.164,171,178.b                                  -       
-60    Regional Marketing Expenses 322.131.b                                  -       
-61    Transmission  321.112.b                                  -       
-62  TOTAL O&M EXPENSES (sum lns 59  to 61)                                  -       
-63       Less: Total Account 561 (Note G) (Worksheet F, ln 14.C)                                 -       
-64       Less: Account 565 (Note H) 321.96.b                                  -       
-65       Less: Regulatory Deferrals & Amortizations (Note I) (Worksheet F, ln 4.C)                                 -       
-66  Total O&M Allocable to Transmission (lns 61 - 63 - 64 - 65)                                 -   TP 0.00000                                -  
-67    Administrative and General 
-323.197.b (Notes J & 
-M)                                  -       
-68    Less:    Acct. 924, Property Insurance 323.185.b                                  -       
-69                 Acct. 928, Reg. Com. Exp. 323.189.b                                  -       
-70                 Acct. 930.1, Gen. Advert. Exp. 323.191.b                                  -       
-71                 Acct. 930.2, Misc. Gen. Exp. 323.192.b                                  -       
-72       Balance of A & G (ln 67 - sum ln 68  to ln 71)                                 -   W/S 1.00000                                -  
-73       Plus: Acct. 924, Property Insurance (ln 68)                                  -   
- 
-GP(
-h)  0.00000                                -  
-74             Acct. 928 - Transmission Specific Worksheet F ln 21.(E) (Note L)                                 -   TP 0.00000                                -  
-75             Acct 930.1 - Only safety related ads -Direct Worksheet F ln 38.(E) (Note L)                                 -   TP 0.00000                                -  
-76             Acct 930.2 - Misc Gen. Exp. - Trans Worksheet F ln 43.(E) (Note L)                                 -   DA 1.00000                                -  
-77           PBOP Adjustment Worksheet O Ln 16 (B),  (Note K & M)                                 -   W/S 1.00000                                -  
-78       A & G Subtotal (sum lns 72  to 77)                                  -                                    -  
-             
-79   O & M EXPENSE SUBTOTAL (ln 66+ ln 78)                                  -                                    -  
-80       Plus: Transmission Lease Payments To Affiliates in Acct 565 (Company Records) (Note H)    DA 1.00000                                -  
-81  TOTAL O & M EXPENSE (ln 79 + ln 80)                                  -                                    -  
-82  DEPRECIATION AND AMORTIZATION EXPENSE         
-83    Transmission  336.7.f                                  -   TP  0.00000                                -  
-84    General  336.10.f                                  -   W/S 0.00000                                -  
-85    Intangible 336.1.f                                  -   W/S 1.00000                                -  
-86  TOTAL DEPRECIATION AND AMORTIZATI0N (Ln 83+84+85)                                  -                                    -  
-87  TAXES OTHER THAN INCOME (Note N)        
-88    Labor Related         
-89            Payroll Worksheet H ln 23.(D)                                  -   W/S 0.00000                                -  
-90    Plant Related          
-91           Property Worksheet H-p2  ln 3.(C) & ln 3.(G)                                 -   DA 1.00000  0 
-92           Gross Receipts/Sales & Use Worksheet H ln 23.(F)                                  -   NA 0.00000                                -  
-93           Other Worksheet H ln 23.(E)                                  -   GP 0.00000                                -  
-94  TOTAL OTHER TAXES (sum lns 89 to 93)                                  -                                    -  
-95  INCOME TAXES  (Note O)        
-96       T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} =   -%      
-97      EIT=(T/(1-T)) * (1-(WCLTD/WACC)) =   -%      
-98         where WCLTD=(ln 136) and WACC = (ln 139)         
-99         and FIT, SIT & p are as given in Note O.         
-100        GRCF=1 / (1 - T)  = (from ln 96)                        -       
-101  Amortized Investment Tax Credit (enter negative) (FF1 p.114, ln 19.c)                                  -       
-102  
-Excess Deferred Income Tax 
-(Note T)  -  
-NP(
-h)  
-0.00000 
- 
-                             - 
-103  
-Tax Effect of Permanent and Flow-Through Differences 
-(Note T)  -  
-NP(
-h)  
-0.00000 
- 
-                             - 
-104  Income Tax Calculation  (ln 97 * ln 109)                                  -                                    -  
-105  ITC adjustment (ln 100 * ln 101)                                  -   
- 
-NP(
-h)  0.00000                                -  
-106  Excess Deferred Income Tax (ln 100 * ln 102)                                  -                                    -  
-107  Tax Effect of Permanent and Flow-Through Differences (ln 100 * ln 103)                                  -                                    -  
-108  TOTAL INCOME TAXES (sum lns 104 to 107)                                  -                                       -  
-           
-109  RETURN ON RATE BASE (Rate Base*WACC) (ln 58 * ln 139)                                  -                                    -  
-110  INTEREST ON IPP CONTRIBUTION FOR CONST. (Note F) (Worksheet D, ln 2.(B))                                 -    DA  1.00000                                -  
-111  (Gains) / Losses on Sales of Plant Held for Future Use (Worksheet N, ln 4, Cols. ((F) & (H))                                 -                                    -  
-112   Tax Impact on Net Loss / (Gain) on Sales of Plant Held for Future Use (ln 111 * ln97)                                 -                                    -  
-113  TOTAL REVENUE REQUIREMENT                                  -                                    -    
-      (sum lns81, 86, 94, 108, 109, 110, 111, 112)         
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part 
-I 
-Effective Date: 2/24/2022 - Docket #: ER23-855-000 - Page 4 
-  
-    AEPTCo subsidiaries in PJM       
-    Transmission Cost of Service Formula Rate       
-    Utilizing  Actual/Projected FERC Form 1 Data       
-    AEP _______________ TRANSMISSION COMPANY       
-    SUPPORTING CALCULATIONS       
-ln           
-No.  TRANSMISSION PLANT INCLUDED IN PJM TARIFF         
-114  Total transmission plant    (ln 19)                                     -  
-115    Less transmission plant excluded from PJM Tariff  (Worksheet A, ln 42.(d)) (Note P)                                   -    
-116    Less transmission plant included in OATT Ancillary Services (Worksheet A, ln 42, Col. (b))  (Note Q)                                  -    
-117  Transmission plant included in PJM Tariff (ln 114 - ln 115 - ln 116)                                     -  
-118  Percent of transmission plant in PJM Tariff (ln 117 / ln 114)      TP= 0.00000 
-119  WAGES & SALARY ALLOCATOR (W/S) (Note R) Direct Payroll 
-Payroll Billed from  
-AEP Service Corp. Total     
-120    Line Deliberately Left Blank         
-121    Transmission 354.21.b 0 0                       -    TP 0.00000                                -  
-122    Regional Market Expenses 354.22.b 0 0                       -    NA 0.00000                                -  
-123    Line Deliberately Left Blank         
-124    Other (Excludes A&G)  354.24,25,26.b 0 0                       -    NA 0.00000                                -  
-125  Total (sum lns 121 122 & 124) 0 0 0                                  -  
-126  Transmission related amount       W/S= 0.00000 
-  Acutal (Uncapped) Capital Structure         
-127  WEIGHTED AVERAGE COST OF CAPITAL (WACC)        $ 
-128  Long Term Interest (Worksheet M, ln. 36, col. (d))                                     -  
-129  Preferred Dividends  (Worksheet M, ln. 45, col. (d))                                     -  
-130  Development of Common Stock:         
-131  Proprietary Capital  (Worksheet M, ln. 14, col. (b ))                                     -  
-132  Less: Preferred Stock (Worksheet M, ln. 14 col. (c))                                     -  
-133  Less: Account 216.1  (Worksheet M, ln. 14, col. (d))                                     -  
-134  Less: Account 219 (Worksheet M, ln. 14, col. (e))                                     -  
-135  Common Stock (ln 131 - ln 132 - ln 133 - ln 134)                                    -  
-     Capital Structure Percentages   Cost    
-     $  Actual Cap Limit  (Note S)   Weighted 
-136    Long Term Debt (Note S) Worksheet M, ln 28, col. (g), ln 37, col. (d))                      -     0.0000 
-137    Preferred Stock (ln 132)                      -     0.0000 
-138    Common Stock (ln 135)      10.35%  0.0000 
-139   Total (Sum lns 136 to 138)       WACC= 0.0000 
-           
-140  Capital Structure Equity Limit (Note Z) 55%        
-           
-  AEP OPERATING COMPANIES' COMPOSITE (Note S)         
-141  WEIGHTED AVERAGE COST OF CAPITAL (WACC)        $ 
-142  Long Term Interest (Worksheet Q, ln. 132)        
-143  Preferred Dividends  (Worksheet Q, ln. 134)        
-144  Development of Common Stock:         
-145  Proprietary Capital  (Worksheet Q, ln. 135)        
-146  Less: Preferred Stock (Worksheet Q, ln. 136)        
-147  Less: Account 216.1  (Worksheet Q, ln. 137)        
-148  Less: Account 219 (Worksheet Q, ln. 138)        
-149  Common Stock (ln 144 - ln 145 - ln 146 - ln 147)       
-           
-150     % $  Cost  Weighted 
-151    Long Term Debt   (Worksheet Q, ln 140)         
-152    Preferred Stock (Worksheet Q, ln 141)         
-153    Common Stock (Worksheet Q, ln 142)      10.35%   
-154   Total (Worksheet Q, ln 143)       WACC=  
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-20B - AEPTCo - Part 
-I 
-Effective Date: 2/24/2022 - Docket #: ER23-855-000 - Page 5 
-    AEPTCo subsidiaries in PJM       
-    Transmission Cost of Service Formula Rate       
-    Utilizing  Actual/Projected FERC Form 1 Data       
-    AEP _______________ TRANSMISSION COMPANY       
-Letter   Notes       
-  General Notes:  a)  References to data from Worksheets are indicated as:  Worksheet X, Line#.Column.X       
-A  Revenue credits include:         
-  1) Forfeited Discounts.         
-  2) Miscellaneous Service Revenues.         
-  3) Rental revenues earned on assets included in the rate base.        
-  4) Revenues for associated business projects provided by employees whose labor and overhead costs are in the transmission cost of service.     
-  5) Other electric revenues.         
-  6) Revenues for grandfathered PTP contracts included in the load divisor.        
- 
- 
-7) If AEP Transmission companies have any directly assigned transmission facilities, the revenue credits in the formula rate shall include all revenues associated with those directly assigned transmission facilities, irrespective of whether the loads of the customer are 
-included in the formula rate divisor; provided however, such addition to revenue credits shall not be reflected if the costs of such directly assigned transmission facilities are not included in the transmission plant balances on which the formula rate ATRR is based. 
-  See Worksheet E for details.         
-B   
-  
-The annual and monthly net plant carrying charges on page 1 are used to compute the revenue requirement for RTEP sponsored upgrades or those projects receiving approved incentive-ROE's. 
-Interest  will be calculated based on Worksheet R and any over under recovery will be filed posted as part of the informational filing.  
-C  Transmission Plant Balances in this study are projected or actual average 13 month balances.       
-D  The total-company balances shown for Accounts 281, 282, 283, 190 only reflect ADIT that relates to utility operations. The balance of Account 255 is reduced by prior flow   
-  through and is completely excluded if the utility chose to utilize amortization of tax credits against FIT expense. An exception to this is pre-1971 ITC balances, which are   
-  required to be taken as an offset to rate base. Account 281 is not allocated.  In compliance with FERC Rulemaking RM02-7-000, Asset Retirement Obligation deferrals have  
- 
- 
-been removed from ratebase. Transmission ADIT allocations are shown on WS B.  In compliance with FERC Rulemaking  the calculation of ADIT in the annual projection will be performed in accordance with IRS regulation Section1.167(I)-I(h)(6)(ii).  Detailed 
-balances for the projected or actual period, distinguished between utility and non-utility balances, will be filed and posted as part of the informational filing. 
-  The company will not include the ADIT portion of deferred hedge gains and losses in rate base.        
-E 
- 
-Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission, as 
-shown on line 66. It excludes:         
-  1)  Load Scheduling & Dispatch Charges in account 561 that are collected in the OATT Ancilliary Services Revenue, as shown on line 63.       
-  2)  Costs of Transmission of Electricity by Others, as described in Note H.         
-  3)  The impact of state regulatory deferrals and amortizations, as shown on line  65         
-  4) All A&G Expenses, as shown on line 78.         
-F  Consistent with Paragraph 657 of Order 2003-A, the amount on line 78 is equal to the balance of IPP System Upgrade Credits owed to transmission customers that   
-  made contributions toward the construction of System upgrades, and includes accrued interest and unreturned balance of contributions.  The annual interest    
-  expense is included on line 110.         
-G 
- 
-Removes from the cost of service the Load Scheduling and Dispatch expenses booked to accounts 561.1 through 561.8.  Expenses recorded in these accounts, with the exception of 
-561.4 & 561.8 (lines 16 & 17 above) are recovered in Schedule 1A, OATT ancillary services rates. See Worksheet F, lines 5 through 14, for descriptions and the Form 1 Source of 
-these accounts' balances.      
-H   
-  
-Removes cost of transmission service provided by others to determine the basis of cash working capital on line 66. To the extent such service is incurred to provide the PJM service at issue, e.g. lease payments to 
-affiliates, such costs are added back on line 88 to determine the total O&M collected in the formula.  The amounts on line 80 is also excluded in the calculation of the FCR percentage calculated on lines 6 through 12.  
- 
- 
-The addbacks  on line 80 of activity recorded in 565 represents inter-company sales or purchases of 
-transmission capacity necessary to meet each AEP company's transmission load relative to their available 
-transmission capacity.         
- 
- 
-The company records referenced on line and 80 is the AEP___________TRANSMISSION COMPANY 
-general ledger.         
-I  Removes the impact of state regulatory deferrals or their amortization from Transmission O&M expense.          
-J 
- 
-General Plant and Administrative & General expenses, other than in accounts 924, 928, and 930, will be functionalized  based on the Wages & Salaries "W/S" allocator. The allocation basis for accounts 924, 
-928 and 930 are separately presented in the formula. A change in the allocation method for an account must be approved via a 205 filing with the FERC.   
-K  The Post-employment Benefit Other than Pension (PBOP) expense is fixed based on an approved ratio of PBOP expense to direct labor expense.  
-L  Expenses reported for these A&G accounts will be included in the cost of service only to the extent they are specifically assignable to transmission service. Worksheet F allocates  
-  these expense items. Acct 928 Includes Regulatory Commission expenses itemized in FERC Form-1 at page 351, column H.  FERC Assessment Fees and Annual Charges   
-  shall not be allocated to transmission.  Only safety-related and educational advertising costs in Account 930.1 are included in the TCOS. Account 930.2 includes the    
-  expenses incurred by the transmission function for Associated Business Development revenues given as a credit to the TCOS on Worksheet E.     
-M    
- 
- 
-See note K above.  Recoverable PBOP expense is based on a rate of $(0.058) cents per dollar of direct labor.  This rate may be adjusted up or down every four years based on a comparison of the Allowable 
-TransCo PBOP Expense and the Actual PBOP Expense for a four year Historic and four year Projected period.  If the over or under collection is greater than plus or minus 20% of the recoverable amount, an 
-adjustment will be proposed in a Section 205 rate filing.   
-N  Includes only FICA, unemployment, highway, property and other assessments.  Gross receipts, sales & use and taxes related to income are excluded.       
-O  The currently effective income tax rate,  where FIT is the Federal income tax rate; SIT is the State income tax rate, and p =      
-  the percentage of federal income tax deductible for state income taxes.  See Worksheet G for the development of the Company's composite SIT.     
-  A utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax  
+8 Interest on Long Term Debt (256-257.33.i)         
+9 Amort of Debt Discount & Expense (117.63.c)         
+10 Amort of Loss on Reacquired Debt (117.64.c)         
+11 Less: Amort of Premium on Debt (117.65.c)         
+12 Less: Amort of Gain on Reacquired Debt (117.66.c)         
+13 Less: Hedge Interest on pp 256-257(i)         
+14 LTD Interest Expense         
+Development of Cost of Preferred Stock and Preferred Dividends        
+15 Dividend Rate (p. 250-251. 7.a)         
+16 Par Value (p. 250-251. 8.c)         
+17 Shares Outstanding (p.250-251. 8.e)         
+18 Monetary Value (Ln 16 * Ln 17)         
+19 Dividend Amount (Ln 15 * Ln 18)         
+20 Dividend Rate (p. 250-251. 7.a)         
+21 Par Value (p. 250-251. 8.c)         
+22 Shares Outstanding (p.250-251. 8.e)         
+23 Monetary Value (Ln 21 * Ln 22)         
+24 Dividend Amount (Ln 20 * Ln 23)         
+25 Dividend Rate (p. 250-251. 7.a)         
+26 Par Value (p. 250-251. 8.c)         
+27 Shares Outstanding (p.250-251. 8.e)         
+28 Monetary Value (Ln 26 * Ln 27)         
+29 Dividend Amount (Ln 25 * Ln 28)         
+30 Dividend Rate (p. 250-251. 7.a)         
+31 Par Value (p. 250-251. 8.c)         
+32 Shares Outstanding (p.250-251. 8.e)         
+33 Monetary Value (Ln 31 * Ln 32)         
+34 Dividend Amount (Ln 30 * Ln 33)         
+35 Preferred Stock (Lns 18, 23, 28,33)         
+36 Preferred Dividends (Lns 19, 24, 29,34)         
+Development of Common Equity         
+37 Proprietary Capital (112.16.c)         
+38 Less: Preferred Stock (Ln 35 Above)         
+39 Less: Account 216.1 (112.12.c)         
+40 Less: Account 219.1 (112.15.c)          
+41 Balance of Common Equity         
+Calculation of Capital Shares         
+42 Long Term Debt (Ln 6 Above)         
+43 Preferred Stock (Ln 35 Above)         
+44 Common Equity (Ln 41 Above)         
+45 Total Company Structure         
+46 LTD Capital Shares (Ln 42 / Ln 45)         
+47 Preferred Stock Capital Shares (Ln 43 / Ln 45)         
+48 Common Equity Capital Shares (Ln 44 / Ln 45)         
+49 RESERVED         
+50 Reserved         
+51 Reserved         
+52 Reserved         
+Calculation of Capital Cost Rate         
+53 LTD Capital Cost Rate (Ln 14 / Ln 6)         
+54 Preferred Stock Capital Cost Rate (Ln 36 / Ln 35)         
+55 Common Equity Capital Cost Rate 11.49%  11.49% 11.49% 11.49% 11.49% 11.49% 11.49% 
+Calculation of Weighted Capital Cost Rate         

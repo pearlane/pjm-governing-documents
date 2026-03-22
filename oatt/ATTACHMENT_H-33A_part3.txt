@@ -1,0 +1,2319 @@
+[ATTACHMENT H-33A - Part 3 of 10]
+
+3 Distribution Attachment 3, Line 14, Col. 3 (Notes U & X) - NA 
+4 General & Intangible Attachment 3, Line 14, Col. 4 & 5 (Notes U & X) - W/S 1.00000 - 
+5 Common Attachment 3, Line 14, Col. 6 (Notes U & X) - CE 1.00000 - 
+6 TOTAL GROSS PLANT (sum Lines 1-5) - GP= 0.000% - 
+ACCUMULATED DEPRECIATION 
+7 Production Attachment 4, Line 14, Col. 1 (Notes U & X) - NA 
+8 Transmission Attachment 4, Line 14, Col. 2 (Notes U & X) - TP 0.00000 - 
+9 Distribution Attachment 4, Line 14, Col. 3 (Notes U & X) - NA 
+10 General & Intangible Attachment 4, Line 14, Col. 4 & 5 (Notes U & X) - W/S 1.00000 - 
+11 Common Attachment 4, Line 14, Col. 6 (Notes U & X) - CE 1.00000 - 
+12 TOTAL ACCUM. DEPRECIATION (sum Lines 7-11) - - 
+NET PLANT IN SERVICE 
+13 Production (Line 1- Line 7) - 
+14 Transmission (Line 2- Line 8) - - 
+15 Distribution (Line 3 - Line 9) - 
+16 General & Intangible (Line 4 - Line 10) - - 
+17 Common (Line 5 - Line 11) - - 
+18 TOTAL NET PLANT (sum Lines 13-17) - - 
+ADJUSTMENTS TO RATE BASE 
+19 Account No. 281 (enter negative) Attachment 5, Line 1, Col. 1 (Notes C, F) - NA 
+20 Account No. 282 (enter negative) Attachment 5, Line 1, Col. 2 (Notes C, F) - DA 1.00000 - 
+21 Account No. 283 (enter negative) Attachment 5, Line 1, Col. 3 (Notes C, F) - DA 1.00000 - 
+22 Account No. 190 Attachment 5, Line 1, Col. 4 (Notes C, F) - DA 1.00000 - 
+23 Account No. 255 (enter negative) Attachment 5, Line 1, Col. 5 (Notes C, F) - DA 1.00000 - 
+24 Unfunded Reserves  Attachment 14, Line 18, Col. P (Notes C & X) - DA 1.00000 - 
+25 [This line left intentionally blank]      
+26 CWIP Attachment 17, Line 3, Col P 216.b (Notes X & Z) - DA 1.00000 - 
+27 Unamortized Regulatory asset Attachment 19, Line 2, Col. Y (Note X) - DA 1.00000 - 
+28 TOTAL ADJUSTMENTS (sum Lines 19-27) - - 
+29 LAND HELD FOR FUTURE USE (Attachment 14, Line 4, Col. P) (Notes G & X) - TP 0.00000 - 
+30 WORKING CAPITAL (Note H) 
+31 CWC      -                                    DA                                    1.00000 - 
+32 Materials & Supplies (Note G) (Attachment 14, Line 3, Col. P) (Note X) - TE 0.00000 - 
+33 Prepayments (Account 165) (Attachment 14, Line 2, Col. P) (Notes B & X) - DA 1.00000 - 
+34 TOTAL WORKING CAPITAL (sum Lines 31 - 33) - - 
+ 
+35 RATE BASE (sum Lines 18, 28, 29, & 34) - - 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 4 
+      
+Attachment H-34A  
+ page 3 of 5  
+Formula Rate - Non-Levelized Rate Formula Template For the 12 months ended 12/31/2021 
+Utilizing FERC Form 1 Data 
+Keystone Appalachian Transmission Company 
+(1) (2) (3) (4) (5) 
+Line Transmission 
+No. Source Company Total Allocator (Col 3 times Col 4) 
+O&M and A&G 
+1 Transmission O&M Expense Attachment 20, page 1, Line 112, Col. C - TE 0.00000 - 
+2 Less LSE Expenses Included in Transmission O&M Accounts  (Note W)                                   Attachment 20, page 1, Lines 88 & 92, Col C.TE 0.00000 - 
+3 Less Account 565 Attachment 20, page 1, Line 96, Col. C - TE 0.00000 - 
+4 A&G Expense Attachment 20, page 2, Line 197, Col. C - W/S 1.00000 - 
+5 Less FERC Annual Fees W/S 1.00000 - 
+6 Less EPRI & Reg. Comm. Exp. & Non-safety  Ad.  (Note I) W/S 1.00000 - 
+7 Plus Transmission Related Reg. Comm.  Exp.  (Note I) TE 0.00000 - 
+8 PBOP Expense Adjustment in Year Attachment 6, Line 9 (Note C) - DA 1.00000 - 
+9 Common FERC Form No. 1, Page 356.1 CE 1.00000 - 
+10 Amortization of Regulatory Assets Attachment 19, Line 2, Col. K - DA 1.00000 - 
+11 TOTAL O&M and A&G  (sum Lines 1, 4, 7, 8, 9, 10 less 2, 3, 5, 6) - - 
+DEPRECIATION AND AMORTIZATION EXPENSE 
+12 Transmission FERC Form No. 1, 336.7.b (Note U) TP 0.00000 - 
+13 General & Intangible FERC Form No. 1, 336.1.f & 336.10.f (Note U) W/S 1.00000 - 
+14 Common FERC Form No. 1, 336.11.b (Note U) CE 1.00000 - 
+15 TOTAL DEPRECIATION  (sum Lines 12, 13, 14) - - 
+TAXES OTHER THAN INCOME TAXES  (Note J)  
+LABOR RELATED 
+16 Payroll (Attachment 7, Line 1z) - W/S 1.00000 - 
+17 Highway and vehicle (Attachment 7, Line 2z) - W/S 1.00000 - 
+18 PLANT RELATED 
+19 Property (Attachment 7, Line 3z) - GP 0.00000 - 
+20 Gross Receipts (Attachment 7, Line 4z) - NA - 
+21 Other (Attachment 7, Line 5z) - GP 0.00000 - 
+22 Payments in lieu of taxes (Attachment 7, Line 6z) - GP 0.00000 - 
+23 TOTAL OTHER TAXES  (sum Lines 16 - 22) - - 
+INCOME TAXES (Note K) 
+24 T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = 0.00% 
+25 CIT=(T/(1-T)) * (1-(WCLTD/R)) = #DIV/0! 
+where WCLTD=(page 4, Line 31) and R= (page 4, Line 34) 
+and FIT, SIT & p are as given in footnote K. 
+26 1 / (1 - T)  (from Line 24) - 
+27 Amortized Investment Tax Credit (266.8.f) (enter negative)  
+28 Tax Effect of Permanent Differences and AFUDC Equity (Notes C & D) 
+29 (Excess)/Deficient Deferred Income Taxes (Attachment 15, Line 12, Col. F) (Notes C & E) - 
+30 Income Tax Calculation = Line 25 * Line 35 #DIV/0! NA #DIV/0! 
+31 ITC adjustment (Line 26 * Line 27) - GP 0.00000 - 
+32 Permanent Differences and AFUDC Equity Tax Adjustment (Line 26 * Line 28) - DA 1.00000 - 
+33 (Excess)/Deficient Deferred Income Tax Adjustment (Line 26 * Line 29) - DA 1.00000 - 
+34 Total Income Taxes sum Lines 30 through 33 #DIV/0! #DIV/0! 
+ 
+Rate Base (page 2, Line 35) * Rate of Return 
+35 RETURN (page 4, Line 34, col. 6) #DIV/0! NA #DIV/0! 
+ 
+36 GROSS REV. REQUIREMENT (WITHOUT INCENTIVE) (sum Lines 11, 15, 23, 34, 35) #DIV/0! #DIV/0! 
+37 Plus any increased ROE adder incentive NITS Attachment 2b, Line 2 (Note AA) #DIV/0! #DIV/0! 
+38 Plus any increased ROE adder incentive TEC Attachment 11, Line 4, col 12 (Note AA) #DIV/0! #DIV/0! 
+ 
+39 GROSS REV. REQUIREMENT (sum Lines 36, 37, 38) #DIV/0! #DIV/0! 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 5 
+        
+Attachment H-34A  
+ page 4 of 5  
+Formula Rate - Non-Levelized Rate Formula Template For the 12 months ended 12/31/2021 
+Utilizing FERC Form 1 Data 
+Keystone Appalachian Transmission Company 
+SUPPORTING CALCULATIONS AND NOTES 
+Line (1) (2) (3) (4) (5) (6) 
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES 
+1 Total transmission plant  (page 2, Line 2, column 3) - 
+2 Less transmission plant excluded from ISO rates  (Note M) 
+3 Less transmission plant included in OATT Ancillary Services  (Note N ) 
+4 Transmission plant included in ISO rates  (Line 1 less Lines 2 & 3) - 
+5 Percentage of transmission plant included in ISO Rates  (Line 4 divided by Line 1) TP= 0.00000 
+TRANSMISSION EXPENSES 
+6 Total transmission expenses  (page 3, Line 1, column 3) - 
+7 Less transmission expenses included in OATT Ancillary Services  (Attachment 20, Col. C, Line 85 plus Line 86 and Line 87) (Note L)                                                                                                                                                                                                                                                                      - 
+8 Included transmission expenses  (Line 6 less Line 7) - 
+9 Percentage of transmission expenses after adjustment  (Line 8 divided by Line 6) 0.00000 
+10 Percentage of transmission plant included in ISO Rates  (Line 5) TP 0.00000 
+11 Percentage of transmission expenses included in ISO Rates  (Line 9 times Line 10) TE= 0.00000 
+WAGES & SALARY ALLOCATOR   (W&S) 
+Form 1 Reference $ TP Allocation 
+12 Production 354.20.b 0.00 - 
+13 Transmission 354.21.b 0.00 - 
+14 Distribution 354.23.b 0.00 - W&S Allocator 
+15 Other 354.24, 354.25, 354.26.b 0.00 - ($ / Allocation) 
+16 Total  (sum Lines 12-15) - - = 1.00000 = WS 
+COMMON PLANT ALLOCATOR  (CE)  (Note O) 
+$ % Electric W&S Allocator 
+17 Electric 200.3.c  (Line 17 / Line 20) (Line 16, col. 6) CE 
+18 Gas 201.3.d 1.00000 * 1.00000 = 1.00000 
+19 Water 201.3.e    
+20 Total  (sum Lines 17 - 19) - 
+ANNUAL ALLOCATION FACTOR CALCULATION (Note A) 
+21 Annual Allocation Factor for Income taxes and Return (ROE) 
+22 Annual Allocation Factor for Income Taxes Page 3, Line 34, Col. 5 / Page 2, Line 14, Col. 5 #DIV/0! 
+23 Annual Allocation Factor for Return on Rate Base Page 3, Line 35, Col. 5 / Page 2, Line 14, Col. 5 #DIV/0! 
+24 Total Annual Allocation Factor for Income Taxes and Return (ROE) Line 22 + Line 23 #DIV/0! 
+25 Annual Allocation Factor for Income taxes and Return (scaled basis points adder) 
+26 Annual Allocation Factor for Income Taxes Attach 2a Line 33 / Page 2, Line 14, Col. 5 #DIV/0! 
+27 Annual Allocation Factor for Return on Rate Base Attach 2a Line 22 / Page 2, Line 14, Col. 5 #DIV/0! 
+28 Total Annual Allocation Factor for Income Taxes and Return (scaled basis points adder) Line 26 + Line 27 #DIV/0! 
+29 Additional Annual Allocation Factor for Income Taxes and Return Line 28 - Line 24 #DIV/0! 
+ 
+ 
+RETURN (R) $ 
+30 Preferred Dividends  (118.29c) (positive number) - 
+ 
+(Note DD)                                     Cost 
+       % (Note P,)                                  Weighted 
+31 Long Term Debt  (112.18-21.c) (Attachment 8, Line 14, Col. 7) (Note X) - 0%                 0.0000 =WCLTD 
+32 Preferred Stock  (112.3d) (Attachment 8, Line 14, Col. 2) (Note X) - 0%  0.0000 
+33 Common Stock Attachment 8, Line 14, Col. 6) (Note X) - 0% 0.1045 0.0000 
+34 Total  (sum Lines 31-33) -               0.0000 =R 
+ 
+REVENUE CREDITS 
+ACCOUNT 447 (SALES FOR RESALE) FERC Form No. 1, (310-311) (Note Q) 
+35 a. Bundled Non-RQ Sales for Resale (311.x.h) 
+36 b. Bundled Sales for Resale included in Divisor on page 1 
+37 Total of (a)-(b) - 
+38 ACCOUNT 451 (MISCELLANEOUS SERVICE REVENUE) (Note S) FERC Form No.1, (300.17.b) 
+39 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY)  (Note R) FERC Form No.1, (300.19.b) 
+40 ACCOUNT 456 (OTHER ELECTRIC REVENUE)  (Note V) FERC Form No.1, (330.x.n)                                                                                                                                                       - 
+40 a        Firm Point-to-Point 
+40 b        Other 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 6 
+ 
+41           Section 30.9 CREDITS 
+ 
+42           OTHER REVENUE CREDITS 
+42a          Labor Related Revenues                                                                                             W&S        1.00000                                                               -                                                                                                                                                                                                                                                                                                                        
+42b          Plant Related Revenues                                 GP            0.00000                                                               - 
+42c          Transmission Related Revenues                                TP             0.00000                                                              - 
+42d          Other                                DA            1.00000                                                              - 
+ 
+            
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 7 
+       
+Attachment H-34A  
+ page 5 of 5  
+Formula Rate - Non-Levelized Rate Formula Template For the 12 months ended 12/31/2021 
+Utilizing FERC Form 1 Data 
+Keystone Appalachian Transmission Company 
+General Note:  References to pages in this formulary rate are indicated as:  (page#, Line#, col.#) 
+References to data from FERC Form 1 are indicated as: #.y.x (page, Line, 
+column) 
+Note 
+Letter 
+A Annual allocation factor is utilized to calculate the incremental income tax and return for a scaled basis points adder to the ROE and will be utilized only in the instance there exists Commission approved ROE incentive projects; else there will exist no incremental income tax and return. 
+B Prepayments shall exclude prepayments of income taxes. 
+C Transmission-related only 
+D Includes the annual income tax cost or benefits due to permanent differences or differences between the amounts of expenses or revenues recognized in one period for ratemaking purposes and the amounts recognized for income tax purposes which do not reverse in one or more other 
+periods, including the cost of income taxes on the Allowance for Other Funds Used During Construction. Balance shall not include permanent differences in the income tax allowance calculations (other than Equity AFUDC) unless and until specific Commission approval is obtained to 
+include such differences in a separate 205 proceeding.  
+E  Upon enactment of changes in tax law, income tax rates (federal, state) and other actions taken by a taxing authority, deferred taxes are re-measured and adjusted in the Company's books of account, resulting in excess or deficient accumulated deferred taxes.  Such  
+excess or deficient deferred taxes attributed to the transmission function will be based upon tax records and calculated in the calendar year in which the excess or deficient amount was measured and recorded for financial reporting purposes.  
+F  The balances in accounts 190 281, 282, and 283 shall be adjusted for items as listed on Attachment 5.  For example, any and all amounts in contra accounts identified as regulatory assets or liabilities related to FASB 106 or 109 should be excluded.  The balance of Account 255 is reduced  
+by prior flow throughs and excluded if the utility chose to utilize amortization of tax credits against taxable income as discussed in Note K.  Account 281 is not allocated.  
+G Identified in Form 1 as being only transmission related. 
+H As agreed to as part of the settlement of Docket No. ER21-253 and ER21-265, Cash Working Capital is a challengeable input that is capped at one-eighth of O&M and A&G allocated to transmission at page 3, Line 9, column 5 minus amortization of regulatory assets (page 3, Line 8, col. 5) 
+              unless supported by a fully-developed and reliable lead/lag study. Interested parties will not challenge the input for the cash working capital allowance for the three (3) rate years following the effective date of the ultimately settled formula, provided that the CWC input does not exceed the  
+              one-eighth cap. In no case shall the calculation include service company depreciation expense in the cash working capital base.    
+Page 111, Line 57 in the Form 1. 
+I Line 6 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1.  Line 7 - Regulatory Commission Expenses directly related to transmission service, ISO filings, or 
+transmission siting itemized at 351.h. 
+J Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year.  Taxes related to income are excluded.  Gross receipts taxes are not included in transmission revenue requirement in the Rate Formula Template, since they are 
+recovered elsewhere. 
+K The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes".  If the utility is taxed in more than one state it must attach a work paper showing the name 
+of each state and how the blended or composite SIT was developed.  Furthermore, a utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of 
+the Amortized Investment Tax Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, Line 26). 
+Inputs Required: FIT = 0.00% 
+SIT= 0.00% (State Income Tax Rate or Composite SIT) 
+p =  (percent of federal income tax deductible for state purposes) 
+L Removes dollar amount of transmission expenses included in the OATT ancillary services rates, including Account Nos. 561.1 - 561.3, and 561.BA., and related to generation step-up facilities, which are deemed included in OATT ancillary services.  For these purposes, generation step-up 
+facilities are those facilities at a generator substation on which there is no through-flow when the generator is shut down. 
+M Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+N Removes dollar amount of transmission plant included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT ancillary services.  For these purposes, generation step-up facilities are those facilities at a generator 
+substation on which there is no through-flow when the generator is shut down. 
+O Enter dollar amounts 
+P Debt cost rate will be set at 3.5% until such time debt is issued by KATCo.  Once debt is issued, the long-term debt cost rate will be the weighted average of the rates for all outstanding debt instruments, calculated within Attachment 10, col. J.    
+              Preferred cost rate = preferred dividends (line 30) / preferred   outstanding (line 32).  No change in ROE may be made absent a filing with FERC under Section 205 or Section 206 of the Federal Power Act. The ROE consists of a base ROE of 9.95% and a 50 basis point adder for participation 
+              in an RTO as eligible and consistent with the terms of the Settlement Agreement in Docket No. ER21-265-000. 
+Q Page 4, Line 37 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1 and all other uses are to be included in the divisor. 
+R Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+S Excludes revenues unrelated to transmission services. 
+T The revenues credited on page 1, Lines 2-6 do not include revenues associated with FERC annual charges, gross receipts taxes, ancillary services, or facilities not included in this template (e.g., direct assignment facilities and GSUs) which are not recovered under this Rate Formula 
+Template. The revenue on Line 7 is supported by its own reference. 
+U Plant in Service, Accumulated Depreciation, and Depreciation Expense amounts exclude Asset Retirement Obligation amounts unless authorized by FERC. FERC account 405 – Amortization of Other Electric Plant amounts are excluded unless approved and authorized by FERC. 
+V On Page 4, Line 40, enter revenues from RTO settlements that are associated with NITS and firm Point-to-Point Service for which the load is not included in the divisor to derive AP Zonal rates.  Exclude non-firm Point-to-Point revenues and revenues related to RTEP projects unless  
+              Provisions per settlement agreement section 2.22 requires inclusion.  
+W Account Nos. 561.4, 561.8, and 575.7 consist of RTO expenses billed to load-serving entities and are not included in Transmission Owner revenue requirements. 
+X Calculate using a 13 month average balance. 
+Y [Note intentionally left blank] 
+Z Includes only CWIP authorized by the Commission for inclusion in rate base. 
+AA Any actual ROE incentive must be approved by the Commission; therefore, Line will remain zero until a project(s) is granted an ROE incentive adder. 
+BB As provided by PJM and in effect at the time of the annual rate calculations pursuant to Section 34.1 of the PJM OATT. Includes CP for the AP Zone. 
+CC Peak as would be reported on page 401, column d of Form 1 at the time of AP Zonal peak for the twelve month period ending October 31 of the calendar year used to calculate rates.   The projection year will utilize the most recent preceding 12-month period at the time of the filing. 
+DD KATCo will utilize a hypothetical equity component equal to the weighted average actual capital structure of the SFCs, based on the most-recent ATRR value for each of the three operating companies, at the time the formula rate is first populated.  The hypothetical rate will remain  
+               fixed at that initially-populated rate for a 3-year period commencing at the effective date of an asset transfer or the first time the formula rate is populated, whichever occurs sooner, and will not fluctuate for the later of the duration of the 3-year period or the 4- year mortatorium period  
+               as defined in the settlement agreement in Docket # ER21-265. Thereafter, KATCo shall maintain its actual capital structure based on a 13-month average within a FERC-acceptable range.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 8 
+       
+Attachment H-34A, Attachment 1  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Schedule 1A Rate Calculation  
+ 
+1 $ - Attachment H-34A, Page 4, Line 7 
+2 Revenue Credits for Sched 1A  - Note A 
+3 $ - Net Schedule 1A Expenses (Line 1 - Line 2) 
+4 Annual MWh in AP Zone - Note B 
+5 #DIV/0! Schedule 1A rate $/MWh (Line 3/ Line 4) 
+Note:  
+A  Revenues received pursuant to PJM Schedule 1A revenue allocation procedures for  
+transmission service outside of AP Zone during the year used to calculate rates under 
+Attachment H-34A  
+B  Load expressed in MWh consistent with load used for billing under Schedule 1A for the AP  
+Zone.  Data from RTO settlement systems for the calendar year prior to the rate year.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 9 
+       
+Attachment H-34A, Attachment 2  
+ROE Calculation page 1 of 1 
+For the 12 months ended 12/31/2021 
+Return Calculation 
+Source  Reference 
+1 Rate Base Attachment H-34A, page 2, Line 35, Col. 5 - 
+ 
+2 Preferred Dividends enter positive Attachment H-34A, page 4, Line 30, Col. 6 0 
+Common Stock 
+3 Proprietary Capital Attachment 8, Line 14, Col. 1 0 
+4 Less Preferred Stock Attachment 8, Line 14, Col. 2 0 
+5 Less Accumulated Other Comprehensive Income Account 219 Attachment 8, Line 14, Col. 4 0 
+6 Less Account 216.1 & Goodwill Attachment 8, Line 14, Col. 3 & 5 0 
+7 Common Stock Attachment 8, Line 14, Col. 6 0 
+ 
+Capitalization 
+8 Long Term Debt Attachment H-34A, page 4, Line 31, Col. 3 0 
+9 Preferred Stock Attachment H-34A, page 4, Line 32, Col. 3 0 
+10 Common Stock Attachment H-34A, page 4, Line 33, Col. 3 0 
+11 Total  Capitalization Attachment H-34A, page 4, Line 34, Col. 3 0 
+12 Debt % Total Long Term Debt Attachment H-34A, page 4, Line 31, Col. 4 0.0000% 
+13 Preferred % Preferred Stock Attachment H-34A, page 4, Line 32, Col. 4 0.0000% 
+14 Common % Common Stock Attachment H-34A, page 4, Line 33, Col. 4 0.0000% 
+15 Debt Cost Total Long Term Debt Attachment H-34A, page 4, Line 31, Col. 5                         0.0000 
+16 Preferred Cost Preferred Stock Attachment H-34A, page 4, Line 32, Col. 5 0.0000 
+17 Common Cost Common Stock Attachment H-34A, page 4, Line 33, Col. 5 0.1045 
+18 Weighted Cost of Debt Total Long Term Debt (WCLTD) (Line 12 * Line 15)                         0.0000 
+19 Weighted Cost of Preferred Preferred Stock (Line 13 * Line 16) 0.0000 
+20 Weighted Cost of Common Common Stock (Line 14 * Line 17) 0.0000 
+21 Rate of Return on Rate Base ( ROR ) (Sum Lines 18 to 20)                         0.0000 
+22 Investment Return = Rate Base * Rate of Return (Line 1 * Line 21)                                  0 
+Income Taxes 
+Income Tax Rates 
+23 T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = Attachment H-34A, page 3, Line 24, Col. 3 0.00% 
+24 CIT=(T/(1-T)) * (1-(WCLTD/R)) = Calculated #DIV/0! 
+ 
+25 1 / (1 - T) Attachment H-34A, page 3, Line 26, Col. 3 - 
+26 Amortized Investment Tax Credit (266.8.f) (enter negative) Attachment H-34A, page 3, Line 27, Col. 3 - 
+27 Tax Effect of Permanent Differences and AFUDC Equity Attachment H-34A, page 3, Line 28, Col. 3 - 
+28 (Excess)/Deficient Deferred Income Taxes Attachment H-34A, page 3, Line 29, Col. 3 - 
+29 Income Tax Calculation (line 22 * line 24) #DIV/0! 
+30 ITC adjustment Attachment H-34A, page 3, Line 31, Col. 5 - 
+31 Permanent Differences and AFUDC Equity Tax Adjustment Attachment H-34A, page 3, Line 32, Col. 5 - 
+32 (Excess)/Deficient Deferred Income Tax Adjustment Attachment H-34A, page 3, Line 33, Col. 5 - 
+33 Total Income Taxes Sum lines 29 to 32 #DIV/0! 
+Return and Taxes 
+34 Return and Income taxes with ROE (Line 22 + Line 33) #DIV/0! 
+35 Return with ROE Attachment H-34A, Page 3, Line 35, Col. 5          - 
+36 Income Tax with ROE Attachment H-34A, Page 3, Line 34, Col. 5          - 
+Notes:  
+Line 17 will reflect the ROE, as reflected on Attachment H-34A, Page 4, Line 33, Col. 5  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 10 
+     
+Attachment H-34A, Attachment 2a  
+Incentive ROE Calculation page 1 of 1 
+For the 12 months ended 12/31/2021 
+Return Calculation 
+Source  Reference 
+1 Rate Base Attachment H-34A, page 2, Line 35, Col. 5 - 
+ 
+2 Preferred Dividends enter positive Attachment H-34A, page 4, Line 30, Col. 6 0 
+Common Stock 
+3 Proprietary Capital Attachment 8, Line 14, Col. 1 0 
+4 Less Preferred Stock Attachment 8, Line 14, Col. 2 0 
+5 Less Accumulated Other Comprehensive Income Account 219 Attachment 8, Line 14, Col. 4 0 
+6 Less Account 216.1 & Goodwill Attachment 8, Line 14, Col. 3 & 5 0 
+7 Common Stock Attachment 8, Line 14, Col. 6 0 
+ 
+Capitalization 
+8 Long Term Debt Attachment H-34A, page 4, Line 31, Col. 3 0 
+9 Preferred Stock Attachment H-34A, page 4, Line 32, Col. 3 0 
+10 Common Stock Attachment H-34A, page 4, Line 33, Col. 3 0 
+11 Total  Capitalization Attachment H-34A, page 4, Line 34, Col. 3 0 
+12 Debt % Total Long Term Debt Attachment H-34A, page 4, Line 31, Col. 4 0.0000% 
+13 Preferred % Preferred Stock Attachment H-34A, page 4, Line 32, Col. 4 0.0000% 
+14 Common % Common Stock Attachment H-34A, page 4, Line 33, Col. 4 0.0000% 
+15 Debt Cost Total Long Term Debt Attachment H-34A, page 4, Line 31, Col. 5                       0.0000 
+16 Preferred Cost Preferred Stock Attachment H-34A, page 4, Line 32, Col. 5 0.0000 
+17 Common Cost Common Stock Attachment H-34A, page 4, Line 33, Col. 5 plus 100 bps (Note A) 0.1145 
+18 Weighted Cost of Debt Total Long Term Debt (WCLTD) (Line 12 * Line 15)                        0.0000 
+19 Weighted Cost of Preferred Preferred Stock (Line 13 * Line 16) 0.0000 
+20 Weighted Cost of Common Common Stock (Line 14 * Line 17) 0.0000 
+21 Rate of Return on Rate Base ( ROR ) (Sum Lines 18 to 20)                        0.0000 
+22 Investment Return = Rate Base * Rate of Return (Line 1 * Line 21)                                 0 
+Income Taxes 
+Income Tax Rates 
+23 T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} = Attachment H-34A, page 3, Line 24, Col. 3 0.00% 
+24 CIT=(T/(1-T)) * (1-(WCLTD/R)) = Calculated #DIV/0! 
+ 
+25 1 / (1 - T) Attachment H-34A, page 3, Line 26, Col. 3 - 
+26 Amortized Investment Tax Credit (266.8.f) (enter negative) Attachment H-34A, page 3, Line 27, Col. 3 - 
+27 Tax Effect of Permanent Differences and AFUDC Equity Attachment H-34A, page 3, Line 28, Col. 3 - 
+28 (Excess)/Deficient Deferred Income Taxes Attachment H-34A, page 3, Line 29, Col. 3 - 
+29 Income Tax Calculation (line 22 * line 24) #DIV/0! 
+30 ITC adjustment Attachment H-34A, page 3, Line 31, Col. 5 - 
+31 Permanent Differences and AFUDC Equity Tax Adjustment Attachment H-34A, page 3, Line 32, Col. 5 - 
+32 (Excess)/Deficient Deferred Income Tax Adjustment Attachment H-34A, page 3, Line 33, Col. 5 - 
+33 Total Income Taxes Sum lines 29 to 32 #DIV/0! 
+Incremental Return and Taxes 
+34 Return and Income taxes with scaled basis pts adder (Line 22 + Line 33) #DIV/0! 
+35 Return with incentive adder Line 22       - 
+36 Income Tax with incentive adder Line 33 #DIV/0! 
+37 Incremental Return and incomes taxes for increase in ROE Line 34 minus Attachment 2 Line 34 #DIV/0! 
+38 Rate Base Line 1 - 
+39 Incremental Return and incomes taxes for increase in ROE divided by rate base Line 37 / Line 38 #DIV/0! 
+Notes: 
+[A] Line 17 - ROE adder is a scaling factor to calculate the incremental return and income taxes, which will be utilized to calculate additional revenue requirement only in the instance there exists Commission approved ROE incentive projects. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 11 
+                
+Incentive ROE NITS Worksheet Support Attachment H-34A, Attachment 2b 
+Net Plant Detail page 1 of 2 
+For the 12 months ended 12/31/2021 
+ 
+ 
+Line No. Project Name RTEP Project Number Project Gross Plant Dec-20 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21 Jul-21 Aug-21 Sep-21 Oct-21 Nov-21 Dec-21 
+(Note A) (Note B) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) (Note C) 
+ 
+ 
+1a #DIV/0! 
+1b #DIV/0! 
+1c #DIV/0! 
+1d #DIV/0! 
+1e #DIV/0! 
+1f #DIV/0! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Subtotal 
+NOTE 
+[A] Utilize only in the instance there exists Commission approved ROE incentive projects [C] Company records 
+[B] Project Gross Plant is the total capital investment for the project, including subsequent capital investments required to maintain the project in-service.  Utilizes a 13-month average. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 12 
+       
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 13 
+        
+Attachment H-34A, Attachment 3  
+ page 1 of 1  
+Gross Plant Calculation For the 12 months ended 12/31/2021 
+[1] [2] [3] [4] [5] [6] [7] 
+Production Transmission Distribution Intangible General Common Total 
+1 December 2020 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+2 January 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+3 February 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+4 March 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+5 April 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+6 May 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+7 June 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+8 July 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+9 August 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+10 September 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+11 October 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+12 November 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+13 December 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+14 13‐month Average [A] [C] ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+Production Transmission Distribution Intangible General Common Total 
+[B] 205.46.g 207.58.g 207.75.g 205.5.g 207.99.g 356.1 
+15 December 2020 ‐ 
+16 January 2021 ‐ 
+17 February 2021 ‐ 
+18 March 2021 ‐ 
+19 April 2021 ‐ 
+20 May 2021 ‐ 
+21 June 2021 ‐ 
+22 July 2021 ‐ 
+23 August 2021 ‐ 
+24 September 2021 ‐ 
+25 October 2021 ‐ 
+26 November 2021 ‐ 
+27 December 2021 ‐ 
+28 13‐month Average ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+ 
+Production Transmission Distribution Intangible General Common 
+ 
+[B] 205.44.g 207.57.g 207.74.g company records 207.98.g company records 
+29 December 2020 
+30 January 2021 
+31 February 2021 
+32 March 2021 
+33 April 2021 
+34 May 2021 
+35 June 2021 
+36 July 2021 
+37 August 2021 
+38 September 2021 
+39 October 2021 
+40 November 2021 
+41 December 2021 
+ 
+42 13‐month Average ‐ ‐ ‐ ‐ ‐ ‐ 
+Notes:  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 1 - KATCo 
+Effective Date: 7/15/2024 - Docket #: ER24-1998-000 - Page 14 
+[A] Taken to Attachment H‐34A, page 2, Lines 1‐5, Col. 3 
+[B] Reference for December balances as would be reported in FERC Form 1. 
+[C] Balance excludes Asset Retirements Costs 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 1 
+       
+Attachment H-34A, Attachment 4  
+ page 1 of 1  
+Accumulated Depreciation Calculation For the 12 months ended 12/31/2021 
+[1] [2] [3] [4] [5] [6] [7] 
+Production Transmission Distribution Intangible General Common Total 
+1 December 2020 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+2 January 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+3 February 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+4 March 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+5 April 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+6 May 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+7 June 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+8 July 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+9 August 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+10 September 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+11 October 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+12 November 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+13 December 2021 ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+14 13‐month Average [A] [C] ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+Production Transmission Distribution Intangible General Common Total 
+[B] 219.20‐24.c 219.25.c 219.26.c 200.21.c 219.28.c 356.1 
+15 December 2020 ‐ 
+16 January 2021 ‐ 
+17 February 2021 ‐ 
+18 March 2021 ‐ 
+19 April 2021 ‐ 
+20 May 2021 ‐ 
+21 June 2021 ‐ 
+22 July 2021 ‐ 
+23 August 2021 ‐ 
+24 September 2021 ‐ 
+25 October 2021 ‐ 
+26 November 2021 ‐ 
+27 December 2021 ‐ 
+28 13‐month Average ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+ 
+Production Transmission Distribution Intangible General Common 
+ 
+[B] Company Records Company Records Company Records Company Records Company Records Company Records 
+29 December 2020 
+30 January 2021 
+31 February 2021 
+32 March 2021 
+33 April 2021 
+34 May 2021 
+35 June 2021 
+36 July 2021 
+37 August 2021 
+38 September 2021 
+39 October 2021 
+40 November 2021 
+41 December 2021 
+ 
+42 13‐month Average ‐ ‐ ‐ ‐ ‐ ‐ 
+Notes: 
+[A] Taken to Attachment H‐34A, page 2, Lines 7‐11, Col. 3 
+[B] Reference for December balances as would be reported in FERC Form 1. 
+[C] Balance excludes reserve for depreciation of asset retirement costs 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 2 
+      
+Attachment H-34A, Attachment 5  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+[1] [2] [3] [4] [5] [6] 
+ADIT Transmission Total (including Plant & Labor Related Transmission ADITs and applicable transmission adjustments from notes below) 
+Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255 Total 
+(enter negative) (enter negative) (enter negative) (enter negative) 
+[B] [C] [D] [E] 
+1 December 31 12/31/2021 [A] ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+ADIT Total Transmission‐related only, including Plant & Labor Related Transmission ADITs (prior to adjustments from notes below) 
+Acct. No. 281 Acct. No. 282 Acct. No. 283 Acct. No. 190 Acct. No. 255 Total 
+[I] 273.8.k 275.2.k 277.9.k 234.8.c 267.h 
+2 December 31 12/31/2021 [G] ‐ ‐ ‐ ‐ ‐ 
+ 
+Notes: 
+[A] Year‐end balance with adjustments for FAS143, FAS106, FAS109, CIACs and normalization to populate Attachment H‐34A, page 2, Lines 19‐23, col. 3 for accounts 281, 282, 283, 190, and 255, respectively 
+[B] FERC Account No. 282 is adjusted for the following items. 
+FAS 143 ‐ ARO FAS 106 FAS 109 CIAC Other: [H] Normalization [F]  
+3 12/31/2021 ‐ 
+[C] FERC Account No. 283  is adjusted for the following items. 
+FAS 143 ‐ ARO FAS 106 FAS 109 CIAC Other: [H] Normalization [F]  
+4 12/31/2021 ‐ 
+[D] FERC Account No. 190 is adjusted for the following items. 
+FAS 143 ‐ ARO FAS 106 FAS 109 CIAC Other: [H] Normalization [F]  
+5 12/31/2021 ‐ 
+[E] See Attachment H‐34A, page 5, note K; A utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of the Amortized Investment 
+Tax Credit (Form 1, 266.8.f). 
+[F] Sourced from Attachment 5b, page 1, col. O for PTRR & Attachment 5C, page 2, col. O for ATRR 
+[G] Sourced from Attachment 5a, pages 1‐3, Col. B 
+[H] Include any additional adjustments to ADIT items as may be recognized in the future to be proper for PTRR/ATRR calculation purposes. 
+[I] Reference for December balances as would be reported in FERC Form 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 3 
+      
+Attachment H-34A, Attachment 5a  
+ page 1 of 3  
+ADIT Detail For the 12 months ended 12/31/2021 
+COLUMN A COLUMN B  
+BALANCE ENDING AS 
+OF 12-31-21 
+ACCOUNT 255: 
+ 
+1 TOTAL ACCOUNT 255 0 
+ 
+ACCOUNT 282: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 TOTAL ACCOUNT 282 0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 4 
+   
+Attachment H‐34A, Attachment 5a  
+page 2 of 3  
+For the 12 months ended 12/31/2021  
+ADIT Detail  
+COLUMN A COLUMN B  
+BALANCE AS 
+OF 12-31-21 
+ACCOUNT 283: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 TOTAL ACCOUNT 283 0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 5 
+      
+Attachment H‐34A, Attachment 5a  
+ page 3 of 3  
+ADIT Detail For the 12 months ended 12/31/2021 
+COLUMN A COLUMN B  
+BALANCE AS 
+OF 12-31-21 
+ACCOUNT 190: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 TOTAL ACCOUNT 190 0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 6 
+       
+Attachment H-34A, Attachment 5b  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+A B C D E F G H I 
+Line 2021 Quarterly Activity and Balances 
+ 
+Beginning 190 (including 
+adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+1 PTRR 0 0 0 0 
+ 
+Beginning 190 (including 
+adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+2 PTRR 0 0 0 0 0 
+ 
+Beginning 282 (including 
+adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+3 PTRR 0 0 0 0 
+ 
+Beginning 282 (including 
+adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+4 PTRR 0 0 0 0 0 
+ 
+Beginning 283 Including adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+5 PTRR 0 0 0 0 
+ 
+Beginning 283 Including adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+6 PTRR 0 0 0 0 0 
+ 
+ 
+ 
+ 
+2021 PTRR 
+J K L M N O P 
+Page 1, row 2,4,6 Line 7= J‐N‐O 
+Page 1, B+D+F+H/ Column A+B+D+F+H J‐L                            Attachment 5-ADIT  M‐N Lines 8‐9= ‐J+N+O 
+Prorated -                Summary, Lines 3, 4, 
+Estimated Ending                           Estimated End             and 5 Ending ADIT 
+Balance (Before Prorated Ending (Before Sum of end ADIT Balance Included in 
+Line Account Adjustments) Projected Activity Balance Adjustments) Adjustments Normalization Formula Rate  
+7 PTRR Total Account 190 ‐ 0 0 ‐  ‐ ‐ ‐ 
+8 PTRR Total Account 282 ‐ 0 0 ‐ ‐ ‐ ‐ 
+9 PTRR Total Account 283 ‐ 0 0 ‐ ‐ ‐ ‐ 
+10 PTRR Total ADIT Subject to Normalization ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+ 
+Notes:  
+1. Attachment 5b will only be populated within the PTRR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment 5 – ADIT 
+Summary, Line 2
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 8 
+      
+page 1 of 2  
+For the 12 months ended 12/31/2021  
+A B C D E F G H I 
+Line 2021 Quarterly Activity and Balances 
+ 
+Beginning 190 (including adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+1 PTRR 0 0 0 0 
+2 ATRR 0 0 0 0 
+ 
+Beginning 190 (including adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+3 PTRR 0 0 0 0 0 
+4 ATRR 0 0 0 0 0 
+ 
+Beginning 282 (including adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+5 PTRR 0 0 0 0 
+6 ATRR 0 0 0 0 
+ 
+Beginning 282 (including adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+7 PTRR 0 0 0 0 0 
+8 ATRR 0 0 0 0 0 
+ 
+Beginning 283 Including adjustments) Q1 Activity Ending Q1 Q2 Activity Ending Q2 Q3 Activity Ending Q3 Q4 Activity Ending Q4 
+9 PTRR 0 0 0 0 
+10 ATRR 0 0 0 0 
+ 
+Beginning 283 Including adjustments) Pro‐rated Q1 Pro‐rated Q2 Pro‐rated Q3 Pro‐rated Q4 
+11 PTRR 0 0 0 0 0 
+12 ATRR 0 0 0 0 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment H-34A, Attachment 5c
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 2 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 10 
+    
+page 2 of 2  
+For the 12 months ended 12/31/2021  
+ 
+ 
+2021 PTRR  
+A B C D E F G 
+Page 1, row 3,7,11 Line 1= A‐E‐F 
+Page 1, B+D+F+H Column A+B+D+F+H A‐C D‐E Lines 2‐3= ‐A+E+F 
+Prorated - 
+Estimated Ending Estimated End Ending ADIT 
+Balance (Before Prorated Ending (Before Sum of end ADIT Balance Included in 
+Line Account Adjustments) Projected Activity Balance Adjustments) Adjustments Normalization Formula Rate  
+1 PTRR Total Account 190 0 0 ‐ ‐ ‐ 
+2 PTRR Total Account 282 0 0 ‐ ‐ ‐ 
+3 PTRR Total Account 283 0 0 ‐ ‐ ‐ 
+4 PTRR Total ADIT Subject to Normalization ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+ 
+2021 ATRR 
+H I J K L M N O P 
+Page 1, row 4,8,12                                                                                                             Attachment 5-ADIT       
+column                                                                                                                      Summary, Lines 3, 4,                                                                                           Line 5= H‐M‐O                  
+Page 1, B+D+F+H A+B+D+F+H H‐J D‐K                           and 5                   E‐M K+L‐M‐N                               Lines 6‐7= ‐H+M+O 
+Prorated - Actual 
+Actual Ending Balance Prorated Ending End (Before Prorated Activity Sum of end ADIT ADIT Adjustments Ending ADIT Balance Included in 
+Account (Before Adjustments) Actual Activity Balance Adjustments) Not Projected Adjustments not projected Normalization Formula Rate 
+5 ATRR Total Account 190 0 0 ‐ ‐ ‐ ‐ ‐ 
+6 ATRR Total Account 282 0 0 ‐ ‐ ‐ ‐ ‐ 
+7 ATRR Total Account 283 0 0 ‐ ‐ ‐ ‐ ‐ 
+8 ATRR Total ADIT Subject to Normalization ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+Notes:  
+1. Attachment 5c will only be populated within the ATRR  
+Attachment H-34A, Attachment 5c
+Attachment 5 – ADIT 
+Summary, Line 2
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 1 
+        
+Attachment H-34A, Attachment 6  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+1 Calculation of PBOP Expenses 
+2 Amount Source  
+3 Total FirstEnergy PBOP expenses -$15,646,300 FirstEnergy 2019 Actuarial Study 
+4 Labor dollars (FirstEnergy) $2,161,999,525 FirstEnergy 2019 Actual: Company Records 
+5 cost per labor dollar (line 3 / line 4) -$0.0072 
+6 labor (labor not capitalized) current year Keystone Appalachian Transmission Company Labor: Company Records 
+7 PBOP Expense for current year (line 5 * line 6) $0 
+8 PBOP expense in Account 926 for current year Keystone Appalachian Transmission Company Account 926: Company Records 
+9 PBOP Adjustment for Attachment H-34A, page 3, line 8 (line 7 - line 8) - 
+ 
+ 
+10 Lines 3-4 cannot change absent a Section 205 or 206 filing approved or accepted by FERC in a separate proceeding 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 2 
+        
+Attachment H-34A, Attachment 7  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Taxes Other than Income Calculation  
+[A] 12/31/2021 
+1 Payroll Taxes 
+1a 263.i 
+1b 263.i 
+1c 263.i 
+1d 263.i 
+1z Payroll Taxes Total ‐ 
+2 Highway and Vehicle Taxes 
+2a 263.i 
+2z Highway and Vehicle Taxes ‐ 
+3 Property Taxes 
+3a 263.i 
+3b 263.i 
+3c 263.i 
+3d 263.i 
+3z Property Taxes ‐ 
+4 Gross Receipts Tax 
+4a 263.i 
+4B 
+4z Gross Receipts Tax ‐ 
+5 Other Taxes 
+5a 263.i 
+5b 263.i 
+5c 263.i 
+5d 
+5z Other Taxes ‐ 
+6z Payments in lieu of taxes 
+ 
+7 Total other than income taxes (sum lines 1z, 2z, 3z, 4z, 5z, 6z) $0.00 
+[tie to 114.14c] 
+ 
+Notes: 
+[A] Reference for December balances as would be reported in FERC Form 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 3 
+    
+Attachment H-34A, Attachment 8  
+ page 1 of 1  
+Capital Structure Calculation For the 12 months ended 12/31/2021 
+[1] [2] [3] [4] [5] [6] [7] 
+Proprietary Preferred Stock Account 216.1 Account 219 Goodwill Common Stock Long Term Debt 
+Capital 
+[A] 112.16.c 112.3.c 112.12.c 112.15.c 233.5.f (1) ‐ (2) ‐ (3) ‐ (4) ‐ (5) 112.18‐21.c 
+1 December 2020 ‐ 
+2 January 2021 ‐ 
+3 February 2021 ‐ 
+4 March 2021 ‐ 
+5 April 2021 ‐ 
+6 May 2021 ‐ 
+7 June 2021 ‐ 
+8 July 2021 ‐ 
+9 August 2021 ‐ 
+10 September 2021 ‐ 
+11 October 2021 ‐ 
+12 November 2021 ‐ 
+13 December 2021 ‐ 
+14 13‐month Average ‐ ‐ ‐ ‐ ‐ ‐ ‐ 
+ 
+Notes: 
+[A] Reference for December balances as would be reported in FERC Form 1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 4 
+        
+Attachment H-34A, Attachment 9  
+ page 1 of 1  
+Stated Value Inputs For the 12 months ended 12/31/2021 
+Formula Rate Protocols 
+Section VIII.A 
+1. Rate of Return on Common Equity ("ROE") 
+KATCo's ROE is set to: 10.45% 
+2. Postretirement Benefits Other Than Pension ("PBOP") 
+*sometimes referred to as Other Post Employment Benefits, or "OPEB" 
+Total FirstEnergy PBOP expenses -$15,646,300 
+Labor dollars (FirstEnergy) $2,161,999,525 
+cost per labor dollar -$0.0072 
+3. Depreciation Rates (1) 
+FERC Account                                               Depr % 
+350.2 Land and Land Rights - Easements                                               1.51% 
+352    Structure and Improvements                                               1.31% 
+353.1 Station Equipment - Other                                               1.38% 
+353.4 Station Eqiupment - SCADA                                               0.09% 
+354    Towers and Fixtures                                               1.52% 
+355    Poles and Fixtures                                               2.49% 
+356.1 Overhead Conductors & Devices - Other                                         2.77% 
+356.2 Overhead Conductors & Devices - Clearing                                     0.66% 
+357    Underground Conduit                                               2.04% 
+358    Underground Conductors & Devices                                               2.38% 
+389.2 Land and Land Rights - Easements                                               1.44% 
+390.1 Structure and Improvements - Owned                                               2.11% 
+391.1 Office Furniture & Equipment - Furniture & Fixtures                          5.00% 
+391.2 Office Furniture & Equipment - Information Systems                      14.29% 
+391.3 Office Furniture & Equipment - Data Handling                                 10.00% 
+391.4 Personal Computers                                               20.00% 
+391.5 Smart Meter Hardware                                               20.00% 
+392.1 Transportation Equipment - Autos                                               10.00% 
+392.2 Transportation Equipment - Light Trucks                                            7.20% 
+392.3 Transportation Equipment - Medium and Heavy Trucks                    7.62% 
+392.4 Transportation Equipment - Trailers                                                3.88% 
+392.5 Earth Moving Equipment                                                6.90% 
+392.6 All Terrain Vehicles                                               10.53% 
+393    Storage equipment                                                4.00% 
+394    Tools, shop and garage equipment                                                5.00% 
+395    Laboratory equipment                                                5.00% 
+396    Power operated equipment                                                4.87% 
+397    Communication equipment                                               10.00% 
+398    Miscellaneous equipment                                                6.67% 
+ 
+Note: (1)    Account 303 amortization period is 7 years.  Depreciation/amortization rates listed as agreed to as part of the settlement of Docket No. ER21-265 for transmission formula rate 
+purposes. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 5 
+ 
+ 
+ 
+ 
+ 
+Attachment H-34A, Attachment 10  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Debt Cost Calculation  
+TABLE 1: Summary Cost of Long Term Debt  
+CALCULATION OF COST OF DEBT  
+ 
+YEAR ENDED 12/31/2021 
+ 
+(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) 
+Net Average Net Weighted 
+Amount Months Outstanding Weighted Effective Debt Cost 
+ORIGINAL Net Proceeds Outstanding Outstanding in Year* Outstanding Cost Rate at t = N 
+t=N    Issue Date     Maturity Date ISSUANCE At Issuance at t=N at t=N z* Ratios (Table 2, Col. kk) (h) * (i) 
+(table 2, col. cc) (table 2, col. gg) ((col e. * col. F)/12) (col. g/col. g total) 
+Long Term Debt Cost 12/31/2021  
+at Year Ended: 
+First Mortgage Bonds: 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+** 
+                                                                                                                                                                                                                                                                                                                                                                Attachment H-34A, Pg 5, Note P 
+t = time  
+The current portion of long term debt is included in the Net Amount Outstanding at t = N in these calculations.  
+The outstanding amount (column (e)) for debt retired during the year is the outstanding amount at the last month it was outstanding.  
+*  z = Average of monthly balances for months outstanding during the year (average of the balances for the 12 months of the year, with zero in months that the issuance is not outstanding in a month.).  
+Interim (individual debenture) debt cost calculations shall be taken to four decimals in percentages (7.2300%, 5.2582%); Final Total Weighted Average Debt Cost for the Formula Rate shall be rounded to two 
+decimals of a percent (7.03%).  
+** This Total Weighted Average Debt Cost will be shown on page 4, line 31, column 5 of formula rate Attachment H-34A.  
+ 
+TABLE 2: Effective Cost Rates For Traditional Front-Loaded Debt Issuances:  
+ 
+YEAR ENDED 12/31/2021 
+(aa) (bb) (cc) (dd) (ee) (ff)  (gg) (hh) (ii) (jj) (kk) 
+(Discount) Loss/Gain on    Net Effective Cost Rate* 
+Long Term Debt Issue Maturity Amount Premium Issuance Reacquired  Net Proceeds Coupon Annual (Yield to Maturity  
+Issuances Affiliate Date Date Issued at Issuance Expense Debt Proceeds Ratio Rate Interest at Issuance, t = 0)  
+(col. cc + col. dd - ((col. gg / col. 
+col. ee - col. ff) cc) *100) (col. cc *col. ii) 
+(1)  
+(2)  
+(3)  
+(4)  
+(5)  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 6 
+TOTALS  
+* YTM at issuance calculated from an acceptable bond table or from YTM = Internal Rate of Return (IRR) calculation  
+Effective Cost Rate of Individual Debenture (YTM at issuance): the t=0 Cashflow Co equals Net Proceeds column (gg); Semi-annual (or other) interest cashflows (Ct=1, Ct=2, etc.). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 7 
+ 
+ 
+ 
+ 
+Attachment H-34A, Attachment 11  
+ page 1 of 2  
+For the 12 months ended 12/31/2021  
+Transmission Enhancement Charge (TEC) Worksheet  
+To be completed in conjunction with Attachment H-34A  
+ 
+ 
+ 
+ 
+ 
+(1) (2) (3) (4) 
+ 
+Line Reference Transmission Allocator 
+No. 
+ 
+1 Gross Transmission Plant - Total Attach. H-34A, p. 2, line 2, col. 5 (Note A) 
+2 Net Transmission Plant - Total Attach. H-34A, p. 2, line 14, col. 5 (Note B) 
+ 
+O&M EXPENSE 
+3 Total O&M Allocated to Transmission Attach. H-34A, p. 3, line 11, col. 5 
+4 Annual Allocation Factor for O&M (line 3 divided by line 1, col. 3) 
+ 
+GENERAL, INTANGIBLE, AND COMMON (G,I, & C) DEPRECIATION EXPENSE 
+5 Total G, I, & C depreciation expense 
+6 Annual allocation factor for G, I, & C depreciation expense 
+ 
+TAXES OTHER THAN INCOME TAXES  
+7  Total Other Taxes 
+8 Annual Allocation Factor for Other Taxes 
+ 
+9 Annual Allocation Factor for Expense 
+ 
+INCOME TAXES 
+10 Total Income Taxes 
+11 Annual Allocation Factor for Income Taxes 
+ 
+RETURN 
+12 Return on Rate Base 
+13 Annual Allocation Factor for Return on Rate Base 
+ 
+14 Annual Allocation Factor for Return 
+Attach. H-34A, p. 3, lines 13 & 14, col. 5  
+ (line 5 divided by line 1, col. 3) 
+ 
+ 
+Attach. H-34A, p. 3, line 23, col. 5  
+ (line 7 divided by line 1, col. 3) 
+ 
+Sum of line 4, 6, & 8 
+ 
+ 
+Attach. H-34A, p. 3, line 34, col. 5  
+ (line 10 divided by line 2, col. 3) 
+ 
+ 
+Attach. H-34A, p. 3, line 35, col. 5  
+ (line 12 divided by line 2, col. 3) 
+ 
+Sum of line 11 and 13  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 8 
+     
+Attachment H-34A, Attachment 11  
+ page 2 of 2  
+For the 12 months ended 12/31/2021  
+Transmission Enhancement Charge (TEC) Worksheet  
+To be completed in conjunction with Attachment H-34A  
+ 
+ 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) 
+ROE 
+Basis Pts Total 
+Annual Annual Adder Additional Incentive Annual Net Revenue 
+RTEP Allocation Annual Allocation Annual Project Annual for Annual Allocation Revenue Requirement 
+Project Project Factor for Expense Project Factor for Return Depreciation Revenue Incentive Factor for Return Require True-up with True-up 
+Line No. Project Name Number Gross Plant Expense Charge Net Plant Return Charge Expense Requirement Projects (Note F) ment Adjustment 
+Page 2 Col. 6 
+*(Attachment H-34A, (Sum 
+(Page 1, (Col. 3 * (Note D & Page 1, (Col. 6 * (Sum Col. 5, Page 4, line 29 *(Page Col. 10 & (Sum Col. 13 
+1 (Note C & H) line 9) Col. 4) H) line 14 Col. 7) (Note E) 8, & 9) (Note F) 2, Col. 11/100)) 12) (Note G) & 14) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Transmission Enhancement Credit taken to Attachment H-34A Page 1, Line 7, Col. 3 
+4 Additional Incentive Revenue taken to Attachment H-34A, Page 3, Line 38, Col. 3 
+Notes  
+A     Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-34A.  
+B     Net Transmission Plant is that identified on page 2 line 14 of Attachment H-34A.  
+C     Project Gross Plant is the total capital investment for the project calculated in the same method as the gross plant value in line 1 above.  This value includes subsequent capital investments required to maintain the project in-service.  
+D     Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation.  
+E     Project Depreciation Expense is the actual value booked for the project and included in the Depreciation Expense in Attachment H-34A, page 3, line 12.  
+F     Enter Commission approved project specific ROE incentive basis points adder which is a scaled factor against a 100 to derive the approved percentage adder  
+G     True-up adjustment is calculated on the project true-up schedule, attachment 12 column J. Enter values in Col. 14 as negative  
+H     Based on a 13-month average  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 9 
+        
+Attachment H-34A, Attachment 11a  
+ page 1 of 2  
+For the 12 months ended 12/31/2021  
+TEC Worksheet Support  
+Net Plant Detail  
+ 
+Line RTEP Project Project Gross 
+No. Project Name Number Plant Dec-20 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21 Jul-21 Aug-21 Sep-21 Oct-21 Nov-21 Dec-21 
+(Note A) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE:  
+[A] Project Gross Plant is the total capital investment for the project, including subsequent capital investments required to maintain the project in-service.  Utilizes a 13-month average. [D] Company records  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 10 
+          
+Attachment H-34A, Attachment 11a  
+ page 2 of 2  
+For the 12 months ended 12/31/2021  
+ 
+TEC Worksheet Support  
+Net Plant Detail  
+ 
+ 
+ 
+Accumulated Project Net 
+Depreciation Dec-20 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21 Jul-21 Aug-21 Sep-21 Oct-21 Nov-21 Dec-21 Plant 
+(Note B) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note D) (Note B & C) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE 
+ 
+[B] Utilizing a 13-month average [C] Taken to Attachment 11, Page 2, Col.6 [D] Company records 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 3 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment H-34A, Attachment 12  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+TEC - True-up  
+To be completed after Attachment 11 for the True-up Year is updated using actual data  
+(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) 
+ 
+Actual 
+Revenues 
+RTEP for 
+Line Project  Attachment 
+No. Project Name Number 11 
+ 
+Attachment  
+13b line 26, 
+col E 
+1 [A]  Actual RTEP Credit Revenues for true-up 
+year 0 
+ 
+2a Project 1 
+2b Project 2  
+2c  Project 3 
+Projected 
+Annual % of Total 
+Revenue Revenue Revenue 
+Requirement  Requirement Received 
+Projected  
+Attachment 
+11 
+p 2 of 2, col. Col d, line 2 / Col c, line 1 * 
+15 col. d, line 3 Col e 
+ 
+ 
+ 
+- - - 
+- - 
+- - 
+True-up 
+Actual Annual Adjustment 
+Revenue Principal 
+Requirement Over/(Under) 
+ 
+ 
+Actual 
+Attachment 11 
+p 2 of 2, col. 15    Col. f - Col. g 
+ 
+ 
+ 
+- - 
+- 
+- 
+Total True-up 
+Applicable Adjustment 
+Interest Rate on with Interest 
+Over/(Under) Over/(Under) 
+ 
+ 
+Col. h line 2x /  
+ Col. h. line 3*  
+ Col. j line 4  Col. h + Col. i  
+ 
+ 
+ 
+ 
+3 Subtotal - - - 
+ 
+4 Total Interest (Sourced from Attachment 13a, line 46) - 
+ 
+ 
+NOTE  
+[A]   Amount included in revenues reported on pages 328-330 of FERC Form 1.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 1 
+ 
+ 
+ 
+ 
+ 
+          
+          
+          
+          
+   
+   
+          
+       
+  
+ 
+ 
+      
+ 
+  
+ 
+ 
+     
+ 
+  
+ 
+ 
+                
+ 
+ 
+        
+ 
+ 
+     
+ 
+ 
+        
+ 
+ 
+        
+ 
+  
+ 
+ 
+ 
+    
+ 
+ 
+         
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+   
+        
+ 
+ 
+  
+ 
+    
+ 
+   
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+   
+        
+ 
+ 
+       
+ 
+   
+        
+ 
+ 
+        
+ 
+   
+        
+ 
+        
+ 
+   
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+   
+        
+ 
+ 
+       
+ 
+   
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+   
+        
+ 
+   
+        
+ 
+   
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+  
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 2 
+   
+ 
+ 
+ 
+          
+          
+          
+          
+   
+   
+          
+       
+  
+ 
+ 
+       
+  
+ 
+ 
+     
+ 
+  
+ 
+                  
+ 
+        
+ 
+ 
+     
+ 
+ 
+        
+ 
+ 
+        
+ 
+  
+ 
+ 
+ 
+    
+ 
+ 
+         
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+           
+ 
+ 
+  
+ 
+    
+ 
+           
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+           
+ 
+ 
+       
+ 
+           
+ 
+ 
+        
+ 
+           
+ 
+        
+ 
+           
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+           
+ 
+ 
+       
+ 
+           
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+           
+ 
+           
+ 
+           
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+ 
+        
+ 
+  
+  
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 3 
+       
+Attachment H-34A, Attachment 13b  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+ 
+ 
+(A) (B) (C) (D) (E) 
+PJM Bill 
+Line Month NITS Charge Code (A) - True-up (B) - Other (C) = Total 
+1 January - - 
+2 February - - 
+3 March - - 
+4 April - - 
+5 May - - 
+6 June - - 
+7 July - - 
+8 August - - 
+9 September - - 
+10 October - - 
+11 November - - 
+12 December - - 
+13 Total - - - - 
+ 
+PJM Bill 
+Month TEC Charge Code (A) - True-up (B) - Other (C) = Total 
+14 January - - 
+15 February - - 
+16 March - - 
+17 April - - 
+18 May - - 
+19 June - - 
+20 July - - 
+21 August - - 
+22 September - - 
+23 October - - 
+24 November - - 
+25 December - - 
+26 Total - - - - 
+ 
+ 
+ 
+Notes  
+(A) Amounts represent a subset of the total PJM bill for the entire AP Zone  
+(B) The PJM NITS & TEC charges will include a true-up for the (over)/under recovery from a prior rate period. The total without true-
+up for NITS and TEC will be taken to Attachment 12 and Attachment 13 respectively.  
+(C) Any charges shall be entered as positives and refunds shall be entered as negatives. Includes any necessary prior period adjustments 
+including those identified through the discovery or challenge procedures, as defined within the protocols. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 4 
+ 
+ 
+ 
+ 
+                                
+                                
+                             
+ 
+  
+                                
+                                
+                                
+   
+ 
+                            
+                                
+                                
+                                
+                                
+       
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+       
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+                            
+  
+  
+                              
+  
+  
+                            
+                                              
+                                  
+                                
+                                              
+                                  
+                                
+                                
+  
+      
+                        
+  
+      
+                        
+                                
+                                
+                                               
+                                               
+                                
+                                
+                                
+                                
+                                               
+                                               
+                                
+                                
+                                
+                                
+                                               
+                                               
+                                
+                                
+                                
+                                
+                                               
+                                               
+                                
+                                
+                                
+                                
+                                  
+                                               
+                                
+                                
+                                
+                                
+                                               
+                                               
+                                
+                                
+                                
+                                
+             
+     
+              
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 5 
+             
+     
+              
+             
+     
+              
+           
+     
+              
+           
+     
+              
+  
+ 
+                            
+  
+ 
+  
+       
+                  
+                                
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment H‐34A, Attachment 15  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+ 
+Excess and Deficient ADIT  
+Income Tax Adjustments Worksheet 
+ 
+ 
+ 
+ 
+Line  
+No. 
+ 
+Non‐property (Note A):  
+1  Account 190 
+1a  
+1b 
+2 Account 282 
+2a 
+3 Account 283 
+3a  
+3b  
+3c  
+3d 
+4 Non‐property gross up for Taxes 
+COLUMN A COLUMN B  
+ 
+(Excess)/Deficient ADIT 
+Description Transmission ‐ Beg Balance of Year 
+(Note B) 
+COLUMN C COLUMN D  
+ 
+Current Period Other  
+ Amortization Period 
+Activity  
+ (Note D)  
+(Note C) 
+ 
+ 
+ 
+ 
+ 
+‐ 
+COLUMN E COLUMN F COLUMN G COLUMN H  
+  
+   
+    
+       
+  
+  
+        
+ 
+‐  
+‐ 
+ 
+‐ 
+ 
+‐  
+‐  
+‐  
+‐ 
+‐ 
+ 
+5 
+ 
+ 
+Line  
+No. 
+ 
+ 
+6 
+7 
+8 
+9 
+ 
+Total Non‐Property 
+ 
+ 
+Description 
+ 
+ 
+Property (Note A): 
+Property Book‐Tax Timing Difference ‐ Account 190 
+Property Book‐Tax Timing Difference ‐ Account 282 
+Property Book‐Tax Timing Difference ‐ Account 283 
+Property Gross up for Taxes 
+ 
+‐  ‐ 
+ 
+(Excess)/Deficient ADIT Current Period Other 
+Transmission ‐ Beginning Balance of 
+Activity 
+Year  
+(Note B)  (Note C) 
+ 
+ 
+ 
+Amortization Period Years Remaining at Year 
+(Note D) End 
+ 
+ 
+ARAM ARAM 
+ARAM ARAM 
+ARAM ARAM 
+ 
+‐  ‐ 
+  
+   
+        
+  
+        
+‐  
+‐  
+‐  
+‐  
+10 Total Property (Total of lines 6 thru 9) ‐ ‐ ‐ ‐ 
+11 Amortized Excess/Deficient ADITs  (Note C) 
+12 Total Non‐Property & Property Amortization, excluding gross up for taxes (Total of lines 1‐3,6‐8 and 11) (Note G) ‐ 
+ 
+Notes:  
+A  Upon a tax rate change (federal, state and/or, if applicable, state apportionments), the Company remeasures its deferred tax assets and liabilities to account for the new applicable corporate tax rate.  For schedule M items not directly taken to the P&L, the result of this remeasurement is a change to  
+the net deferred tax assets/liabilities recorded in accounts 190, 282, and 283 with a corresponding change in regulatory assets (account 182.3) and regulatory liabilities (account 254) to reflect the return of/collection from excess/deficient deferred taxes to/from customers.  The remeasurement is  
+effectuated within PowerTax and Tax Provision, which maintain both the timing difference and APB11 deferred tax balance (the historical ADIT based on the timing difference and the rate in effect when the timing difference occurred).  The difference in the two results is reclassified from ADIT to  
+regulatory assets/liabilities for deficient/excess ADIT.  Within the FERC Form 1, deficient and excess ADITs in Account 182.3 and Account 254, respectively are presented grossed‐up for tax purposes.  For ratemaking purposes, these grossed‐up balances are treated as FAS109 and subsequently removed 
+from rate base, thereby ensuring rate base neutrality for tax rate changes.  The Company would follow the process described above to remeasure ADIT balances (increase or decrease) due to any future income tax rate change.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 6 
+B Beginning balance of year is the end of the prior year balance as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+C In the event the Company populates the data enterable fields, it will support the data entered as just and reasonable in its annual update 
+D The amortization periods shall be consistent with the following: 
+Protected Property & Non‐Protected Property: ARAM, or directly assigned based on average remaining life of assets for property items not in PowerTax 
+Protected Non‐Property & Non‐Protected Non‐Property will be directly assigned and presented in the table above 
+E The amortization of the tax reg asset/liability will occur through FERC income statement Accounts 410.1. and 411.1 for property and 410.1 for non‐property 
+F Ending balance of year is the end of current year balance, as reflected on FERC Form No. 1, pages 232 (Account 182.3) and 278 (Account 254) 
+G The amortization gross‐up for taxes occurs on Attachment H‐34A, page 3, line 33, Col. 3. ARO related EDIT shall not be included within the formula rate.
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 7 
+    
+Attachment H-34A, Attachment 16  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Abandoned Plant     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1.00  
+ 
+1.01  
+1.02  
+ 
+1.03  
+1.04  
+ 
+1.05  
+1.06  
+ 
+1.07  
+1.08  
+ 
+1.09  
+1.10  
+2 Total 
+ 
+ 
+ 
+ 
+ 
+Notes  
+(A) Only projects approved by the Commission will be included.  
+(B) Amortization Amount will be entered at year 0, although the actual amortization will only begin after Commission accepts or approves recovery of the cost of abandoned plant. For all subsequent years, the beginning amount will be the ending balance from the previous year  
+(C) Enter the year of amortization starting with 1 for the year the amortization begins and increment by 1 for every subsequent year until the amortization period ends  
+(D) Average calculated as [Sum of Columns (B) through (N)] ÷ 13  
+(E) Column O * Attachment H-34A, page 4, line 34, col. 6  
+(F) Column P * Attachment H-34A, page 3, line 25, col 3  
+(G) Column A + Column P + Column Q  
+(H) Revenue Requirement will not be billed until the year the amortization begins. Once a project is fully amortized, it will be removed from this attachment and will have no revenue requirement  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 8 
+      
+Attachment H-34A, Attachment 17  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Construction Work in Progress          
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) 
+2020 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 
+L December January Februar March August September October November December Average 
+n. Project ID Text Description 31 31 y 28/29 31 April 30 May 31 June 30 July 31 31 30 31 30 31 (a) 
+1 Construction Work in Progress (b) 
+[Placeholder 
+2a 1] - 
+[Placeholder 
+2b 2] - 
+ 
+3 Total CWIP in Rate Base - - - - - - - - - - - - - - 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes  
+(a) Average calculated as [Sum of Columns (C) through (O)] ÷ 13.  
+(b) CWIP will not be included unless authorized by the Commission  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment H-34A, Attachment 18  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+ 
+Federal Income Tax Rate  
+Nominal Federal Income Tax Rate 
+(entered on Attachment H-34A, page 
+5 of 5, Note K)  
+ 
+State Income Tax Rate  
+Combined Rate  
+(entered on Attachment H-
+ 34A,  
+page 5 of 5, Note K)  
+Nominal State Income Tax Rate  
+Times Apportionment Percentage  
+Combined State Income Tax Rate 0.000% 0.000% 0.000% 0.000% 0.000% 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 10 
+   
+Attachment H-34A, Attachment 19  
+ page 1 of 1  
+For the 12 months ended 12/31/2021  
+Regulatory Assets     
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) 
+2020 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 2021 
+Cumulative 
+Months Months Yearly 
+Regulatory Amortization Beginning of Amortized Remaining Monthly Amort. 
+Line Asset Name Amortization Source Amortization Period Year Amortization by end of at year Amort. Expense Jan Feb Mar Apr May June July August Average 

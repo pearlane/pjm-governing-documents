@@ -1,0 +1,1130 @@
+[ATTACHMENT K - Part 9 of 12]
+
+documented in the PJM Manuals), where all Load Serving Entities in the respective Electric 
+Distributor territory agree, the appropriate debit or credit shall be applied among Network 
+Service Users in proportion to their deliveries to load served in the applicable territory. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.6 Metering Reconciliation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 2 
+ 
+3.6.3 500 kV Meter Errors. 
+ 
+Billing shall be adjusted to account for errors in meters on 500 kV Transmission Facilities within 
+the PJM Pre-Expansion Zones (excluding Allegheny Power) or between the PJM Pre-Expansion 
+Zones (excluding Allegheny Power) and Allegheny Power.  The Market Participant with the tie 
+meter or generator meter experiencing the error shall account for the full amount of the 
+discrepancy and an appropriate debit or credit shall be applied among Electric Distributors that 
+report hourly net energy flows from metered Tie Lines in the Pre-Expansion Zones (excluding 
+Allegheny Power) in proportion to the load consumed in their territories.  The error shall be 
+accounted for by a correction at the end of the billing cycle.  For Market Participants that are 
+Electric Distributors that request the debit and credit to be further allocated to all Network 
+Service Users in their territory (as documented in the PJM Manuals), where all Load Serving 
+Entities in the respective Electric Distributor territory agree, the appropriate debit or credit shall 
+be applied among Network Service Users in proportion to their deliveries to load served in the 
+applicable territory.  Such allocation shall not include purchases of Direct Charging Energy. 
+ 
+3.6.4 Meter Corrections Between Control Areas. 
+ 
+An error between accounted for and metered interchange between a Party in the PJM Region and 
+an entity in a Control Area other than the PJM Region shall be corrected by adjusting the hourly 
+meter readings.  If this is not practical, the error shall be accounted for by a correction at the end 
+of the billing cycle.  The Market Participant with ties or Dynamic Transfers with such other 
+Control Area experiencing the error shall account for the full amount of the discrepancy.  
+However, if the meter correction applies to a tie on the 500 kV system between the PJM Pre-
+Expansion Zones (excluding Allegheny Power) and other Control Areas, Electric Distributors 
+that report hourly net energy flows from metered Tie Lines in the Pre-Expansion Zones 
+(excluding Allegheny Power) shall account for the full amount of the discrepancy in proportion 
+to the load consumed in their territories.  The appropriate debit or credit shall be applied among 
+Network Service Users in proportion to their deliveries to load served in the PJM Region.  Such 
+allocation shall not include purchases of Direct Charging Energy.  The Office of the 
+Interconnection will adjust the actual or scheduled interchange between the other Control Area 
+and the PJM Region to maintain a proper record of inadvertent energy flow.   
+ 
+3.6.5 Meter Correction Data. 
+ 
+Meter error data shall be submitted to the Office of the Interconnection not later than the last 
+Business Day of the month following the end of the monthly billing cycle applicable to the meter 
+correction. 
+ 
+3.6.6 Correction Limits. 
+ 
+A Market Participant may not assert a claim for an adjustment in billing as a result of a meter 
+error for any error discovered more than two years after the date on which the metering occurred.  
+Any claim for an adjustment in billing as a result of a meter error shall be limited to bills for 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.6 Metering Reconciliation 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 3 
+transactions occurring in the most recent annual accounting period of the billing Market 
+Participant in which the meter error occurred, and the prior annual accounting period. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT Attachment K Appendix Sec 3.7 Inadvertent Interchange 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 1 
+3.7 Inadvertent Interchange. 
+ 
+Inadvertent Interchange will be reconciled each hour by a charge allocation (positive or negative) 
+applied to Network Service Users in proportion to their deliveries to load in the PJM Region, 
+which shall be the product of the positive or negative Inadvertent Interchange amount times the 
+PJM load weighted average Locational Marginal Price for that hour.  Such allocation shall not 
+include purchases of Direct Charging Energy. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT ATT K APPX Sec 3.8 Market-to-Market Coordination 
+Effective Date: 8/1/2018 - Docket #: ER18-1730-000 - Page 1 
+3.8 Market-to-Market Coordination 
+ 
+The Office of the Interconnection shall charge or credit a Market Participant for the 
+transmission congestion from the Market Participant’s Pseudo-Tie generator within 
+MISO to the PJM-MISO interface resulting from market-to-market coordination pursuant 
+to this Operating Agreement, Schedule 1, section 3.8, and the parallel provisions of 
+Tariff, Attachment K-Appendix, section 3.8.  The Office of the Interconnection shall 
+calculate such charges and credits for the Real-time Energy Market for each Pseudo-Tie 
+generator using the following formulas.   
+ 
+RT Charge / CreditPT = RT CLMPPT * DevMWPT 
+ 
+Where: 
+ 
+RTCLMPPT = ∑RT ShadowPriceFG * (RT ShiftFactorFG,PT – RT ShiftFactorFG,Interface) 
+ 
+RTCLMPPT = Real-time congestion LMP for the path from 
+the Pseudo-Tie generator to the MISO-PJM 
+common interface. 
+ 
+RT ShadowPriceFG = Real-time shadow price for each M2M 
+Flowgate calculated in accordance with the 
+Joint Operating Agreement between the 
+Midcontinent Independent Transmission 
+System Operator, Inc. and PJM 
+Interconnection, L.L.C. 
+ 
+RT ShiftFactorFG,PT = Real-time shift factor for the Pseudo-Tie 
+generator and each M2M Flowgate. 
+ 
+ 
+Where: 
+ 
+DevMWPT = (RT MWPT – DA MWPT) 
+ 
+DevMWPT =  The megawatt deviation between the cleared 
+megawatts in the Day-ahead Energy Market 
+and Real-time Energy Market megawatt 
+output for a Pseudo-Tie generator. 
+ 
+RT MWPT = Real-time Energy Market megawatt output 
+for the Pseudo-Tie generator. 
+ 
+DA MWPT = Cleared and committed megawatts for a 
+Pseudo-Tie generator in the Day-ahead 
+Energy Market. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 3. ACCOUNTING 
+AND BILLING --> OATT ATT K APPX Sec 3.8 Market-to-Market Coordination 
+Effective Date: 8/1/2018 - Docket #: ER18-1730-000 - Page 2 
+ 
+The dollars refunded to or collected from the Pseudo-Tie generator will be, respectively, 
+distributed from or added to the Balancing Congestion Charges fund. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 4. [Reserved] 
+Effective Date: 10/28/2024 - Docket #: ER24-2905-000 - Page 1 
+4. [Reserved For Future Use] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE 
+Effective Date: 6/30/2024 - Docket #: ER24-374-001 - Page 1 
+5. CALCULATION OF CHARGES AND CREDITS FOR TRANSMISSION 
+CONGESTION AND LOSSES 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.1 Transmission Congestion 
+Effective Date: 8/5/2021 - Docket #: ER21-2079-000 - Page 1 
+5.1 Transmission Congestion Charge Calculation. 
+ 
+5.1.1 Calculation by Office of the Interconnection.   
+ 
+When the transmission system is operating under constrained conditions, or as necessary to 
+provide third-party transmission provider losses, the Office of the Interconnection shall calculate 
+Transmission Congestion Charges for each Network Service User, Market Participants in the 
+PJM Interchange Energy Market, and each Transmission Customer. 
+ 
+If a dollar-per-MW-hour value is applied in a calculation under this section 5.1 where the 
+interval of the value produced in that calculation is less than an hour, then for purposes of that 
+calculation the dollar-per-MW hour value is divided by the number of Real-time Settlement 
+Intervals in the hour. 
+ 
+5.1.2 General.   
+ 
+The Office of the Interconnection shall calculate Congestion Prices in the form of Day-ahead 
+Congestion Prices and Real-time Congestion Prices for the PJM Region, in accordance with 
+Section 2 of this Schedule. 
+ 
+5.1.3 Network Service User and Market Participant Calculations.   
+ 
+ (a) Each Network Service User shall be charged for the increased cost of energy 
+incurred by it during each constrained hour to deliver the output of its firm Generation Capacity 
+Resources or other owned or contracted for resources, its firm bilateral purchases, and its non-
+firm bilateral purchases as to which it has elected to pay Transmission Congestion Charges.   
+ 
+ (b) For each Day-ahead Settlement Interval, Market Participants shall be charged for 
+transmission congestion resulting from all Market Participant Energy Withdrawals scheduled in 
+the Day-ahead Energy Market at the Day-ahead Congestion Prices applicable to each relevant 
+location at which both the Market Participant withdraws energy and such energy is priced. 
+ 
+ (c) For each Day-ahead Settlement Interval, Market Participants shall be reimbursed 
+for transmission congestion resulting from all Market Participant Energy Injections scheduled in 
+the Day-ahead Energy Market at the Day-ahead Congestion Prices applicable to each relevant 
+location at which the Market Participant injects energy and such energy is priced. 
+ 
+ (d)  The day-ahead component of a Market Participant’s Transmission Congestion 
+Charge is equal to the difference between the total day-ahead transmission congestion 
+withdrawal charge calculated in subsection (b) and the total day-ahead transmission congestion 
+injection credit calculated in subsection (c). 
+ 
+ 
+ (e) (i) The amount of energy delivered at each generation bus is determined by 
+revenue meter data if available, or by the State Estimator, if revenue meter data is not available.  
+The total load actually served at each load bus is initially determined by the State Estimator.  For 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.1 Transmission Congestion 
+Effective Date: 8/5/2021 - Docket #: ER21-2079-000 - Page 2 
+each Electric Distributor that reports hourly net energy flows from metered tie lines and for 
+which all generators within the Electric Distributor’s territory report revenue quality, hourly net 
+energy delivered, the total revenue meter load within the Electric Distributor’s territory is 
+calculated as the sum of all net import energy flows reported by their tie revenue meters and all 
+net generation reported via generator revenue meters.  The amount of load at each of such 
+Electric Distributor’s load buses calculated by the State Estimator is then adjusted, in proportion 
+to its share of the total load of that Electric Distributor, in order that the total amount of load 
+across all of the Electric Distributor’s load buses matches its total revenue meter calculated load. 
+ 
+(ii) To determine the amount of load served by each LSE in an Electric Distributor’s 
+territory, PJMSettlement utilizes the information submitted into PJM’s internal energy 
+scheduling tool by LSEs and Electric Distributors for their respective load settlements (“load 
+contract”), including the names of the LSE responsible for serving the load and the Electric 
+Distributor in whose territory the load is located, the number of megawatts of load assigned to 
+the LSE for each hour, the Energy Settlement Area at which load is to be priced, and the start 
+and end dates for the load contract.  During the settlements process, load assigned to an LSE at a 
+specified Energy Settlement Area is further assigned to individual load buses included in the 
+Energy Settlement Area, based on the definition for the Energy Settlement Area as defined in 
+Section 31.7 of the PJM Tariff, which specifies the percentage of the Energy Settlement Area 
+that each bus represents, to identify the LSE’s hourly megawatts of load at each bus.  All 
+megawatts of load assigned to LSEs in an Electric Distributor’s territory as described herein are 
+subtracted from the total megawatts of load for which the Electric Distributor is responsible as 
+determined in subsection (e)(i) above. 
+ 
+(iii)  Electric Distributors that hold Provider of Last Resort (“POLR”) auctions or similar 
+load auctions may direct PJM to automatically assign megawatt hours for which the Electric 
+Distributor is responsible, as determined in subsection (e)(ii) above, to the LSEs whose bids were 
+accepted in the auction (“POLR Suppliers”) based on the tranches the POLR Suppliers won in 
+the auction, as a billing service, based on their contracts associated with the POLR load 
+programs. In such case, the POLR Supplier’s share of load shall be determined by multiplying 
+the megawatt hours at each bus that were not specifically assigned under load contracts by the 
+percentage of load won by the POLR Supplier in proportion to its share of the total POLR load 
+of the Electric Distributor.   This billing service may also apply to Electric Distributors and LSEs 
+that mutually agree upon a transfer of load from the EDC to the LSE based upon a specified 
+percentage of the megawatt hours at each bus that were not specifically assigned under load 
+contracts. 
+ 
+ (f) For each Real-time Settlement Interval, Market Participants shall be assessed for 
+Transmission Congestion Charges (positive or negative) in accordance with the following 
+equation: 
+ 
+ [(A – B) * C] – [(D – E) * C]  
+Where: 
+A = The Market Participant Energy Withdrawal megawatts in real-time at the location at 
+which both the Market Participant withdraws energy and such energy is priced;  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.1 Transmission Congestion 
+Effective Date: 8/5/2021 - Docket #: ER21-2079-000 - Page 3 
+B = The Market Participant Energy Withdrawal megawatts in day-ahead at the location at 
+which both the Market Participant withdraws energy and such energy is priced; 
+ 
+ C = Real-time Congestion Price; 
+ 
+D = The Market Participant Energy Injection megawatts in real-time at the location at 
+which both the Market Participant injects energy and such energy is priced; and  
+ 
+E = The Market Participant Energy Injection megawatts in day-ahead at the location at 
+which both the Market Participant injects energy and such energy is priced. 
+ 
+ 
+(g) The Revenue Data for Settlements determined for each Real-time Settlement Interval in 
+accordance with section 3.1A of this Schedule shall be used in determining the real-time 
+Market Participant Energy Withdrawals and Market Participant Energy Injections used to 
+calculate Transmission Congestion Charges under subsection (f). 
+  
+5.1.4 Transmission Customer Calculation.   
+ 
+Each Transmission Customer using Firm Point-to-Point Transmission Service (as defined in the 
+PJM Tariff), each Network Customer, and each Transmission Customer using Non-Firm Point-
+to-Point Transmission Service (as defined in the PJM Tariff) that has elected to pay 
+Transmission Congestion Charges, shall be charged for the increased cost of energy during the 
+applicable constrained settlement interval for the delivery of energy using such Transmission 
+Service.    
+ 
+(a) For each Day-ahead Settlement Interval, Transmission Congestion Charges shall be 
+assessed for transmission use scheduled in the Day-ahead Energy Market, calculated as 
+the scheduled amount to be delivered multiplied by the difference between the Day-ahead 
+Congestion Price at the delivery point or the delivery Interface Pricing Point at the 
+boundary of the PJM Region and the Day-ahead Congestion Price at the source point or 
+the source Interface Pricing Point at the boundary of the PJM Region.  
+  
+(b) For each Real-time Settlement Interval, Transmission Congestion Charges shall be 
+assessed for real-time transmission use in excess of the amounts scheduled for the 
+applicable interval in the Day-ahead Energy Market, calculated as the excess amount 
+multiplied by the difference between the Real-time Congestion Price at the delivery point 
+or the delivery Interface Pricing Point at the boundary of the PJM Region, and the Real-
+time Congestion Price at the source point or the source Interface Pricing Point at the 
+boundary of the PJM Region.  For each Real-time Settlement Interval, a Transmission 
+Customer shall be paid for Transmission Congestion Charges for real-time transmission 
+use falling below the amounts scheduled for the applicable interval in the Day-ahead 
+Energy Market, calculated as the shortfall amount multiplied by the difference between 
+the Real-time Congestion Price at the delivery point or the delivery Interface Pricing 
+Point at the boundary of the PJM Region, and the Real-time Congestion Price at the 
+source point or the source Interface Pricing Point at the boundary of the PJM Region.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.1 Transmission Congestion 
+Effective Date: 8/5/2021 - Docket #: ER21-2079-000 - Page 4 
+ 
+5.1.4A Transaction Calculation.   
+ 
+Each Market Participant entering into transactions in the PJM Interchange Energy Markets shall 
+be charged for the increased cost of energy during the applicable constrained settlement interval 
+for the delivery of energy on the scheduled path.   
+ 
+ 
+(a) For each Day-ahead Settlement Interval, Transmission Congestion Charges shall be 
+assessed for the transaction MWh scheduled in the Day-ahead Energy Market, calculated 
+as the scheduled amount to be delivered multiplied by the difference between the Day-
+ahead Congestion Price at the sink point and the Day-ahead Congestion Price at the 
+source point.  
+ 
+(b) For each Real-time Settlement Interval, Transmission Congestion Charges shall be 
+assessed for real-time MWh in excess of the amounts scheduled for the applicable 
+interval in the Day-ahead Energy Market, calculated as the excess amount multiplied by 
+the difference between the Real-time Congestion Price at the sink point and the Real-time 
+Congestion Price at the source point.  Such Market Participant shall be paid for 
+Transmission Congestion Charges for real-time MWh falling below the amounts 
+scheduled for the applicable interval in the Day-ahead Energy Market, calculated as the 
+shortfall amount multiplied by the difference between the Real-time Congestion Price at 
+the sink point and the Real-time Congestion Price at the source point.  The Revenue Data 
+for Settlements determined for each Real-time Settlement Interval in accordance with 
+section 3.1A of this Schedule shall be used in determining the real-time transactions used 
+to calculate Transmission Congestion Charges under this subsection (b).   
+ 
+5.1.5 Operating Margin Customer Calculation. 
+ 
+Each Control Area purchasing Operating Margin shall be assessed Transmission Congestion 
+Charges for any increase in the cost of energy resulting from the provision of Operating Margin.  
+The Transmission Congestion Charge shall be the amount of Operating Margin purchased in the 
+applicable settlement interval multiplied by the difference in the Locational Marginal Price at 
+what would be the delivery Interface Pricing Point and the Locational Marginal Price at what 
+would be the source Interface Pricing Point, if the operating contingency that was the basis for 
+the purchase of Operating Margin had occurred in that hour.  Operating Margin may be allocated 
+among multiple source and delivery Interface Pricing Points in accordance with an applicable 
+load flow study. 
+ 
+5.1.6  Reserved.  
+ 
+5.1.7  Reserved.   
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 1 
+5.2 Transmission Congestion Credit Calculation. 
+ 
+5.2.1 Eligibility.   
+ 
+ (a) Except as provided in section 5.2.1(b), each FTR Holder shall receive as a 
+Transmission Congestion Credit a proportional share of the Day-ahead Energy Market 
+Transmission Congestion Charges collected for each constrained hour. 
+ 
+ (b) If an Effective FTR Holder between specified delivery and receipt buses acquired 
+the Financial Transmission Right in a Financial Transmission Rights auction (the procedures for 
+which are set forth in section 7 of this Attachment K – Appendix) and had a Virtual Transaction 
+portfolio which includes Increment Offer(s), Decrement Bid(s), and/or Up-to Congestion 
+Transaction(s) that was accepted by the Office of the Interconnection for an applicable hour in 
+the Day-ahead Energy Market, whereby the Effective FTR Holder’s Virtual Transaction 
+portfolio resulted in (i) a difference in Location Marginal Prices in the Day-ahead Energy Market 
+between such delivery and receipt buses which is greater than the difference in Locational 
+Marginal Prices between such delivery and receipt buses in the Real-time Energy Market, and 
+(ii) an increasing the value between such delivery and receipt buses, then the Market Participant 
+shall not receive any Transmission Congestion Credit associated with such Financial 
+Transmission Right in such hour, that is attributable to the absolute value (i.e., the product of the 
+constraint’s shadow price times the distribution factor (dfax) of the difference between the 
+Financial Transmission Right delivery and receipt buses) of the relevant Day-ahead Energy 
+Market binding constraint (as further discussed in section 5.2.1(c) below), but no more than the 
+excess of one divided by the number of hours in the applicable period multiplied by the amount 
+that the Market Participant paid for the Financial Transmission Right in the Financial 
+Transmission Rights auction (i.e., FTR profit).  For the purposes of this calculation, every 
+individual Financial Transmission Right of an Effective FTR Holder shall be considered. 
+ 
+ (c) For purposes of section 5.2.1(b), an Effective FTR Holder’s Virtual Transaction 
+portfolio shall be considered if the absolute value of the attributable net flow across a Day-ahead 
+Energy Market binding constraint relative to the Day-ahead Energy Market load weighted 
+reference bus between the Financial Transmission Right delivery and receipt buses exceeds the 
+physical limit of such binding constraint by the greater of 0.1 MW or ten percent. 
+ 
+ (d) The Market Monitoring Unit shall calculate Transmission Congestion Credits 
+pursuant to this section and Tariff, Attachment M-Appendix, section VI. Nothing in this section 
+shall preclude the Market Monitoring Unit from action to recover inappropriate benefits from the 
+subject activity if the amount forfeited is less than the benefit derived by the Effective FTR 
+Holder. If the Office of the Interconnection agrees with such calculation, then it shall impose the 
+forfeiture of the Transmission Congestion Credit accordingly. If the Office of the 
+Interconnection does not agree with the calculation, then it shall impose a forfeiture of 
+Transmission Congestion Credit consistent with its determination. If the Market Monitoring Unit 
+disagrees with the Office of the Interconnection’s determination, it may exercise its powers to 
+inform the Commission staff of its concerns and may request an adjustment.  This provision is 
+duplicated in Tariff, Attachment M-Appendix, section VI.  An Effective FTR Holder objecting to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 2 
+the application of this rule shall have recourse to the Commission for review of the application of 
+the FTR forfeiture rule to its trading activity. 
+ 
+5.2.2 Financial Transmission Rights. 
+ 
+ (a) Transmission Congestion Credits will be calculated based upon the Financial 
+Transmission Rights held at the time of the constrained hour. Except as provided in subsection 
+(e) below, Financial Transmission Rights shall be auctioned as set forth in Operating Agreement, 
+Schedule 1, section 7.   
+ 
+ (b) The hourly economic value of a Financial Transmission Right Obligation is based 
+on the Financial Transmission Right MW reservation and the difference between the Day-ahead 
+Congestion Price at the point of delivery and the point of receipt of the Financial Transmission 
+Right.  The hourly economic value of a Financial Transmission Right Obligation is positive (a 
+benefit to the FTR Holder) when the Day-ahead Congestion Price at the point of delivery is 
+higher than the Day-ahead Congestion Price at the point of receipt.  The hourly economic value 
+of a Financial Transmission Right Obligation is negative (a liability to the FTR Holder) when the 
+Day-ahead Congestion Price at the point of receipt is higher than the Day-ahead Congestion 
+Price at the point of delivery. 
+ 
+ (c) The hourly economic value of a Financial Transmission Right Option is based on 
+the Financial Transmission Right MW reservation and the difference between the Day-ahead 
+Congestion Price at the point of delivery and the point of receipt of the Financial Transmission 
+Right when that difference is positive.  The hourly economic value of a Financial Transmission 
+Right Option is positive (a benefit to the FTR Holder) when the Day-ahead Congestion Price at 
+the point of delivery is higher than the Day-ahead Congestion Price at the point of receipt. The 
+hourly economic value of a Financial Transmission Right Option is zero (neither a benefit nor a 
+liability to the FTR Holder) when the Day-ahead Congestion Price at the point of receipt is 
+higher than the Day-ahead Congestion Price at the point of delivery. 
+ 
+ (d) In addition to transactions with PJMSettlement in the Financial Transmission 
+Rights auctions administered by the Office of the Interconnection, a Financial Transmission 
+Right, for its entire tenure or for a specified period, may be sold or otherwise transferred by a 
+FTR Holder to a third party by bilateral agreement, subject to compliance with such procedures 
+as may be established by the Office of the Interconnection. 
+ 
+  (i) Market Participants may enter into bilateral agreements for the transfer of 
+Financial Transmission Rights, for their entire tenure or for specified periods.  Such bilateral 
+agreements shall be reported to the Office of the Interconnection in accordance with this 
+Attachment K – Appendix and Operating Agreement, Schedule 1, Section 5.2.2(d), and the 
+LLC’s rules related to its FTR reporting tools.   
+ 
+  (ii) For purposes of clarity, with respect to all bilateral agreements for the 
+transfer of Financial Transmission Rights, the rights and obligations pertaining to the Financial 
+Transmission Rights transferred thereunder shall pass to the purchaser under such bilateral 
+agreement subject to the provisions of this Attachment K – Appendix and Operating Agreement, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 3 
+Schedule 1, Section 5.2.2(d).  The seller of Financial Transmission Rights in a bilateral 
+agreement shall confirm to the Office of Interconnection, through the FTR reporting tools 
+provided by the Office of Interconnection, that the seller has no continuing interest in the 
+Financial Transmission Rights following their transfer.  Such bilateral agreements shall not 
+modify the location or reconfigure the Financial Transmission Rights transferred thereunder.  In 
+no event shall the purchase and sale of a Financial Transmission Right pursuant to a bilateral 
+agreement constitute a transaction with PJMSettlement or a transaction in any auction under this 
+Attachment K – Appendix and Operating Agreement, Schedule 1, Section 5.2.2(d).   
+ 
+  (iii) Consent of the Office of the Interconnection shall be required for a seller 
+to transfer any Financial Transmission Right Obligation to a purchaser.  Such consent shall be 
+based upon the Office of the Interconnection’s assessment of the purchaser’s ability to perform 
+the obligations, including meeting applicable creditworthiness requirements, transferred in the 
+bilateral agreement.  If consent for a transfer is not provided by the Office of the Interconnection, 
+the title to the Financial Transmission Rights shall not transfer to the third party and the FTR 
+Holder shall continue to receive all Transmission Congestion Credits attributable to the Financial 
+Transmission Rights and remain subject to all credit requirements and obligations associated 
+with the Financial Transmission Rights.   
+ 
+  (iv) A seller under such a bilateral agreement shall guarantee and indemnify 
+the Office of the Interconnection, PJMSettlement, and the Members for the purchaser’s 
+obligation to pay any charges associated with the transferred Financial Transmission Right and 
+for which payment is not made to PJMSettlement by the purchaser under such a bilateral 
+agreement.   
+ 
+  (v) All payments and related charges associated with such a bilateral 
+agreement shall be arranged between the parties to such bilateral agreement and shall not be 
+billed or settled by PJMSettlement or the Office of the Interconnection.  The LLC, 
+PJMSettlement, and the Members will not assume financial responsibility for the failure of a 
+party to perform obligations owed to the other party under such a bilateral agreement reported to 
+the Office of the Interconnection under this Attachment K – Appendix and Operating 
+Agreement, Schedule 1, Section 5.2.2(d).   
+ 
+  (vi) All claims regarding a default of a purchaser to a seller under such a 
+bilateral agreement shall be resolved solely between the purchaser and the seller.  Reports of 
+bilateral Financial Transmission Rights agreements shall include all primary economic terms 
+(PET) data requested by the Office of Interconnection through its FTR reporting tools.  A report 
+of a bilateral Financial Transmission Rights agreement shall be made no later than 48 hours 
+following the execution of such agreement between the parties, and changes to any previously 
+reported PET data shall be reported to the Office of Interconnection within 48 hours. The 
+purchaser in a bilateral Financial Transmission Rights agreement shall upload the underlying 
+contract document to the Office of Interconnection within 48 hours of execution to allow for 
+verification of reported PET data; provided, however, that if the underlying contract document is 
+in the form of a standard master agreement (such as the ISDA Master Agreement), the purchaser 
+shall be required to upload the bilateral Financial Transmission Rights transaction confirmation 
+including any and all special terms and provisions contained in the parties’ agreement.  All 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 4 
+underlying contract documents which are provided to the Office of Interconnection pursuant to 
+the requirements set forth herein shall be treated as confidential.  
+ 
+  (vii) PET shall include (1) the name of the seller, (2) the name of the buyer, (3) 
+the FTR start date and (4) end date, (5) the quantity of the FTR transferred, (6) the source and 
+sink of the underlying FTR, (7) the FTR market auction in which the FTRs were originally 
+purchased, (8) the FTR class, (9) the price and (10) execution date of the FTR bilateral 
+agreement. The Price field shall reflect the actual price executed and confirmed between parties 
+for each FTR transaction or the executed and confirmed full value of the FTR bundle. 
+ 
+ (e) Network Service Users and Firm Transmission Customers that take service that 
+sinks, sources in, or is transmitted through new PJM zones, at their election, may receive a direct 
+allocation of Financial Transmission Rights instead of an allocation of Auction Revenue Rights.  
+Network Service Users and Firm Transmission Customers may make this election for the 
+succeeding two annual FTR auctions after the integration of the new zone into the PJM 
+Interchange Energy Market.  Such election shall be made prior to the commencement of each 
+annual FTR auction.   For purposes of this election, the Allegheny Power Zone shall be 
+considered a new zone with respect to the annual Financial Transmission Right auction in 2003 
+and 2004.  Network Service Users and Firm Transmission Customers in new PJM zones that 
+elect not to receive direct allocations of Financial Transmission Rights shall receive allocations 
+of Auction Revenue Rights.  During the annual allocation process, the Financial Transmission 
+Right allocation for new PJM zones shall be performed simultaneously with the Auction 
+Revenue Rights allocations in existing and new PJM zones.  Prior to the effective date of the 
+initial allocation of FTRs in a new PJM Zone, PJM shall file with FERC, under section 205 of 
+the Federal Power Act, the FTRs and ARRs allocated in accordance with sections 5 and 7 of this 
+Schedule 1. 
+ 
+ (f) For Network Service Users and Firm Transmission Customers that take service 
+that sinks in, sources in, or is transmitted through new PJM zones, that elect to receive direct 
+allocations of Financial Transmission Rights, Financial Transmission Rights shall be allocated 
+using the same allocation methodology as is specified for the allocation of Auction Revenue 
+Rights in Operating Agreement, Schedule 1, section 7.4.2 and in accordance with the following:   
+ 
+  (i) Subject to subsection (ii) of this section, all Financial Transmission Rights 
+must be simultaneously feasible. If all Financial Transmission Right requests made when 
+Financial Transmission Rights are allocated for the new zone are not feasible then Financial 
+Transmission Rights are prorated and allocated in proportion to the MW level requested and in 
+inverse proportion to the effect on the binding constraints. 
+ 
+  (ii) If any Financial Transmission Right requests that are equal to or less than 
+sixty percent (60%) of a Network Service User’s proportion of peak load in the Zone or fifty 
+percent of its transmission responsibility for Non-Zone Network Load, or fifty percent of 
+megawatts of firm service between the receipt and delivery points of Firm Transmission 
+Customers, are not feasible in the annual allocation and auction processes due to system 
+conditions, then PJM shall increase the capability limits of the binding constraints that would 
+have rendered the Financial Transmission Rights infeasible to the extent necessary in order to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 5 
+allocate such Financial Transmission Rights without their being infeasible for all rounds of the 
+annual allocation and auction processes, provided that this subsection (ii) shall not apply if the 
+infeasibility is caused by extraordinary circumstances.  Additionally, such increased limits shall 
+be included in subsequent modeling during the Planning Year to support any incremental 
+allocations of Auction Revenue Rights and monthly and balance of the Planning Period Financial 
+Transmission Rights auctions; unless and to the extent those system conditions that contributed 
+to infeasibility in the annual process are not extant for the time period subject to the subsequent 
+modeling, such as would be the case, for example, if transmission facilities are returned to 
+service during the Planning Year.  In these cases, any increase in the capability limits taken 
+under this subsection (ii) during the annual process will be removed from subsequent modeling 
+to support any incremental allocations of Auction Revenue Rights and monthly and balance of 
+the Planning Period Financial Transmission Rights auctions.  In addition, PJM may remove or 
+lower the increased capability limits, if feasible, during subsequent FTR Auctions if the removal 
+or lowering of the increased capability limits does not impact Auction Revenue Rights funding 
+and net auction revenues are positive. 
+ 
+For the purposes of this subsection (ii), extraordinary circumstances shall mean an event of force 
+majeure that reduces the capability of existing or planned transmission facilities and such 
+reduction in capability is the cause of the infeasibility of such Financial Transmission Rights.  
+Extraordinary circumstances do not include those system conditions and assumptions modeled in 
+simultaneous feasibility analyses conducted pursuant to Operating Agreement, Schedule 1, 
+section 7.5 of Schedule 1 of this Agreement.  If PJM allocates Financial Transmission Rights as 
+a result of this subsection (ii) that would not otherwise have been feasible, then PJM shall notify 
+Members and post on its web site (a) the aggregate megawatt quantities, by sources and sinks, of 
+such Financial Transmission Rights and (b) any increases in capability limits used to allocate 
+such Financial Transmission Rights. 
+ 
+  (iii) In the event that Network Load changes from one Network Service User 
+to another after an initial or annual allocation of Financial Transmission Rights in a new zone, 
+Financial Transmission Rights will be reassigned on a proportional basis from the Network 
+Service User losing the load to the Network Service User that is gaining the Network Load. 
+ 
+ (g) At least one month prior to the integration of a new zone into the PJM 
+Interchange Energy Market, Network Service Users and Firm Transmission Customers that take 
+service that sinks in, sources in, or is transmitted through the new zone, shall receive an initial 
+allocation of Financial Transmission Rights that will be in effect from the date of the integration 
+of the new zone until the next annual allocation of Financial Transmission Rights and Auction 
+Revenue Rights.  Such allocation of Financial Transmission Rights shall be made in accordance 
+with Operating Agreement, Schedule 1, section 5.2.2(f) of this Schedule. 
+ 
+ (h) Reserved. 
+   
+5.2.3 Target Allocation of Transmission Congestion Credits.   
+ 
+A Target Allocation of Transmission Congestion Credits for each FTR Holder shall be 
+determined for each Financial Transmission Right.  Each Financial Transmission Right shall be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 6 
+multiplied by the Day-ahead Congestion Price differences for the receipt and delivery points 
+associated with the Financial Transmission Right, calculated as the Day-ahead Congestion Price 
+at the delivery point(s) minus the Day-ahead Congestion Price at the receipt point(s).  For the 
+purposes of calculating Transmission Congestion Credits, the Day-ahead Congestion Price of a 
+Zone is calculated as the sum of the Day-ahead Congestion Price of each bus that comprises the 
+Zone multiplied by the percent of annual peak load assigned to each node in the Zone.   
+Commencing with the 2015/2016 Planning Period, for the purposes of calculating Transmission 
+Congestion Credits, the Day-ahead Congestion Price of a Residual Metered Load aggregate is 
+calculated as the sum of the Day-ahead Congestion Price of each bus that comprises the Residual 
+Metered Load aggregate multiplied by the percent of the annual peak residual load assigned to 
+each bus that comprises the Residual Metered Load aggregate.  When the FTR Target Allocation 
+is positive, the FTR Target Allocation is a credit to the FTR Holder.  When the FTR Target 
+Allocation is negative, the FTR Target Allocation is a debit to the FTR Holder if the FTR is a 
+Financial Transmission Right Obligation.  When the FTR Target Allocation is negative, the FTR 
+Target Allocation is set to zero if the FTR is a Financial Transmission Right Option.  The total 
+Target Allocation for Network Service Users and Transmission Customers for each hour shall be 
+the sum of the Target Allocations associated with all of the Network Service Users’ or 
+Transmission Customers’ Financial Transmission Rights. 
+ 
+During a Market Suspension where there are no Day-ahead Prices available for the affected 
+Operating Day, the aforementioned Day-ahead Congestion Price will be substituted with the 
+hourly integrated Real-time Congestion Price as determined in Operating Agreement, Schedule 
+1, section 2.5. 
+ 
+For a Market Suspension where the suspension is greater than twenty-four (24) consecutive 
+hours, which may span up to two Operating Days, and there are no Day-ahead Prices available 
+for the affected Operating Day, the Day-ahead Financial Transmission Right Target Allocation 
+values would be equal to zero for the hours corresponding to this suspension interval. 
+ 
+5.2.4 [Reserved.] 
+ 
+5.2.5 Calculation of Transmission Congestion Credits. 
+ 
+ (a) The total of all the positive Target Allocations determined as specified above shall 
+be compared to the Day-ahead Energy Market Transmission Congestion Charges in each hour.  
+If the total of the Target Allocations is less than or equal to the total of the Day-ahead Energy 
+Market Transmission Congestion Charges, the Transmission Congestion Credit for each entity 
+holding an FTR shall be equal to its Target Allocation.  All remaining Day-ahead Energy Market 
+Transmission Congestion Charges shall be distributed as described below in Operating 
+Agreement, Schedule 1, section 5.2.6 “Distribution of Excess Congestion Charges.” 
+ 
+ (b) If the total of the Target Allocations is greater than the Day-ahead Energy Market  
+Transmission Congestion Charges for the hour, each FTR Holder shall be assigned a share of the 
+Day-ahead Energy Market Transmission Congestion Charges in proportion to its Target 
+Allocations for Financial Transmission Rights which have a positive Target Allocation value.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 7 
+Financial Transmission Rights which have a negative Target Allocation value are assigned the 
+full Target Allocation value as a negative Transmission Congestion Credit.   
+ 
+ (c) At the end of a Planning Period if all FTR Holders did not receive Transmission 
+Congestion Credits equal to their Target Allocations, the Office of the Interconnection shall 
+assess a charge equal to the difference between the Transmission Congestion Credit Target 
+Allocations for all revenue deficient FTRs and the actual Transmission Congestion Credits 
+allocated to those FTR Holders.  A charge assessed pursuant to this section shall also include any 
+aggregate charge assessed pursuant to Operating Agreement, Schedule 1, section 7.4.4(c) and 
+shall be allocated to all FTR Holders on a pro-rata basis according to the total Target Allocations 
+for all FTRs held at any time during the relevant Planning Period.  The charge shall be calculated 
+and allocated in accordance with the following methodology: 
+ 
+  1. The Office of the Interconnection shall calculate the total amount of uplift 
+required as {[sum of the total monthly deficiencies in FTR Target Allocations for the Planning 
+Period + the sum of the ARR Target Allocation deficiencies determined pursuant to Operating 
+Agreement, Schedule 1, section 7.4.4(c)] – [sum of the total monthly excess ARR revenues and 
+excess Day-ahead Energy Market Transmission Congestion Charges for the Planning Period]}. 
+ 
+  2. For each Market Participant that held an FTR during the Planning Period, the 
+Office of the Interconnection shall calculate the total Target Allocation associated with all FTRs 
+held by the Market Participant during the Planning Period, provided that, the foregoing 
+notwithstanding, if the total Target Allocation for an individual Market Participant calculated 
+pursuant to this section is negative the Office of Interconnection shall set the value to zero. 
+ 
+  3. The Office of the Interconnection shall then allocate an uplift charge to each 
+Market Participant that held an FTR at any time during the Planning Period in accordance with 
+the following formula:  {[total uplift] * [total Target Allocation for all FTRs held by the Market 
+Participant at any time during the Planning Period] / [total Target Allocations for all FTRs held 
+by all PJM Market Participants at any time during the Planning Period]}. 
+ 
+5.2.6 Distribution of Excess Congestion Charges. 
+ 
+ (a) Excess Day-ahead Energy Market Transmission Congestion Charges accumulated 
+in a month shall be distributed to each FTR Holder in proportion to, but not more than, any 
+deficiency in the share of Day-ahead Energy Market Transmission Congestion Charges received 
+by the FTR Holder during that month as compared to its total Target Allocations for the month. 
+ 
+ (b) After the excess Day-ahead Energy Market Transmission Congestion Charge 
+distribution described in Operating Agreement, Schedule 1, section 5.2.6(a) is performed, any 
+excess Day-ahead Energy Market Transmission Congestion Charges remaining at the end of a 
+month shall be distributed to each FTR Holder in proportion to, but not more than, any 
+deficiency in the share of Day-ahead Energy Market Transmission Congestion Charges received 
+by the FTR Holder during the current Planning Period, including previously distributed excess 
+Day-ahead Energy Market Transmission Congestion Charges, as compared to its total Target 
+Allocation for the Planning Period. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.2 Transmission Congestion 
+Effective Date: 6/30/2024 - Docket #: ER24-374-002 - Page 8 
+ 
+ (c) Any excess Day-ahead Energy Market Transmission Congestion Charges 
+remaining at the end of a Planning Period shall be distributed to each holder of Auction Revenue 
+Rights in proportion to, but not more than, any Auction Revenue Right deficiencies for that 
+Planning Period.   
+ 
+  (d) Any excess Day-ahead Energy Market Transmission Congestion Charges 
+remaining after a distribution pursuant to subsection (c) of this section shall be distributed to all 
+ARR holders on a pro-rata basis according to the total Target Allocations for all ARRs held at 
+any time during the relevant Planning Period.  Any allocation pursuant to this subsection (d) 
+shall be conducted in accordance with the following methodology: 
+ 
+  1. For each Market Participant that held an ARR during the Planning Period, the 
+Office of the Interconnection shall calculate the total Target Allocation associated with all ARRs 
+held by the Market Participant during the Planning Period, provided that, the foregoing 
+notwithstanding, if the total Target Allocation for an individual Market Participant calculated 
+pursuant to this section is negative the Office of the Interconnection shall set the value to zero. 
+ 
+  2. The Office of the Interconnection shall then allocate an excess Day-ahead 
+Energy Market Transmission Congestion Charge credit to each Market Participant that held an 
+ARR at any time during the Planning Period in accordance with the following formula:  {[total 
+excess Day-ahead Energy Market Transmission Congestion Charges remaining after 
+distributions pursuant to subsection (a)-(c) of this section] * [total Target Allocation for all ARRs 
+held by the Market Participant at any time during the Planning Period] / [total Target Allocations 
+for all ARRs held by all PJM Market Participants at any time during the Planning Period]}. 
+ 
+5.2.7 Allocation of Balancing Congestion Charges 
+ 
+At the end of each hour during an Operating Day, the Office of the Interconnection shall allocate 
+the Balancing Congestion Charges to real-time load and exports on a pro-rata basis.  Such 
+allocation shall not include purchases of Direct Charging Energy. 
+ 
+During a Market Suspension where the suspension has no Day-ahead Prices or if the suspension 
+is less than or equal to twenty-four (24) hours, which may span up to two Operating Days, and 
+there are no Day-ahead Prices available for the affected Operating Day, for each hour 
+corresponding to this suspension interval, the Office of the Interconnection shall allocate the 
+Balancing Congestion Charges to Financial Transmission Right Target Allocation values before 
+being allocated to real-time load and exports on a pro-rata basis. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.3 Unscheduled Transm 
+Effective Date: 11/2/2020 - Docket #: ER20-2799-000 - Page 1 
+5.3 Unscheduled Transmission Service (Loop Flow). 
+ 
+ (a) When there are agreements between the Office of the Interconnection and others 
+for compensation to be paid or received for unscheduled transmission service (loop flow) into or 
+out of the PJM Region, the net compensation received shall be included in the Balancing 
+Congestion Charges that are distributed in accordance with Tariff, Attachment K-Appendix, 
+section 5.2. 
+ 
+  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.4 Transmission Loss Charge 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 1 
+5.4 Transmission Loss Charge Calculation. 
+ 
+5.4.1 Calculation by Office of the Interconnection. 
+ 
+The Office of the Interconnection shall calculate Transmission Loss Charges for each Network 
+Service User, Market Participant in the PJM Interchange Energy Market, and each Transmission 
+Customer. 
+ 
+5.4.2 General. 
+ 
+ (a) The basis for the Transmission Loss Charges shall be the differences in the 
+Locational Marginal Prices, defined as the Loss Price at a bus, between points of delivery and 
+points of receipt, as determined in accordance with Section 2 of this Schedule.  
+ 
+(b) The Office of the Interconnection shall calculate Loss Prices in the form of Day-ahead 
+Loss Prices and Real-time Loss Prices for the PJM Region, in accordance with Section 2 of this 
+Schedule. 
+ 
+(c) If a dollar-per-MW-hour value is applied in a calculation under this section 5.4 where the 
+interval of the value produced in that calculation is less than an hour, then for purposes of that 
+calculation the dollar-per-MW hour value is divided by the number of Real-time Settlement 
+Intervals in the hour. 
+ 
+5.4.3 Network Service User and Market Participant Calculations. 
+ 
+ (a) Each Network Service User shall be charged for the increased cost of 
+transmission losses to deliver the output of its firm Capacity Resources or other owned or 
+contracted for resources, its firm bilateral purchases, and its non-firm bilateral purchases.   
+ 
+ (b) For each Day-ahead Settlement Interval, Market Participants shall be charged for 
+transmission losses resulting from all Market Participant Energy Withdrawals scheduled  in the 
+Day-ahead Energy Market at the Day-ahead Loss Price applicable to each relevant location at 
+which both the Market Participant withdraws energy and such energy is priced. 
+ 
+ (c) For each Day-ahead Settlement Interval, Market Participants shall be reimbursed 
+for transmission losses resulting from all Market Participant Energy Injections scheduled in the 
+Day-ahead Energy Market at the Day-ahead Loss Price applicable to each relevant location at 
+which both the Market Participant injects energy and such energy is priced. 
+ 
+ (d) The day-ahead component of a Market Participant’s Transmission Loss Charge is 
+equal to the difference between the total day-ahead transmission loss withdrawal charge 
+calculated in paragraph (b) and the total day-ahead transmission loss injection credit calculated 
+in paragraph (c).  
+ 
+ (e) (i) The amount of energy delivered at each generation bus is determined by 
+revenue meter data, if available, or by the State Estimator, if revenue meter data is not available.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.4 Transmission Loss Charge 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 2 
+The total load actually served at each load bus is initially determined by the State Estimator.  For 
+each Electric Distributor that reports hourly net energy flows from metered Tie Lines and for 
+which all generators within the Electric Distributor’s territory report revenue quality, hourly net 
+energy delivered, the total revenue meter load within the Electric Distributor’s territory is 
+calculated as the sum of all net import energy flows reported by their tie revenue meters and all 
+net generation reported via generator revenue meters.  The amount of load at each of such 
+Electric Distributor’s load buses calculated by the State Estimator is then adjusted, in proportion 
+to its share of the total load of that Electric Distributor, in order that the total amount of load 
+across all of the Electric Distributor’s load buses matches its total revenue meter calculated load. 
+ 
+(ii) To determine the amount of load served by each LSE in an Electric Distributor’s 
+territory, PJMSettlement utilizes the information submitted into PJM’s internal energy 
+scheduling tool by LSEs and Electric Distributors for their respective load contracts, including 
+the names of the LSE responsible for serving the load and the Electric Distributor in whose 
+territory the load is located, the number of megawatts of load assigned to the LSE for each hour, 
+the Energy Settlement Area at which load is to be priced, and the start and end dates for the load 
+contract.  During the settlements process, load assigned to an LSE at a specified Energy 
+Settlement Area is further assigned to individual load buses included in the Energy Settlement 
+Area, based on the definition for the Energy Settlement Area as defined in Section 31.7 of the 
+PJM Tariff, which specifies the percentage of the Energy Settlement Area that each bus 
+represents, to identify the LSE’s hourly megawatts of load at each bus.  All megawatts of load 
+assigned to LSEs in an Electric Distributor’s territory as described herein are subtracted from the 
+total megawatts of load for which the Electric Distributor is responsible as determined in 
+subsection (e)(i) above. 
+ 
+(iii) Electric Distributors that hold POLR auctions or similar load auctions may direct 
+PJM to automatically assign megawatt hours for which the Electric Distributor is responsible, as 
+determined in subsection (e)(ii) above, to the POLR Suppliers based on the tranches the POLR 
+Suppliers won in the auction, as a billing service, based on their contracts associated with the 
+POLR load programs. In such case, the POLR Supplier’s share of load shall be determined by 
+multiplying the megawatt hours at each bus that were not specifically assigned under load 
+contracts by the percentage of load won by the POLR Supplier in proportion to its share of the 
+total POLR load of the Electric Distributor.   This billing service may also apply to Electric 
+Distributors and LSEs that mutually agree upon a transfer of load from the EDC to the LSE 
+based upon a specified percentage of the megawatt hours at each bus that were not specifically 
+assigned under load contracts. 
+ 
+ (f) For each real-time Settlement Interval, Market Participants shall be assessed for 
+transmission losses charges (positive or negative) in accordance with the following equation: 
+ 
+ [(A – B) * C] – [(D – E) * C]  
+ 
+Where:  
+A = The Market Participant Energy Withdrawal megawatts in real-time at the location at 
+which both the Market Participant withdraws energy and such energy is priced;  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.4 Transmission Loss Charge 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 3 
+B = The Market Participant Energy Withdrawal megawatts in day-ahead at the location at 
+which both the Market Participant withdraws energy and such energy is priced; 
+ 
+ C = Real-time Loss Price; 
+ 
+D = The Market Participant Energy Injection megawatts in real-time at the location at 
+which both the Market Participant injects energy and such energy is priced; and  
+ 
+E = The Market Participant Energy Injection megawatts in day-ahead at the location at 
+which both the Market Participant injects energy and such energy is priced. 
+ 
+ 
+(g) The Revenue Data for Settlements determined for each Real-time Settlement Interval in 
+accordance with section 3.1A of this Schedule shall be used in determining the real-time Market 
+Participant Energy Withdrawals and Market Participant Energy Injections used to calculate 
+transmission losses charges under subsection (f).  
+ 
+5.4.4 Transmission Customer Calculation. 
+ 
+Each Transmission Customer using Firm Point-to-Point Transmission Service (as defined in the 
+PJM Tariff), each Network Customer, and each Transmission Customer using Non-Firm Point-
+to-Point Transmission Service (as defined in the PJM Tariff), shall be charged for the increased 
+cost of transmission losses for the delivery of energy using such Transmission Service.   
+ 
+(a) For each Day-ahead Settlement Interval, Transmission Loss Charges shall be assessed for 
+transmission use scheduled in the Day-ahead Energy Market, calculated as the scheduled 
+amount to be delivered multiplied by the difference between the Day-ahead Loss Price at 
+the delivery point or the delivery interface at the boundary of the PJM Region and the 
+Day-ahead Loss Price at the source point or the source interface at the boundary of the 
+PJM Region.   
+ 
+(b) For each Real-time Settlement Interval, Transmission Loss Charges shall be assessed for 
+real-time transmission use in excess of the amounts scheduled for the applicable interval 
+in the Day-ahead Energy Market, calculated as the excess amount multiplied by the 
+difference between the Real-time Loss Price at the delivery point or the delivery interface 
+at the boundary of the PJM Region, and the Real-time Loss Price at the source point or 
+the source interface at the boundary of the PJM Region.  For each Real-time Settlement 
+Interval, a Transmission Customer shall be paid for Transmission Loss Charges for real-
+time transmission use falling below the amounts scheduled for the applicable interval in 
+the Day-ahead Energy Market, calculated as the shortfall amount multiplied by the 
+difference between the Real-time Loss Price at the delivery point or the delivery interface 
+at the boundary of the PJM Region, and the Real-time Loss Price at the source point or 
+the source interface at the boundary of the PJM Region or the source Interface Pricing 
+Point at the boundary of the PJM Region.   
+ 
+5.4.4A Transaction Calculation. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.4 Transmission Loss Charge 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 4 
+ 
+Each Market Participant entering into transactions in the PJM Interchange Energy Market shall 
+be charged for the increased cost of transmission losses on the scheduled path for the applicable 
+interval. 
+ 
+(a) For each Day-ahead Settlement Interval, Transmission Loss Charges shall be assessed for 
+the transaction MWh scheduled in the Day-ahead Energy Market, calculated as the 
+scheduled amount to be delivered multiplied by the difference between the Day-ahead 
+Loss Price at the sink point and the Day-ahead Loss Price at the source point.  
+ 
+(b)  For each Real-time Settlement Interval, Transmission Loss Charges shall be assessed for 
+real-time MWh in excess of the amounts scheduled for the applicable interval in the Day-
+ahead Energy Market, calculated as the excess amount multiplied by the difference 
+between the Real-time Loss Price at the sink point and the real-time Loss Price at the 
+source point.  Such Market Participant shall be paid for Transmission Loss Charges for 
+real-time MWh falling below the amounts scheduled for the applicable interval in the 
+Day-ahead Energy Market, calculated as the shortfall amount multiplied by the difference 
+between the Real-time Loss Price at the sink point and the Real-time Loss Price at the 
+source point.  The Revenue Data for Settlements determined for each Real-time 
+Settlement Interval in accordance with section 3.1A of this Schedule shall be used in 
+determining the real-time transactions used to calculate Transmission Loss Charges under 
+this subsection (b).     
+ 
+ 
+5.4.5 Total Transmission Loss Charges. 
+ 
+The total Transmission Loss Charges collected by PJMSettlement each hour will be the 
+aggregate net amounts determined as specified in this Schedule and in accordance with the PJM 
+Manuals. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.5 Distribution of Total 
+Effective Date: 12/3/2019 - Docket #: ER19-469-002 - Page 1 
+5.5 Distribution of Total Transmission Loss Charges. 
+ 
+The total Transmission Loss Charges accumulated by PJMSettlement in any hour shall be 
+distributed pro-rata to each Network Service User and Transmission Customer in proportion to 
+its ratio shares of the total MWhs of energy delivered to load ((a) net of operating Behind The 
+Meter Generation, but not to be less than zero; and (b) excluding Direct Charging Energy) in the 
+PJM Region, or the total exports of MWh of energy from the PJM Region (that paid for 
+transmission service during such hour). Exports of energy for which Non-Firm Point-to-Point 
+Transmission Service was utilized and for which the Non-Firm Point-to-Point Transmission Service rate 
+was paid will receive an allocation of the total Transmission Loss Charges based on a percentage of the 
+MWh of energy exported on such service, determined by the ratio of Non-Firm Point-to-Point 
+Transmission Service rate to Firm Point-to-Point Transmission Service rate. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.6 Transmission Constraint 
+Effective Date: 6/1/2023 - Docket #: ER26-1099-000 - Page 1 
+5.6 Transmission Constraint Penalty Factors 
+ 
+5.6.1 Application of Transmission Constraint Penalty Factors in the Day-ahead and Real-
+time Energy Markets 
+ 
+In the Day-ahead Energy Market, the Transmission Constraint Penalty Factors shall be used to 
+ensure a feasible market clearing solution but not used to determine the Marginal Value of a 
+transmission constraint.  In the Real-time Energy Market, the Office of the Interconnection shall 
+use Transmission Constraint Penalty Factors to determine the Marginal Value for a transmission 
+constraint when that transmission constraint cannot be managed within the binding transmission 
+limit in a dispatch interval.  If a Market Suspension greater than twenty-four (24) consecutive 
+hours is declared in the Real-time Energy Market as per Operating Agreement, Schedule 1, 
+section 2.5.2, Transmission Constraint Penalty Factors shall not be used to determine the 
+Marginal Value of a transmission constraint.  The Marginal Value of the transmission constraint 
+shall be used in the determination of the Congestion Price component of Locational Marginal 
+Price as referenced in Tariff, Attachment K-Appendix, section 2.5 through Tariff, Attachment K-
+Appendix, section 2.6, and the parallel provisions of Operating Agreement, Schedule 1, section 
+2.5 through Operating Agreement, Schedule 1, section 2.6.  The Transmission Constraint Penalty 
+Factor may set the Marginal Value of the transmission constraint during any dispatch interval in 
+the Real-time Energy Market depending on the following: 
+ 
+(a) If the market clearing software that clears the Real-time Energy Market cannot 
+produce a solution that manages the flow on a constraint within the binding limit in a dispatch 
+interval at a cost less than or equal to the Transmission Constraint Penalty Factor, the 
+Transmission Constraint Penalty Factor shall set the Marginal Value of the transmission 
+constraint.  In such instances, to manage the flow over the constraint, the Office of the 
+Interconnection may adjust the Transmission Constraint Penalty Factor as set forth in Tariff, 
+Attachment K-Appendix, section 5.6.3 and the parallel provisions of Operating Agreement, 
+Schedule 1, section 5.6.3. 
+ 
+(b) If the Real-time Energy Market constraints are subject to market-to-market 
+congestion management protocols with an adjacent Regional Transmission Organization and the 
+market clearing software cannot produce a solution that manages the flow on a constraint within 
+the binding limit in a dispatch interval, the Office of the Interconnection may coordinate with 
+such Regional Transmission Organization to either allow the Transmission Constraint Penalty 
+Factor to set the Marginal Value of the transmission constraint or to apply the Constraint 
+Relaxation Logic upon mutual agreement in accordance with applicable Joint Operating 
+Agreements. 
+ 
+5.6.2 Default Transmission Constraint Penalty Factor Values 
+ 
+Transmission constraints located within the metered boundaries of the PJM Region, including 
+market-to-market coordinated constraints, regardless of voltage level, are defaulted to a 
+$30,000/MWh Transmission Constraint Penalty Factor in the Day-ahead Energy Market when 
+determining the day-ahead security constrained economic dispatch, known as the dispatch run, 
+and $2,000/MWh in the determination of Day-ahead Prices in the pricing run.  Constraints 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.6 Transmission Constraint 
+Effective Date: 6/1/2023 - Docket #: ER26-1099-000 - Page 2 
+located within the metered boundaries of the PJM Region, excluding market-to-market 
+coordinated constraints, regardless of voltage level, are defaulted to a $2,000/MWh Transmission 
+Constraint Penalty Factor in the Real-time Energy Market.  Market-to-market coordinated 
+constraints in the Real-time Energy Market, located within the metered boundaries of the PJM 
+Region, will use a default Transmission Constraint Penalty Factor of $1,000/MWh or a value 
+agreed upon by PJM and the relevant Regional Transmission Organization in accordance with 
+applicable Joint Operating Agreements. 
+ 
+5.6.3 Modifications to Transmission Constraint Penalty Factor Values 
+ 
+(a) The Office of the Interconnection may modify the default Transmission 
+Constraint Penalty Factor values used in the Real-time Energy Market or Day-ahead Energy 
+Market for individual transmission constraints to: (1) ensure the market clearing solution is 
+feasible, (2) reflect changes to the operating practices which are mutually agreed upon with the 
+neighboring RTO for managing such constraints for market-to-market coordinated constraints, or 
+(3) reflect persistent system operational or reliability needs and the cost of the resources 
+available to effectively relieve congestion on the constraint.  When such conditions occur, the 
+Office of the Interconnection may raise the Transmission Constraint Penalty Factor when 
+sufficient congestion relief on the constraint cannot be provided by available resources at a cost 
+below the default Transmission Constraint Penalty Factor.  The Office of the Interconnection 
+may lower the Transmission Constraint Penalty Factor when sufficient congestion relief on the 
+constraint can be provided by available resources at a cost below the default Transmission 
+Constraint Penalty Factor in order to prevent a high cost resource that cannot provide material 
+congestion relief on the constraint from inappropriately setting price for the constraint or when 
+congestion relief on the constraint can be provided by available resources at a cost below the 
+default Transmission Constraint Penalty Factor but resources are not available for congestion 
+relief between the marginal value of the appreciable resource and the default Transmission 
+Constraint Penalty Factor if the congestion results from a transmission outage needed to address 
+Regional Transmission Expansion Plan criteria or interconnection requests in the impacted area 
+designed to improve system reliability.  In either instance, to effectively relieve congestion on 
+the constraint, the revised Transmission Constraint Penalty Factor value may be determined 
+using the following formula, while accounting for the ability for such inputs to vary as system 
+conditions change throughout the operating day: 
+ 
+System Energy Price + Loss Price + Congestion Price 
+(all binding constraints) – Incremental Energy Offer* Revised Transmission Constraint Penalty Factor ($/MW) = Dfax 
+ 
+Where Dfax equals the distribution factor of the resource for the transmission constraint 
+ 
+*For purposes of this equation only, Incremental Energy Offer includes start up and no load costs 
+where appropriate. 
+ 
+(b) The Office of the Interconnection shall post, as soon as practicable, on its website 
+any changes to the default Transmission Constraint Penalty Factor values used in the Real-time 
+Energy Market and/or the Day-ahead Energy Market.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 5.- CALCULATION OF 
+CHARGE --> OATT Attachment K Appendix Sec 5.6 Transmission Constraint 
+Effective Date: 6/1/2023 - Docket #: ER26-1099-000 - Page 3 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB 
+Effective Date: 2/1/2023 - Docket #: ER23-557-000 - Page 1 
+6. “MUST-RUN” FOR RELIABILITY GENERATION 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.1 Introduction 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.1 Introduction. 
+ 
+The following procedures shall apply to any generation resource subject to the dispatch of the 
+Office of the Interconnection that, as a result of transmission constraints, the Office of the 
+Interconnection determines, in the exercise of Good Utility Practice, must be run in order to 
+maintain the reliability of service in the PJM Region.  The provisions of this Schedule shall 
+otherwise apply to the scheduling, dispatch, operation and accounting treatment of such 
+resources, to the extent not inconsistent with the provisions of this Section 6. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.2 Identification of Facilit 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.2 Identification of Facility Outages. 
+ 
+Not later than one hour prior to the deadline specified in Section 1.10.1 of this Schedule, the 
+Office of the Interconnection shall identify on the PJM Open Access Same-Time Information 
+System any facility outage or other system condition which it has determined may give rise to a 
+transmission constraint that may require, in order to maintain system reliability, the dispatch of 
+one or more generation resources that otherwise would not be dispatched based on the merits of 
+their offers to the PJM Interchange Energy Market. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 6 - “MUST-RUN” FOR 
+RELIAB --> OATT Attachment K Appendix Sec 6.3 Dispatch for Local Reliab 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+6.3 Dispatch for Local Reliability. 
+ 
+6.3.1 Request and Dispatch. 
+ 
+In addition to the dispatch of generation by the Office of the Interconnection to maintain 
+reliability on transmission facilities monitored by it, a Member that owns or leases with rights 

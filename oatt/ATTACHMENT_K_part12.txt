@@ -1,0 +1,976 @@
+[ATTACHMENT K - Part 12 of 12]
+
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.7 Alternate Stage 1 Resour 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+7.7 Alternate Stage 1 Resources. 
+ 
+A Network Service User may replace one or more of its existing stage 1 resources and its 
+associated megawatt amount of Auction Revenue Rights determined pursuant to Section 7.4.2(b) 
+with an alternate resource.  If the Network Service User making such request accepts the 
+megawatt amount of Auction Revenue Rights associated with the alternate resource as 
+established by the Office of the Interconnection, the alternate resource shall replace the relevant 
+existing stage 1 resource prospectively beginning with the next annual Auction Revenue Rights 
+allocation.  If the Network Service User making such request rejects the megawatt amount of 
+Auction Revenue Rights established by the Office of the Interconnection for the alternate 
+resource, the Auction Revenue Rights associated with the original stage 1 resource shall remain 
+in effect for the Network Service User.  Requests made pursuant to this section shall be subject 
+to the following: 
+ 
+• Requests made pursuant to this section shall be subject to Section 7.5(c);  
+ 
+• Eligible alternate resources shall be limited to generation resources owned by the 
+requesting party or bona fide firm energy and capacity supply contracts that meet the 
+requirements set forth in Section 7.6 of Schedule 1 of this Agreement; 
+ 
+• Alternate resources shall be of an electrically equivalent megawatt amount, which means 
+that relative to the existing resource, the alternate resource cannot consume a greater 
+amount of transmission capability on facilities binding in the current Auction Revenue 
+Rights allocation or future stage 1A allocations, and cannot allow megawatt flow(s) to 
+exceed applicable ratings on any other facilities; 
+ 
+• The total amount of requested alternate stage 1 Auction Revenue Rights cannot exceed 
+the original awarded stage 1 megawatt amounts of Auction Revenue Rights associated 
+with the original historical resource as determined pursuant to Section 7.4.2(b). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.8 Elective Upgrade Auction 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.8 Elective Upgrade Auction Revenue Rights. 
+ 
+ (a) In addition to any Incremental Auction Revenue Rights established under the PJM 
+Tariff, any party may elect to fully fund Network Upgrades to obtain Incremental Auction 
+Revenue Rights pursuant to this section, provided that Incremental Auction Revenue Rights 
+granted pursuant to this section shall be simultaneously feasible with outstanding Auction 
+Revenue Rights, which shall include stage 1 and stage 2 Auction Revenue Rights, and against 
+stage 1A Auction Revenue Right capability for the future 10 year period as determined by the 
+Office of the Interconnection pursuant to Section 7.8(b) of Schedule 1 of this Agreement.  A 
+request made pursuant to this section shall specify a source, sink and megawatt amount, where 
+the source and sink each meet the criteria described for stage 1 in Tariff, Attachment K-
+Appendix, sections 7.4.2(b) and 7.4.2(c). 
+ 
+ (b) The Office of the Interconnection shall assess the simultaneous feasibility of the 
+requested Incremental Auction Revenue Rights and the outstanding Auction Revenue Rights 
+against the existing base system Auction Revenue Right capability and stage 1A Auction 
+Revenue Right capability for the future 10 year period pursuant to Operating Agreement, 
+Schedule 1, section 7.5.  This preliminary assessment will determine the incremental flow impact 
+necessary on facilities.   
+ 
+(c) The incremental flow impact represents the incremental capability required on a 
+facility to ensure the requested Incremental Auction Revenue Rights can be made feasible.  This 
+required capability is used to determine the upgrades required to accommodate the requested 
+Incremental Auction Revenue Rights and ensure all outstanding Auction Revenue Rights are 
+simultaneously feasible.  Additional details are provided in the PJM Manuals and related 
+explanatory materials posted on the PJM website such as the PJM Whitepaper entitled “PJM 
+Incremental Auction Revenue Rights Model Development and Analysis.” 
+ 
+(i) For Incremental Auction Revenue Rights requests, the Office of the 
+Interconnection shall use an Incremental Auction Revenue Rights model 
+to perform the simultaneous feasibility test detailed in Operating 
+Agreement, Schedule 1, section 7.5.  The Incremental Auction Revenue 
+Rights model shall consist of an Incremental Auction Revenue Rights 
+model and the 10 year stage 1A Auction Revenue Rights model.  An 
+Incremental Auction Revenue Rights model uses the same transmission 
+system model used in the annual Auction Revenue Rights process, except 
+any modeled transmission outages included in the Auction Revenue 
+Rights process are removed (i.e., the transmission assumed out of service 
+in the base markets model is assumed to be in service).  Auction Revenue 
+Rights requests that were denied or pro-rated in the annual Auction 
+Revenue Rights allocation as a result of assumed transmission outages 
+also are restored in the Incremental Auction Revenue Rights model 
+because the transmission is assumed to be in service for purposes of this 
+model.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.8 Elective Upgrade Auction 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 2 
+(ii) If the incremental market flows created by the Incremental Auction 
+Revenue Rights request cause facilities to be limited or increase the 
+market flow on already limited facilities in either the Incremental Auction 
+Revenue Rights model or the 10 year stage 1A Auction Revenue Rights 
+model, increased system capability will be required in order for the Office 
+of the Interconnection to grant the Incremental Auction Revenue Rights 
+request.  This required incremental capability is used to determine the 
+upgrades required to accommodate the requested Incremental Auction 
+Revenue Rights and ensure all outstanding Auction Revenue Rights 
+(including any pro-rated but restored Auction Revenue Rights requests) 
+are simultaneously feasible.  Additional details are provided in the PJM 
+Manuals and related explanatory materials posted on the PJM website 
+such as the PJM Whitepaper entitled “PJM Incremental Auction Revenue 
+Rights Model Development and Analysis.” 
+ 
+(iii) In addition to the Incremental Auction Revenue Rights model, the Office 
+of the Interconnection uses a planning model that consists of the Regional 
+Transmission Expansion Plan model used by the Office of the 
+Interconnection to study system needs and proposed projects five years 
+forward combined with modeled in-service and planned generation and 
+forecasted load.  The planning model includes transmission system 
+upgrades that are ahead of the proposed Incremental Auction Revenue 
+Rights request in the New Services Queue.  The upgrades required for the 
+Incremental Auction Revenue Rights request must achieve additional 
+incremental capability over and above any planned baseline or 
+Supplemental Project upgrades, including upgrades related to a 
+Supplemental Project with a projected in-service date later than the 
+applicable planning case year. 
+ 
+ (d) If a party elects to fund upgrades to obtain Incremental Auction Revenue Rights 
+pursuant to this section, no less than forty-five (45) days prior to the in-service date of the 
+relevant upgrades, as determined by the Office of the Interconnection, the Office of the 
+Interconnection shall notify the party of the actual amount of Incremental Auction Revenue 
+Rights that will be granted to the party based on the allocation process established pursuant to 
+Section 231.1 of Part VI of the Tariff. 
+ 
+ (e) Incremental Auction Revenue Rights established pursuant to this section shall be 
+effective for the lesser of thirty (30) years, or the life of the project, from the in-service date of 
+the Network Upgrade(s).  At any time during this thirty-year period (or the life of the Network 
+Upgrade, whichever is less), in lieu of continuing this thirty-year Auction Revenue Right, the 
+owner of the right shall have a one-time choice to switch to an optional mechanism, whereby, on 
+an annual basis, it will have the choice to request an Auction Revenue Right during the annual 
+Auction Revenue Rights allocation process between the same source and sink, provided the 
+Auction Revenue Right is simultaneously feasible.  A party that is granted Incremental Auction 
+Revenue Rights pursuant to this section may return such rights at any time, provided that the 
+Office of the Interconnection determines that it can simultaneously accommodate all remaining 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.8 Elective Upgrade Auction 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 3 
+outstanding Auction Revenue Rights following the return of such Auction Revenue Rights.  In 
+the event a party returns Incremental Auction Revenue Rights, it shall retain no further rights 
+regarding such Incremental Auction Revenue Rights. 
+ 
+ (f) No Incremental Auction Revenue Rights shall be granted pursuant to this section 
+if the costs associated with funding the associated Network Upgrades are included in the rate 
+base of a public utility and on which a regulated return is earned. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.9 Residual Auction Revenue 
+Effective Date: 5/1/2018 - Docket #: ER18-934-000 - Page 1 
+7.9 Residual Auction Revenue Rights 
+ 
+ (a) As necessary in each Planning Period PJM shall calculate Residual Auction 
+Revenue Rights for Auction Revenue Rights pathways that were prorated pursuant to section 
+7.4.2(h) of Schedule 1 of this Agreement.  Residual Auction Revenue Rights calculated pursuant 
+to this section shall be determined prior to the increase in transmission capability, including the 
+return to service of existing transmission capability, that creates the Residual Auction Revenue 
+Rights. 
+ 
+ (b) Network Service Users and  Qualifying Transmission Customers allocated stage 1 
+Auction Revenue Rights pursuant to Operating Agreement, Schedule 1, sections 7.4.2(a)-(c) that 
+were subject to proration pursuant to Operating Agreement, Schedule 1, section 7.4.2(h) shall be 
+eligible to receive Residual Auction Revenue Rights.  Residual Auction Revenue Rights shall be 
+allocated pursuant to the following schedule: 
+ 
+(i)   The initial allocation of Residual Auction Revenue Rights shall be to 
+holders of prorated stage 1A Auction Revenue Rights in an amount equal to the 
+difference between the allocated stage 1A Auction Revenue Rights and the 
+requested stage 1A Auction Revenue Rights.  
+ 
+(ii)  Residual Auction Revenue Rights remaining after an allocation made 
+pursuant to Operating Agreement, Schedule 1, section 7.9(b)(i) shall be allocated 
+to holders of prorated stage 1B Auction Revenue Rights in an amount equal to the 
+difference between the allocated stage 1B Auction Revenue Rights and the 
+requested stage 1B Auction Revenue Rights.  
+ 
+(iii)  Residual Auction Revenue Rights remaining after allocations made 
+pursuant to Operating Agreement, Schedule 1, sections 7.9(b)(i) and (ii) shall not 
+be allocated to any entity and shall not be considered by the Office of the 
+Interconnection in its administration of Operating Agreement, Schedule 1, section 
+7. 
+ 
+ (c) The sum of a Network Service User’s and Qualifying Transmission Customer’s 
+Residual Auction Revenue Rights awarded pursuant to this section and its stage 1 and 2 Auction 
+Revenue Rights awarded in an annual allocation shall not exceed the entity’s peak load. 
+ 
+(d) Residual Auction Revenue Rights awarded pursuant to this section shall be 
+effective on the first day of the month in a Planning Period the increase in transmission 
+capability creating the Residual Auction Revenue Rights is included in the administration of 
+Operating Agreement, Schedule 1, section 7.1.1(a). 
+ 
+(e) Residual Auction Revenue Rights awarded pursuant to this section shall be 
+subject to Operating Agreement, Schedule 1, section 7.4.2(e). 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.9 Residual Auction Revenue 
+Effective Date: 5/1/2018 - Docket #: ER18-934-000 - Page 2 
+(f)  The value of Residual Auction Revenue Rights awarded pursuant to this section, 
+determined as specified in Operating Agreement, Schedule 1, section 7.4.3(b), shall be positive. 
+Negatively valued Residual Auction Revenue Rights will not be awarded.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.10 Financial Settlement 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+7.10  Financial Settlement  
+ 
+Financial credits and charges for Auction Revenue Rights and Financial Transmission Rights, 
+including associated auction charges, shall be calculated and accrued on a daily basis, and 
+included in PJMSettlement’s regular invoice to each participant for the relevant period of such 
+invoice. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.11 PJMSettlement as Cou 
+Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
+7.11 PJMSettlement as Counterparty 
+ 
+(a) Auction Revenue Rights and Financial Transmission Rights provide certain contractual 
+rights and obligations for the holders of such rights set forth in this Schedule 1, the Agreement, and 
+the PJM Tariff.  PJMSettlement shall be the Counterparty with respect to the contractual rights and 
+obligations of the holders of Auction Revenue Rights, and Financial Transmission Rights. 
+ 
+(b) As specified in sections 5.2.2(d) and 7 of this Schedule 1, Market Participants may trade 
+Financial Transmission Rights and Auction Revenue Rights and under certain circumstances they 
+may convert Auction Revenue Rights to Financial Transmission Rights. PJMSettlement shall not be 
+the counterparty with respect to bilateral transfers of Financial Transmission Rights or Auction 
+Revenue Rights between Market Participants or the conversion of Auction Revenue Rights to 
+Financial Transmission Rights. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM 
+Effective Date: 3/15/2014 - Docket #: ER14-822-000 - Page 1 
+8. EMERGENCY AND PRE-EMERGENCY LOAD RESPONSE PROGRAM 
+     
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.1 Emergency Load Response a 
+Effective Date: 1/1/2019 - Docket #: ER19-244-000 - Page 1 
+8.1 Emergency Load Response and Pre-Emergency Load Response Program Options  
+ 
+The Emergency Load Response Program and Pre-Emergency Load Response Program are 
+designed to provide a method by which end-use customers may be compensated by PJM for 
+reducing load immediately prior to an anticipated emergency event (“pre-emergency event”) or 
+during an emergency event.  As used in the Emergency Load Response Program and Pre-
+Emergency Load Response Program, the term “end-use customer” refers to an individual 
+location or aggregation of locations that consume electricity as identified by a unique electric 
+distribution company account number.  There are two options for participation in the Emergency 
+Load Response Program and Pre-Emergency Load Response Program: 
+ 
+♦ Full Program Option 
+ 
+Participants in the Full Program Option receive, pursuant to Tariff, Attachment DD and 
+as applicable, (i) an energy payment for load reductions during a pre-emergency or 
+emergency event, and (ii) a capacity payment for the ability to reduce load during a pre-
+emergency event or emergency event measured as set forth in the Reporting and 
+Compliance provisions below. 
+ 
+♦ Energy Only Option 
+ 
+Participants in the Energy Only Option receive only an energy payment for load 
+reductions during an emergency event. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.2 - Participant Qualificati 
+Effective Date: 2/22/2023 - Docket #: ER23-725-000 - Page 1 
+8.2 Participant Qualifications 
+ 
+Two primary types of distributed resources are candidates to participate in the PJM Emergency 
+Load Response Program and Pre-Emergency Load Response Program:  
+ 
+On-Site Generators (As defined in Operating Agreement, section 1) 
+ 
+Load Reductions 
+ 
+A participant that has the ability to reduce a measurable and verifiable portion of 
+its load, as metered on an EDC account basis. 
+ 
+Only Members or Special Members may participate in the Emergency Load Response Program 
+and Pre-Emergency Load Response Program by complying with all of the requirements of the 
+applicable Relevant Electric Retail Regulatory Authority and all other applicable federal, state 
+and local regulatory entities together with the Emergency Load Response and Pre-Emergency 
+Load Response Program provisions herein, including, but not limited to, the Registration section. 
+Special membership provisions have been established for program participants in the Energy 
+Only Option, as described below.  The special membership provisions shall not apply to program 
+participants in the Full Program Option.  Any existing PJM Member or Special Member may 
+participate in the Emergency Load Response Program and Pre-Emergency Load Response 
+Program on behalf of non-members as the Curtailment Service Provider. All payments are made 
+to the PJM Member or Special Member in such case. Curtailment Service Providers must 
+become signatories to the PJM Operating Agreement, as described in the PJM Manual for 
+Administrative Services for the Operating Agreement of the PJM Interconnection, L.L.C. 
+However, for Special Members the $5,000 annual member fee, the $1,500 application fee, and 
+liability for Member defaults are waived, along with the following other modifications: 
+ 
+Special Members are limited to be PJM Market Sellers; 
+Voting privileges and sector designation are waived; 
+Thirty day notice for waiting period is waived; 
+Requirement for 24/7 control center coverage is waived; 
+No PJM-supported user group capability is permitted. 
+ 
+To participate in the Emergency Load Response Program and Pre-Emergency Load Response 
+Program, the Demand Resource must: 
+ 
+Be capable of reducing at least 100 kW of load 
+Be capable of receiving notification of a Load Management Event. 
+The location shall not be Critical Natural Gas Infrastructure. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.3 - Metering Requirements 
+Effective Date: 8/3/2015 - Docket #: ER15-1849-000 - Page 1 
+8.3 Metering Requirements 
+ 
+The Curtailment Service Provider is responsible to ensure that the Emergency Load Response 
+Program and Pre-Emergency Load Response Program Participants have metering equipment that 
+provides integrated hourly kWh values on an electric distribution company account basis.  Non-
+interval metered residential customers that have Direct Load Control may use current statistical 
+sampling of interval metering equipment on an electric distribution company account basis in 
+accordance with the PJM Manuals and subject to PJM approval.  The metering equipment shall 
+either meet the electric distribution company requirements for accuracy or have a maximum 
+error of two percent over the full range of the metering equipment (including Potential 
+Transformers and Current Transformers) and the metering equipment and associated data shall 
+meet the requirements set forth herein and in the PJM Manuals.  The Emergency Load Response 
+Program and Pre-Emergency Load Response Program participants must meter reductions in 
+demand by using either of the following two methods: 
+ 
+ a) Using metering equipment that is capable of recording integrated hourly values 
+for generation running to serve local load (net of that used by the generator); or 
+ 
+ b) Using metering equipment that provides actual load change by measuring actual 
+load before and after the reduction request, such that there is a valid integrated hourly value for 
+the hour prior to the event and each hour during the event. This value cannot be estimated nor 
+can it be averaged over some historical period.  This load will be metered on an electric 
+distribution company account basis, or metered on a representative sample of Electric 
+Distribution Company accounts for non-interval metered residential Direct Load Control in 
+accordance with the PJM Manuals. 
+ 
+Metered load reductions will be adjusted up to consider transmission and distribution losses as 
+submitted by the Curtailment Service Provider and verified by PJM with the electric distribution 
+company.  
+ 
+The installed metering equipment must be one of the following: 
+ 
+ a) Metering equipment used for retail electric service;  
+ 
+ b) Customer-owned metering equipment or metering equipment acquired by the 
+Curtailment Service Provider, approved by PJM, that is read electronically by PJM, in 
+accordance with the requirements herein and in the PJM Manuals; or 
+ 
+ c) Customer-owned metering equipment or metering equipment acquired by the 
+Curtailment Service Provider, approved by PJM, that is read by the customer (or the Curtailment 
+Service Provider), and such readings are then forwarded to PJM, in accordance with the 
+requirements set forth herein and in the PJM Manuals. 
+ 
+Nothing herein changes the existence of one recognized meter by the state commissions as the 
+official billing meter for recording consumption. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.4 - Registration 
+Effective Date: 3/1/2019 - Docket #: ER17-1372-000 - Page 1 
+8.4 Registration 
+ 
+1.  Curtailment Service Providers must complete the applicable PJM Load Response Program 
+Registration Form (“Registration Form”) that is posted on the PJM website (www.pjm.com) for 
+each end-use customer, or aggregation of end-use customers, pursuant to the requirements set 
+forth in the PJM Manuals. Because of the required electric distribution company ten Business 
+Day review period, as described herein, Curtailment Service Providers shall submit completed 
+Registration Forms to the Office of the Interconnection no later than one day before the tenth 
+Business Day preceding the relevant Delivery Year.  All registrations that have not been 
+approved on or before May 31st preceding the relevant Delivery Year shall be rejected by the 
+Office of the Interconnection. To the extent that a completed Registration Form is submitted to 
+the Office of the Interconnection  prior to one day before the tenth Business Day preceding the 
+relevant Delivery Year and such registration is rejected by the electric distribution company or 
+the Office of the Interconnection because of incorrect data on the Registration Form, such 
+registration may be resubmitted by the Curtailment Service Provider before May 31st preceding 
+the relevant Delivery Year, but such registration will be rejected by the Office of the 
+Interconnection unless the electric distribution company  has verified the registration on or 
+before May 31st preceding the relevant Delivery Year. Incomplete Registration Forms will be 
+rejected by the Office of the Interconnection; Curtailment Service Providers may not resubmit 
+registrations that were rejected for being incomplete unless they are able to do so no later than 
+one day before the tenth Business Day preceding the relevant Delivery Year.  The following 
+general steps will be followed: 
+ 
+2. For end-use customers of an electric distribution company that distributed more than 4 million 
+MWh in the previous fiscal year: 
+ 
+ a. The Curtailment Service Provider completes the Registration Form located on the 
+PJM website.  PJM reviews the application and ensures that the qualifications are met, including 
+verifying that the appropriate metering exists. After confirming that an entity has met all of the 
+qualifications to be an Emergency Load Response or Pre-Emergency Load Response Program 
+participant, PJM shall notify the appropriate electric distribution company of an Emergency 
+Load Response and Pre-Emergency Load Response Program participant's registration and 
+request verification as to whether the load that may be reduced is subject to laws or regulations 
+of the Relevant Electric Retail Regulatory Authority that prohibit or condition the end-use 
+customer’s participation in PJM’s Emergency Load Response and Pre-Emergency Load 
+Response Programs pursuant to the process described below. The electric distribution company 
+has ten Business Days to respond.  An electric distribution company which seeks to assert that 
+the laws or regulations of the Relevant Electric Retail Regulatory Authority prohibit or condition 
+(which condition the electric distribution company asserts has not been satisfied) an end-use 
+customer’s participation in PJM’s Emergency Load Response and Pre-Emergency Load 
+Response program shall provide to PJM, within the referenced ten Business Day review period, 
+either:  (a) an order, resolution or ordinance of the Relevant Electric Retail Regulatory Authority 
+prohibiting or conditioning the end-use customer’s participation, (b) an opinion of the Relevant 
+Electric Retail Regulatory Authority’s legal counsel attesting to the existence of a regulation or 
+law prohibiting or conditioning the end-use customer’s participation, or (c) an opinion of the 
+state Attorney General, on behalf of the Relevant Electric Retail Regulatory Authority, attesting 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.4 - Registration 
+Effective Date: 3/1/2019 - Docket #: ER17-1372-000 - Page 2 
+to the existence of a regulation or law prohibiting or conditioning the end-use customer's 
+participation.   
+ 
+i. If evidence provided by an electric distribution company to the Office of 
+the Interconnection indicates that a Relevant Electric Retail Regulatory 
+Authority law or regulation prohibits or conditions (which condition the 
+electric distribution company asserts has not been satisfied) the end-use 
+customer’s participation and is received by the Office of the 
+Interconnection on or after May 31st preceding the applicable Delivery 
+Year, then the existing end-use customer’s registration for Demand 
+Resource (as defined in the Reliability Assurance Agreement) will remain 
+in effect for the applicable Delivery Year.  If evidence provided by an 
+electric distribution company to the Office of the Interconnection indicates 
+that a Relevant Electric Retail Regulatory Authority law or regulation 
+prohibits or conditions (which condition the electric distribution company 
+asserts has not been satisfied) the end-use customer’s participation and is 
+received by the Office of the Interconnection before May 31st preceding 
+the applicable Delivery Year and the Curtailment Service Provider does 
+not provide supporting documentation to the Office of the Interconnection 
+on or before May 31st preceding the applicable Delivery Year 
+demonstrating that the Curtailment Service Provider had an executed 
+contract with the end-use customer for Demand Resource participation 
+before the date the Demand Resource cleared the applicable Reliability 
+Pricing Model Auction, and that the date that the Demand Resource 
+cleared the applicable Reliability Pricing Model Auction was prior to the 
+effective date of the Relevant Electric Retail Regulatory Authority law or 
+regulation prohibiting or conditioning the end-use customer’s 
+participation, then, unless the below exception applies, the existing end-
+use customer’s registration for Demand Resource participation shall be 
+deemed to be terminated for the applicable Delivery Year, and the 
+Curtailment Service Provider will be subject to the Reliability Pricing 
+Model provisions, as specified in Attachment DD of the PJM Tariff. 
+ 
+ b. In the absence of a response from the electric distribution company within the 
+referenced ten Business Day review period, the Office of the Interconnection shall assume that 
+the load to be reduced is not subject to laws or regulations of the Relevant Electric Retail 
+Regulatory Authority that prohibit or condition the end-use customer’s participation in PJM’s 
+Emergency Load Response and Pre-Emergency Load Response Programs, and the Office of the 
+Interconnection shall accept the registration, provided it meets all other Emergency Load 
+Response and Pre-Emergency Load Response Program requirements. 
+ 
+ c. For those registrations terminated pursuant to this section, all Emergency Load 
+Response and Pre-Emergency Load Response participant activity incurred prior to the 
+termination date of the registration shall be settled by PJM in accordance with the terms and 
+conditions contained in the PJM Tariff, PJM Operating Agreement and PJM Manuals. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.4 - Registration 
+Effective Date: 3/1/2019 - Docket #: ER17-1372-000 - Page 3 
+3. For end-use customers of an electric distribution company that distributed 4 million MWh or 
+less in the previous fiscal year: 
+ 
+ a. The Curtailment Service Provider completes the Emergency Registration Form 
+located on the PJM website. PJM reviews the application and ensures that the qualifications are 
+met, including verifying that the appropriate metering exists. After confirming that an entity has 
+met all of the qualifications to be an Emergency Load Response and Pre-Emergency Load 
+Response participant, PJM shall notify the appropriate electric distribution company of an 
+Emergency Load Response and Pre-Emergency Load Response participant’s registration and 
+request verification as to whether the load that may be reduced is permitted to participate by the 
+Relevant Electric Retail Regulatory Authority pursuant to the process described below. The 
+electric distribution company has ten Business Days to respond. If the electric distribution 
+company verifies that the load that may be reduced is permitted or conditionally permitted 
+(which condition the electric distribution company asserts has been satisfied) to participate in the 
+Emergency Load Response Program and Pre-Emergency Load Response Program, then the 
+electric distribution company must provide to the Office of the Interconnection within the 
+referenced ten Business Day review period either:  (a) an order, resolution or ordinance of the 
+Relevant Electric Retail Regulatory Authority permitting or conditionally permitting the end-use 
+customer’s participation, (b) an opinion of the Relevant Electric Retail Regulatory Authority’s 
+legal counsel attesting to the existence of a regulation or law permitting or conditionally 
+permitting the end-use customer’s participation, or (c) an opinion of the state Attorney General, 
+on behalf of the Relevant Electric Retail Regulatory Authority, attesting to the existence of a 
+regulation or law permitting or conditionally permitting the end-use customer’s participation. 
+ 
+i. If the electric distribution company denies the end-use customer’s 
+Demand Resource (as defined in the Reliability Assurance Agreement) 
+registration on or before May 31st preceding the applicable Delivery Year 
+and the Curtailment Service Provider does not provide the above 
+referenced Relevant Electric Retail Regulatory Authority evidence  to the 
+Office of the Interconnection on or before May 31st preceding the 
+applicable Delivery Year demonstrating that the Curtailment Service 
+Provider had Relevant Electric Retail Regulatory Authority permission or 
+conditional permission (which condition the electric distribution company 
+asserts has been satisfied) for the end-use customer’s participation and an 
+executed contract with the end-use customer Demand Resource before the 
+date the Demand Resource cleared the applicable Reliability Pricing 
+Model Auction  then, unless the below exception applies, the existing end-
+use customer’s registration for Demand Resource participation shall be 
+deemed to be terminated for the applicable Delivery Year and the 
+Curtailment Service Provider will be subject to the Reliability Pricing 
+Model provisions, as specified in Attachment DD of the PJM Tariff. 
+ 
+ b. In the absence of a response from the electric distribution company within the 
+referenced ten Business Day review period, the Office of the Interconnection shall reject the 
+registration.  If it is able to do so in compliance with all of the Emergency Load Response and 
+Pre-Emergency Load Response Program requirements, including the registration section, the 
+Emergency Load Response and Pre-Emergency Load Response participant may submit a new 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Sec 8.4 - Registration 
+Effective Date: 3/1/2019 - Docket #: ER17-1372-000 - Page 4 
+registration to the Office of the Interconnection for consideration if a prior registration has been 
+rejected pursuant to the terms of the Emergency Load Response and Pre-Emergency Load 
+Response Program provisions. 
+ 
+ c. For those registrations terminated pursuant to this section, all Emergency Load 
+Response and Pre-Emergency Load Response participant activity incurred prior to the 
+termination date of the registration shall be settled by PJMSettlement in accordance with the 
+terms and conditions contained in the PJM Tariff, PJM Operating Agreement and PJM Manuals. 
+ 
+4.  PJM will inform the requesting Curtailment Service Provider of acceptance into the 
+Emergency Load Response Program and Pre-Emergency Load Response Program and notify the 
+appropriate electric distribution company of the requesting Curtailment Service Provider’s 
+acceptance into the program, or notifies the requesting Curtailment Service Provider and 
+appropriate electric distribution company of PJM’s rejection of the requesting participant’s 
+registration. 
+ 
+5.  Any end-use customer intending to run distributed generating units in support of local load 
+for the purpose of participating in this program must represent in writing to PJM that it holds all 
+applicable environmental and use permits for running those generators.  Continuing participation 
+in this program will be deemed as a continuing representation by the owner that each time its 
+distributed generating unit is run in accordance with this program, it is being run in compliance 
+with all applicable permits, including any emissions, run-time limit or other constraint on plant 
+operations that may be imposed by such permits. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.5 Pre-Emergency Opera 
+Effective Date: 1/1/2019 - Docket #: ER19-244-000 - Page 1 
+8.5 Pre-Emergency Operations 
+ 
+All participants in the Pre-Emergency Load Response Program shall be subject to the operation 
+procedures herein, unless the participant can demonstrate its Demand Resource Registration: (1) 
+relies on Behind the Meter generation to fulfill its load reduction obligations; (2) the Demand 
+Resource Registration has environmental restrictions imposed on it by Applicable Laws and 
+Regulations that limit the Demand Resource Registration’s ability to operate only in emergency 
+conditions; and (3) such limitation exists for any period of time.  For the purposes of Section 8, 
+emergency conditions shall be defined either by the express terms of the Applicable Law or 
+Regulation, or if not set forth therein shall be deemed to exist if PJM has declared a NERC 
+Energy Emergency Alert Level 2, as defined in the applicable NERC Standards.  If these three 
+criteria are met, the participant shall be subject to the emergency operation procedures contained 
+in Section 8.6.  In such case, the Curtailment Service Provider shall submit a request for the relevant 
+Demand Resource Registration(s) to be an emergency (versus pre-emergency) Demand Resource 
+Registration to the Office of the Interconnection, at the time the registration is submitted in 
+applicable PJM system in accordance with this Agreement.  A Curtailment Service Provider shall 
+not submit a request for an exception unless it has done its due diligence to confirm that the 
+Demand Resource Registration meets the requirements referenced herein and has obtained from 
+the end-use customer documentation supporting the exception request. The Curtailment Service 
+Provider shall provide the Office of the Interconnection with a copy of such supporting 
+documentation within three (3) Business Days of a request therefor.  Failure to provide such 
+supporting documentation by the deadline shall result in the Demand Resource Registration 
+being subject to the pre-emergency procedures herein.   
+ 
+PJM will initiate a pre-emergency event prior to the declaration of a Maximum Generation 
+Emergency or an emergency event when practicable. A pre-emergency event is implemented 
+when economic resources are not adequate to serve load and maintain reserves or maintain 
+system reliability, and prior to proceeding into emergency procedures.  Understanding the 
+primary responsibility of the Office of the Interconnection to maintain system security, the 
+Office of the Interconnection will strive to exhaust, but it is not obligated to exhaust, all 
+economic resources prior to initiating a pre-emergency event.  PJM will initiate an electronic 
+message to Curtailment Service Providers notifying them of the pre-emergency event; 
+Curtailment Service Providers are required to have the capability to retrieve this electronic 
+message as described in the PJM Manuals.  Additionally, PJM will post the pre-emergency event 
+information on the PJM website and issue a separate All-Call message.  
+ 
+Following PJM’s request to reduce load, (i) participants in the Energy Only Option voluntarily 
+may reduce load; and (ii) participants in the Full Program Option are required to reduce load 
+unless they already have reduced load pursuant to the Economic Load Response Program.  PJM 
+will dispatch the resources of all Emergency Load Response Program participants (not already 
+dispatched under the Economic Load Response Program) based on the availability, location, 
+minimum notification time, dispatch price and/or quantity of load reduction needed, subject to 
+transmission constraints in the PJM Region.  To give PJM dispatchers the flexibility to address 
+reliability concerns in the most effective and timely manner and invoke the resources that offer 
+the most assurance of effective relief of emergency conditions, the dispatch of Demand Resource 
+Registrations may not be based solely on the least-cost resources since such dispatch shall be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.5 Pre-Emergency Opera 
+Effective Date: 1/1/2019 - Docket #: ER19-244-000 - Page 2 
+based not only on price, but also on availability, location, minimum notification time and/or 
+quantity of megawatts of load or load reduction needed. 
+ 
+The dispatch price of Full Program Option registrations and Energy Only Option registrations in 
+the Pre-Emergency Load Response Program are eligible to set the real time Locational Marginal 
+Prices (“LMP”) when the Office of the Interconnection has implemented pre-emergency 
+procedures and such registrations are required to reduce demand in the PJM Region and as 
+described in Operating Agreement, Schedule 1, section 2 and the parallel provisions of Tariff, 
+Attachment K-Appendix.  Energy Only Option registrations must also satisfy PJM’s telemetry 
+requirements. 
+ 
+Curtailment Service Providers with Demand Resource Registrations in the Emergency Load 
+Response and Pre-Emergency Load Response Programs must provide real-time operational data 
+regarding the availability and status of their resources to PJM, and comply with operational 
+procedures, as described in detail in the PJM Manuals. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.6 Emergency Operation 
+Effective Date: 1/1/2019 - Docket #: ER19-244-000 - Page 1 
+8.6 Emergency Operations 
+ 
+PJM will initiate the notification of a Load Management Event coincident with the declaration of 
+Maximum Generation emergency. (Implementation of the Emergency Load Response Program 
+can be used for regional emergencies.) The minimum duration of a load reduction request is one 
+hour.  A Load Management Event is implemented whenever economic generating capacity is not 
+adequate to serve load and maintain reserves or maintain system reliability.  PJM will initiate an 
+electronic message to Curtailment Service Providers notifying them of the Load Management 
+Event; Curtailment Service Providers are required to have the capability to retrieve this 
+electronic message as described in the PJM Manuals.  Additionally, PJM will post the Load 
+Management Event information on the PJM website and issue a separate All-Call message.  
+ 
+Following PJM’s request to reduce load, (i) participants in the Energy Only Option voluntarily 
+may reduce load; and (ii) participants in the Full Program Option are required to reduce load 
+unless they already have reduced load pursuant to the Economic Load Response Program.  PJM 
+will dispatch the resources of all Emergency Load Response Program participants (not already 
+dispatched under the Economic Load Response Program) based on the availability, location, 
+minimum notification time, dispatch price and/or quantity of load reduction needed, subject to 
+transmission constraints in the PJM Region.  To give PJM dispatchers the flexibility to address 
+reliability concerns in the most effective and timely manner and invoke the resources that offer 
+the most assurance of effective relief of emergency conditions, the dispatch of Demand Resource 
+Registrations may not be based solely on the least-cost resources since such dispatch shall be 
+based not only on price, but also on availability, location, minimum notification time and/or 
+quantity of megawatts of load or load reduction needed.  
+ 
+The dispatch price of Full Program Option registrations and Energy Only Option registrations in 
+the Emergency Load Response Program are eligible to set the real time LMP when the Office of 
+the Interconnection has implemented Emergency procedures and such registrations are required 
+to reduce demand in the PJM Region and as described in Operating Agreement, Schedule 1, 
+section 2 and the parallel provisions of Tariff, Attachment K-Appendix. Energy Only Option 
+registrations must also satisfy PJM’s telemetry requirements. 
+ 
+Curtailment Service Providers with Demand Resource Registrations in the Emergency Load 
+Response and Pre-Emergency Load Response Programs must provide real-time operational data 
+regarding the availability and status of their resources to PJM, as described in detail in the PJM 
+Manuals.  Operational procedures are described in detail in the PJM Manual for Emergency 
+Operations. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.7 – Verification 
+Effective Date: 6/1/2017 - Docket #: ER17-1372-000 - Page 1 
+8.7 Verification 
+ 
+PJM requires that the load reduction meter data be submitted to PJM within 60 days of the Load 
+Management Event. If the data are not received within 60 days, no payment for participation 
+shall be provided. Meter data must be provided for all hours during the day of the Load 
+Management Event or the Load Management performance test, and for all hours during any 
+other days as required by the Office of the Interconnection to calculate the load reduction.   
+ 
+These data files are to be communicated to PJM either via the Load Response Program web site 
+or email. Files that are emailed must be in the PJM-approved file format. Meter data will be 
+forwarded to the electric distribution company upon receipt, and these parties will then have ten 
+(10) Business Days to provide feedback to PJM.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.8 Market Settlements 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 1 
+8.8 Market Settlements 
+ 
+Payment for reducing load is based on the actual kWh relief provided plus the adjustment for 
+losses, subject to the Reporting and Compliance provisions below. The magnitude of capacity 
+relief provided by Full Program Option participants shall be the amount determined in 
+accordance with the Reporting and Compliance provisions below. The magnitude of relief 
+provided by Energy Only Option participants, and the magnitude of energy relief provided by 
+Full Program Option participants, may be less than, equal to, or greater than the kW amount 
+declared on the Emergency or Pre-Emergency registration.  Compensation will be provided for 
+reductions in energy consumption during emergency events, tests and associated retest(s), where 
+applicable by Full Program Option participants and Energy Only Option participants regardless 
+of whether the participant’s load during the event exceeds its peak load contribution for the 
+applicable Delivery Year.   
+ 
+PJMSettlement pays the applicable LMP to the PJM Member that nominates the load. Payment 
+will be equal to the measured energy load reduction adjusted for losses times the applicable 
+LMP.  The measured energy load reduction for locations with approved Economic Load 
+Response registrations prior to a Load Management Event that have an economic CBL different 
+than the maximum base load as defined in the PJM Manuals will use the associated economic 
+CBL to determine the energy load reduction unless the locations on the Emergency Load 
+Response registration are not the same locations as those included on the Economic Load 
+Response registration.  If, at the time that a Load Management Event or emergency event is 
+initiated by PJM, an end-use customer is already responding economically (i.e., pursuant to the 
+Economic Load Response rules) and economic CBL is based on Symmetric Additive 
+Adjustment, then the CBL calculated based on the Symmetric Additive Adjustment period prior 
+to the economic event will be used.  Locations that do not have an approved Economic Load 
+Response registration prior to a Load Management Event will use the Customer Baseline Load as 
+defined in section 3.3A.2 and associated Symmetric Additive Adjustment as defined in section 
+3.3A.2.01 of this schedule unless an alternative CBL is approved pursuant to section 3.3A.2.01 
+of this schedule as the CBL to determine the energy load reduction. 
+ 
+If, however, the sum of the hourly energy payments to a Curtailment Service Provider with a 
+Demand Resource Registration dispatched by PJM for actual, achieved reductions for an 
+emergency event is not greater than or equal to the offer value (i.e. Minimum Dispatch Price and 
+shut down costs) then the Curtailment Service Provider will be made whole up to the offer value 
+for its actual, achieved reductions for the Demand Resource Registration. 
+ 
+Locations on Economic Load Response registrations dispatched in the Real-time Energy Market 
+or cleared in the Day-ahead Energy Market that are also included on an Emergency Load 
+Response and Pre-Emergency Load Response registration as Full Program Option, and that have 
+also been dispatched as part of an emergency event for the same hour (i.e., have an “overlapping 
+dispatch hour”) will be compensated for energy based on emergency energy settlement and cost 
+allocation rules as set forth in this section and in the PJM Manuals.  Overlapping dispatch hours 
+will use shutdown costs based on what was considered for the economic event, and no balancing 
+Operating Reserve charges will be assessed for deviations from real-time dispatch amounts or 
+from cleared day-ahead commitments.  To avoid duplicative energy payments, overlapping 
+dispatch hours for an aggregate registration (i.e., multiple locations on the same registration) or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.8 Market Settlements 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 2 
+dispatch groups where locations on the Emergency Load Response and Pre-Emergency Load 
+Response registration are not the same locations as those on the Economic Load Response 
+registration will have hourly economic energy load reduction and/or hourly emergency energy 
+load reduction prorated based on load reduction capability provided by the Curtailment Service 
+Provider for the locations. 
+ 
+The Curtailment Service Provider will only submit energy settlements for Load Management 
+Events that occur outside of the specific availability period defined in the Reliability Assurance 
+Agreement for each Demand Resource type if the Curtailment Service Provider has confirmed 
+that the customers on the registration did take action to reduce load or the registration reflects the 
+entire group of mass market customers for which an energy settlement will either be submitted 
+for all or none of the mass market customers, as approved by PJM.  The Curtailment Service 
+Provider will only submit energy settlements for tests and for each registration for Load 
+Management Events that occur during the product specific availability period as defined for each 
+product in the Reliability Assurance Agreement if the Curtailment Service Provider also provides 
+associated load data for each registration in order to calculate that registration’s capacity 
+compliance. 
+ 
+Full Program Option participants that fail to provide a load reduction (as measured as set forth in 
+the Reporting and Compliance provisions below) when dispatched by PJM shall be assessed 
+penalties and/or charges as specified in Tariff, Attachment DD and the Reliability Assurance 
+Agreement, as applicable. 
+ 
+During emergency conditions, costs for emergency purchases in excess of LMP are allocated 
+among PJM Market Buyers in proportion to their increase in net purchases minus real-time 
+dispatch reduction megawatts from the PJM energy market during the hour in the Real-time 
+Energy Market compared to the Day-ahead Energy Market. Consistent with this pricing 
+methodology, all charges under the Emergency Load Response and Pre-Emergency Load 
+Response Program are allocated to purchasers of energy, in proportion to their increase in net 
+purchases minus real-time dispatch reduction megawatts from the PJM energy market during the 
+hour from day-ahead to real-time. 
+ 
+The cost of payments for Emergency Load Response and Pre-Emergency Load Response energy 
+settlements for tests, shall be recovered from Market Participants on a ratio-share basis based on 
+their real-time exports from the PJM Region and from Load Serving Entities on ratio-share basis 
+based on their real-time loads in each Zone for that month where the tests were conducted, with 
+the ratio shares determined as follows: 
+ 
+The ratio share for LSE i in zone z shall be RTLiz/(RTL + X) 
+and the ratio share for party j shall be Xj/(RTL + X). 
+Where: 
+ 
+RTL is the total real time load in all zones where Load Management was tested; 
+RTLiz is the real-time load for LSE i in zone z; 
+X is the total export quantity from PJM in that hour; and 
+Xj is the export quantity by party j from PJM. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.8 Market Settlements 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 3 
+ 
+Emergency Load Response and Pre-Emergency Load Response Program charges and credits will 
+appear on the PJM Members monthly bill, as described in the PJM Manual for Operating 
+Agreement Accounting and the PJM Manual for Billing. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.9 Reporting and Compl 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 1 
+8.9 Reporting and Compliance 
+ 
+Actual load reductions of Energy Only Option emergency registrations will be added back for 
+the purpose of peak load calculations for capacity for the following Delivery Year. 
+ 
+Actual Emergency Load Response, Pre-Emergency Load Response and Economic Load 
+Response load reductions for Demand Resource Registrations in the Emergency Load Response 
+or Pre-Emergency Load Response Full Program Option or Capacity Only Option which occur  
+during a registration’s product-type required availability window as set forth in PJM Reliability 
+Assurance Agreement, Tariff and Manuals or which occur outside the availability window if 
+such registration received Bonus Performance for Performance Assessment Interval(s) or 
+responded  to economic event will be added back for the purpose of calculating peak load for 
+capacity for the following Delivery Year, as set forth in the PJM Manuals and consistent with the 
+load response recognized for capacity compliance as set forth in the Reporting and Compliance 
+provisions below.  Capacity Only Option registrations are Full Program Option registrations that 
+do not receive an energy payment for load reductions during a pre-emergency or emergency 
+event.  
+ 
+Actual load reductions of Demand Resource Registrations in Emergency Load Response or Pre-
+Emergency Load Response Full Program Option or Capacity Only Option used to determine 
+Load Management Event and test capacity compliance for Firm Service Level and Guaranteed 
+Load Drop end-use customers shall be equal to the load reduction provided to the electric 
+distribution company as follows and in accordance with the PJM Manuals:  
+ 
+i) Guaranteed Load Drop compliance will be based on:  
+ 
+a.  the lesser of (a) comparison load used to best represent what the load would have been 
+if PJM did not declare a Load Management Event or there was not a test as 
+outlined in the PJM Manuals, minus the Load and then multiplied by the LF, or 
+(b) For a summer event, the PLC minus the Load multiplied by the LF.  A 
+summer load reduction will only be recognized for capacity compliance if the 
+Load multiplied by the LF is less than the PLC.  For a non-summer event, the 
+WPL multiplied the ZWWAF multiplied by LF,  minus the Load multiplied by 
+the LF. A non-summer load reduction will only be recognized for capacity 
+compliance if the Load multiplied by the LF is less than the WPL multiplied by 
+the ZWWAF multiplied by LF. Calculations are represented by: 
+ 
+Summer: Minimum of {(comparison load – Load) * LF, PLC – (Load * LF)} 
+ 
+Non-summer: Minimum of {(comparison load – Load) * LF, 
+(WPL*ZWWAF*LF)-(Load*LF)} 
+ 
+b.  Curtailment Service Providers must submit actual loads and comparison loads for all 
+hours during the day of the Load Management Event or the Load Management 
+performance test, and for all hours during any other days as required by the Office 
+of the Interconnection to calculate the load reduction.  Comparison loads must be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.9 Reporting and Compl 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 2 
+developed from the guidelines in the PJM Manuals, and note which method was 
+employed. 
+ 
+c.  Methodologies for establishing comparison load for Guaranteed Load Drop end-use 
+customers include the following: 
+ 
+♦ Comparable Day 
+♦ Same Day 
+♦ Customer Baseline 
+♦ Regression Analysis  
+♦ Generation 
+ 
+Methodologies for establishing comparison load for Guaranteed Load Drop end-
+use customers are described in greater detail in Manual M-19, PJM Manual for 
+Load Forecasting and Analysis, at Attachment A: Load Drop Estimate Guidelines. 
+ 
+ 
+ 
+ 
+ii) Compliance for FSL will be based on: 
+ 
+Summer (June through October and the following May of a Delivery Year) - End 
+use customer’s current Delivery Year peak load contribution (“PLC”) minus the 
+metered load (“Load”) multiplied by the loss factor (“LF”). The calculation is 
+represented by: 
+ 
+(PLC) - (Load *LF) 
+ 
+Winter (November through April of a Delivery Year)– End use customer’s Winter 
+Peak Load (“WPL”) multiplied by Zonal Winter Weather Adjustment Factor 
+(“ZWWAF”) multiplied by LF, minus the metered load (“Load”) multiplied by 
+the LF.  The calculation is represented by: 
+ 
+(WPL * ZWWAF * LF) – (Load * LF) 
+ 
+The capacity compliance of Demand Resource Registrations in the Emergency Load Response 
+and Pre-Emergency Load Response Full Program Option, as determined in accordance with 
+these Reporting and Compliance provisions, shall not affect energy payments to such resources 
+for load reductions during an emergency event, as provided in the Market Settlements provisions 
+above and Tariff, Attachment DD. 
+ 
+PJM will submit any required reports to FERC on behalf of the Emergency Load Response and 
+Pre-Emergency Load Response Program participants. PJM will also post this document, as well 
+as any other program-related documentation on the PJM website. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.9 Reporting and Compl 
+Effective Date: 6/16/2020 - Docket #: ER20-1590-000 - Page 3 
+PJM will post on its website a report of demand response activity, and will provide a summary 
+thereof to the PJM Markets and Reliability Committee on an annual basis. 
+ 
+As PJM receives evidence from the electric distribution companies pursuant to section 1.5A.3 of 
+PJM’s Economic Load Response Program, PJM will post on its website a list of those Relevant 
+Electric Retail Regulatory Authorities that the electric distribution companies assert prohibit or 
+condition retail participation in PJM’s Emergency Load Response and Pre-Emergency Load 
+Response Program together with a corresponding reference to the Relevant Electric Retail 
+Regulatory Authority evidence that is provided to PJM by the electric distribution companies. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.10 – Non-Hourly Metered 
+Effective Date: 8/3/2015 - Docket #: ER15-1849-000 - Page 1 
+8.10 Non-Hourly Metered Customer Pilot 
+ 
+Non-hourly metered customers may participate in the Emergency Load Response Program on a 
+pilot basis under the following circumstances.  The Curtailment Service Provider must propose 
+an alternate method for measuring hourly demand reductions.  The Office of the Interconnection 
+shall approve alternate measurement mechanisms on a case-by-case basis for a time period 
+specified by the Office of the Interconnection (“Pilot Period”).  . 
+ 
+Demand reductions by non-hourly metered customers using alternate measurement mechanisms 
+on a pilot basis shall be limited to a combined total of 500 MW of reductions in both the 
+Emergency Load Response Program and the PJM Interchange Energy Market.  With the sole 
+exception of the requirement for hourly metering, non-hourly metered customers shall be subject 
+to the rules and procedures for participation in the Emergency Load Response Program.  
+Following completion of a Pilot Period, the alternate method shall be evaluated by the Office of 
+the Interconnection to determine whether such alternate method should be included in the PJM 
+Manuals as an accepted measurement mechanism for demand reductions in the Emergency Load 
+Response Program. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTION 8 -  EMERGENCY 
+AND PRE-EM --> OATT Attachment K Appendix Section 8.11 – Emergency Load Res 
+Effective Date: 5/31/2024 - Docket #: ER24-1987-000 - Page 1 
+8.11 Emergency Load Response and Pre-Emergency Load Response Participant 
+Aggregation. 
+ 
+The purpose for aggregation is to allow the participation of end-use customers in the Emergency 
+Load Response and Pre-Emergency Load Response Programs that can provide less than 100 kW 
+of demand response on an individual basis.  Emergency Load Response and Pre-Emergency 
+Load Response Participant aggregations shall be subject to the following requirements: 
+ 
+ i. All end-use customers in an aggregation shall be specifically identified; 
+ 
+ ii. All end-use customers in an aggregation shall be served by the same electric 
+distribution company ; 
+ 
+ iii. All end-use customers in an aggregation that settle at Transmission Zone, existing 
+load aggregate,  or node prices shall be located in the same Transmission Zone, existing load 
+aggregate or at the same node, respectively; 
+ 
+ iv. Energy settlement will be based on each individual customer’s load reductions, or 
+a current statistical sample of end-use customers’ load reductions for non-interval metered 
+residential Direct Load Control customers as set forth in the PJM Manuals, pursuant to section 
+3.3A of Schedule 1 of this Agreement, the PJM Reliability Assurance Agreement Among Load 
+Serving Entities in the PJM Region and the PJM Manuals.  Capacity compliance will be based 
+on each individual customers’ load reductions, or a current statisitical sample of end-use 
+customers’ load reductions, and then aggregated pursuant to section 3.3A of Schedule 1 of this 
+Agreement, the PJM Reliability Assurance Agreement Among Load Serving Entities in the PJM 
+Region and the PJM Manuals; and 
+ 
+ v. Each end-use customer site must meet the requirements for market participation 
+by a Demand Resource. 
+ 
+  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT L List of Transmission Owners 
+Effective Date: 7/10/2024 - Docket #: ER24-1995-000 - Page 1 

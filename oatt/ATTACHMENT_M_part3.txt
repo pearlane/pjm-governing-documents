@@ -1,0 +1,351 @@
+[ATTACHMENT M - Part 3 of 3]
+
+ DCPLO LSE  = Daily Capacity Peak Load Obligation for a LSE  
+ 
+ CPLC   = Capacity Peak Load Contribution for a customer  
+ 
+ ComEdNPL Y = ComEd Weather Normalized Peak Load for Year Y, in kW  
+ 
+   = Summation over all customers  
+ 
+   = Summation over all customers of a LSE 
+ 
+   = Summation over all Wholesale Municipalities 
+ 
+ 
+Section 3 DETERMINATION OF DAILY NETWORK SERVICE PEAK 
+LOAD OBLIGATION 
+The Daily Network Service Peak Load Obligation (DNSPLO) for Attachment F LSEs in 
+ LSEcLSE CPLCDCPLO
+    
+     
+Am Ac
+LSEc
+AcYLSEcLSE
+CPLC CPLC
+CPLC
+CPLC ComEdNPL CPLC DCPLO
+Ac
+LSEc
+ Am
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (ComEd) 
+Effective Date: 9/1/2022 - Docket #: ER22-1520-001 - Page 5 
+the ComEd Zone is determined in accordance with the following equation:  
+ 
+ 
+ 
+The DNSPLO for Attachment F-1 LSEs in the ComEd Zone, is determined in accordance 
+with the following equation: 
+: 
+ 
+Where:  
+ 
+ DNSPLO LSE = Daily Network Service Peak Load Obligation for a LSE  
+ 
+ NSPLC   = Network Service Peak Load Contribution for a customer  
+ 
+ ComEd PL Y = ComEd Peak Load for Year Y, in kW  
+ 
+   = Summation over all customers  
+ 
+   = Summation over all customers of a LSE 
+ 
+   = Summation over all Wholesale Municipalities 
+ 
+ 
+III. FINAL HOURLY LOAD OBLIGATIONS 
+ 
+Section 1  PURPOSE 
+The purpose of Part III is to describe the methodology used to calculate the Final Hourly 
+Load Obligation for Load Serving Entities (LSEs) in the ComEd Zone.   
+ 
+Section 2 DETERMINING FINAL HOURLY LOAD OBLIGATION 
+ComEd, on a monthly basis, will perform a load reconciliation to determine the 
+difference between the Scheduled Hourly Load Obligation and the Final Hourly Load 
+Obligation for LSEs in the ComEd Zone.  The results of the reconciliation will be 
+reported to PJM Interconnection, LLC (“PJM”) for billing and settlement purposes. 
+ 
+Hourly Loads for customers shall be determined using customer meter data, adjusted for 
+applicable distribution and transmission losses.  In the event customer meter data is not 
+available, customer Hourly Loads may be estimated. 
+ 
+The Final Hourly Load Obligation (FHLO) for an Attachment F LSEs in the ComEd 
+Zone is determined in accordance with the following equation: 
+ 
+ LSEcLSE NSPLC DNSPLO
+    
+     
+Am Ac
+LSEc
+AcYLSEcLSE
+NSPLC NSPLC
+NSPLC
+NSPLC ComEdPL NSPLC DNSPLO
+Ac
+LSEc
+ Am
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (ComEd) 
+Effective Date: 9/1/2022 - Docket #: ER22-1520-001 - Page 6 
+ 
+ 
+The FHLO for an Attachment F-1 LSE in the ComEd Zone, is determined in accordance 
+with the following equation: 
+: 
+ 
+Where:  
+ 
+ FHLO LSE =   Final Hourly Load Obligation for a LSE 
+ 
+  HL     = Hourly Load for a customer, adjusted to include applicable    
+distribution and transmission losses 
+ 
+  ZL = ComEd Zone Load 
+ 
+   = Summation over all customers  
+ 
+   = Summation over all customers of a LSE 
+ 
+   = Summation over all Wholesale Municipalities 
+ 
+ 
+If adjustments are made to the Hourly Load of an Attachment F-1 LSE in the ComEd 
+Zone after the load reconciliation, ComEd may calculate the financial value of the 
+adjustment and report that value to PJM.  ComEd will also allocate the equal and 
+opposite financial value to all Attachment F-1 LSEs in the ComEd Zone, on a 
+load-ratio-share basis, and report the adjustments to PJM.  PJM will include any 
+adjustments in the next monthly billing statement issued by PJM to the affected LSE(s). 
+ 
+IV.  Administrative Provisions for Retail Electric Service 
+ 
+The terms and conditions included in this Attachment M-2, Section IV are available only for 
+such service in the ComEd Zone, and are not available under this RTO Tariff for any 
+transmission service outside of the ComEd Zone.  The rates, terms and conditions of the 
+Transmission Provider’s Open Access Transmission Tariff apply to the Illinois Retail Access 
+Program except as amended below. 
+ 
+  
+A Retail Electric Supplier (RES) is any Alternative Retail Supplier (ARES) under 
+Section 16-102 of the Illinois Public Utilities Act, 220 ILCS 5/16-102 or any Illinois 
+Electric Utility as defined in Section 16-102 of the Illinois Public Utilities Act, 220 ILCS 
+5/16-102 and, by reference, Section 3-105 of the Illinois Public Utilities Act, 220 ILCS 
+ LSEcLSE HLFHLO
+    
+     
+Am Ac
+LSEc
+Ac LSEcLSE
+HL HL
+HL
+HL ZL HL FHLO
+Ac
+LSEc
+ Am
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (ComEd) 
+Effective Date: 9/1/2022 - Docket #: ER22-1520-001 - Page 7 
+5/3-105 (or any agent of any such electric utility to the extent the electric utility provides 
+tariff services to retail customers through that agent) A utility that is not an Illinois 
+Electric Utility as defined above is not a RES unless it qualifies as an ARES, in 
+accordance with Illinois law, rules and regulations. 
+ 
+RES De-certification:  In the event that the State of Illinois de-certifies a Transmission 
+Customer who is not a retail customer under Section 1.11(ii) of the PJM Tariff, then 
+Transmission Provider may immediately terminate Transmission Service to the 
+de-certified Transmission Customer for the load of the retail customers supplied by such 
+Transmission Customer, provided that Transmission Owner’s retail service tariffs subject 
+to the jurisdiction of the State of Illinois provide for continuation of service to affected 
+retail customers as described in Section 1.11(ii) of the PJM Tariff by another supplier that 
+is a Transmission Customer. 
+ 
+In the event of a de-certification, and/or upon receipt of notification from PJM that a RES 
+is in default under PJM Tariff Section 7.3, ComEd, as EDC of the ComEd zone, will 
+immediately assume wholesale supply obligations consistent with the terms of the 
+ICC-approved rate schedules. 
+ 
+Term of Network Integration Transmission Service:  The minimum term for 
+Network Integration Transmission Service is one year or for any shorter period necessary 
+to accommodate retail access under Illinois law. 
+ 
+Commencement of Service:  Service under a Service Agreement for Point-to-Point 
+Transmission Service or under a Network Service Agreement shall not commence until 
+customer qualifies as a Transmission Customer under Transmission Provider’s OATT. 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (PSE&G) 
+Effective Date: 6/21/2017 - Docket #: ER17-1455-000 - Page 1 
+ATTACHMENT M-2 (PSE&G) 
+PROCEDURES FOR LOAD DETERMINATION 
+ 
+The procedures by which PSE&G will determine the peak and hourly loads reported to the 
+Transmission Provider are set forth in the following provisions. 
+ 
+A. CUSTOMER CAPACITY AND TRANSMISSION OBLIGATIONS 
+ 
+Both the capacity (generation) and transmission obligations for retail and wholesale customers 
+have been developed so that the sum of the individual customer obligations within a zone will 
+total the PJM Electric Distribution Companies (EDCs) zonal obligation.  This zonal obligation 
+may vary as provided for under the PJM Reliability Agreement due to the effects of net new 
+customer load.  PJM uses a “top down” method in allocating the PJM system peak load to each 
+EDC, while the transmission loads are EDC zone specific.  Each EDC uses a “bottom up” 
+approach to calculate individual peak loads based upon the zonal loads.  These preliminary 
+customer peak loads are then scaled up or down to match (1) the normalized peak load calculated 
+by PJM for each EDC for capacity purposes and (2) the actual zonal load for transmission 
+purposes.  Capacity peak loads, aggregated by Supplier, are adjusted for reserves and diversity 
+by PJM.  Transmission peak loads, aggregated by Supplier, transmitted to PJM need no further 
+adjustment. 
+ 
+Since retail customers within PSE&G’s zone are free to change suppliers, an obligation “tag” is 
+assigned to each customer for both capacity and transmission obligations. These tags are 
+recalculated periodically to incorporate new customers, changing customer usage and to ensure 
+consistency with the PJM and EDC peak loads and obligation calculations. 
+ 
+Discussed below is an explanation of how each individual customer’s capacity and transmission 
+peak load will be determined.  
+ 
+ 1. Customer Capacity Peak Load Determination  
+ 
+To calculate a retail and wholesale customer’s capacity peak load share, the total normalized 
+peak demand is first determined for each zone by PJM.  In the case of the PSE&G zone, the 
+normalized peak load in the Summer of 2016 was 9,530 MW.  This normalized peak load was 
+based upon allocating PJM’s normalized peak load to PSE&G using the ratio between PSE&G’s 
+actual load and PJM’s actual load during the five highest PJM peak hours. 
+ 
+In determining the peak load contribution for each of its customers, PSE&G will use the actual 
+hourly meter readings for hourly (interval) metered customers at the time of the five highest peak 
+hours for PJM.  For non-hourly metered customers, summer kWh usage and billing demand 
+information for each customer, along with load research (profile) data for customers in the same 
+rate class will be used.  There are several steps involved in the peak load calculation.  
+ 
+The first step requires the calculation of a preliminary peak load estimate for each customer 
+based on the available information.  For customers without demand meters, such as Rate 
+Schedule RS, this preliminary peak will be based on the individual customer summer energy use 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (PSE&G) 
+Effective Date: 6/21/2017 - Docket #: ER17-1455-000 - Page 2 
+and the summer seasonal load factor (weather adjusted) calculated from the appropriate profile 
+data.  For customers with non-interval demand meters, including most customers served under 
+PSE&G’s  Rate Schedule GLP, this preliminary peak is equal to the weighted average of their 
+June to September  billing demands. For customers with interval meters, such as Rate Schedule 
+HTS, the average of five coincident hourly peaks will be used.  The five hours will be based on 
+the same five peak hours identified by PJM, as discussed above.  If any of these hourly 
+customers were interrupted during the five hours due to Active Load Management (ALM) 
+events, their loads will be adjusted appropriately, or an alternate day peak load will be 
+substituted, so that their subsequent peak is on an “unrestricted” basis.  These adjustments are 
+necessary to be consistent with the PJM and EDC loads, which are also on an “unrestricted” 
+basis.  The impact of these ALM events will be treated and tracked separately. 
+ 
+The second step calls for the total of these individual loads (with appropriate losses added) to be 
+compared to the PSE&G normalized summer peak load calculated by PJM (9,530 MW as 
+discussed above).  A final scaling up or down is performed on each customer’s peak load so that 
+the total of the customer peaks equals the 9,530 MW. 
+ 
+An estimated peak load will also be assigned to each new customer added since the Summer 
+peak period, based on available information and/or system average values. 
+ 
+This information, aggregated by Supplier (including PSE&G Basic Generation Service), will be 
+transmitted to PJM.  PJM applies a reserve factor and a diversity factor to each Supplier’s 
+capacity peak load received from the EDC to determine the Supplier’s capacity obligation within 
+the PSE&G zone. 
+ 
+ 2. Customer Transmission Peak Load Determination 
+ 
+Each customer’s transmission load/obligation is calculated using a similar method as described 
+above for capacity.  The method above is adjusted as follows:  (1) the value assigned by PJM to 
+each zone is based upon the actual load for each zone at the single highest hour of the zone load 
+(not the weather normalized value) and  (2) allocation of the transmission peak load to individual 
+customers will be based on the five highest PSE&G zonal peak loads (not the five highest 
+coincident with PJM peak loads). 
+ 
+This information, supplied by the Company and aggregated by Supplier, is transmitted to PJM.  
+No further adjustment is required by PJM. 
+ 
+DETERMINATION OF HOURLY LOAD OBLIGATIONS FOR THE LOAD 
+SERVING ENTITIES 
+OVERVIEW 
+PSE&G settles hourly load obligations with each LSE and PJM via a two-step process.   
+ 
+Settlement A – PSE&G determines the estimated (delivery day) hourly load responsibility by 
+recreating the load characteristics of the delivery day in question using a combination of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (PSE&G) 
+Effective Date: 6/21/2017 - Docket #: ER17-1455-000 - Page 3 
+available known, preliminary, and historically-based information.  PSE&G then submits the load 
+responsibility for all LSEs serving load on the settled day(s) to PJM in accordance with PJM 
+procedural requirements and energy market schedules.  
+ 
+Settlement B – PSE&G determines the final hourly load responsibility 60 days after the end of 
+the energy delivery month by reconciling actual individual customer meter readings and 
+applicable dynamic load profile data with the Settlement A data for that month.  PSE&G then 
+calculates and submits the energy variances from Settlement A hourly scheduling in aggregate 
+for all LSEs and PJM Contract Numbers to PJM in accordance with PJM procedural 
+requirements and energy market schedules. 
+ 
+All hourly load obligations are adjusted for transmission and distribution losses. 
+ 
+SETTLEMENT A (ESTIMATED HOURLY LOAD OBLIGATIONS) 
+FOR INTERVAL-SETTLED CUSTOMERS: 
+ 
+PSE&G calculates the estimated load responsibility for each individual customer 
+based on actual interval data transmitted overnight to the settlement system. 
+ 
+FOR ALL OTHER CUSTOMERS: 
+ 
+PSE&G calculates customers’estimated hourly load responsibility based on the 
+customer’s assigned dynamic load profile and scaling factor.  PSE&G assigns new 
+customers the default scaling factors for their rate class and assigned dynamic load 
+profile. 
+ 
+Following the above, PSE&G aggregates all of the customers’ load responsibilities by LSE, and 
+adds transmission and distribution losses. PSE&G allocates any remaining Unaccounted-For 
+Energy to all customers by load share ratio of monthly settled load and applies this to the 
+estimated hourly load responsibilities. 
+ 
+Finally, PSE&G creates energy schedules by PJM Contract Number and submits them to PJM in 
+accordance with PJM procedural requirements and energy market schedules. 
+ 
+SETTLEMENT B (“60 DAY SETTLEMENT—FINAL” HOURLY LOAD 
+OBLIGATIONS) 
+For interval-settled customers, PSE&G uses the customer’s actual interval data to determine the 
+associated hourly load obligations, and then adjusts for losses. 
+ 
+For monthly-settled customers, PSE&G converts the monthly aggregate consumption into hourly 
+consumption values for the related billing periods.  PSE&G accomplishes this by generating an 
+hourly load profile  for the periods based directly on a sample customers actual hourly load, then 
+scaling that load shape to tie to the customer’s actual usage for the billing period, calculating the 
+associated hourly load obligation values, and adjusting those values for losses. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (PSE&G) 
+Effective Date: 6/21/2017 - Docket #: ER17-1455-000 - Page 4 
+For all customers, PSE&G then calculates a “bottom-up” load shape for the energy delivery 
+month being reconciled and compares that shape with a load shape comprised of actual metered 
+PSE&G zone load.  PSE&G considers any resulting variance as being Unaccounted-For Energy 
+for that hour and allocates it to hourly load obligations as appropriate. 
+ 
+PSE&G then calculates the difference between the estimated load obligations previously 
+determined in Settlement A and the final hourly load obligations for Settlement B, aggregating 
+the resulting variances by LSE and subsequently by PJM Contract Number. PSE&G then reports 
+the resulting energy variances to PJM.  PJM incorporates the variances as adjustments within its 
+market settlement processes with LSEs. 
+ 
+If adjustments are made to the Hourly Load of a LSE in the PSE&G Zone after this load 
+reconciliation, PSE&G may calculate the financial value of the adjustment and report that value 
+to PJM. PSE&G will also allocate the equal and opposite financial value to all LSEs in the 
+PSE&G Zone, on a load-ratio share basis, and report the adjustments to PJM. PJM will include 
+any adjustments in the next monthly billing statement issued by PJM to the affected LSE(s). 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT M-2 (Atlantic City Electric Co.) 
+Effective Date: 7/14/2011 - Docket #: ER11-4040-000 - Page 1 

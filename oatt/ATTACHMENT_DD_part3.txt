@@ -1,0 +1,1069 @@
+[ATTACHMENT DD - Part 3 of 7]
+
+Reliability Requirement and, respectively, the PJM Region Reliability Requirement, or LDA 
+Reliability Requirement, utilized in the most recent prior auction conducted for such Delivery 
+Year minus any capacity sell-back amount determined by PJM to be required for the PJM 
+Region or such LDA by Tariff, Attachment DD, section 5.4(c)(3)(ii), plus (D) the reduction in 
+Unforced Capacity commitments associated with the transition provisions of Tariff, Attachment 
+DD, section 5.5A(c)(i)(B) and RAA, Schedule 6, section L.9, provided, however, that the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.12 Conduct of RPM Auctions 
+Effective Date: 5/31/2024 - Docket #: ER26-1099-000 - Page 4 
+amount sold in total for all LDAs and the PJM Region related to a delay in a Backbone 
+Transmission upgrade may not exceed the amounts purchased in total for all LDAs and the PJM 
+Region related to a delay in a Backbone Transmission upgrade.  If the result of such equation is a 
+positive quantity, the Office of the Interconnection shall employ in the clearing of such auction a 
+portion of the Updated VRR Curve Increment extending right from the left-most point on that 
+curve in a megawatt amount equal to that positive quantity defined above, to seek to procure 
+such quantity.  If the result of such equation is a negative quantity, the Office of the 
+Interconnection shall employ in the clearing of the auction a portion of the Updated VRR Curve 
+Decrement, extending and ascending to the left from the right-most point on that curve in a 
+megawatt amount corresponding to the negative quantity defined above, to seek to sell back such 
+quantity.   
+ 
+(iv) If none of the tests for adjustment of capacity procurement in subsections 
+(i), (ii), or (iii) is satisfied for the PJM Region or an LDA in a Scheduled Incremental Auction, 
+the Office of the Interconnection first shall determine the total quantity of (A) the amount that 
+the Office of the Interconnection sought to procure in prior Scheduled Incremental Auctions for 
+such Delivery Year that does not clear such auction, minus (B) the amount that the Office of the 
+Interconnection sought to sell back in prior Scheduled Incremental Auctions for such Delivery 
+Year that does not clear such auction.  If the result of such equation is a positive quantity, the 
+Office of the Interconnection shall employ in the clearing of such auction a portion of the 
+Updated VRR Curve Increment extending right from the left-most point on that curve in a 
+megawatt amount equal to that positive quantity defined above, to seek to procure such quantity.  
+If the result of such equation is a negative quantity, the Office of the Interconnection shall 
+employ in the clearing of the auction a portion of the Updated VRR Curve Decrement, extending 
+and ascending to the left from the right-most point on that curve in a megawatt amount 
+corresponding to the negative quantity defined above, to seek to sell back such quantity.   
+ 
+(v)  (reserved) 
+ 
+ (vi) If the above tests are triggered for an LDA and for another LDA wholly 
+located within the first LDA, the Office of the Interconnection may adjust the amount of any Sell 
+Offer or Buy Bids otherwise required by subsections (i), (ii), or (iii) above in one LDA as 
+appropriate to take into account any reliability impacts on the other LDA.  
+ 
+ (vii) The optimization algorithm shall calculate the overall clearing result to 
+minimize the cost to satisfy the Unforced Capacity Obligation of the PJM Region to account for 
+the updated PJM Peak Load Forecast and the cost of committing replacement capacity in 
+response to the Buy Bids submitted, while satisfying or honoring such reliability requirements 
+and constraints, in the same manner as set forth in subsection (a) above. 
+ 
+ (viii) Load Serving Entities may be entitled to certain credits (“Excess 
+Commitment Credits”) under certain circumstances as follows: 
+ 
+(A) [Reserved] 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.12 Conduct of RPM Auctions 
+Effective Date: 5/31/2024 - Docket #: ER26-1099-000 - Page 5 
+(B) For any Delivery Year beginning with the Delivery Year that commences 
+June 1, 2012, the total amount  that the Office of the Interconnection 
+sought to sell back pursuant to subsection (b)(iii) above in the Scheduled 
+Incremental Auctions for such Delivery Year that does not clear such 
+auctions, less the total amount that the Office of the Interconnection 
+sought to procure pursuant to subsections (b)(i) and (b)(ii) above in the 
+Scheduled Incremental Auctions for such Delivery Years that does not 
+clear such auctions, will be allocated to Load Serving Entities as set forth 
+below;  
+ 
+(C) the amount from (A) or (B) above for the PJM Region shall be allocated 
+among Locational Deliverability Areas pro rata based on the reduction for 
+each such Locational Deliverability Area in the peak load forecast from 
+the time of the Base Residual Auction to the time of the Third Incremental 
+Auction; provided, however, that the amount allocated to a Locational 
+Deliverability Area may not exceed the reduction in the corresponding 
+Reliability Requirement for such Locational Deliverability Area; and 
+provided further that any LDA with an increase in its load forecast shall 
+not be allocated any Excess Commitment Credits; 
+ 
+(D) the amount, if any, allocated to a Locational Deliverability Area shall be 
+further allocated among Load Serving Entities in such areas that are 
+charged a Locational Reliability Charge based on the Daily Unforced 
+Capacity Obligation of such Load Serving Entities as of June 1 of the 
+Delivery Year and shall be constant for the entire Delivery Year.  Excess 
+Commitment Credits may be used as Replacement Capacity or traded 
+bilaterally. 
+ 
+ c) Conditional Incremental Auction   
+ 
+For each Conditional Incremental Auction, the optimization algorithm shall consider: 
+ 
+ The quantity and location of capacity required to address the identified reliability 
+concern that gave rise to the Conditional Incremental Auction;  
+  
+ All applicable Capacity Import Limits; 
+ 
+ the same Capacity Emergency Transfer Limits that were modeled in the Base 
+Residual Auction, or any updated value resulting from a Conditional Incremental 
+Auction; and  
+ 
+ the Sell Offers submitted in such auction.   
+ 
+The Office of the Interconnection shall submit a Buy Bid based on the quantity and location of 
+capacity required to address the identified reliability violation at a Buy Bid price equal to 1.5 
+times Net CONE.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.12 Conduct of RPM Auctions 
+Effective Date: 5/31/2024 - Docket #: ER26-1099-000 - Page 6 
+ 
+The optimization algorithm shall calculate the overall clearing result to minimize the cost to 
+address the identified reliability concern, while satisfying or honoring such reliability 
+requirements and constraints. 
+ 
+ d) Equal-priced Sell Offers 
+ 
+If two or more Sell Offers submitted in any auction satisfying all applicable constraints include 
+the same offer price, and some, but not all, of the Unforced Capacity of such Sell Offers is 
+required to clear the auction, then the auction shall be cleared in a manner that minimizes total 
+costs, including total make-whole payments if any such offer includes a minimum block and, to 
+the extent consistent with the foregoing, in accordance with the following additional principles: 
+ 
+1) as necessary, the optimization shall clear such offers that have a flexible 
+megawatt quantity, and the flexible portions of such offers that include a minimum block that 
+already has cleared, where some but not all of such equal-priced flexible quantities are required 
+to clear the auction, pro rata based on their flexible megawatt quantities; and  
+ 
+2) when equal-priced minimum-block offers would result in equal overall 
+costs, including make-whole payments, and only one such offer is required to clear the auction, 
+then the offer that was submitted earliest to the Office of the Interconnection, based on its 
+assigned timestamp, will clear. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.13 Certification of ILR 
+Effective Date: 5/28/2013 - Docket #: ER13-1166-000 - Page 1 
+5.13 [Reserved] 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 1 
+5.14 Clearing Prices and Charges 
+ 
+ a) Capacity Resource Clearing Prices  
+ 
+For each Base Residual Auction and Incremental Auction, the Office of the Interconnection shall 
+calculate a clearing price to be paid for each megawatt-day of Unforced Capacity that clears in 
+such auction.  The Capacity Resource Clearing Price for each LDA will be the marginal value of 
+system capacity for the PJM Region, without considering locational constraints, adjusted as 
+necessary by any applicable Locational Price Adders, Annual Resource Price Adders, Extended 
+Summer Resource Price Adders, Limited Resource Price Decrements, Sub-Annual Resource 
+Price Decrements, Base Capacity Demand Resource Price Decrements, and Base Capacity 
+Resource Price Decrements, all as determined by the Office of the Interconnection based on the 
+optimization algorithm.   If a Capacity Resource is located in more than one Locational 
+Deliverability Area, it shall be paid the highest Locational Price Adder in any applicable LDA in 
+which the Sell Offer for such Capacity Resource cleared. The Annual Resource Price Adder is 
+applicable for Annual Resources only.  The Extended Summer Resource Price Adder is 
+applicable for Annual Resources and Extended Summer Demand Resources.   
+ 
+The Locational Price Adder applicable to each cleared Seasonal Capacity Performance Resource 
+is determined during the post-processing of the RPM Auction results consistent with the manner 
+in which the auction clearing algorithm recognizes the contribution of Seasonal Capacity 
+Performance Resource Sell Offers in satisfying an LDA’s reliability requirement.  For each LDA 
+with a positive Locational Price Adder with respect to the immediate higher level LDA, starting 
+with the lowest level constrained LDAs and moving up, PJM determines the quantity of equally 
+matched Summer-Period Capacity Performance Resources and Winter-Period Capacity 
+Performance Resources located and cleared within that LDA.  Up to this quantity, the cleared 
+Summer-Period Capacity Performance Resources and Winter-Period Capacity Performance 
+Resources with the lowest Sell Offer prices will be compensated using the highest Locational 
+Price Adder applicable to such LDA; and any remaining Seasonal Capacity Performance 
+Resources cleared within the LDA are effectively moved to the next higher level constrained 
+LDA, where they are considered in a similar manner for compensation. 
+ 
+ b) Resource Make-Whole Payments 
+ 
+If a Sell Offer specifies a minimum block, and only a portion of such block is needed to clear the 
+market in a Base Residual or Incremental Auction, the MW portion of such Sell Offer needed to 
+clear the market shall clear, and such Sell Offer shall set the marginal value of system capacity.  
+In addition, the Capacity Market Seller shall receive a Resource Make-Whole Payment equal to 
+the Capacity Resource Clearing Price in such auction times the difference between the Sell 
+Offer's minimum block MW quantity and the Sell Offer's cleared MW quantity.  If the Sell Offer 
+price of a cleared Seasonal Capacity Performance Resource exceeds the applicable Capacity 
+Resource Clearing Price, the Capacity Market Seller shall receive a Resource Make-Whole 
+Payment equal to the difference between the Sell Offer price and Capacity Resource Clearing 
+Price in such RPM Auction.  The cost for any such Resource Make-Whole Payments required in 
+a Base Residual Auction or Incremental Auction for adjustment of prior capacity commitments 
+shall be collected pro rata from all LSEs in the LDA in which such payments were made, based 
+on their Daily Unforced Capacity Obligations. The cost for any such Resource Make-Whole 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 2 
+Payments required in an Incremental Auction for capacity replacement shall be collected from all 
+Capacity Market Buyers in the LDA in which such payments were made, on a pro-rata basis 
+based on the MWs purchased in such auction. 
+ 
+ c) New Entry Price Adjustment  
+ 
+A Capacity Market Seller that submits a Sell Offer based on a Planned Generation Capacity 
+Resource that clears in the BRA for a Delivery Year may, at its election, submit Sell Offers with 
+a New Entry Price Adjustment in the BRAs for the two immediately succeeding Delivery Years 
+if: 
+ 
+1. Such Capacity Market Seller provides notice of such election at the time it 
+submits its Sell Offer for such resource in the BRA for the first Delivery Year for which such 
+resource is eligible to be considered a Planned Generation Capacity Resource.  When the 
+Capacity Market Seller provides notice of such election, it must specify whether its Sell Offer is 
+contingent upon qualifying for the New Entry Price Adjustment.  The Office of the 
+Interconnection shall not clear such contingent Sell Offer if it does not qualify for the New Entry 
+Price Adjustment. 
+ 
+2. All or any part of a Sell Offer from the Planned Generation Capacity 
+Resource submitted in accordance with section 5.14(c)(1) is the marginal Sell Offer that sets the 
+Capacity Resource Clearing Price for the LDA. 
+ 
+3. Acceptance of all or any part of a Sell Offer that meets the conditions in 
+section 5.14(c)(1)-(2) in the BRA increases the total Unforced Capacity committed in the BRA 
+(including any minimum block quantity) for the LDA in which such Resource will be located 
+from a megawatt quantity below the LDA Reliability Requirement to a megawatt quantity at or 
+above a megawatt quantity at the price-quantity point on the VRR Curve at which the price is 
+0.40 times the applicable Net CONE divided by (one minus the pool-wide average EFORd) 
+through the 2024/2025 Delivery Year, and beginning with the 2025/2026 Delivery Year, divided 
+by the applicable ELCC Class Rating for the Reference Resource. 
+ 
+4. Such Capacity Market Seller submits Sell Offers in the BRA for the two 
+immediately succeeding Delivery Years for the entire Unforced Capacity of such Generation 
+Capacity Resource committed in the first BRA under section 5.14(c)(1)-(2) equal to the lesser of: 
+A) the price in such seller’s Sell Offer for the BRA in which such resource qualified as a Planned 
+Generation Capacity Resource that satisfies the conditions in section 5.14(c)(1)-(3); or B) 0.90 
+times the Net CONE applicable in the first BRA in which such Planned Generation Capacity 
+Resource meeting the conditions in section 5.14(c)(1)-(3) cleared, on an Unforced Capacity 
+basis, for such LDA. 
+ 
+5. If the Sell Offer is submitted consistent with section 5.14(c)(1)-(4) the 
+foregoing conditions, then: 
+ 
+(i) in the first Delivery Year, the Resource sets the Capacity Resource 
+Clearing Price for the LDA and all cleared resources in the LDA receive 
+the Capacity Resource Clearing Price set by the Sell Offer as the marginal 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 3 
+offer, in accordance with Tariff, Attachment DD, section 5.12(a) and 
+section 5.14(a) above.  
+ 
+(ii) in either of the subsequent two BRAs, if any part of the Sell Offer from 
+the Resource clears, it shall receive the Capacity Resource Clearing Price 
+for such LDA for its cleared capacity and for any additional minimum 
+block quantity pursuant to section 5.14(b) above; or 
+ 
+(iii) if the Resource does not clear, it shall be deemed resubmitted at the 
+highest price per MW-day at which the megawatt quantity of Unforced 
+Capacity of such Resource that cleared the first-year BRA will clear the 
+subsequent-year BRA pursuant to the optimization algorithm described in 
+Tariff, Attachment DD, section 5.12(a), and  
+ 
+(iv) the resource with its Sell Offer submitted shall clear and shall be 
+committed to the PJM Region in the amount cleared, plus any additional 
+minimum-block quantity from its Sell Offer for such Delivery Year, but 
+such additional amount shall be no greater than the portion of a minimum-
+block quantity, if any, from its first-year Sell Offer satisfying section 
+5.14(c)(1)-(3) above that is entitled to compensation pursuant to section 
+5.14(b) above; and 
+ 
+(v) the Capacity Resource Clearing Price, and the resources cleared, shall be 
+re-determined to reflect the resubmitted Sell Offer.  In such case, the 
+Resource for which the Sell Offer is submitted pursuant to section 
+5.14(c)(1)-(4) above shall be paid for the entire committed quantity at the 
+Sell Offer price that it initially submitted in such subsequent BRA.  The 
+difference between such Sell Offer price and the Capacity Resource 
+Clearing Price (as well as any difference between the cleared quantity and 
+the committed quantity), will be treated as a Resource Make-Whole 
+Payment in accordance with section 5.14(b) above.  Other capacity 
+resources that clear the BRA in such LDA receive the Capacity Resource 
+Clearing Price as determined in section 5.14(a) above. 
+ 
+6. The failure to submit a Sell Offer consistent with section 5.14(c)(i)-(iii) 
+above in the BRA for Delivery Year 3 shall not retroactively revoke the New Entry Price 
+Adjustment for Delivery Year 2.  However, the failure to submit a Sell Offer consistent with 
+section 5.14(c)(4) above in the BRA for Delivery Year 2 shall make the resource ineligible for 
+the New Entry Pricing Adjustment for Delivery Years 2 and 3. 
+ 
+7. For each Delivery Year that the foregoing conditions are satisfied, the 
+Office of the Interconnection shall maintain and employ in the auction clearing for such LDA a 
+separate VRR Curve, notwithstanding the outcome of the test referenced in Tariff, Attachment 
+DD, section 5.10(a)(ii). 
+ 
+8. On or before August 1, 2012, PJM shall file with FERC under FPA 
+section 205, as determined necessary by PJM following a stakeholder process, tariff changes to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 4 
+establish a long-term auction process as a not unduly discriminatory means to provide adequate 
+long-term revenue assurances to support new entry, as a supplement to or replacement of this 
+New Entry Price Adjustment.    
+ 
+ d) Qualifying Transmission Upgrade Payments 
+ 
+A Capacity Market Seller that submitted a Sell Offer based on a Qualifying Transmission 
+Upgrade that clears in the Base Residual Auction shall receive a payment equal to the Capacity 
+Resource Clearing Price, including any Locational Price Adder, of the LDA into which the 
+Qualifying Transmission Upgrade is to increase Capacity Emergency Transfer Limit, less the 
+Capacity Resource Clearing Price, including any Locational Price Adder, of the LDA from 
+which the upgrade was to provide such increased CETL, multiplied by the megawatt quantity of 
+increased CETL cleared from such Sell Offer.  Such payments shall be reflected in the 
+Locational Price Adder determined as part of the Final Zonal Capacity Price for the Zone 
+associated with such LDAs, and shall be funded through a reduction in the Capacity Transfer 
+Rights allocated to Load-Serving Entities under Tariff, Attachment DD, section 5.15, as set forth 
+in that section.  PJMSettlement shall be the Counterparty to any cleared capacity transaction 
+resulting from a Sell Offer based on a Qualifying Transmission Upgrade.   
+ 
+ e) Locational Reliability Charge  
+ 
+In accordance with the Reliability Assurance Agreement, each LSE shall incur a Locational 
+Reliability Charge (subject to certain offsets and other adjustments as described in Tariff, 
+Attachment DD, section 5.14B, Tariff, Attachment DD, section 5.14C, Tariff, Attachment DD, 
+section 5.14D, Tariff, Attachment DD, section 5.14E and Tariff, Attachment DD, section 5.15) 
+equal to such LSE’s Daily Unforced Capacity Obligation in a Zone during such Delivery Year 
+multiplied by the applicable Final Zonal Capacity Price in such Zone.  PJMSettlement shall be 
+the Counterparty to the LSEs’ obligations to pay, and payments of, Locational Reliability 
+Charges. 
+ 
+ f) The Office of the Interconnection shall determine Zonal Capacity Prices in 
+accordance with the following, based on the optimization algorithm: 
+ 
+i) The Office of the Interconnection shall calculate and post the Preliminary 
+Zonal Capacity Prices for each Delivery Year following the Base Residual Auction for such 
+Delivery Year. The Preliminary Zonal Capacity Price for each Zone shall be the sum of: 1) the 
+marginal value of system capacity for the PJM Region, without considering locational 
+constraints; 2) the Locational Price Adder, if any, for the LDA in which such Zone is located; 
+provided however, that if the Zone contains multiple LDAs with different Capacity Resource 
+Clearing Prices, the Zonal Capacity Price shall be a weighted average of the Capacity Resource 
+Clearing Prices for such LDAs, weighted by the Unforced Capacity of Capacity Resources 
+cleared in each such LDA; 3) an adjustment, if required, to account for adders paid to Annual 
+Resources and Extended Summer Demand Resources in the LDA for which the zone is located; 
+4) an adjustment, if required, to account for Resource Make-Whole Payments; and (5) an 
+adjustment, if required to provide sufficient revenue for payment of any PRD Credits, all as 
+determined in accordance with the optimization algorithm. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 5 
+ii) The Office of the Interconnection shall calculate and post the Adjusted 
+Zonal Capacity Price following each Incremental Auction.  The Adjusted Zonal Capacity Price 
+for each Zone shall equal the sum of:  (1) the average marginal value of system capacity 
+weighted by the Unforced Capacity cleared in all auctions previously conducted for such 
+Delivery Year (excluding any Unforced Capacity cleared as replacement capacity); (2) the 
+average Locational Price Adder weighted by the Unforced Capacity cleared in all auctions 
+previously conducted for such Delivery Year (excluding any Unforced Capacity cleared as 
+replacement capacity); (3) an adjustment, if required, to account for adders paid to Annual 
+Resources and Extended Summer Demand Resources for all auctions previously conducted for 
+such Delivery Year (excluding any Unforced Capacity cleared as replacement capacity); (4) an 
+adjustment, if required, to account for Resource Make-Whole Payments for all actions previously 
+conducted (excluding any Resource Make-Whole Payments to be charged to the buyers of 
+replacement capacity); and (5) an adjustment, if required to provide sufficient revenue for 
+payment of any PRD Credits. The Adjusted Zonal Capacity Price may decrease if Unforced 
+Capacity is decommitted or the Resource Clearing Price decreases in an Incremental Auction.  
+ 
+iii) The Office of the Interconnection shall calculate and post the Final Zonal 
+Capacity Price for each Delivery Year after the final auction is held for such Delivery Year, as 
+set forth above.  The Final Zonal Capacity Price for each Zone shall equal the Adjusted Zonal 
+Capacity Price, as further adjusted to reflect any decreases in the Nominated Demand Resource 
+Value of any existing Demand Resource cleared in the Base Residual Auction, First Incremental, 
+or Second Incremental Auction. 
+ 
+ g) Resource Substitution Charge 
+ 
+Each Capacity Market Buyer in an Incremental Auction securing replacement 
+capacity shall pay a Resource Substitution Charge equal to the Capacity Resource Clearing Price 
+resulting from such auction multiplied by the megawatt quantity of Unforced Capacity purchased 
+by such Market Buyer in such auction.  
+ 
+ h) [Reserved for future use] 
+ h-1) [Reserved for future use] 
+h-2) Minimum Offer Price Rule Effective with the 2023/2024 Delivery Year 
+ 
+(1) Certification Requirement.  
+ 
+(A) By no later than one hundred and fifty (150) days prior to the 
+commencement of the offer period of any RPM Auction conducted for the 2024/2025 Delivery 
+Year and all subsequent Delivery Years, and by the date posted on the PJM website for the 
+2023/2024 Delivery Year, each Capacity Market Seller must certify to the Office of 
+Interconnection for each Generation Capacity Resource and each applicable DER Capacity 
+Aggregation Resource the Capacity Market Seller intends to offer into the RPM Auction, in 
+accordance with the PJM Manuals:  
+ 
+(i) whether or not the Generation Capacity Resource is receiving or 
+expected to receive Conditioned State Support under any legislative or other governmental 
+policy or program that has been enacted or effective at the time of the certification; and   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 6 
+ 
+(ii) whether or not the Capacity Market Seller acknowledges and 
+understands that the Exercise of Buyer-Side Market Power is not permitted in RPM Auctions, 
+and does not intend to submit a Sell Offer for their Generation Capacity Resource as an Exercise 
+of Buyer-Side Market Power. 
+ 
+(B) All Capacity Market Sellers shall be responsible for the accuracy 
+of each certification and its conformance with the Tariff irrespective of any guidance developed 
+by the Office of the Interconnection and the Market Monitoring Unit. 
+ 
+(C) Once a Capacity Market Seller has certified whether or not a 
+Generation Capacity Resource is receiving or expected to receive Conditioned State Support, the 
+certification requirements in subsection (A)(i) above do not apply and the status of such 
+Generation Capacity Resource will remain unchanged unless and until the Capacity Market 
+Seller (or a subsequent Capacity Market Seller of the underlying resource) that owns or controls 
+such Generation Capacity Resource provides a certification of a change in such status, the Office 
+of the Interconnection removes such status, or by FERC order.  All Capacity Market Sellers shall 
+have an ongoing obligation to certify to the Office of Interconnection and the Market Monitoring 
+Unit a Generation Capacity Resource’s material change in status regarding whether such 
+resource is receiving or expected to receive Conditioned State Support within 30 days of such 
+material change. Nothing in this provision shall supersede the requirement for all Capacity 
+Market Sellers to certify to the Office of Interconnection pursuant to Tariff, Attachment DD, 
+section 5.14(h-2)(1)(A)(ii).  
+ 
+(2) Determining Generation Capacity Resources Subject to the Minimum 
+Offer Price Rule.   
+ 
+(A) Conditioned State Support.   
+ 
+(i) If the Office of the Interconnection reasonably believes a 
+government policy or program would provide Conditioned State Support or a Capacity Market 
+Seller certifies that it is receiving or is expected to receive Conditioned State Support associated 
+with a given Generation Capacity Resource, the Office of Interconnection shall submit, pursuant 
+to section 205 of the Federal Power Act, 16 U.S.C. § 824d, a filing at FERC indicating the Office 
+of the Interconnection’s intent to classify the government policy or program from which that 
+support is derived as Conditioned State Support (and adding such policy or program to the list in 
+Tariff, Attachment DD-3) and apply the Minimum Offer Price Rule to each Generation Capacity 
+Resource reasonably expected to receive such Conditioned State Support.  If FERC has already 
+ruled on whether a specific government program or policy constitutes Conditioned State Support 
+and such policy or program is listed in Tariff, Attachment DD-3, the Office of the 
+Interconnection shall not be required to submit the filing described in the preceding sentence.   
+ 
+(ii) Government policies or programs that do not provide payments 
+or other financial benefit outside of PJM markets and do not provide payment or other financial 
+benefit in exchange for the sale of a FERC-jurisdictional product conditioned on clearing in any 
+RPM Auction do not constitute Conditioned State Support. Examples of such government 
+policies that do not constitute Conditioned State Support may include, but are not limited to: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 7 
+policies designed to procure, incent, or require environmental attributes, whether bundled or 
+unbundled (e.g., Renewable Energy Credits, Zero Emission Credits; Regional Greenhouse Gas 
+Initiative); economic development programs and policies; tax incentives; state retail default 
+service auctions; policies or programs that provide incentives related to fuel supplies; any 
+contract, legally enforceable obligation, or rate pursuant to the Public Utility Regulatory Policies 
+Act or any other state-administered federal regulatory program (e.g., Cross-State Air Pollution 
+Rule). In addition, Conditioned State Support shall not be determined solely based on the 
+business model of the Capacity Market Seller, such that the fact that a Self-Supply Entity is the 
+Capacity Market Seller, for example, is not a basis for determining Conditioned State Support.   
+ 
+(iii) Upon FERC acceptance (whether by order or operation of law) 
+that a government policy or program or contract with a state entity constitutes Conditioned State 
+Support, a Generation Capacity Resource for which a Capacity Market Seller certifies pursuant 
+to Tariff, Attachment DD, section 5.14(h-2)(1)(A)(i) that it is receiving Conditioned State 
+Support or is reasonably expected to receive such Conditioned State Support, as identified by the 
+Office of the Interconnection, with the advice and input of the Market Monitoring Unit, will be 
+subject to the provisions of the Minimum Offer Price Rule. 
+ 
+(B) Exercise of Buyer-Side Market Power  
+ 
+(i) If a Capacity Market Seller does not certify that it 
+acknowledges the prohibition of the Exercise of Buyer Side Market Power and the Capacity 
+Market Seller intends to exercise Buyer-Side Market Power for this Generation Capacity 
+Resource, then the underlying Capacity Resource shall be subject to the MOPR pursuant to 
+Tariff, Attachment DD, section 5.14(h-2)(1)(A)(i). If the Office of the Interconnection and/or the 
+Market Monitoring Unit reasonably suspects that a certification submitted under Tariff, 
+Attachment DD, section 5.14(h-2)(1)(A)(ii) contains fraudulent or material misrepresentations 
+such that the Capacity Market Seller’s Generation Capacity Resource may be the subject of a 
+Sell Offer that would be an Exercise of Buyer-Side Market Power or otherwise reasonably 
+suspects that a Generation Capacity Resource may be the subject of a Sell Offer that would be an 
+Exercise of Buyer-Side Market Power, the Office of the Interconnection and/or the Market 
+Monitoring Unit shall initiate a fact-specific review into the facts and circumstances regarding 
+the Generation Capacity Resource and whether the Capacity Market Seller has the ability and 
+incentive to exercise Buyer-Side Market Power with respect to such Generation Capacity 
+Resource.  During such fact-specific review, the Capacity Market Seller will have the 
+opportunity to explain and justify why a Sell Offer for the Generation Capacity Resource would 
+not be an Exercise of Buyer-Side Market Power.  The Office of the Interconnection and/or the 
+Market Monitoring Unit shall notify the Capacity Market Seller of the bases for inquiry and 
+initiation of review at least 135 days in advance of the RPM Auction conducted for the 
+2024/2025 Delivery Year and all subsequent Delivery Years, and by the date posted on the PJM 
+website for the 2023/2024 Delivery Year.  
+ 
+In initiating a review, the Office of the Interconnection and/or the 
+Market Monitoring Unit shall provide the affected Capacity Market Seller, in writing, the basis 
+for its inquiry, including, but not limited to, the Generation Capacity Resource(s), and the 
+purported beneficiary of any price suppression.  The Office of the Interconnection and/or the 
+Market Monitoring Unit may request from the Capacity Market Seller additional information and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 8 
+documentation that is reasonably related to the basis for its inquiry, provided that, the Office of 
+the Interconnection and the Market Monitoring Unit shall confer with the Capacity Market Seller 
+in advance of any such requests.  The Capacity Market Seller shall provide any additional 
+supporting information and documentation requested by the Office of the Interconnection and/or 
+the Market Monitoring Unit, and any other information and documentation the Capacity Market 
+Seller believes may justify the conduct or action in question as not representing an Exercise of 
+Buyer-Side Market Power, within 15 days or other such timeline as agreed to in writing by the 
+Office of the Interconnection, Market Monitoring Unit and Capacity Market Seller.   
+ 
+The fact-specific review will determine, as necessary, whether a 
+Capacity Market Seller has the ability and incentive to submit a Sell Offer for the Generation 
+Capacity Resource that could be an Exercise of Buyer-Side Market Power, as follows: 
+ 
+(a) To determine whether a Capacity Market Seller may 
+have Buyer Side Market Power associated with the Generation Capacity Resource for the 
+applicable RPM Auction, the Office of the Interconnection and/or the Market Monitoring Unit 
+will perform ex-ante testing to determine the extent to which a shift in the supply curve by a 
+number of megawatts equal to the size of the Generation Capacity Resource would affect RPM 
+Auction clearing prices, where such analysis would reflect expected supply and demand 
+conditions in the region of the market clearing prices and quantities in recent RPM Auctions, 
+would reflect whether the relevant LDAs have been constrained in recent RPM Auctions, and 
+would reflect reasonably expected material changes in an LDA including the modeling of the 
+LDA and expected changes in supply and demand for the applicable Delivery Year.  To the 
+extent the foregoing analyses show that the Generation Capacity Resource would have a material 
+effect on RPM Auction clearing prices, the Capacity Market Seller shall be deemed to have the 
+ability to exercise Buyer Side Market Power. 
+ 
+(b) To determine whether the Capacity Market Seller’s 
+submission of a Sell Offer at any given price level for such Generation Capacity Resource may 
+constitute an Exercise of Buyer-Side Market Power, the Office of the Interconnection and/or the 
+Market Monitoring Unit shall perform ex-ante testing to determine whether, given the ability to 
+suppress prices identified in the relevant LDAs and the PJM Region, such price suppression 
+would be economically beneficial to the Capacity Market Seller by comparing its expected cost 
+with its economic benefit, and where the expected cost shall reflect the excess economic costs of 
+the resource above expected market revenues, and the expected benefit shall reflect the expected 
+cost savings to the expected net short position (based on estimated capacity obligations and 
+owned and contracted capacity measured on a three-year average basis for the three years 
+starting with the first day of the Delivery Year associated with the RPM Auction in which the 
+Generation Capacity Resource is being offered) in the relevant LDAs and RTO multiplied by the 
+price change resulting from offering the resource uneconomically. In this analysis, the Office of 
+Interconnection and/or the Market Monitoring Unit shall consider whether any capacity 
+obligations in which the capacity costs based on RPM Auction clearing prices are directly passed 
+through to load and consider whether the price of any contracted capacity passes through RPM 
+Auction clearing prices. If the expected benefit outweighs the expected cost, the Capacity Market 
+Seller shall be deemed to have the incentive to exercise Buyer Side Market Power. If a resource 
+offer can be justified, economically or otherwise, without consideration of the benefit to the 
+Capacity Market Seller of the suppressed prices, the Capacity Market Seller shall be deemed not 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 9 
+to have the incentive to exercise Buyer Side Market Power with respect to that resource. Out-of-
+market compensation (such as from renewable energy credits and zero emission credits) that are 
+not tied to either Conditioned State Support or a bilateral contract that directs the submission of 
+an offer to lower market clearing prices may be used to support the economics of the resource 
+under review. 
+ 
+(ii) The following nonexhaustive list of circumstances would 
+preclude an inquiry into or determination regarding an Exercise of Buyer-Side Market Power in 
+the course of a review initiated pursuant to subsection (i) above:  (a) the Generation Capacity 
+Resource is a merchant generation supply resources that is not contracted to an entity with a 
+Load Interest; (b)  the Generation Capacity Resource is acquired by or under the contractual 
+control of the Capacity Market Seller through a competitive and non-discriminatory procurement 
+process open to new and existing resources; or (c) the Generation Capacity Resource is owned 
+by or bilaterally contracted to a Self-Supply Seller and such resource is demonstrated as 
+consistent with or included in the Self-Supply Seller’s long-range resource plan (e.g., a long-
+range hedging plan) that is approved or otherwise reviewed and accepted by the RERRA, 
+provided that any such plan approval or contracts do not direct the submission of an uneconomic 
+offer to deliberately lower market clearing prices or for the Capacity Market Seller to otherwise 
+perform an Exercise of Buyer-Side Market Power. In addition, to the extent a Generation 
+Capacity Resource may receive compensation in support of characteristics aligned with well-
+demonstrated customer preferences, such compensation shall not, in and of itself, be a basis for 
+the determination of Buyer-Side Market Power. 
+ 
+(iii) Based on the foregoing tests and fact-specific review, 
+including the facts and circumstances of the Generation Capacity Resource, the Office of the 
+Interconnection, with the advice and input of the Market Monitoring Unit, shall determine 
+whether a Generation Capacity Resource may be the subject of a Sell Offer that would be an 
+Exercise of Buyer-Side Market Power.  If the Office of the Interconnection, with the advice and 
+input of the Market Monitoring Unit, determines that a Generation Capacity Resource may be 
+the subject of a Sell Offer that would be an Exercise of Buyer-Side Market Power or the 
+Capacity Market Seller certifies that it intends to exercise Buyer-Side Market Power, then such 
+resource will be subject to the provisions of the Minimum Offer Price Rule.  If the resource will 
+be subject to the provisions of the Minimum Offer Price Rule, the Office of the Interconnection 
+shall include in the notice a written explanation for such determination. A Capacity Market 
+Seller that is dissatisfied with the Office of the Interconnection’s determination of whether a 
+given Generation Capacity Resource is subject to the Minimum Offer Price Rule  may seek any 
+remedies available to it from FERC; provided, however, that the Office of the Interconnection 
+will proceed with administration of the Tariff and market rules based on its determination 
+hereunder unless FERC by order directs otherwise. 
+ 
+(C) Failure to timely submit a certification.  Any Generation Capacity 
+Resource for which a Capacity Market Seller has not timely submitted the certifications required 
+under Tariff, Attachment DD, section 5.14(h-2)(1) shall be subject to the provisions of the 
+Minimum Offer Price Rule.  Notwithstanding the foregoing, if a Capacity Market Seller submits 
+a timely unit-specific exception pursuant to Tariff, Attachment DD, section 5.14(h-2)(4) for the 
+relevant Delivery Year, and PJM approves the unit-specific MOPR Floor Offer Price, then the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 10 
+Capacity Market Seller may use such floor price regardless of whether it timely submitted the 
+foregoing certifications.   
+ 
+(3) Minimum Offer Price Rule.  Any Sell Offer for a Generation Capacity 
+Resource that is subject to the provisions of the Minimum Offer Price Rule pursuant to Tariff, 
+Attachment DD, section 5.14(h-2)(2) shall have an offer price no lower than the applicable 
+MOPR Floor Offer Price, unless the applicable MOPR Floor Offer Price is higher than the 
+applicable Market Seller Offer Cap, in which circumstance the Capacity Market Seller, to 
+participate in an RPM Auction, must request a unit-specific value determined in accordance with 
+the unit-specific MOPR Floor Offer Price process, and the unit-specific MOPR Floor Offer Price 
+shall establish the offer level for such resource.   
+ 
+(A) New Entry MOPR Floor Offer Price. For a Generation Capacity 
+Resource that is subject to the provisions of the Minimum Offer Price Rule pursuant to Tariff, 
+Attachment DD, section 5.14(h-2)(2) and for which a Sell Offer based on that resource, or any 
+uprate of such   Generation Capacity Resource participating in the generation interconnection 
+process under Tariff, Part IV, Subpart A, that has not cleared an RPM Auction for any Delivery 
+Year,  the applicable MOPR Floor Offer Price, based on the net cost of new entry for the 
+resource type, shall be, at the election of the Capacity Market Seller, (i) the unit-specific value 
+determined in accordance with the unit-specific MOPR Floor Offer Price process in Tariff, 
+Attachment DD, section 5.14(h-2)(4) below or (ii) if applicable, the default New Entry MOPR 
+Floor Offer Price for the applicable resource based on the gross cost of new entry values shown 
+in the table below, as adjusted for Delivery Years subsequent to the 2022/2023 or 2026/2027 
+Delivery Year, as applicable, net of estimated net energy and ancillary service revenues for the 
+resource type and Zone in which the resource is located.  
+ 
+Resource Type Through the 2025/2026 
+Delivery Years:  
+Gross Cost of New Entry 
+(2022/2023 $/ MW-day) 
+(Nameplate) 
+For the 2026/2027 Delivery 
+Year and Subsequent Delivery 
+Years:  
+Gross Cost of New Entry 
+(2026/2027 $/ MW-day) 
+(Nameplate) 
+Nuclear $2,000 $2,568 
+Coal $1,068 $1,480 
+Combined Cycle $320 $540 
+Combustion Turbine $294 $427 
+Fixed Solar PV $271 $298 
+Tracking Solar PV $290 $321 
+Onshore Wind $420 $438 
+Offshore Wind $1,155 $1,351 
+Battery Energy Storage $532 $502 
+ 
+The gross cost of new entry values in the table above are expressed in dollars per MW-day in 
+terms of nameplate megawatts.  For purposes of submitting a Sell Offer, the gross cost of new 
+entry values must be converted to a net cost of new entry by subtracting the estimated net energy 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 11 
+and ancillary service revenues, as determined below, from the gross cost of new entry.  However, 
+the resultant net cost of new entry of the battery energy storage resource type in the table above 
+must be multiplied by 2.5.  The net cost of new entry based on nameplate capacity is then 
+converted to Unforced Capacity (“UCAP”) MW-day.  For the 2023/2024 and 2024/2025 
+Delivery Years, the net cost of new entry is adjusted using: for battery storage, wind, and solar 
+resource types, the applicable ELCC Class Rating; or for all other generation resource types, the 
+applicable class average EFORd.  For the 2025/2026 Delivery Year and subsequent Delivery 
+Years, the net cost of new entry is adjusted by the applicable class average Accredited UCAP 
+Factor. The resulting default New Entry MOPR Floor Offer price in UCAP/MW-day terms shall 
+be applied to each MW offered for the Capacity Resource regardless of the actual Sell Offer 
+quantity and regardless of whether the Sell Offer is for a Seasonal Capacity Performance 
+Resource. 
+  
+Commencing with the Base Residual Auction for the 2023/2024 Delivery Year, the Office of the 
+Interconnection shall adjust the default gross costs of new entry in the table above and post the 
+preliminary estimates of the adjusted applicable default New Entry MOPR Floor Offer Prices on 
+its website, by no later than one hundred fifty (150) days prior to the commencement of the offer 
+period for each Base Residual Auction.  To determine the adjusted applicable default New Entry 
+MOPR Floor Offer Prices for all resource types, the Office of the Interconnection shall adjust the 
+gross costs of new entry utilizing, for combustion turbine and combined cycle resource types, the 
+same Applicable BLS Composite Index applied for such Delivery Year to adjust the CONE 
+value used to determine the Variable Resource Requirement Curve, in accordance with Tariff, 
+Attachment DD, section 5.10(a)(iv), and for all other resource types, the “BLS Producer Price 
+Index Turbines and Turbine Generator Sets” component of the Applicable BLS Composite Index 
+used to determine the Variable Resource Requirement Curve shall be replaced with the “BLS 
+Producer Price Index Final Demand, Goods Less Food & Energy, Private Capital Equipment” 
+when adjusting the gross costs of new entry.  The resultant value shall then be then adjusted 
+further by a factor of 1.022 for nuclear, coal, combustion turbine, and combine cycle resource 
+types or 1.01 for solar, wind, and storage resource types to reflect the annual decline in bonus 
+depreciation scheduled under federal corporate tax law.  Updated estimates of the net energy and 
+ancillary service revenues for each default resource type and applicable Zone, which shall 
+include, but are not limited to, consideration of Fuel Costs, Maintenance Adders and Operating 
+Costs, as applicable, pursuant to Operating Agreement, Schedule 2 shall then be subtracted from 
+the adjusted gross costs of new entry to determine the adjusted New Entry MOPR Floor Offer 
+Price.  The net energy and ancillary services revenue is equal to the average of the annual net 
+revenues of the three most recent calendar years preceding the Base Residual Auction, where 
+such annual net revenues shall be determined in accordance with the following and the PJM 
+Manuals:   
+ 
+(i) for nuclear resource type, the net energy and ancillary services 
+revenue estimate shall be determined by the gross energy market revenue determined by the 
+product of [average annual zonal day-ahead LMP, times 8,760 hours times the annual average 
+equivalent availability factor of all PJM nuclear resources] minus the total annual cost to produce 
+energy determined by the product of [8,760 hours times the annual average equivalent 
+availability factor of all PJM nuclear resources times $9.02/MWh for a single unit plant or 
+$7.66/MWh for a multi-unit plant] where these hourly cost rates include fuel costs and variable 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 12 
+operation and maintenance expenses, inclusive of Maintenance Adder costs, plus an ancillary 
+services revenue of $3,350/MW-year;  
+ 
+(ii) for coal resource type, the net energy and ancillary services 
+revenue estimate shall be determined by a simulated dispatch of a 650 MW coal unit (with heat 
+rate of 8,638 BTU/kWh and variable operations and maintenance variable operation and 
+maintenance expenses, inclusive of Maintenance Adder costs, of $9.50/MWh) using applicable 
+coal prices, as set forth in the PJM Manuals, plus reactive services revenue of $3,350/MW-year. 
+The unit is committed day-ahead in profitable blocks of at least eight hours, and then committed 
+in real-time for profitable hours if not already committed day ahead;  
+ 
+(iii) for combustion turbine resource type, the net energy and 
+ancillary services revenue estimate shall be determined in a manner consistent with the 
+methodology described in Tariff, Attachment DD, section 5.10(a)(v)(B) for the Reference 
+Resource combustion turbine.   
+ 
+(iv) for combined cycle resource type, the net energy and ancillary 
+services revenue estimate shall be determined in the same manner as that prescribed for a 
+combustion turbine resource type, except that the heat rate assumed for the combined cycle 
+resource shall be 6,553 BTU/kwh, the variable operations and maintenance expenses for such 
+resource, inclusive of Maintenance Adder costs, shall be $2.11/MWh, the Peak-Hour Dispatch 
+scenario for both the Day-Ahead and Real-Time Energy Markets shall be modified to dispatch 
+the CC resource continuously during the full peak-hour period, as described in Peak-Hour 
+Dispatch, for each such period that the resource is economic (using the test set forth in such 
+section), rather than only during the four-hour blocks within such period that such resource is 
+economic, and the ancillary services revenue shall be $3,350/MW-year.  
+ 
+(v) for solar PV resource type, the net energy and ancillary services 
+revenue estimate shall be determined using a solar resource model that provides the average MW 
+output level, expressed as a percentage of nameplate rating, by hour of day (for each of the 24-
+hours of a day) and by calendar month (for each of the twelve months of a year). The annual net 
+energy market revenues are determined by multiplying the solar output level of each hour by the 
+real-time zonal LMP applicable to such hour with this product summed across all of the hours of 
+an annual period, plus an ancillary services revenue of $3,350/MW-year.  Two separate solar 
+resource models are used, one model for a fixed panel resource and a second model for a 
+tracking panel resource;  
+ 
+(vi) for onshore wind resource type, the net energy and ancillary 
+services revenue estimate shall be determined using a wind resource model that provides the 
+average MW output level, expressed as a percentage of nameplate rating, by hour of day (for 
+each of the 24-hours of a day) and by calendar month (for each of the twelve months of a year). 
+The annual energy market revenues are determined by multiplying the wind output level of each 
+hour by the real-time zonal LMP applicable to such hour with this product summed across all of 
+the hours of an annual period, plus an ancillary services revenue of $3,350/MW-year; 
+ 
+(vii) for offshore wind resource type, the net energy and ancillary 
+services revenue estimate shall be the product of [the average annual zonal real-time LMP times 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 13 
+8,760 hours times an assumed annual capacity factor of 45%], plus an ancillary services revenue 
+of $3,350/MW-year; and  
+ 
+(viii) for Capacity Storage Resource, the net energy and ancillary 
+services revenue estimate shall be estimated by a simulated dispatch against historical real-time 
+zonal LMPs where the resource is assumed to be dispatched for the four hours of highest LMP of 
+a daily twenty-four hour period if the average LMP of these four hours exceeds 120% of the 
+average LMP of the four lowest LMP hours of the same twenty-four hour period.  The net energy 
+market revenues will be determined by the product of [hourly output of 1 MW times the hourly 
+LMP for each hour of assumed discharging] minus the product of [hourly consumption of 1.2 
+MW times the hourly LMP for each hour of assumed charging] with this net value summed 
+across all of the hours of an annual period, plus an ancillary services revenue of $3,350/MW-
+year.  An 83.3% efficiency of the battery energy storage resource is reflected by assuming each 
+1.0 MW of discharge requires 1.2 MW of charge.   
+ 
+Beginning with the Delivery Year that commences June 1, 2022, and continuing no later than for 
+every fourth Delivery Year thereafter, the Office of the Interconnection shall review the default 
+gross cost of new entry values.  Such review may include, without limitation, analyses of the 
+fixed development, construction, operation, and maintenance costs for such resource types.  
+Based on the results of such review, PJM shall propose either to modify or retain the default 
+gross cost of new entry values stated in the table above.  The Office of the Interconnection shall 
+post publicly and solicit stakeholder comment regarding the proposal.  If, as a result of this 
+process, changes to the default gross cost of new entry values are proposed, the Office of the 
+Interconnection shall file such proposed modifications with the FERC by October 1, prior to the 
+conduct of the Base Residual Auction for the first Delivery Year in which the new values would 
+be applied.   
+ 
+Any Generation Capacity Resource that is subject to the provisions of the Minimum Offer Price 
+Rule pursuant to Tariff, Attachment DD, section 5.14(h-2)(2) and that has not previously cleared 
+an RPM Auction for that or any prior Delivery Year and for which there is no default MOPR 
+Floor Offer Price provided in accordance with this section, including hybrid resources, must seek 
+a unit-specific value determined in accordance with the unit-specific MOPR Floor Offer Price 
+process below to participate in an RPM Auction.  Failure to obtain a unit-specific MOPR Floor 
+Offer Price will result in the Office of the Interconnection rejecting any Sell Offer based on such 
+resource for the relevant RPM Auction. 
+ 
+(B) Cleared MOPR Floor Offer Prices.   
+ 
+For a Generation Capacity Resource that is subject to the 
+provisions of the Minimum Offer Price Rule pursuant to Tariff, Attachment DD, section 5.14(h-
+2)(2) and for which a Sell Offer based on that resource has previously cleared an RPM Auction 
+for any Delivery Year, the applicable Cleared MOPR Floor Offer Price shall be, at the election of 
+the Capacity Market Seller, (a) based on the unit-specific MOPR Floor Offer Price, as 
+determined in accordance with Tariff, Attachment DD, section 5.14(h-2)(4) below, or (b) if 
+available, the default Avoidable Cost Rate for the applicable resource type shown in the table 
+below, as adjusted for Delivery Years subsequent for the 2022/2023 or 2026/2027 Delivery 
+Year, as applicable, to reflect changes in avoidable costs, net of projected PJM market revenues 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 14 
+equal to the resource’s historical net energy and ancillary service revenues consistent with Tariff, 
+Attachment DD, section 6.8(d). 
+ 
+Existing Resource 
+Type 
+Through the 
+2025/2026 Delivery 
+Years:  
+Default Gross ACR 
+(2022/2023)  
+($/MW-day) 
+(Nameplate) 
+For the 2026/2027 
+Delivery Year and 
+Subsequent Delivery 
+Years:  
+Default Gross ACR 
+(2026/2027) ($/ MW-
+day) Nameplate 
+Nuclear - single $697 $591 
+Nuclear - dual $445 $537 
+Coal $80 $94 
+Combined Cycle $56 $113 
+Combustion Turbine $50 $52 
+Steam Oil & Gas NA $64 
+Solar PV 
+(fixed and tracking) 
+$40 $70 
+Wind Onshore $83 $147 
+ 
+The default gross Avoidable Cost Rate values in the table above are expressed in dollars per 
+MW-day in terms of nameplate megawatts.  Through the 2024/2025 Delivery Year, for purposes 
+of submitting a Sell Offer, the default Avoidable Cost Rate values must be net of estimated net 
+energy and ancillary service revenues, and then the difference is ultimately converted to 
+Unforced Capacity (“UCAP”) MW-day, where the UCAP MW-day value will be determined 
+based on the resource-specific Accredited UCAP value for solar and wind resource types (with 
+appropriate time-weighting for any winter Capacity Interconnection Rights) or the resource-
+specific EFORd for all other generation resource types.  Effective for the 2025/2026 Delivery 
+Year and subsequent Delivery Years, for purposes of submitting a Sell Offer, the default 
+Avoidable Cost Rate values must be net of estimated net energy and ancillary service revenues, 
+and then the difference is ultimately converted to Unforced Capacity (“UCAP”) MW-day, based 
+on the resource’s Accredited UCAP Factor. The resulting default Cleared MOPR Floor Offer 
+price in UCAP/MW-day terms shall be applied to each MW offered for the Capacity Resource 
+regardless of actual Sell Offer quantity and regardless of whether the Sell Offer is for a Seasonal 
+Capacity Performance Resource. 
+ 
+Commencing with the Base Residual Auction for the 2023/2024 Delivery Year, the Office of the 
+Interconnection shall adjust the default Avoidable Cost Rates in the table above, and post the 
+adjusted values on its website, by no later than one hundred fifty (150) days prior to the 
+commencement of the offer period for each Base Residual Auction.  To determine the adjusted 
+Avoidable Cost Rates, the Office of the Interconnection shall utilize the 10-year average Handy-
+Whitman Index in order to adjust the Gross ACR values to account for expected inflation. 
+Updated estimates of the net energy and ancillary service revenues shall be determined on a 
+resource-specific basis in accordance with Tariff, Attachment DD, section 6.8(d) and the PJM 
+Manuals.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 15 
+Beginning with the Delivery Year that commences June 1, 2022, and continuing no later than for 
+every fourth Delivery Year thereafter, the Office of the Interconnection shall review the default 
+Avoidable Cost Rates for Capacity Resource that is subject to the provisions of the Minimum 
+Offer Price Rule pursuant to Tariff, Attachment DD, section 5.14(h-2)(2) that have cleared in an 
+RPM Auction for any Delivery Year.  Such review may include, without limitation, analyses of 
+the avoidable costs of such resource types.  Based on the results of such review, PJM shall 
+propose either to modify or retain the default Avoidable Cost Rate values stated in the table 
+above.  The Office of the Interconnection shall post publicly and solicit stakeholder comment 
+regarding the proposal.  If, as a result of this process, changes to the default Avoidable Cost Rate 
+values are proposed, the Office of the Interconnection shall file such proposed modifications 
+with the FERC by October 1, prior to the conduct of the Base Residual Auction for the first 
+Delivery Year in which the new values would be applied.   
+ 
+Any Generation Capacity Resource that is subject to the provisions of the Minimum Offer Price 
+Rule pursuant to Tariff, Attachment DD, section 5.14(h-2)(2) and that has previously cleared an 
+RPM Auction for any Delivery Year and for which there is no default MOPR Floor Offer Price 
+provided in accordance with this section, including hybrid resources, must seek a unit-specific 
+value determined in accordance with the unit-specific MOPR Floor Offer Price process below to 
+participate in an RPM Auction.  Failure to obtain a unit-specific MOPR Floor Offer Price will 
+result in the Office of the Interconnection rejecting any Sell Offer based on such resource.  
+ 
+(4) Unit-Specific Exception.  A Capacity Market Seller intending to submit a 
+Sell Offer in any RPM Auction for a Generation Capacity Resource that is subject to the 
+provisions of the Minimum Offer Price Rule below the applicable default MOPR Floor Offer 
+Price may, at its election, submit a request for a unit-specific exception for such Capacity 
+Resource.  A Capacity Market Seller intending to submit a Sell Offer in any RPM Auction for a 
+Generation Capacity Resource that is under a fact-specific review for Buyer-Side Market Power 
+pursuant to Tariff, Attachment DD, section 5.14(h-2)(2)(B)(ii), and where the offer is below the 
+applicable default MOPR Floor Offer Price may, at its election, submit a request for a unit-
+specific exception for such Generation Capacity Resource.  A Sell Offer below the default 
+MOPR Floor Offer Price, but no lower than the unit-specific MOPR Floor Offer Price, shall be 
+permitted if the Capacity Market Seller obtains approval from the Office of the Interconnection 
+or the Commission, prior to the RPM Auction in which it seeks to submit the Sell Offer. The 
+unit-specific MOPR Floor Offer Price determined under this provision shall be based on the unit-
+specific Accredited UCAP value for battery energy storage resource types and for solar and wind 
+generation resource types (appropriately time-weighted for any winter Capacity Interconnection 
+Rights) or on the unit-specific EFORd for all other generation resource types, and shall be 
+applied to each MW offered by the resource regardless of actual Sell Offer quantity and 
+regardless of whether the Sell Offer is for a Seasonal Capacity Performance Resource.  Such Sell 
+Offer is permissible because it is consistent with the competitive, cost-based, fixed, net cost of 
+the resource.  All supporting data must be provided for all requests.  The following requirements 
+shall apply to requests for such determinations: 
+ 
+(A) The Capacity Market Seller shall submit a written request with all 
+of the required documentation as described below and in the PJM Manuals.  For such purpose, 
+the Capacity Market Seller shall submit the unit-specific exception request to the Office of the 
+Interconnection and the Market Monitoring Unit no later than one hundred twenty (120) days 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 16 
+prior to the commencement of the offer period for the RPM Auction in which it seeks to submit 
+its Sell Offer.  For such purpose, the Office of the Interconnection shall post, by no later than one 
+hundred fifty (150) days prior to the commencement of the offer period for the relevant RPM 
+Auction, a preliminary estimate for the relevant Delivery Year of the default Minimum Floor 
+Offer Prices, determined pursuant to Tariff, Attachment DD, sections 5.14(h-2)(3)(A) and (B).  If 
+the final applicable default Minimum Floor Offer Price subsequently established for the relevant 
+Delivery Year is less than the Sell Offer, the Sell Offer shall be permitted and no exception shall 
+be required. 
+ 
+(B) For a unit-specific exception for a Generation Capacity Resource 
+that is subject to the provisions of the Minimum Offer Price Rule pursuant to Tariff, Attachment 
+DD, section 5.14(h-2)(2) and that has never cleared an RPM Auction, the Capacity Market Seller 
+must include in its request for an exception under this subsection documentation to support the 
+fixed development, construction, operation, and maintenance costs of the Capacity Resource, as 
+well as estimates of offsetting net revenues.   
+ 
+The financial modeling assumptions for calculating Cost of New Entry for Generation Capacity 
+Resources shall be: (i) nominal levelization of gross costs, (ii) asset life of twenty years, (iii) no 
+residual value, (iv) all project costs included with no sunk costs excluded, (v) use first year 
+revenues (which may include revenues from the sale of renewable energy credits or any other 
+revenues outside of PJM markets that do not constitute Conditioned State Support ), and (vi) 
+weighted average cost of capital based on the actual cost of capital for the entity proposing to 
+build the Capacity Resource.  Notwithstanding the foregoing, a Capacity Market Seller that seeks 
+to utilize an asset life other than twenty years (but no greater than 35 years) shall provide 
+evidence to support the use of a different asset life, including but not limited to, the asset life 
+term for such resource as utilized in the Capacity Market Seller’s financial accounting (e.g., 
+independently audited financial statements), or project financing documents for the resource or 
+evidence of actual costs or financing assumptions of recent comparable projects to the extent the 
+seller has not executed project financing for the resource (e.g., independent project engineer 
+opinion or manufacturer’s performance guarantee), or opinions of third-party experts regarding 
+the reasonableness of the financing assumptions used for the project itself or in comparable 
+projects.  Capacity Market Sellers may also rely on evidence presented in federal filings, such as 
+its FERC Form No. 1 or an SEC Form 10-K, to demonstrate an asset life other than 20 years of 
+similar asset projects. 
+ 
+Supporting documentation for project costs may include, as applicable and available, a complete 
+project description; environmental permits; vendor quotes for plant or equipment; evidence of 
+actual costs of recent comparable projects; bases for electric and gas interconnection costs and 
+any cost contingencies; bases and support for property taxes, insurance, operations and 
+maintenance (“O&M”) contractor costs, and other fixed O&M and administrative or general 
+costs; financing documents for construction-period and permanent financing or evidence of 
+recent debt costs of the seller for comparable investments; and the bases and support for the 
+claimed capitalization ratio, rate of return, cost-recovery period, inflation rate, or other 
+parameters used in financial modeling.  In addition to the certification, signed by an officer of the 
+Capacity Market Seller, the request must include a certification that the claimed costs accurately 
+reflect, in all material respects, the seller’s reasonably expected costs of new entry and that the 
+request satisfies all standards for a unit-specific exception hereunder.  The request also shall 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 17 
+identify all revenue sources (exclusive of any Conditioned State Support or bilateral contracts 
+that direct submission of an offer to lower RPM Auction clearing prices) relied upon in the Sell 
+Offer to offset the claimed fixed costs, including, without limitation, long-term power supply 
+contracts, tolling agreements, evidence of compensation outside the PJM market not tied to 
+Conditioned State Support or a bilateral contract that directs submission of an offer to lower 
+RPM Auction clearing prices, or tariffs on file with state regulatory agencies, and shall 
+demonstrate that such offsetting revenues are consistent, over a reasonable time period identified 
+by the Capacity Market Seller, with the standard prescribed above.  In making such 
+demonstration, the Capacity Market Seller may rely upon forecasts of competitive electricity 
+prices in the PJM Region based on well-defined models that include fully documented estimates 
+of future fuel prices, variable operation and maintenance expenses, which may include 
+Maintenance Adders, energy demand, emissions allowance prices, and expected environmental 
+or energy policies that affect the seller’s forecast of electricity prices in such region, employing 
+input data from sources readily available to the public.  Documentation for net revenues also may 
+include, as available and applicable, plant performance and capability information, including 
+heat rate, start-up times and costs, forced outage rates, planned outage schedules, maintenance 
+cycle, fuel costs and other variable operations and maintenance expenses, and ancillary service 
+capabilities.  Any evaluation of net revenues should be consistent with Operating Agreement, 
+Schedule 2, including, but not limited to, consideration of Fuel Costs, Maintenance Adders and 
+Operating Costs, as applicable.   
+ 
+(C) For a Unit-Specific Exception for a Generation Capacity Resource 
+that is subject to the provisions of the Minimum Offer Price Rule pursuant to Tariff, Attachment 
+DD, section 5.14(h-2)(2) and that has previously cleared an RPM Auction, the Capacity Market 
+Seller shall submit a Sell Offer consistent with the unit-specific Market Seller Offer Cap process 
+pursuant to Tariff, Attachment DD, section 6.8; except that the 10% uncertainty adder may not 
+be included in the “Adjustment Factor.”  In addition and notwithstanding the requirements of 
+Tariff, Attachment DD, section 6.8, the Capacity Market Seller may, at its election, include in its 
+request for an exception under this subsection documentation to support projected energy and 
+ancillary services markets revenues.  Such a request shall identify all revenue sources (exclusive 
+of any Conditioned State Support or bilateral contracts that direct submission of an offer to lower 
+RPM Auction clearing prices) relied upon in the Sell Offer to offset the claimed fixed costs, 
+including, without limitation, long-term power supply contracts, tolling agreements, evidence of 
+compensation outside of PJM markets not tied to Conditioned State Support or a bilateral 
+contract that directs submission of an offer to lower RPM Auction clearing prices, or tariffs on 
+file with state regulatory agencies, and shall demonstrate that such offsetting revenues are 
+consistent, over a reasonable time period identified by the Capacity Market Seller, with the 
+standard prescribed above.  In making such demonstration, the Capacity Market Seller may rely 
+upon forecasts of competitive electricity prices in the PJM Region based on well-defined models 
+that include fully documented estimates of future fuel prices, variable operation and maintenance 
+expenses, energy demand, which may include Maintenance Adders, and emissions allowance 
+prices, and expected environmental or energy policies that affect the seller’s forecast of 
+electricity prices in such region, employing input data from sources readily available to the 
+public.  Documentation for net revenues also may include, as available and applicable, plant 
+performance and capability information, including heat rate, start-up times and costs, forced 
+outage rates, planned outage schedules, maintenance cycle, fuel costs and other variable 
+operations and maintenance expenses, and ancillary service capabilities.  Any evaluation of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.14 Clearing Prices and Charges 
+Effective Date: 2/2/2026 - Docket #: ER26-284-000 - Page 18 
+revenues should include, but would not be not limited to, consideration of Fuel Costs, 
+Maintenance Adders and Operating Costs, as applicable, pursuant to Operating Agreement, 
+Schedule 2. 
+ 
+ 
+(D) A Sell Offer evaluated at the unit-specific exception shall be 
+permitted if the information provided reasonably demonstrates that the Sell Offer’s competitive, 
+fixed, cost-based offer level is below the default MOPR Floor Offer Price, based on competitive 
+cost advantages relative to the costs estimated by the default MOPR Floor Offer Price, including, 
+without limitation, competitive cost advantages resulting from the Capacity Market Seller’s 
+business model, financial condition, tax status, access to capital or other similar conditions 
+affecting the applicant’s costs, or based on net revenues that are reasonably demonstrated 
+hereunder to be higher than those estimated by the default MOPR Floor Offer Price.  Capacity 
+Market Sellers shall demonstrate that claimed cost advantages or sources of net revenue that are 
+irregular or anomalous, that do not reflect arm’s-length transactions, or that are not in the 
+ordinary course of the Capacity Market Seller’s business are consistent with the standards of this 
+subsection, and that out-of-market compensation is not tied to Conditioned State Support or a 
+bilateral contract that directs submission of an offer to lower RPM Auction clearing prices.  
+Failure to adequately support such claimed cost advantages or revenues so as to enable the 
+Office of the Interconnection to make the determination required in this section will result in the 
+elimination of consideration of the unsupported element(s) of a unit-specific exception by the 
+Office of the Interconnection. 
+ 
+(E)  The Capacity Market Seller must submit a sworn, notarized 
+certification of a duly authorized officer, certifying that the officer has personal knowledge of the 
+unit-specific exception request and that to the best of his/her knowledge and belief: (1) the 

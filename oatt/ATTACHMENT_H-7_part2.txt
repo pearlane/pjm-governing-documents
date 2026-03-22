@@ -1,0 +1,4453 @@
+[ATTACHMENT H-7 - Part 2 of 3]
+
+7   Less Account 216.1 (enter negative) (Note D)     #DIV/0!    
+8   Less Account 219.1 (enter negative)     #DIV/0!    
+9   Common Stock (Sum of Line 5 - Line 6 + Line 7 + 
+Line 8) 
+    #DIV/0!    
+             
+             
+        Cost     
+     $ %    Weighted   
+10 Long Term Debt (Note A) (100% - Line 11, 
+Col (%) - Line 12, 
+Col (%)) 
+   #DIV/0!  #DIV/0!  #DIV/0! =WCLTD  
+11 Preferred Stock (Note B) (Line 11, Col ($) / 
+Line 13, Col ($)) 
+  #DIV/0! #DIV/0!  -  #DIV/0!   
+12 Common Stock (Note C) (Line 12, Col ($) / 
+Line 13, Col ($)) 
+  #DIV/0! #DIV/0!  10.35%  #DIV/0!   
+13 Total (Sum of Lines 10-
+12) 
+  #DIV/0!     #DIV/0! =R  
+             
+Note:             
+A Long Term Debt balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 18.c & d to 21.c & d in the Form No. 1. 
+B Preferred Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 line 3.c & d in the Form No. 1 
+C Common Stock balance will reflect the 13 month average of the balances, of which the 1st and 13th are found on page 112 lines 3.c & d, 12.c & d, and 16.c & d in the Form No. 1 as shown on lines 10-12 above  A cap on the equity percentage of PECO’s capital 
+structure shall be 55.75%. ROE will be supported in the original filing and no change in ROE may be made absent FERC authorization pursuant to a section 205 or section 206.. 
+D The Account 216.1 balance is input only if positive number in the FERC Form No. 1 (112.12.c). 
+E Sum of transmission related electric and common amortized investment tax credit amounts.  Total electric amount allocated to transmission as follows: (1) amounts solely related to transmission allocated 100% to transmission; (2) amounts solely related to 
+distribution, gas or non-utility allocated 0% to transmission; (3) amounts related to electric general allocated using the wages and salaries allocator (Attachment H-7, p. 4, line 11, column (5));  (4) amount related to common plant allocated to transmission using the 
+wages and salaries allocator (Attachment H-7, p. 4, line 11, column (5)), multiplied by common utility plant percent to electric (per FF1 page 356). 
+F Labor and Plant related taxes due to merger are to be excluded consistent with hold harmless commitment. 
+G All short-term interest related expense will be removed from the formula rate template.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ PECO Energy Company 
+Attachment 5A - Revenue Credit Workpaper 
+Page 1 of 2  
+ 
+ Account 454 - Rent from Electric Property   
+1 Rent from Electric Property - Transmission Related, Subject to Sharing (Note 3)  - 
+2 Rent from Electric Property - Transmission Related, Pass to Customers (Note 3)  #DIV/0! 
+3 Total Rent Revenues (Sum Lines 1 to 2) #DIV/0! 
+    
+ Account 456 & 456.1 - Other Electric Revenues (Note 1)   
+    
+4 Schedule 1A  $      - 
+5 Firm Point to Point Service revenues for which the load is not included in the divisor received by 
+transmission owner 
+  
+$      - 
+6 Revenues associated with transmission service not provided under the PJM OATT (Note 4)   
+7 Intercompany Professional Services  #DIV/0! 
+8 PJM Transitional Revenue Neutrality (Note 1)   
+9 PJM Transitional Market Expansion (Note 1)   
+10 Professional Services (Note 3)   
+11 Revenues from Directly Assigned Transmission Facility Charges (Note 2)   
+12 Rent or Attachment Fees associated with Transmission Facilities (Note 3)   
+    
+13 Gross Revenue Credits (Sum Lines 3, 4-12) #DIV/0! 
+14 Less line 17g  - 
+15 Total Revenue Credits  #DIV/0! 
+    
+ Revenue Adjustment to determine Revenue Credit   
+16a Note 1:  All revenues related to transmission that are received as a transmission owner (i.e., not 
+received as a LSE), for which the cost of the service is recovered under this formula, except as 
+specifically provided for elsewhere in this Attachment or elsewhere in the formula, will be included as a 
+revenue credit in line 2; provided, that the revenue credit on line 2 will not include revenues associated 
+with transmission service the loads for which are included in the rate divisor in Attachment H-7, page 1, 
+line 11. 
+  
+    
+16b  Note 2: If the costs associated with the Directly Assigned Transmission Facility Charges are included 
+in the Rates, the associated revenues are included in the Rates.  If the costs associated with the Directly 
+Assigned Transmission Facility Charges are not included in the Rates, the associated revenues are not 
+included in the Rates. 
+  
+    
+16c  Note 3: Ratemaking treatment for the following specified secondary uses of transmission assets:  (1) 
+right-of-way leases and leases for space on transmission facilities for telecommunications;  (2) 
+transmission tower licenses for wireless antennas; (3) right-of-way property leases for farming, grazing 
+or nurseries; (4) licenses of intellectual property (including a portable oil degasification process and 
+scheduling software); and (5) transmission maintenance and consulting services (including energized 
+circuit maintenance, high-voltage substation maintenance, safety training, transformer oil testing, and 
+circuit breaker testing) to other utilities and large customers (collectively, products). Company will 
+retain 50% of net revenues consistent with Pacific Gas and Electric Company, 90 FERC ¶ 61,314.  
+Note: in order to use lines 17a - 17g, the utility must track in separate subaccounts and by department 
+the revenues and costs associated with each secondary use (except for the cost of the associated income 
+taxes). The cost associated with the secondary transmission use is 3/4 of the total department costs. 
+  
+17a Revenues included in lines 1-11 which are subject to 50/50 sharing.  - 
+17b Costs associated with revenues in line 17a  - 
+17c Net Revenues  (17a - 17b)  - 
+17d 50% Share of Net Revenues  (17c / 2)  - 
+17e Costs associated with revenues in line 17a that are included in FERC accounts recovered through the 
+formula times the allocator used to functionalize the amounts in the FERC account to the transmission 
+service at issue. 
+ - 
+17f Net Revenue Credit (17d + 17e)  - 
+17g Line 17f less line 17a  - 
+18 Note 4: If the facilities associated with the revenues are not included in the formula, the revenue is 
+shown here but not included in the total above and is explained in the Cost Support; For example, 
+revenues associated with distribution facilities.  In addition, Revenues from Schedule 12 are not 
+included in the total above to the extent they are credited under Schedule 12.  
+  
+    
+19 Reserved   
+    
+20 Total Account 454, 456 and 456.1  #DIV/0! 
+21 Reserved   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ Attachment 5A - Revenue Credit Workpaper Page 2 of 2  
+ Costs associated with revenues in line 17a       
+  
+ 
+ 
+Cost Item 
+ 
+ 
+ 
+Accounts booked to 
+ 
+ 
+Total 
+Costs 
+ 
+Costs Allocation 
+to Transmission   
+(Note A) 
+ 
+ 
+Transmission 
+Costs 
+ 
+S&W 
+Allocation 
+Factor 
+Costs 
+Recovered 
+Through 
+A&G Costs 
+22a     - 0.00% - 
+22b     - 0.00% - 
+…        
+23 Total Lines 22  $   -  $   -  $   - 
+        
+        
+ FERC Account 454 Total Amount Other 100% 
+Transmission 
+Plant Related Labor 
+Related 
+Total 
+24a Rent from Electric Distribution  $   -     
+24b Rent from Electric Transmission   -    
+24c Tower Rentals and Land Leasing - Transmission   -    
+24d Tower Rentals and Land Leasing - Distribution  -     
+24e Intercompany Rent    -   
+…         
+ Total Lines 24 $   - $   - $   - $   - $   -  
+ Allocation Factors  0% 100% #DIV/0! 0.00%  
+ Allocated Amount  $   - $   - #DIV/0! $   - #DIV/0! 
+        
+ FERC Account 456 Total Amount Other 100% 
+Transmission 
+Plant Related Labor 
+Related 
+Total 
+25a Decommissioning remittances to Generation  $   -     
+25b Mututal Assistance  $   -     
+25c Make Ready  $   -     
+25d Intercompany Billings     -  
+25e Other    -   
+…         
+ Total Lines 25 $   - $   - $   - $   - $   -  
+ Allocation Factors  0% 100% #DIV/0! 0.00%  
+ Allocated Amount  $   - $   - #DIV/0! $   - #DIV/0! 
+        
+ FERC Account 456.1 Total Amount Other 100% 
+Transmission 
+Plant Related Labor 
+Related 
+Total 
+26a Network Integration Credit  $   -     
+26b Transmission Owner Scheduling Credits   $   -    
+26c Transmisson Enhancement  $   -     
+26d Revenue - Firm Point to Point   -    
+26e Other  -     
+…         
+ Total Lines 26 $   - $   - $   - $   - $   -  
+ Allocation Factors  0% 100% #DIV/0! 0.00%  
+ Allocated Amount  $   - $   - #DIV/0! $   - #DIV/0! 
+        
+ Note A:  Number of employees managing secondary transmission service contracts divided by number of employees managing transmission 
+and distribution secondary service contracts.  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 3 
+ PECO Energy Company  Attachment 5B - A&G 
+Workpaper 
+ 
+ 
+    (a) (b) (c) (d) (e) 
+    323.181.b to 
+323.196.3.b 
+    
+         
+    Total S&W Allocation Gross Plant Allocation Non-Recoverable Directly Assigned 
+1 Administrative and General Salaries  920.0      
+2 Office Supplies and Expenses  921.0      
+3 Administrative Expenses Transferred-
+Credit 
+ 922.0      
+4 Outside Service Employed (Note E)  923.0      
+5 Property Insurance  924.0      
+6 Injuries and Damages  925.0      
+7 Employee Pensions and Benefits   926.0      
+8 Franchise Requirements  927.0      
+9 Regulatory Commission Expenses (Note 
+E) 
+ 928.0      
+10 Duplicate Charges-Credit  929.0      
+11 General Advertising Expenses (Note E)  930.1      
+12 Miscellaneous General Expenses (Note 
+E) 
+ 930.2      
+13 Rents  931.0      
+14 Maintenance of General Plant  935      
+14a Maintenance of Computer Hardware  935.1      
+14b Maintenance of Computer Software  935.2      
+14c Maintenance of Communications 
+Equipment 
+ 935.3      
+15 Administrative & General - Total (sum 
+of lines 1 - 14c) 
+  $   - $   - $   - $   - $   - 
+         
+16    Allocation Factor 0.00% #DIV/0! 0.00% 100% 
+17    Transmission A&G1 - #DIV/0! - - 
+18       Total2 #DIV/0! 
+Notes:         
+1 Multiply total amounts on line 15, columns (b)-(e) by allocation factors on line 16. 
+2 Sum of line 17, columns (b), (c), (d), (e). 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 4 
+ PECO Energy Company 
+Attachment 5C - Taxes Other Than Income 
+ 
+ 
+ 
+    Page 263 
+Taxes Other Than Income  Col (i) 
+     
+ Plant Related, Subject to Gross Plant Allocator   
+1a      
+1b      
+1c      
+…      
+1 Total Plant Related (Total Lines 1)  0 
+     
+     
+ Labor Related, Subject to Wages & Salary Allocator   
+2a      
+2b      
+2c      
+…      
+2 Total Labor Related (Total Lines 2)  0 
+     
+     
+ Other Included, Subject to Gross Plant Allocator   
+3a      
+3b      
+3c      
+…      
+3 Total Other Included (Total Lines 3)  0 
+     
+4 Total Included  (Lines 1 to 3)  0 
+     
+ Taxes Other Than Income Excluded Per Notes A to E   
+5a      
+5b      
+5c      
+…      
+5 Total Excluded Taxes Other Than Income (Total Lines 5)  0 
+     
+6 Total Taxes Other Than Income, Included and Excluded (Lines 4 and 5)  0 
+7 Total Taxes Other Income from p115.14.g   
+8  Difference  (Line 6 - Line 7)  - 
+     
+ Items Included in Line 4, that Are To Be Excluded from Formula Per Attachment 5-P3 Support Note F  
+(Enter Negative) 
+  
+9a      
+9b      
+…      
+9  Total Labor Related Taxes to be Excluded (Total Lines 9)  - 
+     
+10a      
+10b      
+…      
+10  Total Plant Related Taxes to be Excluded (Total Lines 10)  - 
+     
+     
+ Criteria for Allocation:   
+    
+ A Other taxes that are incurred through ownership of plant including transmission plant will be allocated based on 
+the Gross Plant Allocator.  If the taxes are 100% recovered at retail they shall not be included. 
+  
+ B Other taxes that are incurred through ownership of only general or intangible plant will be allocated based on 
+the Wages and Salary Allocator.  If the taxes are 100% recovered at retail they shall not be included. 
+  
+ C Other taxes that are assessed based on labor will be allocated based on the Wages and Salary Allocator.   
+ D Other taxes except as provided for in A, B and C above, that are incurred and (1) are not fully recovered at 
+retail or (2) are directly or indirectly related to transmission service will be allocated based on the Gross Plant 
+Allocator; provided, however, that overheads shall be treated as in footnote B above. 
+  
+ E Excludes prior period adjustments in the first year of the formula's operation and reconciliation for the first 
+year. 
+  
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 5 
+ Attachment 6 
+True-Up Interest Rate 
+PECO Energy Company 
+Page 1 of 1 
+ 
+    [A] 
+ 
+  
+  Month (Note A)  FERC 
+Monthly 
+Interest Rate 
+  
+1  January  -   
+2  February  -   
+3  March  -   
+4  April  -   
+5  May  -   
+6  June  -   
+7  July  -   
+8  August  -   
+9  September  -   
+10  October  -   
+11  November  -   
+12  December  -   
+13  January  -   
+14  February  -   
+15  March  -   
+16  April  -   
+17  May  -   
+       
+18 Average of lines 1-17 above    #/DIV/0!   
+       
+Note A:      
+ The FERC Quarterly Interest Rate in column [A] is the interest applicable to the Month indicated.  
+       
+       
+       
+      
+19 Year    
+20       
+ A B C D E F 
+       
+       
+ Project Name RTO Project Number or 
+Zonal 
+Amount 17 Months Monthly 
+Interest 
+Rate 
+Interest 
+   Attachment 3, 
+Col. G + Col H 
+ Line 18 
+above 
+Col. C x Col 
+D x Col E 
+21 Zonal Zonal - 17 #/DIV/0! #/DIV/0! 
+21a   - 17 #/DIV/0! #/DIV/0! 
+21b   - 17 #/DIV/0! #/DIV/0! 
+21c   - 17 #/DIV/0! #/DIV/0! 
+…   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+   - 17 #/DIV/0! #/DIV/0! 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - 
+PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 6 
+ 
+ Attachment 7 PBOPs 
+PECO Energy Company 
+Page 1 of 1  
+ 
+ Calculation of PBOP Expenses     
+ (a)  (b) (c) (d) 
+   PECO Total  Electric 
+    Portion not 
+Capitalized 
+Col. (c) x Electric 
+Labor in Note B 
+      
+1 Total PBOP expenses allowed (Note A)  1,066,173 679,716 #/DIV/0! 
+2 Total PBOP Expenses in A&G in the current year   - #/DIV/0! 
+3 PBOP Adjustment Line 1 minus line 2   #/DIV/0! 
+      
+Notes:      
+A The source of the amounts from the Actuary Study supporting the amount in line 1, column (b) is the 3rd page of the 
+attachment to the January 24, 2017 Willis Towers Watson report on PBOPs for PECO. 
+ 
+      
+  $ %   
+B Electric Labor – Utility (354.28.b) - !   
+ Electric Labor – Exelon Business Services Company (354-355 Footnotes) -    
+ Electric Labor Total - #/DIV/0   
+ Gas Labor sum – Utility (355.62.b) -    
+ Gas Labor – Exelon Business Services Company (354-355 Footnotes) -    
+ Gas Labor Total - #/DIV/0!   
+ Total -    
+      
+C The Willis Towers Watson report on PBOPs does not breakout the amount related to construction labor that is capitalized.   As a result, the portion 
+not capitalized is calculated as labor expensed divided by total labor. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 1 
+ PECO Energy Company 
+Attachment 8 - Depreciation and Amortization 
+Page 1 of 4  
+ 
+ (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) 
+       Gross Depreciable Accumulated Net Depreciable Depreciation 
+   Estimated Mortality Weighted Average Depreciation/ Plant  (Year End 
+Balance) 
+Depreciation Plant Expense 
+ Number Plant Type Life Curve Remaining Life Amortization $ $ $ $ 
+   Note 1 Note 1 Note 2  Note 4 Note 4 (I)=(G)-(H) (J)=(F)*(G) 
+           
+1       As of 12/31/2024 FY 2024 
+2  Electric Transmission         
+2a 351.1 Computer Hardware       - - 
+2b 351.2 Computer Software       - - 
+2c 351.3 Communications Equipment       - - 
+3 352 Structures and Improvements N/A N/A N/A 1.7439%   - - 
+4 353 Station Equipment N/A N/A N/A 1.7544%   - - 
+5 354 Towers and Fixtures N/A N/A N/A 1.1805%   - - 
+6 355 Poles and Fixtures N/A N/A N/A 1.5903%   - - 
+7 356 Overhead Conductors and Devices N/A N/A N/A 1.5691%   - - 
+8 357 Underground Conduit N/A N/A N/A 1.2960%   - - 
+9 358 Underground Conductors and Devices N/A N/A N/A 1.7203%   - - 
+10 359 Roads and Trails N/A N/A N/A 1.0846%   - - 
+11       - - - - 
+           
+12  Electric General         
+13 390 Structures and Improvements 40 R1  2.3385%   - - 
+14 391.1 Office Furniture and Equipment - Office Machines 10 SQ  0.0000%   - - 
+15 391.2 Office Furniture and Equipment - Furnitures and Fixtures 15 SQ  7.0049%   - - 
+16 391.3 Office Furniture and Equipment - Computers 5 SQ  17.7484%   - - 
+17 391.4 Office Furniture and Equipment - Smart Meter Comp. Equip. 5 SQ  0.0000%   - - 
+18 393 Stores Equipment 15 SQ  8.6649%   - - 
+19 394 Tools, Shop, Garage Equipment 15 SQ  6.1450%   - - 
+20 395.1 Laboratory Equipment - Testing 20 SQ  4.2667%   - - 
+21 395.2 Laboratory Equipment - Meters 15 SQ  0.0000%   - - 
+22 397 Communication Equipment 20 L3  5.2943%   - - 
+23 397 Communication Equipment - Smart Meters 15 S2  6.3321%   - - 
+23
+a 
+397.1 Computer Hardware       - - 
+23
+b 
+397.2 Computer Software       - - 
+23
+c 
+397.3 Communications Equipment       - - 
+24 398 Miscellaneous Equipment 15 SQ  6.5236%   - - 
+25       - - - - 
+           
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 2 
+ 
+ 
+1  Electric Intangible         
+2 303 Software - Transmission 2-year Life (Note 10) 2 N/A N/A 0.0000%   - - 
+3 303 Software - Transmission 3-year Life (Note 10) 3 N/A N/A N/A   - - 
+4 303 Software - Transmission 4-year Life (Note 10) 4 N/A N/A N/A   - - 
+5 303 Software - Transmission 5-year Life (Note 10) 5 N/A N/A 20.6958%   - - 
+6 303 Software - Transmission 7-year Life (Note 10) 7 N/A N/A N/A   - - 
+7 303 Software - Transmission 10-year Life (Note 10) 10 N/A N/A N/A   - - 
+8 303 Software - Transmission 13-year Life (Note 10) 13 N/A N/A N/A   - - 
+9 303 Software - Transmission 15-year Life (Note 10) 15 N/A N/A N/A   - - 
+10       - - - - 
+           
+11 303 Software - Electric General 2-year Life (Note 10) 2 N/A N/A N/A   - - 
+12 303 Software - Electric General 3-year Life (Note 10) 3 N/A N/A 18.9907%   - - 
+13 303 Software - Electric General 4-year Life (Note 10) 4 N/A N/A N/A   - - 
+14 303 Software - Electric General 5-year Life (Note 10) 5 N/A N/A 18.6951%   - - 
+15 303 Software - Electric General 7-year Life (Note 10) 7 N/A N/A N/A   - - 
+16 303 Software - Electric General 10-year Life (Note 10) 10 N/A N/A N/A   - - 
+17 303 Software - Electric General 13-year Life (Note 10) 13 N/A N/A N/A   - - 
+18 303 Software - Electric General 15-year Life (Note 10) 15 N/A N/A N/A   - - 
+19       - - - - 
+           
+20 303 Software - Electric Distribution N/A N/A N/A N/A   - - 
+21 303 Regulatory Initiatives/Depr Charged to Reg Asset N/A N/A N/A N/A   - Zero 
+22       - - - - 
+           
+23  Common General - Electric         
+24 303 Software - 2-year Life (Note 10) 2 N/A N/A N/A   - - 
+25 303 Software - 3-year Life (Note 10) 3 N/A N/A 20.9505%   - - 
+26 303 Software - 4-year Life (Note 10) 4 N/A N/A N/A   - - 
+27 303 Software - 5-year Life (Note 10) 5 N/A N/A 13.9628%   - - 
+28 303 Software - 7-year Life (Note 10) 7 N/A N/A N/A   - - 
+29 303 Software - 10-year Life (Note 10) 10 N/A N/A N/A   - - 
+30 303 Software - 13-year Life (Note 10) 13 N/A N/A N/A   - - 
+31 303 Software  - 15-year Life (Note 10) 15 N/A N/A N/A   -  
+32 303 Regulatory Initiatives/Depr Charged to Reg Asset N/A N/A N/A N/A   - Zero 
+33 390 Structures and Improvements 50 R1  1.8690%   -  
+34 391.1 Office Furniture and Equipment - Office Machines 10 SQ  12.4771%   -  
+35 391.2 Office Furniture and Equipment - Furnitures and Fixtures 15 SQ  8.0727%   -  
+36 391.3 Office Furniture and Equipment - Computers 5 SQ  20.5247%   -  
+37 392.1 Transportation Equipment - Automobiles 6 L3  N/A   - Zero 
+38 392.2 Transportation Equipment - Light Trucks 12 L4  N/A   - Zero 
+39 392.3 Transportation Equipment - Heavy Trucks 14 R4  N/A   - Zero 
+40 392.4 Transportation Equipment - Tractors 11 L2  N/A   - Zero 
+41 392.5 Transportation Equipment - Trailers 15 R2  N/A   - Zero 
+42 392.6 Transportation Equipment - Other Vehicles 15 R2  N/A   - Zero 
+43 392.7 Transportation Equipment - Medium Trucks N/A N/A  N/A    Zero 
+44 393 Stores Equipment 15 SQ  6.7502%   - - 
+45 394.1 Tools, Shop, Garage Equipment - Construction Tools 15 SQ  0.0000%   - - 
+46 394.2 Tools, Shop, Garage Equipment - Common Tools 15 SQ  6.5389%   - - 
+47 394.3 Tools, Shop, Garage Equipment - Garage Equipment 20 SQ  N/A   - Zero 
+48 396 Power Operated Equipment 11 L2  N/A   - Zero 
+49 397 Communication Equipment 20 L3  4.6522%   - - 
+50 398 Miscellaneous Equipment 15 SQ  12.6123%   - - 
+51       - - - - 
+ 
+ PECO Energy Company 
+Attachment 8 - Depreciation and Amortization 
+Page 2 of 4  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 3 
+ 
+ PECO Energy Company 
+Attachment 8 - Depreciation and Amortization 
+Page 3 of 4  
+ 
+ 
+  
+   Current Year Current Year Current Year Allocation % Current Year Prior Year Prior Year Current Year Current Year 
+   Depr./Amor. Exp Depr./Amor. Exp Per FF1 Difference To Transmission Difference Allocated Total Cumulative Total Cumulative Total Cumulative Total Cumulative 
+   Per Formula / Atta 4D for Intangible Total Company  To Transmission Difference Difference Difference Difference 
+   Total Company Total Company    Total Company Transmission Total Company Transmission 
+            
+            
+1 Transmission $    -  - 100.00% -   - - 
+2 Electric General $    -  - 0.00% -   - - 
+3 Common - Electric $    -  - 0.00% -   - - 
+4 Intangible - Transmission $    - $    - - 100.00% -   - - 
+5 Intangible - General $    - $    - - 0.00% -   - - 
+6 Intangible - Distribution $    - $    - - 0.00% - - - - - 
+7            
+8 Accumulative Depreciation          
+    Average Accumulative Total Cumulative Adjusted Average Allocation % Adjusted Average    
+    Depr./Amor. Per Book Adjustment Accumulative  
+Depr./Amor. 
+To Transmission Accumulative  
+Depr./Amor. 
+   
+9    Total Company Total Company Total Company  Transmission    
+            
+10 Transmission  $    - - - 100.00% -    
+11 Electric General  $    - - - 0.00% -    
+12 Common - Electric  $    - - - 0.00% -    
+13 Intangible - Transmission  #DIV/0! - #DIV/0! 100.00% #DIV/0!    
+14 Intangible - General  #DIV/0! - #DIV/0! 0.00% #DIV/0!    
+15 Intangible - Distribution  #DIV/0! $     - #DIV/0! 0.00% #DIV/0!    
+16 Total Intangible  #DIV/0! $     - #DIV/0!  #DIV/0!    
+17            
+18            
+19            
+20            
+21            
+22            
+23            
+24            
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 4 
+ 
+ PECO Energy Company 
+Attachment 8 - Depreciation and Amortization 
+Page 4 of 4  
+ 
+Notes:           
+1 Columns (A), (B), (C), and (D) are fixed and cannot be changed absent Commission approval or acceptance. The depreciation / amortization expense is calculated separately for each row.    
+2 For Electric General and Common General plant, except FERC account 303, Column (E) is the remaining life of the assets in the account for each vintage (amount of plant added in each year is a vintage) weighted by the gross plant balance of each account or subaccount.  The remaining life 
+for each vintage is equal to the area under the Mortality Curve specified in Columns (C) and (D) using a half year convention for the first year placed in service. The weighted remaining life is calculated once a year at the beginning of the year.   
+3 For FERC accounts 303, 352 through 359 and 390 through 398, Column F is fixed and cannot be changed absent Commission approval or acceptance. 
+4 Column (G) is the depreciable amount of gross plant investment reported in the annual FERC Form No. 1 filing on pages 207 (Electric) and 356 (Common) by account or subaccount. Column (H) is the accumulated depreciation by account or subaccount. 
+5 Column (I) is the end of year depreciable net plant in the account or subaccount.         
+6 Reserved 
+7 Reserved  
+8 At least every 5 years, PECO Energy Company will file with the Commission a depreciation study supporting its existing Estimated Life and Mortality Curve for each account or subaccount. 
+9 The depreciation expense associated with Asset Retirement Obligations (booked to accounts 359.1 and 399.1) are not included in the tables above.      
+10 The life of each software or other intangible plant will be estimated at the time the plant is placed into service, and will not change over the life of the plant absent Commission approval or acceptance. The combined amortization expense for all intangible plant shall be the sum of each 
+individual plant balance amortized over the life of each individual plant established in this manner. 
+11 The depreciation expenses related to Common General - Electric reflect electric common plant. The depreciation expenses associated with Transportation Equipment, Garage Equipment and Power Operated Tools are excluded from Account 403 and directly assigned to the functional O&M 
+and capital accounts based on use.   
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 5 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 6 
+  (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) 
+ 
+EDIT Amortization 
+Amount (Note C)                
+  
+FERC 
+Account  
+ADIT 
+Deficient 
+/ (Excess)  
+Amortiza
+tion  January February March  April May June July August  
+Septemb
+er October 
+Novemb
+er December  Total 
+1 Protected Property                
+2 Transmission 411.1                          
+ $                         
+-    
+                 
+3 General 411.1                          
+ $                         
+-    
+4 
+Transmission 
+Allocation % (Att H-7 
+P4, L11, Col 5)                 
+5 
+Allocated to 
+Transmission 411.1  
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+                 
+6 
+Common (To Be 
+Split TDG) 411.1                          
+ $                         
+-    
+7 
+Transmission Allocation % (L 
+4 * Electric Factor in FERC Form 1 
+P356)                
+8 
+Allocated to 
+Transmission 411.1  
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+                 
+9 
+Total Protected 
+Property 411.1  
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+                 
+10 
+Non-Protected Property 
+(Note A) 411.1                          
+ $                         
+-    
+                 
+11 
+Non-Protected, Non-
+Property - Pension Asset  
+(Note A) 411.1                          
+ $                         
+-    
+12 
+Non-Protected, Non-
+Property - Non-Pension 
+Asset (Note A) 410.1                          
+ $                         
+-    
+13 
+Total Non-Protected, 
+Non-Property (Note A) 411.1  
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+ Attachment 9 
+Excess / (Deficient) Deferred Income Taxes (Note B and Attachment H-7 Notes N, O and P) 
+PECO Energy Company 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 7 
+                 
+                 
+ 
+EDIT Balance (Note 
+C)                
+   
+December Prior 
+Year January February March  April May June July August  
+Septemb
+er October 
+Novemb
+er December  
+Prior and 
+Current 
+December 
+Average 
+14 Protected Property                
+15 Transmission    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+16 General    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+17 
+Transmission 
+Allocation %                 
+18 
+Allocated to 
+Transmission  
+ $                                
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+19 
+Common (To Be 
+Split TDG)    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+20 
+Transmission 
+Allocation %                 
+21 
+Allocated to 
+Transmission  
+ $                                
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+22 
+Total Protected 
+Property  
+ $                                
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+23 
+Non-Protected Property 
+(Note A)    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+24 
+Non-Protected, Non-
+Property - Pension Asset  
+(Note A)    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+25 
+Non-Protected, Non-Property - Non-
+Pension Asset (Note A)   
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+26 
+Total Non-Protected, 
+Non-Property (Note A)  
+ $                                
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                 
+                 
+Total Federal Deficient / (Excess) Deferred Income Taxes 
+                 
+  (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 8 
+ 
+Deficient / (Excess) 
+Deferred Income 
+Taxes  
+FERC 
+Account  
+ADIT 
+Deficient 
+/ (Excess)  
+Amortiza
+tion 
+BOY 
+Balance January February March  April May June July August  
+Septemb
+er October 
+Novemb
+er December  
+EOY 
+Balance                  
+27 Protected Property  411.1 
+ $                                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+28 Unprotected Property 411.1 
+                                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+29 
+Unprotected Non-
+Property - Pension 
+Asset 411.1 
+                                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+30 
+Unprotected Non-
+Property - Non-Pension 
+Asset 410.1 
+                                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-                     
+31 
+Total - Deficient / 
+(Excess) ADIT   
+ $                                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-                     
+32 Tax Gross-Up Factor  
+                               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+               
+1.41  
+                 
+1.41  
+                         
+1.41                   
+33 
+Regulatory Asset / 
+(Liability)  
+ $                                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                          
+-    
+                 
+                 
+Federal Income Tax Regulatory Asset / (Liability) 
+                 
+  (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) 
+ 
+Regulatory Assets / 
+(Liabilities) 
+ BOY  
+Balance January February March  April May June July August  
+Septemb
+er October 
+Novemb
+er December  
+EOY  
+Balance                  
+34 
+Account 182.3 (Other 
+Regulatory Assets)  
+ $                                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+35 
+Account 254 (Other 
+Regulatory Liabilities)  
+                                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                   
+-    
+                     
+-    
+                            
+-    
+                               
+36 
+Total - Transmission 
+Regulatory Asset / 
+(Liability)  
+ $                                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                
+-    
+ $                  
+-    
+ $                         
+-    
+ 
+Notes:                
+A EDIT data, including EDIT amortization amount and balance, for Protected, Non-Protected Property and Non-Protected, Non-Property shall reflect the Transmission portion of EDIT amounts. The amounts and categorization of these balances as of December 
+31, 2017 is:Protected Property - Transmission (Line 15): $79,726,712;Protected Property - Electric General to be allocated between Distribution and Transmission (Line 16):$1,683,749; Protected Property - Common to be allocated between Distribution, 
+Transmission and Gas (Line 19):$11,901,494; Non-Protected Property (Line 23):$16,962,821; Non-Protected Non-Property (Line 26):($260,021). The amount and categorization for future tax rate changes will be specified in the Annual Update following the tax rate 
+change. 
+B The amortization schedule of the EDIT balance related to Tax Cuts and Job Act of 2017 shall be consistent with 
+the following periods: 
+          
+ Protected:  ARAM              
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 9 
+ Non-Protected Property: 7 years              
+ Non-Protected, Non-Property:  5 years              
+ The Non-Protected Property EDIT balance shall be fully amortized by the end of 2024 and the Non-Protected, non-Property EDIT balance shall be fully amortized by the end of 2022. 
+C The data of the annual amortization amount and balance are from PECO's Tax Accounting records. 
+               
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 10 
+PECO Energy 
+Company 
+                               
+Accumulated 
+Deferred 
+Income Taxes 
+Remeasureme
+nt 
+                               
+Attachment 9A - 
+Deficient / (Excess) 
+Deferred Income Taxes  
+Worksheet 
+                              
+                                  
+ 
+Tax Cuts and Jobs Act of 2017 
+                                  
+     
+ADIT - Pre Rate Change (December 31, 2017) 
+ 
+ADIT - Post Rate Change (December 31, 2017) 
+ 
+Deficient / (Excess) Deferred Income Taxes (December 31, 2017) 
+  
+ 
+Line 
+Detailed 
+Descripti
+on 
+Descriptio
+n 
+Categ
+ory 
+Federal 
+Gross 
+Timing 
+Difference 
+Federal 
+ADIT 
+@ 35% 
+State  
+ADIT FIT on SIT 
+Total  
+ADIT   
+Federal 
+Gross 
+Timing 
+Difference 
+Federal ADIT 
+@ 21% 
+State  
+ADIT FIT on SIT 
+Total  
+ADIT   
+Rate Change  
+Deferred Tax 
+Impact   
+Non-
+Recoverable   
+Income Tax  
+Regulatory  
+Asset / 
+Liability  
+Deferred 
+Taxes   
+Total 
+Deficient / 
+(Excess) 
+ADIT Balance   
+Juris
+dicti
+on  
+Allo
+cato
+r   
+Ele
+ctr
+ic 
+Tr
+an
+sm
+issi
+on   
+Al
+lo
+ca
+to
+r 
+(
+N
+ot
+e 
+B,
+C)   
+Transmi
+ssion 
+Allocate
+d 
+Deficien
+t / 
+(Excess) 
+ADIT 
+Balance   
+F
+E
+R
+C 
+A
+c
+c
+o
+u
+n
+t 
+  
+(A) (B) (C) (D) 
+(E) = (D) * 
+35% (F) 
+(G) = (F) * 
+35% 
+(H) = (E) + (F) 
++ (G) 
+ 
+(I) (J) = (I) * 21% (K) 
+(L) = (K) * 
+21% 
+(M) = (J) + (K) 
++ (L) 
+ 
+(N) = (H) - 
+(M) 
+ 
+(O) 
+ 
+(P) 
+ 
+(Q) = (N) - 
+(O) - (P) 
+ 
+(R) 
+ 
+(S) 
+ 
+(T
+) 
+ 
+(U) = (Q) 
+* (T) 
+ 
+(
+V
+) 
+                                  
+  
+FERC 
+Account 
+190 
+(Note A) 
+                               
+ 
+1 
+Accrued 
+Benefits 
+Accrued 
+Benefits 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+ $                                           
+-    
+ $                                           
+-  
+ $                                           
+-  
+ 
+  
+ $                                           
+-    
+ $                                           
+-  
+ $                                           
+-  
+ 
+ $                                           
+-  
+ 
+ $                                         
+-    
+ 
+ $                                         
+-    
+ 
+ $                                           
+-  
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+ $                                       
+-  
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 11 
+ 
+2 
+Addback 
+of NQSO 
+Expense 
+Addback 
+of NQSO 
+Expense 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+3 
+Addback 
+of 
+OtherEqu
+ity Comp 
+Expense 
+Addback 
+of 
+OtherEquit
+y Comp 
+Expense 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+4 
+Amort-
+Organizat
+ional 
+Costs 
+Amort-
+Organizati
+onal Costs 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+5 
+Bad Debt 
+- Change 
+in 
+Provision 
+Bad Debt - 
+Change in 
+Provision 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+6 
+Charitabl
+e 
+Carryfor
+ward 
+Charitable 
+Carryforwa
+rd 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+7 
+Customer 
+Advances 
+- 
+Construct
+ion 
+Customer 
+Advances - 
+Constructi
+on 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+8 
+Deferred 
+Compens
+ation 
+Deferred 
+Compensa
+tion 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+9 
+Deferred 
+Revenue 
+Deferred 
+Revenue 
+ 
+Unpro
+tected 
+Non-   
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr  
+ 
+No  
+ 
+0.
+0
+0  
+                                        
+-    
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 12 
+Proper
+ty  
+ibuti
+on  
+0
+% 
+ 
+10 FAS 112 FAS 112 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+11 
+Federal 
+NOL 
+Federal 
+NOL 
+ 
+Protec
+ted 
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+12 
+FIN 47 
+ARO 
+FIN 47 
+ARO 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+13 
+Gross Up-
+Bill E 
+Credit  
+Gross Up-
+Bill E 
+Credit  
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+14 
+Incentive 
+Pay 
+Incentive 
+Pay 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+15 
+Injuries 
+and 
+Damage 
+Payments 
+Injuries 
+and 
+Damage 
+Payments 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+16 
+Merger 
+Costs 
+Merger 
+Costs 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 13 
+ 
+17 
+Deferred 
+Charges - 
+Tax 
+Repairs 
+Bill 
+Credit-
+Dist 
+Deferred 
+Charges - 
+Tax 
+Repairs Bill 
+Credit-Dist 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+18 
+Obsolete 
+Materials 
+Provision 
+Obsolete 
+Materials 
+Provision 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+19 
+Other 
+Current 
+Other 
+Current 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+20 
+Facility 
+Commit
+ment 
+Fees 
+Facility 
+Commitme
+nt Fees 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+21 
+Fines & 
+Other 
+Fines & 
+Other 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+22 
+MGP 
+Liability 
+Reg Asset 
+MGP 
+Liability 
+Reg Asset 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Gas  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+23 
+MGP 
+Reserve-
+Current 
+MGP 
+Reserve-
+Current 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Gas  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+24 
+Other 
+Current 
+Reg Asset 
+Other 
+Current 
+Reg Asset 
+ 
+Unpro
+tected 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+%  
+ 
+No  
+ 
+0.
+0
+0  
+                                        
+-    
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 14 
+Non-
+Proper
+ty  
+Distr
+ibuti
+on  
+0
+% 
+ 
+25 
+Other 
+Noncurre
+nt- 
+Railroad 
+Liability 
+Other 
+Noncurren
+t- Railroad 
+Liability 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+26 
+Other 
+Unearne
+d 
+Revenue-
+Deferred 
+Rents 
+Other 
+Unearned 
+Revenue-
+Deferred 
+Rents 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+27 
+Payroll 
+Taxes 
+Payroll 
+Taxes 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+28 
+Pennsylv
+ania NOL 
+Pennsylva
+nia NOL 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+Ye
+s  
+ 
+8.
+7
+7
+8
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+29 
+Pension 
+Expense 
+Provision 
+Pension 
+Expense 
+Provision 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+30 
+Pole 
+Attachme
+nt 
+Reserve 
+Pole 
+Attachmen
+t Reserve 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+31 
+Post 
+Retireme
+nt 
+Benefits 
+Post 
+Retiremen
+t Benefits 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+6
+3
+6
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 15 
+ 
+32 
+Rabbi 
+Trust & 
+Maxi Flat 
+Income 
+Rabbi 
+Trust & 
+Maxi Flat 
+Income 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+33 
+Reserve 
+For 
+Employe
+e 
+Litigation
+s 
+Reserve 
+For 
+Employee 
+Litigations 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+34 
+Sec 
+162(m) - 
+Excess 
+Officers 
+Comp - 
+Temp 
+Sec 162(m) 
+- Excess 
+Officers 
+Comp - 
+Temp 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+  
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+35 
+Sec 263A  
+- 
+Inventory 
+Adjustme
+nt 
+Sec 263A  - 
+Inventory 
+Adjustmen
+t 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Gas  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+36 
+SA 
+Unbilled 
+Reserve 
+SA 
+Unbilled 
+Reserve 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+37 
+SECA 
+Refund 
+SECA 
+Refund 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ N/A  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+38 
+SEPTA 
+Railroad 
+Rent 
+SEPTA 
+Railroad 
+Rent 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+39 
+Severanc
+e PMTS 
+Change 
+Severance 
+PMTS 
+Change in 
+Provision 
+ 
+Unpro
+tected 
+Non-   
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+5  
+                                        
+-    
+ 
+1
+9
+0 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-7A PT. 2 - PECO's Formula Rate Template 
+Effective Date: 5/28/2025 - Docket #: ER25-1809-000 - Page 16 
+in 
+Provision 
+Proper
+ty  
+5
+% 
+ 
+40 
+Vacation 
+Pay 
+Change 
+in 
+Provision 
+Vacation 
+Pay 
+Change in 
+Provision 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+41 
+Vegetatio
+n MGMT 
+Accrual 
+Vegetation 
+MGMT 
+Accrual 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+100
+% 
+Distr
+ibuti
+on  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+42 
+Workers 
+Compens
+ation 
+Reserve 
+Workers 
+Compensa
+tion 
+Reserve 
+ 
+Unpro
+tected 
+Non-
+Proper
+ty    
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+A&G 
+Rati
+o  
+ 
+ 
+Ye
+s  
+ 
+9.
+7
+0
+0
+% 
+ 
+                                        
+-    
+ 
+1
+9
+0 
+ 
+43 
+ Total 
+FERC 
+Account 
+190  
+  
+ $                                           
+-  
+ $                                           
+-    
+ $                                           
+-  
+ $                                           
+-  
+ 
+ $                                           
+-  
+ $                                           
+-  
+ $                                           
+-  
+ $                                           
+-  
+ $                                           
+-  
+ 
+ $                                           
+-  
+#
+# 
+ $                                           
+-  
+#
+# 
+ $                                           
+-  
+#
+# 
+ $                                           
+-  
+       
+ $                                      
+-  
+  
+                                  
+                                  
+  
+FERC 
+Account 
+282 
+(Note A) 
+                               
+ 
+44 
+Property 
+Related 
+ADIT, 
+Excl. ARO 
+- Federal 
+Property 
+Related 
+ADIT, Excl. 
+ARO - 
+Federal     
+ 
+  
+   
+  
+ 
+  
+     
+  
+ 
+  
+            
+ 
+45 Common Common 
+ 
+Protec
+ted 
+Proper
+ty    
+ $                                           
+-  
+ $                                         
+-    
+ $                                           
+-  
+ $                                           
+-  
+ 
+  
+ $                                           
+-    
+ $                                           
+-  
+  
+ $                                           
+-  
+ 
+ $                                         
+-    
+ 
+ $                                         
+-    
+ 
+ $                                           
+-  
+ 
+ 
+Plan
+t  
+ 
+ 
+Ye
+s  
+ 
+7.
+7
+1
+5
+% 
+ 
+ $                                       
+-  
+ 
+2
+8
+2 
+ 
+46 
+Distributi
+on - 
+Electric 
+Distributio
+n - Electric 
+ 
+Protec
+ted 
+Proper
+ty    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+                                            
+-    
+ 
+  
+                                            
+-      
+                                            
+-    
+  
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+                                            
+-    
+ 
+ 
+Plan
+t  
+ 
+ 
+No  
+ 
+0.
+0
+0
+0
+% 
+ 

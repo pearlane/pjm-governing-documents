@@ -1,0 +1,1042 @@
+[ATTACHMENT K - Part 11 of 12]
+
+determines it is necessary to post modified auction results, it shall provide notification of its 
+intent to do so,  along with a description detailing the cause and scope of the error, by no later 
+than 5:00 p.m. of the second Business Day following the initial publication of prices for that 
+auction.  The provided description will not contain information that is market sensitive or 
+confidential.  Thereafter, the Office of the Interconnection must post the corrected prices by no 
+later than 5:00 p.m. of the fourth calendar day following the initial publication of prices in the 
+auction. Should any of the above deadlines pass without the associated action on the part of the 
+Office of the Interconnection, the originally posted results will be considered final. 
+Notwithstanding the foregoing, the deadlines set forth above shall not apply if the referenced 
+auction results are under publicly noticed review by the FERC. 
+ 
+7.1A.3 Products. 
+ 
+ (i) The periods covered by long-term Financial Transmission Rights auctions shall be 
+any single Planning Period within the three Planning Period term covered by the relevant 
+auction.   
+ 
+ (ii) Weekend on-peak, weekday on-peak, off-peak and 24-hour Financial 
+Transmission Rights, as those products are described in Tariff, Attachment K-Appendix, section 
+7.3.4, shall be offered in long-term Financial Transmission Rights auctions; Financial 
+Transmission Rights options shall not be offered.   
+ 
+7.1A.4 Participation Eligibility. 
+ 
+ (i) To participate in long-term Financial Transmission Rights auctions an entity shall 
+be a PJM Member or a PJM Transmission Customer.  Eligible entities may submit bids or offers 
+in long-term Financial Transmission Rights auctions, provided they own Financial Transmission 
+Rights offered for sale.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.1A Long-Term Financial Tran 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 3 
+7.1A.5 Specified Receipt and Delivery Points. 
+ 
+The Office of the Interconnection will post a list of available receipt and delivery points for each 
+long-term Financial Transmission Rights auction.  Eligible receipt and delivery points in long-
+term Financial Transmission Rights auctions shall be limited to the posted available hubs, Zones, 
+aggregates, generators, and Interface Pricing Points. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.2 Financial Transmission Ri 
+Effective Date: 4/15/2020 - Docket #: ER20-1009-000 - Page 1 
+7.2 Financial Transmission Rights Characteristics. 
+ 
+7.2.1  Reconfiguration of Financial Transmission Rights. 
+ 
+Through an appropriate linear programming model, the Office of the Interconnection shall 
+reconfigure the Financial Transmission Rights offered or otherwise available for sale in any 
+auction to maximize the value to the bidders of the Financial Transmission Rights sold, provided 
+that any Financial Transmission Rights acquired at auction shall be simultaneously feasible in 
+combination with those Financial Transmission Rights outstanding at the time of the auction and 
+not sold in the auction.  The linear programming model shall, while respecting transmission 
+constraints and the maximum MW quantities of the bids and offers, select the set of 
+simultaneously feasible Financial Transmission Rights with the highest net total auction value as 
+determined by the bids of buyers and taking into account the reservation prices of the sellers. 
+ 
+7.2.2  Specified Receipt and Delivery Points. 
+ 
+The Office of the Interconnection will post the list of available receipt and delivery points for 
+each Financial Transmission Rights Auction before the start of the bidding window.  Auction 
+bids for annual Financial Transmission Rights Obligations may specify as receipt and delivery 
+points any combination of available hubs, Zones, aggregates, generators, and Interface Pricing 
+Points. Auction bids for annual Financial Transmission Rights Options may specify as receipt 
+and delivery points such combination of available hubs, Zones, aggregates, generators, and 
+Interface Pricing Points as the Office of the Interconnection shall allow from time to time as set 
+forth in PJM Manual 06: Financial Transmission Rights. Auction bids for Financial 
+Transmission Rights submitted in the monthly auctions may specify as receipt and delivery 
+points any combination of available hubs, Zones, aggregates, generators, and Interface Pricing 
+Points for bids that cover any month beyond the next month.  Auction bids for Financial 
+Transmission Rights submitted in the monthly auctions that cover the single calendar month 
+period immediately following the month in which the monthly auction is conducted may specify 
+any combination of available receipt and delivery buses represented in the State Estimator model 
+for which the Office of the Interconnection calculates and posts Locational Marginal Prices.  
+Auction bids may specify available receipt and delivery points from locations outside of the PJM 
+Region to locations inside such region, from locations within the PJM Region to locations 
+outside such region, or to and from locations within the PJM Region. 
+ 
+7.2.3  Transmission Congestion Charges. 
+ 
+Financial Transmission Rights shall entitle holders thereof to credits only for Day-ahead Energy 
+Market Transmission Congestion Charges, and shall not confer a right to credits for payments 
+arising from or relating to transmission congestion made to any entity other than PJMSettlement. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 1 
+7.3 Auction Procedures. 
+ 
+7.3.1 Role of the Office of the Interconnection. 
+ 
+Financial Transmission Rights auctions shall be conducted by the Office of the Interconnection 
+in accordance with standards and procedures set forth in the PJM Manuals, such standards and 
+procedures to be consistent with the requirements of this Schedule.  PJMSettlement shall be the 
+Counterparty to the purchases and sales of Financial Transmission Rights arising from such 
+auctions, provided however, that PJMSettlement shall not be a contracting party to any 
+subsequent bilateral transfers of Financial Transmission Rights between Market Participants.  
+The conversion of an Auction Revenue Right to a Financial Transmission Right pursuant to this 
+section 7 shall not constitute a purchase or sale transaction to which PJMSettlement is a 
+contracting party.  Any Financial Transmission Rights auctions conducted to liquidate a 
+defaulting Member’s Financial Transmission Rights portfolio shall be conducted by the Office of 
+the Interconnection in accordance with the procedures set forth in section 7.3.9 below, and as 
+may be further described in the PJM Manuals. 
+ 
+7.3.2 Notice of Offer. 
+ 
+A holder of a Financial Transmission Right wishing to offer the Financial Transmission Right for 
+sale shall notify the Office of the Interconnection of any Financial Transmission Rights to be 
+offered.  Each Financial Transmission Right sold in an auction shall, at the end of the period for 
+which the Financial Transmission Rights were auctioned, revert to the offering holder or the 
+entity to which the offering holder has transferred such Financial Transmission Right, subject to 
+the term of the Financial Transmission Right itself and to the right of such holder or transferee to 
+offer the Financial Transmission Right in the next or any subsequent auction during the term of 
+the Financial Transmission Right. 
+ 
+7.3.3 Pending Applications for Firm Service. 
+ 
+(a) [Reserved.] 
+ 
+(b) Financial Transmission Rights may be assigned to entities requesting Network 
+Transmission Service or Firm Point-to-Point Transmission Service pursuant to Operating 
+Agreement, Schedule 1, section 5.2.2 (e), and the parallel provisions of Tariff, Attachment K-
+Appendix, section 5.2.2(e), only if such Financial Transmission Rights are simultaneously 
+feasible with all outstanding Financial Transmission Rights, including Financial Transmission 
+Rights effective for the then-current auction period.  If an assignment of Financial Transmission 
+Rights pursuant to a pending application for Network Transmission Service or Firm Point-to-
+Point Transmission Service cannot be completed prior to an auction, Financial Transmission 
+Rights attributable to such transmission service shall not be assigned for the then-current auction 
+period.  If a Financial Transmission Right cannot be assigned for this reason, the applicant may 
+withdraw its application, or request that the Financial Transmission Right be assigned effective 
+with the start of the next auction period. 
+ 
+7.3.4 Weekend On-Peak, Weekday On-Peak, Off-Peak and 24-Hour Periods. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 2 
+ 
+Weekend on-peak, weekday on-peak, off-peak and 24-hour Financial Transmission Rights will 
+be offered in the annual, long-term, and monthly auctions. Weekend on-peak Financial 
+Transmission Rights shall cover the periods from 7:00 a.m. up to the hour ending 11:00 p.m. on 
+Saturdays, Sundays, and holidays as defined in the PJM Manuals.  Weekday on-peak Financial 
+Transmission Rights shall cover the periods from 7:00 a.m. up to the hour ending at 11:00 p.m. 
+on Mondays through Fridays, except holidays as defined in the PJM Manuals.  Off-Peak 
+Financial Transmission Rights shall cover the periods from 11:00 p.m. up to the hour ending 
+7:00 a.m. on all days.  The 24-hour period shall cover the period from hour ending 1:00 a.m. to 
+the hour ending 12:00 midnight on all days.  Each bid shall specify whether it is for a  weekend 
+on-peak, weekday on-peak, off-peak, or 24-hour period. 
+ 
+7.3.5 Offers and Bids. 
+ 
+(a) Offers to sell and bids to purchase Financial Transmission Rights shall be submitted 
+during the period set forth in Operating Agreement, Schedule 1, section 7.1.2, and the parallel 
+provisions of Tariff, Attachment K-Appendix, section 7.1.2, and shall be in the form specified by 
+the Office of the Interconnection in accordance with the requirements set forth below. 
+ 
+(b) Offers to sell shall identify the specific Financial Transmission Right, by term, megawatt 
+quantity and receipt and delivery points, offered for sale.  An offer to sell a specified megawatt 
+quantity of Financial Transmission Rights shall constitute an offer to sell a quantity of Financial 
+Transmission Rights equal to or less than the specified quantity.  An offer to sell may not specify 
+a minimum quantity being offered.  Each offer may specify a reservation price, below which the 
+offeror does not wish to sell the Financial Transmission Right.  Offers submitted by entities 
+holding rights to Financial Transmission Rights shall be subject to such reasonable standards for 
+the verification of the rights of the offeror as may be established by the Office of the 
+Interconnection.  Offers shall be subject to such reasonable standards for the creditworthiness of 
+the offeror or for the posting of security for performance as the Office of the Interconnection 
+shall establish. 
+ 
+(c) Bids to purchase shall specify the term, megawatt quantity, price per megawatt, and 
+receipt and delivery points of the Financial Transmission Right that the bidder wishes to 
+purchase.  A bid to purchase a specified megawatt quantity of Financial Transmission Rights 
+shall constitute a bid to purchase a quantity of Financial Transmission Rights equal to or less 
+than the specified quantity.  A bid to purchase may not specify a minimum quantity that the 
+bidder wishes to purchase.  A bid may specify receipt and delivery points in accordance with 
+Operating Agreement, Schedule 1, section 7.2.2, and the parallel provisions of Tariff, 
+Attachment K-Appendix, section 7.2.2, and may include Financial Transmission Rights for 
+which the associated Transmission Congestion Credits may have negative values.  Bids shall be 
+subject to such reasonable standards for the creditworthiness of the bidder or for the posting of 
+security for performance as the Office of the Interconnection shall establish. 
+ 
+(d) Bids and offers shall be specified to the nearest tenth of a megawatt and shall be greater 
+than zero.  The Office of the Interconnection may require that a market participant shall not 
+submit in excess of 5000 bids and offers for any single monthly auction, or for any single round 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 3 
+of the annual auction, when the Office of the Interconnection determines that such limit is 
+required to avoid or mitigate significant system performance problems related to bid/offer 
+volume.  Notice of the need to impose such limit shall be provided prior to the start of the 
+bidding period if possible.  Where such notice is provided after the start of the bidding period, 
+market participants shall be required within one day to reduce their bids and offers for such 
+auction below 5000, and the bidding period in such cases shall be extended by one day.  
+ 
+(e) In the event of extraordinary circumstances affecting the submission of bids within the 
+bidding period in which the Office of the Interconnection determines it necessary to extend the 
+bidding period, the Office of the Interconnection shall notify Market Participants as soon as 
+possible of the new bidding period ending day and time. 
+ 
+7.3.6 Determination of Winning Bids and Clearing Price. 
+ 
+(a) At the close of each bidding period, the Office of the Interconnection will create a base 
+Financial Transmission Rights power flow model that includes all outstanding Financial 
+Transmission Rights that have been approved and confirmed for any portion of the month for 
+which the auction was conducted and that were not offered for sale in the auction.  The base 
+Financial Transmission Rights model also will include estimated uncompensated parallel flows 
+into each interface point of the PJM Region and estimated scheduled transmission outages. 
+ 
+(b) In accordance with the requirements of Operating Agreement, Schedule 1, section 7.5, 
+and the parallel provisions of Tariff, Attachment K-Appendix, section 7.5, and subject to all 
+applicable transmission constraints and reliability requirements, the Office of the Interconnection 
+shall determine the simultaneous feasibility of all outstanding Financial Transmission Rights not 
+offered for sale in the auction and of all Financial Transmission Rights that could be awarded in 
+the auction for which bids were submitted.  The winning bids shall be determined from an 
+appropriate linear programming model that, while respecting transmission constraints and the 
+maximum MW quantities of the bids and offers, selects the set of simultaneously feasible 
+Financial Transmission Rights with the highest net total auction value as determined by the bids 
+of buyers and taking into account the reservation prices of the sellers.  In the event that there are 
+two or more identical bids for the selected Financial Transmission Rights and there are 
+insufficient Financial Transmission Rights to accommodate all of the identical bids, then each 
+such bidder will receive a pro rata share of the Financial Transmission Rights that can be 
+awarded. 
+ 
+(c) Financial Transmission Rights shall be sold at the market-clearing price for Financial 
+Transmission Rights between specified pairs of receipt and delivery points, as determined by the 
+bid value of the marginal Financial Transmission Right that could not be awarded because it 
+would not be simultaneously feasible.  The linear programming model shall determine the 
+clearing prices of all Financial Transmission Rights paths based on the bid value of the marginal 
+Financial Transmission Rights, which are those Financial Transmission Rights with the highest 
+bid values that could not be awarded fully because they were not simultaneously feasible, and 
+based on the flow sensitivities of each Financial Transmission Rights path relative to the 
+marginal Financial Transmission Rights paths flow sensitivities on the binding transmission 
+constraints.  Financial Transmission Rights with a zero clearing price will only be awarded if 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 4 
+there is a minimum of one binding constraint in the auction period for which the Financial 
+Transmission Rights path sensitivity is non-zero.  Financial Transmission Right Options with a 
+market-clearing price less than one dollar will not be awarded. 
+ 
+7.3.7 Announcement of Winners and Prices. 
+ 
+Within two (2) Business Days after the close of the bidding period for an annual Financial 
+Transmission Rights auction round, and within five (5) Business Days after the close of the 
+bidding period for a monthly Financial Transmission Rights auction, the Office of the 
+Interconnection shall post the winning bidders, the megawatt quantity, the term and the receipt 
+and delivery points for each Financial Transmission Right awarded in the auction and the price at 
+which each Financial Transmission Right was awarded unless circumstances beyond PJM’s 
+control prevent PJM from meeting the applicable deadline.  Under such circumstances, PJM will 
+post the auction results at the earliest possible opportunity.  The Office of the Interconnection 
+shall not disclose the price specified in any bid to purchase or the reservation price specified in 
+any offer to sell.  If the Office of the Interconnection discovers an error in the results posted for a 
+Financial Transmission Rights auction (or a given round of the annual Financial Transmission 
+Rights auction), the Office of the Interconnection shall notify Market Participants of the error as 
+soon as possible after it is found, but in no event later than 5:00 p.m. of the Business Day 
+following the initial publication of the results of the auction or round of the annual auction.  
+After this initial notification, if the Office of the Interconnection determines that it is necessary to 
+post modified results, it shall provide notification of its intent to do so, together with all available 
+supporting documentation, by no later than 5:00 p.m. of the second Business Day following the 
+initial publication of the results of that auction or round of the annual auction.  Thereafter, the 
+Office of the Interconnection must post any corrected results by no later than 5:00 p.m. of the 
+fourth calendar day following the initial publication of the results of the auction or round of the 
+annual auction. Should any of the above deadlines pass without the associated action on the part 
+of the Office of the Interconnection, the originally posted results will be considered final. 
+Notwithstanding the foregoing, the deadlines set forth above shall not apply if the referenced 
+auction results are under publicly noticed review by the FERC. 
+ 
+7.3.8 Auction Settlements. 
+ 
+All buyers and sellers of Financial Transmission Rights between the same points of receipt and 
+delivery shall pay PJMSettlement or be paid by PJMSettlement the market-clearing price, as 
+determined in the auction, for such Financial Transmission Rights. 
+ 
+For a Market Suspension where the suspension is greater than twenty-four (24) consecutive 
+hours, which may span up to two Operating Days, and there are no Day-Ahead Prices available 
+for the affected Operating Day, the Financial Transmission Right auction costs would be zero in 
+proportion to the number of hours of the Market Suspension in the Operating Day. 
+ 
+7.3.9 Addressing Defaulting Member’s Financial Transmission Rights. 
+ 
+In the event a Member fails to meet creditworthiness requirements or make timely payments 
+when due pursuant to the Operating Agreement or Tariff, the Office of the Interconnection shall, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 5 
+as soon as practicable after declaring the Member to be in default as provided in Operating 
+Agreement, section 15.1.5, use reasonable efforts to initiate within two applicable auctions the 
+following procedures to settle, liquidate or otherwise resolve each Financial Transmission Rights 
+position held by the defaulting Member: 
+ 
+a) The Office of the Interconnection shall unilaterally terminate all of the defaulting 
+Member’s rights with respect to forward Financial Transmission Rights positions as of the date 
+of the Member’s default. 
+ 
+b) As to each Financial Transmission Rights position held by the defaulting Member 
+immediately prior to the termination of the defaulting Member’s rights under subsection (a) 
+above, the Office of the Interconnection shall determine and execute an appropriate course of 
+action for addressing such Financial Transmission Rights position, based on the specific 
+circumstances of the default as determined by the Office of the Interconnection in exercise of its 
+reasonable judgment, such as (1) liquidating the position by offering it for sale in an upcoming 
+applicable Financial Transmission Rights auction, (2) liquidating the position by offering it for 
+sale in an auction called and scheduled for the specific purpose of liquidating one or more 
+positions held by the defaulting Member (“Special Auction”), (3) allowing the position to go to 
+settlement, or (4) another course of action the Office of the Interconnection determines to be 
+appropriate under the circumstances that is designed to minimize potential losses to PJM 
+Members.  The Office of the Interconnection will provide reasonable advance notice to PJM 
+Members of the approach or course of action it has determined to be appropriate prior to 
+implementing that approach or course of action.  The Office of the Interconnection is not 
+required to apply a single approach to the defaulting Member’s entire Financial Transmission 
+Rights portfolio, and may determine that the appropriate course of action for addressing a 
+defaulting Member’s portfolio includes a combination of the above approaches as applied to 
+different positions within the defaulting Member’s overall Financial Transmission Rights 
+portfolio. 
+ 
+c) The Office of the Interconnection will seek to minimize the losses to PJM Members 
+associated with settling, liquidating or otherwise resolving the defaulting Member’s Financial 
+Transmission Rights portfolio and may base its determination in subsection (b) above on several 
+factors, including but not limited to, the following: 
+ 
+1)  the Office of the Interconnection’s assessment of which approach will 
+provide the greatest degree of protection to the financial integrity of the 
+PJM Markets;  
+2) the size of the defaulting Member’s Financial Transmission Rights 
+portfolio, both in absolute terms and relative to overall market volume; 
+3) the term of the Financial Transmission Rights positions held by the 
+defaulting Member as considered for a single position or on a portfolio 
+basis; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.3 Auction Procedures 
+Effective Date: 10/28/2023 - Docket #: ER23-2714-000 - Page 6 
+4)  whether liquidation is feasible or not, and on what timeline, due to the 
+cessation or curtailment of trading at PJM for all Financial Transmission 
+Rights or a subset of Financial Transmission Rights positions;  
+5) prevailing market conditions, such as but not limited to market liquidity 
+and volatility; and 
+6) timing of the default and the actions taken to address the default.   
+d) Special Auctions.  The Office of the Interconnection shall administer each Special 
+Auction provided for in subsection (b)(2) above according to the procedures set forth in the 
+Tariff and PJM Manuals for FTR auctions to the extent appropriate in the Office of the 
+Interconnection’s sole discretion, and may adopt special rules for each Special Auction to 
+accommodate the unique circumstances underlying the particular default and particular Financial 
+Transmission Rights positions being liquidated, with the terms and conditions of such auction 
+being determined with the goal of facilitating a successful auction in light of the particular 
+positions to be auctioned, the prevailing market conditions for such open positions (including the 
+depth, scope, and nature of participation in such markets), and such other factors as the Office of 
+the Interconnection determines appropriate, including those factors enumerated in subsection (c) 
+above.  The Office of the Interconnection shall provide reasonable advance notice to FTR 
+Participants of a Special Auction and the terms and conditions under which it will be conducted. 
+ 
+e) All liquidations made pursuant to subsection (b) above shall be for the account of the 
+defaulting Member (and all amounts owed PJM in respect thereof shall be included in amounts 
+owed by the defaulting Member as part of its default). 
+ 
+f) Notwithstanding subsections 7.3.9(a) and (b) above, the actual net charges or credits 
+resulting from the defaulting Member’s Financial Transmission Rights positions for which 
+PJMSettlement acted as counterparty as calculated through the normal settlement processes shall 
+be included in calculating the Default Allocation Assessment charges as described in Operating 
+Agreement, section 15.2.2.   
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 1 
+7.4 Allocation of Auction Revenues. 
+ 
+7.4.1 Eligibility. 
+ 
+(a) Annual auction revenues, net of payments to entities selling Financial Transmission 
+Rights into the auction, shall be allocated among holders of Auction Revenue Rights in 
+proportion to the Target Allocation of Auction Revenue Rights Credits for the holder. 
+ 
+(b) Auction Revenue Rights Credits will be calculated based upon the clearing price results 
+of the applicable Annual Financial Transmission Rights auction. 
+ 
+(c) Monthly and Balance of Planning Period FTR auction revenues, net of payments to 
+entities selling Financial Transmission Rights into the auction, shall be allocated according to the 
+following priority schedule: 
+ 
+(i) To stage 1 and 2 Auction Revenue Rights holders in accordance with 
+Operating Agreement, Schedule 1, section 7.4.4.  If there are excess revenues 
+remaining after a distribution made pursuant to this subsection, such revenues 
+shall be distributed in accordance with subsection (c)(ii) of this section; 
+ 
+(ii) To the Residual Auction Revenue Rights holders in proportion to, but not 
+more than their Target Allocation as determined pursuant to Operating 
+Agreement, Schedule 1, section 7.4.3(b).  If there are excess revenues remaining 
+after a distribution made pursuant to this subsection, such revenues shall be 
+distributed in accordance with subsection (c)(iii) of this section; 
+ 
+(iii) In accordance with Operating Agreement, Schedule 1, section 5.2.6. 
+ 
+(d) Long-term FTR auction revenues associated with FTRs that cover individual Planning 
+Periods shall be distributed in the Planning Period for which the FTR is effective.  Long-term 
+FTR auction revenues associated with FTRs that cover multiple Planning Years shall be 
+distributed equally across each Planning Period in the effective term of the FTR.  Long-term 
+FTR auction revenue distributions within a Planning Period shall be in accordance with the 
+following provisions: 
+ 
+(i) Long-term FTR Auction revenues shall be distributed to Auction Revenue 
+Rights holders in the effective Planning Period for the FTR.  The distribution shall 
+be in proportion to the economic value of the ARRs when compared to the annual 
+FTR auction clearing prices from each round proportionately.    
+ 
+(ii) Long-term FTR auction revenues remaining after distributions made 
+pursuant to Operating Agreement, Schedule 1, section 7.4.1(d)(ii) shall be 
+distributed pursuant to Operating Agreement, Schedule 1, section 5.2.6 of 
+Schedule 1 of this Agreement.  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 2 
+7.4.2 Auction Revenue Rights. 
+ 
+(a) Prior to the end of each PJM Planning Period an annual allocation of Auction Revenue 
+Rights for the next PJM Planning Period shall be performed using a two stage allocation process.  
+Stage 1 shall consist of stages 1A and 1B, which shall allocate ten year and annual Auction 
+Revenue Rights, respectively, and stage 2 shall allocate annual Auction Revenue Rights. The 
+Auction Revenue Rights allocation process shall be performed in accordance with Sections 7.4 
+and 7.5 hereof and the PJM Manuals.  
+ 
+With respect to the allocation of Auction Revenue Rights, if the Office of the Interconnection 
+discovers a potential error in the allocation, the Office of the Interconnection shall notify Market 
+Participants as soon as possible after it is found, but in no event later than 5:00 p.m. of the 
+Business Day following the initial publication of allocation results.  After this initial notification, 
+if the Office of the Interconnection determines that it is necessary to post modified allocation 
+results, it shall provide notification of its intent to do so,  along with a description detailing the 
+cause and scope of the error, by no later than 5:00 p.m. of the second Business Day following 
+the publication of the initial allocation.  The provided description will not contain information 
+that is market sensitive or confidential.  Thereafter, the Office of the Interconnection must post 
+any corrected allocation results by no later than 5:00 p.m. of the fourth calendar day following 
+the initial publication. Should any of the above deadlines pass without the associated action on 
+the part of the Office of the Interconnection, the originally posted results will be considered final. 
+Notwithstanding the foregoing, the deadlines set forth above shall not apply if the referenced 
+allocation is under publicly noticed review by the FERC. 
+ 
+(b) In stage 1A of the allocation process, each Network Service User may request Auction 
+Revenue Rights for a term covering ten consecutive PJM Planning Periods beginning with the 
+immediately ensuing PJM Planning Period from a subset of the Active Historical Generation 
+Resources or Qualified Replacement Resources , and each Qualifying Transmission Customer 
+(as defined in subsection (f) of this section) may request Auction Revenue Rights based on the 
+megawatts of firm service provided between the receipt and delivery points as to which the 
+Transmission Customer had Point-to-Point Transmission Service during the historical reference 
+year.  Active Historical Generation Resources shall mean those historical resources that were 
+designated to be delivered to load based on the historical reference year, and which have not 
+since been deactivated and, further, only up to the current installed capacity value of such 
+resource as of the annual allocation of ARRs for the target PJM Planning Period.  Qualified 
+Replacement Resources shall mean those resources the Office of the Interconnection designates 
+for the ensuing Planning Period to replace historical resources that no longer qualify as Active 
+Historical Generation Resources and that maximize the economic value of ARRs while 
+maintaining Simultaneous Feasibility, as further described in the PJM Manuals.   
+ 
+Prior to the stage 1A of the allocation process, the Office of the Interconnection shall determine, 
+for each Zone, the amount of megawatts of ARRs available from Active Historical Generation 
+Resources in that Zone and the amount of megawatts required from Qualified Replacement 
+Resources.  The Office of the Interconnection shall designate Qualified Replacement Resources 
+as follows, and as further described in the PJM Manuals.  Qualified Replacement Resources shall 
+be either from a (1) capacity resource that has been included in the rate base of a specific Load 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 3 
+Serving Entity in a particular Zone, using criteria for rate-based as specified in sections 7.6 and 
+7.7 hereof concerning New Stage 1 Resources and Alternative Stage 1 Resources; or (2) from a 
+non-rate-based capacity resource.   
+ 
+Prior to the end of each PJM Planning Period the Office of the Interconnection will determine 
+which Stage 1 Resources are no longer viable for the next PJM Planning Period and then will 
+replace such source points with Qualified Replacement Resources (i.e., Capacity Resources that 
+pass the Simultaneous Feasibility Test and which are economic).  The Office of Interconnection 
+will determine the replacement source points as follows. First, the Office of the Interconnection 
+will compile a list of all Capacity Resources that are operational as of the beginning of the next 
+Planning Period, that are not currently designated as source points and will post such list on the 
+PJM website prior to finalizing the Stage 1 eligible resource list for each transmission zone for 
+review by Market Participants. In the first instance, all such resources will be considered to be 
+non-rate-based. Market Participants will be asked to review the posted resource list and provide 
+evidence to the Office of the Interconnection, if any, of the posted resources that shall be 
+classified as rate-based resources. Once the replacement resource list along with the resource 
+status is finalized after any input from Market Participants, the Office of the Interconnection will 
+create two categories of resources for each Stage 1 transmission zone based on economic order: 
+one for rate-based; and a second for non-rate-based resources. When determining economic 
+order, the Office of the Interconnection will utilize historical source and sink Day-ahead Energy 
+Market Congestion Locational Marginal Prices (“CLMPs”). Historical value will be based on the 
+previous three years’ CLMP sink versus CLMP source differences weighted by 50% for the 
+previous calendar year, weighted by 30% for the year prior and weighted by 20% for the year 
+prior. To the extent replacement resources do not have three years’ worth historical data, 
+weighting will be performed either 50/50% in the case of two years or 100% in the case of one 
+year worth of historical data.  If a full year of historical data is not available, PJM will utilize the 
+CLMP from the closest electrically equivalent location to compose an entire year of historical 
+data.  Once the economic order is established for each Stage 1 zonal rate-based and non-rate-
+based generator categories, the Office of the Interconnection will begin to replace Stage 1 zonal 
+retirements with the Qualified Replacement Resources by first utilizing rate-based resources in 
+the economic order while respecting transmission limitations. And once the rate-based resource 
+determination is concluded, the Office of the Interconnection will then utilize non-rate-based 
+resources, in economic order, while respecting transmission limitations as described previously. 
+ 
+The historical reference year for all Zones shall be 1998, except that the historical reference year 
+shall be:  2002 for the Allegheny Power and Rockland Electric Zones; 2004 for the AEP East, 
+The Dayton Power & Light Company and Commonwealth Edison Company Zones; 2005 for the 
+Virginia Electric and Power Company and Duquesne Light Company Zones; 2011 for the ATSI 
+Zone; 2012 for the DEOK Zone; 2013 for the EKPC Zone; 2018 for the OVEC Zone; and the 
+Office of the Interconnection shall specify a historical reference year for a new PJM zone 
+corresponding to the year that the zone is integrated into the PJM Interchange Energy Market.  
+For stage 1, the Office of the Interconnection shall determine a set of eligible historical 
+generation resources for each Zone based on the historical reference year and assign a pro rata 
+amount of megawatt capability from each historical generation resource to each Network Service 
+User in the Zone based on its proportion of peak load in the Zone.  Auction Revenue Rights shall 
+be allocated to each Network Service User in a Zone from each historical generation resource in 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 4 
+a number of megawatts equal to or less than the amount of the historical generation resource that 
+has been assigned to the Network Service User.  Each Auction Revenue Right allocated to a 
+Network Service User shall be to the Energy Settlement Area of such Network Service User as 
+described in Section 31.7 of Part III of the Tariff, unless the Network Service User’s Energy 
+Settlement Area represents the Residual Metered Load of an electric distribution company’s fully 
+metered franchise area(s) or service territory(ies) and the Network Service User elects to have its 
+Auction Revenue Rights allocated at the aggregate load buses in a Zone.  In stage 1A of the 
+allocation process, the sum of each Network Service User’s allocated Auction Revenue Rights 
+for a Zone must be equal to or less than sixty percent (60%) of the Network Service User’s 
+proportion of peak load in the Zone.  The sum of each Network Service User’s Auction Revenue 
+Rights for Non-Zone Network Load must be equal to or less than fifty percent (50%) of the 
+Network Service User’s transmission responsibility for Non-Zone Network Load as determined 
+under Section 34.1 of the Tariff.  The sum of each Qualifying Transmission Customer’s Auction 
+Revenue Rights must be equal to or less than fifty percent (50%) of the megawatts of firm 
+service provided between the receipt and delivery points as to which the Transmission Customer 
+had Point-to-Point Transmission Service during the historical reference year.  If stage 1A 
+Auction Revenue Rights are adversely affected by any new or revised statute, regulation or rule 
+issued by an entity with jurisdiction over the Office of the Interconnection, the Office of the 
+Interconnection shall, to the greatest extent practicable, and consistent with any such statute, 
+regulation or rule change, preserve the priority of the stage 1A Auction Revenue Rights for a 
+minimum period covering the ten (10) consecutive PJM Planning Periods (“Stage 1A Transition 
+Period”) immediately following the implementation of any such changes, provided that the terms 
+of all stage 1A Auction Revenue Rights in effect at the time the Office of the Interconnection 
+implements the Stage 1A Transition Period shall be reduced by one PJM Planning Period during 
+each annual stage 1A Auction Revenue Rights allocation performed during the Stage 1A 
+Transition Period so that all stage 1A Auction Revenue Rights that were effective at the start of 
+the Stage 1A Transition Period expire at the end of that period. 
+ 
+(c) In stage 1B of the allocation process each Network Service User may request Auction 
+Revenue Rights from the subset of the resources determined pursuant to Section 7.4.2(b) that 
+were not allocated in stage 1A of the allocation process, and each Qualifying Transmission 
+Customer may request Auction Revenue Rights based on the megawatts of firm service 
+determined pursuant to Section 7.4.2(b) that were not allocated in stage 1A of the allocation 
+process. In stage 1B of the allocation process, the sum of each Network Service User’s allocation 
+Auction Revenue Rights request for a Zone must be equal to or less than the difference between 
+the Network Service User’s peak load for that Zone as determined pursuant to Section 34.1 of 
+the Tariff and the sum of its Auction Revenue Rights Allocation from stage 1A of the allocation 
+process for that Zone.  The sum of each Network Service User’s Auction Revenue Rights for 
+Non-Zone Network Load must be equal to or less than the difference between one hundred 
+percent (100%) of the Network Service User’s transmission responsibility for Non-Zone 
+Network Load as determined pursuant to Section 7.4.2(b) and the sum of its Auction Revenue 
+Rights Allocation from stage 1A of the allocation process for that Zone.  The sum of each 
+Qualifying Transmission Customer’s Auction Revenue Rights must be equal to or less than the 
+difference between one hundred percent (100%) of the megawatts of firm service as determined 
+pursuant to Section 7.4.2(b) and the sum of its Auction Revenue Rights Allocation from stage 
+1A of the allocation process for that Zone.  In stage 1B, valid Auction Revenue Right source 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 5 
+buses include Active Historical Resources, Qualified Replacement Resources, Zones, hubs and 
+external Interface Pricing Points. 
+ 
+(d) In stage 2 of the allocation process, the Office of the Interconnection shall conduct an 
+iterative allocation process that consists of two rounds with up to one half of the remaining 
+system Auction Revenue Rights capability allocated in each round.  Each round of this allocation 
+process will be conducted sequentially with Network Service Users and Transmission Customers 
+being given the opportunity to view results of each allocation round prior to submission of 
+Auction Revenue Right requests into the subsequent round.  In each round, each Network 
+Service User shall designate a subset of buses from which Auction Revenue Rights will source 
+and sink.  Valid Auction Revenue Rights source buses include only Zones, generators, hubs and 
+external Interface Pricing Points.  Valid Auction Revenue Rights sink buses include only Zones, 
+generators, hubs and external Interface Pricing Points.  The Network Service User shall specify 
+the amount of Auction Revenue Rights requested from each source bus to each sink bus. Prior to 
+the 2015/2016 Planning Period, each Auction Revenue Right shall sink to the  Energy Settlement 
+Area of the Network Service User as described in Section 31.7 of Part III of the Tariff.  
+Commencing with the 2015/2016 Planning Period, each Auction Revenue Right shall sink to the 
+Energy Settlement Area of the Network Service User as described in Section 31.7 of Part III of 
+the Tariff, unless the Network Service User’s Energy Settlement Area represents the Residual 
+Metered Load of an electric distribution company’s fully metered franchise area(s) or service 
+territory(ies) and the Network Service User elects to have its Auction Revenue Rights sink at the 
+aggregate load buses in a Zone.  The sum of each Network Service User’s Auction Revenue 
+Rights requests in each stage 2 allocation round for each Zone must be equal to or less than one 
+half of the difference between the Network Service User’s peak load for that Zone as determined 
+pursuant to Section 7.4.2(b) and the sum of its Auction Revenue Right Allocation from stages 
+1A and 1B of the allocation process for that Zone.  The stage 2 allocation to Transmission 
+Customers shall be as set forth in subsection (f). 
+ 
+(e) On a daily basis within the annual Financial Transmission Rights auction period, a 
+proportionate share of Network Service User’s Auction Revenue Rights for each Zone are 
+reallocated as Network Load changes from one Network Service User to another within that 
+Zone. 
+ 
+(f) A Qualifying Transmission Customer shall be any customer with an agreement for Long-
+Term Firm Point-to-Point Transmission Service, used to deliver energy from a designated 
+Network Resource located either outside or within the PJM Region to load located either outside 
+or within the PJM Region, and that was confirmed and in effect during the historical reference 
+year for the Zone in which the resource is located.  Such an agreement shall allow the Qualifying 
+Transmission Customer to participate in the first stage of the allocation, but only if such 
+agreement has remained in effect continuously following the historical reference year and is to 
+continue in effect for the period addressed by the allocation, either by its term or by renewal or 
+rollover.  The megawatts of Auction Revenue Rights the Qualifying Transmission Customer may 
+request in the first stage of the allocation may not exceed the lesser of: (i) the megawatts of firm 
+service between the designated Network Resource and the load delivery point (or applicable 
+point at the border of the PJM Region for load located outside such region) under contract during 
+the historical reference year; and (ii) the megawatts of firm service presently under contract 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 6 
+between such historical reference year receipt and delivery points.  A Qualifying Transmission 
+Customer may request Auction Revenue Rights in either or both of stage 1 or 2 of the allocation 
+without regard to whether such customer is subject to a charge for Firm Point-to-Point 
+Transmission Service under Section 1 of Schedule 7 of the PJM Tariff (“Base Transmission 
+Charge”).  A Transmission Customer that is not a Qualifying Transmission Customer may 
+request Auction Revenue Rights in stage 2 of the allocation process, but only if it is subject to a 
+Base Transmission Charge.  The Auction Revenue Rights that such a Transmission Customer 
+may request in each round of stage 2 of the allocation process must be equal to or less than one 
+half of the number of megawatts equal to the megawatts of firm service being provided between 
+the receipt and delivery points as to which the Transmission Customer currently has Firm Point-
+to-Point Transmission Service.  The source point of the Auction Revenue Rights must be the 
+designated source point that is specified in the Transmission Service request and the sink point of 
+the Auction Revenue Rights must be the designated sink point that is specified in the 
+Transmission Service request.  A Qualifying Transmission Customer may request Auction 
+Revenue Rights in each round of stage 2 of the allocation process in a number of megawatts 
+equal to or less than one half of the difference between the number of megawatts of firm service 
+being provided between the receipt and delivery points as to which the Transmission Customer 
+currently has Firm Point-to-Point Transmission Service and its Auction Revenue Right 
+Allocation from stage 1 of the allocation process.   
+ 
+(g) PJM Transmission Customers that serve load in the Midwest ISO may participate in stage 
+1 of the allocation to the extent permitted by, and in accordance with, this Section 7.4.2 and other 
+applicable provisions of this Schedule 1.  For service from non-historic sources, these customers 
+may participate in stage 2, but in no event can they receive an allocation of ARRs/FTRs from 
+PJM greater than their firm service to loads in MISO. 
+ 
+(h) Subject to subsection (i) of this section, all Auction Revenue Rights must be 
+simultaneously feasible. If all Auction Revenue Right requests made during the annual allocation 
+process are not feasible then Auction Revenue Rights are prorated and allocated in proportion to 
+the megawatt level requested and in inverse proportion to the effect on the binding constraints. 
+ 
+(i) If any Auction Revenue Right requests made during stage 1A of the annual allocation 
+process are not feasible due to system conditions, then PJM shall increase the capability limits of 
+the binding constraints that would have rendered the Auction Revenue Rights infeasible to the 
+extent necessary in order to allocate such Auction Revenue Rights without their being infeasible 
+unless such infeasibility is caused by extraordinary circumstances.  Such increased limits shall be 
+included in all rounds of the annual allocation and auction processes and in subsequent modeling 
+during the Planning Year to support any incremental allocations of Auction Revenue Rights and 
+monthly and balance of the Planning Period Financial Transmission Rights auctions unless and 
+to the extent those system conditions that contributed to infeasibility in the annual process are 
+not extant for the time period subject to the subsequent modeling, such as would be the case, for 
+example, if transmission facilities are returned to service during the Planning Year.  In these 
+cases, any increase in the capability limits taken under this subsection (i) during the annual 
+process will be removed from subsequent modeling to support any incremental allocations of 
+Auction Revenue Rights and monthly and balance of the Planning Period Financial Transmission 
+Rights auctions.  In addition, PJM may remove or lower the increased capability limits, if 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 7 
+feasible, during subsequent FTR Auctions if the removal or lowering of the increased capability 
+limits does not impact Auction Revenue Rights funding and net auction revenues are positive. 
+ 
+For the purposes of this subsection (i), extraordinary circumstances shall mean an event of force 
+majeure that reduces the capability of existing or planned transmission facilities and such 
+reduction in capability is the cause of the infeasibility of such Auction Revenue Rights.  
+Extraordinary circumstances do not include those system conditions and assumptions modeled in 
+simultaneous feasibility analyses conducted pursuant to section 7.5 of Schedule 1 of this 
+Agreement.  If PJM allocates stage 1A Auction Revenue Rights as a result of this subsection (i) 
+that would not otherwise have been feasible, then PJM shall notify Members and post on its web 
+site (a) the aggregate megawatt quantities, by sources and sinks, of such Auction Revenue Rights 
+and (b) any increases in capability limits used to allocate such Auction Revenue Rights. 
+ 
+(j) Long-Term Firm Point-to-Point Transmission Service customers that are not Qualifying 
+Transmission Customers and Network Service Users serving Non-Zone Network Load may 
+participate in stage 1 of the annual allocation of Auction Revenue Rights pursuant to Section 
+7.4.2(a)-(c) of Schedule 1 of this Agreement, subject to the following conditions: 
+ 
+i. The relevant Transmission Service shall be used to deliver energy from a 
+designated Network Resource located either outside or within the PJM 
+Region to load located outside the PJM Region.  
+ 
+ii. To be eligible to participate in stage 1A of the annual Auction Revenue 
+Rights allocation: 1) the relevant Transmission Service shall remain in 
+effect for the stage 1A period addressed by the allocation; and 2) the 
+control area in which the external load is located has similar rules for load 
+external to the relevant control area. 
+ 
+iii. Source points for stage 1 requests authorized pursuant to this subsection 
+7.4.2(j) shall be limited to: 1) generation resources owned by the LSE 
+serving the load located outside the PJM Region; or 2) generation 
+resources subject to a bona fide firm energy and capacity supply contract 
+executed by the LSE to meet its load obligations, provided that such 
+contract remains in force and effect for a minimum term of ten (10) years 
+from the first effective Planning Period that follows the initial stage 1 
+request. 
+ 
+iv. For Long-Term Firm Point-to-Point Transmission Service customers 
+requesting stage 1 Auction Revenue Rights pursuant to this subsection 
+7.4.2(j) , the generation resource(s) designated as source points may 
+include any portion of the generating capacity of such resource(s) that is 
+not, at the time of the request, already identified as a Capacity Resource. 
+ 
+v. For Network Service Users requesting stage 1 Auction Revenue Rights 
+pursuant to this subsection 7.4.2(j), at the time of the request, the 
+generation resource(s) designated as source points must either be 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 8 
+committed into PJM’s RPM market or be designated as part of the entity’s 
+FRR Capacity Plan for the purpose of serving the capacity requirement of 
+the external load.    
+ 
+vi. All stage 1 source point requests made pursuant to this subsection 7.4.2(j) 
+shall not increase the megawatt flow on facilities binding in the relevant 
+annual Auction Revenue Rights allocation or in future stage 1A 
+allocations and shall not cause megawatt flow to exceed applicable ratings 
+on any other facilities in either set of conditions in the simultaneous 
+feasibility test prescribed in subsection (vii) of this subsection 7.4.2(j).  
+ 
+vii. To ensure the conditions of subsection (vi) of this subsection 7.4.2(j) are 
+met, a simultaneous feasibility test shall be conducted: 1) based on next 
+allocation year with all existing stage 1 and stage 2 Auction Revenue 
+Rights modeled as fixed injection-withdrawal pairs; and 2) based on 10 
+year allocation model with all eligible stage 1A Auction Revenue Rights 
+for each year including base load growth for each year. 
+ 
+viii. Requests for stage 1 Auction Revenue Rights made pursuant to this 
+subsection 7.4.2(j) that are received by PJM by November 1st of a 
+Planning Period shall be processed for the next annual Auction Revenue 
+Rights  allocation. Requests received after November 1st shall not be 
+considered for the upcoming annual Auction Revenue Rights allocation. If 
+all requests are not simultaneously feasible then requests will be awarded 
+on a pro-rata basis.  
+ 
+ix. Requests for new or alternate stage 1 resources made by Network Service 
+Users and external LSEs that are received by November 1st shall be 
+evaluated at the same time. If all requests are not simultaneously feasible 
+then requests will be awarded on a pro-rata basis. 
+ 
+x. Stage 1 Auction Revenue Rights source points that qualify pursuant to this 
+subsection 7.4.2(j) shall be eligible as stage 1 Auction Revenue Rights 
+source points in subsequent annual Auction Revenue Rights allocations. 
+ 
+xi. Long-Term Firm Point-to-Point Transmission Service customers 
+requesting stage 1 Auction Revenue Rights pursuant to this subsection 
+7.4.2(j) may request Auction Revenue Rights megawatts up to the lesser 
+of: 1) the customer’s Long-Term Firm Point-to-Point Transmission service 
+contract megawatt amount; or 2) the customer’s Firm Transmission 
+Withdrawal Rights.  
+ 
+xii. Network Service Users requesting stage 1 Auction Revenue Rights 
+pursuant to this subsection 7.4.2(j) may request Auction Revenue Rights 
+megawatts up to the lesser of: 1) the customer’s network service peak 
+load; or 2) the customer’s Firm Transmission Withdrawal Rights.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 9 
+ 
+xiii. Stage 1A Auction Revenue Rights requests made pursuant to this 
+subsection 7.4.2(j) shall not exceed 50% of the maximum allowed 
+megawatts authorized by subsections (xi) and (xii) of this subsection 
+7.4.2(j).   
+ 
+xiv. Stage 1B Auction Revenue Rights requests made pursuant to this 
+subsection 7.4.2(j) shall not exceed the difference between the maximum 
+allowed megawatts authorized by subsections (xi) and (xii) of this 
+subsection 7.4.2(j) and the Auction Revenue Rights megawatts granted in 
+stage 1A.  
+ 
+xv. In each round of Stage 2 of an annual allocation of Auction Revenue 
+Rights, megawatt requests made pursuant to this subsection 7.4.2(j) shall 
+be equal to or less than one half of the difference between the maximum 
+allowed megawatts authorized by paragraphs (xi) and (xii) of this 
+subsection 7.4.2(j) and the Auction Revenue Rights megawatt amount 
+allocated in stage 1.  
+ 
+xvi. Stage 1 Auction Revenue Rights sources established pursuant to this 
+subsection 7.4.2(j) and the associated Auction Revenue Rights megawatt 
+amount may be replaced with an alternate resource pursuant to the process 
+established in Section 7.7 of Schedule 1 of this Agreement. 
+ 
+(k)  PJM Transmission Customers taking firm transmission service for the delivery of Direct 
+Charging Energy to Energy Storage Resources or to Open-Loop Hybrid Resources are not 
+eligible for allocation of Auction Revenue Rights. 
+ 
+ 
+7.4.2a Bilateral Transfers of Auction Revenue Rights 
+ 
+(a) Market Participants may enter into bilateral agreements to transfer Auction Revenue 
+Rights or the right to receive an allocation of Auction Revenue Rights to a third party.  Such 
+bilateral transfers shall be reported to the Office of the Interconnection in accordance with this 
+Schedule and pursuant to the LLC’s rules related to its FTR reporting tools.  
+ 
+(b) For purposes of clarity, with respect to all bilateral transfers of Auction Revenue Rights 
+or the right to receive an allocation of Auction Revenue Rights, the rights and obligations to the 
+Auction Revenue Rights or the right to receive an allocation of Auction Revenue Rights that are 
+the subject of such a bilateral transfer shall pass to the buyer under the bilateral contract subject 
+to the provisions of this Schedule.  In no event, shall the purchase and sale of an Auction 
+Revenue Right or the right to receive an allocation of Auction Revenue Rights pursuant to a 
+bilateral transfer constitute a transaction with PJMSettlement or a transaction in any auction 
+under this Schedule.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 10 
+(c) Consent of the Office of the Interconnection shall be required for a seller to transfer to a 
+buyer any obligations associated with the Auction Revenue Rights or the right to receive an 
+allocation of Auction Revenue Rights.  Such consent shall be based upon the Office of the 
+Interconnection’s assessment of the buyer’s ability to perform the obligations transferred in the 
+bilateral contract.  If consent for a transfer is not provided by the Office of the Interconnection, 
+the title to the Auction Revenue Rights or the right to receive an allocation of Auction Revenue 
+Rights shall not transfer to the third party and the holder of the Auction Revenue Rights or the 
+right to receive an allocation of Auction Revenue Rights shall continue to receive all rights 
+attributable to the Auction Revenue Rights or the right to receive an allocation of Auction 
+Revenue Rights and remain subject to all credit requirements and obligations associated with the 
+Auction Revenue Rights or the right to receive an allocation of Auction Revenue Rights. 
+ 
+(d) A seller under such a bilateral contract shall guarantee and indemnify the Office of the 
+Interconnection, PJMSettlement, and the Members for the buyer’s obligation to pay any charges 
+associated with the Auction Revenue Right and for which payment is not made to 
+PJMSettlement by the buyer under such a bilateral transfer.   
+ 
+(e) All payments and related charges associated with such a bilateral contract shall be 
+arranged between the parties to such bilateral contract and shall not be billed or settled by 
+PJMSettlement or the Office of the Interconnection.  The LLC, PJMSettlement, and the 
+Members will not assume financial responsibility for the failure of a party to perform obligations 
+owed to the other party under such a bilateral contract reported to the Office of the 
+Interconnection under this Schedule.   
+ 
+(f) All claims regarding a default of a buyer to a seller under such a bilateral contract shall 
+be resolved solely between the buyer and the seller.  
+ 
+7.4.3 Target Allocation of Auction Revenue Right Credits. 
+ 
+(a) A Target Allocation of Auction Revenue Right Credits for each entity holding an Auction 
+Revenue Right shall be determined for each Auction Revenue Right.  After each round of the 
+annual Financial Transmission Right auction, each Auction Revenue Right shall be divided by 
+four and multiplied by the price differences for the receipt and delivery points associated with 
+the Auction Revenue Right, calculated as the Locational Marginal Price at the delivery points(s) 
+minus the Locational Marginal Price at the receipt point(s), where the price for the receipt and 
+delivery point is determined by the clearing prices of each round of the annual Financial 
+Transmission Right auction.  The daily total Target Allocation for an entity holding the Auction 
+Revenue Rights shall be the sum of the daily Target Allocations associated with all of the 
+entity’s Auction Revenue Rights. 
+ 
+(b) A Target Allocation of residual Auction Revenue Rights Credits for each entity allocated 
+Residual Auction Revenue Rights pursuant to section 7.9 of Schedule 1 of this Agreement shall 
+be determined on a monthly basis for each month in a Planning Period beginning with the month 
+the Residual Auction Revenue Right(s) becomes effective through the end of the relevant 
+Planning Period.  The Target Allocation for Residual Auction Revenue Rights Credits shall be 
+equal to megawatt amount of the Residual Auction Revenue Rights multiplied by the LMP 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.4 Allocation of Auction Re 
+Effective Date: 6/1/2023 - Docket #: ER22-1420-000 - Page 11 
+differential between the source and sink nodes of the corresponding FTR obligation in each 
+prompt-month FTR auction that occurs from the effective date of the Residual Auction Revenue 
+Rights through the end of the relevant Planning Period. 
+ 
+7.4.4 Calculation of Auction Revenue Right Credits. 
+ 
+(a) Each day, the total of all the daily Target Allocations determined as specified above in 
+Section 7.4.3 plus any additional Auction Revenue Rights Target Allocations applicable for that 
+day shall be compared to the total revenues of all applicable monthly Financial Transmission 
+Rights auction(s) (divided by the number of days in the month) plus the total revenues of the 
+annual Financial Transmission Rights auction (divided by the number of days in the Planning 
+Period). If the total of the Target Allocations is less than the total auction revenues, the Auction 
+Revenue Right Credit for each entity holding an Auction Revenue Right shall be equal to its 
+Target Allocation.  All remaining funds shall be distributed as Excess Congestion Charges 
+pursuant to Section 5.2.6. 
+ 
+(b) If the total of the Target Allocations is greater than the total auction revenues, each holder 
+of Auction Revenue Rights shall be assigned a share of the total auction revenues in proportion 
+to its Auction Revenue Rights Target Allocations for Auction Revenue Rights which have a 
+positive Target Allocation value. Auction Revenue Rights which have a negative Target 
+Allocation value are assigned the full Target Allocation value as a negative Auction Revenue 
+Right Credit. 
+ 
+(c) At the end of a Planning Period, if all Auction Revenue Right holders did not receive 
+Auction Revenue Right Credits equal to their Target Allocations, PJMSettlement shall assess a 
+charge equal to the difference between the Auction Revenue Right Credit Target Allocations for 
+all revenue deficient Auction Revenue Rights and the actual Auction Revenue Right Credits 
+allocated to those Auction Revenue Right holders.  The aggregate charge for a Planning Period 
+assessed pursuant to this section, if any, shall be added to the aggregate charge for a Planning 
+Period assessed pursuant to section 5.2.5(c) of Schedule 1 of this Agreement and collected 
+pursuant to section 5.2.5(c) of Schedule 1 of this Agreement and distributed to the Auction 
+Revenue Right holders that did not receive Auction Revenue Right Credits equal to their Target 
+Allocation. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.5 Simultaneous Feasibility 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.5 Simultaneous Feasibility. 
+ 
+ (a) The Office of the Interconnection shall make the simultaneous feasibility 
+determinations specified herein using appropriate powerflow models of contingency-constrained 
+dispatch.  Simultaneous feasibility determinations shall take into account outages of both 
+individual generation units and transmission facilities and shall be based on reasonable 
+assumptions about the configuration and availability of transmission capability during the period 
+covered by the auction that are not inconsistent with the determination of the deliverability of 
+Generation Capacity Resources under the Reliability Assurance Agreement.  The goal of the 
+simultaneous feasibility determination shall be to ensure that there are sufficient revenues from 
+Day-ahead Energy Market Transmission Congestion Charges to satisfy all Financial 
+Transmission Rights Obligations for the auction period under expected conditions and to ensure 
+that there are sufficient revenues from the annual Financial Transmission Right Auction to 
+satisfy all Auction Revenue Rights Obligations.  To ensure revenue sufficiency, the powerflow 
+model used for simultaneous feasibility determinations is a markets model that uses flows caused 
+by sources and sinks of requested Auction Revenue Rights (including Incremental Auction 
+Revenue Rights) or Financial Transmission Rights, as well as market limits (as described in 
+section (b) below) to determine the capability available to accommodate financial rights that are 
+simultaneously feasible.  The markets model differs from both an operations model, which uses 
+physical generators or load, and a planning model, which uses expected physical generators or 
+load. 
+ 
+(b) Simultaneous feasibility determinations pursuant to this section utilize applicable 
+market limits.  Market limits may differ from physical facility ratings to reflect expected market 
+capability and to align expected Financial Transmission Rights total target allocations with 
+expected congestion, and to ensure sufficient revenues are collected from the Day-ahead Energy 
+Market Transmission Congestion Charges to satisfy all Financial Transmission Rights 
+obligations.  To account for historical market impacts, market limits may reflect (without 
+limitation) such factors as requested and awarded Auction Revenue Rights, Incremental Auction 
+Revenue Rights and Financial Transmission Rights, uncompensated powerflow, external 
+flowgate entitlements or limits, transfer limits of the type appropriate for reactive interfaces, 
+operational considerations, voltage limitations and/or closed loop interfaces.  Market limits also 
+are based on reasonable assumptions about the configuration and availability of transmission 
+capability during the study period, including (without limitation) scheduled or expected 
+transmission outages.  The market limits are applied to facilities modeled in an Auction Revenue 
+Rights allocation, Financial Transmission Rights auction or Incremental Auction Revenue Rights 
+study and may result in operative constraints that establish different limits than physical (e.g., 
+thermal or voltage) ratings.  As used here, an operative constraint results when a market limit 
+binds in the powerflow model and constrains the grant of Auction Revenue Rights, Incremental 
+Auction Revenue Rights or Financial Transmission Rights.  
+ 
+(c) On an annual basis the Office of the Interconnection shall conduct a simultaneous 
+feasibility test for stage 1A Auction Revenue Rights, which shall assess the simultaneous 
+feasibility for each year remaining in the term of the right(s).  This test shall be based on the 
+Auction Revenue Rights required to meet sixty percent (60%) of peak load in each Zone 
+requirements.  The Office of the Interconnection shall apply a zonal load growth rate to the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.5 Simultaneous Feasibility 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 2 
+simultaneous feasibility test for the ten year term of the stage 1A Auction Revenue Rights to 
+reflect load growth as estimated by the Office of the Interconnection. 
+ 
+ (d) Simultaneous feasibility tests for new stage 1 resource requests made pursuant to 
+Section 7.6 of Schedule 1 of this Agreement shall ensure that the request for a new base resource 
+does not increase the megawatt flow on facilities binding in the current Auction Revenue Rights 
+allocation or in future stage 1A allocations and does not cause megawatt flow to exceed 
+applicable ratings on any other facilities in either set of conditions.  The most limiting set of 
+conditions will be used as the limiting condition in these evaluations.  A simultaneous feasibility 
+test conducted pursuant to this section by the Office of the Interconnection shall assess the 
+simultaneous feasibility under the following conditions: 
+ 
+(i) Based on next allocation year with all existing stage 1 and stage 2 Auction 
+Revenue Rights modeled as fixed injection-withdrawal pairs.  
+ 
+(ii) Based on 10 year allocation model with all eligible stage 1A Auction 
+Revenue Rights for each year including base load growth for each year. 
+ 
+ (e) Simultaneous feasibility tests for Incremental Auction Revenue Rights requested 
+pursuant to Operating Agreement, Schedule 1, section 7.8 and Tariff, Part VI, Subpart C, section 
+231 shall ensure that the request for the Incremental Auction Revenue Rights does not increase 
+the megawatt flow on facilities binding in the current Auction Revenue Rights allocation or in 
+future stage 1A allocations and does not cause megawatt flow to exceed applicable ratings on 
+any other facilities in either set of conditions.  The most limiting set of conditions will be used as 
+the limiting conditions in these evaluations.  A simultaneous feasibility test conducted pursuant 
+to this section by the Office of the Interconnection shall assess the simultaneous feasibility using 
+the following models derived from the markets model: 
+ 
+(i) An Incremental Auction Revenue Rights model that is based on the 
+existing allocation year with transmission outages removed (i.e., the 
+transmission assumed out of service in the base markets model is assumed 
+to be in service).  All existing stage 1 and stage 2 Auction Revenue Rights 
+are modeled as fixed injection withdrawal pairs. 
+ 
+(ii) A 10 year allocation model with all eligible stage 1A Auction Revenue 
+Rights for each year including base load growth for each year. 
+ 
+(f) Simultaneous feasibility tests pursuant to section (e) above utilize a transfer 
+analysis to determine the flow impacts.  The transfer analysis is performed by injecting at the 
+source and withdrawing at the sink and measuring the impacts on the facilities.  Additional 
+details are provided in the PJM Manuals and related explanatory materials posted on the PJM 
+website such as the PJM Whitepaper entitled “PJM Incremental Auction Revenue Rights Model 
+Development and Analysis.” 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 
+TRANSMISSION --> OATT Attachment K Appendix Sec 7.6 New Stage 1 Resources 
+Effective Date: 2/1/2023 - Docket #: ER22-797-000 - Page 1 
+7.6 New Stage 1 Resources. 
+ 
+A Network Service User may request the addition of new stage 1 resources to the stage 1 
+resource list if the capacity of the Stage 1 generation resources for a Zone determined pursuant to 
+Section 7.4.2(b) is less than sixty percent (60%) of the of peak load in the Zone.  Requests made 
+pursuant to this section shall be subject to Section 7.5(c) of Schedule 1 of this Agreement and 
+shall be limited to generation resources either owned by the requesting party or those subject to a 
+bona fide firm energy and capacity supply contracts where such contract is executed by the 
+requesting party to meet load obligations for which it is eligible to receive stage 1 Auction 
+Revenue Rights and remains in force and effect for a minimum term of ten (10) years. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT K – APPENDIX --> OATT ATTACHMENT K APPENDIX SECTON 7 - FINANCIAL 

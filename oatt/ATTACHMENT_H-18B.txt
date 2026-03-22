@@ -1,1025 +1,221 @@
-Attachment H-18B, 
-Section 1.b 
-DFAX Allocation: 
-APS (16.23%) / BGE (11.71%) / 
-Dominion (57.90%) / PEPCO 
-(14.16%) 
-b0218 
-Install third Wylie 
-Ridge 500/345 kV 
-transformer 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-AEC (11.83%) / DPL (19.40%) / 
-Dominion (13.81%) / JCPL 
-(15.56%) / PECO (39.40%) 
-b0220 
-Upgrade coolers on 
-Wylie Ridge 500/345 
-kV #7 
- 
-AEC (11.83%) / DPL (19.40%) / 
-Dominion (13.81%) / JCPL 
-(15.56%) / PECO (39.40%) 
-b0229 Install fourth Bedington 
-500/138 kV  
-APS (50.98%) / BGE (13.42%) / 
-DPL (2.03%) / Dominion 
-(14.50%) / ME (1.43%) / PEPCO 
-(17.64%) 
-b0230 
-Install fourth 
-Meadowbrook 500/138 
-kV 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-APS (79.16%) / BGE (3.61%) / 
-DPL (0.86%) / Dominion 
-(11.75%) / ME (0.67%) / PEPCO 
-(3.95%) 
-* Neptune Regional Transmission System, LLC 
+ATTACHMENT H-18B 
+FORMULA RATE IMPLEMENTATION PROTOCOLS 
+Section 1 Annual Updates 
+a. The Annual Transmission Revenue Requirements applicable under Attachment H 
+shall be applicable to services on and after June 1 of a given calendar year 
+through May 31 of the subsequent calendar year (the “Rate Year”).  
+b. On or before May 15 of each year, TrAILCo shall recalculate its Annual 
+Transmission Revenue Requirements, producing the “Annual Update” for the 
+upcoming Rate Year, and post such Annual Update of PJM’s Internet website via 
+link to the Transmission Services page or a similar successor page.  The Annual 
+Update, which shall show separately the transmission revenue requirement for 
+each TrAILCo facility listed in Schedule 12 – Appendix as subject to these 
+procedures, shall also be provided to FERC in an informational filing. 
+c. If the date for making the Annual Update posting/filing should fall on a weekend 
+or a holiday recognized by the FERC, then the posting/filing shall be due on the 
+next business day. 
+d. The date on which the last of the events listed in Section 1.b or 1.c occurs shall be 
+that year’s “Publication Date.” 
+e. Upon written request for a particular year’s Annual Update by any wholesale 
+customer, load serving entity whose customers are allocated costs of the TrAILCo 
+facilities, any state utility commission in which customers that are allocated costs 
+of the TrAILCo facilities are located, or any of the state consumer advocates who 
+represent customers that are allocated costs of the TrAILCo facilities (collectively 
+“Interested Parties”), TrAILCo will promptly make available to such entity and/or 
+consultant designated by it, a “workable” Excel file containing that year’s Annual 
+Update data.  On or before May 20 of each year, TrAILCo will send a “workable” 
+Excel file containing that year’s Annual Update data to the attention of the 
+Executive Secretary/General Counsel of the state utility commissions of 
+Maryland, Pennsylvania, and Virginia. 
+f. The Annual Update for the Rate Year: 
+(i) shall, to the extent specified in the Formula Rate, be based upon 
+TrAILCO’s FERC From No. 1 data for the most recent calendar year, and 
+to the extent specified in the Formula Rate, be based upon the books and 
+records of TrAILCo consistent with FERC accounting policies; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-18B - Trans-Allegheny 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 2 
+(ii) shall, as and to the extent specified in the Formula Rate, provide 
+supporting documentation for data not otherwise available in the FERC 
+Form No. 1 that are used in the Formula Rate;1 
+(iii) shall provide notice of material changes in TrAILCo’s accounting policies 
+and practices from those in effect for the calendar year upon which the 
+immediately preceding Annual Update was based (“Material Accounting 
+Changes”); 2 
+(iv) shall be subject to the challenge and review only in accordance with the 
+procedures set forth in this Attachment H-18B and is contestable only with 
+respect to the prudence of the costs and expenditures included for recovery 
+in the Annual Update, as well as the accuracy of the data and the 
+consistency with the Formula Rate of the charges shown in the Annual 
+Update; and  
+(v) shall not seek to modify the Formula Rate and shall not be subject to 
+challenge by seeking to modify the Formula Rate (i.e., all such 
+modifications to the Formula Rate – including return on equity – will 
+require, as applicable, a Federal Power Act Section 205 or Section 206 
+filing).  
+g. Formula Rate inputs (i) rate of return on common equity:  (ii) depreciation rates 
+and/or amortization amounts, (iii) total “Post-Employment Benefits other than 
+Pension” of Allegheny Energy Service Company pursuant to Statement of 
+Financial Accounting Standards No. 106 Employers” Accounting for 
+Postretirement Benefits Other Than Pensions (“PBOP”) amortization, and (iv) 
+amortization of pre-2007 pre-commercial costs shall be fixed in the rate formula 
+until changed pursuant to an FPA Section 205 or 206 filing.  
+h. The capital structure of TrAILCo during construction will be a hypothetical 
+capital structure of 50 percent debt and 50 percent equity (“50/50”).  Upon 
+completion of construction, TrAILCo will use its actual capital structure.  In 
+determining the Annual Transmission Revenue Requirement for the Rate Year in 
+which TrAILCo anticipates completing construction, TrAILCo will apply (i) a 
+hypothetical 50/50 capital structure for the months prior to the month in 
+______________________ 
+1 It is the intent of the Formula Rate, including the supporting explanations and allocations described therein, that each 
+input to the Formula Rate will be either taken directly from the FERC Form No. 1 or reconcilable to the FERC Form 
+No. 1 by the application of clearly identified and supported information.  Where the reconciliation is provided through 
+a worksheet included in the filed Formula Rate template, the inputs to the worksheet must meet this transparency 
+standard, and doing so will satisfy this transparency requirement for the amounts that are output from the worksheet 
+and input to the main body of the Formula Rate. 
+2 Such notice may incorporate by reference applicable statements filed with the Securities and Exchange Commission.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-18B - Trans-Allegheny 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 3 
+which construction is expected to be completed and (ii) the actual capital 
+structure as calculated based upon the prior year’s Form No. 1 for the months 
+including and after the month in which construction is expected to be 
+completed.  In determining the Annual Update following the completion of 
+construction, TrAILCo will reconcile the prior year’s Annual Transmission 
+Revenue Requirement with a revenue requirement determined using the 
+hypothetical 50/50 capital structure for the percentage of the Rate Year prior to 
+the completion of construction and the actual year-end capital structure for the 
+percent of the year following the completion of construction. 
+Section 2 Construction Work in Progress 
+For each incentive transmission project TrAILCo shall use accounting procedures to 
+ensure that it does not recover an Allowance for Funds Used During Construction (“AFUDC”) to 
+the extent that it has been authorized by a Commission order to include 100 percent of 
+Construction Work in Progress (“CWIP”) in transmission rate base in Attachment 5 to Appendix 
+A. 
+Section 3 Annual Review Procedures 
+Each Annual Update shall be subject to the following review procedures (“Annual 
+Review Procedures”): 
+a. Interested Parties shall have up to one hundred fifty (150) days after the 
+Publication Date (unless such period is extended with the written consent of 
+TrAILCo) to review the calculations (“Review Period”) and to notify TrAILCo 
+in writing of any specific challenges, including challenges related to Material 
+Accounting Changes, to the application of the Formula Rate (“Preliminary 
+Challenge”). 
+b. Interested Parties shall have up to one hundred twenty (120) days after each 
+annual Publication Date (unless such period is extended with the written consent 
+of TrAILCo) to serve reasonable information requests on TrAILCo; provided, 
+however, that the potentially Interested Parties shall make a good faith effort to 
+submit consolidated sets of information requests that limit the number and 
+overlap of questions to the maximum extent practicable.  Such information 
+requests shall be limited to what is necessary to determine if TrAILCo has 
+properly applied the Formula Rate and the procedures in this Attachment H-
+18B, and to determine the prudence of costs and expenditures included for 
+recovery in the Annual Update, as well as the accuracy of data and the 
+consistency with the Formula Rate of the charges shown in the Annual Update.  
+In addition, such information requests shall not solicit information concerning 
+costs or allocations where the costs or allocation method have been determined 
+by FERC or in the context of other Annual Updates, except that such 
+information requests shall be permitted if they seek to determine if there has 
+been a material change in circumstances. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-18B - Trans-Allegheny 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 4 
+c. TrAILCo shall make a good faith effort to respond to information requests 
+pertaining to the Annual Update within fifteen (15) business days of receipt of 
+such requests.  TrAILCo may give reasonable priority to responding to requests 
+that satisfy the practicable coordination and consolidation provision of Section 
+2.b above.  
+d. Preliminary or Formal Challenges related to Material Accounting Changes 3 are 
+not intended to serve as a means of pursuing other objections to the Formula 
+Rate.  Failure to make a Preliminary Challenge with respect to a Material 
+Accounting Change in an Annual Update shall act as a bar with respect to that 
+Annual Update but shall not bar a subsequent Preliminary Challenge related to a 
+subsequent Annual Update to the extent such Material Accounting Change 
+affects the subsequent Annual Update.  
+e. Preliminary or Formal Challenges related to Material Accounting Changes shall 
+be subject to the resolution procedures and limitations in Section 3, except that 
+Section 3.c shall not apply.  In any proceeding initiated to address a Preliminary 
+or Formal Challenge or sua sponte by the FERC, a party or parties (other than 
+TrAILCo) seeking to modify the Formula Rate in any respect shall bear the 
+burden of proving that the Formula Rate is no longer just and reasonable 
+without such modification and that the proposed modification is just, reasonable 
+and consistent with the original intent of the Formula Rate and the procedures in 
+this Attachment H-18B.  However, in any such proceeding involving the 
+question of whether the Formula Rate is no longer just and reasonable without 
+modification to reflect a Material Accounting Change and whether the proposed 
+modification to reflect the Material Accounting Change is just and reasonable, 
+the only issue shall be the effect of the Material Accounting Change.  Those 
+portions of the formula not affected by the Material Accounting Change will not 
+be at issue. 
+Section 4 Resolution of Challenges 
+a. If TrAILCo and any interested party(ies) have not resolved any Preliminary 
+Challenges to the Annual Update within twenty-one (21) days after the Review 
+Period, an interested party shall have an additional twenty-one (21) days (unless 
+such period is extended with the written consent of TrAILCo to continue efforts 
+to resolve the Preliminary Challenge) to make a Formal Challenge with the 
+______________________ 
+3 A “Material Accounting Change” is an accounting change that has a material effect on the operation or the results of 
+the formula rate.  An accounting change includes a change in accounting principle or an accounting estimate.  See 
+Statement of Financial Accounting Standards No. 154 for further explanation of accounting changes.  The concept of 
+materiality is subjective and preserves the right of an affected party to raise the materiality of an accounting change that 
+occurs in the future. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-18B - Trans-Allegheny 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 5 
+FERC, pursuant to 18 C.F.R. § 385.206, which shall be served on TrAILCo by 
+electronic service on the date of such filing.  However, there shall be no need to 
+make a Formal Challenge or to await conclusion of the time periods in Section 2 
+if the FERC already has initiated a proceeding to consuder the Annual Update.  A 
+party’s Formal Challenge may not raise any issue that was not the subject of that 
+party’s Preliminary Challenge during the applicable Review Period.  
+b. Any response by TrAILCo to a Formal Challenge must be submitted to the FERC 
+within twenty (20) days of the date of the filing of the Formal Challenge 
+(consistent with 18 C.F.R. § 385.206(f)(2007)), and shall be served on the filing 
+party(ies) by electronic service on the date of such filing. 
+c. Except as provided in Section 2.e, in any proceeding initiated by the FERC 
+concerning the Annual Update or in response to a Formal Challenge, TrAILCo 
+shall bear the burden of proving that it has reasonably applied the terms of the 
+Formula Rate, and the applicable procedures in these formula Rate 
+Implementation Protocols, in that year’s Annual Update. 
+d. Subject to judicial review of FERC orders, each Annual Update shall become 
+final and no longer subject to challenge pursuant to these Annual Review 
+Protocols or by any other means by the FERC or any other entity on the later to 
+occur of (i) passage of the twenty-one (21) day period (or extended period, if 
+applicable) for making a Formal Challenge if no such challenge has been made 
+and the FERC has not initiated a proceeding to consider the Annual Update, or (ii) 
+a final FERC order issued in response to a Formal Challenge or a proceeding 
+initiated by the FERC to consider the Annual Update.  
+e. Except as specifically provided herein, nothing herein shall be deemed to limit in 
+any way the right to TrAILCo to file unilaterally, pursuant to Section 205 of the 
+Federal Power Act and the regulations thereunder, changes to the Formula Rate or 
+any of its inputs (including, but not limited to, rate of return and Transmision 
+Incentive Mechanisms) or the right of any other party to request such changes 
+pursuant to Section 206 of the Federal Power Act and the regulations thereunder. 
+f. Subject to Section 2.c above, it is recognized that resolution of Formal Challenges 
+concerning Material Accounting Changes may necessitate adjustments to the 
+Formula Rate input data for the applicable Annual Update or changes to the rate 
+formula to achieve a just and reasonable end result consistent with the intent of 
+the Formula Rate. 
+Section 5 Changes to Annual Informational Filings 
+Any changes to the data inputs, including but not limited to revisions to TrAILCo’s FERC Form 
+No. 1, or as the result of any FERC proceeding to consider the Annual Update, or as a result of 
+the procedures set forth herein, shall be incorporated into the Formula Rate and the charges 
+produced by the Formula Rate (with interest determined in accordance with 18 C.F.R. § 38.19a) 
+in the Annual Update for the next effective Rate Period.  This reconciliation mechanism shall 
+apply in lieu of mid-Rate Year adjustments and any refunds or surcharges, however, actual 
+refunds or surcharges (with interest determined in accordance with 18 C.F.R. § 38.19a) for the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-18B - Trans-Allegheny 
+Effective Date: 9/17/2010 - Docket #: ER11-2801-000 - Page 6 
+then current rate year shall be made in the event that the Formula Rate is replaced by a stated rate 
+for TrAILCo. 
  
 
 Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 2 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
-b0238 
-Reconductor Doubs – 
-Dickerson and Doubs – 
-Aqueduct 1200 MVA 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-BGE (16.66%) / Dominion 
-(33.66%) / PEPCO (49.68%) 
-b0240 
-Open the Black Oak #3 
-500/138 kV transformer 
-for the loss of Hatfield – 
-Back Oak 500 kV line 
- APS (100%) 
-b0245 
-Replacement of the 
-existing 954 ACSR 
-conductor on the 
-Bedington – Nipetown 
-138 kV line with high 
-temperature/low sag 
-conductor 
- APS (100%) 
-b0246 
-Rebuild of the Double 
-Tollgate – Old Chapel 
-138 kV line with 954 
-ACSR conductor 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-APS (100%) 
-b0273 
-Open both North 
-Shenandoah #3 
-transformer and 
-Strasburg – Edinburgh 
-138 kV line for the loss 
-of Mount Storm – 
-Meadowbrook 572 500 
-kV 
- APS (100%) 
-b0322 
-Convert Lime Kiln 
-substation to 230 kV 
-operation 
- APS (100%) 
-b0323 
-Replace the North 
-Shenandoah 138/115 kV 
-transformer 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-APS (100%) 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 3 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / 
-PECO (5.04%) / PENELEC 
-(1.75%) / PEPCO (3.62%) / PPL 
-(4.85%) / PSEG (6.16%) / RE 
-(0.25%) 
-b0328.2 
-Build new Meadow 
-Brook – Loudoun 500 
-kV circuit (20 of 50 
-miles) 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-DFAX Allocation: 
-APS (7.93%) / BGE (4.62%) / 
-Dominion (80.00%) / PEPCO 
-(7.45%) 
-b0343 Replace Doubs 500/230 
-kV transformer #2 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-AEC (1.85%) / BGE (21.49%) / 
-DPL (3.91%) / Dominion 
-(28.86%) / ME (2.97%) / PECO 
-(5.73%) / PEPCO (35.19%) 
-b0344 Replace Doubs 500/230 
-kV transformer #3 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-AEC (1.86%) / BGE (21.50%) / 
-DPL (3.91%) / Dominion 
-(28.82%) / ME (2.97%) / PECO 
-(5.74%) / PEPCO (35.20%) 
-b0345 Replace Doubs 500/230 
-kV transformer #4 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-AEC (1.85%) / BGE (21.49%) / 
-DPL (3.90%) / Dominion 
-(28.83%) / ME (2.98%) / PECO 
-(5.75%) / PEPCO (35.20%) 
-* Neptune Regional Transmission System, LLC 
- 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 4 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / 
-PECO (5.04%) / PENELEC 
-(1.75%) / PEPCO (3.62%) / PPL 
-(4.85%) / PSEG (6.16%) / RE 
-(0.25%) 
-b0347.2 
-Build new Mt. Storm – 
-Meadow Brook 500 kV 
-circuit 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-* Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 5 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / 
-PECO (5.04%) / PENELEC 
-(1.75%) / PEPCO (3.62%) / PPL 
-(4.85%) / PSEG (6.16%) / RE 
-(0.25%) 
-b0347.4 Upgrade Meadow Brook 
-500 kV substation 
-As specified under the 
-procedures detailed in 
-Attachment H-18B, 
-Section 1.b 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-* Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 6 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / 
-PECO (5.04%) / PENELEC 
-(1.75%) / PEPCO (3.62%) / PPL 
-(4.85%) / PSEG (6.16%) / RE 
-(0.25%) 
-b0347.5 Replace Harrison 500 
-kV breaker HL-3  
-DFAX Allocation: 
-APS (38.14%) / BGE (25.59%) / 
-PEPCO (36.27%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / 
-PECO (5.04%) / PENELEC 
-(1.75%) / PEPCO (3.62%) / PPL 
-(4.85%) / PSEG (6.16%) / RE 
-(0.25%) 
-b0347.6 Upgrade (per ABB 
-inspection) breaker HL-6  
-DFAX Allocation: 
-APS (38.14%) / BGE (25.59%) / 
-PEPCO (36.27%) 
-* Neptune Regional Transmission System, LLC   
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 7 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / PECO 
-(5.04%) / PENELEC (1.75%) / 
-PEPCO (3.62%) / PPL (4.85%) / 
-PSEG (6.16%) / RE (0.25%) 
-b0347.7 Upgrade (per ABB 
-inspection) breaker HL-7  
-DFAX Allocation: 
-APS (38.14%) / BGE (25.59%) / 
-PEPCO (36.27%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) 
-/ Dayton (2.04%) / DEOK 
-(3.12%) / DL (1.62%) / DPL 
-(2.53%) / Dominion (14.85%) / 
-EKPC (2.26%) / JCPL (3.78%) / 
-ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / PECO 
-(5.04%) / PENELEC (1.75%) / 
-PEPCO (3.62%) / PPL (4.85%) / 
-PSEG (6.16%) / RE (0.25%) 
-b0347.8 Upgrade (per ABB 
-inspection) breaker HL-8  
-DFAX Allocation: 
-APS (38.14%) / BGE (25.59%) / 
-PEPCO (36.27%) 
-*Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 8 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.9 
-Upgrade (per ABB 
-inspection) breaker HL-
-10 
- 
-DFAX Allocation: 
-APS (38.14%) / BGE (25.59%) / 
-PEPCO (36.27%) 
-*Neptune Regional Transmission System, LLC 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 9 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement     Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.17 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-10’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.18 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-11’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 10 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.19 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-12’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.20 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-13’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 11 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.21 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-14’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.22 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-15’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 12 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement     Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.23 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-16’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.24 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-17’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 13 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
- 
-b0347.25 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-18’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.26 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-22#1 CAP’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 14 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.27 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-4’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.28 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-5’ 
- 
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 15 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
- 
-b0347.29 
-Replace Meadowbrook 
-138 kV breaker ‘MD-6’  
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.30 Replace Meadowbrook 
-138 kV breaker ‘MD-7’  
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 16 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement     Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.31 Replace Meadowbrook 
-138 kV breaker ‘MD-8’  
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0347.32 Replace Meadowbrook 
-138 kV breaker ‘MD-9’  
-DFAX Allocation: 
-APS (13.02%) / BGE (6.74%) / 
-Dominion (70.19%) / PEPCO 
-(10.05%) 
-*Neptune Regional Transmission System, LLC  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 17 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-b0347.33 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-1’ 
- 
-APS (100%) 
-b0347.34 
-Replace Meadow 
-Brook 138 kV breaker 
-‘MD-2’ 
- 
-APS (100%) 
-b0348 
-Upgrade Stonewall – 
-Inwood 138 kV with 
-954 ACSR conductor 
- 
-APS (100%) 
-b0373 
-Convert Doubs – 
-Monocacy 138 kV 
-facilities to 230 kV 
-operation 
- 
-AEC (1.82%) / APS (76.84%) / 
-DPL (2.64%) / JCPL (4.53%) / 
-ME (9.15%) / NEPTUNE* 
-(0.42%) / PPL (4.60%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / 
-APS (5.89%) / ATSI (7.62%) / 
-BGE (3.96%) / ComEd (12.47%) / 
-Dayton (2.04%) / DEOK (3.12%) / 
-DL (1.62%) / DPL (2.53%) / 
-Dominion (14.85%) / EKPC 
-(2.26%) / JCPL (3.78%) / ME 
-(1.81%) / NEPTUNE* (0.41%) / 
-OVEC (0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0393 
-Replace terminal 
-equipment at Harrison 
-500 kV and Belmont 
-500 kV 
- 
-DFAX Allocation: 
-APS (3.57%) / Dayton (1.30%) / 
-DEOK (1.95%) / DL (7.16%) / 
-Dominion (85.69%) / EKPC 
-(0.31%) / OVEC (0.02%) 
-* Neptune Regional Transmission System, LLC   
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 18 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-b0407.1 Replace Marlowe 138 
-kV breaker “#1 transf”  
-APS (100%) 
-b0407.2 Replace Marlowe 138 
-kV breaker “MBO”  APS (100%) 
-b0407.3 Replace Marlowe 138 
-kV breaker “BMA”  APS (100%) 
-b0407.4 Replace Marlowe 138 
-kV breaker “BMR”  
-APS (100%) 
-b0407.5 Replace Marlowe 138 
-kV breaker “WC-1”  
-APS (100%) 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 19 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement    Responsible Customer(s) 
-b0407.6 Replace Marlowe 138 
-kV breaker “R11”  
-APS (100%) 
-b0407.7 Replace Marlowe 138 
-kV breaker “W”  
-APS (100%) 
-b0407.8 
-Replace Marlowe 138 
-kV breaker “138 kV bus 
-tie” 
- 
-APS (100%) 
-b0408.1 Replace Trissler 138 kV 
-breaker “Belmont 604”  
-APS (100%) 
-b0408.2 Replace Trissler 138 kV 
-breaker “Edgelawn 90”  APS (100%) 
-b0409.1 
-Replace Weirton 138 kV 
-breaker “Wylie Ridge 
-210” 
- 
-APS (100%) 
-b0409.2 
-Replace Weirton 138 kV 
-breaker “Wylie Ridge 
-216” 
- 
-APS (100%) 
-b0410 
-Replace Glen Falls 138 
-kV breaker “McAlpin 
-30” 
- 
-APS (100%) 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 20 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement     Responsible Customer(s) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / 
-NEPTUNE* (0.41%) / OVEC 
-(0.07%) / PECO (5.04%) / 
-PENELEC (1.75%) / PEPCO 
-(3.62%) / PPL (4.85%) / PSEG 
-(6.16%) / RE (0.25%) 
-b0419 
-Install a breaker failure 
-auto-restoration scheme 
-at Bedington 500 kV for 
-the failure of the #1 and 
-#2 breakers 
- 
-DFAX Allocation: 
-APS (100%) 
-b0420 
-Operating Procedure to 
-open the Black Oak 
-500/138 kV transformer 
-#3 for the loss of 
-Hatfield – Ronco 500 kV 
-and the Hatfield #3 
-Generation 
- 
-APS (100%) 
-b0445 
-Upgrade substation 
-equipment and 
-reconductor the Tidd – 
-Mahans Lane – Weirton 
-138 kV circuit with 954 
-ACSR 
- 
-APS (100%) 
-* Neptune Regional Transmission System, LLC 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
-REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 14 Monongahela Power Company, 
-Th 
-Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 21 
-Monongahela Power Company and The Potomac Edison Company, doing business as 
-Allegheny Power (cont.) 
- 
-Required Transmission Enhancements      Annual Revenue Requirement     Responsible Customer(s) 
-b0460 
-Raise limiting 
-structures on Albright 
-– Bethelboro 138 kV to 
-raise the rating to 175 
-MVA normal 214 
-MVA emergency 
- APS (100%) 
-Load-Ratio Share Allocation: 
-AEC (1.63%) / AEP (14.27%) / APS 
-(5.89%) / ATSI (7.62%) / BGE 
-(3.96%) / ComEd (12.47%) / Dayton 
-(2.04%) / DEOK (3.12%) / DL 
-(1.62%) / DPL (2.53%) / Dominion 
-(14.85%) / EKPC (2.26%) / JCPL 
-(3.78%) / ME (1.81%) / NEPTUNE* 
-(0.41%) / OVEC (0.07%) / PECO 
-(5.04%) / PENELEC (1.75%) / 
-PEPCO (3.62%) / PPL (4.85%) / 
-PSEG (6.16%) / RE (0.25%) b0491 
-Construct an Amos to 
-Welton Spring to WV 
-state line 765 kV 
-circuit (APS 
-equipment) 
-As specified under the 
-procedures detailed in 
+REQUESTS; R --> OATT Attachment H-19 - Potomac-Appalachian 
+Effective Date: 1/10/2024 - Docket #: ER24-804-000 - Page 1 

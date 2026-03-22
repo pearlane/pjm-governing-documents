@@ -243,7 +243,7 @@
     {
       "path": "/oatt/SCHEDULE_3.txt",
       "document": "OATT",
-      "size_kb": 6.0
+      "size_kb": 6.9
     },
     {
       "path": "/oatt/SCHEDULE_4.txt",
@@ -268,7 +268,7 @@
     {
       "path": "/oatt/SCHEDULE_7.txt",
       "document": "OATT",
-      "size_kb": 1.5
+      "size_kb": 29.4
     },
     {
       "path": "/oatt/SCHEDULE_8.txt",
@@ -318,7 +318,7 @@
     {
       "path": "/oatt/SCHEDULE_9-MMU.txt",
       "document": "OATT",
-      "size_kb": 4.3
+      "size_kb": 16.4
     },
     {
       "path": "/oatt/SCHEDULE_9-OPSI.txt",
@@ -328,7 +328,7 @@
     {
       "path": "/oatt/SCHEDULE_9.txt",
       "document": "OATT",
-      "size_kb": 3.6
+      "size_kb": 7.4
     },
     {
       "path": "/oatt/SCHEDULE_10-NERC.txt",
@@ -353,12 +353,97 @@
     {
       "path": "/oatt/SCHEDULE_11A.txt",
       "document": "OATT",
-      "size_kb": 31.6
+      "size_kb": 2.0
     },
     {
-      "path": "/oatt/SCHEDULE_12.txt",
+      "path": "/oatt/SCHEDULE_12_part1.txt",
       "document": "OATT",
-      "size_kb": 1.8
+      "size_kb": 76.3
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part2.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part3.txt",
+      "document": "OATT",
+      "size_kb": 77.7
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part4.txt",
+      "document": "OATT",
+      "size_kb": 77.7
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part5.txt",
+      "document": "OATT",
+      "size_kb": 77.8
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part6.txt",
+      "document": "OATT",
+      "size_kb": 77.2
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part7.txt",
+      "document": "OATT",
+      "size_kb": 77.8
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part8.txt",
+      "document": "OATT",
+      "size_kb": 77.8
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part9.txt",
+      "document": "OATT",
+      "size_kb": 78.0
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part10.txt",
+      "document": "OATT",
+      "size_kb": 78.0
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part11.txt",
+      "document": "OATT",
+      "size_kb": 77.8
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part12.txt",
+      "document": "OATT",
+      "size_kb": 77.6
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part13.txt",
+      "document": "OATT",
+      "size_kb": 77.6
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part14.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part15.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part16.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part17.txt",
+      "document": "OATT",
+      "size_kb": 77.2
+    },
+    {
+      "path": "/oatt/SCHEDULE_12_part18.txt",
+      "document": "OATT",
+      "size_kb": 13.0
     },
     {
       "path": "/oatt/SCHEDULE_13.txt",
@@ -384,21 +469,6 @@
       "path": "/oatt/SCHEDULE_17.txt",
       "document": "OATT",
       "size_kb": 46.2
-    },
-    {
-      "path": "/oatt/Schedule_of.txt",
-      "document": "OATT",
-      "size_kb": 3.8
-    },
-    {
-      "path": "/oatt/SCHEDULE_OF_PARTIES.txt",
-      "document": "OATT",
-      "size_kb": 0.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_11A.txt",
-      "document": "OATT",
-      "size_kb": 9.1
     },
     {
       "path": "/oatt/ATTACHMENT_A-1.txt",
@@ -446,39 +516,9 @@
       "size_kb": 34.7
     },
     {
-      "path": "/oatt/ATTACHMENT_CC_part1.txt",
+      "path": "/oatt/ATTACHMENT_CC.txt",
       "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part6.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC_part7.txt",
-      "document": "OATT",
-      "size_kb": 21.1
+      "size_kb": 3.4
     },
     {
       "path": "/oatt/ATTACHMENT_D.txt",
@@ -488,12 +528,37 @@
     {
       "path": "/oatt/ATTACHMENT_DD_part1.txt",
       "document": "OATT",
-      "size_kb": 76.0
+      "size_kb": 76.1
     },
     {
       "path": "/oatt/ATTACHMENT_DD_part2.txt",
       "document": "OATT",
-      "size_kb": 11.2
+      "size_kb": 76.3
+    },
+    {
+      "path": "/oatt/ATTACHMENT_DD_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "/oatt/ATTACHMENT_DD_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "/oatt/ATTACHMENT_DD_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "/oatt/ATTACHMENT_DD_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "/oatt/ATTACHMENT_DD_part7.txt",
+      "document": "OATT",
+      "size_kb": 17.6
     },
     {
       "path": "/oatt/ATTACHMENT_E.txt",
@@ -516,36 +581,6 @@
       "size_kb": 6.3
     },
     {
-      "path": "/oatt/ATTACHMENT_FF_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_FF_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_FF_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_FF_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_FF_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_FF_part6.txt",
-      "document": "OATT",
-      "size_kb": 50.3
-    },
-    {
       "path": "/oatt/ATTACHMENT_G.txt",
       "document": "OATT",
       "size_kb": 1.0
@@ -563,7 +598,32 @@
     {
       "path": "/oatt/ATTACHMENT_GG_part3.txt",
       "document": "OATT",
-      "size_kb": 22.0
+      "size_kb": 76.3
+    },
+    {
+      "path": "/oatt/ATTACHMENT_GG_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "/oatt/ATTACHMENT_GG_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "/oatt/ATTACHMENT_GG_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.5
+    },
+    {
+      "path": "/oatt/ATTACHMENT_GG_part7.txt",
+      "document": "OATT",
+      "size_kb": 76.6
+    },
+    {
+      "path": "/oatt/ATTACHMENT_GG_part8.txt",
+      "document": "OATT",
+      "size_kb": 72.4
     },
     {
       "path": "/oatt/ATTACHMENT_H-1.txt",
@@ -593,7 +653,7 @@
     {
       "path": "/oatt/ATTACHMENT_H-1A_part5.txt",
       "document": "OATT",
-      "size_kb": 22.6
+      "size_kb": 31.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-1B.txt",
@@ -603,7 +663,7 @@
     {
       "path": "/oatt/ATTACHMENT_H-2.txt",
       "document": "OATT",
-      "size_kb": 0.6
+      "size_kb": 1.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-2A_part1.txt",
@@ -628,7 +688,7 @@
     {
       "path": "/oatt/ATTACHMENT_H-2A_part5.txt",
       "document": "OATT",
-      "size_kb": 35.2
+      "size_kb": 34.0
     },
     {
       "path": "/oatt/ATTACHMENT_H-2B.txt",
@@ -736,34 +796,29 @@
       "size_kb": 4.0
     },
     {
-      "path": "/oatt/ATTACHMENT_H-7.txt",
-      "document": "OATT",
-      "size_kb": 0.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7A.txt",
-      "document": "OATT",
-      "size_kb": 2.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7B_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-7_part1.txt",
       "document": "OATT",
       "size_kb": 77.1
     },
     {
-      "path": "/oatt/ATTACHMENT_H-7B_part2.txt",
+      "path": "/oatt/ATTACHMENT_H-7_part2.txt",
       "document": "OATT",
       "size_kb": 79.4
     },
     {
-      "path": "/oatt/ATTACHMENT_H-7B_part3.txt",
+      "path": "/oatt/ATTACHMENT_H-7_part3.txt",
       "document": "OATT",
-      "size_kb": 54.0
+      "size_kb": 47.6
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-7B.txt",
+      "document": "OATT",
+      "size_kb": 7.3
     },
     {
       "path": "/oatt/ATTACHMENT_H-7C.txt",
       "document": "OATT",
-      "size_kb": 34.6
+      "size_kb": 36.8
     },
     {
       "path": "/oatt/ATTACHMENT_H-8.txt",
@@ -848,52 +903,42 @@
     {
       "path": "/oatt/ATTACHMENT_H-10.txt",
       "document": "OATT",
-      "size_kb": 0.3
+      "size_kb": 26.3
     },
     {
       "path": "/oatt/ATTACHMENT_H-10A_part1.txt",
       "document": "OATT",
-      "size_kb": 76.8
+      "size_kb": 77.0
     },
     {
       "path": "/oatt/ATTACHMENT_H-10A_part2.txt",
       "document": "OATT",
+      "size_kb": 51.2
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-10B.txt",
+      "document": "OATT",
+      "size_kb": 24.1
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-11_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.4
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-11_part2.txt",
+      "document": "OATT",
+      "size_kb": 77.3
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-11_part3.txt",
+      "document": "OATT",
       "size_kb": 77.2
     },
     {
-      "path": "/oatt/ATTACHMENT_H-10A_part3.txt",
+      "path": "/oatt/ATTACHMENT_H-11_part4.txt",
       "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B_part3.txt",
-      "document": "OATT",
-      "size_kb": 77.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B_part5.txt",
-      "document": "OATT",
-      "size_kb": 12.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-11.txt",
-      "document": "OATT",
-      "size_kb": 0.4
+      "size_kb": 64.8
     },
     {
       "path": "/oatt/ATTACHMENT_H-12.txt",
@@ -923,12 +968,12 @@
     {
       "path": "/oatt/ATTACHMENT_H-13B.txt",
       "document": "OATT",
-      "size_kb": 26.9
+      "size_kb": 20.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-14.txt",
       "document": "OATT",
-      "size_kb": 0.0
+      "size_kb": 6.2
     },
     {
       "path": "/oatt/ATTACHMENT_H-14A_part1.txt",
@@ -943,22 +988,22 @@
     {
       "path": "/oatt/ATTACHMENT_H-14A_part3.txt",
       "document": "OATT",
-      "size_kb": 78.3
+      "size_kb": 16.6
     },
     {
-      "path": "/oatt/ATTACHMENT_H-14A_part4.txt",
+      "path": "/oatt/ATTACHMENT_H-15_part1.txt",
       "document": "OATT",
-      "size_kb": 80.8
+      "size_kb": 79.0
     },
     {
-      "path": "/oatt/ATTACHMENT_H-14A_part5.txt",
+      "path": "/oatt/ATTACHMENT_H-15_part2.txt",
       "document": "OATT",
-      "size_kb": 42.9
+      "size_kb": 80.0
     },
     {
-      "path": "/oatt/ATTACHMENT_H-15.txt",
+      "path": "/oatt/ATTACHMENT_H-15_part3.txt",
       "document": "OATT",
-      "size_kb": 0.3
+      "size_kb": 26.3
     },
     {
       "path": "/oatt/ATTACHMENT_H-16_part1.txt",
@@ -968,67 +1013,12 @@
     {
       "path": "/oatt/ATTACHMENT_H-16_part2.txt",
       "document": "OATT",
-      "size_kb": 76.9
+      "size_kb": 72.6
     },
     {
-      "path": "/oatt/ATTACHMENT_H-16_part3.txt",
+      "path": "/oatt/ATTACHMENT_H-16A.txt",
       "document": "OATT",
-      "size_kb": 60.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part1.txt",
-      "document": "OATT",
-      "size_kb": 78.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part3.txt",
-      "document": "OATT",
-      "size_kb": 78.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part5.txt",
-      "document": "OATT",
-      "size_kb": 77.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part6.txt",
-      "document": "OATT",
-      "size_kb": 77.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part7.txt",
-      "document": "OATT",
-      "size_kb": 77.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part8.txt",
-      "document": "OATT",
-      "size_kb": 77.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part9.txt",
-      "document": "OATT",
-      "size_kb": 77.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part10.txt",
-      "document": "OATT",
-      "size_kb": 77.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A_part11.txt",
-      "document": "OATT",
-      "size_kb": 65.4
+      "size_kb": 65.0
     },
     {
       "path": "/oatt/ATTACHMENT_H-16AA.txt",
@@ -1098,62 +1088,47 @@
     {
       "path": "/oatt/ATTACHMENT_H-18A_part2.txt",
       "document": "OATT",
-      "size_kb": 75.6
+      "size_kb": 60.0
     },
     {
       "path": "/oatt/ATTACHMENT_H-18B.txt",
       "document": "OATT",
-      "size_kb": 29.4
+      "size_kb": 15.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-19.txt",
       "document": "OATT",
-      "size_kb": 0.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-19B_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-19B_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-19B_part3.txt",
-      "document": "OATT",
-      "size_kb": 17.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20.txt",
-      "document": "OATT",
       "size_kb": 0.3
     },
     {
-      "path": "/oatt/ATTACHMENT_H-20B_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-20_part1.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
+      "path": "/oatt/ATTACHMENT_H-20_part2.txt",
+      "document": "OATT",
+      "size_kb": 50.9
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-20B_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.8
+    },
+    {
       "path": "/oatt/ATTACHMENT_H-20B_part2.txt",
       "document": "OATT",
-      "size_kb": 76.6
+      "size_kb": 76.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-20B_part3.txt",
       "document": "OATT",
-      "size_kb": 77.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20B_part4.txt",
-      "document": "OATT",
-      "size_kb": 63.9
+      "size_kb": 10.8
     },
     {
       "path": "/oatt/ATTACHMENT_H-21.txt",
       "document": "OATT",
-      "size_kb": 0.2
+      "size_kb": 2.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-21A.txt",
@@ -1163,12 +1138,12 @@
     {
       "path": "/oatt/ATTACHMENT_H-21B.txt",
       "document": "OATT",
-      "size_kb": 37.8
+      "size_kb": 36.1
     },
     {
       "path": "/oatt/ATTACHMENT_H-22.txt",
       "document": "OATT",
-      "size_kb": 0.2
+      "size_kb": 1.6
     },
     {
       "path": "/oatt/ATTACHMENT_H-22A.txt",
@@ -1183,12 +1158,12 @@
     {
       "path": "/oatt/ATTACHMENT_H-23.txt",
       "document": "OATT",
-      "size_kb": 45.5
+      "size_kb": 0.9
     },
     {
       "path": "/oatt/ATTACHMENT_H-24.txt",
       "document": "OATT",
-      "size_kb": 24.7
+      "size_kb": 44.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-25.txt",
@@ -1201,19 +1176,14 @@
       "size_kb": 0.3
     },
     {
-      "path": "/oatt/ATTACHMENT_H-25B.txt",
-      "document": "OATT",
-      "size_kb": 28.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-26_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-25B_part1.txt",
       "document": "OATT",
       "size_kb": 77.1
     },
     {
-      "path": "/oatt/ATTACHMENT_H-26_part2.txt",
+      "path": "/oatt/ATTACHMENT_H-25B_part2.txt",
       "document": "OATT",
-      "size_kb": 4.8
+      "size_kb": 33.6
     },
     {
       "path": "/oatt/ATTACHMENT_H-26A.txt",
@@ -1256,19 +1226,14 @@
       "size_kb": 38.1
     },
     {
-      "path": "/oatt/ATTACHMENT_H-29.txt",
+      "path": "/oatt/ATTACHMENT_H-29_part1.txt",
       "document": "OATT",
-      "size_kb": 24.4
+      "size_kb": 76.4
     },
     {
-      "path": "/oatt/ATTACHMENT_H-29A_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-29_part2.txt",
       "document": "OATT",
-      "size_kb": 76.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-29A_part2.txt",
-      "document": "OATT",
-      "size_kb": 15.2
+      "size_kb": 39.8
     },
     {
       "path": "/oatt/ATTACHMENT_H-29B.txt",
@@ -1276,19 +1241,14 @@
       "size_kb": 45.4
     },
     {
-      "path": "/oatt/ATTACHMENT_H-30.txt",
-      "document": "OATT",
-      "size_kb": 0.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-30A_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-30_part1.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/ATTACHMENT_H-30A_part2.txt",
+      "path": "/oatt/ATTACHMENT_H-30_part2.txt",
       "document": "OATT",
-      "size_kb": 39.3
+      "size_kb": 39.7
     },
     {
       "path": "/oatt/ATTACHMENT_H-30B.txt",
@@ -1303,12 +1263,7 @@
     {
       "path": "/oatt/ATTACHMENT_H-32.txt",
       "document": "OATT",
-      "size_kb": 1.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-32A.txt",
-      "document": "OATT",
-      "size_kb": 64.1
+      "size_kb": 65.3
     },
     {
       "path": "/oatt/ATTACHMENT_H-32B.txt",
@@ -1323,62 +1278,57 @@
     {
       "path": "/oatt/ATTACHMENT_H-33.txt",
       "document": "OATT",
-      "size_kb": 1.3
+      "size_kb": 1.8
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33A.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part1.txt",
       "document": "OATT",
-      "size_kb": 37.4
+      "size_kb": 76.8
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part1.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part2.txt",
       "document": "OATT",
-      "size_kb": 77.0
+      "size_kb": 77.1
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33B_part3.txt",
-      "document": "OATT",
-      "size_kb": 77.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33B_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33B_part5.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part3.txt",
       "document": "OATT",
       "size_kb": 77.2
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part6.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part4.txt",
       "document": "OATT",
-      "size_kb": 76.7
+      "size_kb": 76.6
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part7.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part5.txt",
       "document": "OATT",
-      "size_kb": 77.8
+      "size_kb": 77.4
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part8.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part6.txt",
       "document": "OATT",
-      "size_kb": 76.7
+      "size_kb": 77.6
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part9.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part7.txt",
+      "document": "OATT",
+      "size_kb": 77.0
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-33A_part8.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "/oatt/ATTACHMENT_H-33A_part9.txt",
       "document": "OATT",
       "size_kb": 77.5
     },
     {
-      "path": "/oatt/ATTACHMENT_H-33B_part10.txt",
+      "path": "/oatt/ATTACHMENT_H-33A_part10.txt",
       "document": "OATT",
-      "size_kb": 31.5
+      "size_kb": 68.6
     },
     {
       "path": "/oatt/ATTACHMENT_H-A.txt",
@@ -1386,119 +1336,104 @@
       "size_kb": 2.5
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part1.txt",
+      "path": "/oatt/ATTACHMENT_I.txt",
+      "document": "OATT",
+      "size_kb": 0.4
+    },
+    {
+      "path": "/oatt/ATTACHMENT_J.txt",
+      "document": "OATT",
+      "size_kb": 1.8
+    },
+    {
+      "path": "/oatt/ATTACHMENT_K_part1.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_I_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_I_part4.txt",
+      "path": "/oatt/ATTACHMENT_K_part2.txt",
       "document": "OATT",
       "size_kb": 76.0
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part5.txt",
+      "path": "/oatt/ATTACHMENT_K_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "/oatt/ATTACHMENT_K_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "/oatt/ATTACHMENT_K_part5.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part6.txt",
+      "path": "/oatt/ATTACHMENT_K_part6.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part7.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_I_part8.txt",
+      "path": "/oatt/ATTACHMENT_K_part7.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part9.txt",
+      "path": "/oatt/ATTACHMENT_K_part8.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part10.txt",
+      "path": "/oatt/ATTACHMENT_K_part9.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part11.txt",
+      "path": "/oatt/ATTACHMENT_K_part10.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "/oatt/ATTACHMENT_K_part11.txt",
       "document": "OATT",
       "size_kb": 76.0
     },
     {
-      "path": "/oatt/ATTACHMENT_I_part12.txt",
+      "path": "/oatt/ATTACHMENT_K_part12.txt",
       "document": "OATT",
-      "size_kb": 68.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_J_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_J_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_J_part3.txt",
-      "document": "OATT",
-      "size_kb": 77.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_J_part4.txt",
-      "document": "OATT",
-      "size_kb": 25.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K.txt",
-      "document": "OATT",
-      "size_kb": 0.8
+      "size_kb": 65.7
     },
     {
       "path": "/oatt/ATTACHMENT_L.txt",
       "document": "OATT",
-      "size_kb": 31.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M-1.txt",
-      "document": "OATT",
-      "size_kb": 14.0
+      "size_kb": 2.4
     },
     {
       "path": "/oatt/ATTACHMENT_M-2_part1.txt",
       "document": "OATT",
-      "size_kb": 76.4
+      "size_kb": 76.2
     },
     {
       "path": "/oatt/ATTACHMENT_M-2_part2.txt",
       "document": "OATT",
-      "size_kb": 42.6
+      "size_kb": 34.5
     },
     {
-      "path": "/oatt/ATTACHMENT_M-3.txt",
+      "path": "/oatt/ATTACHMENT_M_part1.txt",
       "document": "OATT",
-      "size_kb": 31.3
+      "size_kb": 76.1
     },
     {
-      "path": "/oatt/ATTACHMENT_M.txt",
+      "path": "/oatt/ATTACHMENT_M_part2.txt",
       "document": "OATT",
-      "size_kb": 12.1
+      "size_kb": 76.3
+    },
+    {
+      "path": "/oatt/ATTACHMENT_M_part3.txt",
+      "document": "OATT",
+      "size_kb": 17.5
     },
     {
       "path": "/oatt/ATTACHMENT_N-1.txt",
@@ -1583,7 +1518,7 @@
     {
       "path": "/oatt/ATTACHMENT_R.txt",
       "document": "OATT",
-      "size_kb": 3.6
+      "size_kb": 6.9
     },
     {
       "path": "/oatt/ATTACHMENT_S.txt",
@@ -1608,12 +1543,12 @@
     {
       "path": "/oatt/ATTACHMENT_W.txt",
       "document": "OATT",
-      "size_kb": 25.1
+      "size_kb": 10.5
     },
     {
       "path": "/oatt/ATTACHMENT_X.txt",
       "document": "OATT",
-      "size_kb": 3.3
+      "size_kb": 15.1
     },
     {
       "path": "/oatt/ATTACHMENT_Y.txt",
@@ -2254,6 +2189,16 @@
       "path": "/oa/Definitions_U-Z.txt",
       "document": "OA",
       "size_kb": 3.2
+    },
+    {
+      "path": "/oa/index.html",
+      "document": "OA",
+      "size_kb": 28.5
+    },
+    {
+      "path": "/oa/index.txt",
+      "document": "OA",
+      "size_kb": 22.1
     },
     {
       "path": "/oa/OA.txt",
@@ -3179,6 +3124,16 @@
       "path": "/raa/SCHEDULE_92.txt",
       "document": "RAA",
       "size_kb": 26.7
+    },
+    {
+      "path": "/raa/index.html",
+      "document": "RAA",
+      "size_kb": 14.8
+    },
+    {
+      "path": "/raa/index.txt",
+      "document": "RAA",
+      "size_kb": 11.1
     },
     {
       "path": "/raa/RAA.txt",

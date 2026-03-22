@@ -1,0 +1,1733 @@
+[ATTACHMENT H-33A - Part 4 of 10]
+
+No. (A) Account (B) Amount (C) (months) (D) Period year beginning Expense (E) Dec31 31 28/29 31 30 31 30 31 31 Sept 30 Oct 31 Nov 30 Dec 31 (F) 
+1.00  
+ 
+1.01  
+ 
+1.02  
+ 
+1.03  
+1.04  
+ 
+1.05  
+ 
+1.06  
+ 
+1.07  
+ 
+1.08  
+1.09  
+ 
+1.10  
+2 Total - 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes  
+(A) Only Regulatory Assets approved by the Commission will be included.  
+(B) Regulatory asset references to be noted based on FERC Page. Row. Col.#  
+(C) Amortization Amount to be entered at year 0. For all future years, the beginning amount will be the ending balance from the previous year  
+(D) Enter the year of amortization starting with 0 and increment by 1 for every subsequent year until the amortization period ends  
+(E) Total Yearly amortization expense from Col. (K) line 2 will be taken to Attachment H-34A, page 3, line 10, Col.3 when the amortization begins. Until such time, Attachment H-34A, page 3, line 10, Col.3 will be 0  
+(F) Includes only Regulatory assets that are designated to earn a return. Average calculated as [Sum of Columns (L) through (X)] ÷ 13. Total from Col (Y) line 2 will be taken to Attachment H-34A, page 2, line 27, Col.3 when the amortization begins. Until such time, Attachment H-
+34A, page 2, line 27, Col.3 will be 0  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+     
+ 
+ 
+       
+     
+ 
+  
+      
+        
+ 
+ 
+      
+           
+           
+          
+           
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        
+           
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        
+        
+        
+        
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> 
+OATT Attachment H-34A PT. 4 - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+ 
+     
+ 
+ 
+       
+        
+        
+      
+        
+ 
+ 
+      
+           
+           
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        
+           
+          
+        
+        
+        
+      
+   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 1 
+ATTACHMENT H-34B 
+Formula Rate Implementation Protocols —  
+Keystone Appalachian Transmission Company (“KATCo”) 
+ANNUAL TRUE-UP, INFORMATION EXCHANGE,  
+AND CHALLENGE PROCEDURES 
+Definitions 
+"Actual Transmission Revenue Requirement" or "ATRR" means the actual net transmission 
+revenue requirement of KATCo calculated and posted on the PJM website no later than June 
+15 of each year subsequent to calendar year 2021 for the immediately preceding calendar year 
+in accordance with KATCo’s Formula Rate and based upon KATCo’s actual costs and 
+expenditures. 
+"Annual Update" means KATCo’s ATRR for the preceding calendar year, as well as the True-up 
+for the prior Rate Year, as posted on or before June 15 of each year. 
+"Formal Challenge" means a written challenge to an Annual Update or Projected Transmission 
+Revenue Requirement submitted to the Federal Energy Regulatory Commission (the 
+"Commission" or "FERC") as provided in Section IV below. 
+"Formula Rate" means the collection of formulas and worksheets included as Attachment H-
+34A of the PJM Tariff. 
+"Interested Parties" include, but are not limited to, customers under the PJM Tariff, state utility 
+regulatory commissions, the Organization of PJM States, Inc., consumer advocacy agencies, 
+state attorneys general, and any party to any docket assigned by the Commission to KATCo’s 
+Formula Rate Filing and Annual Update, including Docket No. ER21-265-000 and related sub-
+dockets. 
+"PJM Tariff" means the Open Access Transmission Tariff of the PJM Interconnection, L.L.C. 
+"Preliminary Challenge" means a written challenge to the Annual Update or Projected 
+Transmission Revenue Requirement submitted to KATCo as provided in Section IV 
+below. 
+"Projected Transmission Revenue Requirement" or "PTRR" means the projected net 
+transmission revenue requirement of KATCo calculated for the forthcoming Rate Year, as well 
+as, where applicable, the most recently calculated True-up, with interest, to be posted on the PJM 
+website no later than October 1 of each year for rates effective the next calendar year starting 
+January 1. 
+"Protective Agreement and Non-Disclosure Certificate" means the agreement and certificate 
+executed by Interested Parties and their representatives for a Rate Year in order to obtain access 
+to material that KATCo deems confidential or that contains Critical Energy Infrastructure 
+Information as that term is defined in 18 C.F.R. § 388.113(c)(1).   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 2 
+"Protocols" means these Protocols, included as Attachment H-34B of the PJM Tariff. 
+"Publication Date" means the date on which the Annual Update is posted on the PJM website. 
+"Rate Year" means the twelve consecutive month period that begins on January 1 and continues 
+through December 31. 
+"True-up" means the difference between the revenues received by KATCo corresponding to the 
+rate effective period of the PTRR (net of the True-up from the prior year), and the ATRR, for the 
+same Rate Year, which shall be provided in the Annual Update on or before June 15 of the year 
+subsequent to the Rate Year. The True-up will be a component of the PTRR. 
+Section I. Applicability 
+The following procedures shall apply to KATCo’s calculation of its Actual 
+Transmission Revenue Requirement, True-up, and Projected Transmission Revenue 
+Requirement. 
+Section II.  Annual Update and Projected Transmission Revenue Requirement 
+A. On or before June 15 of each year subsequent to calendar year 2022, commencing at the 
+time that KATCo’s formula rate is initially populated, KATCo shall determine its Annual 
+Update for the immediately preceding calendar year under Attachment H-34A and 
+Section VII of these Protocols, including calculation of the True-up to be included in its 
+PTRR for the subsequent Rate Year. 
+B. On or before June 15 of each year subsequent to calendar year 2022, commencing at the 
+time that KATCo’s formula rate is initially populated, KATCo shall  
+1. provide its Annual Update for the immediately preceding calendar year and 
+Protective Agreement and Non-Disclosure Certificate to PJM and cause such 
+information to be posted on the PJM website; and  
+2. provide notice of such posting via the e-mail exploder list for KATCo. Interested 
+Parties can subscribe to the PJM email exploder list for KATCo by request 
+submitted to KATCoAnnualUpdate@firstenergycorp.com. 
+C. Commencing at the time that KATCo’s formula rate is initially populated, on or before 
+October 1, KATCo shall: 
+1. provide its PTRR to PJM and cause such information to be posted on the PJM 
+website, in both a Portable Document Format ("PDF") and fully-functioning 
+Excel file, and  
+2. provide notice of such posting via the e-mail exploder list for KATCo. Interested 
+Parties can subscribe to the PJM email exploder list for KATCo by request 
+submitted to KATCoAnnualUpdate@firstenergycorp.com. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 3 
+D. Commencing at the time that KATCo’s formula rate is initially populated, on or before 
+August 1, KATCo shall upon request provide any Interested Party with: 
+1. information showing (a) each transmission project forecasted to be placed into 
+service in the following Rate Year that is expected to have a direct cost of 
+$1,000,000 (one million dollars) or greater, and a breakdown of the projected 
+direct costs of each such project in as much detail as is reasonably available; and 
+(b) purchases of categories of capital equipment (e.g., switches, transformers, 
+relays, etc.) aggregating $3,000,000 (three million dollars) or greater that are 
+forecasted to enter service during the following Rate Year, either through the use 
+of such capital equipment in projects forecasted to be placed in service during the 
+following Rate Year or as spare plant that KATCo determines to be needed for the 
+safe and reliable operation of the transmission system in accordance with Good 
+Utility Practice during the following Rate Year; and 
+2. a statement setting forth the basis for KATCo’s determination that each such 
+transmission project or capital equipment purchase, as applicable, is needed for 
+service during the following Rate Year (which statement may be based on a 
+determination that the placement of the project or equipment purchases into 
+service during the following Rate Year, as described below, is needed as part of a 
+larger multi-year transmission project or equipment purchase project, as 
+applicable). KATCo’s provision of such information shall be subject to the 
+protection of any confidential information, as needed, under the Protective 
+Agreement and Non-Disclosure Certificate. 
+E. If transmission plant is projected to be placed in service (PTRR) or actually placed in 
+service (ATRR) in the respective rate period, at an amount other than on a historic cost 
+basis (e.g., fair value adjustments), KATCo will provide a worksheet identifying such 
+transmission plant and a narrative explanation of the individual impact of such items to 
+the Annual Update. 
+F. If the date for posting the Annual Update or PTRR falls on a weekend or a holiday 
+recognized by FERC, then the posting shall be due on the next business day. The date on 
+which posting of the Annual Update occurs shall be that year's Publication Date. Any 
+delay in the Publication Date or in the posting of the PTRR will result in an equivalent 
+extension of time for the submission of information requests discussed in Section III of 
+these Protocols. 
+G. The ATRR shall: 
+1. Include a workable data-populated version of the Formula Rate template and 
+underlying work papers in Excel format with all formulas and links intact; 
+2. Be based on KATCo’s FERC Form No. l for the prior calendar year; 
+3. Provide the Formula Rate calculations and all inputs thereto, as well as supporting 
+documentation and work papers for data that are used in the ATRR that are not 
+otherwise available in the FERC Form No. ls, subject to the protection of any 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 4 
+confidential information, as needed, under the Protective Agreement and Non-
+Disclosure Certificate; 
+4. Provide sufficient information to enable Interested Parties to replicate the 
+calculation of the ATRR results from the FERC Form No. ls; 
+5. Identify any changes in the formula references (page and line numbers) to the 
+FERC Form No. ls; 
+6. Identify and, to the extent not explained in a worksheet included in the ATRR, 
+explain, all material adjustments made to the FERC Form No. 1 data in 
+determining formula inputs, including relevant footnotes to the FERC Form No. 
+ls and any adjustments not shown in the FERC Form No. ls; 
+7. Provide underlying data for Formula Rate inputs that provide greater granularity 
+than is required for the FERC Form No. 1; 
+8. As part of the ATRR open meeting, KATCo shall provide 
+a. a summary of the actual year results to the PTRR for the same rate 
+period, to accompany further discussion of key drivers of the ATRR and 
+PTRR; and  
+ b. more granular information and supporting explanations pertaining to 
+variances that exceed 10% provided both (i) that the variance exceeds 
+$500,000 and (ii) that the information is in the level of detail consistent 
+with KATCo’s ATRR and its related attachments; 
+9. With respect to any change in accounting that affects inputs to the Formula Rate 
+or the resulting charges billed under the Formula Rate (“Accounting Change”): 
+a. Identify any Accounting Change, including: 
+i. the initial adoption of a new accounting standard or policy; 
+ii. the initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction; 
+iii. correction of errors and prior period adjustments that affect the 
+ATRR and True-up calculation; 
+iv. the implementation of new estimation methods or policies that 
+change prior estimates;  
+v. changes to income tax elections; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 5 
+vi. the initial implementation of accounting changes in the reporting 
+of the FERC Form No. 1 accounts from the prior year to the 
+current year to the extent such change(s) affect(s) the Formula Rate 
+revenue requirement: changes in (1) FERC’s Uniform System of 
+Accounts, (2) FERC Form No. 1 reporting requirements as 
+applicable, (3) any FERC ratemaking orders applicable to the 
+Formula Rate, and (4) the accounting policies of KATCo. 
+b. Identify items included in the ATRR at an amount other than on a historic 
+cost basis (e.g., fair value adjustments); 
+c. Identify any sale of transmission and/or general electric plant in service 
+with gross plant value greater than $50,000 as reported in KATCo’s FERC 
+Form 1 on p 206, as may be amended, during the previous year—
+excluding the sale of passenger vehicles and retired assets sold for salvage 
+value—and explain the effect of the accounting for such transaction(s) on 
+inputs to the Formula Rate. 
+d. Identify any reorganization or merger transaction during the previous year 
+and explain the effect of the accounting for such transaction(s) on inputs to 
+the ATRR; and 
+e. Provide, for each Accounting Change, a narrative explanation of the 
+individual impact of such change on the ATRR; and 
+10. Include for the applicable Rate Year the following information related to affiliate 
+cost allocation: (A) a detailed description of the methodologies used to allocate 
+and directly assign costs between KATCo and its affiliates by service category 
+and function, including any changes to such cost allocation methodologies from 
+the prior year, and the reasons and justification for those changes; and (B) the 
+magnitude of such costs that have been allocated or directly assigned between 
+KATCo and each affiliate by service category or function. 
+ 
+H. It is the intent of the Formula Rate, including the supporting explanations and allocation 
+described therein, that each input to the Formula Rate will be either taken directly from 
+FERC Form No. 1 or reconcilable to FERC Form No. 1 by the application of clearly 
+identified and supported information. If the referenced form is superseded, the successor 
+form(s) shall be utilized and supplemented as necessary to provide equivalent 
+information as that provided in the superseded form. If the referenced form(s) is (are) 
+discontinued, equivalent information as that provided in the discontinued form(s) shall 
+be utilized. 
+I. The PTRR shall: 
+1. Include a workable data-populated version of the Formula Rate template and 
+underlying work papers in Excel format with all formulas and links intact; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 6 
+2. Provide the Formula Rate calculations and all inputs thereto, as well as supporting 
+documentation and work papers for data that are used in the PTRR; 
+3. Provide sufficient information to enable Interested Parties to replicate the 
+calculation of the PTRR.  If transmission plant is projected to be placed 
+in service (PTRR) or actually placed in service (ATRR) in the respective 
+rate period at an amount other than on a historic cost basis (e.g., fair 
+value adjustments), KATCo will provide a worksheet identifying such 
+transmission plant and a narrative explanation of the individual impact of 
+such items to the Annual Update; 
+4. With respect to any Accounting Change: 
+a. Identify any Accounting Change, including: 
+i. the initial adoption of a new accounting standard or policy; 
+ii. the initial implementation of accounting practices for unusual or 
+unconventional items where FERC has not provided specific 
+accounting direction; 
+iii. correction of errors and prior period adjustments that affect the 
+PTRR calculation; 
+iv. the implementation of new estimation methods or policies that 
+change prior estimates;  
+v. changes to income tax elections;  
+ 
+vi. the initial implementation of accounting changes in the reporting 
+of the FERC Form 1 accounts from the prior year to the current 
+year to the extent such change(s) affect(s) the Formula Rate 
+revenue requirement: changes in (1) FERC’s Uniform System of 
+Accounts, (2) FERC Form No. 1 reporting requirements as 
+applicable, (3) any FERC ratemaking orders applicable to the 
+Formula Rate, and (4) the accounting policies of KATCo. 
+b. Identify items included in the PTRR at an amount other than on a 
+historic cost basis (e.g., fair value adjustments); 
+c. Identify any reorganization or merger transaction during the previous year 
+and explain the effect of the accounting for such transaction(s) on inputs to 
+the PTRR; and 
+d. Provide, for each Accounting Change, a narrative explanation of the 
+individual impact of such change on the PTRR. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 7 
+J. Commencing at the time that KATCo’s formula rate is initially populated, KATCo shall 
+hold an open meeting among Interested Parties (“Annual Update Meeting”), to be 
+conducted via Internet webcast, no earlier than ten (10) business days following the 
+Publication Date and no later than July 15.  No fewer than seven (7) days prior to such 
+Annual Update Meeting, KATCo shall provide notice on PJM’s website of the time and 
+date of the Annual Update Meeting, and shall provide notice of the posting via the e-
+mail exploder list for KATCo. The Annual Update Meeting shall: (i) permit KATCo to 
+explain and clarify its ATRR and True-up; and (ii) provide Interested Parties an 
+opportunity to seek information and clarifications from KATCo about the ATRR and 
+True-up. 
+K. Commencing at the time that KATCo’s formula rate is initially populated, KATCo shall 
+hold an open meeting among Interested Parties (“Annual Projected Rate Meeting”), to 
+be conducted via Internet webcast.  Commencing at the time that KATCo’s formula rate 
+is initially populated, the Annual Projected Rate Meeting shall be no earlier than seven 
+(7) business days following the posting of the PTRR (as described in Section II.C of 
+these Protocols) and no later than November 7.  No fewer than seven (7) days prior to 
+such Annual Projected Rate Meeting, KATCo shall provide notice on PJM’s website of 
+the time and date of the Annual Projected Rate Meeting, and shall provide notice of the 
+posting via the e-mail exploder list for KATCo. The Annual Projected Rate Meeting 
+shall: (i) permit KATCo to explain and clarify its PTRR and (ii) provide Interested 
+Parties an opportunity to seek information and clarifications from KATCo about the 
+PTRR. 
+Section III.  Information Exchange Procedures 
+Each Annual Update and PTRR shall be subject to the following information 
+exchange procedures (“Information Exchange Procedures”): 
+A. Commencing at the time that KATCo’s formula rate is initially populated, Interested 
+Parties shall have until November 15 following the Annual Update posting date (unless 
+such period is extended with the written consent of KATCo or by FERC order) to serve 
+a first set of information and document requests on KATCo pertaining to the Annual 
+Update.  Interested parties shall have until January 15 to serve follow-up information 
+and document requests pertaining to the Annal Update (together with the November 15 
+deadline, the “ATRR Information Exchange Period”), but such requests must be 
+specifically limited to clarification or additional information regarding KATCo’s 
+responses provided to any sets of information and document requests issued to KATCo 
+on or before November 15.   
+ 
+Interested Parties shall have until January 15 following the PTRR posting date (unless 
+such period is extended with the written consent of KATCo or by FERC order) to serve 
+reasonable information and document requests on KATCo pertaining to the PTRR 
+(“PTRR Information Exchange Period”).  If November 15 or January 15 falls on a 
+weekend or a holiday recognized by FERC, the deadline for submitting all information 
+and document requests shall be extended to the next business day.  Such information 
+and document requests shall be limited to what is necessary to determine: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 8 
+1. the extent or effect of an Accounting Change on the inputs to the Formula Rate or 
+the resulting charges under the Formula Rate; 
+2. whether the ATRR or PTRR fails to include data properly recorded in accordance 
+with these Protocols; 
+3. the proper application of the Formula Rate and procedures in these Protocols; 
+4. the accuracy of data and consistency with the Formula Rate of the calculations 
+shown in the ATRR or PTRR; 
+5. the prudence of actual costs and expenditures included in the ATRR or the 
+reasonableness of projected costs and expenditures included in the PTRR; 
+6. the effect of any change to the underlying Uniform System of Accounts or FERC 
+Form No. 1; or 
+7. any other information that may reasonably have a substantive effect on the 
+calculation of the charge pursuant to the Formula Rate. 
+Additionally, in connection with the information exchange procedures, KATCo agrees, if 
+requested, to identify capital expenditures for transmission baseline RTEP projects and 
+supplemental projects on an up to five year forward basis, on a combined or project-
+specific basis. 
+The information and document requests shall not be directed to ascertaining whether the Formula 
+Rate is just and reasonable. 
+B.  KATCo shall make a good faith effort to respond to any information and document 
+request within fifteen (15) business days of receipt of such request. Commencing at the 
+time that KATCo’s formula rate is initially populated, KATCo shall respond to all 
+information and document requests by no later than February 25 following the 
+Publication Date, unless the ATRR Information Exchange Period or PTRR Information 
+Exchange Period is extended with written consent of KATCo or by FERC order. 
+C. KATCo shall not claim that responses to information and document requests provided 
+pursuant to these Protocols are subject to any settlement privilege in any proceeding 
+addressing KATCo’s Annual Update or PTRR, and such responses may be included in 
+any Formal Challenge or other submittal addressing KATCo’s Annual Update or 
+PTRR. 
+D. KATCo shall use best efforts to timely notify the proponent of an Information Request 
+if all or any part of an Information Request is unclear or the subject matter is outside 
+the scope of Section III.B.  If the parties are unable to resolve any dispute regarding an 
+information request, the matter may be referred to the FERC Dispute Resolution 
+Service.   
+Section IV.  Challenge Procedures 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 9 
+A. Interested Parties shall have until March 31 following the Publication Date (unless 
+such period is extended with the written consent of KATCo or by FERC order) 
+(“Review Period”), to review the inputs, supporting explanations, allocations and 
+calculations and to notify KATCo in writing, which may be made electronically, of any 
+specific Preliminary Challenges to the Annual Update or PTRR. If the final day of the 
+Review Period falls on a holiday recognized by FERC, the deadline for submitting all 
+Preliminary Challenges shall be extended to the next business day.  An Interested Party 
+may not pursue a Formal Challenge unless it submitted a Preliminary Challenge on 
+some issue (which may be different from the Formal Challenge issue) during the 
+applicable Review Period.  Failure to raise an issue in one year’s Formal Challenge 
+shall not bar the lodging of that issue as related to a subsequent Annual Update or 
+PTRR. This Section IV.A in no way shall affect a party’s rights under Federal Power 
+Act (“FPA”) section 206 as set forth in Section IV.I of these Protocols. 
+B. Preliminary Challenges shall be subject to the resolution procedures and limitations in 
+this Section IV and shall satisfy all of the following requirements. 
+1. A party submitting a Preliminary Challenge to KATCo must specify the inputs, 
+supporting explanations, allocations, calculations, or other information to which 
+it objects, and provide an explanation and documents to support its challenge. 
+2. KATCo shall make a good faith effort to respond to any Preliminary 
+Challenge within twenty (20) business days of written receipt of such 
+challenge. 
+3. KATCo, and where applicable, PJM, shall appoint a senior representative to 
+work with each party that submitted a Preliminary Challenge (or its 
+representative) toward a resolution of the challenge. 
+4. If KATCo disagrees with such challenge, they will provide the Interested 
+Party(ies) with a written explanation supporting the inputs, supporting 
+explanations, allocations, calculations, or other information. 
+5. No Preliminary Challenge may be submitted after March 31, and KATCo must 
+respond to all Preliminary Challenges by no later than April 30 unless the Review 
+Period is extended with written consent of KATCo by FERC, or as provided in 
+Section IV.A above. 
+6. KATCo will serve all Preliminary Challenges and its response(s) to such 
+Preliminary Challenges upon any Interested Party that requests such service, 
+subject to the protection of any confidential information contained in such 
+Preliminary Challenges or responses, as needed, under the Protective Agreement 
+and Non-Disclosure Certificate. 
+C. Formal Challenges shall be subject to the resolution procedures and limitations in this 
+Section IV. Formal Challenges shall be filed pursuant to these Protocols and shall 
+satisfy all of the following requirements. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 10 
+1. A Formal Challenge shall: 
+a. Clearly identify the action or inaction which is alleged to violate the filed 
+Formula Rate or these Protocols; 
+b. Explain how the action or inaction violates the filed Formula Rate or these 
+Protocols; 
+c. Set forth the business, commercial, economic or other issues presented 
+by the action or inaction as such relate to or affect the party filing the 
+Formal Challenge, including: 
+i. the extent or effect of an Accounting Change; 
+ii. whether the ATRR or PTRR fails to include data properly recorded 
+in accordance with these Protocols; 
+iii. the proper application of the Formula Rate and procedures in 
+these Protocols; 
+iv. the accuracy of data and consistency with the Formula Rate of 
+the charges shown in the ATRR or PTRR; 
+v. the prudence of actual costs and expenditures; 
+vi. the effect of any change to the underlying Uniform System 
+of Accounts or FERC Form No. 1; or 
+vii. any other information that may reasonably have a substantive 
+effect on the calculation of the charge pursuant to the 
+Formula Rate. 
+d. Make a good faith effort to quantify the financial impact or burden (if any) 
+created for the party filing the Formal Challenge as a result of the 
+challenged action or inaction; 
+e. State whether the claim(s) presented are pending in an existing 
+Commission proceeding or a proceeding in any other forum in which the 
+filing party is a party, and if so, provide an explanation why timely 
+resolution cannot be achieved in that forum; 
+f. State the specific relief or remedy requested, including any request for stay 
+or extension of time, and the basis for that relief; 
+g. Include all documents that support the facts in the Formal Challenge in 
+possession of, or otherwise attainable by, the filing party, including, but 
+not limited to, contracts and affidavits; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 11 
+2. Service. Any person filing a Formal Challenge must serve a copy of such Formal 
+Challenge on KATCo.  Service to KATCo must be simultaneous with filing at 
+FERC. Simultaneous service can be accomplished by electronic mail in 
+accordance with 18 C.F.R. § 385.2010, express delivery, or messenger.  A party 
+filing a Formal Challenge shall serve the individual listed as the contact person on 
+KATCo’s Informational Filing required under Section VI of these Protocols. 
+D. Preliminary and Formal Challenges shall be limited to all issues that may be necessary to 
+determine: 
+1. the extent or effect of an Accounting Change; 
+2. whether the ATRR or PTRR fails to include data properly recorded in 
+accordance with these Protocols, or includes data not properly recorded in 
+accordance with these Protocols; 
+3. the proper application of the Formula Rate and procedures in these Protocols; 
+4. the accuracy of data and consistency with the Formula Rate of the calculations 
+shown in the ATRR and PTRR; 
+5. the prudence of actual costs and expenditures included as inputs to the Formula 
+Rate; 
+6. the reasonableness of any projection that forms a basis of the PTRR; 
+7. the effect of any change to the underlying Uniform System of Accounts or 
+FERC Form No. 1; or 
+8. any other information that may reasonably have a substantive effect on the 
+calculation of the charge pursuant to the Formula Rate. 
+E. Any changes or adjustments to the ATRR and PTRR resulting from the information 
+exchange and Preliminary Challenge processes that are agreed to by KATCo will be 
+reported in the Informational Filing required pursuant to Section VI of these Protocols. 
+Any such changes or adjustments agreed to by KATCo on or before December 1 will be 
+reflected in the PTRR for the upcoming Rate Year. Any changes or adjustments agreed 
+to by KATCo after December 1 will be reflected in the following year’s Annual Update, 
+as discussed in Section V of these Protocols. 
+F. An Interested Party shall have until June 1 following the Review Period (unless such date 
+is extended with the written consent of KATCo to continue efforts to resolve the 
+Preliminary Challenge) to make a Formal Challenge with FERC, which shall be served on 
+KATCo on the date of such filing as specified in Section IV.C.2 above. A Formal 
+Challenge shall be filed in the same docket as KATCo’s Informational Filing discussed in 
+Section VI of these Protocols. KATCo shall respond to the Formal Challenge by the 
+deadline established by FERC.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 12 
+G. In any proceeding initiated by FERC concerning the Annual Update or PTRR or in 
+response to a Formal Challenge, KATCo shall bear the burden, consistent with FPA 
+section 205, of proving that it has correctly applied the terms of the Formula Rate 
+consistent with these Protocols, and that it followed the applicable requirements and 
+procedures in the Formula Rate. Nothing herein is intended to alter the burdens applied 
+by FERC with respect to prudence challenges. 
+H. Except as specifically provided herein, nothing herein shall be deemed to limit in any 
+way the right of KATCo to file unilaterally, pursuant to FPA section 205 and the 
+regulations thereunder, to change these Protocols, the Formula Rate, or any of its inputs 
+(including, but not limited to, rate of return and transmission incentive rate treatment), 
+or to replace the Formula Rate with a stated rate, or the right of any other party to 
+request such changes pursuant to FPA section 206. 
+I. No Settling Intervenor shall oppose a filing by KATCo under FPA section 205 (i) to 
+change the fixed PBOP calculation in the filed template, (ii) to modify the stated values 
+for amortization and depreciation rates in the filed template, (iii) to reflect nominal 
+changes to the FERC Form 1 reporting requirements (i.e., changes in account 
+descriptions or line numbers that do not reflect changes in the nature or type of costs or 
+expenses recorded therein), or (iv) to seek recovery of prudently-incurred abandoned 
+plant, on the grounds that such filing is an impermissible single-issue rate filing. KATCo 
+shall not oppose a filing by any Settling Intervenor under FPA section 206 to change the 
+fixed PBOP calculation in the filed template on the grounds that such filing is an 
+impermissible single-issue rate filing.  The Parties acknowledge that the Commission is 
+not bound by the provision setting forth the agreement between the Parties on single-
+issue filings and may at its discretion broaden the scope of the filing related to changes in 
+the fixed PBOP calculation in the filed template. 
+J. Any Interested Party seeking changes to the application of the Formula Rate due to a 
+change in the Uniform System of Accounts or FERC Form No. 1 shall first raise the 
+matter with KATCo in accordance with this Section IV before pursuing a Formal 
+Challenge. 
+Section V.  Changes to Actual Transmission Revenue Requirement or 
+Projected Transmission Revenue Requirement 
+Except as provided in Section IV.E of these Protocols, any changes to the data inputs, 
+including but not limited to revisions to KATCo’s FERC Form No. l, or as the result of 
+any FERC proceeding to consider the ATRR or PTRR, or as a result of the procedures set 
+forth herein, shall be incorporated into the Formula Rate and the charges produced by the 
+Formula Rate in the PTRR for the next Rate Year. This true-up mechanism shall apply in 
+lieu of mid-Rate Year adjustments. Interest on any refund or surcharge shall be calculated 
+in accordance with the procedures outlined in Section VII of these Protocols. 
+Section VI.  Informational Filings 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 13 
+A. Commencing at the time that KATCo’s formula rate is initially populated, by June 15 of 
+each year, KATCo shall submit to FERC an informational filing (“Informational 
+Filing”) of its PTRR for the Rate Year, including its ATRR and True-up. This 
+Informational Filing must include information that is reasonably necessary to determine: 
+1. that input data to the Formula Rate are properly recorded in any underlying 
+work papers; 
+2. that KATCo has properly applied the Formula Rate and these Protocols; 
+3. the accuracy of data and the consistency with the Formula Rate of the 
+transmission revenue requirement and rates under review; 
+4. the extent of Accounting Changes that affect Formula Rate inputs; and 
+5. the reasonableness of projected costs. 
+The Informational Filing must also describe any corrections or adjustments made during 
+the period since the Publication Date, and must describe all aspects of the Formula Rate 
+or its inputs that are the subject of an ongoing dispute under the Preliminary Challenge or 
+Formal Challenge procedures. 
+Finally, the Informational Filing shall include for the applicable Rate Year the following 
+information related to affiliate cost allocation: a detailed description of the methodologies 
+used to allocate and directly assign costs between KATCo and its affiliates by service 
+category or function, including any changes to such cost allocation methodologies from 
+the prior Rate Year, and the reasons and justification for those changes; the magnitude of 
+such costs that have been allocated or directly assigned between KATCo and each 
+affiliate by service category or function; and a copy of any service agreement between 
+KATCo and any affiliate that went into effect during the Rate Year. 
+On the date of submission to FERC, KATCo shall provide notice of the Informational 
+Filing via the e-mail exploder list for KATCo and by posting the docket number 
+assigned to KATCo’s Informational Filing on the PJM website, subject to the protection 
+of any confidential information contained in the Informational Filing, as needed, under 
+the Protective Agreement and Non-Disclosure Certificate. 
+B. Any challenges to the implementation of the Formula Rate must be made through the 
+challenge procedures described in Section IV of these Protocols or in a separate 
+complaint proceeding, and not in response to the Informational Filing. 
+Section VII.  Calculation of True-up 
+The True-up will be determined in the following manner: 
+A. As part of the Annual Update for each Rate Year, KATCo shall determine the difference 
+between the revenues received by KATCo corresponding to the rate effective period 
+based on the PTRR for the Rate Year (net of the True-up from the prior year) and the 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 14 
+ATRR for the same Rate Year based on actual cost data as reflected in its FERC Form 
+No. l. The True-up will be determined as follows: 
+1. The ATRR for the previous Rate Year as determined using KATCo’s 
+completed FERC Form No. 1 report shall be compared to the revenues 
+received by KATCo corresponding to the rate effective period based on the 
+PTRR (net of the True-up from the prior year) for that same Rate Year ("True-
+up Year") to determine any excess or shortfall in the revenues received by 
+KATCo corresponding to the rate effective period in the True-up Year. The 
+revenue excess or shortfall determined by this comparison shall constitute the 
+"True-up." 
+2. Interest on any True-up shall be based on the interest rate equal to the interest rate 
+determined by 18 C.F.R. § 35.19a. Interest rates will be used to calculate the time 
+value of money for the period that the True-up exists. The interest rate to be 
+applied to the True-up will be determined using the average rate for the twenty 
+(20) months preceding September 1 of the current year.  Interest on refunds and 
+surcharges shall be compounded on a quarterly basis. 
+B. KATCo will post on PJM's website all information relating to the True-up as part of the 
+Annual Update. As provided in Section II.B of these Protocols, KATCo shall provide 
+its Annual Update for the immediately preceding calendar year to PJM and cause such 
+information to be posted on the PJM website on or before June 15 of each year 
+subsequent to calendar year 2021. 
+Section VIII.  Formula Rate Inputs 
+A. Fixed components to the Formula Rate: For (i) rate of return on common equity; (ii) 
+"Post-Employment Benefits other than Pension" ("PBOP") charges pursuant to 
+Statement of Financial Accounting Standards No. 106, Employers' Accounting for 
+Postretirement Benefits Other Than Pensions; and (iii) depreciation and/or amortization 
+rates, the values in the Formula Rate shall be stated values specified in Attachment 9 of 
+the Formula Rate and may be changed only pursuant to a FPA section 205 or section 206 
+proceeding, provided, however, that KATCo may at its discretion and at a time of its 
+choosing, make a limited, single issue Section 205 filing to revise the stated depreciation 
+rates and/or amortization rates.  All parties reserve the right to contest such filing(s), but 
+the sole issue in any such limited Section 205 proceeding shall be whether such 
+proposed change is just and reasonable, and it shall not address other aspects of the 
+Formula Rate. 
+B. Unpopulated Formula Rate line items: With respect to line items in the Formula Rate 
+that are not currently populated with non-zero numerical values because FERC policy 
+requires prior authorization for recovery of the underlying costs or because, due to the 
+nature of the associated functional activities, such costs are not considered part of 
+KATCo’s transmission-related revenue requirement (but not line items that are zero 
+values in a particular Rate Year for the sole reason that no such costs or revenues were 
+incurred or revenues received or projected to be incurred or received during the Rate 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-34B - KATCo 
+Effective Date: 1/1/2021 - Docket #: ER21-265-002 - Page 15 
+Year), such line items shall not be populated with non-zero values except as may be 
+authorized following a FPA section 205 or section 206 proceeding. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment H-35 - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 1 
+Attachment H-35 
+Annual Transmission Rates - Mid-Atlantic Offshore 
+Development, LLC 
+ 
+ 
+1. The Mid-Atlantic Offshore Development, LLC (“MAOD”) annual transmission revenue 
+requirement (“ATRR”) is equal to the results of the formula and its associated attachments, as 
+shown in Attachment H-35A posted on the PJM Internet site, which reflect MAOD’s facilities 
+within PJM.  The ATRR determined pursuant to Attachment H-35A shall be implemented 
+pursuant to the Formula Rate Implementation Protocols set forth in Attachment H-35B. 
+ 
+2. The ATRR posted in (1) shall be effective until amended by MAOD or modified by the 
+Commission. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 1 
+Formula Rate - Non-Levelized page 1 of 5 
+ 
+  Rate Formula Template Attachment H-35A   For the 12 months ended mm/dd/yyyy 
+Utilizing FERC Form 1 Data 
+Mid-Atlantic Offshore Development, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+7 TOTAL REVENUE CREDITS (Sum of Lines 2 through 6) - - 
+ 
+8 NET REVENUE REQUIREMENT (Line 1 minus Line 7)  $ -  
+ 
+ 
+9 Prior Period Adjustment Attachment 2, Line 11 - DA 1.00000 - 
+10 True-up Adjustment with Interest 
+ 
+11 NET REVENUE REQUIREMENT 
+Attachment 2, line 9, Col. J 
+ 
+(Line 8 plus Line 9 and 10) 
+- DA 1.00000 0 
+ 
+  $ -  
+Line
+(1) (2) (3) (4) (5)
+Allocated
+No. Source Amount
+1 GROSS REVENUE REQUIREMENT (page 3, Line 47) $ -
+REVENUE CREDITS (Note O) Total Allocator (Note Z)
+2 Account No. 454 (page 4, Line 29) - TP 1.00 -
+3 Account No. 456.1 (page 4, Line 33) - TP 1.00 -
+4 Account No. 457.1 Scheduling Attachment 7, line 39, col e - TP 1.00 -
+5
+6
+Revenues from Grandfathered Interzonal Transactions
+Revenues from service provided by the ISO at a discount
+(Note N) - TP
+ - TP
+1.00
+1.00
+-
+- 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 2 
+ 
+  
+Formula Rate - Non-Levelized 
+  
+Rate Formula Template Attachment H-35A 
+ Utilizing FERC Form 1 Data 
+Mid-Atlantic Offshore Development, LLC 
+    page 2 of 5 
+For the 12 months ended mm/dd/yyyy 
+ 
+ 
+Line 
+(1) (2) 
+ 
+Source 
+(3) 
+ 
+Company Total 
+  
+ 
+Allocator 
+(4)  (5) 
+Transmission 
+(Col 3 times Col 4) 
+No. RATE BASE:        
+ 
+1 
+GROSS PLANT IN SERVICE (Notes U and R) 
+Production 
+ 
+205.46.g for end of year, records for other months 
+ 
+  -  
+ 
+N/A 
+    
+- 
+2 Transmission Attachment 3, Line 14, Col. (b) - TP   1.00 - 
+3 Distribution 207.75.g for end of year, records for other months   -  NA   - - 
+4 General & Intangible Attachment 3, Line 14, Col. (c) - W/S   1.00 - 
+5 Common 356.1 for end of year, records for other months   -  CE   1.00   -  
+6 TOTAL GROSS PLANT (Sum of Lines 1 through 5) -  GP=  1.00 - 
+7 ACCUMULATED DEPRECIATION (Notes U and R)        
+8 Production 219.20-24.c for end of year, records for other months - NA    - 
+9 Transmission Attachment 4, Line 14, Col. (h)   -  TP   1.00 - 
+10 Distribution 219.26.c for end of year, records for other months - NA   - - 
+11 General & Intangible Attachment 4, Line 14, Col. (i)   -  W/S   1.00 - 
+12 Common 356.1 for end of year, records for other months   -  CE   1.00 - 
+13 TOTAL ACCUM. DEPRECIATION (Sum of Lines 8 through 12) - - 
+14 NET PLANT IN SERVICE 
+15 Production 
+ 
+(Line 1 minus Line 8) 
+ 
+- - 
+16 Transmission (Line 2 minus Line 9) - - 
+17 Distribution (Line 3 minus Line 10) - - 
+18 General & Intangible (Line 4 minus Line 11) - - 
+19 Common (Line 5 minus Line 12)   -   I/D    -   
+20 TOTAL NET PLANT (Sum of Lines 15 through 19) - NP=  1.00 -  
+21 ADJUSTMENTS TO RATE BASE (Note R)        
+22 Account No. 281 (enter negative) Attach 3, Line 28, Col. (d)/Attach 6, Line 72, Col. H (Note B) - NA   zero -  
+23 Account No. 282 (enter negative) Attach 3, Line 28, Col. (e)/Attach 6, Line 108, Col. H (Note B) - NP   1.00 -  
+24 Account No. 283 (enter negative) Attach 3, Line 28, Col. (f)/Attach 6, Line 144, Col. H (Note B) - NP   1.00 -  
+25 Account No. 190 Attach 3, Line 28, Col. (g)/Attach 6, Line 36, Col. H (Note B) - NP   1.00 -  
+26 Account No. 255 (enter negative) Attachment 3, Line 28, Col. (h) (Note B) - NP   1.00 -  
+26a Unfunded Reserves (enter negative) Attachment 3, Line 31, Col. (h) (Note Y) - DA   1.00 -  
+27 CWIP Attachment 3, Line 14, Col. (d) - DA   1.00 -  
+28 Unamortized Regulatory Asset Attachment 3, Line 28, Col. (b) (Note T) - DA   1.00 -  
+29 Unamortized Abandoned Plant Attachment 3, Line 28, Col. (c) (Note S) - DA   1.00 -  
+30 TOTAL ADJUSTMENTS (Sum of Lines 22 through 29) -    -  
+31 PLANT HELD FOR FUTURE USE Attachment 3, Line 14, Col. (e) (Note C) - TP   1.00 -  
+32 WORKING CAPITAL (Note D)       
+33 CWC 1/8*(Page 3, Line 14 minus Page 3, Line 11) -    -  
+34 Materials & Supplies Attachment 3, Line 14, Col. (f) (Note C) - TP   1.00 -  
+35 Prepayments (Account 165) Attachment 3, Line 14, Col. (g) - GP   1.00 -  
+36 TOTAL WORKING CAPITAL (Sum of Lines 33 through 35) -    -  
+37 RATE BASE (Sum of Lines 20, 30, 31, and 36)   -       -   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 3 
+ 
+  
+ 
+Formula Rate - Non-Levelized 
+  
+ 
+Rate Formula Template Attachment H-35A 
+Utilizing FERC Form 1 Data 
+Mid-Atlantic Offshore Development, LLC 
+     page 3 of 5 
+For the 12 months ended mm/dd/yyyy 
+ 
+Line 
+(1) (2) (3)    (4)  (5) 
+Transmission 
+No.  Source Company Total   Allocator   (Col 3 times Col 4) 
+ 
+1 
+O&M 
+Transmission 
+ 
+321.112.b Attach. 7, Line 13, Col. (a) 
+  
+0 
+ 
+TP 
+   
+1.00 
+ 
+- 
+2 Less Account 566 (Misc Trans Expense) 321.97.b Attach. 7, Line 13, Col. (b)  - TP   1.00 - 
+3 Less Account 565 321.96.b Attach. 7, Line 13, Col. (c)  - TP   1.00 - 
+4 A&G 323.197.b Attach. 7, Line 13, Col. (d)  - W/S   1.00 - 
+5 Less FERC Annual Fees Attach. 7, Line 13, Col. (e)  - W/S   1.00 - 
+6 Less EPRI & Reg. Comm. Exp. & Non-safety Ad. (Note E) Attach. 7, Line 13, Col. (f)  - W/S   1.00 - 
+7 Plus Transmission Related Reg. Comm. Exp. (Note E) Attach. 7, Line 13, Col. (g)  - TP   1.00 - 
+8 Common 356.1   -  CE 1.00 - 
+9  Transmission Lease Payments 
+10  Account 566 
+11 Amortization of Regulatory Asset 
+Attach. 7, Line 13, Col (h) 
+ 
+(Note T) Attach. 7, Line 13, Col. (i) 
+- 
+ 
+- 
+DA 
+ 
+DA 
+1.00 
+ 
+1.00 
+- 
+ 
+- 
+12 
+13 
+Miscellaneous Transmission Expense (less amortization of regAttach. 7, Line 13, Col .(j) 
+Total Account 566 (Line 11 plus Line 12) Ties to 321.97.b 
+- TP 1.00 - 
+- - 
+ 
+14 TOTAL O&M (Sum of Lines 1, 4, 7, 8, 9, 13 less Lines 2, 3, 5, 6) - -  
+ 
+15.  DEPRECIATION EXPENSE (Note U) 
+16.  Transmission 
+ 
+ 
+336.7.b, d &e Attach. 5, Line 13, Col. (k) 
+ 
+ 
+  -  
+ 
+ 
+TP 
+ 
+ 
+1.00 
+ 
+ 
+- 
+ 
+17 General & Intangible 336.10.b, d &e, 336.1.b, d &e Attach. 7, Line 26, Col. (a) - W/S 1.00 -  
+18 Common 336.11.b, d &e   -  CE 1.00 -  
+19 Amortization of Abandoned Plant (Note S) Attach. 7, Line 26, Col. (b) - DA 1.00 -  
+20 TOTAL DEPRECIATION (Sum of Lines 16 through 19) -   -  
+21  TAXES OTHER THAN INCOME TAXES 
+22  LABOR RELATED 
+23  Payroll 
+(Note F) 
+ 
+263.i Attach. 7, Line 26, Col. (c) 
+ 
+ 
+- 
+ 
+ 
+W/S 
+ 
+ 
+1.00 
+ 
+ 
+- 
+ 
+24  Highway and vehicle 
+25  PLANT RELATED 
+26  Property 
+263.i Attach. 7, Line 26, Col. (d) 
+ 
+263.i Attach. 7, Line 26, Col. (e) 
+- 
+ 
+- 
+W/S 
+ 
+GP 
+1.00 
+ 
+1.00 
+- 
+ 
+- 
+ 
+27 Gross Receipts 263.i Attach. 7, Line 26, Col. (f) - NA zero -  
+28 Other 263.i Attach. 7, Line 26, Col. (g) - GP 1.00 -  
+29 Payments in lieu of taxes 263.i Attach. 7, Line 26, Col. (h) - GP 1.00 -  
+30 TOTAL OTHER TAXES (Sum of Lines 23 through 29) - -  
+31 INCOME TAXES (Note G)   
+32 T=1 - {[(1 - SIT) * (1 - FIT)] / (1 - SIT * FIT * p)} WCLTD = Page 4, Line 20 28.11%  
+33 CIT=(T/1-T) * (1-(WCLTD/R)) = R = Page 4, Line 23 23.21%  
+34  FIT & SIT & P 
+35  IT Gross Up Factor (T/(1-T)) 
+(Note G)  
+39.10% 
+ 
+36 1 / (1 - T) = (T from line 32) 
+37 Amortized Investment Tax Credit 
+ 
+266.8f (enter negative) Attach. 7, Line 26, Col. (i) 
+1.39 
+- 
+ 
+38 Excess Deferred Income Taxes (enter negative) Attach. 7, Line 26, Col. (j) -  
+39 Tax Effect of Permanent Differences Attach. 7, Line 5, Col. (a) (Note W)   -   
+40  Income Tax Calculation 
+41  ITC adjustment 
+42  Excess Deferred Income Tax Adjustment 
+43  Permanent Differences Tax Adjustment 
+44  Total Income Taxes 
+(Line 33 times Line 46) 
+(Line 36 times Line 37) 
+(Line 36 times Line 38) 
+(Line 36 times Line 39) 
+(Sum of Lines 40 through 43) 
+- NA - 
+- NP 1.00 - 
+- NP 1.00 - 
+  - NP 1.00   -  
+- - 
+ 
+45  RETURN 
+46  Rate Base times Return  
+(Page 2, Line 37 times Page 4, Line 23) 
+ 
+- NA - 
+ 
+47 REV. REQUIREMENT (Sum of Lines 14, 20, 30, 44 and 46)   -   -   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 4 
+(Note M) Attach 5, line 39, col (b)
+330.x.n
+Attach 7, line 39, col (c)
+Attach 7, line 39, col (d)
+310 -311
+311.x.h
+Attach 7, line 39, col (a)
+page 4 of 5 
+ 
+Formula Rate - Non-Levelized Rate Formula Template Attachment H-35A For the 12 months ended mm/dd/yyyy 
+Utilizing FERC Form 1 Data 
+Mid-Atlantic Offshore Development, LLC 
+ 
+(1) (2) (3) (4) (5) 
+ 
+SUPPORTING CALCULATIONS AND NOTES 
+Line 
+No. TRANSMISSION PLANT INCLUDED IN ISO RATES 
+ 
+1 Total Transmission plant (Page 2, Line 2, Column 3) - 
+2  Less Transmission plant excluded from ISO rates (Note H) 
+3  Less Transmission plant included in OATT Ancillary Services  (Note I)  
+    - 
+  -  
+4 Transmission plant included in ISO rates (Line 1 minus Lines 2 & 3)     - 
+5 Percentage of Transmission plant included in ISO Rates (Line 4 divided by Line 1)    TP= 1.0000 
+6 WAGES & SALARY ALLOCATOR (W&S) 
+Form 1 Reference 
+ 
+$ 
+ 
+TP 
+ 
+       Allocation  
+  
+7  Production 
+8 Transmission 
+9  Distribution 
+10  Other 
+- 
+- 
+- W&S Allocator 
+  -  ($ / Allocation)  
+11  Total (W& S Allocator is 1 if lines 7-10 are zero) 
+ 
+12  COMMON PLANT ALLOCATOR (CE) (Note J and X) 
+(Sum of Lines 7 through 10)  
+ 
+$ 
+- - 
+ 
+% Electric 
+= 1.00000 
+ 
+W&S Allocator 
+= W/S  
+13 Electric 200.3.c  - (line 13 / line 16)  (line 11)  CE 
+14 Gas 201.3.d - - * 1.00000 = 1.00000 
+15 Water 201.3.e -   
+16 Total (Sum of Lines 13 through 15) -   
+17 RETURN (R) (Note V)   $    
+18  Cost 
+19  $ % (Notes K, Q, & R)  Weighted  
+20 Lo ng Term Debt 
+21  Preferred Stock (112.3.c) 
+22  Common Stock 
+23  Total 
+ 
+ 
+ 
+(Sum of Lines 20 through 22) 
+7.37% 0.0369 =WCLTD 
+- - 
+10.76% 0.0538 
+1 0.0907 =R 
+ 
+24  REVENUE CREDITS 
+25  ACCOUNT 447 (SALES FOR RESALE) (Note L) 
+26  a. Bundled Non-RQ Sales for Resale       - 
+27  b. Bundled Sales for Resale  
+ 
+28  Total of (a)-(b)  -  
+ 
+ 
+29 ACCOUNT 454 (RENT FROM ELECTRIC PROPERTY)   -  
+ 
+30  ACCOUNT 456.1 (OTHER ELECTRIC REVENUES) 
+31  a. Transmission charges for all transmission transactions   -  
+  b. Transmission charges associated with Project detailed on the 
+32  Project Rev Req Schedule Col. 10.   -  
+33  Total of (a)-(b) - 
+354.20.b - -
+354.21.b - 1.00
+354.23.b - -
+354.24,25,26.b - -
+(Attachment 4, line 8 Notes P, Q & R) 1 50.0%
+(Attachment 4, line 9 Notes Q & R) - 0.0%
+(Attachment 4, line 10 Notes K, Q & R) 1 50.0%
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 5 
+page 5 of 5 
+ 
+Formula Rate - Non-Levelized  Rate Formula Template Attachment H-35A For the 12 months ended mm/dd/yyyy 
+Utilizing FERC Form 1 Data 
+Mid-Atlantic Offshore Development, LLC 
+ 
+ 
+ 
+Note 
+Letter 
+A 
+B 
+ 
+ 
+C 
+D 
+ 
+E 
+F 
+General Note: References to pages in this formulary rate are indicated as: (page#, line#, col.#) 
+References to data from FERC Form 1 are indicated as: #.y.x (page, line, column) 
+ 
+ 
+Reserved 
+The balances in Accounts 190, 281, 282 and 283 are allocated to transmission plant included in rate base based on Company accounting records. Accumulated deferred income tax amounts associated with asset or liability accounts excluded from rate base (such as ADIT related to asset retirement 
+obligations and certain tax-related regulatory assets or liabilities) do not affect rate base. To the extent that the normalization requirements apply to ADIT activity in the projected net revenue requirement calculation or the true-up adjustment calculation, the ADIT amounts are computed in accordance 
+with the proration formula of Treasury regulation Section 1.167(l)-1(h)(6). The remaining ADIT activity is averaged. 
+Identified in Form 1 as being only transmission related. 
+Cash Working Capital assigned to transmission is one-eighth of O&M allocated to transmission at page 3, line 14, column 5 minus amortization of Regulatory Asset at page 3, line 11, column 5. Prepayments are the electric related prepayments booked to Account No. 165 and reported on pages 111, 
+line 57 in the Form 1. 
+Page 3, Line 6 - EPRI Annual Membership Dues listed in Form 1 at 353.f, all Regulatory Commission Expenses itemized at 351.h, and non-safety related advertising included in Account 930.1 found at 323.191.b. Page 3, Line 7-Regulatory Commission Expenses directly related to transmission service, 
+ISO filings, or transmission siting itemized at 351.h. 
+Includes only FICA, unemployment, highway, property, gross receipts, and other assessments charged in the current year. Taxes related to income are excluded. Gross receipts taxes are not included in transmission revenue requirement in the Rate Formula Template, since they are recovered elsewhere. 
+G The currently effective income tax rate, where FIT is the Federal income tax rate; SIT is the State income tax rate, and p = "the percentage of federal income tax deductible for state income taxes". If the utility is taxed in more than one state it must attach a work paper showing the name of each state and 
+how the blended or composite SIT was developed. Furthermore, a utility that elected to utilize amortization of tax credits against taxable income, rather than book tax credits to Account No. 255 and reduce rate base, must reduce its income tax expense by the amount of the Amortized Investment Tax 
+Credit (Form 1, 266.8.f) multiplied by (1/1-T) (page 3, line 36). Excess Deferred Income Taxes reduce income tax expense by the amount of the expense multiplied by (T/1-T). 
+Inputs Required: FIT = 
+SIT= 
+p = 
+(State Income Tax Rate or Composite SIT) 
+(percent of federal income tax deductible for state purposes) 
+ 
+H  Removes transmission plant determined by Commission order to be state-jurisdictional according to the seven-factor test (until Form 1 balances are adjusted to reflect application of seven-factor test). 
+I  Removes dollar amount of transmission plant to be included in the development of OATT ancillary services rates and generation step-up facilities, which are deemed included in OATT ancillary services. For these purposes, generation step-up facilities are those facilities at a generator substation on which there is no 
+ through-flow when the generator is shut down. 
+J Enter dollar amounts 
+K The cost of common stock includes both MAOD’s base return on equity (“ROE”) and the 50 basis point ROE adder for RTO participation granted Mid-Atlantic Offshore Development, LLC, 186 FERC ¶ 61,116, P 48 (2024). 
+L Page 4, Line 28 must equal zero since all short-term power sales must be unbundled and the transmission component reflected in Account No. 456.1. 
+M Includes income related only to transmission facilities, such as pole attachments, rentals and special use. 
+N Company does not have any grandfathered agreements. 
+O The revenues credited on page 1 lines 2-6 shall include only the amounts received directly (in the case of grandfathered agreements) or from the ISO (for service under this tariff) reflecting the Transmission Owner's integrated transmission facilities. Revenue Credits do not include revenues associated with FERC annual 
+ charges, gross receipts taxes, facilities not included in this template (e.g., direct assignment facilities and GSUs) the costs of which are not recovered under this Rate Formula Template. 
+P For the purposes of calculating AFUDC in the period before MAOD obtains construction debt financing, debt during the construction period will be priced at the three-month Term Secured Overnight Financing Rate ("SOFR"), plus 200 basis points (the “Proxy Debt Rate”). The Proxy Debt Rate will be updated monthly 
+ based on the monthly change in the three-month Term SOFR and used in the AFUDC calculation until the actual Construction Debt financing is placed, at which point the actual cost of the Construction Debt financing will be reflected in the calculation of AFUDC. At or near the time of commercial operation, MAOD would 
+ expect to refinance the construction loan with longer-term debt financing, which would then be reflected as the actual cost of debt on Attachment 9. 
+Q The capital structure will be 50% equity and 50% debt until Mid-Atlantic Offshore Development, LLC’s first transmission project enters service, after which the capital structure will be the actual capital structure.  
+R Calculate using 13 month average balance, except ADIT. 
+S Unamortized Abandoned Plant and Amortization of Abandoned Plant will be zero until the Commission accepts or approves recovery of the cost of abandoned plant. Utility must receive FERC authorization before recovering the cost of abandoned plant. 
+T Recovery of Regulatory Asset is permitted only for pre-commercial expenses incurred prior to the date when Mid-Atlantic Offshore Development, LLC may first recover costs under the PJM Tariff, as authorized by the Commission. Recovery of any other regulatory assets requires authorization from the Commission. A 
+ carrying charge will be applied to the Regulatory Asset prior to the rate year when costs are first recovered. 
+U Excludes Asset Retirement Obligation balances 
+V Company shall be allowed recovery of costs related to interest rate locks. Absent a Section 205 filing, Company shall not include in the Formula Rate, the gains, losses, or costs related to other hedges. 
+W The Tax Effect of Permanent Differences captures the differences in the income taxes due under the Federal and State calculations and the income taxes calculated in Attachment H that are not the result of a timing difference  
+X Reserved 
+ Unfunded Reserves are customer contributed capital such as when employee vacation expense is accrued but not yet incurred. Also, pursuant to Special Instructions to Accounts 228.1 through 228.4, no amounts shall be credited to accounts 228.1 through 228.4 unless authorized by a regulatory 
+Y authority or authorities to be collected in a utility’s rates.  
+Z DA = Direct Assignment; GP = Gross Plant Allocator (page 2, line 6); N/A = Not Applicable; NP = Net Plant Allocator (page 2, line 20); TP = Transmission Plant Allocator (page 4, line 5); WS = Wage and Salary Allocator (page 4, line 11); CE = Common PLant Allocator (page 4, line 14). 
+21.00%
+9.00%
+0.00%
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 6 
+Page 1 of 3   
+For the 12 months ended mm/dd/yyyy  
+  Attachment 1    
+  Project Revenue Requirement Worksheet    
+  Mid-Atlantic Offshore Development, LLC    
+ 
+To be completed in conjunction with Attachment H-XXA.  
+   
+Line 
+     No.  
+(1) (2) 
+Attachment H, Page, Line, Col.  
+(3) 
+Transmission  
+(4) 
+Allocator  
+ 
+1 
+ 
+Gross Transmission Plant plus CWIP  
+ 
+Attach H-XX, p 2, line 2 col 5 (Note A)  
+ 
+- 
+ 
+2 Net Transmission Plant plus CWIP and Abandoned Plant  Attach H-XX, p 2, line 16 col 5 plus line 27 & 29 col 5 (Note B)  -  
+ 
+O&M EXPENSE  
+   
+3 Total O&M Allocated to Transmission  Attach H-XX, p 2, line 14 col 5 (Note A)  -  
+4 Annual Allocation Factor for O&M  (line 3 divided by line 1, col 3)  0.00%  0.00%  
+ 
+GENERAL AND INTANGIBLE (G&I) DEPRECIATION EXPENSE  
+   
+5 Total G&I Depreciation Expense  Attach H-XX, p 3, line 17, col 5 (Note H)  -  
+6 Annual Allocation Factor for G,I & C Depreciation Expense  (line 5 divided by line 1, col 3)  0.00%  0.00%  
+ 
+TAXES OTHER THAN INCOME TAXES  
+   
+7 Total Other Taxes  Attach H-XX, p 3, line 30 col 5  -  
+8 Annual Allocation Factor for Other Taxes  (line 7 divided by line 1, col 3)  0.00%  0.00%  
+9 Less Revenue Credits  Attach H-XX, p 1, line 7 col 5  - 
+ 
+10 Annual Allocation Factor for Revenue Credits  (line 9 divided by line 1, col 3)  0.00%  0.00%  
+11 Annual Allocation Factor for Expense  Sum of lines 4, 6, 8, and 10  
+ 
+0.00%  
+ 
+INCOME TAXES  
+   
+12 Total Income Taxes  Attach H-XX, p 3, line 44 col 5  -  
+13 Annual Allocation Factor for Income Taxes  (line 12 divided by line 2, col 3)  0.00%  0.00%  
+ 
+RETURN  
+   
+14 Return on Rate Base  Attach H-XX, p 3, line 46 col 5  -  
+15 Annual Allocation Factor for Return on Rate Base  (line 14 divided by line 2, col 3)  0.00%  0.00%  
+16 Annual Allocation Factor for Return  Sum of lines 13 and 15   0.00%  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 7 
+ 
+ 
+Attachment 1  
+Project Revenue Requirement Worksheet 
+Mid-Atlantic Offshore Development, LLC  
+Page 2 of 3 
+For the 12 months ended mm/dd/yyyy  
+ 
+This worksheet is used to compute project specific revenue requirements for any projects for which such calculation is required by PJM. Other projects which comprise the remaining revenue requirement on Attachment H-35 will 
+not be entered on this  schedule.  
+Any hypothetical amounts or project names in a filed template will be removed and replaced with actual amounts in the first year actual values are available without the need for a section 205 filing to modify the template.  
+ 
+ 
+(1) (2) (3) (4) (5) (6) (7) (8) 
+ 
+ 
+Line 
+No. 
+ 
+ 
+ 
+Project Name  
+ 
+ 
+ 
+PJM Category  
+ 
+RTEP Project  
+Number Or Other 
+Identifier  
+ 
+ 
+ 
+Project Gross Plant  
+  
+Annual Allocation  
+Factor for 
+Expense  
+ 
+ 
+ 
+Annual Expense Charge  
+ 
+ 
+Project Net Plant or 
+CWIP balance  
+Annual 
+Allocation 
+Factor for  
+Return  
+ 
+ 
+Annual Return 
+Charge  
+    
+(Note D)  
+ 
+(Page 1, line 11)  (Col. 3 * Col. 4)  (Note E)  (Page 1, line 16)  (Col. 6 * Col. 7)  
+     
+1a Project A  Schedule 12  AAAA   - 0.00%  - $ - 0.00%  - 
+1b Project B   BBBB   - 0.00%  - $ - 0.00%  - 
+2 Total Schedule 12     -  - $ -  - 
+3a Project C   CCCC   - 0.00%  - $ - 0.00%  - 
+3b Project D   DDDD   - 0.00%  - $ - 0.00%  - 
+4 Total Zonal     -  - $ -  - 
+5  Other  
+   
+- 0.00%  - $ - 0.00%  - 
+6 Annual Totals     -  - -  - 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 8 
+ 
+ 
+ 
+Attachment 1  
+Project Revenue Requirement Worksheet 
+Mid-Atlantic Offshore Development, LLC  
+ 
+Page 3 of 3 
+For the 12 months ended mm/dd/yyyy  
+ 
+ 
+(9) (10) (11) (12) (13) (14) 
+ 
+Line 
+No. 
+Project  
+Depreciation/Amortization 
+Expense  
+ 
+Annual Revenue 
+Requirement  
+ 
+Incentive Return in 
+Basis Points  
+ 
+Total Annual Revenue 
+Requirement  
+ 
+True-Up 
+Adjustment  
+ 
+ 
+Net Revenue Requirement  
+ 
+ 
+(Note F)  
+(Sum Col. 5 + Col. 9  
++ (Column 6 * Line 
+16)) 
+ 
+ 
+(Note G)  
+ 
+ 
+(Sum Col. 10)  
+ 
+ 
+(Note I)  
+ 
+ 
+(Sum Col. 12 & 13)  
+       
+1a - -  50 - - - 
+1b - - -   - - 
+2 - - 50 - - - 
+3a - - - - - - 
+3b - - - - - - 
+4 - -  - - - 
+5 - - - - - - 
+       
+6 - - 50 - - - 
+ 
+ 
+Notes 
+ 
+A Gross Transmission Plant is that identified on page 2 line 2 of Attachment H-XX inclusive of any CWIP or unamortized abandoned plant included in rate base when authorized by FERC  order. 
+B Net Plant is that identified on page 2 line 14 of Attachment H-XX inclusive of any CWIP or unamortized Abandoned Plant included in rate base when authorized by FERC order less any prefunded AFUDC, if applicable.  
+C General and Intangible Depreciation and Amortization Expense includes all expense not directly associated with a project, which is entered on page 3, column  9. 
+D Project Gross Plant is the total capital investment including CWIP for the project calculated from Company books and records in the same method as the gross plant value in line 1. This value includes subsequent capital investments 
+required to maintain the facilities to their original  capabilities.  
+E Project Net Plant is the Project Gross Plant Identified in Column 3 less the associated Accumulated Depreciation plus CWIP in rate base if  applicable and Unamortized Abandoned Plant.  
+F Project Depreciation Expense is the actual value booked for the project (excluding General and Intangible depreciation) at Attachment H-XXA, page 3, line 16, plus amortization of Abandoned Plant at Attachment H-XXA, page   3, 
+line 19. 
+G The Annual Return Charge on Page 2, column 2 the 50 basis point ROE adder for RTO participation granted Mid-Atlantic Offshore Development, LLC, 186 FERC ¶ 61,116, P 48 (2024).  
+H Reserved  
+I True-Up Adjustment is calculated on the Project True-up Schedule for the relevant true-up  year. 
+J For each project listed on this Attachment 1 that is a Required Transmission Enhancement, the net revenue requirement shown in Column (16) is: (i) the annual transmission revenue requirement for purposes of determining the PJM 
+OATT Schedule 12 Transmission Enhancement Charges associated with that Required Transmission Enhancement, and (ii) the Annual Revenue Requirement for purposes of Schedule 12, Appendix A for that Required Transmission  
+Enhancement.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 9 
+ 
+ 
+Attachment 2 
+Formula Rate True-Up 
+Mid-Atlantic Offshore Development, LLC 
+Page 1 of 1 
+For the 12 months ended mm/dd/yyyy 
+ 
+This Attachment is used to calculate the annual formula rate true-up. Any projects for which the RTO requires a true-up on an individual project basis, as shown on Attachment 1, will be computed separately. The remainder of the revenue requirement will also be       
+trued up. The utility will individually enter the projected true-up year revenue requirements in Column C. A percentage of total will be calculated in Column D. Actual revenue received during the true-up year is entered into Column E, line 2 and allocated using the 
+Column D percentage. The utility will prepare this formula rate template with the actual inputs for the true-up year, with the resulting revenue requirement for each line being separately entered in Column F.   In Col. G, Col. F is subtracted from Col. E to calculate         
+the true-up adjustment. Interest on the true-up is computed in Column H. Any adjustments to prior period true-ups are entered in Col. I. Col. J computes the total true-up as the sum of Col. G, H and I. 
+ 
+Any hypothetical amounts or project names in a filed template will be removed and replaced with actual amounts in the first year actual values are available without the need for a section 205 filing to modify the template. 
+ 
+ 
+ 
+Line 
+1 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+4a 
+4b 
+5 
+6a 
+6b 
+7 
+8 
+ 
+ 
+9 Total Annual Revenue Requirements - 0.0% - - - - - - 
+ 
+10 
+   
+Total Interest on True-Up - Attachment 6 
+ 
+- 
+ 
+ 
+Prior Period Adjustment 
+ 
+ 
+ 
+11 
+ 
+Notes 
+1) 
+2) 
+3) 
+4) 
+ 
+5) 
+ 
+The revenue received is the total amount of revenue distributed to company in the year as shown on pages 328-330 of the Form No 1. The Revenue Received is input on line 2, Col. E.  
+From the Attachment 1, lines 1a through 6, col. 16 from the template in which the true-up year revenue requirement was initially projected. 
+From True-Up revenue requirement template Attachment 1, lines 1a through 6, col. 14. 
+Interest due on the true up is calculated for the 24 month period from the start of the true-up year until the end of the year following the true-up year when the true up will be included in rates. Total True up Interest calculated on Attachment 5 and allocated to 
+projects based on the percentage in Column D. 
+Corrections to true-ups for previous rate years including interest will be computed and entered on the appropriate line 3-8 above. 
+True-Up Year
+Projected True-Up Year Revenue 
+Requirement Calculation
+True-Up Year 
+Revenue Received1
+Actual True-Up Year 
+Revenue Req. Annual True-Up Calculation
+YYYY
+C D
+-
+F G H I JA B E
+Project Name PJM Category
+Project # Or Other 
+Identifier
+Net Revenue 
+Requirement2
+% of Total 
+Revenue 
+Requirement
+Allocation of 
+Revenue Received 
+(E, Line 2) x (D)
+True-Up Net Revenue 
+Requirement3
+Net Under/(Over) 
+Collection (F)-(E)
+True-Up Interest 
+Income  (Expense)4
+(D) x (H, line 10)
+Prior Period 
+Adjustment with
+Interest5
+Total True-Up 
+(G) + (H) + (I)
+Remaining Attachment H-XX - - - - - - - - -
+Project A
+Project B
+Schedule 12
+-
+AAAA
+BBBB
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total Schedule 12 - - - - - -
+Project C - CCCC - - - - - - - -
+Project D - DDDD - - - - - - - -
+Total Zonal - - - - - -
+Other - - - - - - - - -
+A B
+Prior Period Adjustment (Note 5) Source Adjustment Amount
+Description of Adjustment -
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 10 
+Attachment 3    Page 1 of 2  
+Rate Base Worksheet     
+ 
+Mid-Atlantic Offshore Development, LLC     
+  
+Gross Plant In Service  
+ 
+CWIP  
+ 
+PHFFU  
+ 
+Working Capital  
+  
+Accumulated Depreciation  
+Line No Month  Transmission  General &  Intangible  CWIP in Rate Base  Plant Held for Future Use  Materials  & Supplies  Prepayments  Transmission  General &  Intangible  
+(a) (b) (c) (d) (e) (f) (g) (h) (i) 
+Attachment H, Page 2, Line No:  2 4 27 31 34 35 9 11 
+ 
+207.58.g  for end of year, records  for 205.5.g  & 207.99.g  for end of year, 214.x.d for end of year, records for 227.8.c & 227.16.c for end of year,  111.57.c for end of year, records for 219.25.c for end of year, records for 219.28.c & 200.21.c for end of  
+   other months  records for other months  (Note C)  other months  records for other months  other month  s other months  year, records for other months   
+1 December Prior Year    - - - - - - - - 
+2 January    - - - - - - - - 
+3 February    - - - - - - - - 
+4 March    - - - - - - - - 
+5 April   - - - - - - - - 
+6 May   - - - - - - - - 
+7 June   - - - - - - - - 
+8 July   - - - - - - - - 
+9 August    - - - - - - - - 
+10 September    - - - - - - - - 
+11 October    - - - - - - - - 
+12 November    - - - - - - - - 
+13 December    - - - - - - - - 
+14  Average of the 13 Monthly Balances   - - - - - - - - 
+ 
+Adjustments to Rate Base  
+ 
+ 
+ 
+ 
+ 
+Line No Month  Unamortized Regulatory Asset  Unamortized Abandoned Plant  
+ 
+ 
+Account No. 281 
+Accumulated  Deferred  Income 
+Taxes (Note D)  
+ 
+ 
+Account No. 282 
+Accumulated  Deferred  Income 
+Taxes (Note D)  
+ 
+ 
+Account No. 283 
+Accumulated  Deferred  Income 
+Taxes (Note D)  
+ 
+ 
+Account No. 190 
+Accumulated  Deferred  Income 
+Taxes (Note D)  
+ 
+ 
+Account No. 255 
+Accumulated Deferred 
+Investment  Credit  
+(a) (b) (c) (d) (e) (f) (g) (h) 
+Attachment H, Page 2,  Line No: 28 29 22 23 24 25 26 
+Notes A  & E Notes B  & F 272.8.b  & 273.8.k  274.2.b  & 275.2.k  276.9.b  & 277.9.k  234.8.b  & c Consistent  with 266.8.b  & 267.8.h  
+15      December  Prior Year - - - - - - - 
+16      January  - - 
+17      February  - - 
+18      March  - - 
+19      April - - 
+20      May - - 
+21      June - - 
+22      July - - 
+23      August  - - 
+24      September  - - 
+25      October  - - 
+26      November  - - 
+27      December  - - - - - - - 
+28 Average of the 13  Monthly  Balances  - - - - - - - 
+ 
+$0.00 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT Attachment H-35A - MAOD 
+Effective Date: 9/21/2024 - Docket #: ER24-2564-000 - Page 11 
+Attachment 4 
+Rate Base Worksheet  
+Mid-Atlantic Offshore Development, LLC  
+Unfunded Reserves (Notes G & H)  
+(a) (b) (c) (d) (e) (f) (g) (h) Page 2 of  2 
+ 
+ Enter 1 if NOT in a trust or  
+reserved account, enter zero (0) if 
+included in a trust or reserved  
+Enter 1 if the accrual account is 
+included in the formula rate,  enter 
+(0) if the accrual  account  is NOT 
+ 
+ 
+Enter the percentage paid for by the  
+ 
+ 
+Allocation (Plant or Labor  
+ 
+ 
+Amount Allocated, col. c x col. d x  
+29 List of all reserves:  Amount account  included in the formula rate  transmission formula customers  Allocator)  col. e x col. f x col. g  
+30a 
+30b 
+30c 
+30d 
+30e 
+30f 
+Reserve  1 - - 
+Reserve  2 - - 
+Reserve  3 
+Reserve  4 
+… 
+… - - 
+- 
+- 
+ 
+ 
+ 
+- 
+31 Total - - 
+ 
+ 
+Notes:  
+A Recovery of regulatory asset is limited to any regulatory assets authorized by FERC.  
+B Recovery of abandoned plant is limited to any abandoned plant recovery authorized by FERC.  
+C Includes only CWIP authorized by the Commission for inclusion in rate  base. 
+D ADIT and Accumulated Deferred  Income  Tax Credits  are computed  using the average  of the beginning  of the year and the  end of  the year balances.  
+E Recovery  of a Regulatory  Asset is permitted  only for pre-commercial  and formation  expenses,  and is subject  to FERC approval  before  the amortization  of the Regulatory  Asset can be included  in rates. Recovery  of any other regulatory  assets requires  authorization  from the Commission.  A carrying  charge  will be applied  to the Regulatory  Asset prior to the rate year when costs are first  
+recovered.  
+F Unamortized Abandoned  Plant and  Amortization of  Abandoned  Plant will  be zero until the  Commission  accepts  or approves  recovery  of the cost of abandoned plant.  

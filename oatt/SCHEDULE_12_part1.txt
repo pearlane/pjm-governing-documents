@@ -1,0 +1,1334 @@
+[SCHEDULE 12 - Part 1 of 18]
+
+SCHEDULE 12 
+Transmission Enhancement Charges 
+ 
+(a) Establishment of Transmission Enhancement Charges.   
+ 
+ (i) Establishment of Transmission Enhancement Charges by Transmission 
+Owners and Entities That Will Become Transmission Owners.  One or more of the 
+Transmission Owners may be designated to construct and own and/or finance Required 
+Transmission Enhancements by (1) the Regional Transmission Expansion Plan periodically 
+developed pursuant to Operating Agreement, Schedule 6 or (2) any joint planning or 
+coordination agreement between PJM and another region or transmission planning authority set 
+forth in Tariff, Schedule 12-Appendix B (“Appendix B Agreement”) (collectively, for purposes 
+of this Schedule 12 only, “Regional Transmission Expansion Plan”).  Operating Agreement, 
+Schedule 6, section 1.7 recognizes that Transmission Owners, subject to obtaining any necessary 
+regulatory approvals, may seek to recover the costs of Required Transmission Enhancements and 
+obligates PJMSettlement to collect on behalf of Transmission Owner(s) any charges established 
+by Transmission Owners to recover the costs of Required Transmission Enhancements.  If a 
+Transmission Owner is designated by the Regional Transmission Expansion Plan to construct 
+and own and/or finance a Required Transmission Enhancement, such Transmission Owner may 
+choose any of the following cost recovery mechanisms, subject to the crediting procedures set 
+forth in section (e) below:  
+ 
+(1) Decline to seek to recover the costs of Required Transmission Enhancements 
+from customers until such time as it makes a filing pursuant to Section 205 of the Federal 
+Power Act to revise its Network Integration Transmission Service rates; 
+ 
+(2)  Make a filing pursuant Section 205 of the Federal Power Act and the FERC’s 
+rules and regulations to establish the revenue requirement with respect to a Required 
+Transmission Enhancement, without filing to revise its rates for Network Integration 
+Transmission Service generally; or 
+ 
+(3)  Establish the revenue requirement with respect to a Required Transmission 
+Enhancement through the operation of a formula rate in effect applicable to its rates for 
+Network Integration Transmission Service. 
+ 
+A charge established to recover the revenue requirement with respect to a Required Transmission 
+Enhancement is hereafter referred to as a “Transmission Enhancement Charge.”  Transmission 
+Enhancement Charges of one or more Transmission Owners for Required Transmission 
+Enhancements shall be established in accordance with this Schedule 12.    
+ 
+ (ii) Establishment of Transmission Enhancement Charges With Respect to 
+Required Transmission Enhancements Constructed by Entities in Another Region. The 
+revenue requirement with respect to a Required Transmission Enhancement constructed pursuant 
+to an Appendix B Agreement in another region by an entity designated by such other region shall 
+be governed by the tariffs or agreements in effect in such region. Transmission Enhancement 
+Charges to recover the costs of such Required Transmission Enhancement for which PJM is 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 2 
+responsible shall be determined in accordance with this Schedule 12.  Other than with respect to 
+a Required Transmission Enhancement constructed pursuant to an Appendix B Agreement, no 
+PJM Network or Transmission Customer will bear cost responsibility for any required 
+transmission upgrades in another region as a consequence of a Required Transmission 
+Enhancement included in the Regional Transmission Expansion Plan.   
+ 
+ (iii) Transmission Facilities Not Eligible for Cost Responsibility Assignment.  Any 
+alternating current (“A.C.”) facilities or direct current (“D.C.”) facilities that are Attachment 
+Facilities, Local Upgrades, Merchant Network Upgrades, Merchant Transmission Facilities, 
+Network Upgrades, Supplemental Projects, or any other Transmission Facilities that operate or 
+are planned to be operated in a manner that requires customers to subscribe to transmission 
+service over such facilities or to a portion of the electric capability of such facilities shall not be 
+eligible for cost responsibility assignment pursuant to this Schedule 12.   
+ 
+ (iv) Entities Not Yet Eligible to Become Transmission Owners.  For purposes of 
+this Schedule 12 only, the term, “Transmission Owner,” shall include any entity that undertakes 
+to construct and own and/or finance a Required Transmission Enhancement pursuant to a 
+designation in the Regional Transmission Expansion Plan to construct and own and/or finance 
+such Required Transmission Enhancement, even if such entity is not yet eligible to become a 
+party to the Consolidated Transmission Owners Agreement.  Nothing in the PJM Tariff nor the 
+Consolidated Transmission Owners Agreement shall prevent an entity that undertakes to 
+construct and own and/or finance a Required Transmission Enhancement pursuant to a 
+designation in the Regional Transmission Expansion Plan to construct and own and/or finance 
+such Required Transmission Enhancement from recovering the costs of such Required 
+Transmission Enhancement through this Schedule 12. 
+ 
+ (v) Effective Date.  The assignment of cost responsibility or classification of 
+Required Transmission Enhancements either (1) made by the Transmission Provider prior to 
+February 1, 2013, or (2) applicable to Required Transmission Enhancements approved by the 
+PJM Board pursuant to Operating Agreement, section 1.6 prior to February 1, 2013 are set forth 
+in Tariff, Schedule 12-Appendix.  Except as specifically set forth herein, nothing in this 
+Schedule 12 shall change the assignment of cost responsibility or classification of Required 
+Transmission Enhancements included in Tariff, Schedule 12-Appendix.  The assignment of cost 
+responsibility or classification of all other Required Transmission Enhancements shall be set 
+forth in Tariff, Schedule 12-Appendix A.  
+ 
+ 
+(b) Designation of Customers Subject to Transmission Enhancement Charges.   
+ 
+ (i) Regional Facilities and Necessary Lower Voltage Facilities.  Transmission 
+Provider shall assign cost responsibility on a region-wide basis for Required Transmission 
+Enhancements included in the Regional Transmission Expansion Plan that (1) (a) are A.C. 
+facilities that operate at or above 500 kV; (b) constitute a single Required Transmission 
+Enhancement comprising two A.C. circuits operating at or above 345 kV and below 500 kV, 
+where both circuits originate from a single substation or switching station at one end and 
+terminate at a single substation or switching station at the other end, regardless of whether or not 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 3 
+the two circuits are routed in the same right-of-way (“Double-circuit 345 kV Required 
+Transmission Enhancement”); (c) are A.C. or D.C. shunt reactive resources (such as capacitors, 
+static var compensators, static synchronous condenser (STATCON), synchronous condensers, 
+inductors, other shunt devices, or their equivalent) connected to a Transmission Facility 
+described in clause (a) or (b) of this subsection, or (d) are D.C. facilities meeting the criteria set 
+forth in subsection (b)(i)(D) (collectively, “Regional Facilities”), or (2) new A.C. Transmission 
+Facilities or expansions or enhancements to existing Transmission Facilities that operate below 
+500 kV (or 345 kV in the case of a Regional Facility described in clause (1)(b) of this 
+subsection) or new D.C. Transmission Facilities that do not meet the criteria of subsection 
+(b)(i)(D) that must be constructed or strengthened to support new Regional Facilities, based on 
+the planning criteria used by the Transmission Provider in developing the applicable Regional 
+Transmission Expansion Plan (“Necessary Lower Voltage Facilities”) as follows:  
+ 
+  (A) Cost responsibility for Regional Facilities and Necessary Lower Voltage 
+Facilities shall be allocated among Responsible Customers as defined in this Schedule 12 as 
+follows: 
+ 
+   (1) Fifty percent (50%) shall be assigned annually on a load-ratio 
+share basis as follows: 
+    (a) With respect to each Zone, using, consistent with Tariff, 
+Part III, section 34.1, the applicable zonal loads at the time of such Zone’s annual peak load from 
+the 12-month period ending October 31 preceding the calendar year for which the annual cost 
+responsibility allocation is determined; and 
+    (b) With respect to Merchant Transmission Facilities, (1) for 
+the calendar year following the year in which it initiates operation, the actually awarded Firm 
+Transmission Withdrawal Rights associated with its existing Merchant Transmission Facility; 
+and (2) for all subsequent calendar years, the annual peak load of the Merchant Transmission 
+Facility (not to exceed its actual Firm Transmission Withdrawal Rights) from the 12-month 
+period ending October 31 of the calendar year preceding the calendar year for which the annual 
+cost responsibility allocation is determined. 
+(2) Fifty percent (50%) shall be assigned as follows: 
+    (a) In the case of a Required Transmission Enhancement 
+included in the Regional Transmission Expansion Plan to address one or more reliability 
+violations or to address operational adequacy and performance issues (collectively, “Reliability 
+Project”), in accordance with the distribution factor (“DFAX”) analysis described in subsection 
+(b)(iii) or the analysis applicable to Regional Facilities that address stability issues described in 
+subsection (b)(xviii) of this Schedule 12 as applicable; and 
+    (b) In the case of a Required Transmission Enhancement 
+included in the Regional Transmission Expansion Plan to relieve one or more economic 
+constraints as described in Operating Agreement, Schedule 6, section 1.5.7(b)(iii) (“Economic 
+Project”), in accordance with the methodology described in subsection (b)(v) of this Schedule 
+12. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 4 
+  (B) (1) Except for transformers that are an integral component of a Regional 
+Facility, transformers connected to Lower Voltage Facilities, as defined in section (b)(ii) of this 
+Schedule 12, shall not be considered Regional Facilities or Necessary Lower Voltage Facilities; 
+and (2) Transmission Facilities that are not Regional Facilities and deliver energy from a 
+Regional Facility to load shall not be considered Necessary Lower Voltage Facilities. 
+  
+  (C) With respect Required Transmission Enhancements that qualify as 
+Regional Facilities under subsection (b)(i)(1)(b) or subsection (b)(i)(D)(2) of this Schedule 12: 
+ 
+   (1) where the Required Transmission Enhancement includes both new 
+Transmission Facilities and pre-existing Transmission Facilities, cost responsibility under this 
+section (b)(i) shall apply only to the cost of the new Transmission Facilities plus the original cost 
+less accumulated depreciation of pre-existing Transmission Facilities that are included in Tariff, 
+Schedule 12-Appendix or Tariff, Schedule 12-Appendix A; 
+   (2) cost responsibility shall be assigned under this section (b)(i) only 
+after the Required Transmission Enhancement goes into service as a Double-circuit 345 kV 
+Required Transmission Enhancement or a Double-circuit D.C. Required Transmission 
+Enhancement; and  
+   (3) cost responsibility shall be assigned under this section (b)(i) for 
+any CWIP permitted to be recovered before the Required Transmission Enhancement goes into 
+service only after such Transmission Facilities are approved in a Regional Transmission 
+Expansion Plan as a Double-circuit 345 kV Required Transmission Enhancement or a Double-
+circuit D.C. Required Transmission Enhancement. 
+  (D) A Required Transmission Enhancement included in the Regional 
+Transmission Expansion Plan that is a D.C. facility, consisting of D.C. lines (i.e., wires or 
+cables) and A.C./D.C. converters, shall be a Regional Facility only if:  
+   (1)  such D.C. facility comprises two poles and operates at a voltage of 
+±433 kV D.C. or above; or 
+   (2) such D.C. Facility constitutes a single Required Transmission 
+Enhancement comprising two D.C. circuits where (i) both circuits originate from a single 
+substation or switching station at one end and terminate at a single substation or switching 
+station at the other end, regardless of whether or not both circuits are routed in the same right-of-
+way, and (ii) each such circuit consists of two poles and operates at a voltage of ±298 kV D.C or 
+above (“Double-circuit D.C. Required Transmission Enhancement”). 
+ (ii) Lower Voltage Facilities.  Transmission Provider shall assign cost responsibility 
+for Required Transmission Enhancements that (a) are not Regional Facilities; and (b) are not 
+“Necessary Lower Voltage Facilities” as defined in section(b)(i) of this Schedule 12 (collectively 
+“Lower Voltage Facilities”), as follows: 
+ 
+  (A) If the Lower Voltage Facility is a Reliability Project,  Transmission 
+Provider shall use the DFAX analysis described in subsection (b)(iii) or the analysis applicable to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 5 
+Regional Facilities that address stability issues described in subsection (b)(xviii) of this Schedule 
+12 as applicable; and 
+  (B) If the Lower Voltage Facility is an Economic Project, Transmission 
+Provider shall use the methodology described in subsection (b)(v) of this Schedule 12. 
+ 
+ (iii) DFAX Analysis for Reliability Projects.   
+(A)  For purposes of the assignment of cost responsibility for Reliability Projects 
+under subsection (b)(i)(A)(2)(a) and subsection (b)(ii)(A) of this Schedule 12, the Transmission 
+Provider, based on a computer model of the electric network and using power flow modeling 
+software, shall calculate distribution factors, represented as decimal values or percentages, which 
+express the portions of a transfer of energy from a defined source to a defined sink that will flow 
+across a particular transmission facility or group of transmission facilities.  These distribution 
+factors represent a measure of the use by the load of each Zone or Merchant Transmission 
+Facility (collectively, “Responsible Zone”) of the Required Transmission Enhancement, as 
+determined by a power flow analysis.  In general, a distribution factor can be represented as: 
+ 
+Distribution Factor = (After-shift power flow – pre-shift power flow) / Total amount of power 
+shifted 
+ 
+Total amount of power shifted = Modeled incremental megawatt transfer to a given Load 
+Deliverability Area or Merchant Transmission Facility 
+ 
+Pre-shift power flow = Megawatt flow over the Required Transmission Enhancement  
+before the incremental megawatt transfer 
+ 
+After-shift power flow = Megawatt flow over the Required Transmission Enhancement 
+after the incremental megawatt transfer 
+ 
+When calculating such distribution factors: 
+ 
+   (1) All distribution factors are calculated with respect to the Required 
+Transmission Enhancement subject to cost allocation under subsection (b)(i)(A)(2)(a) and 
+subsection (b)(ii)(A) of this Schedule 12. 
+ 
+   (2) The calculation of distribution factors shall be determined using 
+linear matrix algebra, such that distribution factors represent the ratio of (i) a change in megawatt 
+flow on a Required Transmission Enhancement to (ii) a change in megawatts transferred to 
+aggregate load within a Zone or, in the case of a Merchant Transmission Facility, the point of 
+withdrawal associated with Firm Transmission Withdrawal Rights over such Merchant 
+Transmission Facility. 
+ 
+   (3) With respect to a Merchant Transmission Facility, zonal peak load 
+shall mean (i) the existing Firm Transmission Withdrawal Rights of the Merchant Transmission 
+Facility being evaluated, if the Merchant Transmission Facility is in service, or (ii) for a 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 6 
+Merchant Transmission Facility that is not yet in service, the planned Firm Transmission 
+Withdrawal Rights of the Merchant Transmission Facility being evaluated as identified in the 
+Interconnection Service Agreement in effect for such Merchant Transmission Facility.  
+ 
+   (4) In the DFAX analysis, when Transmission Provider models a 
+transfer from generation to all load within an individual Zone, Transmission Provider shall 
+model the transfer to the Zone as a whole (not on a bus-by-bus basis).   
+ 
+   (5) In the DFAX analysis, Transmission Provider shall model 
+generation both external and internal to individual Responsible Zones to reflect (a) the 
+boundaries of Locational Deliverability Areas (“LDAs”), and (b) limitations with respect to the 
+reliability objective for moving generation capacity across the transmission system.  
+Transmission Provider shall adopt the Capacity Emergency Transfer Objective (“CETO”), 
+associated with that LDA and calculated for the applicable planning year to be the transfer 
+limitation into the LDA.  In modeling the system generation and load, Transmission Provider 
+shall assume that the percentage of the zonal load in the LDA served by external (or internal) 
+generation to the LDA shall equal the ratio of (i) the CETO associated within that LDA (or 
+generation internal with the LDA) to (ii) the sum of (a) the internal generation within the LDA 
+and (b) the CETO associated with that LDA.  For the generation dispatch used in calculating the 
+distribution factor, Transmission Provider shall distribute these amounts of external/internal 
+generation among all generation in the PJM Region external to/internal within the LDA, 
+respectively, in proportion to their capacity.  For Responsible Zones that are located within 
+LDAs that are also entirely contained in other larger LDAs, the modeling approach and 
+distribution factor calculations shall be repeated for such Responsible Zones for each LDA.  The 
+lowest distribution factor derived from these calculations shall be applied to the Responsible 
+Zone in the calculation of the use of the Required Transmission Enhancement.   
+ 
+   (6) Except as provided in this subsection, no cost responsibility shall 
+be assigned to a Responsible Zone unless the magnitude of the distribution factor is greater than 
+or equal to 0.01, and any distribution factor of a smaller magnitude shall be set equal to zero.  
+This rule shall not apply to the Zone(s) in which the Required Transmission Enhancement is 
+located, which shall be assigned cost responsibility based on its distribution factor, regardless of 
+the magnitude.   
+ 
+  (B)  The DFAX analysis will be performed in accordance with the following 
+steps: 
+ 
+   (1) Transmission Provider shall calculate a distribution factor and a 
+direction of use for each Responsible Zone by modeling a transfer from all generation in the PJM 
+Region to each Responsible Zone.  To establish the use by a Responsible Zone, in megawatts, of 
+a Required Transmission Enhancement, the distribution factor of a Required Transmission 
+Enhancement associated with the resulting transfer modeled by the Transmission Provider to 
+each Responsible Zone shall be multiplied by the Responsible Zone’s peak load. 
+ 
+   (2) The Transmission Provider shall separately determine the relative 
+use of the Required Transmission Enhancement by each Responsible Zone in each direction by 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 7 
+dividing the megawatts of use by each Responsible Zone determined in section (iii)(B)(1) above 
+by the total use of all Responsible Zones using the Required Transmission Enhancement in the 
+same direction of use. 
+ 
+   (3)  Transmission Provider shall determine the direction of use 
+percentage of the Required Transmission Enhancement in each direction using a production cost 
+analysis to determine the total use, in megawatt-hours, of the Required Transmission 
+Enhancement by all Zones and Merchant Transmission Facilities in each direction over the 
+course of a year.  The Transmission Provider shall calculate the percentage use in each direction 
+by dividing the megawatt-hours of use in each direction by total use in megawatt-hours in both 
+directions of use. 
+ 
+   (4) The Transmission Provider shall multiply the relative use by each 
+Responsible Zone of the Required Transmission Enhancement in each direction of use 
+determined in section (iii)(B)(2) above, by the applicable direction of use percentage determined 
+in section (iii)(B)(3) above.  
+ 
+   (5) The products of the calculation performed in section (iii)(B)(4) 
+above, shall determine the relative allocation to each Responsible Zone of cost responsibility for 
+the Required Transmission Enhancement. 
+ 
+  (C) In the DFAX analysis, the Zones of Public Service Electric and Gas 
+Company and Rockland Electric Company will be treated as one Zone unless and until Rockland 
+Electric Company elects to be treated as a separate Zone in accordance with the terms of the 
+Settlement Agreement And Offer Of Partial Settlement approved by FERC in Docket Nos. 
+ER06-456-000, et al. 
+ 
+  (D) Transmission Provider shall round cost responsibility assignments 
+determined using the DFAX analysis described in subsection (b)(iii) of this Schedule 12 to the 
+nearest one-hundredth of one percent. 
+ 
+  (E) Transmission Provider shall not account for the ability to adjust use of 
+phase angle regulators (“PARs”) in the DFAX analysis described in subsection (b)(iii) of this 
+Schedule 12.  In the DFAX analysis, all PAR angles shall be fixed at their base case settings.  
+ 
+  (F) In the DFAX analysis, if the Required Transmission Enhancement is a 
+D.C. facility, the Transmission Provider shall determine cost responsibility assignment as 
+follows: 
+ 
+   (1) The Required Transmission Enhancement shall be replaced in the 
+model with a comparable proxy A.C. facility, the impedance of which shall be calculated based 
+on the length of the D.C. facility that was removed from the model multiplied by an approximate 
+per unit/mile impedance value for the proxy A.C. facility. 
+ 
+   (2) Where a D.C. facility is an integral part of a Required 
+Transmission Enhancement that also includes A.C. facilities, the methodology described in 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 8 
+subsection (b)(iii)(F)(1) above shall be used only for the D.C. facility segment of such Required 
+Transmission Enhancement. 
+ 
+   (3) A D.C. facility used to control flow over portions of the 
+Transmission System shall be modeled with a zero impedance and no control shall be applied. 
+ 
+  (G) If Transmission Provider determines in its reasonable engineering judgment 
+that, as a result of applying the provisions in section (b)(iii) of this Schedule 12, the DFAX 
+analysis cannot be performed or that the results of such DFAX analysis are objectively 
+unreasonable, the Transmission Provider may use an appropriate substitute proxy for the 
+Required Transmission Enhancement in conducting the DFAX analysis.  If a proxy is used that is 
+not specified in this Schedule 12, Transmission Provider shall state in a written report (a) the 
+reasons why it determined the DFAX analysis could not be performed or that the results of the 
+DFAX analysis were objectively unreasonable; (b) why the substitute proxy produced 
+objectively reasonable results; and (3) a recommendation as to what changes, if any, should be 
+considered in conducting the DFAX analysis. 
+   
+  (H) The Transmission Provider shall make a preliminary cost responsibility 
+determination for each Required Transmission Enhancement subject to section (b)(iii) of this 
+Schedule 12 at the time such Required Transmission Enhancement is included in the Regional 
+Transmission Expansion Plan.   
+ 
+   (1)  When CWIP in connection with a Required Transmission 
+Enhancement subject to this section (b)(iii) of this Schedule 12 is entitled to be recovered, the 
+preliminary determination of cost responsibility made at the time that the Required Transmission 
+Enhancement was included in the Regional Transmission Expansion Plan shall be used to assign 
+cost responsibility for such CWIP and such cost responsibility shall remain unchanged until the 
+date the Required Transmission Enhancement goes into service.  Once a Required Transmission 
+Enhancement has gone into service, the updated cost responsibility determination provided for in 
+subsection (b)(iii)(H)(2) below shall apply. 
+ 
+   (2) Beginning with the calendar year in which a Required 
+Transmission Enhancement is scheduled to enter service, and thereafter annually at the 
+beginning of each calendar year, the Transmission Provider shall update the preliminary cost 
+responsibility determination for each Required Transmission Enhancement using the values and 
+inputs used in the base case of the most recent Regional Transmission Expansion Plan approved 
+by the PJM Board prior to the date of the update.  All values and inputs used in the calculation of 
+the distribution factor in a determination of cost responsibility shall be the same values and 
+inputs as used in the base case of the most recent Regional Transmission Expansion Plan 
+approved by the PJM Board prior to the determination of cost responsibility.   
+ 
+ (iv) Spare Parts, Replacement Equipment And Circuit Breakers.  Transmission 
+Provider shall assign cost responsibility for spare parts, replacement equipment, and circuit 
+breakers and associated equipment, included in the Regional Transmission Expansion Plan as 
+follows: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 9 
+  (A)  Spare parts that are part of the design specifications of a Required 
+Transmission Enhancement at the time such Required Transmission Enhancement is first 
+included in the Regional Transmission Expansion Plan shall be considered part of the Required 
+Transmission Enhancement for the purpose of applying the cost threshold described in 
+subsection (b)(vi) of this Schedule 12 and cost responsibility for such spare parts shall be 
+assigned in the same manner as the Required Transmission Enhancement.  Cost responsibility for 
+spare parts independently included the Regional Transmission Expansion Plan and not a part of 
+the design specifications of a Required Transmission Enhancement as described above in this 
+subsection shall be assigned to the Zone of the owner of the spare part, if the owner of the spare 
+part is a Transmission Owner listed in Tariff, Attachment J.  If the owner of the spare part is not 
+a Transmission Owner listed in Tariff, Attachment J, cost responsibility shall be assigned on a 
+pro rata basis to the zones that bear cost responsibility for the owner’s Required Transmission 
+Enhancements. 
+ 
+  (B)  Replacement equipment that is part of the design specifications of a 
+Required Transmission Enhancement at the time the Required Transmission Enhancement is first 
+included in the Regional Transmission Expansion Plan shall be considered part of the Required 
+Transmission Enhancement for the purpose of applying the cost threshold described in section 
+(b)(vi) of this Schedule 12 and cost responsibility for such replacement equipment shall be 
+assigned in the same manner as the Required Transmission Enhancement.  Cost responsibility for 
+Required Transmission Enhancement replacement equipment independently included in the 
+Regional Transmission Expansion Plan and not a part of the design specifications of a Required 
+Transmission Enhancement as described above in this subsection, shall be assigned to the same 
+Zones and/or Merchant Transmission Facilities and in the same proportions as the then-existing 
+assignments of cost responsibility for the facilities that the replacement equipment is replacing. 
+ 
+  (C)  Circuit breakers and associated equipment that are part of the design 
+specifications of a Required Transmission Enhancement at the time the Required Transmission 
+Enhancement is first included in the Regional Transmission Expansion Plan shall be considered 
+part of the Required Transmission Enhancement for the purpose of applying the cost threshold 
+described in subsection (b)(vi) of this Schedule 12 and cost responsibility for such circuit 
+breakers and associated equipment shall be assigned in the same manner as the Required 
+Transmission Enhancement.  Cost responsibility for circuit breakers and associated equipment 
+independently included in the Regional Transmission Expansion Plan and not a part of the design 
+specifications of a transmission element of a  Required Transmission Enhancement as described 
+above in this subsection, shall be assigned to the Zone of the owner of the circuit breaker and 
+associated equipment if the owner of the circuit breaker is a Transmission Owner listed in Tariff, 
+Attachment J.  If the owner of the circuit breaker is not a Transmission Owner listed in Tariff, 
+Attachment J, cost responsibility shall be assigned on a pro rata basis to the zones that bear cost 
+responsibility for the owner’s Required Transmission Enhancements.  
+ 
+ (v) Economic Projects.  Transmission Provider shall assign (i) fifty percent (50%) of 
+cost responsibility for Economic Projects that are Regional Facilities; and (ii) full cost 
+responsibility for Economic Projects that are Lower Voltage Facilities; as follows: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 10 
+  (A) Transmission Provider shall assign cost responsibility for Economic 
+Projects that are accelerations of Reliability Projects as described in Operating Agreement, 
+Schedule 6, section 1.5.7(b)(i) (“Acceleration Projects”) by performing and comparing (1) a 
+DFAX analysis consistent with the methodology described in subsection (b)(iii) of this Schedule 
+12, and (2) a methodology that is intended to act as a proxy for expected economic benefits from 
+reduced Locational Marginal Prices (“LMP Benefit”) over the period that the reliability-based 
+enhancement or expansion is to be accelerated (“LMP Benefits Methodology”).  The LMP 
+Benefits Methodology shall determine cost responsibility assignment percentages to Zones and 
+Merchant Transmission Facilities in the following manner.  The LMP Benefit to a Zone shall be 
+deemed to be equal to the reduction in Locational Marginal Price payments made by Load 
+Serving Entities as a result of the Acceleration Project assuming the customers purchase all 
+energy needs from the PJM Interchange Energy Market, and LMP Benefits so calculated shall be 
+converted into percentage cost responsibility assignments for the affected Zones.  The LMP 
+Benefits Methodology shall not incorporate the financial effects of allocations of Auction 
+Revenue Rights or Financial Transmission Rights.  The LMP Benefit to a Merchant 
+Transmission Facility shall be deemed to be equal to the proportionate share of assigned cost 
+responsibility using the DFAX analysis and the assignments of cost responsibility to other Zones 
+in the LMP Benefits Methodology shall be proportionately adjusted, as necessary, to reflect this 
+treatment of Merchant Transmission Facilities to ensure that the total allocation for any 
+economic-based Required Transmission Enhancement equals one hundred percent.  If, after 
+performing both analyses and comparing the percentage cost responsibility assignments for the 
+affected Zones calculated pursuant to the DFAX analysis and the LMP Benefits Methodology, 
+the results do not indicate at least a ten percentage point cost responsibility assignment 
+differential between the two methods for any Zone, cost responsibility for the Acceleration 
+Project shall be assigned using the DFAX analysis.  If, after performing both analyses and 
+comparing the percentage cost responsibility assignments for the affected Zones calculated 
+pursuant to the DFAX analysis and LMP Benefits Methodology, the results indicate at least a ten 
+percentage point cost responsibility assignment differential between the DFAX analysis and the 
+LMP Benefits Methodology for any Zone, cost responsibility for the Acceleration Project for the 
+period of time the Reliability Project is accelerated (i.e. the period between the date the 
+Reliability Project actually goes into service and the date the Reliability Project originally was 
+scheduled to go in service in the PJM Board approved Regional Transmission Expansion Plan) 
+shall be assigned using the LMP Benefits Methodology.  For all periods other than the period of 
+time the Reliability Project is accelerated, cost responsibility for such an Acceleration Project 
+shall be assigned in accordance with the provisions of this Schedule 12 governing the assignment 
+of cost responsibility of Regional Facility Reliability Projects or Lower Voltage Facility 
+Reliability Projects, as applicable.   
+ 
+  (B) Transmission Provider shall assign cost responsibility for Economic 
+Projects that are modifications to Reliability Projects as described in Operating Agreement, 
+Schedule 6, section 1.5.7(b)(ii) in accordance with the provisions of this Schedule 12 governing 
+the assignment of cost responsibility of Regional Facility Reliability Projects or Lower Voltage 
+Facility Reliability Projects, as applicable. 
+ 
+  (C) Transmission Provider shall assign cost responsibility for Economic 
+Projects that are new enhancements or expansions that could relieve one or more economic 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 11 
+constraints as described in Operating Agreement, Schedule 6, section 1.5.7(b)(iii) to the Zones 
+that show a decrease in the net present value of the Changes in Load Energy Payment.  The 
+Change in Load Energy Payment for each year shall be determined using the methodology set 
+forth in Operating Agreement, Schedule 6, section 1.5.7(d) for the period specified in that 
+section.  Cost responsibility shall be assigned based on each Zone’s pro rata share of the sum of 
+the net present values of the Changes in Load Energy Payment only of the Zones in which the 
+net present value of the Changes in Load Energy Payment shows a decrease. 
+ 
+(vi) Required Transmission Enhancements Costing Less Than $5 Million.   
+Notwithstanding sections (b)(i), (b)(ii), (b)(iv) and (b)(v) of this Schedule 12, cost responsibility 
+for a Required Transmission Enhancement for which the good faith estimate of the cost of the 
+Required Transmission Enhancement (a) prepared in connection with the development of the 
+Regional Transmission Expansion Plan and (b) provided to the PJM Board at the time the 
+Required Transmission Enhancement is included for the first time in the Regional Transmission 
+Expansion Plan, does not equal or exceed $5 million shall be assigned to the Zone where the 
+Required Transmission Enhancement is to be located.  The determination of whether the 
+estimated cost of a Required Transmission Enhancement does not equal or exceed $5 million 
+shall be based solely on such good faith estimate of the cost of the Required Transmission 
+Enhancement regardless of the actual costs incurred.  The estimated cost of a Required 
+Transmission Enhancement shall include the aggregate estimated costs of all of the transmission 
+elements approved by the PJM Board at the time such elements are included in the Regional 
+Transmission Expansion Plan that collectively are intended (i) in the case of a Reliability Project, 
+to resolve a specific reliability criteria violation, or (ii) in the case of an Economic Project, 
+provide a specific LMP Benefit.  Where a Required Transmission Enhancement subject to this 
+section (b)(vi) consists of a single transmission element or multiple transmission elements that 
+will be located in more than one Zone, each Zone shall be assigned cost responsibility for the 
+transmission elements or portions of the transmission elements located in such Zone.  Merchant 
+Transmission Facilities shall not be assigned cost responsibility for a Required Transmission 
+Enhancement subject to this section (b)(vi). 
+ 
+(vii)   Modifications of Required Transmission Enhancements.  Once a Required 
+Transmission Enhancement is included in the Regional Transmission Expansion Plan, any 
+modification to such Required Transmission Enhancement that subsequently is included in the 
+Regional Transmission Expansion Plan as a separate Reliability or Economic Project shall be 
+considered a separate and distinct Required Transmission Enhancement for purposes of cost 
+responsibility assignment under this Schedule 12.  Except as provided in sections (b)(iv) and 
+(b)(xiv) of this Schedule 12, any cost responsibility assignment that has been made for a 
+previously approved Required Transmission Enhancement shall have no impact on the cost 
+responsibility assignment of such modification. 
+ 
+ (viii) FERC Filing.  Within 30 days of the approval of each Regional Transmission 
+Expansion Plan or an addition to such plan by the PJM Board pursuant to Operating Agreement, 
+Schedule 6, section 1.6, the Transmission Provider shall designate in the Tariff, Schedule 12-
+Appendix A and in a report filed with the FERC the customers using Point-to-Point 
+Transmission Service and/or Network Integration Transmission Service and Merchant 
+Transmission Facility owners that will be subject to each such Transmission Enhancement 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 12 
+Charge (“Responsible Customers”) based on the cost responsibility assignments determined 
+pursuant to this Schedule 12.  Those customers designated by the Transmission Provider as 
+Responsible Customers shall have 30 days from the date the filing is made with the FERC to 
+seek review of such designation. Such cost responsibility designations shall be the same as those 
+made for the relevant Regional Facility, Necessary Lower Voltage Facility, or Lower Voltage 
+Facility in the Regional Transmission Expansion Plan. 
+ 
+ (ix) Regions With Which PJM Has Entered Into an Agreement Listed in 
+Schedule 12-Appendix B .  For purposes of this Schedule 12, where costs of a Required 
+Transmission Enhancement are allocated to a region other than PJM pursuant to an agreement set 
+forth in Tariff, Schedule 12-Appendix B, Responsible Customers for such costs shall be 
+customers in such region. Cost responsibility with respect to the costs of a Required 
+Transmission Enhancements  allocated to a region other than PJM shall be allocated within such 
+region in accordance with the applicable tariff or agreement governing the allocation of such 
+costs in such region. 
+ 
+ (x) Merchant Transmission Facilities.  
+ 
+  (A) For purposes of this Schedule 12, where the Transmission Provider has 
+allocated all or a portion of a Required Transmission Enhancement to a Merchant Transmission 
+Facility, the owner of the Merchant Transmission Facility shall be the Responsible Customer 
+with respect to such Required Transmission Enhancement, and shall pay the Transmission 
+Enhancement Charges associated with the Required Transmission Enhancement. 
+ 
+  (B) (1) Transmission Provider shall defer collection of Transmission 
+Enhancement Charges from a Merchant Transmission Facility until the Merchant Transmission 
+Facility goes into commercial operation; provided, however, in the event the commercial 
+operation of a Merchant Transmission Facility is delayed beyond the commercial operation 
+milestone date(s) specified in the Interconnection Service Agreement associated with the 
+Merchant Transmission Facility and the Transmission Provider or Transmission Owner 
+constructing the Required Transmission Enhancement demonstrates that the Merchant 
+Transmission Facility is responsible for such delay, Transmission Provider may begin collecting 
+Transmission Enhancement Charges from the Merchant Transmission Facility prior to the 
+Merchant Transmission Facility going into commercial operation.  Transmission Enhancement 
+Charges allocated to a Merchant Transmission Facility for which collection is deferred in 
+accordance with this section (b)(x)(B)(1) shall be recorded in appropriate Transmission Provider 
+accounts for deferred charges and collected in accordance with section (b)(x)(B)(3) below.   
+ 
+ (2) Transmission Provider shall base the collection of Transmission 
+Enhancement Charges associated with Required Transmission Enhancements from a Merchant 
+Transmission Facility on the actual Firm Transmission Withdrawal Rights that have been 
+awarded to the Merchant Transmission Facility; provided, however, to the extent that a Merchant 
+Transmission Facility has been awarded less than the amount of Firm Transmission Withdrawal 
+Rights specified in the Interconnection Service Agreement associated with the Merchant 
+Transmission Facility, then Transmission Provider shall record the difference between the 
+amount of Transmission Enhancement Charges collected based on the lesser amount of Firm 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 13 
+Transmission Withdrawal Rights and the amount of Transmission Enhancement Charges based 
+on the full amount of Firm Transmission Withdrawal Rights specified in the applicable 
+Interconnection Service Agreement in appropriate accounts for deferred charges and, after the 
+Merchant Transmission Facility has been awarded the full amount of Firm Transmission 
+Withdrawal Rights specified in the Interconnection Service Agreement, collect such deferred 
+amounts in accordance with section (b)(x)(B)(3) below.  Notwithstanding the foregoing, 
+Transmission Provider may collect Transmission Enhancement Charges based on more than a 
+Merchant Transmission Facility’s actually awarded Firm Transmission Withdrawal Rights (not 
+to exceed the Firm Transmission Withdrawal Rights specified in the applicable Interconnection 
+Service Agreement) if the Transmission Provider or Transmission Owner demonstrates that the 
+Merchant Transmission Facility is responsible for receiving fewer Firm Transmission 
+Withdrawal Rights than are specified in the applicable Interconnection Service Agreement. 
+ 
+   (3) Transmission Provider shall record: (i) in an appropriate deferred 
+asset account, the Transmission Enhancement Charges associated with Required Transmission 
+Enhancements for which collection is deferred in accordance with sections (b)(x)(B)(1) and 
+(b)(x)(B)(2) above; and (ii) in an appropriate deferred liability account, the revenues associated 
+with the Transmission Enhancement Charges that, absent the deferred charges, would have been 
+due to Transmission Owners or to Transmission Owners’ customers as directed by the applicable 
+Transmission Owner. At such time as collection of such deferred Transmission Enhancement 
+Charges are permitted in accordance with sections (b)(x)(B)(1) and (b)(x)(B)(2) above, the 
+deferred charges (along with appropriate interest) shall be collected from the Merchant 
+Transmission Facility in equal installments over the twelve months following the 
+commencement of the collection of the deferred charges. Such amounts shall be distributed to 
+Transmission Owners or to Transmission Owners’ customers as directed by the applicable 
+Transmission Owner, and the Transmission Provider shall make appropriate adjustments to the 
+deferred asset and liability accounts.  Transmission Provider shall not be responsible for 
+distributing revenues associated with deferred Transmission Enhancement Charges unless and 
+until such charges are collected in accordance with this section (b)(x)(B), and uncollected 
+deferred Transmission Enhancement Charges shall not be subject to Default Allocation 
+Assessments to the Members pursuant to Operating Agreement, section 15.2. 
+ 
+ (xi) Consolidated Edison Company of New York. (A) Cost responsibility 
+assignments to Consolidated Edison Company of New York for Required Transmission 
+Enhancements pursuant to this Schedule 12 with respect to the Firm Point-To-Point Service 
+Agreements designated as Original Service Agreement No. 1873 and Original Service 
+Agreement No. 1874 accepted by the Commission in Docket No. ER08-858 (“ConEd Service 
+Agreements”) shall be in accordance with the terms and conditions of the settlement approved by 
+the FERC in Docket No. ER08-858-000.  (B) All cost responsibility assignments for Required 
+Transmission Enhancements pursuant to this Schedule 12 shall be adjusted at the commencement 
+and termination of service under the ConEd Service Agreements to take account of the 
+assignments under subsection (xi)(A) of this section.   
+ 
+(xii) Public Policy Projects.   
+ 
+(A) Transmission Facilities as defined in  Consolidated Transmission Owners 
+Agreement, section 1.27 constructed by a Transmission Owner pursuant to a Public Policy 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 14 
+Requirement but not included in a Regional Transmission Expansion Plan as a Required 
+Transmission Enhancement, shall be as considered a Supplemental Project.  
+ 
+(B) If a transmission enhancement or expansion is proposed pursuant to 
+Operating Agreement, Schedule 6, section 1.5.9(a) which is not a Supplemental Project (“State 
+Agreement Public Policy Project”),  the Transmission Provider shall submit the assignment of 
+costs to Responsible Customers proposed in connection with such State Agreement Public Policy 
+Project to the Transmission Owners Agreement Administrative Committee for consideration and 
+filing pursuant to Consolidated Transmission Owners Agreement, section 7.3 and Tariff, Part I, 
+section 9.1(a).  Nothing in this section (b)(xii) shall prevent the Transmission Provider or the 
+state governmental entities proposing such State Agreement Public Policy Project from filing a 
+proposed assignment of costs to Responsible Customers for such project pursuant to Section 206 
+of the Federal Power Act. 
+ 
+ 
+ (xiii) Replacement of Transmission Facilities.  Unless determined by PJM to be a 
+Required Transmission Enhancement included in a Regional Transmission Expansion Plan, cost 
+responsibility for the replacement of Transmission Facilities, as defined in Consolidated 
+Transmission Owners Agreement, section 1.27, shall be assigned to the Zonal loads and Merchant 
+Transmission Facilities responsible for the costs of the Transmission Facilities being replaced.  
+ 
+(xiv)    Multi-Driver Projects.   
+ 
+(A) Assignment of Proportional Multi-Driver Project Costs.  The Transmission 
+Provider shall assign cost responsibility for Proportional Multi-Driver Projects in proportion 
+to the relative percentage benefit that each driver of a Proportional Multi-Driver Project 
+addresses, respectively, reliability violations or operational performance (“reliability”), 
+economic constraints (“economic”) and/or Public Policy Requirements (“public policy”) as 
+follows:  
+ 
+(1) As part of the open planning process provided for in Operating 
+Agreement, Schedule 6, section 1.5.10(h), the Transmission Provider employs the 
+Proportional Method to develop a Proportional Multi-Driver Project, by determining 
+which of the following drivers a Proportional Multi-Driver Project addresses: 
+reliability, economic, or public policy, and the extent to which each such driver 
+contributes to the size, scope, and estimated costs of such Proportional Multi-Driver 
+Project (irrespective of the reliability cost allocation treatment that is otherwise 
+accorded an incremental market efficiency modification thereto pursuant to section 
+(b)(v)(B) of this Schedule 12).  The Transmission Provider shall identify the 
+contribution of each driver in terms of a percentage totaling 100 percent for all such 
+drivers at the time that each Proportional Multi-Driver Project is submitted to the PJM 
+Board for approval and included in the Regional Transmission Expansion Plan. The 
+percentage contribution of each driver shall be based on the ratio of the estimated cost 
+of each project that the Multi-Driver Project replaces to the total of the estimated costs 
+of all projects combined into the Multi-Driver Project.  
+ 
+(2) Once a Proportional Multi-Driver Project is approved by the PJM Board, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 15 
+the percentage contributions of each driver shall not be changed unless the PJM Board 
+subsequently approves an upgrade or modification to the Proportional Multi-Driver 
+Project.  In that event, the cost responsibility for the Proportional Multi-Driver Project, 
+including any costs incurred prior to the upgrade or modification, will be determined as 
+if it were a new Proportional Multi-Driver Project, such that the percentage 
+contribution for each driver shall be established anew.   
+ 
+(B) Assignment of Incremental Multi-Driver Project Costs.  The Transmission 
+Provider shall assign cost responsibility for  Incremental Multi-Driver Projects as defined in 
+Operating Agreement, Schedule 6, section 1.15B using the same methodology described in 
+section (b)(xiv)(A)(1) above treating the estimated cost of modifying the original project as if 
+it were the estimated cost of a separate project included in a Proportional Multi-Driver 
+Project.  Any costs that had been expended on the original project prior its designation by 
+Transmission Provider as an Incremental Multi-Driver Project shall be included in the 
+calculation of the Incremental Multi-Driver Project pursuant to this section (b)(xiv)(B).   
+ 
+(C) The Transmission Provider shall separately assign cost responsibility for the 
+costs assigned to each driver pursuant to this section (b)(xiv) in accordance with the provisions 
+of this Schedule 12 governing the assignment of cost responsibility for a single driver project 
+of each driver’s respective type (reliability, economic or public policy).  Except as provided in 
+section (b)(xiv)(D) below, cost responsibility will be assigned based on the final voltage and 
+configuration of the Multi-Driver Project determined in accordance with sections (b)(i), (b)(ii), 
+or (b)(vi) of this Schedule 12.  
+ 
+(D)     Notwithstanding the cost assignments that would otherwise be provided for in 
+section (b)(xiv)(C) above, if a Multi-Driver Project includes a public policy driver that is the 
+result of the State Agreement Approach provided for in Operating Agreement, Schedule 6, 
+section 1.5.9 and is a Regional Facility as defined in section (b)(i) of this Schedule 12 and such 
+Multi-Driver Project would not be a Regional Facility but for the inclusion of the public policy 
+driver, then the percentage of costs of such Multi-Driver Project assigned to the non-public 
+policy drivers in accordance with the procedures set forth in in section (b)(i)(A)(1) above shall 
+be twenty percent (20%) and the percentage of costs assigned to the non-public policy drivers 
+of such Multi-Driver Project in accordance section (b)(i)(A)(2) above shall be eighty percent 
+(80%), and not the fifty percent (50%) cost responsibility percentages provided for in section 
+(b)(i)(A)(i) and section (b)(i)(A)(2), respectively, of this Schedule 12.  
+ 
+(xv) Reserved. 
+ 
+ (xvi) Required Transmission Enhancements Designed to Address Reliability 
+Violations on Transmission Facilities Operating Below 200 kV.  Notwithstanding section 
+(b)(ii), above, cost responsibility for any Required Transmission Enhancements that are included 
+in the Regional Transmission Expansion Plan to address reliability violations on Transmission 
+Facilities that are designed to operate at below 200 kV and, pursuant to Operating Agreement, 
+Schedule 6, section 1.5.8(n), were not included in an Operating Agreement, Schedule 6, section 
+1.5.8(c) proposal window, shall be assigned to the Responsible Customers in the Zone where the 
+Required Transmission Enhancement is to be located. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 16 
+ 
+(xvii) Required Transmission Enhancements Constructed As Targeted Market 
+Efficiency Projects Under The Midcontinent Independent Transmission System Operator, 
+Inc. and PJM Interconnection, L.L.C. Coordinated System Plan.   Notwithstanding sections 
+(b)(i), (b)(ii), (b)(iv), (b)(v), (b)(vi) and (b)(x)(B)(2) of this Schedule 12, cost responsibility for 
+the costs of a Required Transmission Enhancement that is included in the Regional Transmission 
+Expansion Plan because it is a Targeted Market Efficiency Project (“TMEP”) identified in the 
+Coordinated System Plan periodically developed pursuant to the Joint Operating Agreement 
+Between the Midcontinent Independent Transmission System Operator, Inc. and PJM 
+Interconnection, L.L.C. (“PJM-MISO JOA”) and assigned to PJM pursuant to PJM-MISO JOA, 
+section 9.4.4.2.5, shall be assigned among Zones and Merchant Transmission Facilities in 
+accordance with this section (b)(xvii).  Using the Targeted Market Efficiency Project study 
+conducted pursuant to PJM-MISO JOA, section 9.3.7.2(c) of in which the TMEP was identified, 
+the Transmission Provider shall determine, in accordance with Tariff, Attachment K-Appendix, 
+section 5.1, the average annual Transmission Congestion Charges experienced by Market Buyers 
+in Zones and at Merchant Transmission Facilities attributable to the targeted Reciprocal 
+Coordinated Flowgate during the two historical calendar years prior to the study year of the 
+Targeted Market Efficiency Project study.  In making this determination, the Transmission 
+Provider shall net any increases in Day-ahead and Real-time Prices paid by Market Buyers in a 
+Zone or at a Merchant Transmission Facility against any decreases in Day-ahead and Real-time 
+Prices paid by Market Buyers in such Zone or at such Merchant Transmission Facility 
+attributable to the targeted Reciprocal Coordinated Flowgate.  Where a single TMEP is 
+constructed to reduce Transmission Congestion Charges attributable to more than one targeted 
+Reciprocal Coordinated Flowgate, the Transmission Provider shall net any increases in Day-
+ahead and Real-time Prices paid by Market Buyers in a Zone or at a Merchant Transmission 
+Facility against any decreases in Day-ahead and Real-time Prices paid by Market Buyers in such 
+Zone or at such Merchant Transmission Facility attributable to all targeted Reciprocal 
+Coordinated Flowgates.  Cost responsibility shall be assigned based on each Zone’s and 
+Merchant Transmission Facility’s pro rata share of the sum of the net Transmission Congestion 
+Charges paid by Market Buyers only of the Zones and Merchant Transmission Facilities in 
+which Market Buyers experienced net Transmission Congestion Charges. 
+ 
+(xviii) Required Transmission Enhancements Designed to Address Stability Issues. 
+For purposes of the assignment of cost responsibility for Reliability Projects designed to address 
+stability issues under subsection (b)(i)(A)(2)(a) and subsection (b)(ii)(A) of this Schedule 12, the 
+Transmission Provider shall, using the same inputs and assumptions from the simulation that 
+originally drove the need for the stability upgrade, perform a stability simulation that includes 
+the stability upgrade under the worst fault condition. The worst fault condition shall be the fault 
+condition in the simulation that produces the maximum rotor angle swing with the stability 
+upgrade included.  For each load bus on the system, the difference between the highest and 
+lowest voltage angle that occurs during the simulation of the worst fault condition will be 
+recorded. Load buses having a voltage angle deviation less than 25 percent of the load bus with 
+the largest voltage angle deviation will not be included in the cost allocation calculation. For the 
+remaining load buses, the voltage angle deviation will be multiplied by the megawatt load at the 
+bus obtained from the stability simulation model, or, in the case of a Merchant Transmission 
+Facility, the Firm Transmission Withdrawal Rights at the bus. The products of the voltage angle 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 17 
+deviation and megawatt load at each bus will be summed for each Responsible Zone. The 
+Stability Deviation cost allocation for a Responsible Zone or Merchant Transmission Facility 
+will be determined by dividing the sum of the load-weighted angle deviations for the 
+Responsible Zone or Merchant Transmission Facility by the sum of the load-weighted angle 
+deviations for each Responsible Zone and Merchant Transmission Facility. Transmission 
+Provider shall round cost responsibility assignments to the nearest one-hundredth of one percent. 
+ 
+(c) Determination of Transmission Enhancement Charges. In the event that any 
+Transmission Owner recovers the cost of a Required Transmission Enhancement through a 
+Transmission Enhancement Charge, such charge shall be determined as follows: 
+ 
+(1) Transmission Provider shall identify in writing and post on the PJM Internet site 
+the Required Transmission Enhancement(s) to which each Transmission Enhancement 
+Charge corresponds. The Transmission Enhancement Charge with respect to a Required 
+Transmission Enhancement shall recover the applicable Transmission Owner’s annual 
+transmission revenue requirement associated with the Required Transmission 
+Enhancement. 
+ 
+(2)   Each Transmission Enhancement Charge shall be a monthly charge based on all 
+costs and applicable incentives associated with a particular Required Transmission 
+Enhancement for which the Transmission Owner is responsible.  
+ 
+(3)  A Transmission Owner’s annual transmission revenue requirement associated 
+with a Required Transmission Enhancement shall be determined pursuant to either (i) a 
+unilateral filing by the Transmission Owner under Section 205 of the Federal Power Act 
+and the FERC’s rules and regulations thereunder; or (ii) a formula rate in effect 
+applicable to the Transmission Owner’s rates for Network Integration Transmission 
+Service, including the costs associated with Required Transmission Enhancements.  
+ 
+(4)  Each Transmission Enhancement Charge applicable to Network Customers and 
+Non-Zone Network Customers shall be recalculated annually to reflect the annual 
+revisions to the billing determinants used by the Transmission Provider to calculate 
+charges to Network Customers for Network Integration Transmission Service under 
+Tariff, Part III, section 34.1.  The Transmission Provider shall post on its Internet site by 
+October 31 of each calendar year each recalculated Transmission Enhancement Charge 
+that shall be effective during the subsequent calendar year. 
+ 
+(5)  Each Transmission Enhancement Charge applicable to customers using Point-To-
+Point Transmission Service shall be calculated monthly to reflect the billing determinants 
+used by the Transmission Provider to determine charges for customers of Point-To-Point 
+Transmission Service in accordance with Tariff, Part II, section 25.  
+ 
+(6) Each Transmission Enhancement Charge payable by an owner of a Merchant 
+Transmission Facility pursuant to section (b) of this Schedule 12 shall be calculated as a 
+fixed monthly charge.  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 
+Effective Date: 6/11/2022 - Docket #: ER22-1606-000 - Page 18 
+(7) If a Transmission Owner chooses to recover the cost of Required Transmission 
+Enhancements through the operation of a formula rate as described in section (a) of this 
+Schedule 12, the Transmission Owner must make an informational filing with the 
+Commission one year from the date the selecting Transmission Owner’s formula rates go 
+into effect, and each year thereafter, providing a detailed list of the costs the 
+Transmission Owner has incurred, and the revenues the Transmission Owner has 
+received to provide service. 
+ 
+(d) Recovery of Transmission Enhancement Charges.   
+ 
+(1) Responsible Customers shall pay Transmission Provider all applicable 
+Transmission Enhancement Charges as required by this Schedule 12 in addition to 
+all other charges for transmission service for which such Responsible Customers 
+are responsible under the Tariff. 
+ 
+(2) Transmission Provider shall collect all applicable Transmission Enhancement 
+Charges from each Responsible Customer on a monthly basis.  Transmission 
+Provider shall remit or credit all revenues received from Responsible Customers 
+under this Schedule 12 to the Transmission Owner(s) that established such charge 
+or to the appropriate authority in a region other than PJM in the case of 
+Transmission Enhancement Charges established in such region in connection with 
+a Required Transmission Enhancement constructed pursuant to an Appendix B 
+Agreement, to be distributed in accordance with the applicable tariff or agreement 
+governing the distribution of such charges in such region. 
+ 
+(e) Crediting of Revenue from Transmission Enhancement Charges.  In recognition that 
+a Transmission Owner’s charges for Network Integration Transmission Service set forth in 
+Tariff, Attachment H are established based upon the Transmission Owner’s total cost of 
+providing FERC-jurisdictional transmission service, including the costs associated with Required 
+Transmission Enhancements, revenue from a Transmission Owner’s Transmission Enhancement 
+Charges for a billing month shall be credited pursuant to this Schedule 12 to the Network 
+Customers in the Transmission Owner’s Zone (including, where applicable, the Transmission 
+Owner) and Transmission Customers purchasing Firm Point-to-Point Transmission Service for 
+delivery in the Transmission Owner’s Zone in proportion to their Demand Charges (including 
+any imputed Demand Charges for bundled service to Native Load Customers) for Network 
+Integration Transmission Service and Reserved Capacity for Firm Point-to-Point Transmission 
+Service; provided that such credits shall be reduced by the amount of any applicable incentives 
+included in such Transmission Enhancement Charges.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+SCHEDULE 12 – APPENDIX 
+ 
+Required Transmission Enhancements, Responsible Customers 
+And Associated Transmission Owner Revenue Requirements. 
+ 
+Required Transmission Enhancements that have been placed in service in PJM, the Transmission 
+Owner(s) responsible for constructing and owning and/or financing such Required Transmission 
+Enhancements, the Responsible Customers and the annual revenue requirement upon which 
+Transmission Enhancement Charges determined in accordance with section (c) of Schedule 12 
+are based, are set forth below. Unless otherwise stated, all designations of Responsible 
+Customers refer collectively to all Firm Point-to-Point Transmission Service and Network 
+Integration Transmission Service customers in each indicated Zone and state the proportional 
+(percentage) cost responsibility allocated to the indicated customers in each Zone. Zones are 
+identified using the short names stated in Attachment J to the Tariff. 
+ 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 1 Atlantic City Electric Company 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 1 
+SCHEDULE 12 – APPENDIX 
+ 
+(1) Atlantic City Electric Company 
+ 
+Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
+b0135 
+Build new Cumberland – 
+Dennis 230 kV circuit 
+which replaces existing 
+Cumberland – Corson 138 
+kV 
+ 
+AEC (100%) 
+b0136 
+Install Dennis 230/138 kV 
+transformer, Dennis 150 
+MVAR SVC and 50 MVAR 
+capacitor 
+ 
+AEC (100%) 
+b0137 Build new Dennis – Corson 
+138 kV circuit  
+AEC (100%) 
+b0138 
+Install Cardiff 230/138 kV 
+transformer and a 50 
+MVAR capacitor at Cardiff 
+ 
+AEC (100%) 
+b0139 Build new Cardiff – Lewis 
+138 kV circuit  AEC (100%) 
+b0140 Reconductor Laurel – 
+Woodstown 69 kV  AEC (100%) 
+b0141 Reconductor Monroe – 
+North Central 69 kV  AEC (100%) 
+b0265 
+Upgrade AE portion of 
+Delco Tap – Mickleton 230 
+kV circuit 
+ 
+AEC (89.87%) / JCPL 
+(9.48%) / NEPTUNE* 
+(0.65%) 
+b0276 Replace both Monroe 
+230/69 kV transformers  
+AEC (91.28%) / PSEG 
+(8.29%) / RE (0.23%) / 
+ECP** (0.20%) 
+b0276.1 
+Upgrade a strand bus at 
+Monroe to increase the 
+rating of transformer #2 
+ 
+AEC (100%) 
+b0277 Install a second Cumberland 
+230/138 kV transformer  AEC (100%) 
+b0281.1 
+Install 35 MVAR capacitor 
+at Lake Ave 69 kV 
+substation 
+ 
+AEC (100%) 
+* Neptune Regional Transmission System, LLC 
+**East Coast Power, L.L.C. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 1 Atlantic City Electric Company 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 2 
+Atlantic City Electric Company (cont.) 
+ 
+Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
+b0281.2 Install 15 MVAR capacitor at 
+Shipbottom 69 kV substation  AEC (100%) 
+b0281.3 Install 8 MVAR capacitors on 
+the AE distribution system  AEC (100%) 
+b0142 Reconductor Landis – 
+Minotola 138 kV  AEC (100%) 
+b0143 Reconductor Beckett – 
+Paulsboro 69 kV  AEC (100%) 
+Load-Ratio Share Allocation: 
+AEC (1.63%) / AEP (14.27%) / 
+APS (5.89%) / ATSI (7.62%) / 
+BGE (3.96%) / ComEd (12.47%) 
+/ Dayton (2.04%) / DEOK 
+(3.12%) / DL (1.62%) / DPL 
+(2.53%) / Dominion (14.85%) / 
+EKPC (2.26%) / JCPL (3.78%) / 
+ME (1.81%) / NEPTUNE* 
+(0.41%) / OVEC (0.07%) / 
+PECO (5.04%) / PENELEC 
+(1.75%) / PEPCO (3.62%) / PPL 
+(4.85%) / PSEG (6.16%) / RE 
+(0.25%) 
+b0210 
+Install a new 500/230 kV 
+substation in AEC area.  The 
+high side will be tapped on the 
+Salem - East Windsor 500 kV 
+circuit and the low side will be 
+tapped on the Churchtown - 
+Cumberland 230 kV circuit. 
+ 
+DFAX Allocation: 
+AEC (100.00%) 
+b0210.1 Orchard – Cumberland – 
+Install  second 230 kV line  
+AEC (65.23%) / JCPL (25.87%) 
+/ NEPTUNE* (2.55%) / PSEG 
+(6.35%)†† 
+b0210.2 
+Install a new 500/230 kV 
+substation in AEC area, the 
+high side will be tapped on the 
+Salem - East Windsor 500 kV 
+circuit and the low side will be 
+tapped on the Churchtown - 
+Cumberland 230 kV circuit. 
+ 
+AEC (65.23%) / JCPL (25.87%) 
+/ NEPTUNE* (2.55%) / PSEG 
+(6.35%)†† 
+* Neptune Regional Transmission System, LLC 
+††Cost allocations associated with below 500 kV elements of the project 
+The Annual Revenue Requirement associated with the Transmission Enhancement Charges are 
+set forth and determined in Appendix A to Attachment H-1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 1 Atlantic City Electric Company 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 3 
+Atlantic City Electric Company (cont.) 
+ 
+Required Transmission Enhancements Annual Revenue Requirement  Responsible Customer(s) 
+b0211 Reconductor Union - 
+Corson 138 kV circuit  
+AEC (65.23%) / JCPL 
+(25.87%) / NEPTUNE* 
+(2.55%) / PSEG (6.35%) 
+b0212 Substation upgrades at 
+Union and Corson 138 kV  
+AEC (65.23%) / JCPL 
+(25.87%) / NEPTUNE* 
+(2.55%) / PSEG (6.35%) 
+b0214 
+Install 50 MVAR capacitor 
+at Cardiff 230 kV 
+substation 
+ 
+AEC (100%) 
+b0431 Monroe Upgrade New 
+Freedom strand bus  
+AEC (100%) 
+b0576 Move the Monroe 230/69 
+kV to Mickleton  
+AEC (100%) 
+b0744 Upgrade a strand bus at 
+Mill 138 kV  
+AEC (100%) 
+b0871 Install 35 MVAR capacitor 
+at Motts Farm 69 kV  
+AEC (100%) 
+b1072 
+Modify the existing EMS 
+load shedding scheme at 
+Cedar to additionally sense 
+the loss of both Cedar 
+230/69 kV transformers 
+and shed load accordingly 
+ 
+AEC (100%) 
+b1127 Build a new Lincoln-
+Minitola 138 kV line  
+AEC (100%) 
+b1195.1 Upgrade the Corson sub T2 
+terminal  
+AEC (100%) 
+b1195.2 Upgrade the Corson sub T1 
+terminal  
+AEC (100%) 
+* Neptune Regional Transmission System, LLC 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 1 Atlantic City Electric Company 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 4 
+Atlantic City Electric Company (cont.) 
+ 
+Required Transmission Enhancements Annual Revenue Requirement  Responsible Customer(s) 
+b1244 
+Install 10 MVAR capacitor 
+at Peermont 69 kV 
+substation 
+ 
+AEC (100%) 
+b1245 Rebuild the Newport-South 
+Millville 69 kV line  
+AEC (100%) 
+b1250 Reconductor the Monroe – 
+Glassboro 69 kV  
+AEC (100%) 
+b1250.1 Upgrade substation 
+equipment at Glassboro  
+AEC (100%) 
+b1280 Sherman:  Upgrade 138/69 
+kV transformers  
+AEC (100%) 
+b1396 Replace Lewis 138 kV 
+breaker ‘L’  
+AEC (100%) 
+b1398.5 
+Reconductor the existing 
+Mickleton – Goucestr 230 
+kV circuit (AE portion) 
+ 
+JCPL (12.82%) / NEPTUNE* 
+(1.18%) / HTP*** (0.79%) / 
+PECO (51.08%) / PEPCO 
+(0.57%) / ECP** (0.85%) / 
+PSEG (31.46%) / RE (1.25%) 
+b1598 Reconductor Sherman Av – 
+Carl’s Corner 69 kV circuit  
+AEC (100%) 
+b1599 
+Replace terminal 
+equipments at Central 
+North 69 kV substation 
+ 
+AEC (100%) 
+b1600 Upgrade the Mill T2 
+138/69 kV transformer  
+AEC (88.83%) / JCPL (4.74%) 
+/ HTP*** (0.20%) / ECP** 
+(0.22%) / PSEG (5.78%) / RE 
+(0.23%) 
+b2157 
+Re-build 5.3 miles of the 
+Corson - Tuckahoe 69 kV 
+circuit 
+ 
+AEC (100%) 
+* Neptune Regional Transmission System, LLC 
+**East Coast Power, L.L.C. 
+***Hudson Transmission Partners, LLC 
+The Annual Revenue Requirement associated with the Transmission Enhancement Charges are 
+set forth and determined in Appendix A to Attachment H-1. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 2 Baltimore Gas and Electric Com 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 1 
+SCHEDULE 12 – APPENDIX 
+ 
+(2) Baltimore Gas and Electric Company 
+ 
+Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
+b0152 
+Add (2) 230 kV Breakers 
+at High Ridge and install 
+two Northwest 230 kV 
+120 MVAR capacitors 
+ 
+BGE (100%) 
+b0244 
+Install a 4th Waugh Chapel 
+500/230 kV transformer, 
+terminate the transformer 
+in a new 500 kV bay and 
+operate the existing in-
+service spare transformer 
+on standby 
+ 
+BGE (85.56%) / ME (0.83%) / 
+PEPCO (13.61%) 
+b0298 
+Replace both Conastone 
+500/230 kV transformers 
+with larger transformers 
+As specified in Attachment 
+H-2A, Attachment 7, the 
+Transmission Enhancement 
+Charge Worksheet 
+BGE (75.85%) / Dominion 
+(11.54%) / ME (4.73%) / PEPCO 
+(7.88%) 
+b0298.1 Replace Conastone 230 
+kV breaker 500-3/2323  BGE (100%) 
+b0474 
+Add a fourth 230/115 kV 
+transformer, two 230 kV 
+circuit breakers and a 115 
+kV breaker at Waugh 
+Chapel 
+ 
+BGE (100%) 
+b0475 
+Create two 230 kV ring 
+buses at North West, add 
+two 230/115 kV 
+transformers at North 
+West and create a new 115 
+kV station at North West 
+ 
+BGE (100%) 
+b0476 
+Rebuild High Ridge 230 
+kV substation to Breaker 
+and Half configuration 
+ 
+BGE (100%) 
+b0477 
+Replace the Waugh 
+Chapel 500/230 kV 
+transformer #1 with three 
+single phase transformers 
+ BGE (90.56%) / ME (1.51%) / 
+PECO (.92%) / PEPCO (4.01%) / 
+PPL (3.00%) 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 2 Baltimore Gas and Electric Com 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 2 
+Baltimore Gas and Electric Company (cont.) 
+ 
+Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
+b0497 
+Install a second 
+Conastone – Graceton 
+230 kV circuit 
+ 
+AEC (9.00%) / DPL (16.85%) / 
+JCPL (9.64%) / ME (1.48%) / 
+NEPTUNE* (0.95%) / PECO 
+(30.79%) / PPL (16.41%) / 
+ECP** (0.29%) / PSEG (14.07%) 
+/ RE (0.52%) 
+b0497.1 Replace Conastone 230 
+kV breaker #4  
+BGE (100%) 
+b0497.2 Replace Conastone 230 
+kV breaker #7  
+BGE (100%) 
+b0500.2 
+Replace wavetrap and 
+raise operating 
+temperature on 
+Conastone – Otter Creek 
+230 kV line to 165 deg 
+ 
+AEC (6.27%) / DPL (8.65 %) / 
+JCPL (14.54%) / ME (10.59%) / 
+NEPTUNE* (1.37%) / PECO 
+(15.66%) / PPL (21.02%) / 
+ECP** (0.57%) / PSEG (20.56%) 
+/ RE (0.77%) 
+b0512.33 
+MAPP Project Install 
+new Hallowing Point – 
+Calvert Cliffs 500 kV 
+circuit and associated 
+substation work at 
+Calvert Cliffs substation 
+ 
+AEC (1.63%) / AEP (14.27%) / 
+APS (5.89%) / ATSI (7.62%) / 
+BGE (3.96%) / ComEd (12.47%) 
+/ Dayton (2.04%) / DEOK 
+(3.12%) / DL (1.62%) / DPL 
+(2.53%) / Dominion (14.85%) / 
+EKPC (2.26%) / JCPL (3.78%) / 
+ME (1.81%) / NEPTUNE* 
+(0.41%) / OVEC (0.07%) / PECO 
+(5.04%) / PENELEC (1.75%) / 
+PEPCO (3.62%) / PPL (4.85%) / 
+PSEG (6.16%) / RE (0.25%) 
+* Neptune Regional Transmission System, LLC 
+**East Coast Power, L.L.C.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 2 Baltimore Gas and Electric Com 
+Effective Date: 1/1/2026 - Docket #: ER26-899-000 - Page 3 
+Baltimore Gas and Electric Company (cont.) 
+ 
+Required Transmission Enhancements Annual Revenue Requirement Responsible Customer(s) 
+b0512.43 
+MAPP Project Install 
+new Hallowing Point – 
+Calvert Cliffs 500 kV 
+circuit and associated 
+substation work at 
+Calvert Cliffs substation 
+ 
+AEC (1.63%) / AEP (14.27%) / 
+APS (5.89%) / ATSI (7.62%) / 
+BGE (3.96%) / ComEd (12.47%) 
+/ Dayton (2.04%) / DEOK 
+(3.12%) / DL (1.62%) / DPL 
+(2.53%) / Dominion (14.85%) / 
+EKPC (2.26%) / JCPL (3.78%) / 
+ME (1.81%) / NEPTUNE* 
+(0.41%) / OVEC (0.07%) / PECO 
+(5.04%) / PENELEC (1.75%) / 
+PEPCO (3.62%) / PPL (4.85%) / 
+PSEG (6.16%) / RE (0.25%) 
+b0729 
+Rebuild both Harford – 
+Perryman 110615-A and 
+110616-A 115 kV 
+circuits 
+ 
+BGE (100%) 
+b0749 
+Replace 230 kV breaker 
+and associated CT’s at 
+Riverside 230 kV on 
+2345 line; replace all 
+dead-end structures at 
+Brandon Shores, 
+Hawkins Point, Sollers 
+Point and Riverside; 
+Install a second 
+conductor per phase on 
+the spans entering each 
+station 
+ 
+BGE (100%) 
+* Neptune Regional Transmission System, LLC 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 12 – APPENDIX --> OATT SCHEDULE 12.APPENDIX 2 Baltimore Gas and Electric Com 
