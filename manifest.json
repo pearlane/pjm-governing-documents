@@ -1,3142 +1,3122 @@
 {
   "documents": [
     {
-      "path": "/oatt/TABLE_OF_CONTENTS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/TABLE_OF_CONTENTS.txt",
       "document": "OATT",
       "size_kb": 54.3
     },
     {
-      "path": "/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part1.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part2.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part3.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part4.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_I-COMMON_SERVICE_PROVISIONS_part5.txt",
       "document": "OATT",
       "size_kb": 73.3
     },
     {
-      "path": "/oatt/PART_II-POINT_TO_POINT_TRANSMISSION_SERVICE_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_II-POINT_TO_POINT_TRANSMISSION_SERVICE_part1.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_II-POINT_TO_POINT_TRANSMISSION_SERVICE_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_II-POINT_TO_POINT_TRANSMISSION_SERVICE_part2.txt",
       "document": "OATT",
       "size_kb": 2.7
     },
     {
-      "path": "/oatt/PART_III-NETWORK_INTEGRATION_TRANSMISSION_SERVICE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_III-NETWORK_INTEGRATION_TRANSMISSION_SERVICE.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/PART_IV-INTERCONNECTIONS_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IV-INTERCONNECTIONS_part1.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_IV-INTERCONNECTIONS_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IV-INTERCONNECTIONS_part2.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_IV-INTERCONNECTIONS_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IV-INTERCONNECTIONS_part3.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/PART_IV-INTERCONNECTIONS_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IV-INTERCONNECTIONS_part4.txt",
       "document": "OATT",
       "size_kb": 56.9
     },
     {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part6.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part7.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part8.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part9.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part10.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part11.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part12.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part13.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part14.txt",
-      "document": "OATT",
-      "size_kb": 3.1
-    },
-    {
-      "path": "/oatt/PART_V-GENERATION_DEACTIVATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_V-GENERATION_DEACTIVATION.txt",
       "document": "OATT",
       "size_kb": 31.2
     },
     {
-      "path": "/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part1.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part2.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part3.txt",
       "document": "OATT",
       "size_kb": 76.1
     },
     {
-      "path": "/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VI-ADMINISTRATION_AND_STUDY_OF_NEW_SERVICE_REQUESTS_part4.txt",
       "document": "OATT",
       "size_kb": 62.7
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part1.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part2.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part3.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part4.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part5.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VII-TRANSITION_CYCLE_GENERATION_INTERCONNECTION_part6.txt",
       "document": "OATT",
       "size_kb": 69.6
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part1.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part2.txt",
       "document": "OATT",
       "size_kb": 76.4
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part3.txt",
       "document": "OATT",
       "size_kb": 76.5
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part4.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part5.txt",
       "document": "OATT",
       "size_kb": 76.2
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part6.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_VIII-NEW_RULES_GENERATION_INTERCONNECTION_part7.txt",
       "document": "OATT",
       "size_kb": 2.6
     },
     {
-      "path": "/oatt/SCHEDULE_1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part7.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part8.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part9.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part10.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part11.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part12.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part13.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/PART_IX-FORMS_OF_INTERCONNECTION_AGREEMENTS_part14.txt",
+      "document": "OATT",
+      "size_kb": 3.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_1.txt",
       "document": "OATT",
       "size_kb": 1.0
     },
     {
-      "path": "/oatt/SCHEDULE_1A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_1A.txt",
       "document": "OATT",
       "size_kb": 4.5
     },
     {
-      "path": "/oatt/SCHEDULE_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_2.txt",
       "document": "OATT",
       "size_kb": 9.7
     },
     {
-      "path": "/oatt/SCHEDULE_3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_3.txt",
       "document": "OATT",
       "size_kb": 6.9
     },
     {
-      "path": "/oatt/SCHEDULE_4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_4.txt",
       "document": "OATT",
       "size_kb": 1.8
     },
     {
-      "path": "/oatt/SCHEDULE_5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_5.txt",
       "document": "OATT",
       "size_kb": 1.6
     },
     {
-      "path": "/oatt/SCHEDULE_6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_6.txt",
       "document": "OATT",
       "size_kb": 1.6
     },
     {
-      "path": "/oatt/SCHEDULE_6A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_6A.txt",
       "document": "OATT",
       "size_kb": 55.5
     },
     {
-      "path": "/oatt/SCHEDULE_7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_7.txt",
       "document": "OATT",
       "size_kb": 29.4
     },
     {
-      "path": "/oatt/SCHEDULE_8.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_8.txt",
       "document": "OATT",
       "size_kb": 14.1
     },
     {
-      "path": "/oatt/SCHEDULE_9-1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-1.txt",
       "document": "OATT",
       "size_kb": 2.4
     },
     {
-      "path": "/oatt/SCHEDULE_9-2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-2.txt",
       "document": "OATT",
       "size_kb": 4.2
     },
     {
-      "path": "/oatt/SCHEDULE_9-3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-3.txt",
       "document": "OATT",
       "size_kb": 7.0
     },
     {
-      "path": "/oatt/SCHEDULE_9-4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-4.txt",
       "document": "OATT",
       "size_kb": 3.8
     },
     {
-      "path": "/oatt/SCHEDULE_9-5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-5.txt",
       "document": "OATT",
       "size_kb": 1.5
     },
     {
-      "path": "/oatt/SCHEDULE_9-CAPS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-CAPS.txt",
       "document": "OATT",
       "size_kb": 3.4
     },
     {
-      "path": "/oatt/SCHEDULE_9-FERC.txt",
-      "document": "OATT",
-      "size_kb": 3.8
-    },
-    {
-      "path": "/oatt/SCHEDULE_9-FINCON.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-FINCON.txt",
       "document": "OATT",
       "size_kb": 2.0
     },
     {
-      "path": "/oatt/SCHEDULE_9-MMU.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-FERC.txt",
+      "document": "OATT",
+      "size_kb": 3.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-MMU.txt",
       "document": "OATT",
       "size_kb": 16.4
     },
     {
-      "path": "/oatt/SCHEDULE_9-OPSI.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9-OPSI.txt",
       "document": "OATT",
       "size_kb": 3.3
     },
     {
-      "path": "/oatt/SCHEDULE_9.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_9.txt",
       "document": "OATT",
       "size_kb": 7.4
     },
     {
-      "path": "/oatt/SCHEDULE_10-NERC.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_10-NERC.txt",
       "document": "OATT",
       "size_kb": 3.2
     },
     {
-      "path": "/oatt/SCHEDULE_10-RFC.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_10-RFC.txt",
       "document": "OATT",
       "size_kb": 3.1
     },
     {
-      "path": "/oatt/SCHEDULE_10.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_10.txt",
       "document": "OATT",
       "size_kb": 0.3
     },
     {
-      "path": "/oatt/SCHEDULE_11.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_11.txt",
       "document": "OATT",
       "size_kb": 0.2
     },
     {
-      "path": "/oatt/SCHEDULE_11A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_11A.txt",
       "document": "OATT",
       "size_kb": 2.0
     },
     {
-      "path": "/oatt/SCHEDULE_12_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part1.txt",
       "document": "OATT",
       "size_kb": 76.3
     },
     {
-      "path": "/oatt/SCHEDULE_12_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part2.txt",
       "document": "OATT",
       "size_kb": 77.9
     },
     {
-      "path": "/oatt/SCHEDULE_12_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part3.txt",
       "document": "OATT",
       "size_kb": 77.7
     },
     {
-      "path": "/oatt/SCHEDULE_12_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part4.txt",
       "document": "OATT",
       "size_kb": 77.7
     },
     {
-      "path": "/oatt/SCHEDULE_12_part5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part5.txt",
       "document": "OATT",
       "size_kb": 77.8
     },
     {
-      "path": "/oatt/SCHEDULE_12_part6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part6.txt",
       "document": "OATT",
       "size_kb": 77.2
     },
     {
-      "path": "/oatt/SCHEDULE_12_part7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part7.txt",
       "document": "OATT",
       "size_kb": 77.8
     },
     {
-      "path": "/oatt/SCHEDULE_12_part8.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part8.txt",
       "document": "OATT",
       "size_kb": 77.8
     },
     {
-      "path": "/oatt/SCHEDULE_12_part9.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part9.txt",
       "document": "OATT",
       "size_kb": 78.0
     },
     {
-      "path": "/oatt/SCHEDULE_12_part10.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part10.txt",
       "document": "OATT",
       "size_kb": 78.0
     },
     {
-      "path": "/oatt/SCHEDULE_12_part11.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part11.txt",
       "document": "OATT",
       "size_kb": 77.8
     },
     {
-      "path": "/oatt/SCHEDULE_12_part12.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part12.txt",
       "document": "OATT",
       "size_kb": 77.6
     },
     {
-      "path": "/oatt/SCHEDULE_12_part13.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part13.txt",
       "document": "OATT",
       "size_kb": 77.6
     },
     {
-      "path": "/oatt/SCHEDULE_12_part14.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part14.txt",
       "document": "OATT",
       "size_kb": 77.9
     },
     {
-      "path": "/oatt/SCHEDULE_12_part15.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part15.txt",
       "document": "OATT",
       "size_kb": 77.9
     },
     {
-      "path": "/oatt/SCHEDULE_12_part16.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part16.txt",
       "document": "OATT",
       "size_kb": 77.9
     },
     {
-      "path": "/oatt/SCHEDULE_12_part17.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part17.txt",
       "document": "OATT",
       "size_kb": 77.2
     },
     {
-      "path": "/oatt/SCHEDULE_12_part18.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_12_part18.txt",
       "document": "OATT",
       "size_kb": 13.0
     },
     {
-      "path": "/oatt/SCHEDULE_13.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_13.txt",
       "document": "OATT",
       "size_kb": 5.1
     },
     {
-      "path": "/oatt/SCHEDULE_14.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_14.txt",
       "document": "OATT",
       "size_kb": 36.5
     },
     {
-      "path": "/oatt/SCHEDULE_15.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_15.txt",
       "document": "OATT",
       "size_kb": 3.1
     },
     {
-      "path": "/oatt/SCHEDULE_16.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_16.txt",
       "document": "OATT",
       "size_kb": 74.9
     },
     {
-      "path": "/oatt/SCHEDULE_17.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/SCHEDULE_17.txt",
       "document": "OATT",
       "size_kb": 46.2
     },
     {
-      "path": "/oatt/ATTACHMENT_A-1.txt",
-      "document": "OATT",
-      "size_kb": 5.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_A.txt",
-      "document": "OATT",
-      "size_kb": 10.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_AA.txt",
-      "document": "OATT",
-      "size_kb": 3.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_B.txt",
-      "document": "OATT",
-      "size_kb": 3.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_BB.txt",
-      "document": "OATT",
-      "size_kb": 8.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_C-1.txt",
-      "document": "OATT",
-      "size_kb": 8.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_C-2.txt",
-      "document": "OATT",
-      "size_kb": 16.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_C-4.txt",
-      "document": "OATT",
-      "size_kb": 9.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_C.txt",
-      "document": "OATT",
-      "size_kb": 34.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_CC.txt",
-      "document": "OATT",
-      "size_kb": 3.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_D.txt",
-      "document": "OATT",
-      "size_kb": 3.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part6.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_DD_part7.txt",
-      "document": "OATT",
-      "size_kb": 17.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_E.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_I.txt",
       "document": "OATT",
       "size_kb": 0.4
     },
     {
-      "path": "/oatt/ATTACHMENT_EE.txt",
-      "document": "OATT",
-      "size_kb": 3.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_F-1.txt",
-      "document": "OATT",
-      "size_kb": 35.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_F.txt",
-      "document": "OATT",
-      "size_kb": 6.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_G.txt",
-      "document": "OATT",
-      "size_kb": 1.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part6.txt",
-      "document": "OATT",
-      "size_kb": 76.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part7.txt",
-      "document": "OATT",
-      "size_kb": 76.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_GG_part8.txt",
-      "document": "OATT",
-      "size_kb": 72.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1.txt",
-      "document": "OATT",
-      "size_kb": 2.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1A_part1.txt",
-      "document": "OATT",
-      "size_kb": 78.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1A_part2.txt",
-      "document": "OATT",
-      "size_kb": 78.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1A_part3.txt",
-      "document": "OATT",
-      "size_kb": 78.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1A_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1A_part5.txt",
-      "document": "OATT",
-      "size_kb": 31.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-1B.txt",
-      "document": "OATT",
-      "size_kb": 23.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2.txt",
-      "document": "OATT",
-      "size_kb": 1.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2A_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2A_part2.txt",
-      "document": "OATT",
-      "size_kb": 78.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2A_part3.txt",
-      "document": "OATT",
-      "size_kb": 79.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2A_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2A_part5.txt",
-      "document": "OATT",
-      "size_kb": 34.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-2B.txt",
-      "document": "OATT",
-      "size_kb": 22.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3.txt",
-      "document": "OATT",
-      "size_kb": 2.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3A.txt",
-      "document": "OATT",
-      "size_kb": 1.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3B.txt",
-      "document": "OATT",
-      "size_kb": 3.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3C.txt",
-      "document": "OATT",
-      "size_kb": 1.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3D_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3D_part2.txt",
-      "document": "OATT",
-      "size_kb": 78.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3D_part3.txt",
-      "document": "OATT",
-      "size_kb": 79.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3D_part4.txt",
-      "document": "OATT",
-      "size_kb": 77.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3D_part5.txt",
-      "document": "OATT",
-      "size_kb": 46.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3E.txt",
-      "document": "OATT",
-      "size_kb": 22.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3F.txt",
-      "document": "OATT",
-      "size_kb": 73.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-3G.txt",
-      "document": "OATT",
-      "size_kb": 13.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-4.txt",
-      "document": "OATT",
-      "size_kb": 1.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-4A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-4A_part2.txt",
-      "document": "OATT",
-      "size_kb": 22.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-4B.txt",
-      "document": "OATT",
-      "size_kb": 40.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-5.txt",
-      "document": "OATT",
-      "size_kb": 1.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-5A.txt",
-      "document": "OATT",
-      "size_kb": 2.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-6.txt",
-      "document": "OATT",
-      "size_kb": 1.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-6A.txt",
-      "document": "OATT",
-      "size_kb": 4.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7_part2.txt",
-      "document": "OATT",
-      "size_kb": 79.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7_part3.txt",
-      "document": "OATT",
-      "size_kb": 47.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7B.txt",
-      "document": "OATT",
-      "size_kb": 7.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-7C.txt",
-      "document": "OATT",
-      "size_kb": 36.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8.txt",
-      "document": "OATT",
-      "size_kb": 5.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8A_part2.txt",
-      "document": "OATT",
-      "size_kb": 0.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8G_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8G_part2.txt",
-      "document": "OATT",
-      "size_kb": 48.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-8H.txt",
-      "document": "OATT",
-      "size_kb": 31.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9.txt",
-      "document": "OATT",
-      "size_kb": 3.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part1.txt",
-      "document": "OATT",
-      "size_kb": 78.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part3.txt",
-      "document": "OATT",
-      "size_kb": 78.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part4.txt",
-      "document": "OATT",
-      "size_kb": 80.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part5.txt",
-      "document": "OATT",
-      "size_kb": 80.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part6.txt",
-      "document": "OATT",
-      "size_kb": 78.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9A_part7.txt",
-      "document": "OATT",
-      "size_kb": 40.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9B.txt",
-      "document": "OATT",
-      "size_kb": 23.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-9C.txt",
-      "document": "OATT",
-      "size_kb": 2.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10.txt",
-      "document": "OATT",
-      "size_kb": 26.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10A_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10A_part2.txt",
-      "document": "OATT",
-      "size_kb": 51.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-10B.txt",
-      "document": "OATT",
-      "size_kb": 24.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-11_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-11_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-11_part3.txt",
-      "document": "OATT",
-      "size_kb": 77.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-11_part4.txt",
-      "document": "OATT",
-      "size_kb": 64.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-12.txt",
-      "document": "OATT",
-      "size_kb": 1.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-13.txt",
-      "document": "OATT",
-      "size_kb": 6.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-13A_part1.txt",
-      "document": "OATT",
-      "size_kb": 78.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-13A_part2.txt",
-      "document": "OATT",
-      "size_kb": 78.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-13A_part3.txt",
-      "document": "OATT",
-      "size_kb": 5.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-13B.txt",
-      "document": "OATT",
-      "size_kb": 20.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-14.txt",
-      "document": "OATT",
-      "size_kb": 6.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-14A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-14A_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-14A_part3.txt",
-      "document": "OATT",
-      "size_kb": 16.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-15_part1.txt",
-      "document": "OATT",
-      "size_kb": 79.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-15_part2.txt",
-      "document": "OATT",
-      "size_kb": 80.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-15_part3.txt",
-      "document": "OATT",
-      "size_kb": 26.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16_part2.txt",
-      "document": "OATT",
-      "size_kb": 72.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16A.txt",
-      "document": "OATT",
-      "size_kb": 65.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16AA.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16B.txt",
-      "document": "OATT",
-      "size_kb": 9.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16C.txt",
-      "document": "OATT",
-      "size_kb": 0.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16D.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-16E.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17.txt",
-      "document": "OATT",
-      "size_kb": 2.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17A_part2.txt",
-      "document": "OATT",
-      "size_kb": 75.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17A_part3.txt",
-      "document": "OATT",
-      "size_kb": 14.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17B.txt",
-      "document": "OATT",
-      "size_kb": 17.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-17C.txt",
-      "document": "OATT",
-      "size_kb": 1.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-18.txt",
-      "document": "OATT",
-      "size_kb": 1.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-18A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-18A_part2.txt",
-      "document": "OATT",
-      "size_kb": 60.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-18B.txt",
-      "document": "OATT",
-      "size_kb": 15.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-19.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20_part2.txt",
-      "document": "OATT",
-      "size_kb": 50.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20B_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20B_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-20B_part3.txt",
-      "document": "OATT",
-      "size_kb": 10.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-21.txt",
-      "document": "OATT",
-      "size_kb": 2.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-21A.txt",
-      "document": "OATT",
-      "size_kb": 75.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-21B.txt",
-      "document": "OATT",
-      "size_kb": 36.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-22.txt",
-      "document": "OATT",
-      "size_kb": 1.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-22A.txt",
-      "document": "OATT",
-      "size_kb": 56.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-22B.txt",
-      "document": "OATT",
-      "size_kb": 23.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-23.txt",
-      "document": "OATT",
-      "size_kb": 0.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-24.txt",
-      "document": "OATT",
-      "size_kb": 44.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-25.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-25A.txt",
-      "document": "OATT",
-      "size_kb": 0.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-25B_part1.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-25B_part2.txt",
-      "document": "OATT",
-      "size_kb": 33.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-26A.txt",
-      "document": "OATT",
-      "size_kb": 41.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-27_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-27_part2.txt",
-      "document": "OATT",
-      "size_kb": 75.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-27B.txt",
-      "document": "OATT",
-      "size_kb": 41.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-28.txt",
-      "document": "OATT",
-      "size_kb": 1.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-28A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-28A_part2.txt",
-      "document": "OATT",
-      "size_kb": 28.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-28B.txt",
-      "document": "OATT",
-      "size_kb": 38.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-29_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-29_part2.txt",
-      "document": "OATT",
-      "size_kb": 39.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-29B.txt",
-      "document": "OATT",
-      "size_kb": 45.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-30_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-30_part2.txt",
-      "document": "OATT",
-      "size_kb": 39.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-30B.txt",
-      "document": "OATT",
-      "size_kb": 45.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-31.txt",
-      "document": "OATT",
-      "size_kb": 1.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-32.txt",
-      "document": "OATT",
-      "size_kb": 65.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-32B.txt",
-      "document": "OATT",
-      "size_kb": 67.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-32C.txt",
-      "document": "OATT",
-      "size_kb": 6.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33.txt",
-      "document": "OATT",
-      "size_kb": 1.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part2.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part3.txt",
-      "document": "OATT",
-      "size_kb": 77.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part5.txt",
-      "document": "OATT",
-      "size_kb": 77.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part6.txt",
-      "document": "OATT",
-      "size_kb": 77.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part7.txt",
-      "document": "OATT",
-      "size_kb": 77.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part8.txt",
-      "document": "OATT",
-      "size_kb": 77.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part9.txt",
-      "document": "OATT",
-      "size_kb": 77.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-33A_part10.txt",
-      "document": "OATT",
-      "size_kb": 68.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_H-A.txt",
-      "document": "OATT",
-      "size_kb": 2.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_I.txt",
-      "document": "OATT",
-      "size_kb": 0.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_J.txt",
-      "document": "OATT",
-      "size_kb": 1.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part4.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part5.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part6.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part7.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part8.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part9.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part10.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part11.txt",
-      "document": "OATT",
-      "size_kb": 76.0
-    },
-    {
-      "path": "/oatt/ATTACHMENT_K_part12.txt",
-      "document": "OATT",
-      "size_kb": 65.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_L.txt",
-      "document": "OATT",
-      "size_kb": 2.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M-2_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M-2_part2.txt",
-      "document": "OATT",
-      "size_kb": 34.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_M_part3.txt",
-      "document": "OATT",
-      "size_kb": 17.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_N-1.txt",
-      "document": "OATT",
-      "size_kb": 21.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_N-2.txt",
-      "document": "OATT",
-      "size_kb": 31.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_N-3.txt",
-      "document": "OATT",
-      "size_kb": 17.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_N.txt",
-      "document": "OATT",
-      "size_kb": 26.7
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O-1.txt",
-      "document": "OATT",
-      "size_kb": 45.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O-2.txt",
-      "document": "OATT",
-      "size_kb": 50.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.3
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O_part3.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_O_part4.txt",
-      "document": "OATT",
-      "size_kb": 35.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_P_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_P_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_P_part3.txt",
-      "document": "OATT",
-      "size_kb": 61.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_Q_part1.txt",
-      "document": "OATT",
-      "size_kb": 76.4
-    },
-    {
-      "path": "/oatt/ATTACHMENT_Q_part2.txt",
-      "document": "OATT",
-      "size_kb": 76.2
-    },
-    {
-      "path": "/oatt/ATTACHMENT_Q_part3.txt",
-      "document": "OATT",
-      "size_kb": 40.1
-    },
-    {
-      "path": "/oatt/ATTACHMENT_R.txt",
-      "document": "OATT",
-      "size_kb": 6.9
-    },
-    {
-      "path": "/oatt/ATTACHMENT_S.txt",
-      "document": "OATT",
-      "size_kb": 20.6
-    },
-    {
-      "path": "/oatt/ATTACHMENT_T.txt",
-      "document": "OATT",
-      "size_kb": 1.8
-    },
-    {
-      "path": "/oatt/ATTACHMENT_U.txt",
-      "document": "OATT",
-      "size_kb": 35.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_V.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_V.txt",
       "document": "OATT",
       "size_kb": 7.5
     },
     {
-      "path": "/oatt/ATTACHMENT_W.txt",
-      "document": "OATT",
-      "size_kb": 10.5
-    },
-    {
-      "path": "/oatt/ATTACHMENT_X.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_X.txt",
       "document": "OATT",
       "size_kb": 15.1
     },
     {
-      "path": "/oatt/ATTACHMENT_Y.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_A-1.txt",
+      "document": "OATT",
+      "size_kb": 5.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_A.txt",
+      "document": "OATT",
+      "size_kb": 10.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_AA.txt",
+      "document": "OATT",
+      "size_kb": 3.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_B.txt",
+      "document": "OATT",
+      "size_kb": 3.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_BB.txt",
+      "document": "OATT",
+      "size_kb": 8.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_C-1.txt",
+      "document": "OATT",
+      "size_kb": 8.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_C-2.txt",
+      "document": "OATT",
+      "size_kb": 16.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_C-4.txt",
+      "document": "OATT",
+      "size_kb": 9.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_C.txt",
+      "document": "OATT",
+      "size_kb": 34.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_CC.txt",
+      "document": "OATT",
+      "size_kb": 3.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_D.txt",
+      "document": "OATT",
+      "size_kb": 3.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_DD_part7.txt",
+      "document": "OATT",
+      "size_kb": 17.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_E.txt",
+      "document": "OATT",
+      "size_kb": 0.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_EE.txt",
+      "document": "OATT",
+      "size_kb": 3.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_F-1.txt",
+      "document": "OATT",
+      "size_kb": 35.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_F.txt",
+      "document": "OATT",
+      "size_kb": 6.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_G.txt",
+      "document": "OATT",
+      "size_kb": 1.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part7.txt",
+      "document": "OATT",
+      "size_kb": 76.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_GG_part8.txt",
+      "document": "OATT",
+      "size_kb": 72.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1.txt",
+      "document": "OATT",
+      "size_kb": 2.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1A_part1.txt",
+      "document": "OATT",
+      "size_kb": 78.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1A_part2.txt",
+      "document": "OATT",
+      "size_kb": 78.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1A_part3.txt",
+      "document": "OATT",
+      "size_kb": 78.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1A_part4.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1A_part5.txt",
+      "document": "OATT",
+      "size_kb": 31.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-1B.txt",
+      "document": "OATT",
+      "size_kb": 23.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2.txt",
+      "document": "OATT",
+      "size_kb": 1.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2A_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2A_part2.txt",
+      "document": "OATT",
+      "size_kb": 78.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2A_part3.txt",
+      "document": "OATT",
+      "size_kb": 79.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2A_part4.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2A_part5.txt",
+      "document": "OATT",
+      "size_kb": 34.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-2B.txt",
+      "document": "OATT",
+      "size_kb": 22.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3.txt",
+      "document": "OATT",
+      "size_kb": 2.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3A.txt",
+      "document": "OATT",
+      "size_kb": 1.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3B.txt",
+      "document": "OATT",
+      "size_kb": 3.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3C.txt",
+      "document": "OATT",
+      "size_kb": 1.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3D_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3D_part2.txt",
+      "document": "OATT",
+      "size_kb": 78.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3D_part3.txt",
+      "document": "OATT",
+      "size_kb": 79.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3D_part4.txt",
+      "document": "OATT",
+      "size_kb": 77.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3D_part5.txt",
+      "document": "OATT",
+      "size_kb": 46.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3E.txt",
+      "document": "OATT",
+      "size_kb": 22.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3F.txt",
+      "document": "OATT",
+      "size_kb": 73.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-3G.txt",
+      "document": "OATT",
+      "size_kb": 13.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-4.txt",
+      "document": "OATT",
+      "size_kb": 1.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-4A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-4A_part2.txt",
+      "document": "OATT",
+      "size_kb": 22.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-4B.txt",
+      "document": "OATT",
+      "size_kb": 40.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-5.txt",
+      "document": "OATT",
+      "size_kb": 1.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-5A.txt",
+      "document": "OATT",
+      "size_kb": 2.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-6.txt",
+      "document": "OATT",
+      "size_kb": 1.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-6A.txt",
+      "document": "OATT",
+      "size_kb": 4.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-7_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-7_part2.txt",
+      "document": "OATT",
+      "size_kb": 79.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-7_part3.txt",
+      "document": "OATT",
+      "size_kb": 47.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-7B.txt",
+      "document": "OATT",
+      "size_kb": 7.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-7C.txt",
+      "document": "OATT",
+      "size_kb": 36.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8.txt",
+      "document": "OATT",
+      "size_kb": 5.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8A_part2.txt",
+      "document": "OATT",
+      "size_kb": 0.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8G_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8G_part2.txt",
+      "document": "OATT",
+      "size_kb": 48.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-8H.txt",
+      "document": "OATT",
+      "size_kb": 31.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9.txt",
+      "document": "OATT",
+      "size_kb": 3.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part1.txt",
+      "document": "OATT",
+      "size_kb": 78.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part3.txt",
+      "document": "OATT",
+      "size_kb": 78.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part4.txt",
+      "document": "OATT",
+      "size_kb": 80.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part5.txt",
+      "document": "OATT",
+      "size_kb": 80.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part6.txt",
+      "document": "OATT",
+      "size_kb": 78.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9A_part7.txt",
+      "document": "OATT",
+      "size_kb": 40.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9B.txt",
+      "document": "OATT",
+      "size_kb": 23.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-9C.txt",
+      "document": "OATT",
+      "size_kb": 2.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-10.txt",
+      "document": "OATT",
+      "size_kb": 26.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-10A_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-10A_part2.txt",
+      "document": "OATT",
+      "size_kb": 51.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-10B.txt",
+      "document": "OATT",
+      "size_kb": 24.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-11_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-11_part2.txt",
+      "document": "OATT",
+      "size_kb": 77.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-11_part3.txt",
+      "document": "OATT",
+      "size_kb": 77.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-11_part4.txt",
+      "document": "OATT",
+      "size_kb": 64.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-12.txt",
+      "document": "OATT",
+      "size_kb": 1.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-13.txt",
+      "document": "OATT",
+      "size_kb": 6.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-13A_part1.txt",
+      "document": "OATT",
+      "size_kb": 78.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-13A_part2.txt",
+      "document": "OATT",
+      "size_kb": 78.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-13A_part3.txt",
+      "document": "OATT",
+      "size_kb": 5.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-13B.txt",
+      "document": "OATT",
+      "size_kb": 20.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-14.txt",
+      "document": "OATT",
+      "size_kb": 6.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-14A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-14A_part2.txt",
+      "document": "OATT",
+      "size_kb": 77.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-14A_part3.txt",
+      "document": "OATT",
+      "size_kb": 16.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-15_part1.txt",
+      "document": "OATT",
+      "size_kb": 79.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-15_part2.txt",
+      "document": "OATT",
+      "size_kb": 80.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-15_part3.txt",
+      "document": "OATT",
+      "size_kb": 26.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16_part2.txt",
+      "document": "OATT",
+      "size_kb": 72.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16A.txt",
+      "document": "OATT",
+      "size_kb": 65.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16AA.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16B.txt",
+      "document": "OATT",
+      "size_kb": 9.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16C.txt",
+      "document": "OATT",
+      "size_kb": 0.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16D.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-16E.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17.txt",
+      "document": "OATT",
+      "size_kb": 2.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17A_part2.txt",
+      "document": "OATT",
+      "size_kb": 75.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17A_part3.txt",
+      "document": "OATT",
+      "size_kb": 14.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17B.txt",
+      "document": "OATT",
+      "size_kb": 17.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-17C.txt",
+      "document": "OATT",
+      "size_kb": 1.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-18.txt",
+      "document": "OATT",
+      "size_kb": 1.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-18A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-18A_part2.txt",
+      "document": "OATT",
+      "size_kb": 60.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-18B.txt",
+      "document": "OATT",
+      "size_kb": 15.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-19.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-20_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-20_part2.txt",
+      "document": "OATT",
+      "size_kb": 50.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-20B_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-20B_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-20B_part3.txt",
+      "document": "OATT",
+      "size_kb": 10.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-21.txt",
+      "document": "OATT",
+      "size_kb": 2.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-21A.txt",
+      "document": "OATT",
+      "size_kb": 75.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-21B.txt",
+      "document": "OATT",
+      "size_kb": 36.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-22.txt",
+      "document": "OATT",
+      "size_kb": 1.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-22A.txt",
+      "document": "OATT",
+      "size_kb": 56.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-22B.txt",
+      "document": "OATT",
+      "size_kb": 23.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-23.txt",
+      "document": "OATT",
+      "size_kb": 0.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-24.txt",
+      "document": "OATT",
+      "size_kb": 44.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-25.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-25A.txt",
+      "document": "OATT",
+      "size_kb": 0.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-25B_part1.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-25B_part2.txt",
+      "document": "OATT",
+      "size_kb": 33.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-26A.txt",
+      "document": "OATT",
+      "size_kb": 41.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-27_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-27_part2.txt",
+      "document": "OATT",
+      "size_kb": 75.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-27B.txt",
+      "document": "OATT",
+      "size_kb": 41.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-28.txt",
+      "document": "OATT",
+      "size_kb": 1.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-28A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-28A_part2.txt",
+      "document": "OATT",
+      "size_kb": 28.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-28B.txt",
+      "document": "OATT",
+      "size_kb": 38.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-29_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-29_part2.txt",
+      "document": "OATT",
+      "size_kb": 39.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-29B.txt",
+      "document": "OATT",
+      "size_kb": 45.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-30_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-30_part2.txt",
+      "document": "OATT",
+      "size_kb": 39.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-30B.txt",
+      "document": "OATT",
+      "size_kb": 45.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-31.txt",
+      "document": "OATT",
+      "size_kb": 1.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-32.txt",
+      "document": "OATT",
+      "size_kb": 65.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-32B.txt",
+      "document": "OATT",
+      "size_kb": 67.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-32C.txt",
+      "document": "OATT",
+      "size_kb": 6.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33.txt",
+      "document": "OATT",
+      "size_kb": 1.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part2.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part3.txt",
+      "document": "OATT",
+      "size_kb": 77.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part5.txt",
+      "document": "OATT",
+      "size_kb": 77.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part6.txt",
+      "document": "OATT",
+      "size_kb": 77.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part7.txt",
+      "document": "OATT",
+      "size_kb": 77.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part8.txt",
+      "document": "OATT",
+      "size_kb": 77.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part9.txt",
+      "document": "OATT",
+      "size_kb": 77.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-33A_part10.txt",
+      "document": "OATT",
+      "size_kb": 68.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_H-A.txt",
+      "document": "OATT",
+      "size_kb": 2.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_J.txt",
+      "document": "OATT",
+      "size_kb": 1.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part4.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part5.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part6.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part7.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part8.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part9.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part10.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part11.txt",
+      "document": "OATT",
+      "size_kb": 76.0
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_K_part12.txt",
+      "document": "OATT",
+      "size_kb": 65.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_L.txt",
+      "document": "OATT",
+      "size_kb": 2.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_M-2_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_M-2_part2.txt",
+      "document": "OATT",
+      "size_kb": 34.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_M_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_M_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_M_part3.txt",
+      "document": "OATT",
+      "size_kb": 17.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_N-1.txt",
+      "document": "OATT",
+      "size_kb": 21.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_N-2.txt",
+      "document": "OATT",
+      "size_kb": 31.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_N-3.txt",
+      "document": "OATT",
+      "size_kb": 17.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_N.txt",
+      "document": "OATT",
+      "size_kb": 26.7
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O-1.txt",
+      "document": "OATT",
+      "size_kb": 45.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O-2.txt",
+      "document": "OATT",
+      "size_kb": 50.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.3
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O_part3.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_O_part4.txt",
+      "document": "OATT",
+      "size_kb": 35.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_P_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_P_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_P_part3.txt",
+      "document": "OATT",
+      "size_kb": 61.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_Q_part1.txt",
+      "document": "OATT",
+      "size_kb": 76.4
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_Q_part2.txt",
+      "document": "OATT",
+      "size_kb": 76.2
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_Q_part3.txt",
+      "document": "OATT",
+      "size_kb": 40.1
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_R.txt",
+      "document": "OATT",
+      "size_kb": 6.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_S.txt",
+      "document": "OATT",
+      "size_kb": 20.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_T.txt",
+      "document": "OATT",
+      "size_kb": 1.8
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_U.txt",
+      "document": "OATT",
+      "size_kb": 35.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_W.txt",
+      "document": "OATT",
+      "size_kb": 10.5
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_Y.txt",
       "document": "OATT",
       "size_kb": 14.6
     },
     {
-      "path": "/oatt/ATTACHMENT_Z.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oatt/ATTACHMENT_Z.txt",
       "document": "OATT",
       "size_kb": 1.8
     },
     {
-      "path": "/oa/165_Resolution_of_Disputes.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/165_Resolution_of_Disputes.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/-_Table_of_Contents.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/-_Table_of_Contents.txt",
       "document": "OA",
       "size_kb": 11.9
     },
     {
-      "path": "/oa/OPERATING_AGREEMENT.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OPERATING_AGREEMENT.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/Resolution_and_Certification_Page.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Resolution_and_Certification_Page.txt",
       "document": "OA",
       "size_kb": 3.3
     },
     {
-      "path": "/oa/1_DEFINITIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1_DEFINITIONS.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/2_FORMATION_NAME_PLACE_OF_BUSINESS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/2_FORMATION_NAME_PLACE_OF_BUSINESS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/3_PURPOSES_AND_POWERS_OF_LLC.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/3_PURPOSES_AND_POWERS_OF_LLC.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/4_EFFECTIVE_DATE_AND_TERMINATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/4_EFFECTIVE_DATE_AND_TERMINATION.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/5_WORKING_CAPITAL_AND_CAPITAL_CONTRIBUTIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/5_WORKING_CAPITAL_AND_CAPITAL_CONTRIBUTIONS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/6_TAX_STATUS_AND_DISTRIBUTIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/6_TAX_STATUS_AND_DISTRIBUTIONS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/7_PJM_BOARD.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/7_PJM_BOARD.txt",
       "document": "OA",
       "size_kb": 0.1
     },
     {
-      "path": "/oa/8_MEMBERS_COMMITTEE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/8_MEMBERS_COMMITTEE.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/9_OFFICERS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/9_OFFICERS.txt",
       "document": "OA",
       "size_kb": 0.1
     },
     {
-      "path": "/oa/10_OFFICE_OF_THE_INTERCONNECTION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/10_OFFICE_OF_THE_INTERCONNECTION.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/11_MEMBERS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/11_MEMBERS.txt",
       "document": "OA",
       "size_kb": 0.1
     },
     {
-      "path": "/oa/12_TRANSFERS_OF_MEMBERSHIP_INTEREST.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/12_TRANSFERS_OF_MEMBERSHIP_INTEREST.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/13_INTERCHANGE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/13_INTERCHANGE.txt",
       "document": "OA",
       "size_kb": 0.1
     },
     {
-      "path": "/oa/14_METERING.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14_METERING.txt",
       "document": "OA",
       "size_kb": 0.1
     },
     {
-      "path": "/oa/14A1_Description_of_Transmission.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14A1_Description_of_Transmission.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/14A2_Inclusion_of_Transmission.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14A2_Inclusion_of_Transmission.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/14A3_Other_Losses.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14A3_Other_Losses.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/14A_TRANSMISSION_LOSSES.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14A_TRANSMISSION_LOSSES.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/14B1_Billing_Procedure.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14B1_Billing_Procedure.txt",
       "document": "OA",
       "size_kb": 3.2
     },
     {
-      "path": "/oa/14B2_Payments.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14B2_Payments.txt",
       "document": "OA",
       "size_kb": 6.0
     },
     {
-      "path": "/oa/14B3_Interest_on_Unpaid_Balances.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14B3_Interest_on_Unpaid_Balances.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/14B4_Additional_Billing.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14B4_Additional_Billing.txt",
       "document": "OA",
       "size_kb": 4.5
     },
     {
-      "path": "/oa/14B_BILLING_AND_PAYMENT.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/14B_BILLING_AND_PAYMENT.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/15_ENFORCEMENT_OF_OBLIGATIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/15_ENFORCEMENT_OF_OBLIGATIONS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/16_LIABILITY_AND_INDEMNITY.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/16_LIABILITY_AND_INDEMNITY.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/17_MEMBER_REPRESENTATIONS_WARRANTIES_AND_COVENANTS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/17_MEMBER_REPRESENTATIONS_WARRANTIES_AND_COVENANTS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/17_MEMBER_REPRESENTATIONS_WARRANTIES_AND_COVENANTS_--.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/17_MEMBER_REPRESENTATIONS_WARRANTIES_AND_COVENANTS_--.txt",
       "document": "OA",
       "size_kb": 5.5
     },
     {
-      "path": "/oa/18_MISCELLANEOUS_PROVISIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/18_MISCELLANEOUS_PROVISIONS.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/21_Formation_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/21_Formation_of.txt",
       "document": "OA",
       "size_kb": 1.6
     },
     {
-      "path": "/oa/22_Name_of_LLC.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/22_Name_of_LLC.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/23_Place_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/23_Place_of.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/24_Registered.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/24_Registered.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/31_Purposes.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/31_Purposes.txt",
       "document": "OA",
       "size_kb": 1.5
     },
     {
-      "path": "/oa/32_Powers.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/32_Powers.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/33_Counterparty.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/33_Counterparty.txt",
       "document": "OA",
       "size_kb": 6.0
     },
     {
-      "path": "/oa/41_Effective_Date_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/41_Effective_Date_and.txt",
       "document": "OA",
       "size_kb": 1.1
     },
     {
-      "path": "/oa/42_Governing_Law.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/42_Governing_Law.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/51.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/51.txt",
       "document": "OA",
       "size_kb": 3.7
     },
     {
-      "path": "/oa/52.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/52.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/61_Tax_Status.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/61_Tax_Status.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/62_Return_of_Capital.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/62_Return_of_Capital.txt",
       "document": "OA",
       "size_kb": 1.0
     },
     {
-      "path": "/oa/63_Liquidating_Distribution.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/63_Liquidating_Distribution.txt",
       "document": "OA",
       "size_kb": 0.9
     },
     {
-      "path": "/oa/71_Composition.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/71_Composition.txt",
       "document": "OA",
       "size_kb": 2.2
     },
     {
-      "path": "/oa/72_Qualifications.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/72_Qualifications.txt",
       "document": "OA",
       "size_kb": 1.2
     },
     {
-      "path": "/oa/73_Term_of_Office.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/73_Term_of_Office.txt",
       "document": "OA",
       "size_kb": 2.0
     },
     {
-      "path": "/oa/74_Quorum.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/74_Quorum.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/75_Operating_and_Capital_Budgets_Sources_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/75_Operating_and_Capital_Budgets_Sources_and.txt",
       "document": "OA",
       "size_kb": 3.9
     },
     {
-      "path": "/oa/76_By-laws.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/76_By-laws.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/77_Duties_and_Responsibilities_of_the_PJM_Board.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/77_Duties_and_Responsibilities_of_the_PJM_Board.txt",
       "document": "OA",
       "size_kb": 4.3
     },
     {
-      "path": "/oa/81_Sectors.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/81_Sectors.txt",
       "document": "OA",
       "size_kb": 5.3
     },
     {
-      "path": "/oa/82_Representatives.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/82_Representatives.txt",
       "document": "OA",
       "size_kb": 4.4
     },
     {
-      "path": "/oa/83_Meetings.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/83_Meetings.txt",
       "document": "OA",
       "size_kb": 4.0
     },
     {
-      "path": "/oa/84_Manner_of_Acting.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/84_Manner_of_Acting.txt",
       "document": "OA",
       "size_kb": 1.8
     },
     {
-      "path": "/oa/85_Chair_and_Vice_Chair_of_the.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/85_Chair_and_Vice_Chair_of_the.txt",
       "document": "OA",
       "size_kb": 2.6
     },
     {
-      "path": "/oa/86_Senior_Standing_and_Other.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/86_Senior_Standing_and_Other.txt",
       "document": "OA",
       "size_kb": 7.1
     },
     {
-      "path": "/oa/87_User_Groups.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/87_User_Groups.txt",
       "document": "OA",
       "size_kb": 1.7
     },
     {
-      "path": "/oa/88_Powers_of_the_Members.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/88_Powers_of_the_Members.txt",
       "document": "OA",
       "size_kb": 1.0
     },
     {
-      "path": "/oa/91_Election_and_Term.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/91_Election_and_Term.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/92_President.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/92_President.txt",
       "document": "OA",
       "size_kb": 1.5
     },
     {
-      "path": "/oa/93_Secretary.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/93_Secretary.txt",
       "document": "OA",
       "size_kb": 1.1
     },
     {
-      "path": "/oa/94_Treasurer.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/94_Treasurer.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/95_Renewal_of_Officers_Vacancies.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/95_Renewal_of_Officers_Vacancies.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/96_Compensation.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/96_Compensation.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/101_Establishment.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/101_Establishment.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/102_Processes_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/102_Processes_and.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/103_Confidential.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/103_Confidential.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/104_Duties_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/104_Duties_and.txt",
       "document": "OA",
       "size_kb": 5.0
     },
     {
-      "path": "/oa/111_Management_Rights.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/111_Management_Rights.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/112_Other_Activities.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/112_Other_Activities.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/113_Member_Responsibilities.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/113_Member_Responsibilities.txt",
       "document": "OA",
       "size_kb": 12.4
     },
     {
-      "path": "/oa/114_Regional_Transmission_Expansion_Planning.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/114_Regional_Transmission_Expansion_Planning.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/115_Member_Right_to_Petition.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/115_Member_Right_to_Petition.txt",
       "document": "OA",
       "size_kb": 1.3
     },
     {
-      "path": "/oa/116_Membership_Requirements.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/116_Membership_Requirements.txt",
       "document": "OA",
       "size_kb": 5.6
     },
     {
-      "path": "/oa/117_Associate_Membership_Requirements.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/117_Associate_Membership_Requirements.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/131_Interchange_Arrangements_with_Non-.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/131_Interchange_Arrangements_with_Non-.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/132_Energy_Market.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/132_Energy_Market.txt",
       "document": "OA",
       "size_kb": 1.0
     },
     {
-      "path": "/oa/141_Installation_Maintenance_and_Reading_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/141_Installation_Maintenance_and_Reading_of.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/142_Metering_Procedures.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/142_Metering_Procedures.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/143_Integrated_Megawatt-Hours.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/143_Integrated_Megawatt-Hours.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/144_Meter_Locations.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/144_Meter_Locations.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/145_Metering_of_Behind_The_Meter_Generation.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/145_Metering_of_Behind_The_Meter_Generation.txt",
       "document": "OA",
       "size_kb": 0.9
     },
     {
-      "path": "/oa/151_Failure_to_Meet.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/151_Failure_to_Meet.txt",
       "document": "OA",
       "size_kb": 10.5
     },
     {
-      "path": "/oa/152_Enforcement_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/152_Enforcement_of.txt",
       "document": "OA",
       "size_kb": 4.9
     },
     {
-      "path": "/oa/153_Obligations_to_a.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/153_Obligations_to_a.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/154_Obligations_of_a.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/154_Obligations_of_a.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/155_No_Implied_Waiver.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/155_No_Implied_Waiver.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/156_Limitation_on_Claims.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/156_Limitation_on_Claims.txt",
       "document": "OA",
       "size_kb": 1.1
     },
     {
-      "path": "/oa/161_Members.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/161_Members.txt",
       "document": "OA",
       "size_kb": 2.3
     },
     {
-      "path": "/oa/162_LLC_Indemnified_Parties.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/162_LLC_Indemnified_Parties.txt",
       "document": "OA",
       "size_kb": 4.7
     },
     {
-      "path": "/oa/163_Workers_Compensation.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/163_Workers_Compensation.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/164_Limitation_of_Liability.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/164_Limitation_of_Liability.txt",
       "document": "OA",
       "size_kb": 1.1
     },
     {
-      "path": "/oa/166_Gross_Negligence_or_Willful.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/166_Gross_Negligence_or_Willful.txt",
       "document": "OA",
       "size_kb": 0.9
     },
     {
-      "path": "/oa/167_Insurance.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/167_Insurance.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/181_Reserved.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/181_Reserved.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/182_Fiscal_and_Taxable.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/182_Fiscal_and_Taxable.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/183_Reports.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/183_Reports.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/184_Bank_Accounts_Checks.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/184_Bank_Accounts_Checks.txt",
       "document": "OA",
       "size_kb": 1.6
     },
     {
-      "path": "/oa/185_Books_and_Records.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/185_Books_and_Records.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/186_Amendment.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/186_Amendment.txt",
       "document": "OA",
       "size_kb": 2.2
     },
     {
-      "path": "/oa/187_Interpretation.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/187_Interpretation.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/188_Severability.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/188_Severability.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/189_Catastrophic_Force.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/189_Catastrophic_Force.txt",
       "document": "OA",
       "size_kb": 2.0
     },
     {
-      "path": "/oa/1021_Financial.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1021_Financial.txt",
       "document": "OA",
       "size_kb": 3.8
     },
     {
-      "path": "/oa/1810_Further_Assurances.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1810_Further_Assurances.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/1811_Seal.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1811_Seal.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/1812_Counterparts.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1812_Counterparts.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/1813_Costs_of_Meetings.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1813_Costs_of_Meetings.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/1814_Notice.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1814_Notice.txt",
       "document": "OA",
       "size_kb": 1.3
     },
     {
-      "path": "/oa/1815_Headings.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1815_Headings.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/1816_No_Third-Party.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1816_No_Third-Party.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/1817_Confidentiality.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1817_Confidentiality.txt",
       "document": "OA",
       "size_kb": 45.3
     },
     {
-      "path": "/oa/1818_Termination_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/1818_Termination_and.txt",
       "document": "OA",
       "size_kb": 1.6
     },
     {
-      "path": "/oa/Definitions_A-B.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_I-L.txt",
+      "document": "OA",
+      "size_kb": 8.6
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_A-B.txt",
       "document": "OA",
       "size_kb": 9.5
     },
     {
-      "path": "/oa/Definitions_C-D.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_C-D.txt",
       "document": "OA",
       "size_kb": 24.9
     },
     {
-      "path": "/oa/Definitions_E-F.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_E-F.txt",
       "document": "OA",
       "size_kb": 12.8
     },
     {
-      "path": "/oa/Definitions_G-H.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_G-H.txt",
       "document": "OA",
       "size_kb": 6.0
     },
     {
-      "path": "/oa/Definitions_I-L.txt",
-      "document": "OA",
-      "size_kb": 8.6
-    },
-    {
-      "path": "/oa/Definitions_M-N.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_M-N.txt",
       "document": "OA",
       "size_kb": 18.1
     },
     {
-      "path": "/oa/Definitions_O-P.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_O-P.txt",
       "document": "OA",
       "size_kb": 18.0
     },
     {
-      "path": "/oa/Definitions_Q-R.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_Q-R.txt",
       "document": "OA",
       "size_kb": 8.6
     },
     {
-      "path": "/oa/Definitions_S__T.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_S__T.txt",
       "document": "OA",
       "size_kb": 20.2
     },
     {
-      "path": "/oa/Definitions_U-Z.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Definitions_U-Z.txt",
       "document": "OA",
       "size_kb": 3.2
     },
     {
-      "path": "/oa/index.html",
-      "document": "OA",
-      "size_kb": 28.5
-    },
-    {
-      "path": "/oa/index.txt",
-      "document": "OA",
-      "size_kb": 22.1
-    },
-    {
-      "path": "/oa/OA.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/OA_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_2.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/OA_3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_3.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/OA_4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_4.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/OA_5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_5.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/OA_6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_6.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/OA_7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_7.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/OA_8.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/OA_8.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/RESOLUTION_REGARDING_ELECTION_OF_DIRECTORS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/RESOLUTION_REGARDING_ELECTION_OF_DIRECTORS.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/RESOLUTION_TO_AMEND_THE_PROCEDURES_REQUIRING_THE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/RESOLUTION_TO_AMEND_THE_PROCEDURES_REQUIRING_THE.txt",
       "document": "OA",
       "size_kb": 0.9
     },
     {
-      "path": "/oa/Schedule_6-B.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_6-B.txt",
       "document": "OA",
       "size_kb": 2.2
     },
     {
-      "path": "/oa/Schedule_11_Sec_11_Purpose_and_Objectives.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_11_Sec_11_Purpose_and_Objectives.txt",
       "document": "OA",
       "size_kb": 1.1
     },
     {
-      "path": "/oa/Schedule_11_Sec_12_Definitions.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_11_Sec_12_Definitions.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/Schedule_11_Sec_13_Allocation_of_Costs_When.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_11_Sec_13_Allocation_of_Costs_When.txt",
       "document": "OA",
       "size_kb": 6.4
     },
     {
-      "path": "/oa/Schedule_11_Sec_14_Allocation_of_Costs_When_a.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_11_Sec_14_Allocation_of_Costs_When_a.txt",
       "document": "OA",
       "size_kb": 5.8
     },
     {
-      "path": "/oa/Schedule_11_Sec_15.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_11_Sec_15.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/Schedule_13.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/Schedule_13.txt",
       "document": "OA",
       "size_kb": 4.2
     },
     {
-      "path": "/oa/SCHEDULE_1-PJM_INTERCHANGE_ENERGY_MARKET.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1-PJM_INTERCHANGE_ENERGY_MARKET.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part1.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part2.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part3.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_1-MARKET_OPERATIONS_part4.txt",
       "document": "OA",
       "size_kb": 59.2
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_2-CALCULATION_OF_LOCATIONAL_MARGINAL.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_2-CALCULATION_OF_LOCATIONAL_MARGINAL.txt",
       "document": "OA",
       "size_kb": 65.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part1.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part2.txt",
       "document": "OA",
       "size_kb": 76.2
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part3.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_3-ACCOUNTING_AND_BILLING_part4.txt",
       "document": "OA",
       "size_kb": 11.6
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_5-CALCULATION_OF_CHARGES_AND_CREDITS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_5-CALCULATION_OF_CHARGES_AND_CREDITS.txt",
       "document": "OA",
       "size_kb": 64.0
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_6-MUST-RUN_FOR_RELIABILITY_GENERAT.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_6-MUST-RUN_FOR_RELIABILITY_GENERAT.txt",
       "document": "OA",
       "size_kb": 61.9
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_6A_Reserved.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_6A_Reserved.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_7-FINANCIAL_TRANSMISSION_RIGHTS_AUCT_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_7-FINANCIAL_TRANSMISSION_RIGHTS_AUCT_part1.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_7-FINANCIAL_TRANSMISSION_RIGHTS_AUCT_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_7-FINANCIAL_TRANSMISSION_RIGHTS_AUCT_part2.txt",
       "document": "OA",
       "size_kb": 26.0
     },
     {
-      "path": "/oa/SCHEDULE_1_SECTION_8-EMERGENCY_AND_PRE-EMERGENCY_LOAD_R.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_1_SECTION_8-EMERGENCY_AND_PRE-EMERGENCY_LOAD_R.txt",
       "document": "OA",
       "size_kb": 48.2
     },
     {
-      "path": "/oa/SCHEDULE_2-EXHIBIT_A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_2-EXHIBIT_A.txt",
       "document": "OA",
       "size_kb": 4.3
     },
     {
-      "path": "/oa/SCHEDULE_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_2.txt",
       "document": "OA",
       "size_kb": 44.4
     },
     {
-      "path": "/oa/SCHEDULE_3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_3.txt",
       "document": "OA",
       "size_kb": 4.0
     },
     {
-      "path": "/oa/SCHEDULE_4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_4.txt",
       "document": "OA",
       "size_kb": 2.2
     },
     {
-      "path": "/oa/SCHEDULE_5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_1_DEFINITIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_1_DEFINITIONS.txt",
       "document": "OA",
       "size_kb": 1.0
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_2_PURPOSES_AND.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_2_PURPOSES_AND.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_2_PURPOSES_AND_OBJECTIVES.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_2_PURPOSES_AND_OBJECTIVES.txt",
       "document": "OA",
       "size_kb": 1.5
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_3_NEGOTIATION_AND.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_3_NEGOTIATION_AND.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_3_NEGOTIATION_AND_MEDIATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_3_NEGOTIATION_AND_MEDIATION.txt",
       "document": "OA",
       "size_kb": 7.9
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_4_ARBITRATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_4_ARBITRATION.txt",
       "document": "OA",
       "size_kb": 18.5
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_5_ALTERNATE_DISPUTE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_5_ALTERNATE_DISPUTE.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_5_SECTION_5_ALTERNATE_DISPUTE_RESOLUTION_COOR.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_5_SECTION_5_ALTERNATE_DISPUTE_RESOLUTION_COOR.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_6-A-Interregional_Transmission_Coordination_Be.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_6-A-Interregional_Transmission_Coordination_Be.txt",
       "document": "OA",
       "size_kb": 20.2
     },
     {
-      "path": "/oa/SCHEDULE_6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_6.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_6_SECTION_1_REGIONAL.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_6_SECTION_1_REGIONAL.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_6_SECTION_1_REGIONAL_TRANSMISSION_EXPANSION_PLA_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_6_SECTION_1_REGIONAL_TRANSMISSION_EXPANSION_PLA_part1.txt",
       "document": "OA",
       "size_kb": 76.1
     },
     {
-      "path": "/oa/SCHEDULE_6_SECTION_1_REGIONAL_TRANSMISSION_EXPANSION_PLA_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_6_SECTION_1_REGIONAL_TRANSMISSION_EXPANSION_PLA_part2.txt",
       "document": "OA",
       "size_kb": 65.8
     },
     {
-      "path": "/oa/SCHEDULE_7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_7_SECTION_1_UNDERFREQUENCY.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7_SECTION_1_UNDERFREQUENCY.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_7_SECTION_1_UNDERFREQUENCY_RELAY_OBLIGATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7_SECTION_1_UNDERFREQUENCY_RELAY_OBLIGATION.txt",
       "document": "OA",
       "size_kb": 3.7
     },
     {
-      "path": "/oa/SCHEDULE_7_SECTION_2_UNDERFREQUENCY.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7_SECTION_2_UNDERFREQUENCY.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_7_SECTION_3_DISTRIBUTION_OF.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7_SECTION_3_DISTRIBUTION_OF.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_7_SECTION_3_DISTRIBUTION_OF_UNDERFREQUENCY_RELAY.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_7_SECTION_3_DISTRIBUTION_OF_UNDERFREQUENCY_RELAY.txt",
       "document": "OA",
       "size_kb": 1.5
     },
     {
-      "path": "/oa/SCHEDULE_8.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_8.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_8_SECTION_1_DELEGATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_8_SECTION_1_DELEGATION.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_8_SECTION_2_NEW_PARTIES.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_8_SECTION_2_NEW_PARTIES.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_8_SECTION_3_IMPLEMENTATION_OF.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_8_SECTION_3_IMPLEMENTATION_OF.txt",
       "document": "OA",
       "size_kb": 2.9
     },
     {
-      "path": "/oa/SCHEDULE_9_Reserved.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_9_Reserved.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_10.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10.txt",
       "document": "OA",
       "size_kb": 2.3
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_1_DEFINITIONS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_1_DEFINITIONS.txt",
       "document": "OA",
       "size_kb": 2.9
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_2_Protection_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_2_Protection_of.txt",
       "document": "OA",
       "size_kb": 0.2
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_2_Protection_of_Confidentiality.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_2_Protection_of_Confidentiality.txt",
       "document": "OA",
       "size_kb": 8.0
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_3_Remedies.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_3_Remedies.txt",
       "document": "OA",
       "size_kb": 3.2
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_4_Jurisdiction.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_4_Jurisdiction.txt",
       "document": "OA",
       "size_kb": 0.7
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_5_Notices.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_5_Notices.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_6_Severability_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_6_Severability_and.txt",
       "document": "OA",
       "size_kb": 0.9
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_7_Representations.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_7_Representations.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_8_Third_Party.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_8_Third_Party.txt",
       "document": "OA",
       "size_kb": 0.4
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_9_Counterparts.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_9_Counterparts.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_10_SECTION_10_Amendment.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10_SECTION_10_Amendment.txt",
       "document": "OA",
       "size_kb": 0.5
     },
     {
-      "path": "/oa/SCHEDULE_10A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A.txt",
       "document": "OA",
       "size_kb": 1.6
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_1_Definitions.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_1_Definitions.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_2_Requisite_Authority.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_2_Requisite_Authority.txt",
       "document": "OA",
       "size_kb": 1.2
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_3_Protection_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_3_Protection_of.txt",
       "document": "OA",
       "size_kb": 1.0
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_4_Defense_Against.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_4_Defense_Against.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_5_Use_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_5_Use_and.txt",
       "document": "OA",
       "size_kb": 1.4
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_6_Notice_of_Disclosure.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_6_Notice_of_Disclosure.txt",
       "document": "OA",
       "size_kb": 0.6
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_7_Release_of_Claims.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_7_Release_of_Claims.txt",
       "document": "OA",
       "size_kb": 0.8
     },
     {
-      "path": "/oa/SCHEDULE_10A_SECTION_8_Ownership_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_10A_SECTION_8_Ownership_and.txt",
       "document": "OA",
       "size_kb": 1.5
     },
     {
-      "path": "/oa/SCHEDULE_11.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_11.txt",
       "document": "OA",
       "size_kb": 0.3
     },
     {
-      "path": "/oa/SCHEDULE_12-PJM_MEMBER_LIST.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/oa/SCHEDULE_12-PJM_MEMBER_LIST.txt",
       "document": "OA",
       "size_kb": 33.4
     },
     {
-      "path": "/raa/RELIABILITY_ASSURANCE_AGREEMENT.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/RELIABILITY_ASSURANCE_AGREEMENT.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/Table_of_Contents.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Table_of_Contents.txt",
       "document": "RAA",
       "size_kb": 3.7
     },
     {
-      "path": "/raa/Witnesseth_Page.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Witnesseth_Page.txt",
       "document": "RAA",
       "size_kb": 1.1
     },
     {
-      "path": "/raa/Article.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article.txt",
       "document": "RAA",
       "size_kb": 1.7
     },
     {
-      "path": "/raa/ARTICLE_1_--_DEFINITIONS_part1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_1_--_DEFINITIONS_part1.txt",
       "document": "RAA",
       "size_kb": 76.3
     },
     {
-      "path": "/raa/ARTICLE_1_--_DEFINITIONS_part2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_1_--_DEFINITIONS_part2.txt",
       "document": "RAA",
       "size_kb": 11.2
     },
     {
-      "path": "/raa/ARTICLE_2_--_PURPOSE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_2_--_PURPOSE.txt",
       "document": "RAA",
       "size_kb": 1.6
     },
     {
-      "path": "/raa/ARTICLE_3_--_TERM_AND_TERMINATION_OF_THE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_3_--_TERM_AND_TERMINATION_OF_THE.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_3_Section_1-Term.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_3_Section_1-Term.txt",
       "document": "RAA",
       "size_kb": 0.5
     },
     {
-      "path": "/raa/Article_3_Section_2-Transition_Provisions.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_3_Section_2-Transition_Provisions.txt",
       "document": "RAA",
       "size_kb": 0.3
     },
     {
-      "path": "/raa/Article_3_Section_3-Termination.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_3_Section_3-Termination.txt",
       "document": "RAA",
       "size_kb": 1.4
     },
     {
-      "path": "/raa/ARTICLE_4_--_ADDITION_OF_NEW_PARTIES.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_4_--_ADDITION_OF_NEW_PARTIES.txt",
       "document": "RAA",
       "size_kb": 0.6
     },
     {
-      "path": "/raa/ARTICLE_5_--_WITHDRAWAL_OR_REMOVAL_OF_A.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_5_--_WITHDRAWAL_OR_REMOVAL_OF_A.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_5_Section_1-Withdrawal_of_a_Party.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_5_Section_1-Withdrawal_of_a_Party.txt",
       "document": "RAA",
       "size_kb": 2.5
     },
     {
-      "path": "/raa/Article_5_Section_2-Breach_by_a_Party.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_5_Section_2-Breach_by_a_Party.txt",
       "document": "RAA",
       "size_kb": 1.4
     },
     {
-      "path": "/raa/ARTICLE_6_--_MANAGEMENT_ADMINISTRATION.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_6_--_MANAGEMENT_ADMINISTRATION.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/ARTICLE_7_--_RESERVE_REQUIREMENTS_AND.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_7_--_RESERVE_REQUIREMENTS_AND.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_7_Section_1-Forecast_Pool_Requirement_and_Unfo.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_1-Forecast_Pool_Requirement_and_Unfo.txt",
       "document": "RAA",
       "size_kb": 1.5
     },
     {
-      "path": "/raa/Article_7_Section_2-Responsibility_to_Pay_Locational_R.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_2-Responsibility_to_Pay_Locational_R.txt",
       "document": "RAA",
       "size_kb": 0.8
     },
     {
-      "path": "/raa/Article_7_Section_2A-Responsibility_to_Pay_202c_Chrg.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_2A-Responsibility_to_Pay_202c_Chrg.txt",
       "document": "RAA",
       "size_kb": 1.6
     },
     {
-      "path": "/raa/Article_7_Section_3-LSE_Option_to_Provide_Capacity_Res.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_3-LSE_Option_to_Provide_Capacity_Res.txt",
       "document": "RAA",
       "size_kb": 2.0
     },
     {
-      "path": "/raa/Article_7_Section_4-Fixed_Resource_Requirement_Alterna.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_4-Fixed_Resource_Requirement_Alterna.txt",
       "document": "RAA",
       "size_kb": 0.6
     },
     {
-      "path": "/raa/Article_7_Section_5-Capacity_Plans_and_Deliverability.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_5-Capacity_Plans_and_Deliverability.txt",
       "document": "RAA",
       "size_kb": 1.1
     },
     {
-      "path": "/raa/Article_7_Section_6-Nature_of_Resources.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_6-Nature_of_Resources.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/Article_7_Section_7-Compliance_Audit_of_Parties.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_7_Section_7-Compliance_Audit_of_Parties.txt",
       "document": "RAA",
       "size_kb": 1.9
     },
     {
-      "path": "/raa/ARTICLE_8_--_DEFICIENCY_DATA_SUBMISSION_AND.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_8_--_DEFICIENCY_DATA_SUBMISSION_AND.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_8_Section_1-Nature_of_Charges.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_8_Section_1-Nature_of_Charges.txt",
       "document": "RAA",
       "size_kb": 0.5
     },
     {
-      "path": "/raa/Article_8_Section_2-Determination_of_Charge_Amounts.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_8_Section_2-Determination_of_Charge_Amounts.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/Article_8_Section_3-Distribution_of_Charge_Receipts.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_8_Section_3-Distribution_of_Charge_Receipts.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/ARTICLE_9_--_COORDINATED_PLANNING_AND.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_9_--_COORDINATED_PLANNING_AND.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_9_Section_1-Overall_Coordination.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_9_Section_1-Overall_Coordination.txt",
       "document": "RAA",
       "size_kb": 1.8
     },
     {
-      "path": "/raa/Article_9_Section_2_Generator_Planned_Outage_Scheduling.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_9_Section_2_Generator_Planned_Outage_Scheduling.txt",
       "document": "RAA",
       "size_kb": 0.6
     },
     {
-      "path": "/raa/Article_9_Section_3-Data_Submissions.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_9_Section_3-Data_Submissions.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/Article_9_Section_4-Charges_for_Failures_to_Comply.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_9_Section_4-Charges_for_Failures_to_Comply.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/Article_9_Section_5-Metering.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_9_Section_5-Metering.txt",
       "document": "RAA",
       "size_kb": 0.5
     },
     {
-      "path": "/raa/Article_10.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_10.txt",
       "document": "RAA",
       "size_kb": 1.3
     },
     {
-      "path": "/raa/ARTICLE_10_--_SHARED_COSTS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_10_--_SHARED_COSTS.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/ARTICLE_11_--_BILLING_AND_PAYMENT.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_11_--_BILLING_AND_PAYMENT.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/ARTICLE_12_--_INDEMNIFICATION_AND_LIMITATION_OF.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_12_--_INDEMNIFICATION_AND_LIMITATION_OF.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_12_Section_1-Indemnification.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_12_Section_1-Indemnification.txt",
       "document": "RAA",
       "size_kb": 2.0
     },
     {
-      "path": "/raa/Article_12_Section_2-Limitations_on_Liability.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_12_Section_2-Limitations_on_Liability.txt",
       "document": "RAA",
       "size_kb": 0.8
     },
     {
-      "path": "/raa/Article_12_Section_3-Insurance.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_12_Section_3-Insurance.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/ARTICLE_13_--_SUCCESSORS_AND_ASSIGNS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_13_--_SUCCESSORS_AND_ASSIGNS.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/ARTICLE_14_--_NOTICE.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_14_--_NOTICE.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/ARTICLE_15_--_REPRESENTATIONS_AND_WARRANTIES.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_15_--_REPRESENTATIONS_AND_WARRANTIES.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Article_15_Section_1-Initial_Representations_and_Warra.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_15_Section_1-Initial_Representations_and_Warra.txt",
       "document": "RAA",
       "size_kb": 1.7
     },
     {
-      "path": "/raa/Article_15_Section_2-Continuing_Representations_and_Wa.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_15_Section_2-Continuing_Representations_and_Wa.txt",
       "document": "RAA",
       "size_kb": 0.9
     },
     {
-      "path": "/raa/Article_16.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Article_16.txt",
       "document": "RAA",
       "size_kb": 7.1
     },
     {
-      "path": "/raa/ARTICLE_16_--_OTHER_MATTERS.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/ARTICLE_16_--_OTHER_MATTERS.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/SCHEDULE_1.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_1.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/SCHEDULE_1A_Notice.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_1A_Notice.txt",
       "document": "RAA",
       "size_kb": 2.0
     },
     {
-      "path": "/raa/SCHEDULE_1B_Analysis_of_Data.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_1B_Analysis_of_Data.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/SCHEDULE_1C_Response.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_1C_Response.txt",
       "document": "RAA",
       "size_kb": 0.7
     },
     {
-      "path": "/raa/SCHEDULE_1D_Agreement_by.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_1D_Agreement_by.txt",
       "document": "RAA",
       "size_kb": 1.0
     },
     {
-      "path": "/raa/SCHEDULE_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_2.txt",
       "document": "RAA",
       "size_kb": 2.3
     },
     {
-      "path": "/raa/SCHEDULE_3.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_3.txt",
       "document": "RAA",
       "size_kb": 0.4
     },
     {
-      "path": "/raa/SCHEDULE_4.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_4.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/SCHEDULE_4A_Objective_Of_The.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_4A_Objective_Of_The.txt",
       "document": "RAA",
       "size_kb": 0.5
     },
     {
-      "path": "/raa/SCHEDULE_4B_Forecast_Pool.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_4B_Forecast_Pool.txt",
       "document": "RAA",
       "size_kb": 0.9
     },
     {
-      "path": "/raa/SCHEDULE_4C_Methodology.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_4C_Methodology.txt",
       "document": "RAA",
       "size_kb": 2.4
     },
     {
-      "path": "/raa/SCHEDULE_4D_Capacity_Benefit.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_4D_Capacity_Benefit.txt",
       "document": "RAA",
       "size_kb": 0.8
     },
     {
-      "path": "/raa/SCHEDULE_5.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_5.txt",
       "document": "RAA",
       "size_kb": 5.6
     },
     {
-      "path": "/raa/SCHEDULE_6.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_6.txt",
       "document": "RAA",
       "size_kb": 47.1
     },
     {
-      "path": "/raa/SCHEDULE_7.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_7.txt",
       "document": "RAA",
       "size_kb": 1.6
     },
     {
-      "path": "/raa/SCHEDULE_8.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_8.txt",
       "document": "RAA",
       "size_kb": 9.8
     },
     {
-      "path": "/raa/SCHEDULE_9.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_9.txt",
       "document": "RAA",
       "size_kb": 2.6
     },
     {
-      "path": "/raa/SCHEDULE_10.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_10.txt",
       "document": "RAA",
       "size_kb": 1.7
     },
     {
-      "path": "/raa/SCHEDULE_10_Sec_1-Locational_Deliverability_Areas_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_10_Sec_1-Locational_Deliverability_Areas_and.txt",
       "document": "RAA",
       "size_kb": 4.2
     },
     {
-      "path": "/raa/SCHEDULE_11.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_11.txt",
       "document": "RAA",
       "size_kb": 1.5
     },
     {
-      "path": "/raa/SCHEDULE_12.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_12.txt",
       "document": "RAA",
       "size_kb": 1.1
     },
     {
-      "path": "/raa/SCHEDULE_13.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_13.txt",
       "document": "RAA",
       "size_kb": 0.9
     },
     {
-      "path": "/raa/SCHEDULE_14.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_14.txt",
       "document": "RAA",
       "size_kb": 3.3
     },
     {
-      "path": "/raa/SCHEDULE_15.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_15.txt",
       "document": "RAA",
       "size_kb": 2.7
     },
     {
-      "path": "/raa/SCHEDULE_16.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_16.txt",
       "document": "RAA",
       "size_kb": 2.9
     },
     {
-      "path": "/raa/SCHEDULE_17-PARTIES_TO_THE_RELIABILITY.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_17-PARTIES_TO_THE_RELIABILITY.txt",
       "document": "RAA",
       "size_kb": 10.6
     },
     {
-      "path": "/raa/SCHEDULE_41.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_41.txt",
       "document": "RAA",
       "size_kb": 2.1
     },
     {
-      "path": "/raa/SCHEDULE_61.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_61.txt",
       "document": "RAA",
       "size_kb": 36.0
     },
     {
-      "path": "/raa/SCHEDULE_62.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_62.txt",
       "document": "RAA",
       "size_kb": 5.7
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2A-APCO_Capacity_Comp.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81I-Savings.txt",
+      "document": "RAA",
+      "size_kb": 0.9
+    },
+    {
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2A-APCO_Capacity_Comp.txt",
       "document": "RAA",
       "size_kb": 17.3
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity.txt",
       "document": "RAA",
       "size_kb": 3.5
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp.txt",
       "document": "RAA",
       "size_kb": 5.2
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_2.txt",
       "document": "RAA",
       "size_kb": 2.4
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula.txt",
       "document": "RAA",
       "size_kb": 3.4
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula_2.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula_2.txt",
       "document": "RAA",
       "size_kb": 8.5
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula_Rate.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2B-APCO_Capacity_Comp_Formula_Rate.txt",
       "document": "RAA",
       "size_kb": 20.0
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2C-APCO_Capacity.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2C-APCO_Capacity.txt",
       "document": "RAA",
       "size_kb": 0.9
     },
     {
-      "path": "/raa/Schedule_81-Appendix_2C-APCO_Capacity_Comp_Workpapers.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81-Appendix_2C-APCO_Capacity_Comp_Workpapers.txt",
       "document": "RAA",
       "size_kb": 51.3
     },
     {
-      "path": "/raa/SCHEDULE_81.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81.txt",
       "document": "RAA",
       "size_kb": 0.2
     },
     {
-      "path": "/raa/Schedule_81_Appendix-Ohio_Power_Company_FRR.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/Schedule_81_Appendix-Ohio_Power_Company_FRR.txt",
       "document": "RAA",
       "size_kb": 1.2
     },
     {
-      "path": "/raa/SCHEDULE_81A-The_Fixed.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81A-The_Fixed.txt",
       "document": "RAA",
       "size_kb": 0.6
     },
     {
-      "path": "/raa/SCHEDULE_81B-Eligibility.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81B-Eligibility.txt",
       "document": "RAA",
       "size_kb": 1.3
     },
     {
-      "path": "/raa/SCHEDULE_81C-Election_and.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81C-Election_and.txt",
       "document": "RAA",
       "size_kb": 3.5
     },
     {
-      "path": "/raa/SCHEDULE_81D-FRR_Capacity.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81D-FRR_Capacity.txt",
       "document": "RAA",
       "size_kb": 15.5
     },
     {
-      "path": "/raa/SCHEDULE_81E-Conditions_on.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81E-Conditions_on.txt",
       "document": "RAA",
       "size_kb": 3.2
     },
     {
-      "path": "/raa/SCHEDULE_81F-FRR_Daily.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81F-FRR_Daily.txt",
       "document": "RAA",
       "size_kb": 4.8
     },
     {
-      "path": "/raa/SCHEDULE_81G-Capacity.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81G-Capacity.txt",
       "document": "RAA",
       "size_kb": 6.7
     },
     {
-      "path": "/raa/SCHEDULE_81H-Annexation_of.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_81H-Annexation_of.txt",
       "document": "RAA",
       "size_kb": 2.3
     },
     {
-      "path": "/raa/SCHEDULE_81I-Savings.txt",
-      "document": "RAA",
-      "size_kb": 0.9
-    },
-    {
-      "path": "/raa/SCHEDULE_91.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_91.txt",
       "document": "RAA",
       "size_kb": 26.9
     },
     {
-      "path": "/raa/SCHEDULE_92.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/SCHEDULE_92.txt",
       "document": "RAA",
       "size_kb": 26.7
     },
     {
-      "path": "/raa/index.html",
-      "document": "RAA",
-      "size_kb": 14.8
-    },
-    {
-      "path": "/raa/index.txt",
-      "document": "RAA",
-      "size_kb": 11.1
-    },
-    {
-      "path": "/raa/RAA.txt",
+      "path": "https://raw.githubusercontent.com/pearlane/pjm-governing-documents/main/raa/RAA.txt",
       "document": "RAA",
       "size_kb": 1.2
     }
