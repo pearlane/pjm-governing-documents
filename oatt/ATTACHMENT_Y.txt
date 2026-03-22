@@ -1,0 +1,336 @@
+Attachment Y 
+ 
+Form of Screens Process Interconnection Request 
+(For Generation Facilities of 2 MW or less synchronous 5 MW or less inverter-based) 
+ 
+1.0 Instructions 
+ 
+Interconnection Customer must submit the Screens Process Interconnection Request to 
+Transmission Provider by hand delivery, mail, e-mail, or fax. 
+ 
+2.0 Processing Fee or Deposit: 
+ 
+Interconnection Customer is required to provide the Transmission Provider the applicable 
+deposit.  A portion of the deposit is non-refundable pursuant to Section 112A. 
+ 
+The base and initial per MW deposit received will be credited toward the amount of the 
+Generation Interconnection Customer’s cost responsibility pursuant to Section 112A.  
+ 
+3.0 Interconnection Customer Information 
+ 
+Legal Name of the Interconnection Customer (or, if an individual, individual’s name) 
+ 
+Name:  ________________________________________________________________________ 
+ 
+Contact Person: ________________________________________________________________  
+ 
+Mailing Address: _______________________________________________________________ 
+ 
+City: ______________________ State: _______________ Zip: ____________________  
+ 
+Facility Location (if different from above): ___________________________________________  
+ 
+Telephone (Day): ______________________ Telephone (Evening): ______________________ 
+ 
+Fax: ___________________________ E-Mail Address: ________________________________ 
+ 
+Alternative Contact Information (if different from the Interconnection Customer) 
+ 
+Contact Name: _________________________________________________________________ 
+ 
+Title: _________________________________________________________________________ 
+ 
+Address: ______________________________________________________________________ 
+ 
+______________________________________________________________________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 2 
+Telephone (Day): _____________________ Telephone (Evening):  _______________________ 
+  
+Fax: ___________________________ E-Mail Address: ________________________________ 
+ 
+ 
+4.0   Energy Resource Information  
+ 
+Will the Energy Resource be used for any of the following? 
+ 
+ Net Metering? Yes ___ No ___ 
+ To Supply Power to the Interconnection Customer? Yes ___No ___ 
+ To Supply Power to Others? Yes ___ No ___ 
+ 
+For installations at locations with existing electric service to which the proposed Energy 
+Resource will interconnect, provide: 
+ 
+______________________________   ______________________________ 
+(Local Electric Service Provider)  
+ 
+Contact Name:  ________________________________________________________________ 
+ 
+Title:  ________________________________________________________________________ 
+ 
+Address:  _____________________________________________________________________ 
+ 
+     ______________________________________________________________________ 
+ 
+Telephone (Day):________________________ Telephone (Evening): _____________________ 
+ 
+Fax: __________________________________ E-Mail Address: _________________________ 
+ 
+Requested Point of Interconnection:  ________________________________________________ 
+ 
+Interconnection Customer's Requested In-Service Date: _________________________________ 
+ 
+Energy Source: ___ Solar ___ Wind ___ Hydro ___ Hydro Type (e.g. Run-of-River): _________ 
+ Diesel  ___ Natural Gas   ___ Fuel Oil  ___  Other (state type)  _____________________ 
+ 
+Prime Mover: ___Fuel Cell ___Recip Engine ___Gas Turb ___Steam Turb  
+  ___Microturbine   ___PV  ___Other 
+ 
+Type of Generator: ____Synchronous      ____Induction     ____ Inverter 
+ 
+Generator Nameplate Rating: ________kW (Typical)        Generator Nameplate kVAR: _______ 
+ 
+Interconnection Customer or Customer-Site Load: _________________kW (if none, so state) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 3 
+ 
+Typical Reactive Load (if known): _________________ 
+ 
+Maximum Physical Export Capability Requested: ______________ kW 
+ 
+List components of the Small Energy Resource equipment package that are currently certified: 
+ 
+ Equipment Type      Certifying Entity 
+ 1.  __________________________   _________________________ 
+ 2. __________________________   _________________________ 
+ 3.  __________________________   _________________________ 
+ 4. __________________________   _________________________ 
+ 5. __________________________   _________________________ 
+ 
+Is the prime mover compatible with the certified protective relay package?   ___Yes  ___No 
+ 
+Generator (or solar collector) 
+Manufacturer, Model Name & Number: _____________________________________________  
+Version Number: _________________________  
+ 
+Nameplate Output Power Rating in kW:   (Summer) _____________ (Winter) ______________ 
+Nameplate Output Power Rating in kVA: (Summer) _____________ (Winter) ______________ 
+ 
+Individual Generator Power Factor 
+Rated Power Factor: Leading: _____________Lagging: _______________ 
+ 
+Total Number of Generators in wind farm to be interconnected pursuant to this 
+Interconnection Request: ________ Elevation: _____ ___Single phase      ___Three phase 
+ 
+Inverter Manufacturer, Model Name & Number (if used): _______________________________ 
+ 
+List of adjustable set points for the protective equipment or software: ______________________ 
+ 
+Note: A completed Power Systems Load Flow data sheet must be supplied with the 
+Interconnection Request. 
+ 
+5.0 Energy Resource Characteristic Data (for inverter-based machines) 
+ 
+Max design fault contribution current: __________  Instantaneous ___ or RMS? ___  
+ 
+Harmonics Characteristics: _______________________________________________________  
+ 
+Start-up requirements: ___________________________________________________________  
+ 
+  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 4 
+6.0 Energy Resource Characteristic Data (for rotating machines) 
+ 
+RPM Frequency: _____________ 
+(*) Neutral Grounding Resistor (If Applicable): ____________ 
+ 
+Synchronous Generators: 
+ 
+Direct Axis Synchronous Reactance, Xd: _______ P.U. 
+Direct Axis Transient Reactance, X'd: ___________P.U. 
+Direct Axis Subtransient Reactance, X"d: ______________P.U. 
+Negative Sequence Reactance, X2: _________ P.U. 
+Zero Sequence Reactance, X0: ____________ P.U. 
+KVA Base: __________________________ 
+Field Volts: ______________ 
+Field Amperes: ______________ 
+ 
+Induction Generators: 
+ 
+Motoring Power (kW): ______________ 
+I22t or K (Heating Time Constant): ______________ 
+Rotor Resistance, Rr: ______________ 
+Stator Resistance, Rs:  ______________  
+Stator Reactance, Xs: ______________ 
+Rotor Reactance, Xr:  ______________   
+Magnetizing Reactance, Xm: ______________ 
+Short Circuit Reactance, Xd'': ______________ 
+Exciting Current: ______________ 
+Temperature Rise: ______________ 
+Frame Size:  ______________  
+Design Letter: ______________ 
+Reactive Power Required In Vars (No Load): ______________ 
+Reactive Power Required In Vars (Full Load): ______________ 
+Total Rotating Inertia, H: _____________   Per Unit on kVA Base 
+ 
+Note: Please contact the Transmission Provider prior to submitting the Interconnection Request 
+to determine if the specified information above is required. 
+ 
+Excitation and Governor System Data for Synchronous Generators Only 
+ 
+Provide appropriate IEEE model block diagram of excitation system, governor system and power 
+system stabilizer (PSS) in accordance with the appropriate regional reliability council criteria.  A 
+PSS may be determined to be required by applicable studies.  A copy of the manufacturer's block 
+diagram may not be substituted. 
+ 
+7.0 Interconnection Facilities Information 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 5 
+Will a transformer be used between the generator and the point of common coupling? _Yes _No 
+ 
+Will the transformer be provided by the Interconnection Customer?  ____Yes ____No 
+ 
+Transformer Data (If Applicable, for Interconnection Customer-Owned Transformer): 
+ 
+Is the transformer:  ____single phase _____three phase?                           Size: __________kVA  
+Transformer Impedance: _______% on __________kVA Base 
+If Three Phase: 
+Transformer Primary:     _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+Transformer Secondary: _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+Transformer Tertiary:     _____ Volts _____ Delta _____Wye _____ Wye Grounded 
+ 
+Transformer Fuse Data (If Applicable, for Interconnection Customer-Owned Fuse): 
+ 
+(Attach copy of fuse manufacturer's Minimum Melt and Total Clearing Time-Current Curves) 
+ 
+Manufacturer: ________________ Type: _____________ Size: ________Speed: ____________ 
+ 
+Interconnecting Circuit Breaker (if applicable): 
+ 
+Manufacturer: ____________________________ Type: __________ 
+ 
+Load Rating (Amps):______ Interrupting Rating (Amps):______ Trip Speed (Cycles):_______ 
+ 
+Interconnection Protective Relays (If Applicable): 
+ 
+If Microprocessor-Controlled: 
+ 
+List of Functions and Adjustable Setpoints for the protective equipment or software: 
+ 
+Setpoint Function 
+      Minimum  Maximum 
+ 
+1. _________________________________  _______________   _______________ 
+2. _________________________________  _______________   _______________ 
+3. _________________________________  _______________   _______________ 
+4. _________________________________  _______________   _______________ 
+5. _________________________________  _______________   _______________ 
+6. _________________________________  _______________  _______________ 
+ 
+If Discrete Components: 
+ 
+(Enclose Copy of any Proposed Time-Overcurrent Coordination Curves) 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 6 
+ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________  
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+Manufacturer:  ________ Type: _____ Style/Catalog No.: ________ Proposed Setting: ________ 
+  
+Current Transformer Data (If Applicable): 
+ 
+(Enclose Copy of Manufacturer's Excitation and Ratio Correction Curves) 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Potential Transformer Data (If Applicable): 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+Manufacturer:  _______________________________________________   
+Type: _____________ Accuracy Class: ____ Proposed Ratio Connection: _____ 
+ 
+8.0  Diagrams and Site Control Documentation 
+ 
+Enclose copy of site electrical one-line diagram showing the configuration of all Energy 
+Resource equipment, current and potential circuits, and protection and control schemes.  This 
+one-line diagram must be signed and stamped by a licensed Professional Engineer if the Energy 
+Resource is larger than 50 kW.  Is one-line diagram enclosed? ____Yes ____No 
+ 
+Enclose copy of any site documentation that indicates the precise physical location of the 
+proposed Energy Resource (e.g., USGS topographic map or other diagram or documentation).  
+ 
+Proposed location of protective interface equipment on property (include address if different 
+from the Interconnection Customer's address) _________________________________________ 
+ 
+Enclose copy of any site documentation that describes and details the operation of the protection 
+and control schemes.  Is available documentation enclosed? ___Yes ____No 
+ 
+Enclose copies of schematic drawings for all protection and control circuits, relay current 
+circuits, relay potential circuits, and alarm/monitoring circuits (if applicable). 
+Are schematic drawings enclosed? ___Yes ____No 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Y 
+Effective Date: 10/1/2018 - Docket #: ER18-1629-000 - Page 7 
+Provide demonstration of site control through an exclusive option to purchase the property on 
+which the generation project is to be developed, a property deed, or a range of tax or corporate 
+documents that identify property ownership.  Site control must either be in the name of the party 
+submitting the generation interconnection request or documentation must be provided 
+establishing the business relationship between the project developer and the party having site 
+control. 
+ 
+Interconnection Customer hereby certifies that, to the best of my knowledge, all the information 
+provided in this Screens Process Interconnection Request is true and correct. 
+ 
+9.0 Primary Frequency Response Information for Energy Storage Resources 
+ 
+ Primary Frequency Response Information for Energy Storage Resources: 
+  Minimum State of Charge:     ; and  
+  Maximum State of Charge:     .  
+ 
+ IN WITNESS WHEREOF, the Transmission Provider and the Interconnection Customer 
+have caused this Screens Process Interconnection Request Agreement to be executed by their 
+respective authorized officials. 
+ 
+Transmission Provider:  PJM Interconnection, L.L.C. 
+ 
+By:                 
+ Name    Title      Date 
+ 
+Printed name of signer:             
+ 
+ 
+Interconnection Customer:  [Name of Party] 
+ 
+By:                
+  Name    Title      Date 
+ 
+Printed name of signer:             
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Z 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 

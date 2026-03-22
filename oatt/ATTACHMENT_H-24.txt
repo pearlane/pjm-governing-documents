@@ -228,29 +228,3 @@ section (11), it shall also make an informational filing with the FERC that incl
 Section (3), is relieved from, and shall not be separately allocated or assigned Transmission Enhancement Charges under Schedule 12 §(c)(5) on the basis of its reservation 
 of Firm Point-to-Point Transmission Service at the Border of PJM.  Payment of the charges set forth in this Schedule does not relieve the responsibility of a Transmission 
 Customer or Merchant Transmission Facility to pay Transmission Enhancement Charges assigned to such Merchant Transmission Facility, other than pursuant to Tariff, 
-Schedule 12, §(c)(5), nor does it determine other cost obligations of Transmission Customers or Merchant Transmission Facilities that may be imposed under other 
-provisions of the Tariff.   
-(G)  Point-to-Point Transmission Service at the Border of PJM includes service to a Point of Delivery at a Merchant Transmission Facility that provides service to a 
-neighboring transmission system. 
-(H)  Customers taking Point-to-Point Transmission Service at the Border of PJM with a Point of Delivery at a Merchant Transmission Facility and not receiving a 
-discount from the Border Yearly Charge pursuant to this Schedule 7, section (3) under the settlement entered into in FERC Docket No. ER19-2105, shall receive a credit 
-determined in accordance with the following formula: 
-MTFC = BYC*MTFTEC/SHRR 
-Where: 
- MTFC is the credit to the Border Yearly Charge per kW of reserved capacity;  
- BYC is the Border Yearly Charge; 
- MTFTEC is the total annual Transmission Enhancement Charges under Tariff, Schedule 12 applicable to the Merchant Transmission Facility to which the customer 
-is taking Point-to-Point Transmission Service during the current calendar year; and  
- SHRR is the amount determined pursuant to subsection (A) of this section (11). 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 7 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 11 
-The MTFC shall be credited on a monthly basis only for those months during which the customer takes Firm Point-to-Point Transmission Service to the Merchant 
-Transmission Facility. 
- 
- 
-  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE REQUESTS; R --> OATT SCHEDULE 8 
-Effective Date: 1/1/2024 - Docket #: ER24-2529-000 - Page 1 
- 

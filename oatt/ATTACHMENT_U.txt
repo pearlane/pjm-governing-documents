@@ -1,0 +1,516 @@
+ATTACHMENT U 
+ 
+INDEPENDENT TRANSMISSION COMPANIES 
+ 
+References to section numbers in this Attachment U refer to sections of this Attachment U, 
+unless otherwise specified. 
+ 
+This Attachment U sets forth a general framework for the development and operation of 
+independent transmission companies (“ITCs”) as to certain of the transmission facilities for 
+which the Transmission Provider, PJM Interconnection, L.L.C. (“PJM”), is otherwise 
+responsible.  The provisions of this Attachment U shall govern in the event of any conflict 
+between this Attachment and the other provisions of the Tariff, except as to Tariff, Attachment 
+M. If there is a conflict between the provisions of this Attachment U and Tariff, Attachment M, 
+the provisions of Tariff, Attachment M shall govern. Under this Attachment U, certain 
+responsibilities may be assigned to an ITC, if the ITC enters into an ITC Agreement in the form 
+set forth in this Tariff and if FERC acceptance of the independence of the ITC and FERC 
+approval or acceptance of the assignment is obtained as provided herein.  
+ 
+This Attachment U sets forth the standard terms and conditions, and the standard division of 
+rights, responsibilities, and functions, in conformance with FERC policy and precedent, for any 
+ITC that operates under PJM.  Any entity or entities submitting a proposal to become an ITC 
+(“ITC Sponsor”) shall enter into an ITC Agreement in the form set forth in Tariff, Attachment V 
+, which is subject to and incorporates the standard terms and conditions of this Attachment U and 
+identifies the ITC Transmission Facilities (as defined herein). 
+ 
+It is recognized that PJM shall be responsible for administering any wholesale energy market 
+(and providing all functions integral to such market administration) within the PJM region. 
+ 
+1. FERC APPROVAL 
+ 
+1.1 FERC Acceptance As A Prerequisite.  Before receiving the rights and responsibilities 
+provided for under this Attachment U, the ITC Sponsor shall apply for and receive a FERC order 
+accepting the ITC proposal to be implemented and finding that the proposed ITC satisfies 
+FERC’s independence criteria and that such entity may be treated as an ITC under this 
+Attachment U. 
+ 
+1.2 Effect of FERC Acceptance.  Once FERC issues an order accepting the filing and 
+providing the finding required under section 1.1 above, then the ITC, subject to satisfaction of 
+the other requirements of this section 1, may operate under PJM consistent with the rights, 
+responsibilities, and functions that have been accepted or approved by FERC. 
+ 
+1.3 Any entity or entities submitting a proposal to become an ITC (“ITC Sponsor”) shall 
+submit a filing with FERC detailing each of the rights, responsibilities, and functions the ITC 
+proposes to assume, which may consist of some or all of the rights, responsibilities, and 
+functions set forth in this Attachment U, together with specifics on implementing any of these 
+assigned rights, responsibilities, and functions.  An ITC Sponsor must have, or demonstrate to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 2 
+FERC that it shall have prior to implementation, ownership of, or the authority to direct the 
+operation of, transmission facilities that are within the PJM region, or that are to be added to the 
+PJM region as a result of the establishment of the ITC (such facilities referred to herein as the 
+“ITC Transmission Facilities”). 
+ 
+1.4 Following the FERC approvals specified in section 1.1 above, the ITC shall assume the 
+rights and responsibilities described herein on the first day of the calendar month (“ITC 
+Commencement Date”) following the date on which the ITC provides written notice to 
+Transmission Provider that the ITC is prepared to assume its responsibilities hereunder in 
+accordance with section 15 below.  PJM shall coordinate with the ITC prior to the ITC 
+Commencement Date to ensure that PJM is capable as of the ITC Commencement Date of 
+providing the responsibilities reserved to PJM hereunder as to the ITC Transmission Facilities 
+and related bulk power facilities. 
+ 
+1.5 Prior to the ITC Commencement Date, the ITC and each owner of transmission facilities 
+participating in such ITC shall execute, with respect to the transmission facilities over which it 
+has the authority to direct the operation:  (a) the Consolidated Transmission Owners Agreement; 
+and (b) the Operating Agreement.  In the event of any conflict between the ITC Agreement and 
+the Operating Agreement that affects the PJM Region other than the ITC Transmission Facilities, 
+the provisions of the Operating Agreement shall control pending dispute resolution, with final 
+approval of the dispute’s resolution by FERC.  In the event of any other express conflict between 
+the ITC Agreement and the Operating Agreement or the transmission owners agreement 
+executed by ITC, neither the transmission owners agreement nor the Operating Agreement shall 
+be interpreted to limit the rights and responsibilities assigned to ITC in its role as an ITC 
+pursuant to the ITC Agreement. 
+ 
+2. SECURITY COORDINATION 
+ 
+2.1 Regional Reliability Authority.  PJM shall be the regional Reliability Authority under 
+NERC standards for all PJM transmission facilities, including any ITC Transmission Facilities. 
+As the Reliability Authority, PJM is responsible for monitoring and directing corrective action 
+for reliability for all areas in the PJM region.   
+ 
+2.2 ITC Actions to Preserve System Security.  An ITC may monitor and analyze the security 
+of the ITC Transmission Facilities and may take actions to protect the ITC Transmission 
+Facilities from physical damage or prevent injury or damage to persons or property in 
+accordance with good utility practice and the PJM Operating Manuals, as they may be modified 
+pursuant to section 16 of this Attachment U, before requesting assistance from PJM.  At the 
+earliest possible time, the ITC shall inform PJM of any such actions taken and coordinate further 
+actions with PJM. 
+ 
+2.3 Ultimate Authority.  Notwithstanding any other provision in this Attachment U, PJM may 
+intercede and direct appropriate actions in its role as the regional Reliability Authority.  The ITC 
+shall be responsible for implementing such corrective actions directed by PJM.  If such PJM 
+action or direction is disputed, PJM’s position shall control pending resolution of the dispute. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 3 
+3. BASE TRANSMISSION RATES 
+ 
+3.1 Right to File Rate Changes.  The ITC shall possess the unilateral right, subject to 
+consultation with PJM, to file at FERC and to place into effect pursuant to FPA section 205 the 
+rates for transmission services  for delivery to the zone or zones comprising the ITC 
+Transmission Facilities (including incentive rate structures, but excluding ancillary services, 
+except as permitted by section 17 below, and excluding the congestion pricing methodology for 
+the PJM region), and for additional services, if any, solely involving the ITC Transmission 
+Facilities, and the revenue requirement for such zones for use in developing rates for other 
+transmission services provided by PJM. Such rate or rate structure changes shall be included in 
+discrete schedules or portions of the Tariff (hereafter, such the “ITC Rate Schedule”).  The ITC 
+shall consult with PJM prior to making a section 205 rate filing to ensure that PJM has adequate 
+opportunity to determine whether the proposal results in adverse impacts outside the zone or 
+zones comprising the ITC Transmission Facilities. 
+ 
+3.2 Limitations.  The ITC may not implement transmission rates in accordance with section 
+3.1 above that violate the terms of the Consolidated Transmission Owners Agreement. 
+ 
+3.3 No Rate Pancaking.  Notwithstanding its rights under section 3.1 above, the ITC shall not 
+implement rates or a rate structure that results in a Transmission Customer paying more than one 
+base transmission charge for use of the Transmission System for any one transaction. 
+ 
+4. REVENUE DISTRIBUTION 
+ 
+4.1 ITC Receipt of Transmission Revenues.  The ITC shall receive and/or retain revenues 
+resulting from the provision of transmission service under the Tariff in accordance with the 
+applicable revenue distribution procedures of the Consolidated Transmission Owners 
+Agreement.  The ITC may take no unilateral action that interferes with or affects the revenue 
+distribution provided for in such agreements or that interferes with the collection by PJM of the 
+revenues due it for services it provides or arranges.   
+ 
+4.2 Redistribution of Revenues.  The ITC may distribute the revenues due it in accordance 
+with section 4.1 above in any manner it wishes subject to receiving any necessary regulatory 
+approvals, without involvement of PJM. 
+ 
+5. MANAGEMENT OF CONGESTION PRICING METHODOLOGY 
+ 
+5.1 Subject to FERC approval, PJM shall determine the congestion pricing methodology for 
+the PJM region, administer the dispatch of the generation and transmission facilities in the PJM 
+region in accordance with the approved methodology, calculate the resulting congestion prices, 
+and conduct all related billing and settlement.  
+ 
+6. ACTIONS TO ENHANCE TRANSMISSION PERFORMANCE 
+ 
+6.1 The ITC may take actions with respect to the system comprised of the ITC Transmission 
+Facilities that can be accommodated within the framework of the approved congestion pricing 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 4 
+methodology referenced in section 5.1 above.  It may do this through targeted transmission 
+system investment, outage management, the determination of transmission device settings, 
+establishing contractual arrangements (e.g., with generators and LSE’s), changes in technology, 
+and other operating actions affecting the ITC Transmission Facilities. Before it first implements 
+such actions, the ITC shall consult with PJM to develop procedures for inclusion in the PJM 
+Operating Manuals for each class of such action that the ITC may thereafter implement.  In such 
+consultation, PJM shall consider whether the type of action can be accommodated within the 
+framework of the approved congestion pricing methodology and whether the type of action 
+would result in violations of regional reliability criteria applied in the PJM region.  Following 
+inclusion of procedures for each such type of action in the Manuals, the ITC may implement 
+such actions in coordination with PJM in the manner set forth in the manuals.  In addition, the 
+ITC and PJM shall cooperate with one another in solving operational issues outside the ITC 
+region that affect the ITC Transmission Facilities, or inside the ITC region that affect facilities 
+outside such region. 
+ 
+6.2 Incentive Mechanisms.  The ITC shall possess the unilateral right to file with FERC 
+incentive mechanisms relating to the system comprised of the ITC Transmission Facilities in a 
+manner that can be accommodated within the framework of the approved methodology 
+referenced in section 5.1 above.  The ITC shall consult with PJM prior to filing any such 
+mechanism to allow PJM to consider whether any such proposed mechanism can be so 
+accommodated and whether it would result in violations of regional reliability criteria applied in 
+the PJM region.  In addition, prior to the implementation of any such incentive mechanism, the 
+ITC and PJM shall coordinate the operation of any such mechanism.  PJM shall modify the PJM 
+Operating Manuals as necessary to allow for the implementation of any FERC-approved 
+incentive mechanism. 
+ 
+7. TARIFF ADMINISTRATION 
+ 
+7.1 Service under the Tariff. PJM is the Transmission Provider and remains responsible for 
+administering the Tariff, which shall be amended to include the ITC Transmission Facilities and 
+any provisions specific to the ITC Transmission Facilities that the ITC may propose pursuant to 
+this Attachment U.  Transmission Customers on the ITC Transmission Facilities will receive 
+transmission service under the Tariff. PJM shall execute the agreements with customers for 
+service under the Tariff, except that the ITC and PJM shall both execute agreements with 
+customers for interconnection services.  For transmission services for delivery to the zone or 
+zones comprising the ITC Transmission Facilities, to the extent rate discounting is authorized as 
+to such transmission services, the ITC shall make all decisions on rate discounts.  
+ 
+7.2 OASIS. PJM shall maintain the OASIS specified in Tariff, section 4. Customers shall 
+apply for service on the PJM OASIS. PJM shall have responsibility for granting or denying all 
+transmission service requests, but shall coordinate as necessary with ITC in developing its 
+response to transmission service requests, including any necessary studies.  The ITC shall be 
+entitled to have and maintain a site page within the PJM OASIS for any additional services 
+provided by such ITC. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 5 
+7.3 Studies. PJM shall administer the contracts with the customers and shall provide the 
+notices and make filings under this Tariff.  If a system impact, facilities, or other study is 
+required to address a connection to, or a constraint or other impact on, the ITC Transmission 
+Facilities, then the ITC shall assume responsibility for the study subject to oversight by, and 
+coordination with,  PJM, and satisfaction of PJM criteria for such studies as set forth in the joint 
+planning protocol developed pursuant to section 10.3 below.  The study agreement shall be 
+executed by PJM; provided however, that nothing herein shall preclude the ITC from entering 
+into additional agreements with customers regarding studies. 
+ 
+7.4 ATC. PJM shall calculate Available Transfer Capability (“ATC”), in accordance with 
+Tariff, Attachment C, for all facilities, including the ITC Transmission Facilities, provided that 
+the ITC shall possess the unilateral right to provide, pursuant to section 9.1 of this Attachment U, 
+the ratings, transfer limits, inputs, assumptions, and corresponding operating guides with respect 
+to the ITC Transmission Facilities to be used in calculating ATC.  If PJM disagrees with these 
+ratings, transfer limits, calculations, inputs, assumptions, or corresponding operating guides, the 
+ITC’s position shall prevail pending dispute resolution, unless PJM determines that ITC’s 
+position would violate system reliability criteria, in which case PJM’s position shall prevail 
+pending dispute resolution.   
+ 
+7.5 Scheduling.  Customers will schedule through the processes established by PJM.   
+ 
+ 
+8. CURTAILMENTS 
+ 
+8.1 PJM shall be responsible for directing all curtailments consistent with the Tariff and the 
+Operating Agreement.  The ITC and PJM shall develop protocols to implement any curtailments 
+ordered by PJM with respect to the ITC Transmission Facilities. 
+ 
+8.2 The ITC may propose to PJM operating methods to avoid and/or limit the need for 
+curtailments, and may implement such measures involving operation of the ITC Transmission 
+Facilities, in coordination with PJM; provided, however, that if PJM determines that a measure 
+proposed by the ITC would exacerbate an existing violation of a system reliability criterion, or 
+cause a violation of such criterion elsewhere on the system, or of another system reliability 
+criterion, then that measure shall not be implemented, pending dispute resolution.  
+ 
+9. OPERATIONS 
+ 
+9.1 Ratings and Rating Procedures.  The ITC is responsible for the establishment of ratings, 
+transfer limits, and rating procedures for the ITC Transmission Facilities.  The ITC shall provide 
+notice to PJM of all changes in ratings, transfer limits, and rating procedures, along with the 
+related information called for by Operating Agreement, Schedule 1, section 1.9.8, in accordance 
+with the deadlines set forth in such section 1.9.8 and in accordance with the PJM Manuals, as 
+they may be modified pursuant to section 16 below; provided that nothing in section 1.9.8 shall 
+preclude the ITC from instituting ratings changes (including, but not limited to, dynamic ratings 
+changes) in accordance with applicable PJM Operating Manuals, as they may be revised 
+pursuant to section 16 of this Attachment U.  Notwithstanding Operating Agreement, Schedule 1, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 6 
+section 1.9.8 or Operating Agreement, Schedule 1, section 1.9.9(e), should PJM dispute the 
+application of a rating, then the ITC’s position shall prevail pending dispute resolution. 
+ 
+9.2 Transmission Maintenance.  The ITC shall be responsible for developing its own 
+coordinated transmission maintenance and outage schedules for the ITC Transmission Facilities 
+and shall advise PJM of all such maintenance and outage schedules, for all ITC Transmission 
+Facilities, in accordance with Operating Agreement, Schedule 1, section 1.9.2.  PJM shall have 
+the authority to disapprove transmission maintenance outages on the ITC Transmission Facilities 
+if ITC fails to comply with the notice requirements of Operating Agreement, Schedule 1, section 
+1.9.2 to the Operating Agreement, or if PJM determines that such outages would create a 
+violation of system reliability criteria.  PJM shall have the authority to revoke its previously 
+granted approval of transmission maintenance outages on the ITC Transmission System if forced 
+transmission outages or emergency circumstances occur such that proceeding with the approved 
+outage would create a violation of system reliability criteria; provided that, where time permits, 
+PJM will consult with the ITC to determine whether steps can be taken that would enable the 
+maintenance outage to go forward as scheduled. PJM shall notify the ITC of the decision to 
+reschedule or revoke approval of the transmission maintenance outage as soon as possible after 
+the circumstances arise that create the need for the rescheduling or revocation.  Within a 
+reasonable time after it requires a transmission maintenance outage to be rescheduled or revokes 
+its approval of such an outage, PJM shall consult with the ITC to explain the reasons for its 
+decisions and to consider measures that the parties may adopt to avoid the need for further 
+rescheduling or revocation of outages.   
+ 
+9.3 Generation Maintenance. In accordance with the Operating Agreement and with 
+procedures in the PJM Manuals, as they may be modified pursuant to section 16 below, the ITC 
+shall promptly provide PJM with any advance notice of scheduled outages it receives from 
+generators, and PJM shall promptly provide the ITC with any advance notice it receives of 
+scheduled generator outages that affect the ITC Transmission Facilities, to permit the ITC to 
+schedule transmission outages on the ITC Transmission Facilities and perform its other functions 
+hereunder, and to permit PJM to exercise its responsibilities under the PJM Operating Agreement 
+with respect to generator outages.  The ITC may agree to coordinate with generators to modify 
+its planned transmission outage schedules in coordination with generator outage schedules. 
+ 
+9.4 Scheduling and Dispatch. PJM shall be responsible for administering day-ahead and real-
+time wholesale energy markets, including transmission security monitoring and constrained 
+economic dispatch, for all facilities, including the ITC Transmission Facilities. The ITC shall 
+manage the configuration and topology of the ITC Transmission Facilities, including acting as 
+the primary interface for all switching, maintenance, ratings, transfer limits, and monitoring, 
+subject to the direction of PJM as the regional Reliability Authority, and in accordance with the 
+PJM Manuals, as they may be revised pursuant to section 16 of this Attachment U.  
+ 
+9.5 Operations.  The ITC shall have the authority and responsibility, in accordance with its 
+agreements with the owners of the ITC Transmission Facilities, the terms of the Consolidated 
+Transmission Owners Agreement, NERC and Applicable Regional Entity standards and 
+guidelines, and the PJM Operating Manuals, as such manuals may be revised pursuant to section 
+16 of this Attachment U, to operate those facilities in a safe, economical, and reliable manner.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 7 
+PJM shall have the authority and responsibility to issue operating instructions to the ITC as they 
+relate to the ITC Transmission Facilities in accordance with the PJM Manuals, as they may be 
+revised pursuant to section 16 of this Attachment U, provided that nothing herein shall be 
+construed to require a change in the physical control of the ITC Transmission Facilities using the 
+ITC’s control center facilities and equipment.  The ITC and PJM shall seek agreement (where 
+time limitations allow) on real-time operational decisions affecting the ITC Transmission 
+Facilities not otherwise specified in the PJM Manuals.  In the absence of such agreement, or if 
+time limitations do not permit reaching agreement, PJM shall exercise its authority to direct 
+operations, subject to any actions the ITC may take in accordance with section 2.2 of this 
+Attachment U. 
+ 
+10. PLANNING 
+ 
+10.1 PJM has the ultimate authority for developing a Regional Transmission Expansion Plan 
+for its entire region, including the ITC Transmission Facilities, and may direct expansions as 
+required in accordance with Operating Agreement, Schedule 6, or successor provisions, as they 
+may be amended.  In the event of disputes between PJM and ITC concerning the contents of such 
+Regional Transmission Expansion Plan, the position of PJM, as the ultimate authority for 
+planning in the region, shall prevail.  Pursuant to the joint planning protocol developed under 
+section 10.3 below, PJM shall be responsible for setting appropriate planning criteria and the ITC 
+shall be responsible for studying the need for modifications, enhancements, or additions to the 
+ITC Transmission Facilities and for proposing a plan of modifications, enhancements, or 
+additions to the ITC Transmission Facilities. Each component of a timely plan proposed by the 
+ITC shall be incorporated without PJM approval in the Regional Transmission Expansion Plan if 
+PJM determines that such component does not materially adversely affect the Transmission 
+System other than the ITC Transmission Facilities. The ITC also may suggest, in accordance 
+with any established stakeholder procedures under Schedule 6 of the PJM Operating Agreement, 
+potential modifications, enhancements, or additions to transmission facilities in the PJM region 
+other than the ITC Transmission Facilities. Subject to any necessary FERC approval, the ITC 
+may adopt any procedures it deems necessary with respect to the ITC’s development of a plan of 
+enhancements or expansions, so long as such procedures do not adversely affect PJM’s ability to 
+prepare the Regional Transmission Expansion Plan in a timely and efficient manner.  Nothing in 
+this Attachment U impairs the rights of affected parties to participate in the PJM planning 
+process in accordance with Commission-approved procedures.  During the planning process the 
+ITC shall adhere to all Applicable Regional Entity, NERC and PJM Planning criteria.  The ITC 
+shall participate with PJM in the development of the system needs analysis, any system impact 
+studies and the transmission expansion plans as necessary to promote fully coordinated and 
+efficient solutions.   
+ 
+10.2 Interconnection Requests.  Customer requests for interconnection, including requests for 
+interconnection with the ITC Transmission Facilities, will be coordinated by PJM in accordance 
+with the Tariff and the PJM Manuals, as they may be modified pursuant to section 16 of this 
+Attachment U.  The ITC shall assume primary responsibility for interconnection projects on the 
+ITC Transmission Facilities.  PJM shall be responsible for setting interconnection standards, 
+receiving interconnection requests, administering the queue, coordinating the analysis of requests 
+for interconnection with ITC Transmission Facilities with requests for interconnection with non-
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 8 
+ITC Transmission Facilities, and ensuring that proposed interconnections to the ITC 
+Transmission Facilities will not materially adversely affect the Transmission System other than 
+the ITC Transmission Facilities.  PJM as the Transmission Provider under this Tariff also shall 
+retain primary responsibility for all service-related matters under the Tariff, including issuance 
+and administration of interconnection rights.  ITC shall regularly and frequently update PJM on 
+the status and results of all interconnect studies performed by or for the ITC, in accordance with 
+the joint planning protocol developed pursuant to section 10.3 below.  The results of any ITC 
+studies prepared in response to interconnection requests shall be reflected in the Regional 
+Transmission Expansion Plan. 
+ 
+10.3 Joint Planning Protocol.  PJM and ITC shall develop a joint planning protocol to facilitate 
+the seamless and efficient integration of all ITC transmission planning, study and analysis 
+efforts, and all ITC proposals for transmission enhancements, modifications, and additions into 
+the Regional Transmission Expansion Plan under Operating Agreement, Schedule 6 and the 
+regional generation interconnection queuing, study, and cost allocation process under Tariff, Part 
+IV. Such protocols shall be designed to facilitate the preparation of the Regional Transmission 
+Expansion Plan, and shall reflect and accommodate the procedures, timelines, and study cycles 
+employed for the regional transmission planning and generation interconnection process.  PJM 
+and ITC shall each implement the provisions of the joint planning protocol.  PJM and ITC shall 
+consult regularly concerning the extent to which changes to the joint planning protocol may be 
+required to achieve the foregoing purposes in light of experience and, as applicable, the 
+coordination of planning activities among PJM and all ITCs in the PJM region. 
+ 
+10.4 Material Adverse Effect.  As used in this Attachment, a material adverse effect on the 
+Transmission System other than the ITC Transmission Facilities shall not be present only if all of 
+the following statements are true: 
+ 
+ 1. The proposed facility or requested service does not result in any non-ITC facilities 
+in the PJM Region exceeding thermal, voltage, or stability limits, consistent with all applicable 
+reliability criteria; and 
+ 
+ 2. The proposed facility or requested service does not result in any circuit breaker on 
+non-ITC facilities in the PJM Region exceeding its interrupting capability. 
+ 
+11. BILLING AND REMITTANCE 
+ 
+11.1 PJM Responsibilities.  PJM shall be responsible for all billing, settlement, and revenue 
+distribution, except as provided in section 11.2 below. 
+ 
+11.2 ITC Responsibilities.  The ITC may elect to perform billing, settlement, and revenue 
+distribution for the additional services, if any, provided by the ITC as referenced in section 3.1 of 
+this Attachment U.  The ITC may elect to contract for the provision of those functions by PJM or 
+another third party.  
+ 
+12. MONITORING 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 9 
+12.1 The Market Monitoring Unit established under Tariff, Attachment M shall monitor the 
+services provided by the ITC, and the ITC-PJM relationship, to detect any problems that may 
+inhibit a robust and competitive market.  Transactions utilizing the ITC Transmission Facilities 
+shall be subject to the authority of the Market Monitoring Unit on the same basis as transactions 
+involving any other Market Participant using other portions of the Transmission System. This 
+provision is also found in Tariff, Attachment M, Article IV, section C-1. 
+ 
+13. LIABILITY AND INDEMNITY 
+ 
+13.1 The ITC shall execute the Operating Agreement as a Member of PJM and the liability 
+and indemnity provisions as set forth in Operating Agreement, section 16 shall apply to acts or 
+omissions resulting from, arising out of, or in any way connected with this Attachment or the 
+ITC Agreement. 
+ 
+14. DISPUTE RESOLUTION 
+ 
+14.1 Dispute resolution as used herein refers to the dispute resolution procedures in Tariff, 
+section 12, as it may be amended.  
+ 
+15. NOTIFICATION OF ASSUMPTION OF RESPONSIBILITIES 
+ 
+15.1 The ITC shall provide adequate notice to PJM of its intent to assume the responsibilities 
+described in this Attachment U.   
+ 
+16. OPERATING PROCEDURES AND PROTOCOLS 
+ 
+16.1 Operating Guides, Manuals and Procedures.  As provided in section 9.5 of this 
+Attachment U, the ITC shall operate the ITC Transmission Facilities in accordance with the PJM 
+Operating Manuals.  Prior to start-up, and from time to time after the ITC commences 
+operations, the ITC shall review such manuals and shall timely notify PJM of any changes or 
+additions desired by the ITC to address specific conditions or operating procedures on the ITC 
+Transmission Facilities.  Subject to PJM’s agreement, the PJM Manuals shall be revised or 
+supplemented accordingly.  PJM shall apprise ITC of subsequent changes to the PJM manuals 
+through its established procedures for stakeholder notification of such changes.  Any dispute 
+between the ITC and PJM concerning changes to the PJM Manuals shall be resolved in 
+accordance with section 14.1 above.  Nothing herein precludes the ITC from maintaining more 
+detailed operating guides, manuals, and procedures specific to the ITC Transmission Facilities 
+that are consistent with and subject to the operating guides and procedures in the PJM Manuals.  
+ 
+16.2 ITC Start-Up Procedures and Protocols.  The ITC and PJM shall cooperate and use their 
+best efforts to develop the necessary procedures and protocols to allow timely start-up of the ITC 
+pursuant to this Attachment U.   
+ 
+17. ANCILLARY SERVICES 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 10 
+17.1 ITC System Control and Administrative Services.  ITC shall recover its costs of 
+providing system control and other administrative services through an appropriate schedule to 
+the Tariff, as filed and made effective by ITC, subject to FERC acceptance.    
+ 
+17.2 System Restoration and Black Start Generation. PJM and the ITC shall coordinate in the 
+preparation of a workable system restoration plan for the ITC Transmission Facilities in 
+accordance with approved PJM Tariff requirements.  PJM and the ITC shall be responsible for 
+implementing their respective assigned duties under such system restoration plan. 
+ 
+17.3 Reactive Support. PJM shall be responsible for purchases of reactive support from 
+generators under the PJM Tariff.  If desired by ITC and approved by FERC, PJM shall designate 
+ITC as a supplier of reactive support in accordance with an ITC Rate Schedule to be included in 
+the PJM Tariff. 
+ 
+18. INFORMATION SHARING 
+ 
+18.1 Subject to FERC approval of any necessary changes to the PJM Operating Agreement, 
+PJM shall share with the ITC information within the possession of PJM that is necessary for the 
+ITC to perform those rights, responsibilities and functions that FERC authorizes the ITC to 
+perform and the ITC shall share with PJM information within the possession of the ITC that is 
+necessary for PJM to perform those rights, responsibilities and functions that FERC authorizes 
+PJM to perform.  If such data are immediately available, it is expected that the parties will 
+establish communication links for data transfer as appropriate and necessary.  Data requiring 
+manipulation shall be made available within a reasonable time. In all cases, all data designated as 
+confidential shall be handled as provided in section 18.2 of this Attachment U. 
+ 
+18.2 Confidentiality.  To the extent ITC obtains from PJM or any Member of PJM any 
+documents, data, or other information that has been designated by PJM or a Member as 
+confidential, ITC shall treat such information in the same manner and subject to the same 
+procedures, restrictions, and obligations as set forth in Operating Agreement, section 18.17. To 
+the extent PJM obtains from ITC any documents, data, or other information that has been 
+designated by ITC as confidential, PJM shall treat such information in accordance with the 
+procedures, restrictions, and obligations as set forth in Operating Agreement, section 18.17. 
+ 
+19. INTERREGIONAL COORDINATION 
+ 
+19.1 PJM is responsible for coordination with all neighboring regions, including those 
+adjacent to the ITC (or operated by the ITC in adjacent regions). 
+ 
+19.2 To the extent that an ITC (or its affiliates) is operating in PJM and a neighboring region, 
+the ITC may, in coordination with PJM, undertake efforts to facilitate interregional coordination 
+between PJM and the neighboring region.  The ITC shall consult with PJM prior to 
+implementing any such efforts to allow PJM to consider whether the actions could be 
+accommodated within the framework of PJM’s approved congestion pricing methodology and 
+other rules and whether the actions would result in violations of regional reliability criteria 
+applied in the PJM region.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT U 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 11 
+ 
+20. REVISION OF ITC FUNCTIONS   
+ 
+20.1 The division of functions and responsibilities between PJM and ITC shall be as set forth 
+in this Attachment U and the ITC Agreement and may be modified from time to time to reflect 
+the functionality permitted for independent transmission companies in accordance with FERC 
+policy as pronounced in proceedings concerning Standard Market Design or otherwise, and to 
+reflect the experience of the parties in the actual performance of their functions hereunder.  PJM 
+and ITC from time to time will review the allocation of functions and responsibilities and 
+address appropriate changes, if any, to the division of functions between ITC and PJM consistent 
+with such FERC policy, and any such changes shall be subject to any required regulatory 
+approvals.   
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT V 
+Effective Date: 3/1/2019 - Docket #: ER19-744-000 - Page 1 

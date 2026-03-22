@@ -1,0 +1,1515 @@
+[ATTACHMENT Q - Part 1 of 3]
+
+ATTACHMENT Q 
+ 
+CREDIT RISK MANAGEMENT POLICY 
+ 
+I. INTRODUCTION 
+ 
+It is the policy of PJM that prior to an entity participating in any PJM Markets or in order to take 
+Transmission Service, the entity must demonstrate its ability to meet the requirements in this 
+Attachment Q.  This Attachment Q also sets forth PJM’s authority to deny, reject, or terminate a 
+Participant’s right to participate in any PJM Markets in order to protect the PJM Markets and 
+PJM Members from unreasonable credit risk from any Participant’s activities.  Given the 
+interconnectedness and overlapping of their responsibilities, PJM Interconnection, L.L.C. and 
+PJM Settlement, Inc. are referred to both individually and collectively herein as “PJM.” 
+ 
+PURPOSE 
+ 
+PJMSettlement is the counterparty to transactions in the PJM Markets.  As a consequence, if a 
+Participant defaults on its obligations under this Attachment Q, or PJM determines a Participant 
+represents unreasonable credit risk to the PJM Markets, and the Participant does not post 
+Collateral, additional Collateral or Restricted Collateral in response to a Collateral Call, the 
+result is that the Participant represents unsecured credit risk to the PJM Markets.  For this reason, 
+PJM must have the authority to monitor and manage credit risk on an ongoing basis, and to act 
+promptly to mitigate or reduce any unsecured credit risk, in order to protect the PJM Markets and 
+PJM Members from losses. 
+ 
+This Attachment Q describes requirements for: (1) eligibility to be a Market Participant, (2) 
+establishment and maintenance of credit by Market Participants, and (3) collateral requirements 
+and forms of credit support that will be deemed as acceptable to mitigate risk to any PJM 
+Markets.  
+ 
+This Attachment Q also sets forth (1) PJM’s authority to monitor and manage credit risk that a 
+Participant may represent to the PJM Markets and/or PJM membership in general, (2) the basis 
+for establishing limits that will be imposed on a Market Participant in order to minimize risk, and 
+(3) various obligations and requirements the violation of which will result in an Event of Default 
+pursuant to this Attachment Q and the Agreements.  
+ 
+Attachment Q describes the types of data and information PJM will review in order to determine 
+whether an Applicant or Market Participant presents an unreasonable risk to any PJM Markets 
+and/or PJM membership in general, and the steps PJM may take in order to address that risk.   
+ 
+APPLICABILITY 
+ 
+This Attachment Q applies to all Applicants and Market Participants who take Transmission 
+Service under this Tariff, or participate in any PJM Markets or market activities under the 
+Agreements.  Notwithstanding anything to the contrary in this Attachment Q, simply taking 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.I 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 2 
+transmission service or procuring Ancillary Services via market-based rates does not imply 
+market participation for purposes of applicability of this Attachment Q. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 1 
+II. RISK EVALUATION PROCESS 
+ 
+PJM will conduct a risk evaluation to determine eligibility to become and/or remain a Market 
+Participant or Guarantor that: (1) assesses the entity’s financial strength, risk profile, 
+creditworthiness, and other relevant factors; (2) determines an Unsecured Credit Allowance, if 
+appropriate; (3) determines appropriate levels of Collateral; and (4) evaluates any Credit 
+Support, including Guaranties or Letters of Credit. 
+ 
+A. Initial Risk Evaluation  
+ 
+PJM will perform an initial risk evaluation of each Applicant and/or its Guarantor.  As part of the 
+initial risk evaluation, PJM will consider certain Minimum Participation Requirements, assign an 
+Internal Risk Score, establish an Unsecured Credit Allowance if appropriate, and make a 
+determination regarding required levels of Collateral, creditworthiness, credit support, Restricted 
+Collateral and other assurances for participation in certain PJM Markets.   
+ 
+Each Applicant and/or its Guarantor must provide the information set forth below at the time of 
+its initial application pursuant to this Attachment Q and on an ongoing basis in order to remain 
+eligible to participate in any PJM Markets.  The same quantitative and qualitative factors will be 
+used to evaluate Participants whether or not they have rated debt. 
+ 
+1.  Rating Agency Reports  
+ 
+PJM will review Rating Agency reports from Standard & Poor’s, Moody’s Investors Service, 
+Fitch Ratings, or other Nationally Recognized Statistical Rating Organization for each Applicant 
+and/or Guarantor.  The review will focus on the Applicant’s or its Guarantor’s senior unsecured 
+debt ratings.  If senior unsecured debt ratings are not available, PJM may consider other ratings, 
+including issuer ratings, corporate ratings and/or an implied rating based on an internally derived 
+Internal Credit Score pursuant to section II.A.3 below.  
+ 
+2.  Financial Statements and Related Information  
+ 
+Each Applicant and/or its Guarantor must submit, or cause to be submitted, audited financial 
+statements, except as otherwise indicated below, prepared in accordance with United States 
+Generally Accepted Accounting Principles (“US GAAP”) or any other format acceptable to PJM 
+for the three (3) fiscal years most recently ended, or the period of existence of the Applicant 
+and/or its Guarantor, if shorter.  Applicants and/or their Guarantors must submit, or cause to be 
+submitted, financial statements, which may be unaudited, for each completed fiscal quarter of the 
+current fiscal year.  All audited financial statements provided by the Applicant and/or its 
+Guarantor must be audited by an Independent Auditor.   
+ 
+The information should include, but not be limited to, the following:  
+ 
+(a)  If the Applicant and/or its Guarantor has publicly traded securities: 
+ 
+(i) Annual reports on Form 10-K, together with any amendments thereto; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 2 
+ 
+(ii) Quarterly reports on Form 10-Q, together with any amendments thereto; 
+ 
+(iii) Form 8-K reports, if any, that have been filed since the most recent Form 
+10-K;   
+ 
+(iv) A summary provided by the Principal responsible, or to be responsible, for 
+PJM Market activity of: (1) the Participant’s primary purpose(s) of activity 
+or anticipated activity in the PJM Markets (investment, trading or 
+“hedging or mitigating commercial risks,” as such phrase has meaning in 
+the CFTC’s regulations regarding the end-user exception to clearing); (2) 
+the experience of the Participant (and its Principals) in managing risks in 
+similar markets, including other organized RTO/ISO markets or on 
+regulated commodity exchanges; and (3) a high level overview of the 
+Participant’s intended participation in the PJM Markets.    
+ 
+(v) All audited financial statements provided by an Applicant with publicly 
+traded securities and/or its Guarantor with publicly traded securities must 
+be audited by an Independent Auditor that satisfies the requirements set 
+forth in the Sarbanes-Oxley Act of 2002. 
+ 
+(b) If the Applicant and/or its Guarantor does not have publicly-traded securities:  
+ 
+(i) Annual Audited Financial Statements or equivalent independently audited 
+financials, and quarterly financial statements, generally found on: 
+- Balance Sheets 
+- Income Statements 
+- Statements of Cash Flows 
+- Statements of Stockholder’s or Member’s Equity or Net Worth; 
+ 
+(ii) Notes to Annual Audited Financial Statements, and notes to quarterly 
+financial statements if any, including disclosures of any material changes 
+from the last report;  
+ 
+(iii) Disclosure equivalent to a Management’s Discussion & Analysis, 
+including an executive overview of operating results and outlook, and 
+compliance with debt covenants and indentures, and off balance sheet 
+arrangements, if any; 
+ 
+(iv) Auditor’s Report with an unqualified opinion or written letter from auditor 
+containing the opinion whether the annual audited financial statements 
+comply with the US GAAP or any other format acceptable to PJM; and 
+ 
+(v) A summary provided by the Principal responsible or to be responsible for 
+PJM Market activity of: (1) the Participant’s primary purpose(s) of activity 
+or anticipated activity in the PJM Markets (investment, trading or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 3 
+“hedging or mitigating commercial risks,” as such phrase has meaning in 
+the CFTC’s regulations regarding the end-user exception to clearing); (2) 
+the experience of the Participant (and its Principals) in managing risks in 
+similar markets, including other organized RTO/ISO markets or on 
+regulated commodity exchanges; and (3) a high level overview of the 
+Participant’s intended participation in the PJM Markets. 
+ 
+(c) If Applicant and/or Guarantor is newly formed, does not yet have three (3) years 
+of audited financials, or does not routinely prepare audited financial statements, 
+PJM may specify other information to allow it to assess the entity’s 
+creditworthiness, including but not limited to: 
+ 
+(i) Equivalent financial information traditionally found in: 
+- Balance Sheets 
+- Income Statements 
+- Statements of Cash Flows 
+ 
+(ii) Disclosure equivalent to a Management’s Discussion & Analysis, 
+including an executive overview of operating results and outlook, and 
+compliance with debt covenants and indentures, and off balance sheet 
+arrangements, if any; and 
+ 
+(iii) A summary provided by the Principal responsible or to be responsible for 
+PJM Market activity of: (1) the Participant’s primary purpose(s) of activity 
+or anticipated activity in the PJM Markets (investment, trading or 
+“hedging or mitigating commercial risks,” as such phrase has meaning in 
+the CFTC’s regulations regarding the end-user exception to clearing); (2) 
+the experience of the Participant (and its Principals) in managing risks in 
+similar markets, including other organized RTO/ISO markets or on 
+regulated commodity exchanges; and (3) a high level overview of the 
+Participant’s intended participation in the PJM Markets. 
+ 
+(d) During a two year transition period from June 1, 2020 to May 31, 2022, the 
+Applicant or Guarantor may provide a combination of audited financial 
+statements and/or equivalent financial information. 
+ 
+If any of the above information in this section II.A.2 is available on the internet, the Applicant 
+and/or its Guarantor may provide a letter stating where such statements can be located and 
+retrieved by PJM.  If an Applicant and/or its Guarantor files Form 10-K, Form 10-Q, or Form 8-
+K with the SEC, then the Applicant and/or its Guarantor will be deemed to have satisfied the 
+requirement by indicating to PJM where the information in this section II.A.2 can be located on 
+the internet.  
+If the Applicant and/or its Guarantor fails, for any reason, to provide the information required 
+above in this section II.A.2, PJM has the right to (1) request Collateral and/or Restricted 
+Collateral to cover the amount of risk reasonably associated with the Applicant and/or its 
+Guarantor’s expected activity in any PJM Markets, and/or (2) restrict the Applicant from 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 4 
+participating in certain PJM Markets, including but not limited to restricting the positions the 
+Applicant (once it becomes a Market Participant) takes in the market. 
+ 
+For certain Applicants and/or their Guarantors, some of the above submittals may not be 
+applicable and alternate requirements for compliant submittals may be specified by PJM.  In the 
+credit evaluation of Municipalities and Cooperatives, PJM may also request additional 
+information as part of the initial and ongoing review process and will consider other qualitative 
+factors in determining financial strength and creditworthiness. 
+ 
+3. Credit Rating and Internal Credit Score 
+ 
+PJM will use credit risk scoring methodologies as a tool in determining an Unsecured Credit 
+Allowance for each Applicant and/or its Guarantor.  As its source for calculating the Unsecured 
+Credit Allowance, PJM will rely on the ratings from a Rating Agency, if any, on the Applicant’s 
+or Guarantor’s senior unsecured debt or their issuer ratings or corporate ratings if senior 
+unsecured debt ratings are not available.  If there is a split rating between the Rating Agencies, 
+the lower of the ratings shall apply.  If no external credit rating is available PJM will utilize its 
+Internal Credit Score in order to calculate the Unsecured Credit Allowance.   
+ 
+The model used to develop the Internal Credit Score will be quantitative, based on financial data 
+found in the income statement, balance sheet, and cash flow statement, and it will be qualitative 
+based on relevant factors that may be internal or external to a particular Applicant and/or its 
+Guarantor. 
+ 
+PJM will employ a framework, as outlined in Tables 1-5 below, based on metrics internal to the 
+Applicant and/or its Guarantor, including capital and leverage, cash flow coverage of fixed 
+obligations, liquidity, profitability, and other qualitative factors.  The particular metrics and 
+scoring rules differ according to the Applicant’s or Guarantor’s line of business and the PJM 
+Markets in which it anticipates participating, in order to account for varying sources and degrees 
+of risk to the PJM Markets and PJM members.   
+ 
+The formulation of each metric will be consistently applied to all Applicants and Guarantors 
+across industries with slight variations based on identifiable differences in entity type, 
+anticipated market activity, and risks to the PJM Markets and PJM members.  In instances where 
+the external credit rating is used to calculate the unsecured credit allowance, PJM may also use 
+the Internal Credit Score as an input into determining the overall risk profile of an Applicant 
+and/or its Guarantor. 
+ 
+ 
+Table 1. 
+Quantitative Metrics by Line of 
+Business:  Leverage and Capital 
+Structure 
+Investor-
+Owned 
+Utilities 
+Municipal 
+Utilities 
+Co-Operative  
+Utilities 
+Power 
+Transmission 
+Merchant Power 
+Project 
+Developers 
+Exploration & 
+Production 
+Financial 
+Institutions 
+Commodity 
+Trading 
+Private Equity 
+Debt / Total Capitalization (%)           
+FFO / Debt (%)           
+Debt / EBITDA (x)           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 5 
+Debt / Property, Plant & Equipment 
+(%)           
+Retained Earnings / Total Assets (%)           
+Debt / Avg Daily Production or KwH 
+($)           
+Tangible Net Worth ($)           
+Core Capital / Total Assets (%)           
+Risk-Based Capital / RWA (%)           
+Tier 1 Capital / RWA (%)           
+Equity / Investments (%)           
+Debt / Investments (%)           
+ primary metric  secondary metric  FFO = Funds From Operations      RWA = Risk-Weighted Asserts  
+ 
+ 
+Table 2. 
+Quantitative Metrics by Line of 
+Business:  Fixed Charge 
+Coverage and Funding 
+Investor-
+Owned 
+Utilities 
+Municipal 
+Utilities 
+Co-Operative  
+Utilities 
+Power 
+Transmission 
+Merchant Power 
+Project 
+Developers 
+Exploration & 
+Production 
+Financial 
+Institutions 
+Commodity 
+Trading 
+Private Equity 
+EBIT / Interest Expense (x)           
+EBITDA / Interest Expense (x)           
+EBITDA / [Interest Exp + CPLTD] (x)           
+[FFO + Interest Exp] / Interest Exp (x)           
+Loans / Total Deposits (%)           
+NPL / Gross Loans (%)           
+NPL / [Net Worth + LLR] (%)           
+Market Funding / Tangible Bank 
+Assets (%)           
+primary metric  secondary metric  CPLTD = Current Portion of Long-Term Debt   EBIT = Earnings Before Interest and Taxes  EBITDA = 
+Earnings Before Interest, Taxes, Depreciation and Amortization   LLR = Loan Loss Reserves   NPL = Non-Performing Loans 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3. 
+Quantitative Metrics by Line of 
+Business:  Liquidity 
+Investor-
+Owned 
+Utilities 
+Municipal 
+Utilities 
+Co-Operative  
+Utilities 
+Power 
+Transmission 
+Merchant Power 
+Project 
+Developers 
+Exploration & 
+Production 
+Financial 
+Institutions 
+Commodity 
+Trading 
+Private Equity 
+CFFO / Total Debt (x)           
+Current Assets / Current Liabilities (x)           
+Liquid Assets / Tangible Bank Assets 
+(%)           
+Sources / Uses of Funds (x)           
+Weighted Avg Maturity of Debt (yrs)           
+Floating Rate Debt / Total Debt (%)           
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 6 
+primary metric  secondary metric   CFFO = Cash Flow From Operations  
+ 
+ 
+Table 4. 
+Quantitative Metrics by Line of 
+Business:  Profitability 
+Investor-
+Owned 
+Utilities 
+Municipal 
+Utilities 
+Co-Operative  
+Utilities 
+Power 
+Transmission 
+Merchant Power 
+Project 
+Developers 
+Exploration & 
+Production 
+Financial 
+Institutions 
+Commodity 
+Trading 
+Private Equity 
+Return on Assets (%)           
+Return on Equity (%)           
+Profit Volatility (%)           
+Return on Revenue (%)           
+Net Income / Tangible Assets (%)           
+Net Profit ($)           
+Net Income / Dividends (x)           
+primary metric  secondary metric   
+ 
+ 
+ 
+Table 5. 
+Qualitative 
+Factors:  
+Industry Level 
+ 
+ 
+ 
+Sample 
+Reference 
+Metrics 
+Investor-Owned Utilities 
+Municipal Utilities 
+Co-Operative  
+Utilities 
+Power Transmission 
+Merchant Power 
+Project Developers 
+Exploration & 
+Production 
+Financial Institutions 
+Commodity Trading 
+Private Equity 
+ 
+ 
+ 
+Need for PJM 
+Markets to 
+Achieve Business 
+Goals 
+ 
+Rating 
+Agency 
+criteria or 
+other 
+industry 
+analysis 
+ 
+High 
+ 
+ 
+High 
+ 
+ 
+High 
+ 
+ 
+High 
+ 
+ 
+Med  
+ 
+ 
+Low 
+ 
+ 
+Med  
+ 
+ 
+Low 
+ 
+ 
+Low 
+ 
+ 
+N/A 
+ 
+ 
+Ability to 
+Grow/Enter 
+Markets other 
+than PJM 
+Rating 
+Agency 
+criteria or 
+other 
+industry 
+analysis 
+Very 
+Low 
+ 
+ 
+Very 
+Low 
+ 
+ 
+Very 
+Low 
+ 
+ 
+Very 
+Low 
+ 
+ 
+High 
+ 
+ 
+High 
+ 
+ 
+Med  
+ 
+ 
+Med 
+ 
+ 
+High 
+ 
+ 
+N/A 
+ 
+ 
+Other 
+Participants’ 
+Ability to Serve 
+Customers 
+ 
+Rating 
+Agency 
+criteria or 
+other 
+industry 
+analysis 
+Low 
+ 
+ 
+Low 
+ 
+ 
+Low 
+ 
+ 
+Low 
+ 
+ 
+Low 
+ 
+ 
+Med 
+ 
+ 
+Low 
+ 
+ 
+Low 
+ 
+ 
+High 
+ 
+ 
+N/A 
+ 
+ 
+Regulation of 
+Participant’s 
+Business 
+RRA 
+regulatory 
+climate 
+scores, S&P 
+BICRA 
+PUCS 
+ 
+ 
+Govt 
+ 
+ 
+N/A 
+ 
+ 
+FERC 
+PUCs 
+ 
+ 
+N/A 
+ 
+ 
+N/A 
+ 
+ 
+N/A 
+ 
+ 
+N/A 
+ 
+ 
+N/A 
+ 
+ 
+N/A 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 7 
+Primary Purpose 
+of PJM Activity 
+Investment 
+(“Inv.”)/ 
+Trading 
+(“Trade”)/ 
+Hedging or 
+Mitigating 
+Commercial 
+Risk of 
+Operations 
+(“CRH”) 
+CRH  CRH CRH CRH/ 
+Trade 
+CRH/ 
+Trade 
+CRH/ 
+Trade 
+CRH/
+Trade 
+Inv./ 
+Trade 
+Inv./ 
+Trade 
+Inv./ 
+Trade 
+ 
+RRA = Regulatory Research Associates, a division of S&P Global, Inc.     BICRA = Bank Industry Country Risk Assessment 
+ 
+The scores developed will range from 1-6, with the following mappings:  
+ 
+1 = Very Low Risk (S&P/Fitch: AAA to AA-; Moody’s: Aaa to Aa3) 
+2 = Low Risk (S&P/Fitch: A+ to BBB+; Moody’s: A1 to Baa1) 
+3 = Low to Medium Risk (S&P/Fitch: BBB; Moody’s: Baa2) 
+4 = Medium Risk (S&P/Fitch: BBB-; Moody’s: Baa3) 
+5 = Medium to High Risk (S&P/Fitch: BB+ to BB; Moody’s Ba1 to Ba2) 
+6 = High Risk (S&P/Fitch: BB- and below; Moody’s: Ba3 and below) 
+ 
+4.  Trade References  
+ 
+If deemed necessary by PJM, whether because the Applicant is newly or recently formed or for 
+any other reason, each Applicant and/or its Guarantor shall provide at least one (1) bank 
+reference and three (3) Trade References to provide PJM with evidence of Applicant’s 
+understanding of the markets in which the Applicant is seeking to participate and the Applicant’s 
+experience and ability to manage risk.   PJM may contact the bank references and Trade 
+References provided by the Applicant to verify their business experience with the Applicant.   
+ 
+5.  Litigation and Contingencies  
+ 
+Unless prohibited by law, each Applicant and Guarantor is also required to disclose and provide 
+information as to the occurrence of, within the five (5) years prior to the submission of the 
+information to PJM (i) any litigation, arbitration, investigation (formal inquiry initiated by a 
+governmental or regulatory entity), or proceeding,  pending or, to the knowledge of the 
+involving, Applicant or its Guarantor or any of their Principals that would likely have a material 
+adverse impact on its financial condition and/or would likely materially affect the risk of non-
+payment by the Applicant or Guarantor, or (ii) any finding of material defalcation, market 
+manipulation or fraud by or involving the Applicant, Guarantor, or any of their Principals, 
+predecessors, subsidiaries, or Credit Affiliates that participate in any United States power 
+markets based upon a final adjudication of regulatory and/or legal proceedings, (iii) any 
+bankruptcy declarations or petitions by or against an Applicant and/or Guarantor, or (iv) any 
+violation by any of the foregoing of any federal or state regulations or laws regarding energy 
+commodities, U.S. Commodity Futures Trading Commission (“CFTC”) or FERC requirements, 
+the rules of any exchange monitored by the National Futures Association, any self-regulatory 
+organization or any other governing, regulatory, or standards body responsible for regulating 
+activity in North American markets for electricity, natural gas or electricity-related commodity 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 8 
+products.  Each Applicant and Guarantor shall take reasonable measures to obtain permission to 
+disclose information related to a non-public investigation.  These disclosures shall be made by 
+Applicant and Guarantor upon application, and within ten (10) Business Days of any material 
+change with respect to any of the above matters. 
+ 
+6.  History of Defaults in Energy Projects 
+ 
+Each Applicant and Guarantor shall disclose their current default status and default history for 
+any energy related generation or transmission project (e.g. generation, solar, development), and 
+within any wholesale or retail energy market, including but not limited to within PJM, any 
+Independent System Operator or Regional Transmission Organization, and exchange that has not 
+been cured within the past five (5) years.  Defaults of a non-recourse project financed entity may 
+not be included in the default history.   
+ 
+7.  Other Disclosures and Additional Information  
+ 
+Each Applicant and Guarantor is required to disclose any Credit Affiliates that are currently 
+Members of PJM, applying for membership with PJM, Transmission Customers, Participants, 
+applying to become Market Participants, or that participate directly or indirectly in any PJM 
+Markets or any other North American markets for electricity, natural gas or electricity-related 
+commodity products.  Each Applicant and Guarantor shall also provide a copy of its limited 
+liability company agreement or equivalent agreement, certification of formation, articles of 
+incorporation or other similar organization document, offering memo or equivalent, the names of 
+its Principals, and information pertaining to any non-compliance with debt covenants and 
+indentures. 
+ 
+Applicants shall provide PJM the credit application referenced in section III.A and any other 
+information or documentation reasonably required for PJM to perform the initial risk evaluation 
+of Applicant’s or Guarantor’s creditworthiness and ability to comply with the requirements 
+contained in the Agreements related to settlements, billing, credit requirements, and other 
+financial matters. 
+ 
+B. Supplemental Risk Evaluation Process 
+ 
+As described in section VI below, PJM will conduct a supplemental risk evaluation process for 
+Applicants, Participants, and Guarantors applying to conduct virtual and export transactions or 
+participate in any PJM Markets. 
+C. Unsecured Credit Allowance  
+ 
+A Market Participant may request that PJM consider it for an Unsecured Credit Allowance 
+pursuant to the provisions herein.  Notwithstanding the foregoing, an FTR Participant shall not 
+be considered for an Unsecured Credit Allowance for participation in the FTR markets. 
+ 
+1. Unsecured Credit Allowance Evaluation 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 9 
+PJM will perform a credit evaluation on each Participant that has requested an Unsecured Credit 
+Allowance, both initially and at least annually thereafter.  PJM shall determine the amount of 
+Unsecured Credit Allowance, if any, that can be provided to the Market Participant in 
+accordance with the creditworthiness and other requirements set forth in this Attachment Q.  In 
+completing the credit evaluation, PJM will consider: 
+ 
+(a)  Rating Agency Reports 
+ 
+PJM will review Rating Agency reports as for each Market Participant on the same basis as 
+described in section II.A.1 above and section II.E.1 below.    
+ 
+(b) Financial Statements and Related Information 
+ 
+All financial statements and related information considered for an Unsecured Credit Allowance 
+must satisfy all of the same requirements described in section II.A.2 above and section II.E.2 
+below. 
+ 
+2.  Material Adverse Changes 
+ 
+Each Market Participant is responsible for informing PJM, in writing, of any Material Adverse 
+Change in its financial condition (or the financial condition of its Guarantor) since the date of the 
+Market Participant or Guarantor’s most recent annual financial statements provided to PJM, 
+pursuant to the requirements reflected in section II.A.2 above and section II.E.3 below.  
+ 
+In the event that PJM determines that a Material Adverse Change in the financial condition of a 
+Market Participant warrants a requirement to provide Collateral, additional Collateral or 
+Restricted Collateral, PJM shall comply with the process and requirements described in section 
+II.A above and section II.E below. 
+ 
+3. Other Disclosures  
+ 
+Each Market Participant desiring an Unsecured Credit Allowance is required to make the 
+disclosures and upon the same requirements reflected in section II.A.7 above and section II.E.7 
+below. 
+ 
+D. Determination of Unreasonable Credit Risk 
+ 
+Unreasonable credit risk shall be determined by the likelihood that an Applicant will default on a 
+financial obligation arising from its participation in any PJM Markets.  Indicators of potentially 
+unreasonable credit risk include, but are not limited to, a history of market manipulation based 
+upon a final adjudication of regulatory and/or legal proceedings, a history of financial defaults, a 
+history of bankruptcy or insolvency within the past five (5) years, or a combination of current 
+market and financial risk factors such as low capitalization, a reasonably likely future material 
+financial liability, a low Internal Credit Score (derived pursuant to section II.A.3 above) and/or a 
+low externally derived credit score.  PJM’s determination will be based on, but not limited to, 
+information and material provided to PJM during its initial risk evaluation process, information 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 10 
+and material provided to PJM in the Officer’s Certification, and/or information gleaned by PJM 
+from public and non-public sources.    
+ 
+If PJM determines that an Applicant poses an unreasonable credit risk to the PJM Markets, PJM 
+may require Collateral, additional Collateral, or Restricted Collateral commensurate with the 
+Applicant’s risk of financial default, reject an application, and/or limit or deny Applicant’s 
+participation in the PJM Markets, to the extent and for the time period it determines is necessary 
+to mitigate the unreasonable credit risk to the PJM Markets.  PJM will reject an application if it 
+determines that Collateral, additional Collateral, or Restricted Collateral cannot address the risk.   
+ 
+PJM will communicate its concerns regarding whether the Applicant presents an unreasonable 
+credit risk, if any, in writing to the Applicant and attempt to better understand the circumstances 
+surrounding that Applicant’s financial and credit position before making its determination.  In 
+the event PJM determines that an Applicant presents an unreasonable credit risk that warrants a 
+requirement to provide Collateral of any type, or some action to mitigate risk, PJM shall provide 
+the Applicant with a written explanation of why such determination was made.    
+ 
+E. Ongoing Risk Evaluation 
+ 
+In addition to the initial risk evaluation set forth in sections II.A through II.D above and the 
+annual certification requirements set forth in section III.A below, each Market Participant and/or 
+its Guarantor has an ongoing obligation to provide PJM with the information required in section 
+IV.A described in more detail below.  PJM may also review public information regarding a 
+Market Participant and/or its Guarantor as part of its ongoing risk evaluation.  If appropriate, 
+PJM will revise the Market Participant’s Unsecured Credit Allowance and/or change its 
+determination of creditworthiness, credit support, Restricted Collateral, required Collateral or 
+other assurances pursuant to PJM’s ongoing risk evaluation process. 
+ 
+Each Market Participant and/or its Guarantor must provide the information set forth below on an 
+ongoing basis in order to remain eligible to participate in any PJM Markets.  The same 
+quantitative and qualitative factors will be used to evaluate Market Participants whether or not 
+they have rated debt. 
+ 
+1.  Rating Agency Reports  
+ 
+PJM will review Rating Agency reports for each Market Participant and/or Guarantor on the 
+same basis as described in section II.A.1 above.  
+ 
+2.  Financial Statements and Related Information  
+ 
+On an ongoing basis, Market Participants and/or their Guarantors shall provide the information 
+they are required to provide as described in section II.A.2 above, pursuant to the schedule 
+reflected below, with one exception.  With regard to the summary that is required to be provided 
+by the Principal responsible for PJM Market activity, with respect to experience of the 
+Participant or its Principals in managing risks in similar markets, the Principal only needs to 
+provide that information for a new Principal that was not serving in the position when the prior 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 11 
+summary was provided.  PJM will review financial statements and related information for each 
+Market Participant and/or Guarantor on the same basis as described in section II.A.2 above.    
+ 
+Each Market Participant and/or its Guarantor must submit, or cause to be submitted, annual 
+audited financial statements, except as otherwise indicated below, prepared in accordance with 
+US GAAP or any other format acceptable to PJM for the fiscal year most recently ended within 
+ten (10) calendar days of the financial statements becoming available and no later than one 
+hundred twenty (120) calendar days after its fiscal year end.  Market Participants and/or their 
+Guarantors must submit, or cause to be submitted, financial statements, which may be unaudited, 
+for each completed fiscal quarter of the current fiscal year, promptly upon their issuance, but no 
+later than sixty (60) calendar days after the end of each fiscal quarter.  All audited financial 
+statements provided by the Market Participant and/or its Guarantor must be audited by an 
+Independent Auditor.   
+ 
+Notwithstanding the foregoing, PJM may upon request, grant a Market Participant or Guarantor 
+an extension of time, if the financials are not available within the time frame stated above. 
+ 
+3. Material Adverse Changes 
+ 
+Each Market Participant and each Guarantor is responsible for informing PJM, in writing, of any 
+Material Adverse Change in its or its Guarantor’s financial condition within five (5) Business 
+Days of any Principal becoming aware of the occurrence of a Material Adverse Change since the 
+date of the Market Participant or Guarantor’s most recent annual financial statements provided to 
+PJM.  However, PJM may also independently establish from available information that a 
+Participant and/or its Guarantor has experienced a Material Adverse Change in its financial 
+condition without regard to whether such Market Participant or Guarantor  has informed PJM of 
+the same. 
+ 
+For the purposes of this Attachment Q, a Material Adverse Change in financial condition may 
+include, but is not be limited to, any of the following: 
+ 
+(a) a bankruptcy filing; 
+(b) insolvency; 
+(c) a significant decrease in market capitalization; 
+(d) restatement of prior financial statements unless required due to regulatory 
+changes; 
+(e) the resignation or removal of a Principal unless there is a new Principal appointed 
+or expected to be appointed, a transition plan in place pending the appointment of 
+a new Principal, or a planned restructuring of such roles;  
+(f) the filing of a lawsuit or initiation of an arbitration, investigation, or other 
+proceeding that would likely have a material adverse effect on any current or 
+future financial results or financial condition or increase the likelihood of non-
+payment; 
+(g) a material financial default in any other organized energy, ancillary service, 
+financial transmission rights and/or capacity markets including but not limited to 
+those of another Regional Transmission Organization or Independent System 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 12 
+Operator, or on any commodity exchange, futures exchange or clearing house, 
+that has not been cured or remedied after any required notice has been given and 
+any cure period has elapsed;   
+(h) a revocation of a license or other authority by any Federal or State regulatory 
+agency; where such license or authority is necessary or important to the 
+Participant’s continued business, for example, FERC market-based rate authority, 
+or State license to serve retail load;  
+(i) a significant change in credit default swap spreads, market capitalization, or other 
+market-based risk measurement criteria, such as a recent increase in Moody’s 
+KMV Expected Default Frequency (EDFtm) that is materially greater than the 
+increase in its peers’ EDFtm rates, or a collateral default swap (CDS) premium 
+normally associated with an entity rated lower than investment grade;  
+(j) a confirmed, undisputed material financial default in a bilateral arrangement with 
+another Participant or counterparty that has not been cured or remedied after any 
+required notice has been given and any cure period has elapsed;  
+(k) the sale by a Participant of all or substantially all of its bilateral position(s) in the 
+PJM Markets; 
+(l) any adverse changes in financial condition which, individually, or in the 
+aggregate, are material; and, 
+(m) any adverse changes, events or occurrences which, individually or in the 
+aggregate, could affect the ability of the entity to pay its debts as they become due 
+or could reasonably be expected to have a material adverse effect on any current 
+or future financial results or financial condition. 
+ 
+Upon identification of a Material Adverse Change, PJM shall evaluate the financial strength and 
+risk profile of the Market Participant and/or its Guarantor at that time and may do so on a more 
+frequent basis going forward. If the result of such evaluation identifies unreasonable credit risk 
+to any PJM Market as further described in section II.E.8 below, PJM will take steps to mitigate 
+the financial exposure to the PJM Markets. These steps include, but are not limited to requiring 
+the Market Participant and/or each Guarantor to provide Collateral, additional Collateral or 
+additional Restricted Collateral that is commensurate with the amount of risk in which the 
+Market Participant wants to engage, and/or limiting the Market Participant’s ability to participate 
+in any PJM Market to the extent, and for the time-period necessary to mitigate the unreasonable 
+credit risk. In the event PJM determines that a Material Adverse Change in the financial 
+condition or risk profile of a Market Participant and/or Guarantor, warrants a requirement to 
+provide Collateral of any type, or some action to mitigate risk, PJM shall provide the Market 
+Participant and/or Guarantor, a written explanation of why such determination was made.  
+Conversely, in the event PJM determines there has been an improvement in the financial 
+condition or risk profile of a Market Participant and/or Guarantor such that the amount of 
+Collateral needed for that Market Participant  and/or Guarantor can be reduced, PJM shall 
+provide a written explanation why such determination was made, including the amount of the 
+Collateral reduction and indicating when and how the reduction will be made. 
+ 
+4. Litigation and Contingencies  
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 13 
+Each Market Participant and/or Guarantor is required to disclose and provide information 
+regarding litigation and contingencies as outlined in section II.A.5 above. 
+ 
+5. History of Defaults in Energy Projects 
+ 
+Each Market Participant and/or Guarantor is required to disclose current default status and 
+default history as outlined in section II.A.6 above. 
+ 
+6. Internal Credit Score 
+ 
+As part of its ongoing risk evaluation, PJM will use credit risk scoring methodologies as a tool in 
+determining an Internal Credit Score for each Market Participant and/or Guarantor, utilizing the 
+same model and framework outlined in section II.A.3 above.   
+ 
+7.  Other Disclosures and Additional Information  
+ 
+Each Market Participant and/or Guarantor is required to make other disclosures and provide 
+additional information outlined in section II.A.7 above. 
+ 
+PJM will monitor each Market Participant’s use of services and associated financial obligations 
+on a regular basis to determine their total potential financial exposure and for credit monitoring 
+purposes, and may require the Market Participant and/or Guarantor to provide additional 
+information, pursuant to the terms and provisions described herein.  
+ 
+Market Participants shall provide PJM, upon request, any information or documentation 
+reasonably required for PJM to monitor and evaluate a Market Participant’s creditworthiness and 
+compliance with the Agreements related to settlements, billing, credit requirements, and other 
+financial matters. 
+ 
+8. Unreasonable Credit Risk 
+ 
+If PJM has reasonable grounds to believe that a Market Participant and/or its Guarantor poses an 
+unreasonable credit risk to any PJM Markets, PJM may immediately notify the Market 
+Participant of such unreasonable credit risk and (1) issue a Collateral Call to demand Collateral, 
+additional Collateral, or Restricted Collateral or other assurances commensurate with the Market 
+Participant’s and/or its Guarantor’s risk of financial default or other risk posed by the Market 
+Participant’s or Guarantor’s financial condition or risk profile to the PJM Markets and PJM 
+members, or (2) limit or suspend the Market Participant’s participation in any PJM Markets, to 
+the extent and for such time period PJM determines is necessary to mitigate the unreasonable 
+credit risk to any PJM Markets.  PJM will only limit or suspend a Market Participant’s market 
+participation if Collateral, additional Collateral or Restricted Collateral cannot address the 
+unreasonable credit risk. 
+ 
+PJM’s determination will be based on, but not limited to, information and material provided to 
+PJM during its ongoing risk evaluation process or in the Officer’s Certification, and/or 
+information gleaned by PJM from public and non-public sources.  PJM will communicate its 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 14 
+concerns, if any, in writing to the Market Participant and attempt to better understand the 
+circumstances surrounding the Market Participant’s financial and credit position before making 
+its determination.  At PJM’s request or upon its own initiative, the Market Participant or its 
+Guarantor may provide supplemental information to PJM that would allow PJM to consider 
+reducing the additional Collateral requested or reducing the severity of limitations or other 
+restrictions designed to mitigate the Market Participant’s credit risk.  Such information shall 
+include, but not be limited to: (i) the Market Participant’s estimated exposure, (ii) explanations 
+for any recent change in the Market Participant’s market activity, (iii) any relevant new load or 
+unit outage information; or (iv) any default or supply contract expiration, termination or 
+suspension.   
+ 
+The Market Participant shall have five (5) Business Days to respond to PJM’s request for 
+supplemental information.  If the requested information is provided in full to PJM’s satisfaction 
+during said period, the additional Collateral requirement shall reflect the Market Participant’s 
+anticipated exposure based on the information provided.  Notwithstanding the foregoing, any 
+additional Collateral requested by PJM in a Collateral Call must be provided by the Market 
+Participant within the applicable cure period.  
+ 
+In the event PJM determines that an Market Participant and/or its Guarantor presents an 
+unreasonable credit risk, as described above, that warrants a requirement to provide Collateral of 
+any type, or some action to mitigate risk, PJM shall provide the Market Participant with a written 
+explanation of why such final determination was made.   
+ 
+PJM has the right at any time to modify any Unsecured Credit Allowance and/or require 
+additional Collateral as may be deemed reasonably necessary to support current or anticipated 
+market activity as set forth in Tariff, Attachment Q, sections II.A.2 and II.C.1.b.  Failure to remit 
+the required amount of additional Collateral within the applicable cure period shall constitute an 
+Event of Default. 
+ 
+F. Collateral and Credit Restrictions  
+ 
+PJM may establish certain restrictions on available credit by requiring that some amounts of 
+credit, i.e. Restricted Collateral, may not be available to satisfy credit requirements.  Such 
+designations shall be construed to be applicable to the calculation of credit requirements only, 
+and shall not restrict PJM’s ability to apply such designated credit to any obligation(s) in case of 
+a default.  Any such Restricted Collateral will be held by PJM, as applicable.  Such Restricted 
+Collateral will not be returned to the Participant until PJM has determined that the risk for which 
+such Restricted Collateral is being held has subsided or been resolved. 
+ 
+PJM may post on PJM's web site, and may reference on OASIS, a supplementary document 
+which contains additional business practices (such as algorithms for credit scoring) that are not 
+included in this Attachment Q.  Changes to the supplementary document will be subject to 
+stakeholder review and comment prior to implementation.  PJM may specify a required 
+compliance date, not less than fifteen (15) calendar days from notification, by which time all 
+Participants and their Guarantors must comply with provisions that have been revised in the 
+supplementary document.  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 15 
+ 
+PJM will regularly post each Participant’s and/or its Guarantor’s credit requirements and credit 
+provisions on the PJM web site in a secure, password-protected location.  Each Participant and/or 
+its Guarantor is responsible for monitoring such information, and maintaining sufficient credit to 
+satisfy the credit requirements described herein. Failure to maintain credit sufficient to satisfy the 
+credit requirements of the Attachment Q shall constitute a Credit Breach, and the Participant will 
+be subject to the remedies established herein and in any of the Agreements. 
+ 
+G. Unsecured Credit Allowance Calculation 
+ 
+The external rating from a Rating Agency will be used as the source for calculating the 
+Unsecured Credit Allowance, unless no external credit rating is available in which case PJM will 
+utilize its Internal Credit Score for such purposes.  If there is a split rating between the Rating 
+Agencies, the lower of the ratings shall apply.   
+ 
+Where two or more entities, including Participants, are considered Credit Affiliates, Unsecured 
+Credit Allowances will be established for each individual Participant, subject to an aggregate 
+maximum amount for all Credit Affiliates as provided for in Attachment Q, section II.G.3. 
+ 
+In its credit evaluation of Municipalities and Cooperatives, PJM may request additional 
+information as part of the ongoing risk evaluation process and will also consider qualitative 
+factors in determining financial strength and creditworthiness.   
+ 
+1. Credit Rating and Internal Credit Score 
+ 
+As previously described in section II.A.3 above, PJM will determine the Internal Credit Score for 
+an Applicant, Market Participant and/or its Guarantor using the credit risk scoring methodologies 
+contained therein.  Internal Credit Scores, ranging from 1-6, for each Applicant, Market 
+Participant and/or its Guarantor, will be determined with the following mappings:  
+ 
+1 = Very Low Risk (S&P/Fitch: AAA to AA-; Moody’s: Aaa to Aa3) 
+2 = Low Risk (S&P/Fitch: A+ to BBB+; Moody’s: A1 to Baa1) 
+3 = Low to Medium Risk (S&P/Fitch: BBB; Moody’s: Baa2) 
+4 = Medium Risk (S&P/Fitch: BBB-; Moody’s: Baa3) 
+5 = Medium to High Risk (S&P/Fitch: BB+ to BB; Moody’s Ba1 to Ba2) 
+6 = High Risk (S&P/Fitch: BB- and below; Moody’s: Ba3 and below)  
+ 
+In instances where the external credit rating is used to calculate the unsecured credit allowance, 
+PJM may also use the Internal Credit Score as an input into its determination of the overall risk 
+profile of an Applicant and/or its Guarantor   
+ 
+2. Unsecured Credit Allowance 
+ 
+PJM will determine a Participant’s Unsecured Credit Allowance based on its external rating or 
+its Internal Credit Score, as applicable, and the parameters in the table below.  The maximum 
+Unsecured Credit Allowance is the lower of: 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 16 
+ 
+(a) A percentage of the Participant’s Tangible Net Worth, as stated in the table 
+below, with the percentage based on the Participant’s external rating or Internal 
+Credit Score, as applicable;  and  
+ 
+(b) A dollar cap based on the external rating or Internal Credit Score, as applicable, as 
+stated in the table below: 
+ 
+Internal Credit Score Risk Ranking Tangible Net 
+Worth Factor 
+Maximum Unsecured 
+Credit Allowance 
+($ Million) 
+1.00 – 1.99 1 – Very Low 
+(AAA to AA-) 
+Up to 10.00% $50 
+2.00 – 2.99 2 – Low (A+ to 
+BBB+) 
+Up to 8.00% $42 
+3.00 – 3.49 3 – Low to 
+Medium (BBB) 
+Up to 6.00% $33 
+3.50 – 4.49 4 – Medium 
+(BBB-) 
+Up to 5.00% $7 
+4.50 – 5.49 5 – Medium to 
+High (BB+ to BB) 
+0% $0 
+ > 5.49 6 – High (BB- and 
+below) 
+0% $0 
+ 
+If a Corporate Guaranty is utilized to establish an Unsecured Credit Allowance for a Participant, 
+the value of a Corporate Guaranty will be the lesser of: 
+ 
+(a) The limit imposed in the Corporate Guaranty; 
+ 
+(b) The Unsecured Credit Allowance calculated for the Guarantor; and 
+ 
+(c) A portion of the Unsecured Credit Allowance calculated for the Guarantor in the 
+case of Credit Affiliates. 
+ 
+PJM has the right at any time to modify any Unsecured Credit Allowance and/or require additional 
+Collateral as may be deemed reasonably necessary to support current market activity.  Failure to 
+remit the required amount of additional Collateral within the applicable cure period shall be 
+deemed an Event of Default. 
+ 
+PJM will maintain a posting of each Participant’s Unsecured Credit Allowance, along with 
+certain other credit related parameters, on the PJM website in a secure, password-protected 
+location.  Each Participant will be responsible for monitoring such information and recognizing 
+changes that may occur.   
+3. Unsecured Credit Limits For Credit Affiliates 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 17 
+If two or more Participants are Credit Affiliates and have requested an Unsecured Credit 
+Allowance, PJM will consider the overall creditworthiness of the Credit Affiliates when 
+determining the Unsecured Credit Allowances in order not to establish more Unsecured Credit 
+for the Credit Affiliates collectively than the overall corporate family could support. 
+ 
+Example: Participants A and B each have a $10.0 million Corporate Guaranty from their 
+common parent, a holding company with an Unsecured Credit Allowance calculation of 
+$12.0 million.  PJM may limit the Unsecured Credit Allowance for each Participant to 
+$6.0 million, so the total Unsecured Credit Allowance does not exceed the corporate 
+family total of $12.0 million. 
+ 
+PJM will work with the Credit Affiliates to allocate the total Unsecured Credit Allowance among 
+the Credit Affiliates while assuring that no individual Participant, nor common guarantor, 
+exceeds the Unsecured Credit Allowance appropriate for its credit strength.  The aggregate 
+Unsecured Credit for a Participant, including Unsecured Credit Allowance granted based on its 
+own creditworthiness and risk profile, and any Unsecured Credit Allowance conveyed through a 
+Guaranty shall not exceed $50 million. The aggregate Unsecured Credit for a Credit Affiliates 
+corporate family shall not exceed $50 million.  A Credit Affiliate corporate family subject to this 
+cap shall request PJM to allocate the maximum Unsecured Credit amongst the corporate family, 
+assuring that no individual Participant or common guarantor, shall exceed the Unsecured Credit 
+level appropriate for its credit strength and activity. 
+H. Contesting an Unsecured Credit Evaluation 
+ 
+PJM will provide to a Participant, upon request, a written explanation for any determination of or 
+change in Unsecured Credit or credit requirement within ten (10) Business Days of receiving 
+such request. 
+ 
+If a Participant believes that either its level of Unsecured Credit or its credit requirement has 
+been incorrectly determined, according to this Attachment Q, then the Participant may send a 
+request for reconsideration in writing to PJM.  Such a request should include: 
+ 
+(1) A citation to the applicable section(s) of this Attachment Q along with an explanation of 
+how the respective provisions of this Attachment Q were not carried out in the 
+determination as made; and 
+ 
+(2) A calculation of what the Participant believes should be the appropriate Unsecured Credit 
+or Collateral requirement, according to terms of this Attachment Q. 
+ 
+PJM will provide a written response as promptly as practical, but no more than ten (10) Business 
+Days after receipt of the request.  If the Participant still feels that the determination is incorrect, 
+then the Participant may contest that determination.  Such contest should be in written form, 
+addressed to PJM, and should contain: 
+ 
+(1) A complete copy of the Participant’s earlier request for reconsideration, including 
+citations and calculations; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.II 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 18 
+(2) A copy of PJM’s written response to its request for reconsideration; and 
+ 
+(3) An explanation of why it believes that the determination still does not comply with this 
+Attachment Q. 
+ 
+PJM will investigate and will respond to the Participant with a final determination on the matter 
+as promptly as practical, but no more than twenty (20) Business Days after receipt of the request. 
+ 
+Neither requesting reconsideration nor contesting the determination following such request shall 
+relieve or delay Participant's responsibility to comply with all provisions of this Attachment Q, 
+including without limitation posting Collateral, additional Collateral or Restricted Collateral in 
+response to a Collateral Call.   
+ 
+If a Corporate Guaranty is being utilized to establish credit for a Participant, the Guarantor will 
+be evaluated and the Unsecured Credit Allowance granted, if any, based on the financial strength 
+and creditworthiness, and risk profile of the Guarantor. Any utilization of a Corporate Guaranty 
+will only be applicable to non-FTR credit requirements, and will not be applicable to cover FTR 
+credit requirements. 
+ 
+PJM will identify any necessary Collateral requirements and establish a Working Credit Limit 
+for each Participant.  Any Unsecured Credit Allowance will only be applicable to non-FTR 
+credit requirements, for positions in PJM Markets other than the FTR market, because all FTR 
+credit requirements must be satisfied by posting Collateral. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.III 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 1 
+ 
+III. MINIMUM PARTICIPATION REQUIREMENTS 
+ 
+A Participant seeking to participate in any PJM Markets shall submit to PJM any information or 
+documentation reasonably required for PJM to evaluate its experience and resources.  If PJM 
+determines, based on its review of the relevant information and after consultation with the 
+Participant, that the Participant’s participation in any PJM Markets presents an unreasonable 
+credit risk, PJM may reject the Participant’s application to become a Market Participant, 
+notwithstanding applicant’s ability to meet other minimum participation criteria, registration 
+requirements and creditworthiness requirements.   
+ 
+A.  Annual Certification  
+ 
+Before they are eligible to transact in any PJM Market, all Applicants shall provide to PJM (i) an 
+executed copy of a credit application and (ii) a copy of the annual certification set forth in 
+Attachment Q, Appendix 1. As a condition to continued eligibility to transact in any PJM 
+Market, Market Participants shall provide to PJM the annual certification set forth in Attachment 
+Q, Appendix 1.   
+ 
+After the initial submission, the annual certification must be submitted each calendar year by all 
+Market Participants between January 1 and April 30.  PJM will accept such certifications as a 
+matter of course and the Market Participants will not need further notice from PJM before 
+commencing or maintaining their eligibility to participate in any PJM Markets.   
+ 
+A Market Participant that fails to provide its annual certification by April 30 shall be ineligible to 
+transact in any PJM Markets and PJM will disable the Market Participant’s access to any PJM 
+Markets until such time as PJM receives the certification.  In addition, failure to provide an 
+executed annual certification in a form acceptable to PJM and by the specified deadlines may 
+result in a default under the Tariff. 
+ 
+Market Participants acknowledge and understand that the annual certification constitutes a 
+representation upon which PJM will rely. Such representation is additionally made under the 
+Tariff, filed with and accepted by FERC, and any false, misleading or incomplete statement 
+knowingly made by the Market Participant and that is material to the Market Participant’s ability 
+to perform may be considered a violation of the Tariff and subject the Market Participant to 
+action by FERC.  Failure to comply with any of the criteria or requirements listed herein or in the 
+certification may result in suspension or limitation of a Market Participant’s transaction rights in 
+any PJM Markets. 
+ 
+Applicants and Market Participants shall submit to PJM, upon request, any information or 
+documentation reasonably and/or legally required to confirm Applicant’s or Market Participant’s 
+compliance with the Agreements and the annual certification.   
+ 
+B. PJM Market Participation Eligibility Requirements 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.III 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 2 
+PJM may conduct periodic verification to confirm that Applicants and Market Participants can 
+demonstrate that they meet the definition of “appropriate person” to further ensure minimum 
+criteria are in place.  Such demonstration will consist of the submission of evidence and an 
+executed Annual Officer Certification form as set forth in Attachment Q, Appendix 1 in a form 
+acceptable to PJM.  If an Applicant or Market Participant does not provide sufficient evidence 
+for verification to PJM within five (5) Business Days of written request, then such Applicant or 
+Market Participant may result in a default under this Tariff.  Demonstration of “appropriate 
+person” status and support of other certifications on the annual certification is one part of the 
+Minimum Participation Requirements for any PJM Markets and does not obviate the need to 
+meet the other Minimum Participation Requirements such as those for minimum capitalization 
+and risk profile as set forth in this Attachment Q.  
+ 
+To be eligible to transact in any PJM Markets, an Applicant or Participant must demonstrate in 
+accordance with the Risk Management and Verification processes set forth below that it qualifies 
+in one of the following ways: 
+ 
+1. an “appropriate person,” as that term is defined under Commodity Exchange Act, 
+section 4(c)(3), or successor provision, or; 
+ 
+2. an “eligible contract participant,” as that term is defined in Commodity Exchange 
+Act, section 1a(18), or successor provision, or; 
+ 
+3. a business entity or person who is in the business of:  (1) generating, transmitting, or 
+distributing electric energy, or (2) providing electric energy services that are 
+necessary to support the reliable operation of the transmission system, or; 
+ 
+4. an Applicant or Market Participant seeking eligibility as an “appropriate person” 
+providing an unlimited Corporate Guaranty in a form acceptable to PJM as described 
+in section V below from a Guarantor that has demonstrated it is an “appropriate 
+person,” and has at least $1 million of total net worth or $5 million of total assets per 
+Applicant and Market Participant for which the Guarantor has issued an unlimited 
+Corporate Guaranty, or; 
+ 
+5. an Applicant or Market Participant providing a Letter of Credit of at least $5 million 
+to PJM in a form acceptable to PJM as described in section V below, that the 
+Applicant or Market Participant acknowledges is separate from, and cannot be 
+applied to meet, its credit requirements to PJM, or; 
+ 
+6. an Applicant or Market Participant providing a surety bond of at least $5 million to 
+PJM in a form acceptable to PJM as described in section V below, that the Applicant 
+or Market Participant acknowledges is separate from, and cannot be applied to meet, 
+its credit requirements to PJM. 
+ 
+If, at any time, a Market Participant cannot meet the eligibility requirements set forth above, it 
+shall immediately notify PJM and immediately cease conducting transactions in any PJM 
+Markets.  PJM may terminate a Market Participant’s transaction rights in any PJM Markets if, at 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.III 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 3 
+any time, it becomes aware that the Market Participant does not meet the minimum eligibility 
+requirements set forth above. 
+ 
+In the event that a Market Participant is no longer able to demonstrate it meets the minimum 
+eligibility requirements set forth above, and possesses, obtains or has rights to possess or obtain, 
+any open or forward positions in any PJM Markets, PJM may take any such action it deems 
+necessary with respect to such open or forward positions, including, but not limited to, 
+liquidation, transfer, assignment, sale or allowing position(s) to go to settlement; provided, 
+however, that the Market Participant will, notwithstanding its ineligibility to participate in any 
+PJM Markets, be entitled to any positive market value of those positions, net of any obligations 
+due and owing to PJM. 
+ 
+C. Risk Management and Verification 
+ 
+All Market Participants must maintain current written risk management policies, procedures, or 
+controls to address how market and credit risk is managed, and are required to submit to PJM (at 
+the time they make their annual certification) a copy of their current governing risk control 
+policies, procedures and controls applicable to their market activities.  PJM will review such 
+documentation to verify that it appears generally to conform to prudent risk management 
+practices for entities participating in any PJM Markets.   
+ 
+All Market Participants subject to this provision shall make a one-time payment of $1,500.00 to 
+PJM to cover administrative costs.  Thereafter, if such Participant’s risk policies, procedures and 
+controls applicable to its market activities change substantively, it shall submit such modified 
+documentation, with applicable administrative charge determined by PJM, to PJM for review and 
+verification at the time it makes its annual certification.  All Market Participant’s continued 
+eligibility to participate in any PJM Markets is conditioned on PJM notifying a Participant that 
+its annual certification, including the submission of its risk policies, procedures and controls, has 
+been accepted by PJM.  PJM may retain outside expertise to perform the review and verification 
+function described in this section, however, in all circumstances, PJM and any third-party it may 
+retain will treat as confidential the documentation provided by a Participant under this section, 
+consistent with the applicable provisions of the Operating Agreement. 
+ 
+Participants must demonstrate that they have implemented prudent risk management policies and 
+procedures in order to be eligible to participate in any PJM Markets.  Participants must 
+demonstrate on at least an annual basis that they have implemented and maintained prudent risk 
+management policies and procedures in order to continue to participate in any PJM Markets.  
+Upon written request, the Participant will have fourteen (14) calendar days to provide to PJM 
+current governing risk management policies, procedures, or controls applicable to Participant’s 
+activities in any PJM Markets.   
+ 
+D. Capitalization 
+ 
+In advance of certification, Applicants shall meet the minimum capitalization requirements 
+below.  In addition to the annual certification requirements in Attachment Q, Appendix 1, a 
+Market Participant shall satisfy the minimum capitalization requirements on an annual basis 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.III 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 4 
+thereafter.  A Participant must demonstrate that it meets the minimum financial requirements 
+appropriate for the PJM Markets in which it transacts by satisfying either the minimum 
+capitalization or the provision of Collateral requirements listed below: 
+ 
+1. Minimum Capitalization 
+ 
+Minimum capitalization may be met by demonstrating minimum levels of Tangible Net Worth or 
+tangible assets.  FTR Participants must demonstrate a Tangible Net Worth in excess of $1 
+million or tangible assets in excess of $10 million.  Other Market Participants must demonstrate 
+a Tangible Net Worth in excess of $500,000 or tangible assets in excess of $5 million. 
+ 
+(a) Consideration of tangible assets and Tangible Net Worth shall exclude assets which PJM 
+reasonably believes to be restricted, highly risky, or potentially unavailable to settle a claim in 
+the event of default.  Examples include, but are not limited to, restricted assets, derivative assets, 
+goodwill, and other intangible assets. 
+ 
+(b) Demonstration of “tangible” assets and Tangible Net Worth may be satisfied through 
+presentation of an acceptable Corporate Guaranty, provided that both: 
+ 
+(i) the Guarantor is a Credit Affiliate company that satisfies the Tangible Net Worth 
+or tangible assets requirements herein, and; 
+ 
+ (ii) the Corporate Guaranty is either unlimited or at least $500,000. 
+ 
+If the Corporate Guaranty presented by the Participant to satisfy these 
+capitalization requirements is limited in value, then the Participant’s resulting 
+Unsecured Credit Allowance shall be the lesser of: 
+ 
+(1) the applicable Unsecured Credit Allowance available to the Participant by 
+the Corporate Guaranty pursuant to the creditworthiness provisions of this 
+Attachment Q, or, 
+ 
+(2) the face value of the Corporate Guaranty, reduced by $500,000 and further 
+reduced by 10%.  (For example, a $10.5 million Corporate Guaranty 
+would be reduced first by $500,000 to $10 million and then further 
+reduced 10% more to $9 million.  The resulting $9 million would be the 
+Participant’s Unsecured Credit Allowance available through the Corporate 
+Guaranty). 
+ 
+ In the event that a Participant provides Collateral in addition to a limited 
+Corporate Guaranty to increase its available credit, the value of such 
+Collateral shall be reduced by 10%.  This reduced value shall be 
+considered the amount available to satisfy requirements of this Attachment 
+Q. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.III 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 5 
+(c) Demonstrations of minimum capitalization (minimum Tangible Net Worth or tangible 
+assets) must be presented in the form of audited financial statements for the Participant’s most 
+recent fiscal year during the initial risk evaluation process and ongoing risk evaluation process. 
+ 
+2. Provision of Collateral 
+ 
+If a Participant does not demonstrate compliance with its applicable minimum capitalization 
+requirements above, it may still qualify to participate in any PJM Markets by posting Collateral, 
+additional Collateral, and/or Restricted Collateral, subject to the terms and conditions set forth 
+herein. 
+ 
+Any Collateral provided by a Participant unable to satisfy the minimum capitalization 
+requirements above will also be restricted in the following manner:  
+(a) Collateral provided by Market Participants that engage in FTR transactions shall 
+be reduced by an amount of the current risk plus any future risk to any PJM 
+Markets and PJM membership in general, and may coincide with limitations on 
+market participation.  The amount of this Restricted Collateral shall not be 
+available to cover any credit requirements from market activity.  The remaining 
+value shall be considered the amount available to satisfy requirements of this 
+Attachment Q. 
+(b) Collateral provided by other Participants that engage in Virtual Transactions or 
+Export Transactions shall be reduced by $200,000 and then further reduced by 
+10%.  The amount of this Restricted Collateral shall not be available to cover any 
+credit requirements from market activity.  The remaining value shall be 
+considered the amount available to satisfy requirements of this Attachment Q. 
+(c) Collateral provided by other Participants that do not engage in Virtual 
+Transactions or Export Transactions shall be reduced by 10%.  The amount of this 
+Restricted Collateral shall not be available to cover any credit requirements from 
+market activity.  The remaining value shall be considered the amount available to 
+satisfy requirements of this Attachment Q. 
+In the event a Participant that satisfies the minimum capital requirement through provision of 
+Collateral also provides a Corporate Guaranty to increase its available credit, then the 
+Participant’s resulting Unsecured Credit Allowance conveyed through such Corporate Guaranty 
+shall be the lesser of: 
+(a) the applicable Unsecured Credit Allowance available to the Participant by the 
+Corporate Guaranty pursuant to the creditworthiness provisions of this 
+Attachment Q; or  
+(b) the face value of the Corporate Guaranty, reduced commensurate with the amount 
+of the current risk plus any anticipated future risk to any PJM Markets and PJM membership in 
+general, and may coincide with limitations on market participation.  
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.IV 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 1 
+IV.   ONGOING COVENANTS  
+ 
+A. Ongoing Obligation to Provide Information to PJM 
+ 
+So long as a Participant is eligible to participate, or participates or holds positions, in any PJM 
+Markets, it shall deliver to PJM, in form and detail satisfactory to PJM: 
+(1) All financial statements and other financial disclosures as required by section II.E.2 by 
+the deadline set forth therein; 
+(2) Notice, within five (5) Business Days, of any Principal becoming aware that the 
+Participant does not meet the Minimum Participation Requirements set forth in section 
+III;  
+(3) Notice when any Principal becomes aware of any matter that has resulted or would 
+reasonably be expected to result in a Material Adverse Change in the financial condition 
+of the Participant or its Guarantor, if any, a description of such Material Adverse Change 
+in detail reasonable to allow PJM to determine its potential effect on, or any change in, 
+the Participant’s risk profile as a participant in any PJM Markets, by the deadline set forth 
+in section II.E.3 above; 
+(4) Notice, within the deadline set forth therein, of any Principal becoming aware of a 
+litigation or contingency event described in section II.E.4, or of a Material Adverse 
+Change in any such litigation or contingency event previously disclosed to PJM, 
+information in detail reasonable to allow PJM to determine its potential effect on, or any 
+change in, the Market Participant’s risk profile as a participant in any PJM Markets by 
+the deadline set forth therein; 
+(5) Notice, within two (2) Business Days after any Principal becomes aware of a Credit 
+Breach, Financial Default, or Credit Support Default, that includes a description of such 
+default or event and the Participant’s proposals for addressing the default or event; 
+(6)   As soon as available but not later than April 30 th of any calendar year, the annual 
+Certification described in section III.A in a form set forth in Attachment Q, Appendix 1; 
+(7) Concurrently with submission of the annual certification, demonstration that the 
+Participant meets the minimum capitalization requirements set forth in section III.D;  
+(8) Concurrently with submission of the annual certification and within the applicable 
+deadline of any substantive change, or within the applicable deadline of a request from 
+PJM, a copy of the Participant’s written risk management policies, procedures or controls 
+addressing how the Participant manages market and credit risk in the PJM Markets in 
+which it participates, as well as a high level summary by the chief risk officer or other 
+Principal regarding any material violations, breaches, or compliance or disciplinary 
+actions related to the risk management policies, by the Participant under the policies, 
+procedures or controls within the prior 12 months, as set forth in section VI.B below;  
+(9) Within five (5) Business Days of request by PJM, evidence demonstrating the Participant 
+meets the definition of “appropriate person” or “eligible contract participant,” as those 
+terms are defined in the Commodity Exchange Act and the CFTC regulations 
+promulgated thereunder, or of any other certification in the annual Certification; or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT Q.IV 
+Effective Date: 2/11/2026 - Docket #: ER26-743-000 - Page 2 
+(10) Within a reasonable time after PJM requests, any other information or documentation 
+reasonably and/or legally required by PJM to confirm Participant’s compliance with the 
+Tariff and its eligibility to participate in any PJM Markets. 
+Participants acknowledge and understand that the deliveries constitute representations upon 
+which PJM will rely in allowing the Participant to continue to participate in its markets, with the 
+Internal Credit Score and Unsecured Credit Allowance, if any, previously determined by PJM.   
+B. Risk Management Review 
+PJM shall also conduct a periodic compliance verification process to review and verify, as 
+applicable, Participants’ risk management policies, practices, and procedures pertaining to the 
+Participant’s activities in any PJM Markets.  PJM shall review such documentation to verify that 
+it appears generally to conform to prudent risk management practices for entities trading in any 
+PJM Markets. Participant shall also provide a high level summary by the chief risk officer or 
+other Principal regarding any material violations, breaches, or compliance or disciplinary actions 
+in connection with such risk management policies, practices and procedures within the prior 
+twelve (12) months. 
+If a third-party industry association publishes or modifies principles or best practices relating to 
+risk management in North American markets for electricity, natural gas or electricity-related 
+commodity products, PJM may, following stakeholder discussion and with no less than six (6) 
+months prior notice to stakeholders, consider such principles or best practices in evaluating the 
+Participant’s risk controls.   
+ 
+PJM will prioritize the verification of risk management policies based on a number of criteria, 
+including but not limited to how long the entity has been in business, the Participant’s and its 
+Principals’ history of participation in any PJM Markets, and any other information obtained in 
+determining the risk profile of the Participant. 
+ 
+Each Participant’s continued eligibility to participate in any PJM Markets is conditioned upon 

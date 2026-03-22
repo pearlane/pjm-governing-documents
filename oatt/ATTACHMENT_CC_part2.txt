@@ -1,0 +1,1382 @@
+[ATTACHMENT CC - Part 2 of 7]
+
+through the 2024/2025 Delivery Year, and starting with the 2025/2026 Delivery Year and for 
+subsequent Delivery Years, the applicable ELCC Class Rating. 
+iii) Demand Resources and Energy Efficiency Resources shall specify the LDA in 
+which the resource is located, including the location of such resource within any Zone that 
+includes more than one LDA as identified on RAA, Schedule 10.1. 
+ 
+e) Accredited UCAP Factor for Generation Capacity Resources beginning with the 
+2025/2026 Delivery Year and subsequent Delivery Years.  
+i)  The Accredited UCAP Factor shall be the value established by the Office 
+of the Interconnection in accordance with RAA, Schedule 9.2, prior to the applicable RPM 
+Auction. Such Accredited UCAP Factor shall be multiplied by the ICAP offered to convert the 
+ICAP offered into the UCAP offered.  
+ii)  If a Capacity Market Seller is committing the resource as Self-Supply, the 
+Accredited UCAP Factor determined by the Office of the Interconnection shall apply to such 
+commitment. 
+f) For a Qualifying Transmission Upgrade, the Sell Offer shall identify such 
+upgrade, and the Office of the Interconnection shall determine and certify the increase in CETL 
+provided by such upgrade.  The Capacity Market Seller may offer the upgrade with an associated 
+increase in CETL to an LDA in accordance with such certification, including an offer price that 
+will be accepted by the Capacity Market Seller, stated in dollars and cents per megawatt-day as a 
+price difference between a Capacity Resource located outside such an LDA and a Capacity 
+Resource located inside such LDA; and the increase in CETL into such LDA to be provided by 
+such Qualifying Transmission Upgrade, as certified by the Office of the Interconnection. 
+ 
+(g)  A Capacity Market Seller that owns or controls one or more Capacity Storage 
+Resources, Intermittent Resources, Demand Resources, or Energy Efficiency Resources may 
+submit a Sell Offer as a Capacity Performance Resource in a MW quantity consistent with their 
+average expected output during peak-hour periods, not to exceed the Accredited UCAP of such 
+resource, as applicable. Alternatively, a Capacity Market Seller that owns or controls one or 
+more Capacity Storage Resources, Intermittent Resources, Demand Resources, Energy 
+Efficiency Resources, or Environmentally-Limited Resources may submit a Sell Offer which 
+represents the aggregated Unforced Capacity value of such resources, where such Sell Offer shall 
+be considered to be located in the smallest modeled LDA common to the aggregated resources.  
+Such aggregated resources shall be owned by or under contract to the Capacity Market Seller, 
+including all such resources obtained through bilateral contract and reported to the Office of the 
+Interconnection in accordance with the Office of the Interconnection’s rules related to its 
+Capacity Exchange tools.  If any of the commercially aggregated resources in such Sell Offer are 
+subject to the Minimum Floor Offer Price pursuant to Tariff, Attachment DD, section 5.14(h-2), 
+the Capacity Market Seller that owns or controls such resources may submit a Sell Offer with a 
+Minimum Floor Offer Price of no lower than the time and MW-weighted average of the 
+applicable MOPR Floor Offer Prices (zero if not applicable) of the aggregated resources in such 
+Sell Offer. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.6 Sell Offers 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 3 
+ 
+(i) For the 2020/2021 Delivery Year and subsequent Delivery Years, a Capacity 
+Market Seller that owns or controls a resource that qualifies as a Summer-Period Capacity 
+Performance Resource may submit a Sell Offer as a Capacity Performance Resource in a MW 
+quantity consistent with the average expected output of such resource during peak-hour periods, 
+and may submit a separate Sell Offer as a Summer-Period Capacity Performance Resource in a 
+MW quantity consistent with the average expected output of such resource during summer peak-
+hour periods, provided the total Sell Offer MW quantity submitted as both a Capacity 
+Performance Resource and a Summer-Period Capacity Performance Resource does not exceed 
+the Unforced Capacity value of the resource. For the 2020/2021 Delivery Year and subsequent 
+Delivery Years, a Capacity Market Seller that owns or controls a resource that qualifies as a 
+Winter-Period Capacity Performance Resource may submit a Sell Offer as a Capacity 
+Performance Resource in a MW quantity consistent with the average expected output of such 
+resource  during peak-hour periods, and may submit a separate Sell Offer as a Winter-Period 
+Capacity Performance Resource in a MW quantity consistent with the average expected output 
+of such resource during winter peak-hour periods, provided the total Sell Offer MW quantity 
+submitted as both a Capacity Performance Resource and a Winter-Period Capacity Performance 
+Resource does not exceed the Unforced Capacity value of the resource. Each segment of a 
+Seasonal Capacity Performance Resource Sell Offer must be submitted as a flexible Sell Offer 
+segment with the minimum MW quantity offered set to zero.     
+ 
+5.6.2 Compliance with PJM Credit Policy 
+ 
+Capacity Market Sellers shall comply with the provisions of the PJM Credit Policy as set forth in 
+Tariff, Attachment Q, including the provisions specific to the Reliability Pricing Model, prior to 
+submission of Sell Offers in any Reliability Pricing Model Auction. A Capacity Market Seller 
+desiring to submit a Credit-Limited Offer shall specify in its Sell Offer the maximum auction 
+credit requirement, in dollars, and the maximum amount of Unforced Capacity, in megawatts, 
+applicable to its Sell Offer. 
+ 
+5.6.3  [reserved] 
+ 
+5.6.4 Qualifying Transmission Upgrades 
+ 
+A Qualifying Transmission Upgrade may not be the subject of any Sell Offer in a Base Residual 
+Auction unless it has been approved by the Office of the Interconnection, including certification 
+of the increase in Import Capability to be provided by such Qualifying Transmission Upgrade, 
+no later than 45 days prior to such Base Residual Auction.  No such approval shall be granted 
+unless, at a minimum, a Facilities Study Agreement has been executed with respect to such 
+upgrade, and such upgrade conforms to all applicable standards of the Regional Transmission 
+Expansion Plan process. 
+ 
+5.6.5 Market-based Sell Offers 
+ 
+Subject to section 6, a Market Seller authorized by FERC to sell electric generating capacity at 
+market-based prices, or that is not required to have such authorization, may submit Sell Offers 
+that specify market-based prices in any Base Residual Auction or Incremental Auction. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.6 Sell Offers 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 4 
+ 
+5.6.6 Availability of Capacity Resources for Sale 
+ 
+ (a) The Office of the Interconnection shall determine the quantity of megawatts of 
+available installed capacity that each Capacity Market Seller must offer in any RPM Auction 
+pursuant to Tariff, Attachment DD, section 6.6, through verification of the availability of 
+megawatts of installed capacity from:  (i) all Generation Capacity Resources owned by or under 
+contract to the Capacity Market Seller, including all Generation Capacity Resources obtained 
+through bilateral contract; (ii) the results of prior Reliability Pricing Model Auctions, if any, for 
+such Delivery Year (including consideration of any restriction imposed as a consequence of a 
+prior failure to offer); and (iii) such other information as may be available to the Office of the 
+Interconnection.  The Office of the Interconnection shall reject Sell Offers or portions of Sell 
+Offers for Capacity Resources in excess of the quantity of installed capacity from such Capacity 
+Market Seller’s Capacity Resource that it determines to be available for sale. 
+ 
+ (b) The Office of the Interconnection shall determine the quantity of installed 
+capacity available for sale in a Base Residual Auction or Incremental Auction as of the 
+beginning of the period during which Buy Bids and Sell Offers are accepted for such auction, as 
+applicable, in accordance with the time schedule set forth in the PJM Manuals. An external sale 
+of capacity shall not be reflected in the determination of available installed capacity unless the 
+associated unit-specific bilateral transaction is approved, the designation of such resource (or 
+portion thereof) as a network resource for the external load is demonstrated to the Office of the 
+Interconnection, or equivalent evidence of a firm external sale is provided prior to the deadline 
+established therefor.  The determination of available installed capacity shall also take into 
+account, as they apply in proportion to the share of each resource owned or controlled by a 
+Capacity Market Seller, any approved capacity modifications, and existing capacity 
+commitments established in a prior RPM Auction, an FRR Capacity Plan, Locational UCAP 
+transactions and/or replacement capacity transactions under this Tariff, Attachment DD.  To 
+enable the Office of the Interconnection to make this determination, no bilateral transactions for 
+Capacity Resources applicable to the period covered by an auction will be processed from the 
+beginning of the period for submission of Sell Offers and Buy Bids, as appropriate, for that 
+auction until completion of the clearing determination for such auction.  Processing of such 
+bilateral transactions will reconvene once clearing for that auction is completed.  A Generation 
+Capacity Resource located in the PJM Region shall not be removed from Capacity Resource 
+status to the extent the resource is committed to service of PJM loads as a result of an RPM 
+Auction, FRR Capacity Plan, Locational UCAP transaction and/or by designation as a 
+replacement resource under this Tariff, Attachment DD. 
+ 
+ (c) In order for a bilateral transaction for the purchase and sale of a Capacity 
+Resource to be processed by the Office of the Interconnection, both parties to the transaction 
+must notify the Office of the Interconnection of the transfer of the Capacity Resource from the 
+seller to the buyer in accordance with procedures established by the Office of the Interconnection 
+and set forth in the PJM Manuals.  If a material change with respect to any of the prerequisites 
+for the application of Tariff, Attachment DD, section 5.6.6 to the Generation Capacity Resource 
+occurs, the Capacity Resource Owner shall immediately notify the Market Monitoring Unit and 
+the Office of the Interconnection.   
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.7 Buy Bids 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+5.7 Buy Bids 
+ 
+Buy Bids may be submitted in any Incremental Auction.  Buy Bids shall specify, as appropriate: 
+ 
+ a) The quantity of Unforced Capacity desired, in increments of 0.1 megawatt; 
+ 
+ b) The maximum price, in dollars and cents per megawatt per day, that will be paid 
+by the buyer for the megawatt quantity of Unforced Capacity desired;  
+ 
+ c) The type of Unforced Capacity desired, i.e., Annual Resource, and  
+ 
+d) The desired LDA for a replacement Capacity Resource.  In the event of delay or 
+cancellation of a Qualifying Transmission Upgrade, the Buy Bid shall specify Capacity Resources 
+in the LDA for which such Qualifying Transmission Upgrade was to increase CETL. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.8 Submission of Sell Offers and Buy Bid 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+5.8 Submission of Sell Offers and Buy Bids 
+ 
+The Office of the Interconnection shall evaluate and accept or reject Sell Offers and Buy Bids 
+submitted by Capacity Market Sellers on the basis of the following requirements and criteria: 
+ 
+ a) A Sell Offer or Buy Bid that fails to specify a positive megawatt quantity shall be 
+rejected by the Office of the Interconnection. 
+ 
+ b) A Buy Bid that fails to specify price shall be rejected by the Office of the 
+Interconnection. A Sell Offer that fails to either designate such offer as self-scheduled or to specify 
+an offer price shall be rejected by the Office of the Interconnection. 
+ 
+ c) A Buy Bid that fails to designate the type of Unforced Capacity desired, i.e., an 
+Annual Resource, shall be rejected by the Office of the Interconnection.   
+ 
+d) All Sell Offers and Buy Bids must be received by the Office of the Interconnection 
+during a specified period, as determined by the Office of the Interconnection, in accordance with 
+the PJM Manuals.  A Sell Offer or Buy Bid may be withdrawn by a notification of withdrawal 
+received by the Office of the Interconnection at any time during the foregoing period, but may not 
+be withdrawn after such period. 
+ 
+ e) Sell Offers or Buy Bids shall be submitted or withdrawn via the Internet site 
+designated by the Office of the Interconnection; provided, however, that if the Internet site cannot 
+be accessed at any time during the period specified for the applicable auction, a Sell Offer or Buy 
+Bid may be submitted or withdrawn by electronic mail transmitted to the e-mail address, or faxed 
+to the fax number specified by the Office of the Interconnection. 
+ 
+ f) Sell Offers must be based on the Capacity Market Seller’s Capacity Resource 
+position at the opening of the auction’s bidding window.    
+ 
+ g) The Office of the Interconnection shall accept a Sell Offer only up to the megawatt 
+amount of installed capacity of Capacity Resources owned or controlled by such Capacity Market 
+Seller that has not previously been committed for the applicable Delivery Year. 
+ 
+ h) No Sell Offer shall be accepted from an FRR Entity unless it meets the requirements 
+applicable to such offers under RAA, Schedule 8.1. 
+ 
+ i) The Office of the Interconnection shall have final authority to determine whether 
+to accept or reject a Sell Offer in accordance with the terms of the Tariff and the PJM Manuals. 
+ 
+j) A Capacity Market Seller and Capacity Market Buyer may submit any Sell Offer 
+or Buy Bid, respectively, that it chooses or make a decision not to offer a committed resource, 
+provided that the Office of the Interconnection determines that: (i) the Capacity Market Seller 
+has participated in the review process conducted by the Market Monitoring Unit (without regard 
+to whether an agreement is obtained) if required by the Tariff; (ii) the Sell Offer is no higher, in 
+the case of seller market power, or lower, in the case of buyer side market power, than the level 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.8 Submission of Sell Offers and Buy Bid 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+to which the Capacity Market Seller has committed or agreed in the course of its participation in 
+such review process; and (iii) the Sell Offer or Buy Bid is compliant with the Tariff and PJM 
+Manuals. Capacity Market Sellers and Capacity Market Buyers assume exclusive responsibility 
+for their Sell Offers and Buy Bids, respectively, and any adverse findings at the Commission 
+related to its Sell Offers and Buy Bids. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.9 Time Standard 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.9 Time Standard 
+ 
+All deadlines for the submission or withdrawal of Sell Offers or Buy Bids, or for other purposes 
+specified in this Attachment, shall be determined by the prevailing time observed in the Eastern 
+Time zone. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 1 
+5.10 Auction Clearing Requirements 
+ 
+The Office of the Interconnection shall clear each Base Residual Auction and Incremental 
+Auction for a Delivery Year in accordance with the following: 
+ 
+ a) Variable Resource Requirement Curve  
+ 
+The Office of the Interconnection shall determine Variable Resource Requirement Curves for the 
+PJM Region and for such Locational Deliverability Areas as determined appropriate in 
+accordance with subsection (a)(iii) for such Delivery Year to establish the level of Capacity 
+Resources that will provide an acceptable level of reliability consistent with the Reliability 
+Principles and Standards. It is recognized that the variable resource requirement reflected in the 
+Variable Resource Requirement Curve can result in an optimized auction clearing in which the 
+level of Capacity Resources committed for a Delivery Year exceeds the PJM Region Reliability 
+Requirement or Locational Deliverability Area Reliability Requirement for such Delivery Year. 
+For any auction, the Updated Forecast Peak Load applicable to such auction, shall be used, and 
+Price Responsive Demand from any applicable approved PRD Plan, including any associated 
+PRD Reservation Prices, shall be reflected in the derivation of the Variable Resource 
+Requirement Curves, in accordance with the methodology specified in the PJM Manuals. 
+ 
+i) Methodology to Establish the Variable Resource Requirement Curve  
+ 
+Prior to the Base Residual Auction, in accordance with the schedule in the PJM Manuals, the 
+Office of the Interconnection shall establish the Variable Resource Requirement Curve for the 
+PJM Region as follows: 
+ 
+ Each Variable Resource Requirement Curve shall be plotted on a graph on 
+which Unforced Capacity is on the x-axis and price is on the y-axis. 
+ 
+ For the 2025/2026 Delivery Year, the Variable Resource Requirement 
+curve for the PJM Region shall be plotted by combining (i) a horizontal 
+line from the y-axis to point (1), (ii) a straight line connecting points (1) 
+and (2), and (iii) a straight line connecting points (2) and (3), where: 
+ 
+  For point (1), price equals: {the greater of [the Cost of New Entry] 
+or [1.5 times (the Cost of New Entry minus the Net Energy and 
+Ancillary Service Revenue Offset)]} divided by (the applicable 
+ELCC Class Rating of the Reference Resource) and Unforced 
+Capacity equals: [the PJM Region Reliability Requirement 
+multiplied by 98.9%]; 
+ 
+  For point (2), price equals: [0.75 times (the Cost of New Entry 
+minus the Net Energy and Ancillary Service Revenue Offset)] 
+divided by (the applicable ELCC Class Rating of the Reference 
+Resource) and Unforced Capacity equals: [the PJM Region 
+Reliability Requirement multiplied by 101.6%]; and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 2 
+ 
+  For point (3), price equals zero and Unforced Capacity equals: 
+[the PJM Region Reliability Requirement multiplied by 106.8%]. 
+ 
+ For the 2026/2027 Delivery Year and 2027/2028 Delivery Years, the 
+Variable Resource Requirement Curve for the PJM Region shall be plotted 
+by a horizontal line from the y-axis equal to $256.75/MW-day ICAP 
+divided by the applicable ELCC Class Rating for the Reference Resource 
+until such line intersects the curve that is based on the following: (i) a 
+straight line connecting points (1) and (2), and (ii) a straight line 
+connecting points (2) and (3), where: 
+ 
+ For point (1), price equals: {the greater of [the Cost of New Entry] 
+or [1.75 times (the Cost of New Entry minus the Net Energy and 
+Ancillary Service Revenue Offset)]} divided by (the applicable 
+ELCC Class Rating of the Reference Resource) and Unforced 
+Capacity equals: [the PJM Region Reliability Requirement 
+multiplied by 99%]; 
+ 
+ For point (2), price equals: [0.75 times (the Cost of New Entry 
+minus the Net Energy and Ancillary Service Revenue Offset)] 
+divided by (the applicable ELCC Class Rating of the Reference 
+Resource) and Unforced Capacity equals: [the PJM Region 
+Reliability Requirement multiplied by 101.5%]; and 
+ 
+ For point (3), price equals zero and Unforced Capacity equals: [the 
+PJM Region Reliability Requirement multiplied by 104.5%]. 
+ 
+ Once the horizontal line intersects the above curve, the Variable Resource 
+Requirement Curve shall follow the lines that are based on the above 
+points until the price reaches $138.25/MW-day ICAP divided by the 
+applicable ELCC Class Rating of the Reference Resource, at which point 
+it shall be extended as a horizontal line at $138.25/MW-day ICAP divided 
+by the applicable ELCC Class Rating of the Reference Resource for the 
+remainder of the curve. 
+ 
+ For the 2028/2029 Delivery Year and for subsequent Delivery Years, the 
+Variable Resource Requirement curve for the PJM Region shall be plotted 
+by combining (i) a horizontal line from the y-axis to point (1), (ii) a 
+straight line connecting points (1) and (2), and (iii) a straight line 
+connecting points (2) and (3), where: 
+ 
+ For point (1), price equals: {the greater of [1.15 times Cost of New 
+Entry minus 0.75 times the Net Energy and Ancillary Service 
+Revenue Offset] or [0.2 times Cost of New Entry)]} divided by 
+(the applicable ELCC Class Rating of the Reference Resource) and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 3 
+Unforced Capacity equals: [the PJM Region Reliability 
+Requirement multiplied by 99%]; 
+ 
+ For point (2), price equals: [0.5 times the price calculated for point 
+1] divided by (the applicable ELCC Class Rating of the Reference 
+Resource) and Unforced Capacity equals: [the PJM Region 
+Reliability Requirement multiplied by 101.5%]; and 
+ 
+ For point (3), price equals zero and Unforced Capacity equals: [the 
+PJM Region Reliability Requirement multiplied by 106.0%]. 
+ 
+ii) For any Delivery Year, the Office of the Interconnection shall establish a 
+separate Variable Resource Requirement Curve for each LDA for which: 
+ 
+A. the Capacity Emergency Transfer Limit is less than 1.15 times the 
+Capacity Emergency Transfer Objective, as determined by the Office of 
+the Interconnection in accordance with NERC and Applicable Regional 
+Entity guidelines; or 
+ 
+B. such LDA had a Locational Price Adder in any one or more of the three 
+immediately preceding Base Residual Auctions; or 
+ 
+C. such LDA is determined in a preliminary analysis by the Office of the 
+Interconnection to be likely to have a Locational Price Adder, based on 
+historic offer price levels; provided however that for the Base Residual 
+Auction conducted for the Delivery Year, the Eastern Mid-Atlantic Region 
+(“EMAR”), Southwest Mid-Atlantic Region (“SWMAR”), and Mid-
+Atlantic Region (“MAR”) LDAs shall employ separate Variable Resource 
+Requirement Curves regardless of the outcome of the above three tests; 
+and provided further that the Office of the Interconnection may establish a 
+separate Variable Resource Requirement Curve for an LDA not otherwise 
+qualifying under the above three tests if it finds that such is required to 
+achieve an acceptable level of reliability consistent with the Reliability 
+Principles and Standards, in which case the Office of the Interconnection 
+shall post such finding, such LDA, and such Variable Resource 
+Requirement Curve on its internet site no later than the March 31 last 
+preceding the Base Residual Auction for such Delivery Year.  The same 
+process as set forth in subsection (a)(i) shall be used to establish the 
+Variable Resource Requirement Curve for any such LDA, except that the 
+Locational Deliverability Area Reliability Requirement for such LDA 
+shall be substituted for the PJM Region Reliability Requirement.  For 
+purposes of calculating the Capacity Emergency Transfer Limit under this 
+section, all generation resources located in the PJM Region that are, or that 
+qualify to become, Capacity Resources, shall be modeled at their full 
+capacity rating, regardless of the amount of capacity cleared from such 
+resource for the immediately preceding Delivery Year. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 4 
+For Delivery Years up to and including the 2027/2028 Delivery Year for 
+each such LDA, the Office of the Interconnection shall (a) determine the 
+Net Cost of New Entry for each Zone in such LDA, with such Net Cost of 
+New Entry equal to the applicable Cost of New Entry value for such Zone 
+minus the Net Energy and Ancillary Services Revenue Offset value for 
+such Zone, and (b) compute the average of the Net Cost of New Entry 
+values of all such Zones to determine the Net Cost of New Entry for such 
+LDA.   
+ 
+For the 2028/2029 Delivery Year and for subsequent Delivery Years for 
+each such LDA, the Office of the Interconnection shall determine the 
+applicable Cost of New Entry and Net Energy and Ancillary Services 
+Revenue Offset value for each LDA, with such Cost of New Entry equal 
+to the average of all five Cost of New Entry areas for RTO and the 
+average of the Cost of New Entry for all zones in an LDA, and the Net 
+Energy and Ancillary Services Revenue Offset value equal to the 67th 
+percentile of the Net Energy and Ancillary Services Revenue Offset for all 
+zones in such LDA. 
+ 
+iii) Procedure for ongoing review of Variable Resource Requirement Curve 
+shape. 
+ 
+Beginning with the Delivery Year that commences June 1, 2018, and continuing no later than for 
+every fourth Delivery Year thereafter, the Office of the Interconnection shall perform a review of 
+the shape of the Variable Resource Requirement Curve, as established by the requirements of the 
+foregoing subsection.  Such analysis shall be based on simulation of market conditions to 
+quantify the ability of the market to invest in new Capacity Resources and to meet the applicable 
+reliability requirements on a probabilistic basis.  Based on the results of such review, PJM shall 
+prepare a recommendation to either modify or retain the existing Variable Resource Requirement 
+Curve shape.  The Office of the Interconnection shall post the recommendation and shall review 
+the recommendation through the stakeholder process to solicit stakeholder input. If a 
+modification of the Variable Resource Requirement Curve shape is recommended, the following 
+process shall be followed:   
+ 
+A) If the Office of the Interconnection determines that the Variable 
+Resource Requirement Curve shape should be modified, Staff of 
+the Office of the Interconnection shall propose a new Variable 
+Resource Requirement Curve shape on or before May 15, prior to 
+the conduct of the Base Residual Auction for the first Delivery 
+Year in which the new values would be applied.   
+ 
+B) The PJM Members shall review the proposed modification to the 
+Variable Resource Requirement Curve shape. 
+ 
+C) The PJM Members shall either vote to (i) endorse the proposed 
+modification, (ii) propose alternate modifications or (iii) 
+recommend no modification, by August 31, prior to the conduct of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 5 
+the Base Residual Auction for the first Delivery Year in which the 
+new values would be applied. 
+ 
+D) The PJM Board of Managers shall consider a proposed 
+modification to the Variable Resource Requirement Curve shape, 
+and the Office of the Interconnection shall file any approved 
+modified Variable Resource Requirement Curve shape with the 
+FERC by October 1, prior to the conduct of the Base Residual 
+Auction for the first Delivery Year in which the new values would 
+be applied. 
+ 
+iv) Cost of New Entry  
+ 
+A) For the Incremental Auctions, the Cost of New Entry for the PJM 
+Region and for each LDA shall be the respective value used in the 
+Base Residual Auction for each corresponding Delivery Year and 
+LDA.  For the Delivery Year commencing on June 1, 2022 through 
+and including the Delivery Year commencing on June 1, 2025, the 
+Cost of New Entry for the PJM Region shall be the average of the 
+Cost of New Entry for each CONE Area listed in this section as 
+adjusted pursuant to subsection (a)(iv)(B).  
+  
+ 
+Geographic Location Within the 
+PJM Region Encompassing These 
+Zones 
+Cost of New Entry 
+in $/MW-Year 
+PS, JCP&L, AE, PECO, DPL, RECO 
+(“CONE Area 1”) 
+108,000 
+BGE, PEPCO (“CONE Area 2”) 109,700 
+AEP, Dayton, ComEd, APS, DQL, 
+ATSI, DEOK, EKPC, Dominion, 
+OVEC (“CONE Area 3”) 
+105,500 
+PPL, MetEd, Penelec (“CONE Area 
+4”) 
+105,500 
+ 
+A-1)  Cost of New Entry for 2025/2026 Delivery Year 
+ 
+ A new CONE Area 5 encompassing only the ComEd Zone shall be 
+established and the ComEd Zone will be removed from CONE 
+Area 3.  For the 2025/2026 Delivery Year, the Cost of New Entry 
+for CONE Area 5 will be equal to the product of the Cost of New 
+Entry determined for CONE Area 3 for the 2025/2026 Delivery 
+Year multiplied by an asset life factor of 1.0069.  For the 
+2025/2026 Delivery Year, the Cost of New Entry for the PJM 
+Region shall be the average of the Cost of New Entry for all 
+CONE Areas. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 6 
+B) Beginning with the 2023/2024 Delivery Year through and 
+including the 2025/2026 Delivery Year, the CONE for each CONE 
+Area (except for CONE Area 5) shall be adjusted to reflect 
+changes in generating plant construction costs based on changes in 
+the Applicable United States Bureau of Labor Statistics (“BLS”) 
+Composite Index, and then adjusted further by a factor of 1.022 to 
+reflect the annual decline in bonus depreciation scheduled under 
+federal corporate tax law, in accordance with the following:   
+ 
+ 
+(1) The Applicable BLS Composite Index for any 
+Delivery Year and CONE Area shall be the most 
+recently published twelve-month change, at the time 
+CONE values are required to be posted for the Base 
+Residual Auction for such Delivery Year, in a 
+composite of the BLS Quarterly Census of 
+Employment and Wages for Utility System 
+Construction (weighted 20%), the BLS Producer 
+Price Index for Construction Materials and 
+Components (weighted 55%), and the BLS 
+Producer Price Index Turbines and Turbine 
+Generator Sets (weighted 25%), as each such index 
+is further specified for each CONE Area in the PJM 
+Manuals.  
+ 
+(2) The CONE in a CONE Area shall be adjusted prior 
+to the Base Residual Auction for each Delivery 
+Year by applying the Applicable BLS Composite 
+Index for such CONE Area to the Benchmark 
+CONE for such CONE Area, and then multiplying 
+the result by 1.022. 
+ 
+(3) The Benchmark CONE for a CONE Area shall be 
+the CONE used for such CONE Area in the Base 
+Residual Auction for the prior Delivery Year 
+(provided, however that the Gross CONE values 
+stated in subsection (a)(iv)(A) above shall be the 
+Benchmark CONE values for the 2022/2023 
+Delivery Year to which the Applicable BLS 
+Composite Index shall be applied to determine the 
+CONE for subsequent Delivery Years), and then 
+multiplying the result by 1.022.   
+ 
+(4) Notwithstanding the foregoing, CONE values for 
+any CONE Area for any Delivery Year shall be 
+subject to amendment pursuant to appropriate 
+filings with FERC under the Federal Power Act, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 7 
+including, without limitation, any filings resulting 
+from the process described in section 5.10(a)(vi)(C) 
+or any filing to establish new or revised CONE 
+Areas. 
+ 
+C) For the 2026/2027 Delivery Year and 2027/2028 Delivery Year, 
+the Cost of New Entry for the PJM Region shall be the average of 
+the Cost of New Entry for each CONE Area listed in this section as 
+adjusted pursuant to subsection (a)(iv)(C)(1). 
+ 
+ 
+Geographic Location Within the 
+PJM Region Encompassing These 
+Zones 
+Cost of New Entry 
+ in $/MW-Year 
+(ICAP) 
+PS, JCP&L, AE, PECO, DPL, 
+RECO (“CONE Area 1”) 
+136,000 
+BGE, PEPCO (“CONE Area 2”) 142,000 
+AEP, Dayton, APS, DQL, ATSI, 
+DEOK, EKPC, 
+Dominion, OVEC (“CONE Area 
+3”) 
+147,600 
+PPL, MetEd, Penelec (“CONE Area 
+4”) 
+143,500 
+ComEd (“CONE Area 5”) 150,800 
+ 
+(1) For the 2027/2028 Delivery Year, the CONE for 
+each CONE Area shall be adjusted to reflect 
+changes in generating plant construction costs based 
+on changes in the Applicable United States Bureau 
+of Labor Statistics (“BLS”) Composite Index, in 
+accordance with the following:  
+ 
+(a) The Applicable BLS Composite Index for 
+any Delivery Year and CONE Area shall 
+be the most recently published twelve-
+month change, at the time CONE values are 
+required to be posted for the Base Residual 
+Auction for such Delivery Year, in a 
+composite of the BLS Quarterly Census of 
+Employment and Wages for Utility System 
+Construction (weighted 40%), the BLS 
+Producer Price Index for Construction 
+Materials and Components (weighted 45%), 
+and the BLS Producer Price Index Turbines 
+and Turbine Generator Sets (weighted 15%), 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 8 
+as each such index is further specified for 
+each CONE Area in the PJM Manuals.  
+ 
+(b) For CONE Areas 1 through 4, the 
+Benchmark CONE for each CONE Area 
+shall be the CONE used for such CONE 
+Area in the Base Residual Auction for the 
+prior Delivery Year (provided, however that 
+the Gross CONE values stated in subsection 
+(a)(iv)(C) above shall be the Benchmark 
+CONE values for the 2026/2027 Delivery 
+Year to which the Applicable BLS 
+Composite Index shall be applied to 
+determine the CONE for subsequent 
+Delivery Years). 
+ 
+(c) For the 2027/2028 Delivery Year, the 
+CONE for CONE Area 5 for a given 
+Delivery Year shall be set equal to the 
+product of the CONE of CONE Area 3 as 
+determined for the relevant Delivery Year in 
+accordance with (a) and (b) above, 
+multiplied by the asset life factor applicable 
+to that Delivery Year where such asset life 
+factors is 1.0376 for the 2027/2028 Delivery 
+Year. 
+ 
+(d) Notwithstanding the foregoing, CONE 
+values for any CONE Area for any Delivery 
+Year shall be subject to amendment pursuant 
+to appropriate filings with FERC under the 
+Federal Power Act, including, without 
+limitation, any filings resulting from the 
+process described in section 5.10(a)(vi)(C) 
+or any filing to establish new or revised 
+CONE Areas.  
+ 
+D) For the 2028/2029 Delivery Year and for subsequent Delivery 
+Years, the Cost of New Entry for the PJM Region shall be the 
+average of the Cost of New Entry for each CONE Area listed in 
+this section. 
+ 
+  
+Geographic Location Within the 
+PJM Region Encompassing These 
+Zones 
+Cost of New Entry 
+ in $/MW-Year 
+(ICAP) 
+PS, JCP&L, AE, PECO, DPL, 218,000 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 9 
+RECO (“CONE Area 1”) 
+BGE, PEPCO (“CONE Area 2”) 222,000 
+AEP, Dayton, APS, DQL, ATSI, 
+DEOK, EKPC, 
+Dominion, OVEC (“CONE Area 
+3”) 
+215,000 
+PPL, MetEd, Penelec (“CONE Area 
+4”) 
+216,000 
+ComEd (“CONE Area 5”) 248,000 
+ 
+(1) Beginning with the 2029/2030 Delivery Year, the Cost of 
+New Entry for each CONE Area shall be adjusted to reflect 
+changes in generating plant construction costs based on 
+changes in the Applicable United States Bureau of Labor 
+Statistics (“BLS”) Composite Index, in accordance with the 
+following: 
+ 
+(a) The Applicable BLS Composite Index for any 
+Delivery Year and CONE Area shall be the most 
+recently published twelve-month change, at the time 
+Cost of New Entry values are required to be posted 
+for the Base Residual Auction for such Delivery 
+Year, in a composite of the Quarterly Census of 
+Employment and Wages, which shall use  NAICS 
+2371 Utility System Construction, Private, All 
+Establishment Sizes (weighted 15%), BLS Producer 
+Price Index for Commodities, Not Seasonally 
+Adjusted, Intermediate Demand by Commodity 
+Type, Materials and Components for Construction 
+(weighted 10%), BLS Producer Price Index for 
+Commodities, Not Seasonally Adjusted, Machinery 
+and Equipment, Turbines and Turbine Generator 
+Sets (weighted 46%), and the Bureau of Economic 
+Analysis: Gross Domestic Product Implicit Price 
+Deflator, Index 2017=100, Seasonally Adjusted 
+(weighted 29%), as each such index is further 
+specified for each CONE Area in the PJM Manuals. 
+ 
+(b) For CONE Areas 1 through 5, the Benchmark 
+CONE for each CONE Area shall be the Cost of 
+New Entry used for such CONE Area in the Base 
+Residual Auction for the prior Delivery Year 
+(provided, however that the Cost of New Entry 
+values stated in subsection (a)(iv)(C) above shall be 
+the Benchmark CONE values for the 2028/2029 
+Delivery Year to which the Applicable BLS 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 10 
+Composite Index shall be applied to determine the 
+Cost of New Entry for subsequent Delivery Years). 
+ 
+(c) For the 2029/2030 Delivery Year through and 
+including the 2031/2032 Delivery Year, the Cost of 
+New Entry for CONE Area 5 for a given Delivery 
+Year shall be multiplied by the asset life factor 
+applicable to that Delivery Year where such asset 
+life factors are 1.025 for the 2029/2030 Delivery 
+Year, 1.054 for the 2030/2031 Delivery Year, and 
+1.088 for the 2031/2032 Delivery Year. 
+ 
+v) Net Energy and Ancillary Services Revenue Offset for 2023/2024 
+Delivery Year through and including the 2025/2026 Delivery Years 
+(except that the calculation of the MOPR Floor Price pursuant to Tariff, 
+Attachment DD, section 5.14(h-2) for combustion turbine resources shall 
+remain applicable beyond the 2025/2026 Delivery Year): 
+ 
+A) The Office of the Interconnection shall determine the Net Energy 
+and Ancillary Services Revenue Offset each year for  the PJM 
+Region as (A) the annual average of the revenues that would have 
+been received by the Reference Resource from the PJM energy 
+markets during a period of three consecutive calendar years 
+preceding the time of the determination, based on (1) the heat rate 
+and other characteristics of such Reference Resource; (2)  fuel 
+prices reported during such period at an appropriate pricing point 
+for the PJM Region with a fuel transmission adder appropriate for 
+such region, as set forth in the PJM Manuals, assumed variable 
+operation and maintenance expenses for such resource of $6.93 per 
+MWh, and actual PJM hourly average Locational Marginal Prices 
+recorded in the PJM Region during such period; and (3) an 
+assumption that the Reference Resource would be dispatched for 
+both the Day-Ahead and Real-Time Energy Markets on a Peak-
+Hour Dispatch basis; plus (B) ancillary service revenues of $2,199 
+per MW-year to be included through the 2025/2026 Delivery Year.   
+ 
+B)  The Office of the Interconnection also shall determine a Net 
+Energy and Ancillary Service Revenue Offset each year for each 
+Zone, using the same procedures and methods as set forth in the 
+previous subsection; provided, however, that:  (1) the average 
+hourly LMPs for such Zone shall be used in place of the PJM 
+Region average hourly LMPs; (2) if such Zone was not integrated 
+into the PJM Region for the entire applicable period, then the 
+offset shall be calculated using only those whole calendar years 
+during which the Zone was integrated; and (3) a posted fuel pricing 
+point in such Zone, if available, and (if such pricing point is not 
+available in such Zone) a fuel transmission adder appropriate to 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 11 
+such Zone from an appropriate PJM Region pricing point shall be 
+used for each such Zone. 
+ 
+v-1) Net Energy and Ancillary Services Revenue Offset for the 2026/2027 
+Delivery Year and subsequent Delivery Years: 
+ 
+A) For the 2026/2027 and the 2027/2028 Delivery Years, the Office 
+of the Interconnection shall determine the Net Energy and 
+Ancillary Services Revenue Offset each year for the PJM Region 
+as the average of the net energy and ancillary services revenues 
+that the Reference Resource is projected to receive from the PJM 
+energy and ancillary service markets for the applicable Delivery 
+Year from three separate simulations, with each such simulation 
+using forward prices shaped using historical data from one of the 
+three consecutive calendar years preceding the time of the 
+determination for the RPM Auction to take account of year-to-year 
+variability in such hourly shapes.  Each net energy and ancillary 
+services revenue simulation is based on (a) the heat rate and other 
+characteristics of such Reference Resource such as assumed 
+variable operation and maintenance expenses of $1.19 per MWh 
+and $21,170 per start-up, and emissions costs; (b) Forward Hourly 
+LMPs for the PJM Region; (c) Forward Hourly Ancillary Services 
+Prices, (d) Forward Daily Natural Gas Prices at an appropriate 
+pricing point for the PJM Region with a fuel transmission adder 
+appropriate for such region, as set forth in the PJM Manuals; and 
+(e) an assumption that the Reference Resource would be 
+dispatched on a Projected EAS Dispatch basis.   
+ 
+A-1) For the 2028/2029 and subsequent Delivery Years, the Office of 
+the Interconnection shall determine the Net Energy and Ancillary 
+Services Revenue Offset each year for the PJM Region as the 67th 
+percentile of all of the calculated zonal Net Energy and Ancillary 
+Services Revenues Offsets that the Reference Resource is 
+projected to receive from the PJM energy and ancillary service 
+markets for the applicable Delivery Year from three separate 
+simulations, with each such simulation using forward prices 
+shaped using historical data from one of the three consecutive 
+calendar years preceding the time of the determination for the 
+RPM Auction to take account of year-to-year variability in such 
+hourly shapes.  Each Net Energy and Ancillary Service Revenue 
+Offset simulation is based on (a) the heat rate and other 
+characteristics of such Reference Resource such as assumed 
+variable operation and maintenance expenses of $2.65 per MWh, 
+and emissions costs; (b) Forward Hourly LMPs for the PJM 
+Region; (c) Forward Hourly Ancillary Services Prices, (d) Forward 
+Daily Natural Gas Prices at an appropriate pricing point for the 
+PJM Region with a fuel transmission adder appropriate for such 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 12 
+region, as set forth in the PJM Manuals; and (e) an assumption that 
+the Reference Resource would be dispatched on a Projected EAS 
+Dispatch basis. 
+ 
+B)  The Office of the Interconnection also shall determine a Net 
+Energy and Ancillary Service Revenue Offset each year for each 
+Zone, using the same procedures and methods as set forth in the 
+previous subsection; provided, however, that:  (1) the Forward 
+Hourly LMPs for such Zone shall be used in place of the Forward 
+Hourly LMP for the PJM Region; (2) if such Zone was not 
+integrated into the PJM Region for the entire three calendar years 
+preceding the time of the determination for the RPM Auction, then 
+simulations shall rely on only those whole calendar years during 
+which the Zone was integrated; and (3) Forward Daily Natural Gas 
+Prices for the fuel pricing point mapped to such Zone. 
+ 
+C) “Forward Hourly LMPs” shall be determined as follows:  
+ 
+(1)  Identify the liquid hub to which each Zone is mapped, as 
+specified in the PJM Manuals. 
+ 
+(2)  For each liquid hub, calculate the average day-ahead on-
+peak and day-ahead off-peak energy prices for each month 
+during the Delivery Year over the most recent thirty trading 
+days as of 180 days prior to the Base Residual Auction.  
+For each of the remaining steps, the historical prices used 
+herein shall be taken from the most recent three calendar 
+years preceding the time of the determination for the RPM 
+Auction: 
+ 
+(3)  Determine and add monthly basis differentials between the 
+hub and each of its mapped Zones to the forward monthly 
+day-ahead on-peak and off-peak energy prices for the hub. 
+This differential is developed using the prices for the 
+Planning Period closest in time to the Delivery Year from 
+the most recent long-term Financial Transmission Rights 
+auction conducted prior to the Base Residual Auction. The 
+difference between the annual long-term Financial 
+Transmission Rights auction prices for the Zone and the 
+hub are converted to monthly values by adding, for each 
+month of the year, the difference between (a) the historical 
+monthly average day-ahead congestion price differentials 
+between the Zone and relevant hub and (b) the historical 
+annual average day-ahead congestion price differentials 
+between the Zone and hub. This step is only used when 
+developing forward prices for locations other than the 
+liquid hubs;  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 13 
+ 
+(4)  Determine and add marginal loss differentials to the 
+forward monthly day-ahead on-peak and off-peak energy 
+prices for the hub.  For each month of the year, calculate 
+the marginal loss differential, which is  the average of the 
+difference between the loss components of the historical on 
+peak or off peak day-ahead LMPs for the Zone and relevant 
+hub in that month across the three year period scaled by the 
+ratio of (a) the forward monthly average on-peak or off-
+peak day-ahead LMP at such hub to (b) the average of the 
+historical on-peak or off-peak day-ahead LMPs for such 
+hub in that month across the three year period.  This step is 
+only used when developing forward prices for locations 
+other than the liquid hubs;  
+ 
+(5)  Shape the forward monthly day-ahead on-peak and off-
+peak prices to (a) forward hourly day-ahead LMPs using 
+historic hourly day-ahead LMP shapes for the Zone and (b) 
+forward hourly real-time LMPs using historic hourly real-
+time LMP shapes for the Zone. The historic hourly shapes 
+are based on the ratio of the historic day-ahead or real-time 
+LMP for the Zone for each given hour in a monthly on-
+peak or off-peak period to the average of the historic day-
+ahead or real-time LMP for the Zone for all hours in such 
+monthly on-peak or off-peak period. The historical prices 
+used in this step shall be taken from one of each of the most 
+recent three calendar years preceding the time of the 
+determination for the RPM Auction;  
+ 
+(6)  For unit-specific energy and ancillary service offset 
+calculations, determine and apply basis differentials from 
+the Zone to the generation bus to the forward day-ahead 
+and real-time hourly LMPs for the Zone.  The differential 
+for each hour of the year is developed using the difference 
+between the historical DA or RT LMP for the generation 
+bus and the historical DA or RT LMP for the Zone in 
+which the generation bus is located for that same hour; and  
+ 
+(7)  Develop the Forward Hourly LMPs for the PJM Region 
+pricing point. Calculate the load-weighted average of the 
+monthly on-peak and off-peak Zonal LMPs developed in 
+step (4) above, using the historical average load within each 
+monthly on-peak or off-peak period.  The load-weighted 
+average monthly on-peak or off-peak Zonal LMPs are then 
+shaped to forward hourly day-ahead and real-time LMPs 
+using the same procedure as defined in step (5) above, 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 14 
+except using historical LMPs for the PJM Region pricing 
+point.  
+ 
+D) Forward Hourly Ancillary Services Prices shall include prices for 
+Synchronized Reserve, Non-Synchronized Reserve and Secondary 
+Reserve and shall be determined as follows.  The historical prices 
+used herein shall be taken from one of each of the most recent 
+three calendar years preceding the time of the determination for the 
+RPM Auction: 
+ 
+(1)  For Synchronized Reserve, the forward real-time 
+Synchronized Reserve market clearing price shall be 
+calculated by multiplying the historical RTO real-time 
+hourly Synchronized Reserve market clearing price for 
+each hour of the Delivery Year by the ratio of the real-time 
+Forward Hourly LMP at an appropriate pricing point, as 
+defined in the PJM manuals, to the historic hourly real-time 
+LMP at such pricing point for the corresponding hour of the 
+year; 
+ 
+(2)  For Non-Synchronized Reserve, the forward real-time Non-
+Synchronized Reserve market clearing price shall be 
+calculated by multiplying the historical RTO real-time 
+hourly Non-Synchronized Reserve market clearing price 
+for each hour of the Delivery Year by the ratio of the real-
+time Forward Hourly LMP at an appropriate pricing point, 
+as defined in the PJM manuals, to the historic hourly real-
+time LMP at such pricing point for the corresponding hour 
+of the year; and 
+ 
+(3)  For Secondary Reserve, the forward day-ahead and real-
+time Secondary Reserve market clearing price shall be 
+$0.00/MWh for all hours. 
+ 
+E) Forward Daily Natural Gas Prices shall be determined as follows: 
+ 
+(1)  Map each Zone to the appropriate natural gas hub in the 
+PJM Region, as listed in the PJM Manuals; 
+ 
+(2)  Map each natural gas hub lacking sufficient liquidity to the 
+liquid hub to which it has the highest historic price 
+correlation; 
+ 
+(3)  For each sufficiently liquid natural gas hub, calculate the 
+simple average natural gas monthly settlement prices over 
+the most recent thirty trading days as of 180 days prior to 
+the Base Residual Auction; 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 15 
+ 
+(4)  Calculate the forward monthly prices for each illiquid hub 
+by scaling the forward monthly price of the mapped liquid 
+hub by the average ratio of historical monthly prices at the 
+insufficiently liquid hub to the historical monthly prices at 
+the sufficiently liquid over the most recent three calendar 
+years preceding the time of determination for the RPM 
+Auction; 
+ 
+(5)   Shape the forward monthly prices for each hub to Forward 
+Daily Natural Gas Prices using historic daily natural gas 
+price shapes for the hub. The historic daily shapes are 
+based on the ratio of the historic price for the hub for each 
+given day in a month to the average of the historic prices 
+for the hub for all days in such month. The daily prices are 
+then assigned to each hour starting 10am Eastern Prevailing 
+Time each day. The historical prices used in this step shall 
+be taken from one of each of the most recent three calendar 
+years preceding the time of the determination for the RPM 
+Auction. 
+ 
+vi) Process for Establishing Parameters of Variable Resource Requirement 
+Curve  
+ 
+A) The parameters of the Variable Resource Requirement Curve will 
+be established prior to the conduct of the Base Residual Auction 
+for a Delivery Year and will be used for such Base Residual 
+Auction. 
+ 
+B) The Office of the Interconnection shall determine the PJM Region 
+Reliability Requirement and the Locational Deliverability Area 
+Reliability Requirement for each Locational Deliverability Area 
+for which a Variable Resource Requirement Curve has been 
+established for such Base Residual Auction on or before February 
+1, prior to the conduct of the Base Residual Auction for the first 
+Delivery Year in which the new values will be applied, in 
+accordance with the Reliability Assurance Agreement.   
+ 
+C) Beginning with the Delivery Year that commences June 1, 2018, 
+and continuing no later than for every fourth Delivery Year 
+thereafter, the Office of the Interconnection shall review the 
+calculation of the Cost of New Entry for each CONE Area.  
+ 
+1) If the Office of the Interconnection determines that the Cost 
+of New Entry values should be modified, the Staff of the 
+Office of the Interconnection shall propose new Cost of 
+New Entry values on or before May 15, prior to the conduct 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 16 
+of the Base Residual Auction for the first Delivery Year in 
+which the new values would be applied. 
+ 
+2) The PJM Members shall review the proposed values. 
+ 
+3) The PJM Members shall either vote to (i) endorse the 
+proposed values, (ii) propose alternate values or (iii) 
+recommend no modification, by August 31, prior to the 
+conduct of the Base Residual Auction for the first Delivery 
+Year in which the new values would be applied. 
+ 
+4) The PJM Board of Managers shall consider Cost of New 
+Entry values, and the Office of the Interconnection shall 
+file any approved modified Cost of New Entry values with 
+the FERC by October 1, prior to the conduct of the Base 
+Residual Auction for the first Delivery Year in which the 
+new values would be applied. 
+ 
+D) Beginning with the Delivery Year that commences June 1, 2018, 
+and continuing no later than for every fourth Delivery Year 
+thereafter, the Office of the Interconnection shall review the 
+methodology set forth in this Attachment for determining the Net 
+Energy and Ancillary Services Revenue Offset for the PJM Region 
+and for each Zone. 
+ 
+1) If the Office of the Interconnection determines that the Net 
+Energy and Ancillary Services Revenue Offset 
+methodology should be modified, Staff of the Office of the 
+Interconnection shall propose a new Net Energy and 
+Ancillary Services Revenue Offset methodology on or 
+before May 15, prior to the conduct of the Base Residual 
+Auction for the first Delivery Year in which the new 
+methodology would be applied.   
+ 
+2) The PJM Members shall review the proposed methodology. 
+ 
+3) The PJM Members shall either vote to (i) endorse the 
+proposed methodology, (ii) propose an alternate 
+methodology or (iii) recommend no modification, by 
+August 31, prior to the conduct of the Base Residual 
+Auction for the first Delivery Year in which the new 
+methodology would be applied. 
+ 
+4) The PJM Board of Managers shall consider the Net 
+Revenue Offset methodology, and the Office of the 
+Interconnection shall file any approved modified Net 
+Energy and Ancillary Services Revenue Offset values with 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.10 Auction Clearing Requirements 
+Effective Date: 1/23/2026 - Docket #: ER26-455-000 - Page 17 
+the FERC by October 1, prior to the conduct of the Base 
+Residual Auction for the first Delivery Year in which the 
+new values would be applied.  
+ 
+ b) Locational Requirements 
+ 
+The Office of Interconnection shall establish locational requirements prior to the Base Residual 
+Auction to quantify the amount of Unforced Capacity that must be committed in each Locational 
+Deliverability Area, in accordance with the Reliability Assurance Agreement. 
+ 
+c) [Reserved] 
+ 
+d) Preliminary PJM Region Peak Load Forecast for the Delivery Year  
+ 
+The Office of the Interconnection shall establish the Preliminary PJM Region Load Forecast for 
+the Delivery Year in accordance with the PJM Manuals by February 1, prior to the conduct of the 
+Base Residual Auction for such Delivery Year.   
+ 
+ e) Updated PJM Region Peak Load Forecasts for Incremental Auctions 
+ 
+The Office of the Interconnection shall establish the updated PJM Region Peak Load Forecast for 
+a Delivery Year in accordance with the PJM Manuals by February 1, prior to the conduct of the 
+First, Second, and Third Incremental Auction for such Delivery Year. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.11 Posting of Information Relevant to t 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 1 
+5.11 Posting of Information Relevant to the RPM Auctions 
+ 
+ a) In accordance with the schedule provided in the PJM Manuals, PJM will post the 
+following information for a Delivery Year prior to conducting the Base Residual Auction for 
+such Delivery Year: 
+ 
+i) The Preliminary PJM Region Peak Load Forecast (for the PJM Region, 
+and allocated to each Zone); 
+ 
+ii) The PJM Region Installed Reserve Margin, the Pool-wide average 
+EFORd, (through the 2024/2025 Delivery Year), the pool-wide average Accredited UCAP 
+Factor (beginning with the 2025/2026 Delivery Year), the Forecast Pool Requirement, and all 
+applicable Capacity Import Limits; 
+ 
+iii) For the Delivery Years through May 31, 2018, the Demand Resource 
+Factor; 
+ 
+iv) The PJM Region Reliability Requirement, and the Variable Resource 
+Requirement Curve for the PJM Region, including the details of any adjustments to account for 
+Price Responsive Demand and any associated PRD Reservation Prices; 
+ 
+v) The Locational Deliverability Area Reliability Requirement and the 
+Variable Resource Requirement Curve for each Locational Deliverability Area for which a 
+separate Variable Resource Requirement Curve has been established for such Base Residual 
+Auction, including the details of any adjustments to account for Price Responsive Demand and 
+any associated PRD Reservation Prices, and the CETO and CETL values for all Locational 
+Deliverability Areas; 
+ 
+vi) Any Transmission Upgrades that are expected to be in service for such 
+Delivery Year, provided that a Transmission Upgrade that is Backbone Transmission satisfies 
+the project development milestones set forth in Tariff, Attachment DD, section 5.11A; 
+ 
+vii) The bidding window time schedule for each auction to be conducted for 
+such Delivery Year; and 
+ 
+viii) The Net Energy and Ancillary Services Revenue Offset values for the 
+PJM Region for use in the Variable Resource Requirement Curves for the PJM Region and each 
+Locational Deliverability Area for which a separate Variable Resource Requirement Curve has 
+been established for such Base Residual Auction. 
+ 
+ b) The information listed in (a) will be posted and applicable for the First, Second, 
+Third, and Conditional Incremental Auctions for such Delivery Year, except to the extent 
+updated or adjusted as required by other provisions of this Tariff.   
+ 
+ c) In accordance with the schedule provided in the PJM Manuals, PJM will post the 
+Final PJM Region Peak Load Forecast and the allocation to each zone of the obligation resulting 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.11 Posting of Information Relevant to t 
+Effective Date: 3/24/2025 - Docket #: ER25-1022-000 - Page 2 
+from such final forecast, following the completion of the final Incremental Auction (including 
+any Conditional Incremental Auction) conducted for such Delivery Year;  
+ 
+ d) In accordance with the schedule provided in the PJM Manuals, PJM will advise 
+owners of Generation Capacity Resources of the updated EFORd values for such Generation 
+Capacity Resources prior to the conduct of the Third Incremental Auction for such Delivery 
+Year. 
+ 
+ e) After conducting the Reliability Pricing Model Auctions, PJM will post the results 
+of each auction as soon thereafter as possible, including any adjustments to PJM Region or LDA 
+Reliability Requirements to reflect Price Responsive Demand with a PRD Reservation Price 
+equal to or less than the applicable Base Residual Auction clearing price.  The posted results for 
+each Base Residual Auction shall include graphical supply curves that are (a) provided for the 
+entire PJM Region, (b) provided for any Locational Deliverability Area for which there are four 
+(4) or more suppliers, and (c) developed using a formulaic approach to smooth the curves using a 
+statistical technique that fits a smooth curve to the underlying supply curve data while ensuring 
+that the point of intersection between supply and demand curves is at the market clearing price.   
+ 
+If PJM discovers a potential error in the initial posting of auction results for a particular 
+Reliability Pricing Model Auction, it shall notify Market Participants as soon as possible after it 
+is found, but in no event later than 5:00 p.m. of the fifth Business Day following the initial 
+publication of the results of the auction.  After this initial notification, if PJM determines it is 
+necessary to post modified results, it shall provide notification of its intent to do so,  along with a 
+description detailing the cause and scope of the error, by no later than 5:00 p.m. of the seventh 
+Business Day following the initial publication of the results of the auction.  The provided 
+description will not contain information that is market sensitive or confidential.  Thereafter, PJM 
+must post on its Web site any corrected auction results by no later than 5:00 p.m. of the tenth 
+Business Day following the initial publication of the results of the auction. Should any of the 
+above deadlines pass without the associated action on the part of the Office of the 
+Interconnection, the originally posted results will be considered final. Notwithstanding the 
+foregoing, the deadlines set forth above shall not apply if the referenced auction results are under 
+publicly noticed review by the FERC.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.11A Backbone Transmission Upgrade Proje 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
+5.11A Backbone Transmission Upgrade Project Development Milestones 
+ 
+A Transmission Upgrade including transmission facilities at voltages of 500 kV or higher that is 
+in an approved Regional Transmission Expansion Plan (“Backbone Transmission”) shall be 
+included in the system model for an RPM Auction only if it satisfies the project development 
+milestones set forth in this section. 
+ 
+ a) Base Residual Auction 
+ 
+Backbone Transmission shall be included in the system model used for a Base Residual Auction 
+only if: 
+ 
+  i) No later than 60 days before posting of the planning parameters for the 
+Base Residual Auction, a corporate officer of the project sponsor submits a current critical path 
+project development schedule containing intermediate milestones and showing the project in full 
+commercial operation no later than the start of the Delivery Year corresponding to such Base 
+Residual Auction, and must certify that such schedule is reasonably achievable based on 
+information then known to and reasonably anticipated by the project sponsor.  Such notice must 
+identify all states in which such project is subject to the requirement to obtain a certificate of 
+public convenience and necessity, or functional equivalent approval or licensure requirement, 
+and must describe the nature and current status of such approval requirement; 
+ 
+  ii) such development schedule additionally must show the scope, schedule, 
+and current status of all other key milestones, including, at a minimum, right-of-way acquisition, 
+engineering design, equipment procurement, construction permitting, and construction activities; 
+ 
+  iii) applications for certificates of public convenience and necessity (or for 
+equivalent approval) have been filed in all states applicable to such project that have such 
+requirement. 
+ 
+ b) Incremental Auctions 
+ 
+A Backbone Transmission project shall be included in the system models for Incremental 
+Auctions only if the following requirements are satisfied no later than 60 days before each 
+Incremental Auction, as indicated below: 
+ 
+  i) a corporate officer submits, and certifies to, an updated project 
+development schedule for the First Incremental Auction that shows, among other things, that 
+50% of the right-of-way by linear distance has been secured; 
+ 
+  ii) a corporate officer submits, and certifies to, an updated project 
+development schedule for the Second Incremental Auction that shows, among other things, that 
+75% of the right-of-way by linear distance has been secured, and that all certificates of public 
+convenience and necessity (or equivalent approvals) have been issued by the responsible 
+regulatory bodies; 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.11A Backbone Transmission Upgrade Proje 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 2 
+  iii) a corporate officer submits, and certifies to, an updated project 
+development schedule for the Third Incremental Auction that shows, among other things, that 
+100% of the right-of-way by linear distance has been secured. 
+ 
+ c) Audit, Removal from System Model, and Reinstatement in System Model 
+ 
+  i) for the Backbone Transmission project to remain in the applicable system 
+model, the Office of the Interconnection or independent third party with established expertise in 
+such area must audit the project development schedule and affirm, no later than 30 days before 
+each applicable auction, that the schedule is reasonable and remains on progress to full 
+commercial operation prior to the commencement of the relevant Delivery Year.  Audits may 
+include site visits as deemed necessary by the auditor to verify progress. 
+ 
+  ii) a Backbone Transmission project that fails to satisfy any of the 
+requirements indicated for the Base Residual Auction shall not be included in the system model 
+for such Base Residual Auction or any Incremental Auction for the relevant Delivery Year.  A 
+Backbone Transmission project that fails to satisfy any of the requirements indicated for an 
+Incremental Auction shall not be included in the system model for such Incremental Auction or 
+any subsequent Incremental Auction for the relevant Delivery Year. 
+ 
+  iii) a Backbone Transmission project that is excluded from the system model 
+for any RPM Auction for a Delivery Year may be included in the system model for RPM 
+Auctions for a subsequent Delivery Year only if it demonstrates that all deficiencies have been 
+cured and the project is on schedule for full commercial operation prior to such subsequent 
+Delivery Year.   
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.12 Conduct of RPM Auctions 
+Effective Date: 5/31/2024 - Docket #: ER26-1099-000 - Page 1 
+5.12 Conduct of RPM Auctions 
+ 
+The Office of the Interconnection shall employ an optimization algorithm for each Base Residual 
+Auction and each Incremental Auction to evaluate the Sell Offers and other inputs to such 
+auction to determine the Sell Offers that clear such auction.   
+ 
+ a) Base Residual Auction  
+ 
+For each Base Residual Auction, the optimization algorithm shall consider: 
+ 
+ all Sell Offers submitted in such auction; 
+ 
+ the Variable Resource Requirement Curves for the PJM Region and each 
+LDA; 
+ 
+ any constraints resulting from the Locational Deliverability Requirement 
+and any applicable Capacity Import Limit; 
+ 
+ For the 2018/2019 Delivery Year and subsequent Delivery Years, the PJM 
+Reliability Requirement; and 
+ 
+ For the 2020/2021 Delivery Year and subsequent Delivery Years, the   
+requirement that the cleared quantity of Summer-Period Capacity 
+Performance Resources equal the cleared quantity of Winter-Period 
+Capacity Performance Resources for the PJM Region. 
+ 
+The optimization algorithm shall be applied to calculate the overall clearing result to minimize 
+the cost of satisfying the reliability requirements across the PJM Region, regardless of whether 
+the quantity clearing the Base Residual Auction is above or below the applicable target quantity, 
+while respecting all applicable requirements and constraints, including any restrictions specified 
+in any Credit-Limited Offers.  Where the supply curve formed by the Sell Offers submitted in an 
+auction falls entirely below the Variable Resource Requirement Curve, the auction shall clear at 
+the price-capacity point on the Variable Resource Requirement Curve corresponding to the total 
+Unforced Capacity provided by all such Sell Offers.  Where the supply curve consists only of 
+Sell Offers located entirely below the Variable Resource Requirement Curve and Sell Offers 
+located entirely above the Variable Resource Requirement Curve, the auction shall clear at the 
+price-capacity point on the Variable Resource Requirement Curve corresponding to the total 
+Unforced Capacity provided by all Sell Offers located entirely below the Variable Resource 
+Requirement Curve.  In determining the lowest-cost overall clearing result that satisfies all 
+applicable constraints and requirements, the optimization may select from among multiple 
+possible alternative clearing results that satisfy such requirements, including, for example 
+(without limitation by such example), accepting a lower-priced Sell Offer that intersects the 
+Variable Resource Requirement Curve and that specifies a minimum capacity block, accepting a 
+higher-priced Sell Offer that intersects the Variable Resource Requirement Curve and that 
+contains no minimum-block limitations, or rejecting both of the above alternatives and clearing 
+the auction at the higher-priced point on the Variable Resource Requirement Curve that 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT DD --> OATT ATTACHMENT DD.5. CAPACITY RESOURCE COMMITMENT --> OATT 
+ATTACHMENT DD.5.12 Conduct of RPM Auctions 
+Effective Date: 5/31/2024 - Docket #: ER26-1099-000 - Page 2 
+corresponds to the Unforced Capacity provided by all Sell Offers located entirely below the 
+Variable Resource Requirement Curve.  For the 2020/2021 Delivery Year and subsequent 
+Delivery Years, the supply curve formed by the Sell Offers submitted within an LDA for which a 
+separate VRR Curve is established, shall only consider the quantity of MW from Summer-Period 
+Capacity Performance Resources that are equally matched with Winter-Period Capacity 
+Performance Resources within the LDA, such that only the equally matched quantity of 
+opposite-season Sell Offers are considered in satisfying the LDA’s reliability requirement. 
+ 
+The Sell Offer price of a Qualifying Transmission Upgrade shall be treated as a capacity price 
+differential between the LDAs specified in such Sell Offer between which CETL is increased, 
+and the Import Capability provided by such upgrade shall clear to the extent the difference in 
+clearing prices between such LDAs is greater than the price specified in such Sell Offer.  The 
+Capacity Resource clearing results and Capacity Resource Clearing Prices so determined shall be 
+applicable for such Delivery Year.  The Capacity Resource clearing results and Capacity 
+Resource Clearing Prices determined for Summer-Period Capacity Performance Resources shall 
+be applicable for the calendar months of June through October and the following May of such 
+Delivery Year; and shall be applicable for Winter-Period Capacity Performance Resources for 
+the calendar months of November through April of such Delivery Year. 
+ 
+ b) Scheduled Incremental Auctions.  
+ 
+For purposes of a Scheduled Incremental Auction, the optimization algorithm shall consider: 
+ 
+  For the 2018/2019 Delivery Year and subsequent Delivery Years, the PJM 
+Reliability Requirement; 
+ 
+ Updated LDA Reliability Requirements taking into account any updated Capacity 
+Emergency Transfer Objectives; 
+ 
+ The Capacity Emergency Transfer Limit used in the Base Residual Auction, or 
+any updated value resulting from a Conditional Incremental Auction; 
+ 
+ All applicable Capacity Import Limits; 
+ 
+ For the 2018/2019 Delivery Year and subsequent Delivery Years, for each LDA, 
+such LDA’s updated Reliability Requirement; 
+ 
+ 
+ For the 2020/2021 Delivery Year and subsequent Delivery Years, the   
+requirement that the cleared quantity of Summer-Period Capacity Performance 
+Resources equal the cleared quantity of Winter-Period Capacity Performance 
+Resources for the PJM Region; 
+ 
+ A demand curve consisting of the Buy Bids submitted in such auction and, if 

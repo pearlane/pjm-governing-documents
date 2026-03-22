@@ -1,1031 +1,727 @@
-Schedule 17. 
+SCHEDULE 17 
+Transmission Service on the Hudson Line 
  
-6A.7 Confidentiality.  PJMSettlement shall be bound by the same confidentiality 
-requirements as the Transmission Provider.   
+Pursuant to Section 38 of the Tariff, this Schedule provides the terms and conditions of 
+transmission service on the Hudson Line which is a Merchant Transmission Facility under the 
+Tariff and the PJM Operating Agreement. 
  
-6A.8 PJMSettlement Costs.  All costs of services provided by PJMSettlement for the 
-benefit of Market Participants and Transmission Customers shall be included in 
-the Administrative Services set forth in Tariff, Part VI, Schedule 9-
-PJMSettlement. 
+1. Definitions 
  
-6A.9 Amendment of Previously Effective Arrangements.   
+Capitalized terms used and defined in this Schedule 17 shall have the meaning given them under 
+this Schedule.  Capitalized terms used and not defined in this Schedule 17 shall have the same 
+meaning as provided in the Tariff or Operating Agreement. Capitalized terms used in this 
+Schedule 17 that are not defined in it or elsewhere in this Tariff or Operating Agreement shall 
+have the meanings customarily attributed to such terms by the electric utility industry in PJM . 
  
-(a) Transmission Service Agreements.  Transmission Service Agreements in 
-effect at the time this Section 6A becomes effective shall be deemed to be 
-revised to include PJMSettlement as a Counterparty to the Transmission 
-Service Agreement in the same manner and to the same extent as 
-agreements entered after the effective date of this Section 6A.   
+ 1.1 Hudson Reservation:  A right, denoted in whole Megawatts (“MWs”) and for a 
+specified period, to request the withdrawal of energy and capacity from the Transmission System 
+at the Point of Interconnection and submit schedules for transmission service utilizing the 
+Hudson Line on a firm or non-firm basis as set forth in this Schedule 17.   
  
-(b) Reliability Pricing Model.  PJMSettlement shall be the Counterparty to the 
-transactions arising from the cleared Based Residual Auctions and 
-Incremental Auctions that occurred prior to the effective date of this 
-Section 6A and for which delivery will occur after the effective date of 
-this Section 6A in the same manner and to the same extent as transactions 
-arising from auctions cleared after the effective date of this Section 6A.   
+  1.1.1 Firm Hudson Reservation:  A Firm Hudson Reservation allows a 
+Hudson Transmission Customer to schedule capacity and energy on a firm basis from the 
+Hudson Point of Receipt to the Hudson Point of Delivery.   
  
-(c) Auction Revenue Rights and Financial Transmission Rights. 
-PJMSettlement shall be the Counterparty with respect to the rights and 
-obligations arising from Auction Revenue Rights and Financial 
-Transmission Rights acquired in an auction or assigned by PJM prior to 
-the effective date of this Section 6A to the same extent as with respect to 
-rights and obligations arising from auctions or assignments of Auction 
-Revenue Rights and Financial Transmission Rights after the effective date 
-of this Section 6A. 
+  1.1.2 Non-Firm Hudson Reservation:  A Non-Firm Hudson Reservation 
+allows a Hudson Transmission Customer to schedule energy on a non-firm, as available, basis 
+from the Hudson Point of Receipt to the Hudson Point of Delivery. 
  
+ 1.2 Hudson Transmission Customer:  An entity that (i) is an Eligible Customer (or 
+its Designated Agent) that meets the creditworthiness requirements of the Transmission Provider 
+set forth in Attachment Q to this Tariff and is in good-standing with respect to all payments 
+owed under the Tariff and Operating Agreement; (ii) executes a Hudson Service Agreement, the 
+form of which is attached as Exhibit A to this Schedule 17; and (iii) holds a Hudson Reservation.   
+ 
+ 1.3 Hudson Line:  The Hudson Line is a controllable, high voltage, direct current 
+Merchant Transmission Facility that runs between Public Service Electric and Gas Company 
+(“PSE&G”) Bergen Substation in Ridgefield, New Jersey to the Consolidated Edison’s 
+(“ConEd”) West 49th Street Substation in New York, New York, which was the subject of 
+Commission orders in FERC Docket No. ER11-3017 et al. regarding operation of the line as a 
+merchant transmission facility and as more particularly described in the Interconnection Service 
+Agreement among PJM Interconnection, L.L.C. and Hudson Transmission Partners, LLC and 
+PSE&G, which was accepted for filing by the Commission in FERC Docket No. ER10-1740-
+000. 
+ 
+ 1.4 Hudson Schedule:  The schedule for the transmission of capacity and energy on 
+the Hudson Line pursuant to the terms and conditions of service set forth in this Schedule 17.   
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 2 
+ 
+ 1.5 Hudson Service:  Transmission service provided pursuant to the terms and 
+conditions of service set forth in this Schedule 17. 
+ 
+ 1.6 Hudson Transmission Owner:  Hudson Transmission Partners, LLC, its agents, 
+successors or assigns.   
+ 
+ 1.7 Primary Rights Holder:  Entities that have been allocated rights to the use of the 
+transmission capability of the Hudson Line and assigned Firm and Non-Firm Transmission 
+Withdrawal Rights by the Hudson Transmission Owner in accordance with Section 2.1.  To the 
+extent any portion of the total transmission capability of the Hudson Line has not been assigned 
+pursuant to Section 2.1 the Hudson Transmission Owner shall be the Primary Rights Holder of 
+such capacity for purpose of this Schedule 17 until such capacity is allocated to another entity. 
+ 
+ 1.8 Point of Interconnection:  The Point of Interconnection is as defined in Section 
+11.1 of the Interconnection Service Agreement among PJM Interconnection, L.L.C. and Hudson 
+Transmission Partners, LLC and PSEG, which was accepted for filing by the Commission in 
+FERC Docket No. ER10-1740. 
+ 
+ 1.9 Hudson Service Agreement:  An initial agreement and any amendments or 
+supplements thereto entered into by a Hudson Transmission Customer and the Transmission 
+Provider for transmission service on the Hudson Line under this Schedule 17, the form of which 
+is included as Exhibit A to this Schedule 17. 
+ 
+ 1.10 Hudson Point of Receipt:  The point of receipt is the Point of Interconnection.   
+ 
+ 1.11 Hudson Point of Delivery:  The point of delivery is ConEd’s West 49 th Street 
+Substation in New York, New York, where the 345 kV AC cable portion of the Hudson Line 
+interconnects with ConEd’s electric system, which is the point for the interchange of capacity 
+and energy between PJM and NYISO. 
+ 
+2. Allocation of Available Transmission Capability on the Hudson Line 
+ 
+ 2.1 Commission Approved Allocation Process:  The Hudson Transmission Owner 
+shall allocate the total transmission capability on the Hudson Line pursuant to an allocation 
+process approved by the Commission under FERC Docket No. ER11-3017 et al., as such 
+allocation process may be amended by the Hudson Transmission Owner from time-to-time 
+subject to Commission approval provided that the results of such rights allocation process shall 
+be furnished to the Transmission Provider and posted on the OASIS.  The allocation of rights to 
+the Primary Rights Holder for the transmission capability of the Hudson Line shall include the 
+allocation of the Firm and Non-Firm Transmission Withdrawal Rights, as applicable, which have 
+been assigned to the Hudson Transmission Owner pursuant to Section 232 of this Tariff as well 
+as the award of Firm and Non-Firm Hudson Reservations.  The allocation of such rights shall be 
+in the MW quantity and for the period specified for allocation to parties pursuant to the Hudson 
+Transmission Owner’s Commission-approved allocation process and as submitted to the 
+Transmission Provider for posting on the OASIS.  In the event that there has been no allocation 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 3 
+of Firm and Non-Firm Transmission Withdrawal Rights to a Primary Rights Holder, the Hudson 
+Transmission Owner is the holder of such unallocated Firm and Non-Firm Transmission 
+Withdrawal Rights. 
+ 
+ 2.2 Charges for Allocation of Rights by Hudson Transmission Owner to Primary 
+Rights Holder:  The charges applicable to the allocation of rights to the Primary Rights Holder 
+pursuant to this section shall be determined pursuant to arrangements between the Hudson 
+Transmission Owner and the Primary Rights Holder in accordance with the process approved by 
+the Commission under FERC Docket No. ER11-3017 et al., as amended by the Hudson 
+Transmission Owner from time-to-time subject to Commission approval.  The charge for the 
+allocation of rights to the Primary Rights Holder shall be in accordance with the Commission’s 
+authorization for the Hudson Transmission Owner to charge negotiated rates (i.e., rates 
+established pursuant to market mechanisms as recognized for merchant transmission projects and 
+not included in Transmission Provider’s Tariff rates) for the use of transmission capability over 
+the Hudson Line.  Agreements between the Hudson Transmission Owner and a Primary Rights 
+Holder for the allocation of rights to a Primary Rights Holder shall be considered Service 
+Agreements under this Schedule 17 and shall be reported by the Hudson Transmission Owner to 
+the Commission through Electronic Quarterly Reports in accordance with Order No. 2001.  
+ 
+ 2.3 Transmission Withdrawal Rights Associated with the Hudson Line:  The 
+award of Transmission Withdrawal Rights to the Hudson Transmission Owner and any 
+subsequent transfer to the Primary Rights Holder shall be made pursuant to Section 232 of the 
+Tariff and any subsequent transfer to Primary Rights Holders shall be made in accordance with 
+Section 2.1 hereof.  The Transmission Withdrawal Rights solely allow for the withdrawal of 
+capacity and energy at the Point of Interconnection for the Hudson Line and do not provide any 
+priority with respect to the reservation, scheduling, curtailment or interruption of transmission 
+service over the Hudson Line pursuant to this Schedule. 
+ 
+ 2.4 Transfer of Transmission Withdrawal Rights:  Any resale, assignment, 
+conveyance or transfer of a Transmission Withdrawal Right shall be consistent with Section 
+232.6 of this Tariff and any terms and conditions agreed upon between the Hudson Transmission 
+Owner and the Primary Rights Holder. 
+ 
+3. Hudson Reservations 
+ 
+ 3.1 Effect of a Hudson Reservation:  A Hudson Reservation is a prerequisite to 
+scheduling capacity and/or energy on the Hudson Line.  A holder of a confirmed Hudson 
+Reservation may submit offers to schedule capacity and/or energy from the Transmission System 
+at the Point of Interconnection over the Hudson Line.   
+ 
+ 3.2 Recallability:  A Non-Firm Hudson Reservation released pursuant to Section 3.7 
+is recallable by a holder of a Firm Hudson Reservation that has retained the right of recall until 
+the deadline posted on the OASIS which shall be based on the time necessary for submittal of 
+energy bids to meet installed capacity obligations in the New York Control Area.  The 
+procedures and prerequisites for the exercise of recall rights are set forth in Section 4.2.2. 
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment 
-Effective Date: 7/14/2011 - Docket #: ER11-4040-000 - Page 1 
-7 Billing and Payment 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 4 
+ 3.3 Term of Service 
  
-PJMSettlement shall issue bills and billing statements pursuant to the provisions in this section 7 
-in its own name and as agent for Transmission Provider, as applicable.  Payment of bills pursuant 
-to this section 7 shall be made for the benefit of PJMSettlement and Trasnmission Provider, as applicable. 
+  3.3.1 Firm Hudson Reservation:  The minimum term of a Firm Hudson 
+Reservation shall be one day and the maximum term shall be equal to the term of agreement 
+allocating rights to the Primary Rights Holder, the capability of the Hudson Line pursuant to 
+Section 2.1 of this Schedule.  The terms and conditions applicable to Firm Point-to-Point 
+Transmission Service in Part II of the Tariff shall apply to any and all Firm Hudson 
+Reservations.  
+ 
+  3.3.2 Non-Firm Hudson Reservation:  Non-Firm Hudson Reservation will be 
+available for periods ranging from one hour to one month.  The terms and conditions of Non-
+Firm Point-to-Point Transmission Service in Part II of the Tariff shall apply to any and all Non-
+Firm Hudson Reservations.   
+ 
+  3.3.3 Limitations.  A Hudson Transmission Customer holding a Firm or Non-
+Firm Hudson Reservation may not submit a request for scheduling of capacity and energy over 
+the Hudson Line that exceeds the period or MW amount of its Hudson Reservation.     
+ 
+ 3.4 Acquisition of Hudson Reservations:  Firm and Non-Firm Hudson Reservations 
+are initially allocated to the Primary Rights Holder pursuant to Section 2.1.  Third parties may 
+purchase Firm or Non-Firm Hudson Reservations through:  (i) assignment pursuant to Section 
+3.5 of this Schedule or (ii) voluntary or default release through a secondary market operated 
+through the OASIS in accordance with Section 3.7 of this Schedule.  The holder of a Hudson 
+Reservation that sells or assigns its rights is hereafter referred to as the Reseller.  The entity 
+purchasing a Hudson Reservation through resale is hereafter referred to as the Buyer. 
+ 
+ 3.5 Assignment of a Hudson Reservation:  The holder of a Hudson Reservation 
+may separately assign its Hudson Reservation to third parties provided that notice of such 
+assignment is provided to the Transmission Provider with such information posted on the 
+OASIS.  Subject to Commission approval of any necessary filings, a holder of a Hudson 
+Reservation may sell, assign, or transfer all or a portion of its rights, but only to another Eligible 
+Customer (the Buyer).  The holder of a Hudson Reservation that sells, assigns, or transfers its 
+rights is hereafter referred to as the Reseller.  Where the Reseller is assigning a Firm Hudson 
+Reservation, such assignment shall include the right of recall that can be exercised by the 
+Assignee  pursuant to Section 4.2.2 of this Schedule 17.The compensation to the Reseller shall 
+be at rates established by agreement with the Buyer.  A Reseller should notify the Transmission 
+Provider as soon as possible after any assignment occurs but in any event, notification must be 
+provided prior to any submission of offers to schedule capacity and energy pursuant to such 
+Hudson Reservation by the Buyer.  The Buyer will be subject to all terms and conditions of the 
+Tariff. 
+ 
+ 3.6 Limitations on Assignment or Transfer of Hudson Reservations:  If the Buyer 
+requests a change in the specifications set forth in the original Hudson Service Agreement, the 
+Transmission Provider will consent to such change subject to the provisions of the Tariff, 
+provided that the change is done before the start of service, does not exceed the rights granted in 
+the Reseller’s original Hudson Reservation and will not impair the operation and reliability of the 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.1 Billing Procedure 
-Effective Date: 6/1/2023 - Docket #: ER23-1431-000 - Page 1 
-7.1 Billing Procedure: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 5 
+Hudson Line, the Transmission Provider’s Transmission System or a Transmission Owner’s 
+generation, transmission, or distribution systems.  The Reseller shall remain liable for the 
+performance of all obligations under the Hudson Service Agreement, except as specifically 
+agreed to by the Reseller, the Buyer and the Transmission Provider through an amendment to the 
+Hudson Service Agreement.   
  
-(a) Monthly Bills. 
+ 3.7 Release of Hudson Reservation:  In addition to a bilateral assignment of a 
+Hudson Reservation pursuant to Section 3.5, Hudson Reservations may be resold as Available 
+Transmission Capacity (ATC) for acquisition as Hudson Service by third parties using the 
+OASIS.  Such a resale of transmission service is subject to the requirements in the PJM Manuals, 
+NERC and NAESB Standards. 
  
-By the fifth Business Day of each month, PJMSettlement, in its own name and as agent 
-for Transmission Provider, as applicable,  shall issue a bill to Transmission Customers 
-and other entities for monthly activity and detailing the charges and credits for all 
-services furnished under the Tariff during the preceding month (“billing month”), 
-excluding amounts billed pursuant to weekly bills for activity during the preceding 
-month. 
+  3.7.1. Voluntary Releases:  A holder of a Hudson Reservation may offer all or 
+any portion of its Hudson Reservation for voluntarily release for acquisition by third parties on a 
+first-come, first-served basis.  A holder of a Hudson Reservation shall post on OASIS the 
+voluntary release of any Firm Hudson Reservation including the rate to be charged service no 
+later than noon on the day before the Operating Day. 
  
-(b) Weekly Bills. 
+A Hudson Reservation that has posted for voluntary release under this subsection shall be 
+excluded from the default release procedures set forth in subsection 3.7.2.  
  
-By 5:00 p.m. Eastern Prevailing Time each Tuesday (or Wednesday in the event that a 
-Tuesday is a holiday), PJMSettlement, in its own name and as agent for Transmission 
-Provider, as applicable,  will issue a weekly bill to Members and other entities for all 
-activity for certain services furnished under the Tariff for the days of the billing month 
-during the week ending the prior Wednesday.  The services for which such weekly bills 
-shall be issued are set forth in PJM Manual 29.   
+  3.7.2 Default Releases:  In the event that a holder of a Hudson Reservation fails 
+to either:  (i) submit a request to schedule energy up to the full MW value of its Hudson 
+Reservation by noon (12:00 p.m.) one calendar day prior to the Operating Day or (ii) offer its 
+Hudson Reservation for voluntarily release pursuant to subsection 3.7.1, then, the difference 
+between the Total Transfer Capability over the Hudson Line in each scheduling hour of the 
+Operating Day and the sum of the valid requests for Hudson Schedules and MW amount of 
+Hudson Reservations voluntarily released on OASIS for such scheduling hour, shall be deemed 
+released by the Hudson Transmission Owner (as Reseller) and shall be posted on the OASIS by 
+the Transmission Provider as Non-Firm ATC for acquisition by third parties on a first-come, first 
+served basis.  
  
-(c) Billing Statement. 
+  3.7.3 Release Rate:  The holder of a Hudson Reservation seeking to voluntarily 
+release all or any portion of its Hudson Reservation shall provide to the Transmission Provider 
+the rate to be posted on OASIS and charged for such releases.  The Hudson Transmission Owner 
+may provide the Transmission Provider a rate to be posted on OASIS and charged for default 
+releases pursuant to Section 3.7.2.  In the event that the Hudson Transmission Owner does not 
+separately provide to the Transmission Provider a rate for default releases, such default releases 
+shall be charged the lowest rate posted on OASIS for voluntary release of Hudson Reservations 
+in the applicable hour.    
  
-PJMSettlement, in its own name and as agent for Transmission Provider, as applicable,  
-shall provide Transmission Customers and other entities with billing statements at the 
-time of issuance of the monthly and weekly bills, reflecting, in the form and manner set 
-forth in PJM Manuals, the Transmission Customer’s or other entity’s activity during the 
-billing month and amounts due, net of activity previously billed.   
- 
-(d)   Market Suspensions:  
- 
-For a Market Suspension that is less than or equal to 24 consecutive hours and where 
-Day-ahead Prices and all data necessary to calculate the services is available in advance 
-of the time needed for processing the bill, the timelines listed in subsections (a) and (b) 
-shall apply.  For all other Market Suspensions, billing activity as defined in subsection (b) 
-will be included in a weekly bill that is issued at least five business days from the date on 
-which PJM Settlement receives all data necessary to calculate the services included in the 
-weekly bill for such Market Suspension. If there are no remaining weekly bills for the 
-billing month associated with such Market Suspension, the billing activity as defined in 
-subsection (b) will be billed in the next monthly bill that is issued at least five business 
-days from the date on which PJM Settlement receives all data necessary to calculate the 
-services. All other billing services for such Market Suspension will be billed within three 
-calendar months after the calendar month that included such Market Suspension. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.1A Payments 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
-7.1A Payments: 
- 
-(a) Monthly Bills. 
- 
-Net amounts due to PJMSettlement, in its own name or as agent for Transmission 
-Provider, as applicable, pursuant to a monthly bill shall be due and payable by the 
-Transmission Customer or other entity no later than noon Eastern Prevailing Time on the 
-due date of the first weekly bill issued for activity in the month that the monthly bill is 
-issued.  It is possible, due to the timing of holidays, that the billing and payment cycle for 
-monthly bills stated here would call for payment of a monthly bill on a Friday that occurs 
-less than three Business Days after issuance of the bill by PJM.  Where this occurs, the 
-payment period of the monthly bill will be extended such that payment will be due when 
-payment for the second weekly bill is due. 
- 
-(b) Weekly Bills. 
- 
-Net amounts due to PJMSettlement, in its own name or as agent for Transmission 
-Provider, as applicable, pursuant to a weekly bill shall be due and payable by the 
-Transmission Customer or other entity no later than noon Eastern Prevailing Time on the 
-third Business Day following the issuance of the weekly bill.  Weekly bills issued after 
-5:00 p.m. Eastern Prevailing Time shall be considered to be issued the following 
-Business Day 
- 
-(i)  Municipal Electric Systems. 
- 
-Recognizing that municipal electric systems may, at times, face unique 
-circumstances that could temporarily prevent their ability to make payments on a 
-weekly bill issued pursuant to section 7.1(b) above when due, the Transmission 
-Provider may allow a municipal electric system to make arrangement with PJM 
-whereby PJM would extend trade credit to the municipal electric system sufficient 
-to enable it to make payment on a weekly bill  provided that the following 
-conditions are met: 
- 
-(a) the Transmission Provider determines, in its sole discretion, that it has 
-sufficient excess working capital available to complete financial settlement with 
-other market participants; 
- 
-(b) the municipal electric system reimburses PJM for the actual cost of such 
-working capital; 
- 
-(c) the municipal electric system provides PJM with a binding representation that 
-it has all legal right and authority to enter into the arrangement with PJM; 
- 
-(d) PJMSettlement will continue to issue weekly bills to the municipal electric 
-system in accordance with section 7.1(b) above and the municipal electric system 
-will make payment as due under the weekly bills using the proceeds it obtains 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.1A Payments 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
-under its arrangement with PJM.  Reimbursement of these amounts, including 
-PJM’s actual costs of working capital, shall be due from the municipal electric 
-system at the time payment is due for the invoice issued under section 7.1A(a) 
-above; 
- 
-(e) the aggregate of all financed amounts and accrued obligations shall not exceed 
-the Working Credit Limit available to the municipal electric system; 
- 
-(f) the municipal electric system provides the Transmission Provider with at least 
-one week of notice (though PJM may waive this provision), and; 
- 
-(g) the accumulated duration of such postponed payments shall not exceed three 
-months in a rolling twelve-month period. 
- 
-PJM may terminate this payment option at any time it determines its excess working capital is no 
-longer sufficient to allow further or continued extension financing.  In such cases, PJM shall 
-attempt to give five Business Days, but not less than three Business Days notice to the affected 
-municipal electric system, and may call for immediate reimbursement of any outstanding 
-amounts owed by the municipal electric system.   
- 
-(c) Form of Payments. 
- 
-All payments tendered in satisfaction of a Transmission Customer’s or other entity’s 
-obligations to PJMSettlement or Transmission Provider shall be in the form of 
-immediately available funds payable to PJMSettlement, or by wire transfer to a bank 
-named by PJMSettlement.   
- 
-(d) Payments by PJMSettlement. 
- 
-Unless delayed by unforeseen events, payments made by PJMSettlement, in its own name 
-or as agent for Transmission Provider, for amounts due to Transmission Customers and 
-other entities shall be paid no later than 5:00 p.m. Eastern Prevailing Time on the 
-Business Day following the payment due date for net amounts owed to PJMSettlement, in 
-its own name or as agent for the Transmission Provider, as specified above.   
- 
-(e) Payment Calendar. 
- 
-A comprehensive billing and settlement calendar will be posted on Transmission 
-Provider’s website prior to March 31 for the upcoming June – May annual period to 
-communicate the schedule of holidays for settlement and billing purposes. 
- 
-(f) Late Payments. 
- 
-In the event that a Transmission Customer, or other entity, is delinquent in paying the 
-amount set forth in its weekly or monthly bill two or more times within any rolling 
-twelve (12) month period, PJMSettlement, in its own name or as agent for Transmission 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.1A Payments 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 3 
-Provider, may assess, in addition to the interest on each late payment as provided for in 
-Tariff, Part I, section 7.2, a late payment charge for a second and any subsequent failure 
-to pay on time during such twelve (12) month period (a “Late Payment Charge”).  The 
-applicable Late Payment Charge will be assessed in an amount equal to the greater of:  (i) 
-two percent (2%) of the total amount set forth in the monthly or weekly bill that the 
-Transmission Customer or other entity has been late in paying, or (ii) $1,000; up to a 
-maximum of $100,000 per late bill payment.  For the sole purpose of application of this 
-section 7.1A(f), weekly and monthly bills that are due on the same date shall be 
-considered to be one bill; moreover, the term “on time” shall mean payment received on 
-the date due; and “delinquent” shall mean any payment received on a day subsequent to 
-the date due. 
- 
-Late Payment Charges that are collected pursuant to this section 7.1A(f) shall be credited 
-to PJMSettlement administrative costs and will be included in any applicable stated rate 
-refund calculations as contemplated under Tariff, Schedule 9. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.2 Interest on Unpaid Balances 
-Effective Date: 7/14/2011 - Docket #: ER11-4040-000 - Page 1 
-7.2 Interest on Unpaid Balances: 
- 
-Interest on any unpaid amounts shall be calculated in accordance with the methodology specified 
-for interest on refunds in the Commission’s regulations at 18 C.F.R. § 35.19a(a)(2)(iii).  Interest 
-on delinquent amounts shall be calculated from the due date of the bill to the date of payment.  
-When payments are made by mail, bills shall be considered as having been paid on the date of 
-receipt by PJMSettlement. 
+  3.7.4 Character of Service Released:  Releases of Hudson Reservations made 
+pursuant to the default release provisions in subsection 3.7.2 do not include the right of recall 
+under Section 3.2 and shall be hourly Non-Firm Hudson Reservations. 
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 7 Billing 
-and Payment --> OATT 7.3 Customer Default 
-Effective Date: 12/21/2021 - Docket #: ER22-172-000 - Page 1 
-7.3 Customer Default: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 6 
+  3.7.5  Requirements for Acquisition of Hudson Reservations through 
+Release or Assignment:  An Eligible Customer shall be eligible to acquire and hold a Hudson 
+Reservation through an assignment of a Hudson Reservation pursuant to Section 3.5 or release of 
+a Hudson Reservation over OASIS pursuant to Section 3.7 if such entity:  (i) has executed a 
+Hudson Service Agreement, the form of which is attached as Exhibit A to this Schedule 17; (ii) 
+meets the creditworthiness requirements of the Transmission Provider set forth in Attachment Q 
+to this Tariff; and (iii) is in good-standing with respect to all payments owed under the Tariff and 
+Operating Agreement. 
  
-In the event the Transmission Customer or other entity (a) fails, for any reason, to make payment 
-to PJMSettlement, for the benefit of PJMSettlement or the Transmission Provider, on or before 
-the due date as described above, or (b) fails at any time to meet the Transmission Provider’s 
-creditworthiness requirements, and such failure is not corrected within the applicable cure period 
-described in Operating Agreement, section 15.1.5, a default by the Transmission Customer or 
-other entity shall be deemed to exist.  Upon the occurrence of a default, the Transmission 
-Provider may initiate a proceeding with the Commission to terminate service but shall not 
-terminate service until the Commission so approves any such request; provided however, that (i) 
-in the event that a state required retail access program provides for continuation of retail service 
-to affected end-use customers by another supplier that is a Transmission Customer, then the 
-Transmission Provider may, upon default by a Transmission Customer, immediately terminate 
-Transmission Service to the defaulting Transmission Customer for the load of such end-use 
-customers, and (ii) in the event that a Transmission Customer is taking service under Part II to 
-serve load outside of the PJM Region, then the Transmission Provider may, upon default by a 
-Transmission Customer, immediately terminate Transmission Service to the defaulting 
-Transmission Customer.  Billing disputes between the Transmission Provider and the 
-Transmission Customer or other entity shall be addressed through the Transmission Provider’s 
-dispute resolution procedures, and shall not relieve the Transmission Customer or other entity of 
-the obligation to make payment of all amounts due hereunder. 
+  3.7.6  Resale Rate:  The Reseller of a Hudson Reservation shall post the rate on 
+OASIS and will be credited for completed re-sales of its service.  The Reseller of a Hudson 
+Reservation and the resale Buyer shall be credited/charged the rate as agreed and posted on the 
+OASIS for the Hudson Reservations resold. 
  
-If the Transmission Customer fails to meet these requirements for continuation of service, then 
-the Transmission Provider may provide notice to the Transmission Customer of its intention to 
-suspend service in sixty (60) days, in accordance with Commission policy, or, in the case of a 
-state required retail access program that provides for continuation of retail service to affected 
-end-use customers by another supplier that is a Transmission Customer, immediately terminate 
-Transmission Service as provided above. 
+ 
+ 3.8 Billing and Payment for Hudson Reservations: 
+ 
+  3.8.1 Hudson Reservations Allocated to Primary Rights Holders Pursuant 
+to Section 2.1:  The billing and payment of rates or charges applicable to the allocation of Firm 
+or Non-Firm Hudson Reservations to the Primary Rights Holder pursuant to section 2.1 shall be 
+determined pursuant to arrangements between the Hudson Transmission Owner and the Primary 
+Rights Holder and not under this Tariff. 
+ 
+  3.8.2 Hudson Reservations Acquired Through Bilateral Assignment 
+Pursuant to Section 3.5:  The billing and payment of rates or charges applicable to a bilateral 
+assignment of Firm or Non-Firm Hudson Reservations shall be determined pursuant to the 
+arrangements between the Reseller and Buyer.   
+ 
+  3.8.3 Hudson Reservations Acquired Through Voluntary Releases on 
+OASIS Pursuant to Section 3.7.1:  An entity acquiring a Hudson Reservation through a 
+voluntary a resale over the OASIS pursuant to subsection 3.7.1 shall be billed the applicable rate 
+which is posted on OASIS pursuant to subsection 3.7.3. The Transmission Provider will 
+credit/bill both parties according to the applicable rate and the transaction shall be settled through 
+Transmission Provider’s settlements.  The Hudson Transmission Customer shall pay the 
+applicable rate for the MW amount of the Hudson Reservation for each hour regardless of 
+whether such holder submits a schedule for transmission service over the Hudson Line in such 
+hour. 
+ 
+  3.8.4 Hudson Reservations Acquired Through Default Releases on OASIS 
+Pursuant to Section 3.7.2:  The Transmission Provider shall bill an entity acquiring a Hudson 
+Reservation through a default resale the applicable rate which is posted on OASIS pursuant to 
+subsection 3.7.3.  Any revenues received from the acquisition of Hudson Reservations subject to 
+default release provisions shall be paid by the Transmission Provider to the Hudson 
+Transmission Owner.  A Hudson Transmission Customer shall pay the applicable rates for the 
+MW amount of the Hudson Reservation for each hour regardless of whether such holder(s) 
+submitted a schedule for transmission service over the Hudson Line in such hour. 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 8 
-Accounting for a Transmission Owner’s Use of the Tari 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-8 Accounting for a Transmission Owner’s Use of the Tariff  
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 7 
  
-Each Transmission Owner shall record the following amounts, as outlined below. 
+4. Hudson Schedules 
  
+ 4.1 Nature of Transmission Service over the Hudson Line:  Hudson Schedules 
+shall be requested in accordance with NERC and NAESB Standards, including requirements 
+relating to E-Tagging and Transmission Loading Relief procedures.  An entity seeking to 
+schedule use of the Hudson Line must hold a Hudson Reservation for no less than the amount of 
+MWs of service being requested.  Deadlines for scheduling the use of the Hudson Line shall 
+adhere to the Transmission Provider’s deadlines for scheduling as provided by the Transmission 
+Provider’s manuals and consistent with the deadlines for scheduling Point to Point Transmission 
+Services as described in Part II of the Tariff.  
  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 8 
-Accounting for a Transmission Owner’s Use of the Tari --> OATT 8.1 Transmission Revenues: 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
-8.1 Transmission Revenues: 
+ 4.2 Submission of Scheduling Requests, Award of Reservations, Curtailment and 
+Interruption of Hudson Schedule: 
  
-Include in a separate operating revenue account or subaccount the revenues it receives from 
-Transmission Service when making Third-Party Sales under Tariff, Part II. 
+  4.2.1 Submission of Scheduling Requests:  A Hudson Transmission Customer 
+holding a Hudson Reservation has the right to submit requests for Firm Hudson Schedules or 
+Non-Firm Hudson Schedules commensurate to the Hudson Reservations held by that entity.  
  
+  4.2.2 Exercise of Recall Rights:  An Eligible Customer holding a Firm Hudson 
+Reservation, that retains the right of recall, may exercise such recall rights by providing notice, 
+until the deadline posted on the OASIS which shall be based on the time necessary for submittal 
+of energy bids to meet any installed capacity obligations in the New York Control Area, to the 
+Transmission Provider that it wishes to exercise its right of recall.  The exercise of a recall right 
+pursuant to notice to the Transmission Provider shall immediately act to recall the Hudson 
+Reservation previously released by the Eligible Customer and acquired by a third party under the 
+assignment provisions set forth in Section 3.5 or the release procedures set forth in Section 3.7.   
  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 8 
-Accounting for a Transmission Owner’s Use of the Tari --> OATT 8.2 Study Costs and Revenues: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-8.2 Study Costs and Revenues: 
- 
-Include in a separate transmission operating expense account or subaccount, costs properly 
-chargeable to expense that are  incurred to perform any System Impact Studies or Facilities 
-Studies which the Transmission Owner conducts to determine if it must construct new 
-transmission facilities or upgrades necessary for its own uses, including making Third-Party 
-Sales under the Tariff; and include in a separate operating revenue account or subaccount the 
-revenues received for System Impact Studies or Facilities Studies performed when such amounts 
-are separately stated and identified in the Transmission Customer’s billing under the Tariff. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 8 
-Accounting for a Transmission Owner’s Use of the Tari --> OATT 8.3 Generation Interconnection Costs: 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
-8.3 Generation Interconnection Costs: 
- 
-Include in a separate transmission account or subaccount, costs of Attachment Facilities, Local 
-Upgrades, and Network Upgrades that are incurred by the Transmission Owner with respect to 
-its own Interconnection Requests under Tariff, Part IV that are directly assigned to the 
-Transmission Owner to accommodate its Interconnection Requests in accordance with Operating 
-Agreement, Schedule 6A. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-9 Regulatory Filings 
- 
-Nothing contained in the Tariff, any Service Agreement or any Network Operating Agreement 
-shall be construed as affecting in any way the right of the Transmission Provider, or any 
-Transmission Owner with respect to a change in its revenue requirement, to unilaterally make 
-application to the Commission for a change in rates, terms and conditions, charges, classification 
-of service, Service Agreement, Network Operating Agreement, rule or regulation under Section 
-205 of the Federal Power Act and pursuant to the Commission’s rules and regulations 
-promulgated thereunder. 
- 
-Nothing contained in the Tariff, any Service Agreement or any Network Operating Agreement 
-shall be construed as affecting in any way the ability of any Party receiving service under the 
-Tariff to exercise its rights under the Federal Power Act and pursuant to the Commission’s rules 
-and regulations promulgated thereunder. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.1 Rights of the Transmission Owners 
-Effective Date: 11/19/2011 - Docket #: ER18-1905-001 - Page 1 
-9.1 Rights of the Transmission Owners: 
- 
-(a) The Transmission Owners shall have the exclusive and unilateral rights to file pursuant to 
-Section 205 of the Federal Power Act and the FERC’s rules and regulations thereunder for any 
-changes in or relating to the establishment and recovery of the Transmission Owners’ 
-transmission revenue requirements or the transmission rate design under the PJM Tariff, and 
-such filing rights shall also encompass any provisions of the PJM Tariff governing the recovery 
-of transmission-related costs incurred by the Transmission Owners.  Nothing herein is intended 
-to limit or change the right of individual Transmission Owners under Section 2.2.1 of the PJM 
-Tariff to make their own Section 205 filings to change the transmission revenue requirement 
-within their own zones, including the right of individual Transmission Owners to file for zonal 
-transmission revenue requirements based on incentive or performance factors. The Transmission 
-Owners may only file under Section 205 to change the transmission rate design for the PJM 
-Region pursuant to a filing approved in accordance with Section 8.5.1 of the Consolidated 
-Transmission Owners Agreement.   
- 
-(b) If the Transmission Owners agree upon a change in accordance with Section 9.1(a), the 
-Transmission Owners shall make such filing jointly pursuant to Section 205 of the Federal Power 
-Act. For purposes of administrative convenience, at the request of the Transmission Owners, the 
-Office of Interconnection may, but shall not be required to, make the Section 205 filing with the 
-FERC on behalf of the Transmission Owners; provided that any such filing by the Office of 
-Interconnection shall be deemed for all purposes under the Federal Power Act to be a filing of 
-the Transmission Owners.  The Transmission Owners shall consult with PJM and the PJM 
-Members Committee beginning no less than thirty (30) days prior to any Section 205 filing 
-hereunder, but neither PJM (except as provided for in Section 9.3) nor the PJM Members 
-Committee shall have any rights to veto or delay the Transmission Owners’ Section 205 filing 
-hereunder; provided that the Transmission Owners may file with less than a full 30 day advance 
-consultation in circumstances where imminent harm to system reliability or imminent severe 
-economic harm to electric consumers requires a prompt Section 205 filing; provided further that 
-the Transmission Owners shall provide as much advance notice and consultation with PJM and 
-the PJM Members Committee as is practicable in such circumstances and no such filing shall be 
-made with less than 24 hours’ advance notice.    
- 
-(c) Nothing herein is intended to limit the rights of the Transmission Owners, PJM or any 
-other person to oppose such a Section 205 filing pursuant to Section 206 or any other applicable 
-provision of the Federal Power Act. 
- 
-(d) In accordance with Section 9.1(a), the following provisions of the PJM Tariff and any 
-successors thereto shall be within the Transmission Owners’ exclusive and unilateral rights to 
-make Section 205 filings: Section 34; Schedule 1A; Schedule 7 (except as to transmission 
-congestion charges under Attachment K to the PJM Tariff or any successor thereto); Schedule 8 
-(except as to transmission congestion charges under Attachment K to the PJM Tariff or any 
-successor thereto); Schedule 11; Schedule 12; Attachment H-A; Attachment J; and Attachment 
-R, provided, however, that if a filing pursuant to Section 205 is required to effect a change in any 
-of the foregoing provisions of the PJM Tariff solely by reason of a filing by an individual 
-Transmission Owner pursuant to Section 9.1(e), PJM may make such filing if, (i) five business 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.1 Rights of the Transmission Owners 
-Effective Date: 11/19/2011 - Docket #: ER18-1905-001 - Page 2 
-days prior to making such filing, PJM provides the Transmission Owners with each proposed 
-change including an explanation thereof and (ii) no Transmission Owner notifies PJM that it 
-objects to PJM making such filing. 
- 
-(e) In accordance with Section 9.1(a), the following provisions of the PJM Tariff and any 
-successors thereto shall be within the exclusive and unilateral rights to make Section 205 filings 
-of the individual Transmission Owner to which the provisions apply:  (i) Attachment H (other 
-than Attachment H-A) (except as to transmission congestion charges under Attachment K to the 
-PJM Tariff or any successor thereto); (ii) Attachment M-1 (First Energy); (iii) Attachment M-2 
-(First Energy); (iv) Procedures for Load Determination (PSE&G); (v) Procedures for 
-Determination of Peak Load Contributions and Hourly Load Obligations for Retail Customers 
-(Atlantic City); and (vi) Procedures for Determination of Peak Load Contributions and Hourly 
-Load Obligations for Retail Customers (Delmarva). 
- 
-(f) The listing of provisions in Sections (d) and (e) above is not exclusive, and the failure to 
-specify a provision of the PJM Tariff in Section 9.1(d) or (e) shall not be deemed to be an 
-admission or agreement by the Transmission Owners that such provision or any change thereto 
-does not relate to the establishment and recovery of the Transmission Owners’ transmission 
-revenue requirements or the transmission rate design under the PJM Tariff, or encompass any 
-provisions of the PJM Tariff governing the recovery of transmission-related costs incurred by the 
-Transmission Owners. The Transmission Owners reserve their rights to assert that other 
-provisions of the PJM OATT should be included within their Section 205 rights, and PJM 
-reserves its rights to contest such assertions. 
- 
-(g) The Transmission Owners’ Section 205 rights shall include the unilateral right to file for 
-incentive and performance based rates that affect or relate to the establishment or recovery of 
-transmission revenue requirements, transmission rate design, or any performance or incentive 
-based rates in which the incentives to the Transmission Owners may be measured by savings or 
-efficiencies  in the power or ancillary services markets resulting from the construction, operation 
-or maintenance of transmission facilities.  Nothing in this Tariff is intended to limit PJM’s right 
-to make Section 205 filings to establish incentive or performance based rates applicable to 
-market participants, provided that PJM must obtain the prior approval of the Transmission 
-Owners (pursuant to Section 8.5.1 of the Consolidated Transmission Owners Agreement) for any 
-portion of such a filing that reasonably could be expected to affect the establishment and 
-recovery of the Transmission Owners’ transmission revenue requirements, transmission rate 
-design or recovery of transmission-related costs by the Transmission Owners. 
- 
-(h) Nothing contained in the Tariff, any Service Agreement or any Network Operating 
-Agreement shall be construed as affecting in any way the exclusive and unilateral right of the 
-Transmission Owners to make application to the Federal Energy Regulatory Commission for any 
-change in accordance with this Section 9.1 under Section 205 of the Federal Power Act and 
-pursuant to the Commission’s Rules and Regulations promulgated thereunder.   
+ 4.3 Scheduling of Capacity and Energy over the Hudson Line:  The Transmission 
+Provider shall evaluate all requests to schedule capacity and energy for withdrawal from the 
+Transmission System at the Point of Interconnection based on economic merit order.  In the 
+event of a tie within economic merit, a scheduling request made pursuant to a Firm Hudson 
+Reservation shall have priority over a scheduling request made pursuant to a Non-Firm Hudson 
+Reservation.  In the case of an economic merit order tie between two or more scheduling 
+requests using a Firm Hudson Reservation, the award of the scheduling reservation shall be on a 
+pro rata  basis.  In the case of an economic merit order tie between two or more scheduling 
+requests based on Non-Firm Hudson Reservations, the reservation classification of the Non-Firm 
+Hudson Reservation (Monthly, Weekly, Daily or Hourly) shall then be used as the tiebreaker, 
+with the longer term of Non-Firm Hudson Reservation receiving priority.  In the case of a further 
+tie within the sub-category of Non-Firm Hudson Reservations (Monthly, Weekly, Daily or 
+Hourly), the timestamp order of the submission of requests to schedule service over the Hudson 
+Line shall be used as a tie-breaker.  A holder of Hudson Reservations is limited in its total 
+capacity and energy schedule for its Hudson Schedule to the higher of either its Firm or Non-
+Firm Hudson Reservations.  
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.2 Rights of the Transmission Provider: 
-Effective Date: 9/17/2010 - Docket #: ER18-1905-001 - Page 1 
-9.2   Rights of the Transmission Provider: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 8 
+ 4.4 Limitations on Scheduling Amount:  The Hudson Line has a minimum total 
+scheduling requirement of 60 MW at the Hudson Point of Delivery.  In the event that the total 
+MW of schedules determined to be in economic merit by the Transmission Provider is less than 
+60 MW at the Hudson Point of Delivery, all schedules shall be rejected.  The Hudson Line has a 
+maximum continuous scheduling capability of the lower of the Total Transfer Capability 
+(“TTC”) set by the Transmission Provider or 660 MW at the Hudson Point of Delivery.  In the 
+event that the total MW of schedules determined to be in economic merit by the Transmission 
+Provider is greater than the lower of the TTC or 660 MW at the Hudson Point of Delivery, all 
+schedules above the maximum capability shall be rejected.  
  
-(a) PJM shall have the exclusive and unilateral right to file pursuant to Section 205 of the 
-Federal Power Act and the FERC’s rules and regulations thereunder to make changes in or 
-relating to the terms and conditions of the PJM Tariff (including but not limited to provisions 
-relating to creditworthiness, billing, and defaults) as well as all charges for recovery of PJM 
-costs.  PJM shall not have any Section 205 filing rights with respect to the subject matters 
-described in the first sentence of Section 9.1(a) of this Tariff.  PJM shall not have any Section 
-205 filing rights with respect to the provisions of the PJM Tariff listed in Section 9.1(d) and (e).  
-Notwithstanding the foregoing, PJM shall have Section 205 filing rights to make changes in the 
-PJM Tariff in order to address the Behind The Meter Generation netting rules in accordance with 
-the settlement in FERC Docket No EL05-127-000 approved by the FERC on December 16, 
-2005, 113 FERC ¶ 61,279. 
+ 4.5 Curtailment or Interruption of Hudson Schedules:  In the event that a 
+Curtailment or interruption of Hudson Schedules is required to maintain reliable operation of the 
+Hudson Line and the systems directly and indirectly interconnected with the Hudson Line, any 
+such Curtailment or interruption implemented by the Transmission Provider shall be based upon 
+the priority of the associated Hudson Reservations.  For curtailment or interruptions of Hudson 
+Schedules based on Firm Hudson Reservations will be performed on a pro rata basis.  
+Curtailment or interruptions of Hudson Schedules based on Non-Firm Hudson Reservations shall 
+first be based on the Non-Firm Hudson Reservation classification (i.e., Monthly, Weekly, Daily, 
+Hourly) with the longer term of Non-Firm Hudson Reservation receiving priority.  In the case of 
+a tie within the Non-Firm Hudson Reservation classifications, the time stamp order of the 
+submission of valid bids/offers to schedule service over the Hudson Line shall be used as a 
+tiebreaker.  The Transmission Provider shall provide advance notice of any Curtailment or 
+interruption of Hudson Schedules to all affected Hudson Transmission Customers where such 
+notice can be provided consistent with Good Utility Practice.  The Transmission Provider shall 
+curtail Hudson Schedules over the Hudson Line as required by NERC Standards.  The 
+Transmission Provider shall curtail Hudson Schedules over the Hudson Line for reliability of the 
+Transmission System pursuant to the separately reserved Transmission Service over the 
+Transmission System pursuant to Part II or Part III of the Tariff to the Hudson Line and the PJM 
+Manuals. 
  
-(b) PJM shall consult with the Transmission Owners and the PJM Members Committee 
-beginning no less than seven (7) days in advance of any Section 205 filing under Section 9.2(a), 
-but neither the Transmission Owners, except as provided for in Section 9.3, nor the PJM 
-Members Committee shall have any right to veto or delay any such Section 205 filing.  PJM may 
-file with less than a full 7 day advance consultation in circumstances where imminent harm to 
-system reliability or imminent severe economic harm to electric consumers requires a prompt 
-Section 205 filing; provided that PJM shall provide as much advance notice and consultation 
-with the Transmission Owners and the PJM Members Committee as is practicable in such 
-circumstances, and no such emergency filing shall be made with less than 24 hours advance 
-notice.  
+ 4.6 Separate Reservation for Network Integration Transmission Service or 
+Point-to-Point Transmission Service over the Transmission System:  Prior to the 
+commencement of a Hudson Schedule under this Schedule 17, the Hudson Transmission 
+Customer must separately reserve Transmission Service over the Transmission System pursuant 
+Part II or Part III of the Tariff for delivery of energy, capacity or ancillary services over the 
+Transmission System to the Point of Receipt of the Hudson Line for at least the same time period 
+as the Hudson Schedule provided under this Schedule 17.  Reserving such Transmission Service 
+to the Hudson Line is a required precondition to acquiring a Hudson Schedule.  The Hudson 
+Transmission Customer is responsible for all charges associated with Transmission Service for 
+delivery of capacity and energy to the Point of Receipt of the Hudson Line.   
  
-(c) Nothing herein is intended to limit the rights of any Party or other person to oppose such 
-a Section 205 filing pursuant to Section 206 or any other applicable provision of the Federal 
-Power Act or to limit the right of any Party or other person to make filings under Section 206 of 
-the Federal Power Act. 
+5. Liability 
  
-(d) To the extent that PJM desires to add a provision to this Tariff, or to change an existing 
-provision hereof, in accordance with its rights under Section 9.2(a), the Transmission Owners 
-shall have unilateral and exclusive rights to make Section 205 filings with respect to any matters 
-covered by such new or changed provisions relating to the establishment and recovery of the 
-Transmission Owners’ transmission revenue requirements, transmission rate design under the 
-PJM Tariff, or any provisions governing the recovery of transmission-related costs incurred by 
-the Transmission Owners.  Prior to making any Section 205 filing covered by Section 9.2(a) that 
-also relates to or affects the establishment and recovery of the Transmission Owners’ 
-transmission revenue requirements, the transmission rate design under the PJM Tariff,  or any 
-provisions governing the recovery of transmission-related costs incurred by the Transmission 
-Owners, PJM shall provide no less than 45 days notice to the Transmission Owners of the 
-intended filing in sufficient detail to provide them a reasonable opportunity to include 
-appropriate provisions in the PJM Tariff governing these subjects, either through a Section 205 
-filing by the Transmission Owners pursuant to Section 9.1(a) or approval by the Transmission 
-Owners of the PJM proposal pursuant to Section 8.5.1 of the Consolidated Transmission Owners 
-Agreement.  
+The Transmission Provider and any holder of a Hudson Reservation which releases or resells its 
+Hudson Reservation through the voluntary or default release procedures set forth in Section 3.7 
+of this Schedule 17 shall be held harmless with regard to any claim which may be raised by any 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.2 Rights of the Transmission Provider: 
-Effective Date: 9/17/2010 - Docket #: ER18-1905-001 - Page 2 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 9 
+party regarding the award of the released Hudson Reservation, except to the extent that such 
+party successfully establishes that the releasing party has incorrectly selected the party acquiring 
+such released Hudson Reservation as the result of gross negligence or willful misconduct.  The 
+liability of the Transmission Provider shall be limited by the terms and conditions of Section 10 
+of the Tariff and the provisions of the  Operating Agreement. 
  
-(e) PJM shall be required to maintain in effect at all times provisions relating to the 
-creditworthiness of all customers under this Tariff that are designed to provide reasonable 
-assurances to the Transmission Owners, consistent with FERC orders and policies applicable to 
-open access transmission services, that such customers will be able to pay for transmission 
-services purchased hereunder. If at any time PJM intends to make a Section 205 filing to change 
-the creditworthiness provisions of this Tariff, it shall provide no less than 30 days advance notice 
-to, and consult with, the Transmission Owners and the PJM Members Committee. In the case of 
-an emergency requiring immediate action, PJM shall not be required to provide 30 days advance 
-notice but shall provide as much advance notice as is practicable in the circumstances, and in no 
-circumstances may PJM make an emergency Section 205 filing without providing at least 24 
-hours advance notice to the Transmission Owners. PJM shall further maintain at all times in the 
-tariffs under which it recovers its costs comparable provisions, if any, for sharing among PJM 
-members and/or transmission customers any shortfalls in the recovery of its own and the 
-Transmission Owners’ costs due to defaults. 
+6. Losses and Inadvertent Energy 
  
+Real power losses and inadvertent energy across the Hudson Line shall be allocated solely to 
+Hudson Transmission Customers that schedule Firm or Non-Firm transmission service over the 
+Hudson Line on an hourly pro rata basis, except for hours with no Hudson Schedules, in which 
+case any real power losses and inadvertent energy across the Hudson Line shall be allocated to 
+Hudson Transmission Customers that schedule Firm or Non-Firm transmission service over the 
+Hudson Line on a monthly pro rata basis. 
  
+7. Congestion Costs and FTRs 
+ 
+A Hudson Schedule provides a physical right to deliver capacity and energy over the Hudson 
+Line.  Accordingly, no congestion costs shall be calculated over the Hudson Line and no 
+financial transmission rights or their equivalent shall be offered for a Hudson Schedule.  This 
+provision is not meant to preclude any allocation of financial transmission rights, auction 
+revenue rights or their equivalent awarded to the Hudson Transmission Owner pursuant to Part 
+VI of the Tariff.  Such rights would be allocated to the Primary Rights Holder pursuant to 
+arrangements between the Hudson Transmission Owner and the Primary Rights Holder in 
+accordance with the process approved by the Commission under FERC Docket No. ER11-3017 
+et al., as amended by the Hudson Transmission Owner from time-to-time subject to Commission 
+approval.  
+ 
+8. Measurement and Posting of ATC and TTC   
+ 
+The Available Transfer Capability (ATC) and Total Transfer Capability (TTC) of the Hudson 
+Line shall be calculated and posted on the OASIS by the Transmission Provider consistent with 
+the requirements of the Tariff. 
+ 
+9. Payment of Other Charges Required for a Hudson Schedule  
+ 
+The Hudson Transmission Customer is responsible for charges applicable to a Hudson Schedule 
+provided under this Schedule 17, including, but not limited to, any congestion and loss charges, 
+redispatch costs, transitional revenue neutrality charges, scheduling, administrative, hardware or 
+software upgrade charges, control area or administrative services charges or ancillary service 
+charges applicable to the Transmission Provider’s administration of transmission service over the 
+Hudson Line (collectively, the “Hudson Service Administration Charges”).  In the event that any 
+such Hudson Service Administration Charges are billed by the Transmission Provider to the 
+Hudson Transmission Owner, the Hudson Transmission Owner may bill the Hudson 
+Transmission Customer for such charges, and the Hudson Transmission Customer shall pay the 
+Transmission Provider, on behalf of the Hudson Transmission Owner, such Hudson Service 
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.3 Disputes Regarding Filing Rights 
-Effective Date: 11/19/2011 - Docket #: ER18-1905-001 - Page 1 
-9.3 Disputes Regarding Filing Rights: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 - Terms and Conditions for Transmission  
+Effective Date: 8/1/2014 - Docket #: ER14-2083-000 - Page 10 
+Administration Charges pursuant to this Section 9 as a condition of receiving transmission 
+service over the Hudson Line.  In the event that any Transmission Enhancement Charges under 
+Schedule 12 of the Tariff are charged to the Hudson Transmission Owner, the Hudson 
+Transmission Owner may bill the Primary Rights Holders, and the Primary Rights Holders shall 
+pay the Transmission Provider such Transmission Enhancement Charges, on behalf of the 
+Hudson Transmission Owner, pursuant to this Section 9 as a condition of receiving transmission 
+service over the Hudson Line.   
  
-If at the time that a proposal to change or amend any part of the PJM Tariff, or to add any new 
-provision, is submitted to PJM or the Transmission Owners for consultation pursuant to Section 
-9.1(b) or 9.2(b), a dispute arises as to which Party has Section 205 rights to make such filing, the 
-following procedures shall apply: 
+In the event that any other charges related to the construction, maintenance, operation or 
+upgrading of the Transmission System are assessed by the Transmission Provider to the Hudson 
+Transmission Owner for the use of the Hudson Line for withdrawals of energy or capacity from 
+the Transmission System, the Hudson Transmission Owner may bill the Primary Rights Holder, 
+and the Primary Rights Holder shall pay the Transmission Provider, on behalf of the Hudson 
+Transmission Owner, such charges pursuant to this Section 9 as a condition of receiving 
+transmission service over the Hudson Line.  The issuance and time for payment of charges under 
+this Schedule 17 shall be consistent with the billing and payment provisions of Section 7 of the 
+Tariff. 
  
-(i) The Consolidated Transmission Owners Agreement Administrative Committee 
-and PJM shall meet promptly prior to the filing in order to resolve the dispute. Such 
-resolution may include a joint Section 205 filing by the Transmission Owners and PJM. 
- 
-(ii) If the Transmission Owners propose to make the Section 205 filing, they shall 
-defer such filing beyond the thirty (30) day notice and consultation period provided for in 
-Section 9.1(b) for up to ten (10) additional days at the request of PJM to allow the dispute 
-to be resolved. 
- 
-(iii) If PJM proposes to make the Section 205 filing it shall defer any filing beyond the 
-seven (7) day notice and consultation period provided for in Section 9.2(b) for up to ten 
-(10) additional days to allow the dispute to be resolved; 
- 
-(iv) In order to resolve a dispute, the agreement of the Transmission Owners must be 
-obtained by vote in accordance with Section 8.5.1 of the Consolidated Transmission 
-Owners Agreement; 
- 
-(v) If the Parties are unable to reach agreement among themselves, the matter shall be 
-presented to and resolved by a Neutral Party chosen as follows and, except as provided in 
-this Section 9.3(v), such resolution shall be binding on the Parties:  The Chairman of the 
-Consolidated Transmission Owners Agreement Administrative Committee (or his/her 
-designee) and an executive of PJM chosen by the President shall choose the Neutral Party 
-and shall have authority to enter into an agreement that will make the Neutral Party 
-available on a prompt basis to resolve disputes hereunder, and any costs associated with 
-the Neutral Party shall be shared equally between the Transmission Owners and PJM. 
-The Chairman of the Consolidated Transmission Owners Agreement Administrative 
-Committee (or his/her designee) and an executive of PJM chosen by the President may 
-replace the Neutral Party at any time they mutually deem such action to be appropriate or 
-necessary.  The decision of the Neutral Party as to which Parties have Section 205 rights 
-hereunder shall be made within the period provided for consultation between the 
-Transmission Owners and PJM as set forth in Sections 9.3(ii) or 9.2(iii), as applicable.  
-Interested parties (including the Parties) may file a complaint seeking review by the 
-FERC of the Neutral Party’s decision, and the FERC’s authority to interpret which 
-Parties have Section 205 rights shall not be limited by the Neutral Party’s decision as it 
-relates to these disputes. 
- 
-(vi) Nothing in this Section 9.3 is intended to limit the Parties’ rights to make filings 
-pursuant to Section 206 of the Federal Power Act prior to resolution of such dispute. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 9 
-Regulatory Filings --> OATT 9.4 Mobile Sierra: 
-Effective Date: 9/17/2010 - Docket #: ER18-1905-001 - Page 1 
-9.4 Mobile Sierra: 
- 
-Sections 9.1 through 9.4 of this Tariff shall be subject to change solely by written amendment 
-executed by PJM and the Transmission Owners, with the Transmission Owners acting by vote in 
-accordance with Section 8.5.1 of the Consolidated Transmission Owners Agreement.  It is the 
-intent of this Section 9.4 that the FERC’s right to change Sections 9.1 through 9.4 shall be 
-limited to the maximum extent permissible by law and that any such change shall be in 
-accordance with the Mobile-Sierra public interest standard applicable to fixed rate agreements. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 10 Force 
-Majeure and Indemnification 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-10 Force Majeure and Indemnification 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 10 Force 
-Majeure and Indemnification --> OATT 10.1  Force Majeure for Transmission Service 
-Effective Date: 4/1/2015 - Docket #: EL15-29-000 - Page 1 
-10.1  Force Majeure for Transmission Service: 
- 
-An event of force majeure under this section shall mean any act of God, labor disturbance, act of 
-the public enemy, war, insurrection, riot, fire, storm or flood, explosion, breakage or accident to 
-machinery or equipment, any Curtailment, order, regulation or restriction imposed by 
-governmental military or lawfully established civilian authorities, or any other cause beyond the 
-control of the party claiming force majeure under this section 10.1 that prevents the 
-Transmission Provider, any Transmission Owner or any Transmission Customer from fulfilling 
-any obligation under this Tariff related to the provision of transmission service.  An event of 
-force majeure does not include an act of negligence or intentional wrongdoing.  Neither the 
-Transmission Provider, the Transmission Owners, PJMSettlement nor the Transmission 
-Customer will be considered in default as to any obligation under this Tariff related to the 
-provision of transmission service if prevented from fulfilling the obligation due to an event of 
-force majeure as described in this section 10.1.  However, a party claiming force majeure whose 
-performance under this Tariff is hindered by an event of force majeure as described in this 
-section 10.1 shall make all reasonable efforts to perform its obligations under this Tariff. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 10 Force 
-Majeure and Indemnification --> OATT 10.2 Liability: 
-Effective Date: 7/18/2016 - Docket #: ER16-1737-000 - Page 1 
-10.2  Liability: 
- 
-Neither the Transmission Provider, a Transmission Owner, PJMSettlement, nor a Generation 
-Owner acting in good faith to implement or comply with the directives of the Transmission 
-Provider shall be liable, whether based on contract, indemnification, warranty, tort, strict liability 
-or otherwise, to any Transmission Customer, third party or other person for any damages 
-whatsoever, including, without limitation, direct, incidental, consequential, punitive, special, 
-exemplary, or indirect damages arising or resulting from any act or omission in any way 
-associated with service provided under this Tariff or any Service Agreement hereunder, 
-including, but not limited to, any act or omission that results in an interruption, deficiency or 
-imperfection of service, except to the extent that the damages are direct damages that arise or 
-result from the gross negligence or intentional misconduct of the Transmission Provider, the 
-Transmission Owner, PJMSettlement, or the Generation Owner, as the case may be. 
- 
-To the extent that a Transmission Customer, third party or other person has a claim against the 
-Transmission Provider, PJMSettlement, a Transmission Owner, or a Generation Owner acting in 
-good faith to implement or comply with the directives of the Transmission Provider the amount 
-of any judgment or arbitration award on such claim entered in favor of the Transmission 
-Customer, third party or other person shall be limited to the value of the Transmission Provider’s 
-PJM Net Assets or the Transmission Owner’s assets or the Generation Owner’s assets, as the 
-case may be. The Transmission Customer, third party or other person may not seek to enforce 
-any claims against the directors, managers, members, shareholders, officers or employees of the 
-Transmission Provider, a Transmission Owner, or a Generation Owner acting in good faith to 
-implement or comply with the directives of the Transmission Provider who shall have no 
-personal liability for obligations of the Transmission Provider, a Transmission Owner, or a 
-Generation Owner by reason of their status as directors, managers, members, shareholders, 
-officers or employees of the Transmission Provider or a Transmission Owner or a Generation 
-Owner; provided, however, that nothing herein contained shall affect the obligations of any 
-member of the Transmission Provider or PJMSettlement under the Operating Agreement or this 
-Tariff or any schedule hereunder.  
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 10 Force 
-Majeure and Indemnification --> OATT 10.3 Indemnification: 
-Effective Date: 1/1/2011 - Docket #: ER11-2527-000 - Page 1 
-10.3  Indemnification: 
- 
-The Transmission Customer shall at all times indemnify, defend, and save each Transmission 
-Owner, the Transmission Provider, PJMSettlement, and each Generation Owner acting in good 
-faith to implement or comply with the directives of the Transmission Provider, and their 
-directors, managers, members, shareholders, officers and employees harmless from, any and all 
-damages, losses, claims, including claims and actions relating to injury to or death of any person 
-or damage to property, demands, suits, recoveries, costs and expenses, court costs, attorney fees, 
-and all other obligations by or to third parties, arising out of or resulting from the Transmission 
-Provider’s, PJMSettlement’s, a Transmission Owner’s, or a Generation Owner’s (acting in good 
-faith to implement or comply with the directives of the Transmission Provider) performance of 
-its obligations under this Tariff on behalf of the Transmission Customer, except in cases of 
-negligence or intentional wrongdoing by such Transmission Owner, the Transmission Provider, 
-or such Generation Owner acting in good faith to implement or comply with the directives of the 
-Transmission Provider. 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 10 Force 
-Majeure and Indemnification --> OATT 10.4  Limitation on Claims 
-Effective Date: 11/23/2020 - Docket #: ER20-2956-000 - Page 1 
-10.4 Limitation on Claims: 
- 
-No adjustment in the billing for any service, transaction, or charge under the Tariff may 
-be asserted by PJM, PJMSettlement, or any Member or Participant with respect to a 
-month, if more than two years has elapsed since the first date upon which the billing for 
-that month occurred.  PJMSettlement, on behalf of itself or as agent for PJM may make 
-no adjustment to a Member’s or Participant’s bill with respect to a month for any service, 
-transaction, or charge under this Tariff, if more than two years have elapsed since the first 
-date upon which the billing for that month occurred, unless 1) a claim made by a Member 
-or Participant in writing and addressed to the President of PJMSettlement seeking such 
-adjustment has been received by PJMSettlement prior thereto or 2) PJM and/or 
-PJMSettlement have notified the Member or Participant in writing of the need to make 
-such an adjustment prior thereto. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 11 
-Creditworthiness 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
-11 Creditworthiness 
- 
-The Transmission Provider will specify its creditworthiness procedure in Tariff, Attachment Q. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-12 Dispute Resolution Procedures 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures --> OATT 12.1 Internal Dispute Resolution Procedures: 
-Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
-12.1  Internal Dispute Resolution Procedures: 
- 
-Any dispute between a Transmission Customer or New Service Customer, an affected 
-Transmission Owner, or the Transmission Provider involving transmission or interconnection 
-service under the Tariff (excluding applications for rate changes or other changes to the Tariff, or 
-to any Service Agreement entered into under the Tariff, which shall be presented directly to the 
-Commission for resolution) shall be referred to a designated senior representative of each of the 
-parties to the dispute for resolution on an informal basis as promptly as practicable.  In the event 
-the designated representatives are unable to resolve the dispute within thirty (30) days (or such 
-other period as the parties to the dispute may agree upon) by mutual agreement, such dispute 
-may be submitted to arbitration and resolved in accordance with the arbitration procedures set 
-forth below. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures --> OATT 12.2  External Arbitration Procedures: 
-Effective Date: 4/1/2020 - Docket #: ER19-1958-000 - Page 1 
-12.2  External Arbitration Procedures: 
- 
-Any arbitration initiated under the Tariff shall be conducted before a single neutral arbitrator 
-appointed by the parties to the dispute.  If the parties to the dispute fail to agree upon a single 
-arbitrator within ten (10) days of the referral of the dispute to arbitration, the party or parties to 
-the dispute demanding arbitration shall choose one arbitrator and the party or parties responding 
-to the demand for arbitration shall choose another arbitrator, each of whom shall sit on a three-
-member arbitration panel.  The two arbitrators so chosen shall within twenty (20) days select a 
-third arbitrator to chair the arbitration panel.  In either case, the arbitrators shall be 
-knowledgeable in electric utility matters, including electric transmission and bulk power issues, 
-and shall not have any current or past substantial business or financial relationships with any 
-party to the arbitration (except prior arbitration).  The arbitrator(s) shall provide each of the 
-parties to the dispute an opportunity to be heard and, except as otherwise provided herein, shall 
-generally conduct the arbitration in accordance with the Commercial Arbitration Rules of the 
-American Arbitration Association and any applicable Commission regulations. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures --> OATT 12.3  Arbitration Decisions: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-12.3  Arbitration Decisions: 
- 
-Unless otherwise agreed, the arbitrator(s) shall render a decision within ninety (90) days of 
-appointment and shall notify the   parties to the dispute in writing of such decision and the 
-reasons therefor.  The arbitrator(s) shall be authorized only to interpret and apply the provisions 
-of the Tariff and any Service Agreement entered into under the Tariff and shall have no power to 
-modify or change any of the above in any manner.  The decision of the arbitrator(s) shall be final 
-and binding upon the Parties, and judgment on the award may be entered in any court having 
-jurisdiction.  The decision of the arbitrator(s) may be appealed solely on the grounds that the 
-conduct of the arbitrator(s), or the decision itself, violated the standards set forth in the Federal 
-Arbitration Act and/or the Administrative Dispute Resolution Act.  The final decision of the 
-arbitrator must also be filed with the Commission if it affects jurisdictional rates, terms and 
-conditions of service or facilities. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures --> OATT 12.4  Costs: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-12.4  Costs: 
- 
-Each party to the dispute shall be responsible for its own costs incurred during the arbitration 
-process and for the following costs, if applicable: 
- 
-(A) the cost of the arbitrator chosen by the  parties to the dispute to sit on the three 
-member panel and a proportionate share of the cost of the third arbitrator chosen;  
- 
-(B) a proportionate share of the cost of the single arbitrator jointly chosen by the 
-parties to the dispute; or 
- 
-(C) a proportionate share of the cost incurred by the Office of the Interconnection 
-related to a dispute not involving the Office of the Interconnection. 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12 
-Dispute Resolution Procedures --> OATT 12.5 Rights Under The Federal Power Act: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-12.5  Rights Under The Federal Power Act: 
- 
-Nothing in this section shall restrict the rights of any party to file a Complaint with the 
-Commission under relevant provisions of the Federal Power Act. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT I. COMMON SERVICE PROVISIONS --> OATT 12A PJM 
-Compliance Review 
-Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 1 
-12A PJM Compliance Review 
- 
-The Office of the Interconnection determines whether an offer, bid, components of an offer or 
-bid, or decision not to offer a committed resource complies with the PJM Market Rules. The 
-Office of the Interconnection has the final authority to determine whether an offer, bid or 
-decision not to offer a committed resource complies with the PJM Market Rules. The Office of 
-the Interconnection may accept an offer, bid or decision not to offer a committed resource 
-regardless of whether the Market Monitoring Unit has made a finding that such conduct raises 
-market power concerns, unless the Commission issues an order determining that the offer or bid 
-must be rejected prior to the clearing of the relevant RPM Auction. 
-The Office of the Interconnection does not make determinations about market power, including, 
-but not limited to, whether the level or value of inputs or a decision not to offer a committed 
-resource involves the potential exercise of market power. Acceptance or rejection of an offer or 
-bid by the Office of the Interconnection does not include an evaluation of whether such offer or 
-bid represents a potential exercise of market power. 
-A market participant may submit any offer or bid that it chooses or make a decision not to offer a 
-committed resource, provided that the Office of the Interconnection determines that: (i) the 
-market participant has participated in the review process conducted by the Market Monitoring 
-Unit (without regard to whether an agreement is obtained) if required by the Tariff; (ii) offer is 
-no higher, in the case of seller market power, or lower, in the case of buyer side market power, 
-than the level to which the market participant has committed or agreed in the course of its 
-participation in such review process; and (iii) the offer is compliant with the Tariff and PJM 
-Manuals. The market participant assumes exclusive responsibility for any adverse findings at the 
-Commission related to its offer. 
-The Office of the Interconnection has the exclusive authority to administer the Tariff. The Office 
-of the Interconnection has the exclusive authority to implement the PJM Market Rules, except 
-with respect to Tariff, Attachment M and Tariff, Attachment M-Appendix and related provisions 
-in the PJM Manuals. The Market Monitoring Unit has the exclusive authority to perform the 
-functions set forth in Tariff, Attachment M and Tariff, Attachment M-Appendix. The Office of 
-the Interconnection shall oversee compliance with PJM Market Rules and may take action on 
-compliance issues and/or request that the Market Monitoring Unit take action on compliance 
-issues. 
-When the Tariff requires the Office of the Interconnection to provide written notice to or 
-communication with a Market Participant, such notice or communication shall include, but not 
-be limited to, a letter, email or posting to a Market Participant’s account in the internet-based 
-application designated by the Office of the Interconnection. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE 
-Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
-II. POINT-TO-POINT TRANSMISSION SERVICE 
- 
-References to section numbers in this Part II refer to sections of this Part II, unless otherwise 
-specified. 
- 
-Preamble 
- 
-The Transmission Provider will provide Firm and Non-Firm Point-To-Point Transmission 
-Service pursuant to the applicable terms and conditions of this Tariff.  Point-To-Point 
-Transmission Service is for the receipt of capacity and energy at designated Point(s) of Receipt 
-and the transfer of such capacity and energy to designated Point(s) of Delivery.  PJMSettlement 
-shall be the Counterparty to the Point-To-Point Transmission Service transactions under this 
-Tariff.  As set forth in Tariff, Attachment K, section D, Point-To-Point Transmission Service 
-transactions may give rise to several component charges and credits, which may offset one 
-another, and such component charges and credits are not separate transactions from 
-Transmission Service transactions. 
- 
- 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-13 Nature of Firm Point-To-Point Transmission Service 
+Any failure of the Hudson Transmission Customer, the holder of Firm Transmission Withdrawal 
+Rights, or the Primary Rights Holder to pay any of the charges referenced in this Section 9 shall 
+be deemed a failure to pay by the Hudson Transmission Owner. 
  
  
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.1 Term: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-13.1  Term: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 EXHIBIT A - Form of Service for Transmissio 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 1 
+EXHIBIT A TO SCHEDULE 17 
  
-The minimum term of Long-Term Firm Point-To-Point Transmission Service shall be one year 
-and the maximum term shall be specified in the Service Agreement.  The term of Short-Term 
-Firm Point-To-Point Transmission Service shall be one day, one week, or one month. 
+Form of Service Agreement for 
+Transmission Service over the Hudson Line 
+ 
+1.0 This Service Agreement, dated as of ___________, is entered into, by and between the 
+Office of the Interconnection of PJM Interconnection, L.L.C. (the “Transmission Provider”), as 
+administrator of Transmission Service over the Hudson Line, and 
+__________________________ (“Hudson Transmission Customer”). 
+ 
+2.0 The Hudson Transmission Customer has been determined by the Transmission Provider 
+to have a Completed Application for a Hudson Reservation under the Tariff. 
+ 
+3.0 If required, the Hudson Transmission Customer has provided to the Transmission 
+Provider an Application deposit in accordance with the provisions of Section 17.3 of the Tariff. 
+ 
+4.0 Service under this agreement shall commence on the later of (1) the requested service 
+commencement date, or (2) such other date as it is permitted to become effective by the 
+Commission.  Service under this agreement shall terminate on such date as mutually agreed upon 
+by the parties. 
+ 
+5.0 The Transmission Provider agrees to provide and the Hudson Transmission Customer 
+agrees to take and pay for the Hudson Reservation in accordance with the provisions of Schedule 
+17 of the Tariff and this Service Agreement. 
+ 
+6.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representatives as indicated below. 
+ 
+Transmission Provider 
+PJM Interconnection, L.L.C. 
+2750 Monroe Blvd. 
+Audubon, PA 19403 
+ 
+Hudson Transmission Customer 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+________________________________ 
+ 
+ 
+7.0 The Tariff, including Schedule 17, is incorporated herein and made a part hereof. 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by 
+their respective authorized officials. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 EXHIBIT A - Form of Service for Transmissio 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 2 
+ 
+ Office of the Interconnection: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
+ 
+ Hudson Transmission Customer: 
+ 
+By: ________________________ _____________________ __________________ 
+ Name     Title    Date 
  
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.2  Reservation Priority: 
-Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
-13.2  Reservation Priority: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 EXHIBIT A - Form of Service for Transmissio 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 3 
+CERTIFICATION 
  
-Except as provided in Tariff, Part II, section 17.8 and Tariff, Part II, section 17.9,  
+ I, ____________________, certify that I am a duly authorized officer of 
+_______________________________ (Hudson Transmission Customer) and that 
+_______________________________ (Hudson Transmission Customer) will not request service 
+under this Service agreement to assist an Eligible Customer to avoid the reciprocity provision of 
+this Open-Access Transmission Tariff. 
  
-(i) Firm Point-To-Point Transmission Service shall be available on a first-come, 
-first-served basis, i.e., in the chronological sequence in which each Transmission 
-Customer has requested service according to the provisions of Tariff, Part II, section 17.  
-However, Pre-Confirmed Applications for Short-Term Point-to-Point Transmission 
-Service will receive priority over earlier-submitted requests that are not Pre-Confirmed 
-and that have equal or shorter duration. 
+_________________________ 
+(Name) 
  
-(ii) If the Transmission System becomes oversubscribed, requests for Long-Term 
-Firm Point-To-Point Transmission Service or Network Integration Transmission Service 
-may preempt requests for monthly transmission service up to two months before the 
-commencement of monthly service.  Otherwise, requests for longer term service will not 
-preempt requests for shorter term service.  Preemption of monthly service, if any, shall 
-take place sequentially beginning with preemption of the most recent request for monthly 
-service.  Monthly requests with equal reservation priority will be preempted on a pro-rata 
-basis.  The Transmission Provider shall promptly notify an Eligible Customer with a 
-reservation for monthly service if the reservation is preempted.  Such customer shall not 
-have any right of first refusal to match the request for Long-Term Firm Point-To-Point 
-Transmission Service or Network Integration Transmission Service in order to avoid 
-losing its reservation priority.  Except in the event of preemption of monthly service as 
-stated in this section, after the Transmission Customer confirms a reservation, service 
-will commence pursuant to the terms of Tariff, Part II.   
+_________________________ 
+(Title) 
+ Subscribed and sworn before me this ________ day of ______________, ____________. 
+_________________________ 
+(Notary Public) 
  
-(iii) Firm Point-To-Point Transmission Service will always have a reservation priority 
-over Non-Firm Point-To-Point Transmission Service under the Tariff.  All Long-Term 
-Firm Point-To-Point Transmission Service will have equal reservation priority with 
-Native Load Customers and Network Customers.  Reservation priorities for existing firm 
-service customers are provided in Tariff, Part I, section 2.2. 
+My Commission expires: ______________________________ 
  
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.3 Use of Firm Transmission Service by a Transmissio 
-Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
-13.3  Use of Firm Transmission Service by a Transmission Owner: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 17 EXHIBIT A - Form of Service for Transmissio 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 4 
  
-Each Transmission Owner will be subject to the rates, terms and conditions of Tariff, Part II 
-when making Third-Party Sales under (i) agreements executed on or after March 1, 1997 or (ii) 
-agreements executed prior to the aforementioned date that the Commission requires to be 
-unbundled, by the date specified by the Commission.  Each Transmission Owner will maintain 
-separate accounting, pursuant to Tariff, Part I, section 8, for any use of the Point-To-Point 
-Transmission Service to make Third-Party Sales. 
+Specifications For Transmission Service Over Hudson Line 
  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.4 Service Agreements: 
-Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
-13.4  Service Agreements: 
+1.0 Term of Transaction: ______________________________________________________ 
  
-The Transmission Provider shall offer a standard form Firm Point-To-Point Transmission 
-Service Agreement (Tariff, Attachment A) to an Eligible Customer when it submits a Completed 
-Application for Long-Term Firm Point-To-Point Transmission Service.  The Transmission 
-Provider shall offer a standard form Firm Point-To-Point Transmission Service Agreement 
-(Tariff, Attachment A) to an Eligible Customer when it first submits a Completed Application 
-for Short-Term Firm Point-To-Point Transmission Service pursuant to the Tariff.  Executed 
-Service Agreements that contain the information required under the Tariff shall be filed with the 
-Commission in compliance with applicable Commission regulations.  An Eligible Customer that 
-uses Transmission Service at a Point of Receipt or Point of Delivery that it has not reserved and 
-that has not executed a Service Agreement will be deemed, for purposes of assessing any 
-appropriate charges and penalties, to have executed the appropriate Service Agreement. 
+ Start Date: ______________________________________________________________ 
  
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.5 Transmission Customer Obligations for Facility Ad 
-Effective Date: 2/18/2020 - Docket #: ER20-646-000 - Page 1 
-13.5  Transmission Customer Obligations for Facility Additions or Redispatch 
-Costs: 
+ Termination Date: ________________________________________________________ 
  
-In cases where the Transmission Provider determines that the Transmission System is not 
-capable of providing Long-Term Firm Point-To-Point Transmission Service without (1) 
-degrading or impairing the reliability of service to Native Load Customers, Network Customers 
-and other Transmission Customers taking Firm Point-To-Point Transmission Service, or (2) 
-interfering with the Transmission Provider’s ability to meet prior firm contractual commitments 
-to others, the Transmission Owner(s) will be obligated to expand or upgrade the Transmission 
-System pursuant to the terms of Tariff, Part II, section 15.4.  The Transmission Customer must 
-agree to compensate the Transmission Provider for any necessary transmission facility additions 
-pursuant to the terms of Tariff, Part II, section 27.  To the extent the Transmission Provider can 
-relieve any system constraint by redispatching resources available to the PJM Region, it shall do 
-so, provided that the Eligible Customer agrees to compensate the Transmission Provider 
-pursuant to the terms of Tariff, Part II, section 27 and agrees to compensate the Transmission 
-Owner for any necessary transmission facility additions.  Any redispatch, Network Upgrade or 
-Direct Assignment Facilities costs to be charged to the Transmission Customer on an 
-incremental basis under the Tariff will be specified in the Service Agreement prior to initiating 
-service. 
+2.0 Description of capacity and energy to be transmitted. 
  
+ _______________________________________________________________________ 
+ 
+3.0 Point of Receipt:  PSE&G’s Bergen Substation in Ridgefield, New Jersey  
+ 
+ Delivering Party: _________________________________________________________ 
+ 
+4.0 Point of Delivery:  ConEd’s West 49 th Street Substation in New York, New York 
+ 
+ Receiving Party: _________________________________________________________ 
+ 
+5.0 Maximum amount of energy to be transmitted (Reserved Transmission Capability): 
+_______________________________________________________________________ 
+ 
+6.0 Designation of party(ies) subject to reciprocal service obligation: ___________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+ ________________________________________________________________________ 
+ 
+7.0 Service under this Agreement may be subject to some combination of the charges 
+detailed below.  (The appropriate charges for individual transactions will be determined in 
+accordance with the terms and conditions of the Tariff and Schedule 17). 
+ 
+7.1 Hudson Reservation Charge: __________________________________________ 
+ 
+ __________________________________________________________________ 
+ 
+7.2 Hudson Service Administration Charges: ________________________________ 
+ 
+7.3 Hudson Transmission Enhancement Charges:_____________________________ 
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.6 Curtailment of Firm Transmission Service: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-13.6  Curtailment of Firm Transmission Service: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Schedule 18 - IROL Critical Resource Cost Recovery 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 1 
+SCHEDULE 18 
+IROL Critical Resource Cost Recovery 
  
-In the event that a Curtailment on the Transmission Provider’s Transmission System, or a portion 
-thereof, is required to maintain reliable operation of such system and the systems directly and 
-indirectly interconnected with Transmission Provider’s Transmission System.  Curtailments will 
-be made on a non-discriminatory basis to the transaction(s) that effectively relieve the constraint.  
-Transmission Provider may elect to implement such Curtailments pursuant to the Transmission 
-Loading Relief procedures.  If multiple transactions require Curtailment, to the extent practicable 
-and consistent with Good Utility Practice, Curtailments will be proportionally allocated among 
-Native Load Customers, Network Customers, and Transmission Customers taking Firm Point-
-To-Point Transmission Service.  All Curtailments will be made on a non-discriminatory basis, 
-however, Non-Firm Point-To-Point Transmission Service shall be subordinate to Firm 
-Transmission Service and Non-Firm Point-To-Point Transmission Service for which redispatch 
-costs will not be paid shall be subordinate to Non-Firm Point-To-Point Transmission Service for 
-which redispatch costs will be paid.  When the Transmission Provider determines that an 
-electrical emergency exists on the Transmission System and implements emergency procedures 
-to Curtail Firm Transmission Service, the Transmission Customer shall make the required 
-reductions upon request of the Transmission Provider.  However, the Transmission Provider 
-reserves the right to Curtail, in whole or in part, any Firm Transmission Service provided under 
-the Tariff when, in the Transmission Provider’s sole discretion, an emergency or other 
-unforeseen condition impairs or degrades the reliability of the Transmission System.  The 
-Transmission Provider will notify all affected Transmission Customers in a timely manner of any 
-scheduled Curtailments. 
+The Generation Owner of an IROL Critical Resource may incur one-time or ongoing capital, 
+operation and maintenance, and associated administrative and regulatory costs necessary to 
+comply with NERC Reliability Standards, that would not have been incurred solely but for the 
+Office of the Interconnection’s designation of the Generation Owner’s generation resource as an 
+IROL Critical Resource, and are not already recoverable through any other mechanism subject to 
+the jurisdiction of a Relevant Electric Retail Regulatory Authority.  These costs may include, but 
+are not limited to, labor, equipment, hardware, software, licenses, maintenance and support, 
+upgrade costs, outside related services and fees, and physical improvements.  A Generation 
+Owner may elect to pursue recovery of such costs exclusively pursuant to this Schedule 18, and 
+shall not pursue recovery of such costs through any other mechanism under the PJM Governing 
+Agreements.  Costs eligible for recovery pursuant to this Schedule 18 shall only include direct, 
+incremental, verifiable, and actual costs.  No other costs, including without limitation, allocations 
+of administrative and general overhead, shall be recoverable pursuant to this Schedule 18, and no 
+costs recovered pursuant to this Schedule 18 shall include a rate of return.  Costs incurred prior 
+to the effective date of this Schedule 18, or prior to the Office of the Interconnection’s 
+designation of a Generation Owner’s generation resource as an IROL Critical Resource, shall not 
+be recoverable pursuant to this Schedule 18.   
+ 
+By no later than June 1 of each year, the Office of the Interconnection shall identify all IROL 
+Critical Resources in the PJM Region and notify each Generation Owner of such IROL Critical 
+Resources of the Office of the Interconnection’s determination.  A generation resource’s 
+designation as an IROL Critical Resource shall remain in effect for a twelve month period, from 
+June 1 through May 31 of the following year.  Nothing herein shall preclude the Office of the 
+Interconnection from designating any IROL Critical Resource as an IROL Critical Resource for 
+subsequent twelve month periods.  A Generation Owner of an IROL Critical Resource 
+designated as an IROL Critical Resource for multiple twelve month periods must submit any 
+recurring costs on a yearly basis, using the process described in this Schedule 18.  Only new or 
+recurring costs are eligible for recovery under this Schedule 18 for subsequent twelve month 
+periods. 
+ 
+By no later than the last day of the twelve month period that a generation resource is designated 
+as an IROL Critical Resource, the Generation Owner of the IROL Critical Resource shall notify 
+the Market Monitoring Unit and the Office of the Interconnection in writing of the Generation 
+Owner’s intent to seek cost recovery pursuant to this Schedule 18. 
+ 
+By no later than August 15 of the year following the Office of the Interconnection’s designation 
+of the IROL Critical Resource, the Generation Owner of the IROL Critical Resource that intends 
+to seek cost recovery pursuant to this Schedule 18 shall submit all costs proposed for recovery 
+pursuant to this Schedule 18 to the Market Monitoring Unit, in accordance with the Market 
+Monitoring Unit’s specifications regarding format and level of detail.  Each cost submitted to the 
+Market Monitoring Unit shall be accompanied by supporting documentation and a detailed 
+explanation as to why the cost: (i) is necessary to comply with NERC Reliability Standards, and 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Schedule 18 - IROL Critical Resource Cost Recovery 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 2 
+(ii) would not have been incurred solely but for the Office of the Interconnection’s designation of 
+the Generation Owner’s generation resource as an IROL Critical Resource.   
+ 
+By no later than November 15 of the year following the Office of the Interconnection’s 
+designation of the IROL Critical Resource, the Market Monitoring Unit shall review the 
+submitted costs, recommend to the Office of the Interconnection that the costs be approved or 
+denied for recovery, and notify the Generation Owner of the IROL Critical Resource of the 
+Market Monitoring Unit’s recommendation.  A Generation Owner may submit any costs that the 
+Market Monitoring Unit does not recommend for recovery to the Office of the Interconnection 
+for review and approval, provided that the Generation Owner has timely provided to the Market 
+Monitoring Unit the required supporting documentation and detailed explanation. 
+ 
+By no later than December 15 of the year following the Office of the Interconnection’s 
+designation of the IROL Critical Resource, the Office of the Interconnection shall consider the 
+recommendation of the Market Monitoring Unit, and approve or deny the submitted costs. 
+ 
+Costs approved by the Office of the Interconnection shall be assessed on purchasers receiving 
+Network Integration Transmission Service or Point-to-Point Transmission Service, in accordance 
+with this Schedule 18, beginning January 1 of the second year following each year for which the 
+Office of the Interconnection’s designates the resource as an IROL Critical Resource. 
+ 
+The Office of the Interconnection shall assess charges on purchasers receiving Network 
+Integration Transmission Service or Point-to-Point Transmission Service using the following 
+formulae: 
+ 
+Monthly Charge for a purchaser receiving Network Integration Transmission Service or Point-to-
+Point Transmission Service to serve RTO Load = Allocation Factor * Monthly IROL CIP 
+Revenue Requirement  
+ 
+Where: 
+ 
+purchaser serving RTO Load is a Network Customer or a Transmission Customer where 
+the Point of Delivery is at the boundary of the PJM Region. 
+ 
+Monthly IROL CIP Revenue Requirement is the sum of the approved annual costs for 
+recovery by the Office of the Interconnection of all IROL Critical Resources in the PJM 
+Region, divided by twelve months.  
+ 
+Allocation Factor is the monthly transmission use of each Network Customer or 
+Transmission Customer in the PJM Region on a megawatt basis divided by the total 
+transmission use in the PJM Region, as applicable, on a megawatt basis. 
+ 
+For Network Customers, monthly transmission use on a megawatt basis is the sum of a Network 
+Customer’s daily values of DCPZ or DCPNZ (as those terms are defined in Tariff, Part III, 
+section 34.1) for all days of the month and all Zones.   
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.6A Load Shedding: 
-Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 
-13.6A Load Shedding: 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Schedule 18 - IROL Critical Resource Cost Recovery 
+Effective Date: 10/18/2023 - Docket #: ER23-2649-000 - Page 3 
+For Transmission Customers, monthly transmission use on a megawatt basis is the sum of the 
+Transmission Customer’s hourly amounts of Reserved Capacity for each day of the month (not 
+curtailed by PJM) divided by the number of hours in the day. 
  
-To the extent that a system contingency exists on the Transmission Provider’s Transmission 
-System and the Transmission Provider determines that it is necessary for the Transmission 
-Owners and the Transmission Customer to shed load, the Transmission Customer and the 
-Transmission Owners shall shed load in accordance with previously established procedures 
-under the Operating Agreement. 
+Only costs approved by the Office of the Interconnection are eligible for recovery under this 
+Schedule 18.  An IROL Critical Resource is ineligible for cost recovery pursuant to this Schedule 
+18 upon unit retirement or deactivation, and all applicable cost recovery payments made pursuant 
+to this Schedule 18 shall cease upon the date of unit retirement or deactivation. 
+  
  
 
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.7 Classification of Firm Transmission Service: 
-Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 1 
-13.7  Classification of Firm Transmission Service: 
- 
-(a) The Transmission Customer taking Firm Point-To-Point Transmission Service 
-may (1) change its Receipt and Delivery Points to obtain service on a non-firm basis 
-consistent with the terms of Tariff, Part II, section 22.1 or (2) request a modification of 
-the Points of Receipt or Delivery on a firm basis pursuant to the terms of Tariff, Part II, 
-section 22.2. 
- 
-(b) The Transmission Customer may purchase transmission service to make sales of 
-capacity and energy from multiple generating units that are on the Transmission 
-Provider’s Transmission System.  For such a purchase of transmission service, the 
-resources will be designated as multiple Points of Receipt, unless the multiple generating 
-units are at the same generating plant in which case the units would be treated as a single 
-Point of Receipt. 
- 
-(c) The Transmission Provider shall provide firm deliveries of capacity and energy 
-from the Point(s) of Receipt to the Point(s) of Delivery.  Each Point of Receipt at which 
-firm transmission capacity is reserved by the Transmission Customer shall be set forth in 
-the Firm Point-To-Point Service Agreement for Long-Term Firm Transmission Service 
-along with a corresponding capacity reservation associated with each Point of Receipt.  
-Points of Receipt and corresponding capacity reservations shall be as mutually agreed 
-upon by the Parties for Short-Term Firm Transmission.  Each Point of Delivery at which 
-firm transfer capability is reserved by the Transmission Customer shall be set forth in the 
-Firm Point-To-Point Service Agreement for Long-Term Firm Transmission Service along 
-with a corresponding capacity reservation associated with each Point of Delivery.  Points 
-of Delivery and corresponding capacity reservations shall be as mutually agreed upon by 
-the Parties for Short-Term Firm Transmission.  The greater of either (1) the sum of the 
-capacity reservations at the Point(s) of Receipt, or (2) the sum of the capacity 
-reservations at the Point(s) of Delivery shall be the Transmission Customer’s Reserved 
-Capacity.  The Transmission Customer will be billed for its Reserved Capacity under the 
-terms of Tariff, Schedule 7.  The Transmission Customer may not exceed its firm 
-capacity reserved at each Point of Receipt and each Point of Delivery except as otherwise 
-specified in Tariff, Part II, section 22.  In the event the Transmission Customer (including 
-Third Party Sales by a Transmission Owner) exceeds its firm capacity reserved at any 
-Point of Receipt or Point of Delivery or uses Transmission Service at a Point of Receipt 
-or Point of Delivery that it has not reserved, except as otherwise specified in Tariff, Part 
-II, section 22, the Transmission Customer shall pay a penalty equal to twice the rate set 
-forth in Tariff, Schedule 7 as follows: 
- 
-The unreserved use penalty for a single hour of unreserved use shall be based on the rate 
-for daily Firm Point-To-Point Transmission Service.  If there is more than one assessment 
-for a given duration (e.g., daily) for the Transmission Customer, the penalty shall be 
-based on the next longest duration (e.g., weekly).  The unreserved penalty charge for 
-multiple instances of unreserved use (i.e., more than one hour) within a day shall be 
-based on the daily rate Firm Point-To-Point Transmission Service.  The unreserved 
-penalty charge for multiple instances of unreserved use isolated to one calendar week 
-
-Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT II. POINT-TO-POINT TRANSMISSION SERVICE --> 
-OATT 13 Nature of Firm Point-To-Point Transmission Service --> OATT 13.7 Classification of Firm Transmission Service: 
-Effective Date: 1/3/2023 - Docket #: ER22-2110-000 - Page 2 
-shall be based on the charge for weekly Firm Point-To-Point Transmission Service.  The 
-unreserved use penalty charge for multiple instances of unreserved use during more than 
-one week during a calendar month shall be based on the charge for monthly Firm Point-
-To-Point Transmission Service. 
- 
-The Transmission Provider shall distribute all unreserved use penalties incurred under 
-this section in a given hour to the Transmission Customers that: (1) were using 
-transmission service in the same hour in which the unreserved use penalty was incurred; 
-and (2) did not incur unreserved use penalties under this section during the hour in which 
-the penalties were incurred.  The Transmission Provider shall distribute the unreserved 
-use penalties to each such Transmission Customer pro-rata based on the total Tariff, 
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT A 
+Effective Date: 9/2/2014 - Docket #: ER14-2358-000 - Page 1 

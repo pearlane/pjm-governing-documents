@@ -1,0 +1,719 @@
+ATTACHMENT F-1 
+ 
+Form of Umbrella Service Agreement for 
+Network Integration Transmission Service 
+Under State Required Retail Access Programs 
+ 
+1.0 This Service Agreement dated as of __________, including the Specifications For 
+Network Integration Transmission Service Under State Required Retail Access Programs 
+attached hereto and incorporated herein, is entered into, by and between PJM 
+Interconnection, L.L.C. (“Transmission Provider”) as administrator of the Tariff, PJM 
+Settlement Inc. (“Counterparty”) as the counterparty, and ________________________, 
+a transmission customer participating in a state required retail access program and/or a 
+program providing for the contractual provision of default service or provider of last 
+resort service (“Network Customer”). 
+ 
+2.0 The Network Customer has been determined by the Transmission Provider to have a 
+valid request for Network Integration Transmission Service under the Tariff and to have 
+satisfied the conditions for service imposed by the Tariff to the extent necessary to obtain 
+service with respect to its participation in a state required retail access program. 
+ 
+3.0 Service under this Service Agreement shall commence on ________________, and shall 
+terminate on such date as mutually agreed upon by the parties, unless state law or 
+regulations specify a limited period for service or unless earlier terminated for default 
+under Section 7.3 of the Tariff. 
+ 
+4.0 The Transmission Provider agrees to provide, and the Network Customer agrees to take, 
+Network Integration Transmission Service in accordance with the Tariff, including the 
+Operating Agreement of the PJM Interconnection, L.L.C. (“Operating Agreement”) 
+(which is the Network Operating Agreement under the Tariff and is incorporated herein 
+by reference) and this Service Agreement, as they may be amended from time to time. 
+ 
+5.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representative of the other Party as indicated below. 
+ 
+Transmission Provider  (on behalf of Transmission Provider and Counterparty) 
+ PJM Interconnection, L.L.C. 
+ 2750 Monroe Blvd. 
+ Audubon, PA 19403 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 2 
+ 
+Network Customer 
+ 
+ ________________________________ 
+ 
+ ________________________________ 
+ 
+ ________________________________ 
+ 
+IN WITNESS WHEREOF, the Transmission Provider and the Network Customer have caused 
+this Service Agreement to be executed by their respective authorized officials. 
+ 
+Transmission Provider 
+ 
+ 
+By:________________________ __________________________ ________ 
+ Name     Title    Date 
+ 
+Counterparty: 
+ 
+By:________________________ __________________________ ________ 
+ Name     Title    Date 
+ 
+ 
+Network Customer 
+ 
+ 
+By:________________________ __________________________ ________ 
+    Name    Title    Date 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 3 
+SPECIFICATIONS FOR 
+NETWORK INTEGRATION TRANSMISSION SERVICE 
+PURSUANT TO STATE REQUIRED RETAIL ACCESS PROGRAMS 
+ 
+ 
+1.0 Term of Service:  The term of service under this Service Agreement shall be from 
+_________ until terminated by mutual agreement of the parties, unless state law or 
+regulations specify a limited period for service or unless earlier terminated for default 
+under Section 7.3 of the Tariff. 
+ 
+2.0 Network Operating Agreement:  In accordance with Section 29.1 of the Tariff, the 
+Network Customer must be a member of PJM Interconnection, L.L.C. and a signatory to 
+the Operating Agreement. 
+ 
+3.0 Network Load and Network Resources:  The Network Customer shall be responsible for 
+the Transmission Provider receiving the information pertaining to Network Load, 
+Network Resources, and Behind The Meter Generation described in this section.  Such 
+information shall be provided in accordance with procedures established by the 
+Transmission Provider.  With respect to service requests under this umbrella Service 
+Agreement, the Transmission Provider will deem the provision of the information 
+specified in this section as complying with the application requirements set forth in 
+Section 29.2 of the Tariff. 
+ 
+3.1 Network Load:  For Network Load within the PJM Region, the Network 
+Customer shall arrange for each electric distribution company (“EDC”) delivering 
+to the Network Customer’s load to provide directly to the Transmission Provider, 
+on a daily basis, the Network Customer’s peak load (net of operating Behind The 
+Meter Generation, but not to be less than zero, unless such generation is 
+separately metered and reported to PJM), by bus, coincident with the annual peak 
+load of the Zone as determined under Section 34.1 of the Tariff.  The peak load 
+shall be expressed in terms of tenths of a megawatt and shall include all losses 
+within the PJM Region, including other transmission losses, and distribution 
+losses.  Unless a more specific bus distribution is available, the EDC may provide 
+a bus distribution for the Network Customer’s peak load proportional to the bus 
+distribution for all of the load in the Zone.  The information must be submitted 
+directly to the Transmission Provider by the EDC, unless the Transmission 
+Provider approves in advance another arrangement.  For Non-Zone Network 
+Load, the Network Customer shall provide to the Transmission Provider, on a 
+daily basis, the Network Customer’s peak load, by interconnection at the border 
+of the PJM Region, coincident with the annual peak load of such area as 
+determined under Section 34.1 of the Tariff.  The peak load for such Non-Zone 
+Network Load shall be expressed in terms of tenths of a megawatt and shall not 
+include losses within the PJM Region.  Unless a more specific bus distribution is 
+identified and node definition requested, a service request shall be granted upon 
+submission of the information set forth in this Section 3.1 without any further 
+confirmation procedures.  If a Network Customer under this Service Agreement, 
+prior to the commencement of service or at any time after the commencement of 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 4 
+service, identifies a more specific bus distribution and requests a node definition 
+for all or part of its Network Load that is served under state required retail access 
+programs, the Network Customer shall notify both the Transmission Provider and 
+the electric distribution company pursuant to the notification procedure and 
+schedule set forth in the PJM manuals.  The Transmission Provider, exercising its 
+independent judgment and expertise, shall have the authority to resolve any 
+difference of opinion that may arise between the Network Customer and the 
+electic distribution company as to the applicable bus distribution or node 
+definition.  If confirmed, the more specific bus distribution will not be used for 
+billing and settlement purposes, however, until the notification procedure set forth 
+in the PJM manuals is completed, and in no event until June 1, to correspond with 
+the commencement of the annual planning period. 
+ 
+3.2 Network Resources:  The Network Customer, as necessary, shall designate from 
+time to time its Network Resources.  In the event the Network Resource to be 
+designated is Behind The Meter Generation, the designation must be made before 
+the commencement of a Planning Period as that term is defined in the Operating 
+Agreement and will remain in effect for the entire Planning Period.  Such 
+Network Resources must be acceptable to the Transmission Provider as Network 
+Resources in accordance with the Tariff and the Operating Agreement.  
+Designations of resources that have not previously been accepted as Network 
+Resources of any Network Customer or Transmission Customer shall include the 
+information set forth in Section 29.2(v) of the Tariff.  Changes in the designation 
+of Network Resources will be treated as an application for modification of 
+service.  The Network Customer shall confirm the acceptance of a Network 
+Resource within 15 days of the completion of a System Impact Study or 30 days 
+after completion of a Facilities Study, as is applicable.  The Transmission 
+Provider will maintain a current list of Network Resources, which shall be 
+updated from time to time. 
+ 
+3.3 Hourly Load:  The Network Customer and/or the EDCs delivering to the Network 
+Customer’s load shall provide to the Transmission Provider, on a daily basis, 
+hourly loads and an associated bus distribution for the Network Load.  For 
+Network Load within the PJM Region, hourly loads required under this Section 
+shall include all losses within such area, including transmission losses, and 
+distribution losses.  The Network Customer shall notify the Transmission 
+Provider whether the Network Customer or the EDC will submit the hourly loads.  
+The submitted load values will include losses and shall be reduced using the 
+applicable loss factor determined by the Transmission Provider whenever a billing 
+determination is calculated under the Tariff without losses. 
+ 
+3.4 Energy Schedules:  The Network Customer shall schedule energy for its hourly 
+loads in accordance with the Appendix to Attachment K of the Tariff. 
+ 
+3.5 Interruptible Loads:  The Network Customer shall inform or shall arrange for each 
+EDC delivering to Network Customer’s load to inform Transmission Provider 
+about the amount and location of any interruptible loads included in the Network 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 5 
+Load.  This information shall include the summer and winter peak load for each 
+interruptible load (had such load not been interruptible), that portion of each 
+interruptible load subject to interruption, the conditions under which an 
+interruption can be implemented, and any limitations on the duration and 
+frequency of interruptions. 
+ 
+3.6 Procedures for Load Determination:  The procedures by which an EDC will 
+determine the peak and hourly loads reported to the Transmission Provider under 
+Sections 3.1 and 3.3 may be set forth in a separate schedule to the Tariff for each 
+EDC. 
+ 
+3.7 Behind The Meter Generation:  For Behind The Meter Generation of a Network 
+Customer that requires metering pursuant to section 14.5 of the Operating 
+Agreement, the Network Customer shall arrange for the Transmission Owner or 
+EDC to provide directly to Transmission Provider information pertaining to such 
+Behind The Meter Generation and the total load at its location as necessary for 
+PJM’s planning purposes. 
+ 
+4.0 Energy Imbalance Service:  The Network Customer will receive Energy Imbalance 
+Service from the Transmission Provider in accordance with Schedule 4 of the Tariff.  
+Energy Imbalance Service is considered to be PJM Interchange and will be charged at the 
+Locational Marginal Price determined pursuant to Section 2 of the Appendix to 
+Attachment K of the Tariff. 
+ 
+5.0 Reconciliation Billing:  For Network Load within the PJM Region, to the extent required, 
+the Transmission Provider will reconcile the Network Customer’s hourly energy 
+responsibilities as initially reported to Transmission Provider and its hourly energy 
+consumption based on, or estimated from, metered usage, and provide corresponding 
+charges and credits to Network Customer.  Such reconciliation, if required, shall be made 
+at the applicable rate. 
+ 
+6.0 Designation of party subject to reciprocal service obligation:  The Network Customer 
+shall comply with Section 6 of the Tariff. 
+ 
+7.0 Name(s) of any Intervening Systems providing transmission service:  To the extent any 
+Network Resources are located outside the PJM Region, the list of Network Resources 
+maintained by the Transmission Provider referenced in Section 3.2 of these 
+specifications, shall identify any intervening systems needed to deliver those Network 
+Resources to the Network Customer’s retail load. 
+ 
+8.0 Charges:  Service under this Service Agreement may be subject to some combination of 
+the charges detailed below.  (The appropriate charges for individual transactions will be 
+determined in accordance with the terms and conditions of the Tariff.) 
+ 
+8.1 Embedded Cost Transmission Charge:  The embedded cost transmission charge 
+shall be determined in accordance with the formula set forth in Section 34 of the 
+Tariff. 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 6 
+ 
+8.2 System Impact and Facilities Study Charges:  To the extent Network Resources 
+are located outside, or a new resource is added to, the PJM Region, a System 
+Impact Study and/or Facilities Study Agreement and related charges may be 
+required pursuant to Section 32 of the Tariff. 
+ 
+8.3 Direct Assignment Facilities Charge:  To the extent that facilities or portions of 
+facilities must be constructed by a Transmission Owner for the sole use or benefit 
+of the Network Customer to accommodate the service requested by the Network 
+Customer, the Network Customer shall be responsible for the cost of such Direct 
+Assignment Facilities, and the charges for such facilities shall be specified at the 
+time that the Transmission Provider determines the facilities that are needed to 
+provide the requested service. 
+ 
+8.4 Ancillary Services Charge:  In addition to Energy Imbalance Service, 
+Transmission Provider shall bill the Network Customer for ancillary services in 
+accordance with Schedules 1, 1-A, 2, 3, 5, 6, and 9 of the Tariff.  To the extent 
+required, the ancillary services charges shall also be reconciled based on any 
+differences between the Network Customer’s hourly energy responsibilities as 
+initially reported to Transmission Provider and its hourly energy consumption 
+based on, or estimated from, metered usage. 
+ 
+8.5 Other Supporting Facilities Charge:  None.  
+ 
+8.6 [Reserved] 
+ 
+8.7 Other Charges:  Transmission Provider shall charge Network Customer any and 
+all other charges set forth in the Tariff applicable to providing Network 
+Integration Service. 
+ 
+9.0 Designated Agent:  To the extent that a Designated Agent for one or more Network 
+Customers provides to the Transmission Provider any of the information required by 
+these Specifications, it shall provide the information separately for each Network 
+Customer. 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-1 
+Effective Date: 4/1/2018 - Docket #: ER17-775-003 - Page 7 
+ 
+ 
+CERTIFICATION 
+ 
+ I, _______________________, certify that I am a duly authorized officer of 
+ 
+________________________________ (Network Customer) and that 
+ 
+________________________________ (Network Customer) will not request service under this 
+Service Agreement to assist an Eligible Customer to avoid the reciprocity provision of this Open-
+Access Transmission Tariff. 
+ 
+ 
+_________________________________ 
+(Name) 
+ 
+ 
+__________________________________ 
+(Name) 
+ 
+ 
+ Subscribed and sworn before me this ____ day of _________, _________. 
+ 
+___________________________________ 
+(Notary Public) 
+ 
+ 
+My Commission expires:_______________________ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 1 
+ATTACHMENT F-2 
+ 
+Form of Umbrella Service Agreement for 
+Network Integration Transmission Service 
+for Purchases of Non-Dispatched Charging Energy  
+ 
+1.0 This Service Agreement dated as of __________, including the Specifications For 
+Network Integration Transmission Service for Purchases of Non-Dispatched Charging 
+Energy attached hereto and incorporated herein, is entered into, by and between PJM 
+Interconnection, L.L.C. (“Transmission Provider”) as administrator of the Tariff, PJM 
+Settlement Inc. (“Counterparty”) as the counterparty, and ________________________, 
+a transmission customer participating in the PJM Energy Storage Resource Participation 
+Model or that is a Hybrid Resource physically capable of making purchases of Non-
+Dispatched Charging Energy (“Network Customer”). 
+ 
+2.0 The Network Customer has been determined by the Transmission Provider to have a 
+valid request for Network Integration Transmission Service under the Tariff and to have 
+satisfied the conditions for service imposed by the Tariff to the extent necessary to obtain 
+service with respect to its participation in the Energy Storage Resource Participation 
+Model or participation in markets with a Hybrid Resource. 
+ 
+3.0 Service under this Service Agreement shall commence on ________________, and shall 
+terminate on such date as mutually agreed upon by the parties unless earlier terminated 
+for default under Tariff, section 7.3. 
+ 
+4.0 The Transmission Provider agrees to provide, and the Network Customer agrees to take, 
+Network Integration Transmission Service in accordance with the Tariff, including the 
+Operating Agreement of the PJM Interconnection, L.L.C. (“Operating Agreement”) 
+(which is the Network Operating Agreement under the Tariff and is incorporated herein 
+by reference) and this Service Agreement, as they may be amended from time to time. 
+ 
+5.0 Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representative of the other Party as indicated below. 
+ 
+Transmission Provider  (on behalf of Transmission Provider and Counterparty) 
+ PJM Interconnection, L.L.C. 
+ 2750 Monroe Blvd. 
+ Audubon, PA 19403 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 2 
+Network Customer 
+ 
+ ________________________________ 
+ 
+ ________________________________ 
+ 
+ ________________________________ 
+ 
+IN WITNESS WHEREOF, the Transmission Provider and the Network Customer have caused 
+this Service Agreement to be executed by their respective authorized officials. 
+ 
+Transmission Provider 
+ 
+ 
+By:________________________ __________________________ ________ 
+ Name     Title    Date 
+ 
+Counterparty: 
+ 
+By:________________________ __________________________ ________ 
+ Name     Title    Date 
+ 
+ 
+Network Customer 
+ 
+ 
+By:________________________ __________________________ ________ 
+    Name    Title    Date 
+ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 3 
+SPECIFICATIONS FOR 
+NETWORK INTEGRATION TRANSMISSION SERVICE 
+FOR PURCHASES OF NON-DISPATCHED CHARGING ENERGY 
+ 
+ 
+1.0 Term of Service:  The term of service under this Service Agreement shall be from 
+_________ until terminated by mutual agreement of the parties, unless state law or 
+regulations specify a limited period for service or unless earlier terminated for default 
+under Tariff, section 7.3. 
+ 
+2.0 Network Operating Agreement:  In accordance with Tariff, section 29.1, the Network 
+Customer must be a member of PJM Interconnection, L.L.C. and a signatory to the 
+Operating Agreement. 
+ 
+3.0 Network Load and Network Resources:  The Network Customer shall be responsible for 
+the Transmission Provider receiving the information pertaining to Network Load, 
+Network Resources, and Behind The Meter Generation described in this section.  Such 
+information shall be provided in accordance with procedures established by the 
+Transmission Provider.  With respect to service requests under this umbrella Service 
+Agreement, the Transmission Provider will deem the provision of the information 
+specified in this section as complying with the application requirements set forth in 
+Tariff, section 29.2. 
+ 
+3.1 Network Load:  For Network Load within the PJM Region, the Network 
+Customer shall arrange to provide directly to the Transmission Provider, on a 
+daily basis, the Network Customer’s peak load (net of operating Behind The 
+Meter Generation, but not to be less than zero, unless such generation is 
+separately metered and reported to PJM), by bus, coincident with the annual peak 
+load of the Zone as determined under Tariff, section 34.1.  The peak load shall be 
+expressed in terms of tenths of a megawatt and shall include all losses within the 
+PJM Region, including other transmission losses, and distribution losses.   
+ 
+3.2 Network Resources:  The Network Customer, as necessary, shall designate from 
+time to time its Network Resources.  In the event the Network Resource to be 
+designated is Behind The Meter Generation, the designation must be made before 
+the commencement of a Planning Period as that term is defined in the Operating 
+Agreement and will remain in effect for the entire Planning Period.  Such 
+Network Resources must be acceptable to the Transmission Provider as Network 
+Resources in accordance with the Tariff and the Operating Agreement.  
+Designations of resources that have not previously been accepted as Network 
+Resources of any Network Customer or Transmission Customer shall include the 
+information set forth in Tariff, section 29.2(v).  Changes in the designation of 
+Network Resources will be treated as an application for modification of service.  
+The Network Customer shall confirm the acceptance of a Network Resource 
+within 15 days of the completion of a System Impact Study or 30 days after 
+completion of a Facilities Study, as is applicable.  The Transmission Provider will 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 4 
+maintain a current list of Network Resources, which shall be updated from time to 
+time. 
+ 
+3.3 Hourly Load:  The Network Customer shall provide to the Transmission Provider, 
+on a daily basis, hourly loads and an associated bus distribution for the Network 
+Load.  The submitted load values will not include losses and shall be increased 
+using the applicable loss factor determined by the Transmission Provider 
+whenever a billing determination is calculated under the Tariff with losses. 
+ 
+3.4 Energy Schedules:  The Network Customer shall schedule energy for its hourly 
+loads in accordance with Tariff, Attachment K-Appendix and the parallel 
+provisions of Operating Agreement, Schedule 1. 
+ 
+3.5 Interruptible Loads:  The Network Customer shall inform or shall arrange for each 
+EDC delivering to Network Customer’s load to inform Transmission Provider 
+about the amount and location of any interruptible loads included in the Network 
+Load.  This information shall include the summer and winter peak load for each 
+interruptible load (had such load not been interruptible), that portion of each 
+interruptible load subject to interruption, the conditions under which an 
+interruption can be implemented, and any limitations on the duration and 
+frequency of interruptions. 
+ 
+ 
+3.6 Behind The Meter Generation:  For Behind The Meter Generation of a Network 
+Customer that requires metering pursuant to Operating Agreement, section 14.5, 
+the Network Customer shall arrange for the Transmission Owner or EDC to 
+provide directly to Transmission Provider information pertaining to such Behind 
+The Meter Generation and the total load at its location as necessary for PJM’s 
+planning purposes. 
+ 
+4.0 Energy Imbalance Service:  The Network Customer will receive Energy Imbalance 
+Service from the Transmission Provider in accordance with Schedule 4 of the Tariff.  
+Energy Imbalance Service is considered to be PJM Interchange and will be charged at the 
+Locational Marginal Price determined pursuant to Tariff, Attachment K-Appendix, 
+section 2 and the parallel provision of Operating Agreement, Schedule 1, section 2. 
+ 
+5.0 Reconciliation Billing:  For Network Load within the PJM Region, to the extent required, 
+the Transmission Provider will reconcile the Network Customer’s hourly energy 
+responsibilities as initially reported to Transmission Provider and its hourly energy 
+consumption based on, or estimated from, metered usage, and provide corresponding 
+charges and credits to Network Customer.  Such reconciliation, if required, shall be made 
+at the applicable rate. 
+ 
+6.0 Designation of party subject to reciprocal service obligation:  The Network Customer 
+shall comply with Tariff, section 6. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 5 
+ 
+7.0 Charges:  Service under this Service Agreement may be subject to some combination of 
+the charges detailed below.  (The appropriate charges for individual transactions will be 
+determined in accordance with the terms and conditions of the Tariff.) 
+ 
+7.1 Embedded Cost Transmission Charge:  The embedded cost transmission charge 
+shall be determined in accordance with the formula set forth in Tariff, section 34. 
+ 
+7.2 System Impact and Facilities Study Charges:  To the extent a new resource is 
+added to, the PJM Region, a System Impact Study and/or Facilities Study 
+Agreement and related charges may be required pursuant to Tariff, section 32. 
+ 
+7.3 Direct Assignment Facilities Charge:  To the extent that facilities or portions of 
+facilities must be constructed by a Transmission Owner for the sole use or benefit 
+of the Network Customer to accommodate the service requested by the Network 
+Customer, the Network Customer shall be responsible for the cost of such Direct 
+Assignment Facilities, and the charges for such facilities shall be specified at the 
+time that the Transmission Provider determines the facilities that are needed to 
+provide the requested service. 
+ 
+7.4 Other Supporting Facilities Charge:  None.  
+ 
+7.5 [Reserved] 
+ 
+7.6 Other Charges:  Transmission Provider shall charge Network Customer any and 
+all other charges set forth in the Tariff applicable to providing Network 
+Integration Service.  
+ 
+7.7 Charges for Closed-Loop Hybrid Resources:  Hybrid Resources operating in PJM 
+Markets as Closed-Loop Hybrid Resources shall not be charged pursuant to this 
+Network Integration Transmission Service Agreement. 
+ 
+8.0 Designated Agent:  To the extent that a Designated Agent for one or more Network 
+Customers provides to the Transmission Provider any of the information required by 
+these Specifications, it shall provide the information separately for each Network 
+Customer. 
+ 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT Attachment F-2 
+Effective Date: 3/31/2025 - Docket #: ER25-1095-000 - Page 6 
+ 
+CERTIFICATION 
+ 
+ I, _______________________, certify that I am a duly authorized officer of 
+ 
+________________________________ (Network Customer) and that 
+ 
+________________________________ (Network Customer) will not request service under this 
+Service Agreement to assist an Eligible Customer to avoid the reciprocity provision of this Open-
+Access Transmission Tariff. 
+ 
+ 
+_________________________________ 
+(Name) 
+ 
+ 
+__________________________________ 
+(Name) 
+ 
+ 
+ Subscribed and sworn before me this ____ day of _________, _________. 
+ 
+___________________________________ 
+(Notary Public) 
+ 
+ 
+My Commission expires:_______________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-3 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 1 
+Service Agreement No. [Insert] 
+ 
+ATTACHMENT F-3 
+ 
+Service Agreement For 
+Regional Network Integration Transmission Service 
+ 
+1.0 This Service Agreement, dated as of the date the last party executes this agreement, is 
+entered into, by and between the Office of the Interconnection of PJM Interconnection, 
+L.L.C. (the Transmission Provider) as the administrator of the Tariff, PJM Settlement 
+Inc. (“Counterparty”) as the counterparty, and ____________ (“NetworkCustomer”). [If 
+applicable: This Service Agreement supersedes the Service Agreement among 
+Transmission Provider, Counterparty, and [insert prior Network Customer’s entity name], 
+[insert Service Agreement Number], effective date [insert], which was filed with the 
+Commission in Docket No. [insert].] 
+ 
+ 
+2.0 The Network Customer has been determined by the Transmission Provider to have a 
+valid request for Network Transmission Service under the Tariff and to have satisfied the 
+conditions for service imposed by the Tariff. 
+ 
+3.0 Service under this agreement shall commence on the later of: (l) the requested service 
+commencement date of ___________________, or (2) the date on which construction of 
+any Direct Assignment Facilities and/or Network Upgrades are completed, or (3) such 
+other date as it is permitted to become effective by the Commission.  Network Customer 
+taking Regional Network Integration Transmission Service shall take such service on 
+terms that do not expire.  
+ 
+Regional Network Integration Transmission Service shall terminate consistent with 
+Tariff, Part I, section 2.5. Specifically, Regional Network Integration Transmission 
+Service may be terminated where: (1) an incumbent Network Customer will be replaced 
+by a successor Network Customer, in which case the incumbent’s service shall only 
+terminate if the successor agrees to commence the taking of the service, the appropriate 
+service agreement is executed, and all other applicable terms and conditions of the PJM 
+Governing Agreements are satisfied; (2) an incumbent Network Customer seeks to 
+terminate its service and no successor Network Customer exists, in which case the 
+incumbent must provide PJM with forty-two (42) months’ notice prior to the 
+commencement of a Delivery Year, subject to receiving all necessary regulatory 
+approvals for such termination, if any; or (3) on such other date mutually agreed upon by 
+the Parties. 
+ 
+4.0 The Transmission Provider agrees to provide and the Network Customer agrees to take 
+and pay for Network Transmission Service in accordance with the provisions of the 
+Tariff, including the Network Operating Agreement (which is incorporated herein by 
+reference), and this Service Agreement as they may be amended from time to time. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-3 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 2 
+5.0   Any notice or request made to or by either Party regarding this Service Agreement shall 
+be made to the representative of the other Party as indicated below.   
+ 
+Transmission Provider  (on behalf of Transmission Provider and Counterparty): 
+ PJM Interconnection, L.L.C.  
+ 2750 Monroe Blvd. 
+ Audubon, PA 19403 
+ 
+Network Customer: 
+ 
+ _____________________________________ 
+ 
+ _____________________________________ 
+ 
+ _____________________________________ 
+ 
+6.0 The Tariff for Network Integration Transmission Service is incorporated herein and made 
+a part hereof.   
+ 
+IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by 
+their respective authorized officials. 
+ 
+Office of the Interconnection: 
+ 
+By: ______________________ _______________ ______________ 
+ Name                        Title       Date 
+ 
+Counterparty: 
+ 
+By: ______________________ _______________ ______________ 
+ Name    Title   Date 
+ 
+Network Customer: 
+ 
+By: ______________________ _______________ ______________ 
+ Name                        Title       Date 
+ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-3 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 3 
+CERTIFICATION 
+ 
+ I, ___________________________, certify that I am a duly authorized officer of 
+___________________________________ (Network Customer) and that 
+___________________________________ (Network Customer) will not request service under 
+this Service Agreement to assist an Eligible Customer to avoid the reciprocity provision of this 
+Open-Access Transmission Tariff. 
+ 
+_____________________________ 
+(Name) 
+ 
+_____________________________ 
+(Title) 
+ 
+ 
+ Subscribed and sworn before me this _____ day of _____________, _______. 
+ 
+_____________________________ 
+ 
+(Notary Public) 
+ 
+My Commission expires:_____________________ 
+  
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT F-3 
+Effective Date: 1/15/2024 - Docket #: ER24-402-001 - Page 4 
+SPECIFICATIONS FOR 
+REGIONAL NETWORK INTEGRATION TRANSMISSION SERVICE 
+ 
+1.0 Description of capacity and/or energy to be transmitted within the PJM Region (including 
+electric control area in which the transaction originates). 
+ 
+ ____________________________________________________________ 
+ 
+2.0 Network Resources:___________________________________________ 
+ 
+3.0 Network Load:_______________________________________________ 
+ 
+4.0 Designation of party subject to reciprocal service obligation: 
+___________________________________________________ 
+ 
+5.0  [Reserved] 
+ 
+6.0 Service under this Agreement may be subject to some combination of the charges 
+detailed below.  (The appropriate charges for individual transactions will be determined 
+in accordance with the terms and conditions of the tariff.) 
+ 
+ 6.1 Embedded Cost Transmission Charge:_______________________ 
+ 
+  ______________________________________________________ 
+ 
+ 6.2 Facilities Study Charge:__________________________________ 
+ 
+  ______________________________________________________ 
+ 
+ 6.3 Direct Assignment Facilities Charge:________________________ 
+ 
+  ______________________________________________________ 
+ 
+ 6.4 Ancillary Services Charge:________________________________ 
+ 
+  ______________________________________________________ 
+ 
+ 6.5 Other Supporting Facilities Charge:_________________________ 
+ 
+  ______________________________________________________ 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT ATTACHMENT G 
+Effective Date: 9/17/2010 - Docket #: ER10-2710-000 - Page 1 

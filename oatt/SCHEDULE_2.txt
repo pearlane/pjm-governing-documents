@@ -1,0 +1,162 @@
+SCHEDULE 2 
+Reactive Supply and Voltage Control from 
+Generation or Other Sources Service 
+ 
+In order to maintain transmission voltages on the Transmission Provider’s transmission facilities 
+within acceptable limits, generation facilities and non-generation resources capable of providing 
+this service that are under the control of the control area operator are operated to produce (or 
+absorb) reactive power.  Thus, Reactive Supply and Voltage Control from Generation or Other 
+Sources Service must be provided for each transaction on the Transmission Provider’s 
+transmission facilities.  The amount of Reactive Supply and Voltage Control from Generation or 
+Other Sources Service that must be supplied with respect to the Transmission Customer’s 
+transaction will be determined based on the reactive power support necessary to maintain 
+transmission voltages within limits that are generally accepted in the region and consistently 
+adhered to by the Transmission Provider. 
+ 
+Reactive Supply and Voltage Control from Generation or Other Sources Service is to be 
+provided directly by the Transmission Provider.  The Transmission Customer must purchase this 
+service from the Transmission Provider.  
+ 
+In addition to the charges and payments set forth in this Tariff, Schedule 2, Market Sellers 
+providing reactive services at the direction of the Office of the Interconnection shall be credited 
+for such services, and Market Participants shall be charged for such services, as set forth in 
+Tariff, Attachment K-Appendix, section 3.2.3B. 
+ 
+The Transmission Provider shall administer the purchases and sales of Reactive Supply.  
+PJMSettlement shall be the Counterparty to (a) the purchases of Reactive Supply from owners of 
+Generation or Other Sources and Market Sellers and (b) the sales of Reactive Supply to 
+Transmission Customers and Market Participants.   
+ 
+Charges 
+ 
+Purchasers of Reactive Supply and Voltage Control from Generation or Other Sources Service 
+shall be charged for such service in accordance with the following formulae.   
+ 
+Monthly Charge for a purchaser receiving Network Integration Transmission Service or 
+Point-to-Point Transmission Service to serve Non-Zone Load = Allocation Factor * Total 
+Generation Owner or other source owner Monthly Revenue Requirement 
+ 
+Monthly Charge for a purchaser receiving Network Integration Transmission Service or 
+Point-to-Point Transmission Service to serve Zone Load = Allocation Factor * Zonal 
+Generation Owner or other source owner Monthly Revenue Requirement * Adjustment 
+Factor 
+ 
+Where: 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 2 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 2 
+Purchaser serving Non-Zone Load is a Network Customer serving Non-Zone 
+Network Load or serving Network Load in a zone with no revenue requirement 
+for Reactive Supply and Voltage Control from Generation or Other Sources 
+Service, or a Transmission Customer where the Point of Delivery is at the 
+boundary of the PJM Region. 
+ 
+Zonal Generation Owner or other source owner Monthly Revenue Requirement is 
+the sum of the monthly revenue requirements for each generator or other source 
+located in a Zone, as such revenue requirements have been accepted or approved, 
+upon application, by the Commission. 
+ 
+Total Generation Owner or other source owner Monthly Revenue Requirement is 
+the sum of the Zonal Generation or other source owner Monthly Revenue 
+Requirements for all Zones in the PJM Region. 
+ 
+Allocation Factor is the monthly transmission use of each Network Customer or 
+Transmission Customer per Zone or Non-Zone, as applicable, on a megawatt 
+basis divided by the total transmission use in the Zone or in the PJM Region, as 
+applicable, on a megawatt basis. 
+ 
+For Network Customers, monthly transmission use on a megawatt basis is 
+the sum of a Network Customer’s daily values of DCPZ or DCPNZ (as 
+those terms are defined in Tariff, Part III, section 34.1) as applicable, for 
+all days of the month.   
+ 
+For Transmission Customers, monthly transmission use on a megawatt 
+basis is the sum of the Transmission Customer’s hourly amounts of 
+Reserved Capacity for each day of the month (not curtailed by PJM) 
+divided by the number of hours in the day. 
+ 
+Adjustment Factor is determined as the sum of the total monthly transmission use 
+in the PJM Region, exclusive of such use by Transmission Customers serving 
+Non-Zone Load, divided by the total monthly transmission use in the PJM Region 
+on a megawatt basis. 
+ 
+In the event that a single customer is serving load in more than one Zone, or serving Non-Zone 
+Load as well as load in one or more Zones, or is both a Network Customer and a Transmission 
+Customer, the Monthly Charge for such a customer shall be the sum of the Monthly Charges 
+determined by applying the appropriate formulae set forth in this Schedule 2 for each category of 
+service.  
+ 
+Payment to Generation or Other Source Owners 
+  
+Each month, the Transmission Provider shall pay each Generation Owner or other source owner 
+an amount equal to the Generation Owner’s or other source owner’s monthly revenue 
+requirement as accepted or approved by the Commission.  In the event a Generation Owner or 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 2 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 3 
+other source owner sells a generator or other source which is included in its current effective 
+monthly revenue requirement accepted or approved by the Commission,  payments in that 
+Generation Owner’s or other source owner’s Zone may be allocated as agreed to by the owners 
+of the generator or other source in that Zone.  Such Generation Owner or other source owners 
+shall inform the Transmission Provider of any such agreement and submit either a filing to revise 
+its cost-based rate or an informational filing in accordance with the requirements below in this 
+Schedule 2.  In the absence of agreement among such Generation Owners or other source 
+owners, the Commission, upon application, shall establish the allocation. Generation Owners 
+shall not be eligible for payment, pursuant to this Schedule 2, of monthly revenue requirement 
+associated with those portions of generating units designated as Behind The Meter Generation.  
+The Transmission Provider shall post on its website a list for each Zone of the annual revenue 
+requirements for each Generation Owner receiving payment within such Zone and specify the 
+total annual revenue requirement for all of the Transmission provider. 
+ 
+At least 90 days prior to the Deactivation Date or disposition date of a generator or other source 
+receiving payment in accordance with a Commission accepted or approved revenue requirement 
+for providing reactive supply and voltage control service under this Schedule 2, the Generation 
+Owner or other source owner must either:  
+ 
+(1) submit to the Commission the appropriate filings to terminate or revise its cost-based revenue 
+requirement for supplying reactive supply and voltage control service under this Schedule 2 to 
+account for the deactivated or transferred generator or other source; or  
+ 
+(2) provide to the Transmission Provider and file with the Commission an informational filing 
+that includes the following information: 
+ 
+(i) the acquisition date, Deactivation Date, and transfer date of the generator 
+or other source; 
+(ii) an explanation of the basis for the decision by the Generation Owner or 
+other source owner not to terminate or revise the cost-based rate approved 
+or accepted by the Commission associated with the planned generator or 
+other source deactivation or disposition; 
+(iii) a list of all of the generators or other sources covered by the Generation 
+Owner’s or other source owner’s cost-based tariff from the date the 
+revenue requirement was first established until the date of the 
+informational filing; 
+(iv) the type (i.e., fuel type and prime mover) of each generator or other 
+source; 
+(v) the actual (site-rated) megavolt-ampere reactive (“MVAR”) capability, 
+megavolt-ampere (“MVA”) capability, and megawatt capability of each 
+generator or other source, as supported by test data; and 
+(vi) the nameplate MVAR rating, nameplate MVA rating, nameplate megawatt 
+rating, and nameplate power factor for each generator or other source. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 2 
+Effective Date: 9/1/2018 - Docket #: ER18-1905-000 - Page 4 
+The Generation Owner or other source owner must submit the informational filing in the docket 
+in which its cost-based revenue requirement was approved or accepted by the Commission or as 
+otherwise directed by the Commission.   
+ 
+The requirement to submit the filings at least 90 days prior to the Deactivation Date or 
+disposition date of a generator or other source shall not apply to generators or other source 
+deactivations or transfers occurring between June 18, 2015, and September 16, 2015.  For 
+generator or other source deactivations or transfers occurring between June 18, 2015, and 
+September 16, 2015, the Generation Owner or other source owner shall submit the informational 
+filing or filings to terminate or revise its cost-based revenue requirement by September 16, 2015. 
+ 
+
+Intra-PJM Tariffs --> OPEN ACCESS TRANSMISSION TARIFF --> OATT VI. ADMINISTRATION AND STUDY OF NEW SERVICE 
+REQUESTS; R --> OATT SCHEDULE 3 
+Effective Date: 10/1/2025 - Docket #: ER24-1772-000 - Page 1 
